@@ -132,15 +132,19 @@ npm run preview
 
 - **Static Export**: Configured in `next.config.js` with `output: 'export'`
 - **Output Directory**: `out/` (default for Cloudflare Pages)
-- **Wrangler Config**: `wrangler.toml` contains basic Cloudflare Pages settings
+- **Build Command**: `npm run build`
+- **Build Output Directory**: `out`
 
-#### Environment Variables
+#### Cloudflare Pages Dashboard Settings
 
-If you need environment variables for your Cloudflare Pages deployment:
+1. **Build Settings**:
+   - Build command: `npm run build`
+   - Build output directory: `out`
+   - Root directory: `/` (leave empty)
 
-1. Go to your Cloudflare Pages dashboard
-2. Navigate to Settings → Environment Variables
-3. Add your required variables
+2. **Environment Variables** (if needed):
+   - Go to Settings → Environment Variables
+   - Add any required variables for your deployment
 
 ## Contributing
 
