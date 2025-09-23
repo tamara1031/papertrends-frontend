@@ -1,0 +1,64 @@
+---
+// ThemeToggle.astro - Astro component version
+---
+
+<button
+  id="theme-toggle"
+  class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-200"
+  aria-label="Switch theme"
+>
+  <i id="theme-icon" class="fas fa-moon text-gray-600 dark:text-gray-300"></i>
+</button>
+
+<script>
+  class ThemeToggle {
+    constructor() {
+      this.button = document.getElementById('theme-toggle');
+      this.icon = document.getElementById('theme-icon');
+      this.currentTheme = this.getInitialTheme();
+      
+      this.init();
+    }
+    
+    getInitialTheme() {
+      const savedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      return savedTheme || (prefersDark ? 'dark' : 'light');
+    }
+    
+    init() {
+      this.setTheme(this.currentTheme);
+      this.button?.addEventListener('click', () => this.toggleTheme());
+    }
+    
+    toggleTheme() {
+      const newTheme = this.currentTheme === 'light' ? 'dark' : 'light';
+      this.setTheme(newTheme);
+    }
+    
+    setTheme(theme: 'light' | 'dark') {
+      this.currentTheme = theme;
+      localStorage.setItem('theme', theme);
+      document.documentElement.classList.toggle('dark', theme === 'dark');
+      
+      // Update icon
+      if (this.icon) {
+        if (theme === 'light') {
+          this.icon.className = 'fas fa-moon text-gray-600 dark:text-gray-300';
+        } else {
+          this.icon.className = 'fas fa-sun text-yellow-500';
+        }
+      }
+      
+      // Update aria-label
+      if (this.button) {
+        this.button.setAttribute('aria-label', `Switch to ${theme === 'light' ? 'dark' : 'light'} theme`);
+      }
+    }
+  }
+  
+  // Initialize when DOM is ready
+  document.addEventListener('DOMContentLoaded', () => {
+    new ThemeToggle();
+  });
+</script>
