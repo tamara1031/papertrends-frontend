@@ -1,0 +1,36 @@
+---
+import { ThemeToggle } from '../ui/ThemeToggle';
+---
+
+<header class="bg-white dark:bg-gray-900 shadow-sm border-b border-gray-200 dark:border-gray-700">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-16">
+      <!-- Logo and Navigation -->
+      <div class="flex items-center space-x-8">
+        <a href="/" class="flex items-center space-x-2">
+          <div class="w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
+            <i class="fas fa-chart-line text-white text-sm"></i>
+          </div>
+          <span class="text-xl font-bold text-gray-900 dark:text-white">PaperTrends</span>
+        </a>
+        
+        <nav class="hidden md:flex space-x-6">
+          <a href="/" class="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
+            Home
+          </a>
+          <a href="/how-it-works" class="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
+            How it Works
+          </a>
+          <a href="/acknowledgments" class="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
+            Acknowledgments
+          </a>
+        </nav>
+      </div>
+      
+      <!-- Theme Toggle -->
+      <div class="flex items-center space-x-4">
+        <ThemeToggle client:load />
+      </div>
+    </div>
+  </div>
+</header>

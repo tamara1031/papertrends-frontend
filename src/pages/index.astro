@@ -1,0 +1,156 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
+---
+
+<Layout title="PaperTrends - Academic Research Trend Analysis">
+  <Header />
+  
+  <main class="min-h-screen bg-white dark:bg-gray-900">
+    <!-- Hero Section -->
+    <section class="relative bg-gradient-to-br from-blue-50 to-purple-50 dark:from-gray-900 dark:to-gray-800 py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center">
+          <h1 class="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
+            Academic Research
+            <span class="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+              Trend Analysis
+            </span>
+          </h1>
+          <p class="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
+            Visualize research trends, discover insights, and explore the evolution of academic knowledge across domains using interactive data visualizations.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="/category/cs" class="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors">
+              <i class="fas fa-chart-line mr-2"></i>
+              Explore Computer Science
+            </a>
+            <a href="/category/math" class="inline-flex items-center px-6 py-3 bg-white dark:bg-gray-800 text-gray-900 dark:text-white font-medium rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+              <i class="fas fa-calculator mr-2"></i>
+              Explore Mathematics
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="py-20 bg-white dark:bg-gray-900">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">
+            Powerful Visualization Methods
+          </h2>
+          <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+            Two main visualization approaches to explore research trends and patterns
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+          <!-- Circle Packing -->
+          <div class="text-center">
+            <div class="w-16 h-16 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center mx-auto mb-6">
+              <i class="fas fa-circle text-white text-2xl"></i>
+            </div>
+            <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+              Circle Packing
+            </h3>
+            <p class="text-gray-600 dark:text-gray-300 mb-6">
+              Hierarchical representation of topics and keywords using circular packing. Explore the relationships between research areas and discover emerging themes.
+            </p>
+            <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-6">
+              <div class="w-full h-48 bg-gradient-to-br from-blue-100 to-purple-100 dark:from-gray-700 dark:to-gray-600 rounded-lg flex items-center justify-center">
+                <i class="fas fa-chart-pie text-4xl text-gray-400"></i>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Theme River -->
+          <div class="text-center">
+            <div class="w-16 h-16 bg-gradient-to-r from-green-500 to-teal-600 rounded-2xl flex items-center justify-center mx-auto mb-6">
+              <i class="fas fa-wave-square text-white text-2xl"></i>
+            </div>
+            <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+              Theme River
+            </h3>
+            <p class="text-gray-600 dark:text-gray-300 mb-6">
+              Track the evolution of research fields over time. See how topics rise and fall in popularity across different periods.
+            </p>
+            <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-6">
+              <div class="w-full h-48 bg-gradient-to-br from-green-100 to-teal-100 dark:from-gray-700 dark:to-gray-600 rounded-lg flex items-center justify-center">
+                <i class="fas fa-chart-area text-4xl text-gray-400"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="py-20 bg-gray-50 dark:bg-gray-800">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">
+            Explore Research Categories
+          </h2>
+          <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+            Dive into specific research domains and discover trends across different fields
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+          <a href="/category/cs" class="group bg-white dark:bg-gray-900 rounded-xl p-6 text-center hover:shadow-lg transition-all duration-300">
+            <div class="w-12 h-12 bg-gradient-cs rounded-lg flex items-center justify-center mx-auto mb-4">
+              <i class="fas fa-laptop-code text-white text-xl"></i>
+            </div>
+            <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Computer Science</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-400">AI, ML, Systems</p>
+          </a>
+          
+          <a href="/category/math" class="group bg-white dark:bg-gray-900 rounded-xl p-6 text-center hover:shadow-lg transition-all duration-300">
+            <div class="w-12 h-12 bg-gradient-math rounded-lg flex items-center justify-center mx-auto mb-4">
+              <i class="fas fa-calculator text-white text-xl"></i>
+            </div>
+            <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Mathematics</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-400">Algebra, Analysis</p>
+          </a>
+          
+          <a href="/category/physics" class="group bg-white dark:bg-gray-900 rounded-xl p-6 text-center hover:shadow-lg transition-all duration-300">
+            <div class="w-12 h-12 bg-gradient-physics rounded-lg flex items-center justify-center mx-auto mb-4">
+              <i class="fas fa-atom text-white text-xl"></i>
+            </div>
+            <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Physics</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-400">Quantum, Relativity</p>
+          </a>
+          
+          <a href="/category/bio" class="group bg-white dark:bg-gray-900 rounded-xl p-6 text-center hover:shadow-lg transition-all duration-300">
+            <div class="w-12 h-12 bg-gradient-bio rounded-lg flex items-center justify-center mx-auto mb-4">
+              <i class="fas fa-dna text-white text-xl"></i>
+            </div>
+            <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Biology</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-400">Genetics, Evolution</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-20 bg-gradient-to-r from-blue-600 to-purple-600">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">
+          Ready to Explore Research Trends?
+        </h2>
+        <p class="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
+          Start your journey into academic research analysis with our interactive visualizations
+        </p>
+        <a href="/category/cs" class="inline-flex items-center px-8 py-4 bg-white text-blue-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors">
+          <i class="fas fa-rocket mr-2"></i>
+          Get Started
+        </a>
+      </div>
+    </section>
+  </main>
+  
+  <Footer />
+</Layout>

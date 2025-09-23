@@ -1,16 +1,16 @@
 // Data exports
-export * from './data'
-
-// Context exports
-export * from './contexts'
+export * from './data';
 
 // Type exports
-export * from './types'
+export * from './types';
 
 // Utility exports
-export * from './utils/'
+export * from './utils';
+
+// Theme exports
+export * from './themes/theme';
 
 // Specific exports for backward compatibility
-export { arxivCategories } from './data/arxiv-categories'
-export { topicModelingInfo } from './data/arxiv-categories'
-export { getColorScale } from './utils/colorScale'
+export { arxivCategories } from './data/arxiv-categories';
+export { topicModelingInfo } from './data/arxiv-categories';
+export { getColorScale } from './utils/colorScale';

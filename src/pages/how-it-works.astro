@@ -1,0 +1,154 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
+---
+
+<Layout title="How it Works" canonical="/how-it-works">
+  <Header />
+  
+  <main class="min-h-screen bg-white dark:bg-gray-900">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <div class="text-center mb-16">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+          How PaperTrends Works
+        </h1>
+        <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+          Understanding the methodology behind our research trend analysis and visualization platform
+        </p>
+      </div>
+
+      <div class="space-y-16">
+        <!-- Data Collection -->
+        <section>
+          <div class="flex items-start space-x-6">
+            <div class="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center flex-shrink-0">
+              <i class="fas fa-database text-blue-600 dark:text-blue-400 text-xl"></i>
+            </div>
+            <div>
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+                Data Collection
+              </h2>
+              <p class="text-gray-600 dark:text-gray-300 mb-4">
+                We collect research papers from arXiv, one of the largest repositories of academic preprints. Our system processes papers across multiple categories including Computer Science, Mathematics, Physics, Biology, and more.
+              </p>
+              <ul class="list-disc list-inside text-gray-600 dark:text-gray-300 space-y-2">
+                <li>Automated paper collection from arXiv API</li>
+                <li>Metadata extraction (title, abstract, authors, categories)</li>
+                <li>Text preprocessing and cleaning</li>
+                <li>Category-based organization</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <!-- Topic Modeling -->
+        <section>
+          <div class="flex items-start space-x-6">
+            <div class="w-12 h-12 bg-green-100 dark:bg-green-900 rounded-lg flex items-center justify-center flex-shrink-0">
+              <i class="fas fa-brain text-green-600 dark:text-green-400 text-xl"></i>
+            </div>
+            <div>
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+                Topic Modeling
+              </h2>
+              <p class="text-gray-600 dark:text-gray-300 mb-4">
+                Using advanced natural language processing techniques, we identify key topics and themes within each research category. Our topic modeling approach helps uncover hidden patterns in academic research.
+              </p>
+              <ul class="list-disc list-inside text-gray-600 dark:text-gray-300 space-y-2">
+                <li>Latent Dirichlet Allocation (LDA) for topic extraction</li>
+                <li>Keyword frequency analysis</li>
+                <li>Topic correlation mapping</li>
+                <li>Temporal trend analysis</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <!-- Visualization -->
+        <section>
+          <div class="flex items-start space-x-6">
+            <div class="w-12 h-12 bg-purple-100 dark:bg-purple-900 rounded-lg flex items-center justify-center flex-shrink-0">
+              <i class="fas fa-chart-line text-purple-600 dark:text-purple-400 text-xl"></i>
+            </div>
+            <div>
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+                Interactive Visualization
+              </h2>
+              <p class="text-gray-600 dark:text-gray-300 mb-4">
+                We present the analyzed data through two main visualization methods, each offering unique insights into research trends and patterns.
+              </p>
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4">
+                  <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Circle Packing</h3>
+                  <p class="text-sm text-gray-600 dark:text-gray-300">
+                    Hierarchical representation showing topic relationships and keyword distributions
+                  </p>
+                </div>
+                <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4">
+                  <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Theme River</h3>
+                  <p class="text-sm text-gray-600 dark:text-gray-300">
+                    Temporal visualization tracking topic evolution over time
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Technology Stack -->
+        <section>
+          <div class="flex items-start space-x-6">
+            <div class="w-12 h-12 bg-orange-100 dark:bg-orange-900 rounded-lg flex items-center justify-center flex-shrink-0">
+              <i class="fas fa-code text-orange-600 dark:text-orange-400 text-xl"></i>
+            </div>
+            <div>
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+                Technology Stack
+              </h2>
+              <p class="text-gray-600 dark:text-gray-300 mb-4">
+                Built with modern web technologies for optimal performance and user experience.
+              </p>
+              <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6">
+                <div class="text-center">
+                  <div class="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center mx-auto mb-2">
+                    <i class="fab fa-react text-blue-600 dark:text-blue-400 text-xl"></i>
+                  </div>
+                  <p class="text-sm font-medium text-gray-900 dark:text-white">Astro</p>
+                </div>
+                <div class="text-center">
+                  <div class="w-12 h-12 bg-green-100 dark:bg-green-900 rounded-lg flex items-center justify-center mx-auto mb-2">
+                    <i class="fab fa-js-square text-green-600 dark:text-green-400 text-xl"></i>
+                  </div>
+                  <p class="text-sm font-medium text-gray-900 dark:text-white">D3.js</p>
+                </div>
+                <div class="text-center">
+                  <div class="w-12 h-12 bg-purple-100 dark:bg-purple-900 rounded-lg flex items-center justify-center mx-auto mb-2">
+                    <i class="fas fa-palette text-purple-600 dark:text-purple-400 text-xl"></i>
+                  </div>
+                  <p class="text-sm font-medium text-gray-900 dark:text-white">Tailwind</p>
+                </div>
+                <div class="text-center">
+                  <div class="w-12 h-12 bg-gray-100 dark:bg-gray-900 rounded-lg flex items-center justify-center mx-auto mb-2">
+                    <i class="fas fa-cloud text-gray-600 dark:text-gray-400 text-xl"></i>
+                  </div>
+                  <p class="text-sm font-medium text-gray-900 dark:text-white">Cloudflare</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- CTA -->
+      <div class="mt-16 text-center">
+        <a href="/category/cs" class="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors">
+          <i class="fas fa-rocket mr-2"></i>
+          Start Exploring
+        </a>
+      </div>
+    </div>
+  </main>
+  
+  <Footer />
+</Layout>

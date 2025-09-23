@@ -34,7 +34,6 @@ export interface Category {
   subcategoryGroups: SubcategoryGroup[];
 }
 
-
 // Analysis data types
 export interface AnalysisData {
   topics: {
@@ -65,4 +64,23 @@ export interface AnalysisData {
   };
 }
 
-// Note: Analysis data is now loaded via JSON files instead of global window objects
+// Topic data for charts
+export interface TopicData {
+  id: string;
+  name: string;
+  count: number;
+  keywords: [string, number][];
+}
+
+// Dashboard state
+export interface DashboardState {
+  selectedTopic: string | null;
+  selectedYear: string | null;
+  viewMode: 'bubble' | 'river';
+}
+
+export interface DashboardHandlers {
+  handleTopicSelect: (topicId: string | null) => void;
+  handleYearSelect: (year: string | null) => void;
+  handleViewModeChange: (mode: 'bubble' | 'river') => void;
+}

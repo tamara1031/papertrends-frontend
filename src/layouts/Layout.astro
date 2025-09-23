@@ -1,0 +1,91 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+  keywords?: string;
+  canonical?: string;
+}
+
+const { 
+  title, 
+  description = 'Visualize academic research trends and discover insights across research domains. Open source platform for comprehensive research analysis.',
+  keywords = 'research trends, academic analysis, data visualization, open source, research insights',
+  canonical
+} = Astro.props;
+
+const siteTitle = title === 'PaperTrends' ? 'PaperTrends' : `${title} | PaperTrends`;
+const siteDescription = description;
+const siteKeywords = keywords;
+const siteUrl = Astro.site || 'http://localhost:4321';
+const canonicalUrl = canonical ? `${siteUrl}${canonical}` : Astro.url.href;
+---
+
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={siteDescription} />
+    <meta name="keywords" content={siteKeywords} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    
+    <!-- SEO Meta Tags -->
+    <title>{siteTitle}</title>
+    <meta name="description" content={siteDescription} />
+    <meta name="keywords" content={siteKeywords} />
+    <link rel="canonical" href={canonicalUrl} />
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={siteDescription} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:site_name" content="PaperTrends" />
+    
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={siteTitle} />
+    <meta name="twitter:description" content={siteDescription} />
+    <meta name="twitter:creator" content="@papertrends" />
+    
+    <!-- Robots Meta Tags -->
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  </head>
+  <body class="h-full font-sans antialiased">
+    <div id="app" class="min-h-full">
+      <slot />
+    </div>
+  </body>
+</html>
+
+<style>
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  body {
+    background-color: #ffffff;
+    color: #1f2937;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #111827;
+      color: #f9fafb;
+    }
+  }
+  
+  .dark body {
+    background-color: #111827;
+    color: #f9fafb;
+  }
+</style>
