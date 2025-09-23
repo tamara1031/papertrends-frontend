@@ -81,7 +81,7 @@ export default function CategoryPage({ categoryId }: CategoryPageProps) {
                     <i className={`${group.emoji} mr-3`}></i>
                     {group.name}
                   </h3>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                     {group.subcategories.map((subcategory, subIndex) => (
                       <Link
                         key={subcategory.id}

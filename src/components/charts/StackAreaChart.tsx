@@ -1,155 +1,248 @@
 'use client'
 
-import { useEffect, useRef, useCallback } from 'react'
+import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
-import { getColorScale } from '@/lib'
+
 interface StackAreaChartData {
-  categories: string[];
-  data: Array<[string, ...number[]]>;
+  series: {
+    [year: string]: number[]
+  }
+  topics: {
+    [topic_id: string]: {
+      name: string
+      count: number
+    }
+  }
 }
 
 interface StackAreaChartProps {
   data: StackAreaChartData
+  width?: number
+  height?: number
+  legendContainer?: React.RefObject<HTMLDivElement>
 }
 
-export function StackAreaChart({ 
-  data
-}: StackAreaChartProps) {
+export function StackAreaChart({ data, width, height, legendContainer }: StackAreaChartProps) {
   const containerRef = useRef<HTMLDivElement>(null)
+  const svgRef = useRef<HTMLDivElement>(null)
+  const legendRef = legendContainer || useRef<HTMLDivElement>(null)
 
-  const renderChart = useCallback(() => {
-    if (!containerRef.current || !data) return
+  useEffect(() => {
+    if (!data?.series || !data?.topics) return
 
-    const container = d3.select(containerRef.current)
-    container.selectAll("*").remove()
+    const createChart = () => {
+      // Clear previous chart
+      if (svgRef.current) {
+        svgRef.current.innerHTML = ''
+      }
+      if (legendRef.current) {
+        legendRef.current.innerHTML = ''
+      }
 
-    const containerRect = containerRef.current.getBoundingClientRect()
-    const totalWidth = Math.max(containerRect.width, 300)
-    const height = Math.max(containerRect.height || 300, 300)
-    
-    const margin = {
-      top: 50,
-      right: 40,
-      bottom: 60,
-      left: 60
-    }
+      // Get container dimensions
+      const container = containerRef.current
+      if (!container) return
 
-    const svg = container
-      .append("svg")
-      .attr("width", "100%")
-      .attr("height", "100%")
-      .attr("viewBox", `0 0 ${totalWidth} ${height}`)
-      .attr("preserveAspectRatio", "xMidYMid meet")
-      .style("max-width", "100%")
-      .style("max-height", "100%")
-      .style("display", "block")
+      const containerRect = container.getBoundingClientRect()
+      const containerWidth = width || containerRect.width || 300
+      const containerHeight = height || containerRect.height || 256
 
-    // Convert data to D3 format
-    const rawData = data.data.map(row => {
-      const [month, ...values] = row
-      const obj: any = { date: new Date(month + '-01') }
-      data.categories.forEach((category, index) => {
-        obj[category] = values[index] || 0
+      const margin = { top: 20, right: 20, bottom: 30, left: 40 }
+
+      const svg = d3.select(svgRef.current)
+        .append('svg')
+        .attr('width', containerWidth)
+        .attr('height', containerHeight)
+        .attr('viewBox', [0, 0, containerWidth, containerHeight])
+
+    // Prepare data
+    const seriesData = data.series
+    const years = Object.keys(seriesData).sort()
+    const topics = Object.keys(data.topics)
+
+    // Create stacked data
+    const chartData = years.map(year => {
+      const obj: { [key: string]: number | string } = { year }
+      topics.forEach(topic => {
+        const topicIndex = parseInt(topic)
+        obj[topic] = seriesData[year]?.[topicIndex] || 0
       })
       return obj
     })
 
-    const x = d3.scaleTime()
-      .domain(d3.extent(rawData, d => d.date) as [Date, Date])
-      .range([margin.left, totalWidth - margin.right])
+    // Apply 6-month moving average
+    const movingAverageData = chartData.map((d, index) => {
+      const obj: { [key: string]: number | string } = { year: d.year }
+      
+      topics.forEach(topic => {
+        const topicIndex = parseInt(topic)
+        let sum = 0
+        let count = 0
+        
+        // Calculate 6-month moving average (including current month and 5 previous months)
+        for (let i = Math.max(0, index - 5); i <= index; i++) {
+          const value = chartData[i][topic] as number
+          sum += value
+          count++
+        }
+        
+        obj[topic] = count > 0 ? sum / count : 0
+      })
+      
+      return obj
+    })
 
-    const y = d3.scaleLinear()
-      .domain([0, d3.max(rawData, d => 
-        d3.sum(data.categories, category => d[category] || 0)
-      ) as number])
-      .range([height - margin.bottom, margin.top])
-
-    const color = getColorScale(data.categories)
-    
-    const chartGroup = svg.append("g")
-      .attr("class", "chart-group")
-
+    // Stack the data
     const stack = d3.stack()
-      .keys(data.categories)
+      .keys(topics)
+      .order(d3.stackOrderNone)
+      .offset(d3.stackOffsetNone)
 
-    const series = stack(rawData as any)
+    const stackedData = stack(movingAverageData as any)
 
-    // Create area generator
-    const area = d3.area()
-      .x((d: any) => x(d.data.date))
-      .y0((d: any) => y(d[0]))
-      .y1((d: any) => y(d[1]))
-      .curve(d3.curveCardinal.tension(0.9))
+    // Scales
+    const xScale = d3.scaleBand()
+      .domain(years)
+      .range([margin.left, containerWidth - margin.right])
+      .padding(0.1)
+
+    const yScale = d3.scaleLinear()
+      .domain([0, d3.max(stackedData, d => d3.max(d, d => d[1])) || 0])
+      .range([containerHeight - margin.bottom, margin.top])
+
+    // Colors
+    const colors = [
+      '#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6',
+      '#06B6D4', '#84CC16', '#F97316', '#EC4899', '#6366F1'
+    ]
+    const colorScale = d3.scaleOrdinal(colors)
+
+    // Area generator
+    const area = d3.area<any>()
+      .x(d => (xScale(d.data.year) || 0) + (xScale.bandwidth() || 0) / 2)
+      .y0(d => yScale(d[0]))
+      .y1(d => yScale(d[1]))
+      .curve(d3.curveMonotoneX)
 
     // Draw areas
-    chartGroup.selectAll("path")
-      .data(series)
-      .enter().append("path")
-      .attr("fill", (d: any) => color(d.key))
-      .attr("d", area as any)
-      .attr("opacity", 0.8)
-      // Click interaction removed
-
-    // X axis
-    const xAxis = chartGroup.append("g")
-      .attr("transform", `translate(0,${height - margin.bottom})`)
-
-    xAxis.call(d3.axisBottom(x)
-      .tickFormat((d: any) => {
-        const date = new Date(d)
-        return date.getFullYear().toString()
+    svg.selectAll('.area')
+      .data(stackedData)
+      .join('path')
+      .attr('class', 'area')
+      .attr('d', area)
+      .attr('fill', (d, i) => colorScale(topics[i]))
+      .attr('fill-opacity', 0.7)
+      .style('cursor', 'pointer')
+      .on('mouseenter', function(event, d) {
+        d3.select(this)
+          .transition()
+          .duration(200)
+          .attr('fill-opacity', 0.9)
       })
-    )
+      .on('mouseleave', function(event, d) {
+        d3.select(this)
+          .transition()
+          .duration(200)
+          .attr('fill-opacity', 0.7)
+      })
 
-    xAxis.selectAll("text")
-      .style("font-size", "0.75rem")
-      .style("fill", "#6b7280")
-
-    xAxis.selectAll("line, path")
-      .style("stroke", "#e5e7eb")
-      .style("stroke-width", 1)
+    // X axis - only show January labels
+    svg.append('g')
+      .attr('transform', `translate(0,${containerHeight - margin.bottom})`)
+      .call(d3.axisBottom(xScale)
+        .tickFormat(d => {
+          // Only show labels for January (month ending with '01')
+          return String(d).endsWith('01') ? String(d) : ''
+        })
+      )
+      .selectAll('text')
+      .style('font-size', Math.max(8, containerWidth * 0.02) + 'px')
+      .style('fill', '#6B7280')
 
     // Y axis
-    const yAxis = chartGroup.append("g")
-      .attr("transform", `translate(${margin.left},0)`)
+    svg.append('g')
+      .attr('transform', `translate(${margin.left},0)`)
+      .call(d3.axisLeft(yScale))
+      .selectAll('text')
+      .style('font-size', Math.max(8, containerWidth * 0.02) + 'px')
+      .style('fill', '#6B7280')
 
-    yAxis.call(d3.axisLeft(y)
-      .tickFormat(d3.format(".0f"))
-    )
+    // Create legend
+    if (legendRef.current) {
+      const legendItems = d3.select(legendRef.current)
+        .selectAll('.legend-item')
+        .data(topics) // Show all topics
+        .join('div')
+        .attr('class', 'legend-item flex items-start space-x-1.5 sm:space-x-2 py-0.5 sm:py-1')
 
-    yAxis.selectAll("text")
-      .style("font-size", "0.75rem")
-      .style("fill", "#6b7280")
+      legendItems.selectAll('.legend-color').remove()
+      legendItems.selectAll('.legend-text').remove()
 
-    yAxis.selectAll("line, path")
-      .style("stroke", "#e5e7eb")
-      .style("stroke-width", 1)
-  }, [data])
+      legendItems.append('div')
+        .attr('class', 'legend-color w-2.5 h-2.5 sm:w-3 sm:h-3 rounded flex-shrink-0 mt-0.5')
+        .style('background-color', (d, i) => colorScale(d))
+        .style('opacity', 0.7)
 
-
-  useEffect(() => {
-    renderChart()
-    
-    const handleResize = () => {
-      renderChart()
+      legendItems.append('span')
+        .attr('class', 'legend-text text-xs text-slate-600 dark:text-slate-400 break-words overflow-hidden')
+        .style('word-wrap', 'break-word')
+        .style('overflow-wrap', 'break-word')
+        .text(d => {
+          const topic = data.topics[d]
+          if (!topic) return `Topic ${d}`
+          
+          // Responsive text truncation based on container size
+          const containerWidth = containerRect.width
+          let maxLength = 24 // Default for large screens
+          
+          if (containerWidth < 640) { // sm breakpoint
+            maxLength = 18 // Shorter for mobile to fit better in 2-column grid
+          } else if (containerWidth < 768) { // md breakpoint
+            maxLength = 20
+          }
+          
+          const name = topic.name
+          return name.length > maxLength ? name.substring(0, maxLength) + '...' : name
+        })
+      }
     }
-    
-    window.addEventListener('resize', handleResize)
-    
+
+    // Create initial chart
+    createChart()
+
+    // Set up ResizeObserver for responsive behavior
+    const resizeObserver = new ResizeObserver(() => {
+      createChart()
+    })
+
+    if (containerRef.current) {
+      resizeObserver.observe(containerRef.current)
+    }
+
     return () => {
-      window.removeEventListener('resize', handleResize)
+      resizeObserver.disconnect()
     }
-  }, [renderChart])
+  }, [data, width, height])
+
+  // Check if data is available
+  const hasData = data?.series && data?.topics && Object.keys(data.series).length > 0 && Object.keys(data.topics).length > 0
+
+  if (!hasData) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <div className="text-center">
+          <div className="w-12 h-12 bg-slate-100 dark:bg-slate-700 rounded-full flex items-center justify-center mx-auto mb-3">
+            <i className="fas fa-chart-area text-slate-400 text-xl"></i>
+          </div>
+          <p className="text-slate-500 dark:text-slate-400 text-sm">N/A</p>
+        </div>
+      </div>
+    )
+  }
 
   return (
-    <div 
-      ref={containerRef} 
-      className="w-full h-full relative flex items-end justify-center flex-1" 
-      style={{ 
-        overflow: 'hidden',
-        height: '100%',
-        minHeight: '250px' // Ensure minimum height for mobile devices
-      }} 
-    />
+    <div ref={containerRef} className="w-full h-full">
+      <div ref={svgRef} className="w-full h-full"></div>
+    </div>
   )
 }

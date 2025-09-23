@@ -41,7 +41,7 @@ export interface AnalysisData {
     data: {
       [topic_id: string]: {
         name: string;
-        keywords: string[];
+        keywords: [string, number][];  // [キーワード, 頻度]のタプル配列
         count: number;
       };
     };
