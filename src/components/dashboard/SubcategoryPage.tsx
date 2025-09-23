@@ -282,20 +282,27 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-4">
           {/* Topic Analysis - Left 2 columns */}
           <div className="col-span-1 lg:col-span-2">
-            <div className="bg-white dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 p-4 h-[32rem] sm:h-[36rem] md:h-[40rem] lg:h-[32rem]">
-              <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200 mb-4">Topic Analysis</h3>
-              {analysisData?.topics?.data && (
-                <div className="w-full h-full min-h-0">
-                  <BubbleChart 
-                    data={Object.entries(analysisData.topics.data).map(([id, topic]) => ({
-                      id,
-                      name: topic.name,
-                      count: topic.count,
-                      keywords: topic.keywords || []
-                    }))}
-                  />
-                </div>
-              )}
+            <div className="bg-white dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 h-[32rem] sm:h-[36rem] md:h-[40rem] lg:h-[32rem] flex flex-col">
+              {/* Title Container */}
+              <div className="p-4 pb-0 flex-shrink-0">
+                <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200">Topic Analysis</h3>
+              </div>
+              
+              {/* Content Container */}
+              <div className="flex-1 p-4 pt-2 min-h-0">
+                {analysisData?.topics?.data && (
+                  <div className="w-full h-full min-h-0">
+                    <BubbleChart 
+                      data={Object.entries(analysisData.topics.data).map(([id, topic]) => ({
+                        id,
+                        name: topic.name,
+                        count: topic.count,
+                        keywords: topic.keywords || []
+                      }))}
+                    />
+                  </div>
+                )}
+              </div>
             </div>
           </div>
 
