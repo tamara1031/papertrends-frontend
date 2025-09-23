@@ -1,0 +1,4 @@
+# Cloudflare Pages configuration for Next.js static export
+name = "papertrends-frontend"
+compatibility_date = "2024-01-01"
+

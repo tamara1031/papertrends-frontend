@@ -1,0 +1,7 @@
+# Cloudflare Pages redirects for Next.js static export
+# Handle trailing slashes for static export
+/category/* /category/:splat/ 200
+/category/:categoryId/* /category/:categoryId/:splat/ 200
+
+# Fallback for client-side routing (SPA behavior)
+/* /index.html 200
