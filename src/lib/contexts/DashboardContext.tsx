@@ -10,13 +10,19 @@ export interface DashboardContextType {
   }
   handlers: {
     handleClearSelection: () => void
+    handleTopicSelect: (topicId: string | null) => void
+    handleCategorySelect: (categoryId: string | null) => void
   }
 }
 
 const DashboardContext = createContext<DashboardContextType | null>(null)
 
 export function DashboardProvider({ children }: { children: React.ReactNode }) {
-  const [state, setState] = useState({
+  const [state, setState] = useState<{
+    selectedTopic: string | null
+    selectedCategory: string | null
+    isFiltered: boolean
+  }>({
     selectedTopic: null,
     selectedCategory: null,
     isFiltered: false
@@ -31,8 +37,33 @@ export function DashboardProvider({ children }: { children: React.ReactNode }) {
     })
   }, [])
 
+  // Topic selection handler
+  const handleTopicSelect = useCallback((topicId: string | null) => {
+    setState(prev => ({
+      ...prev,
+      selectedTopic: topicId,
+      isFiltered: topicId !== null
+    }))
+  }, [])
+
+  // Category selection handler
+  const handleCategorySelect = useCallback((categoryId: string | null) => {
+    setState(prev => ({
+      ...prev,
+      selectedCategory: categoryId,
+      isFiltered: categoryId !== null
+    }))
+  }, [])
+
   return (
-    <DashboardContext.Provider value={{ state, handlers: { handleClearSelection } }}>
+    <DashboardContext.Provider value={{ 
+      state, 
+      handlers: { 
+        handleClearSelection, 
+        handleTopicSelect, 
+        handleCategorySelect 
+      } 
+    }}>
       {children}
     </DashboardContext.Provider>
   )

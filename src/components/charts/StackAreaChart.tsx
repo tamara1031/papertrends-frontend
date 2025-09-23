@@ -2,6 +2,9 @@
 
 import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
+import { useTheme } from '@/lib/contexts/ThemeContext'
+import { useDashboard } from '@/lib/contexts/DashboardContext'
+import { getChartTheme, getColorByIndex, getFontSize, getSpacing, getSelectionColor, getOpacity } from '@/lib/styles/chartDesignSystem'
 
 interface StackAreaChartData {
   series: {
@@ -26,6 +29,9 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
   const containerRef = useRef<HTMLDivElement>(null)
   const svgRef = useRef<HTMLDivElement>(null)
   const legendRef = legendContainer || useRef<HTMLDivElement>(null)
+  const { theme } = useTheme()
+  const { state, handlers } = useDashboard()
+  const chartTheme = getChartTheme(theme === 'dark')
 
   useEffect(() => {
     if (!data?.series || !data?.topics) return
@@ -47,7 +53,12 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
       const containerWidth = width || containerRect.width || 300
       const containerHeight = height || containerRect.height || 256
 
-      const margin = { top: 20, right: 20, bottom: 30, left: 40 }
+      const margin = { 
+        top: getSpacing('lg', chartTheme), 
+        right: getSpacing('lg', chartTheme), 
+        bottom: getSpacing('xl', chartTheme), 
+        left: getSpacing('xl', chartTheme) 
+      }
 
       const svg = d3.select(svgRef.current)
         .append('svg')
@@ -110,12 +121,11 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
       .domain([0, d3.max(stackedData, d => d3.max(d, d => d[1])) || 0])
       .range([containerHeight - margin.bottom, margin.top])
 
-    // Colors
-    const colors = [
-      '#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6',
-      '#06B6D4', '#84CC16', '#F97316', '#EC4899', '#6366F1'
-    ]
-    const colorScale = d3.scaleOrdinal(colors)
+    // Enterprise-grade colors
+    const colorScale = d3.scaleOrdinal(chartTheme.colors.primary)
+    
+    // 選択状態に応じて全体のフィルタを適用
+    const hasSelection = state.selectedTopic !== null
 
     // Area generator
     const area = d3.area<any>()
@@ -130,20 +140,46 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
       .join('path')
       .attr('class', 'area')
       .attr('d', area)
-      .attr('fill', (d, i) => colorScale(topics[i]))
-      .attr('fill-opacity', 0.7)
+      .attr('fill', (d, i) => colorScale(topics[i])) // 常に元のカラーパレットを使用
+      .attr('fill-opacity', (d, i) => {
+        const topicId = topics[i]
+        const isSelected = state.selectedTopic === topicId
+        if (hasSelection) {
+          return isSelected ? 1.0 : 0.15 // 選択時は不透明度を上げ、非選択時は大幅に下げる
+        }
+        return 0.7 // 選択がない場合は通常の不透明度
+      })
+      .style('filter', (d, i) => {
+        const topicId = topics[i]
+        const isSelected = state.selectedTopic === topicId
+        return isSelected ? 
+          `${chartTheme.shadows.lg}, drop-shadow(0 0 10px ${chartTheme.colors.selection}60)` : 
+          chartTheme.shadows.sm
+      })
       .style('cursor', 'pointer')
+      .on('click', function(event, d) {
+        const topicId = topics[d.index]
+        if (state.selectedTopic === topicId) {
+          handlers.handleTopicSelect(null)
+        } else {
+          handlers.handleTopicSelect(topicId)
+        }
+      })
       .on('mouseenter', function(event, d) {
-        d3.select(this)
-          .transition()
-          .duration(200)
-          .attr('fill-opacity', 0.9)
+        const topicId = topics[d.index]
+        const isSelected = state.selectedTopic === topicId
+        if (!isSelected) {
+          d3.select(this)
+            .attr('fill-opacity', 0.9)
+        }
       })
       .on('mouseleave', function(event, d) {
-        d3.select(this)
-          .transition()
-          .duration(200)
-          .attr('fill-opacity', 0.7)
+        const topicId = topics[d.index]
+        const isSelected = state.selectedTopic === topicId
+        if (!isSelected) {
+          d3.select(this)
+            .attr('fill-opacity', 0.7)
+        }
       })
 
     // X axis - only show January labels
@@ -156,16 +192,20 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
         })
       )
       .selectAll('text')
-      .style('font-size', Math.max(8, containerWidth * 0.02) + 'px')
-      .style('fill', '#6B7280')
+      .style('font-size', Math.max(getFontSize('xs', chartTheme), containerWidth * 0.02) + 'px')
+      .style('fill', chartTheme.colors.text.secondary)
+      .style('font-family', chartTheme.typography.fontFamily)
+      .style('font-weight', chartTheme.typography.fontWeight.normal)
 
     // Y axis
     svg.append('g')
       .attr('transform', `translate(${margin.left},0)`)
       .call(d3.axisLeft(yScale))
       .selectAll('text')
-      .style('font-size', Math.max(8, containerWidth * 0.02) + 'px')
-      .style('fill', '#6B7280')
+      .style('font-size', Math.max(getFontSize('xs', chartTheme), containerWidth * 0.02) + 'px')
+      .style('fill', chartTheme.colors.text.secondary)
+      .style('font-family', chartTheme.typography.fontFamily)
+      .style('font-weight', chartTheme.typography.fontWeight.normal)
 
     // Create legend
     if (legendRef.current) {
@@ -174,19 +214,70 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
         .data(topics) // Show all topics
         .join('div')
         .attr('class', 'legend-item flex items-start space-x-1.5 sm:space-x-2 py-0.5 sm:py-1')
+        .style('cursor', 'pointer')
+        .style('user-select', 'none')
+        .style('border-radius', '4px')
+        .style('padding', '2px 4px')
+        .style('margin', '1px')
+        .on('click', function(event, d) {
+          if (state.selectedTopic === d) {
+            handlers.handleTopicSelect(null)
+          } else {
+            handlers.handleTopicSelect(d)
+          }
+        })
+        .on('mouseenter', function(event, d) {
+          const isSelected = state.selectedTopic === d
+          if (!isSelected) {
+            d3.select(this)
+              .style('background-color', chartTheme.colors.surface)
+              .style('transition', 'background-color 0.2s ease')
+          }
+        })
+        .on('mouseleave', function(event, d) {
+          const isSelected = state.selectedTopic === d
+          if (!isSelected) {
+            d3.select(this)
+              .style('background-color', 'transparent')
+          }
+        })
 
       legendItems.selectAll('.legend-color').remove()
       legendItems.selectAll('.legend-text').remove()
 
       legendItems.append('div')
         .attr('class', 'legend-color w-2.5 h-2.5 sm:w-3 sm:h-3 rounded flex-shrink-0 mt-0.5')
-        .style('background-color', (d, i) => colorScale(d))
-        .style('opacity', 0.7)
+        .style('background-color', (d, i) => colorScale(d)) // 常に元のカラーパレットを使用
+        .style('opacity', (d, i) => {
+          const isSelected = state.selectedTopic === d
+          if (hasSelection) {
+            return isSelected ? 1.0 : 0.3 // 選択時は不透明度を上げ、非選択時は大幅に下げる
+          }
+          return 0.7 // 選択がない場合は通常の不透明度
+        })
+        .style('box-shadow', (d, i) => {
+          const isSelected = state.selectedTopic === d
+          return isSelected ? `0 0 12px ${chartTheme.colors.selection}60` : 'none'
+        })
+        .style('border', (d, i) => {
+          const isSelected = state.selectedTopic === d
+          return isSelected ? `2px solid ${chartTheme.colors.selection}` : 'none'
+        })
 
       legendItems.append('span')
-        .attr('class', 'legend-text text-xs text-slate-600 dark:text-slate-400 break-words overflow-hidden')
+        .attr('class', 'legend-text text-xs break-words overflow-hidden')
         .style('word-wrap', 'break-word')
         .style('overflow-wrap', 'break-word')
+        .style('color', (d, i) => {
+          const isSelected = state.selectedTopic === d
+          return isSelected ? chartTheme.colors.text.primary : chartTheme.colors.text.secondary
+        })
+        .style('font-family', chartTheme.typography.fontFamily)
+        .style('font-weight', (d, i) => {
+          const isSelected = state.selectedTopic === d
+          return isSelected ? chartTheme.typography.fontWeight.bold : chartTheme.typography.fontWeight.normal
+        })
+        .style('user-select', 'none')
         .text(d => {
           const topic = data.topics[d]
           if (!topic) return `Topic ${d}`
@@ -214,7 +305,7 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
     return () => {
       resizeObserver.disconnect()
     }
-  }, [data, width, height])
+  }, [data, width, height, theme, state.selectedTopic, handlers])
 
   // Check if data is available
   const hasData = data?.series && data?.topics && Object.keys(data.series).length > 0 && Object.keys(data.topics).length > 0
@@ -223,10 +314,10 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
     return (
       <div className="flex items-center justify-center h-64">
         <div className="text-center">
-          <div className="w-12 h-12 bg-slate-100 dark:bg-slate-700 rounded-full flex items-center justify-center mx-auto mb-3">
-            <i className="fas fa-chart-area text-slate-400 text-xl"></i>
+          <div className={`w-12 h-12 ${chartTheme.colors.surface} rounded-full flex items-center justify-center mx-auto mb-3`}>
+            <i className={`fas fa-chart-area ${chartTheme.colors.text.muted} text-xl`}></i>
           </div>
-          <p className="text-slate-500 dark:text-slate-400 text-sm">N/A</p>
+          <p className={`${chartTheme.colors.text.muted} text-sm`}>N/A</p>
         </div>
       </div>
     )

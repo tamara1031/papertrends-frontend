@@ -77,16 +77,22 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
   const getPapersToShow = () => {
     if (!analysisData?.topics.papers) return []
     
-    if (state.selectedTopic || state.selectedCategory) {
-      const selectedName = state.selectedTopic || state.selectedCategory
+    // If a topic is selected, show only papers for that topic
+    if (state.selectedTopic) {
+      return analysisData.topics.papers[state.selectedTopic] || []
+    }
+    
+    // If a category is selected, show papers for that category
+    if (state.selectedCategory) {
       const topicInfo = Object.entries(analysisData.topics.data)
-        .find(([, topic]) => topic.name === selectedName)
+        .find(([, topic]) => topic.name === state.selectedCategory)
       if (topicInfo) {
         const [topicId] = topicInfo
         return analysisData.topics.papers[topicId] || []
       }
     }
     
+    // Default: show papers from all topics (limited to 15)
     return Object.keys(analysisData.topics.papers)
       .map(topicId => analysisData.topics.papers[topicId] || [])
       .flat()
@@ -345,11 +351,34 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
           {/* Representative Papers */}
           <div className="col-span-1 lg:col-span-5">
             <div className="bg-white dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 p-6">
-              <div className="flex items-center mb-6">
-                <div className="w-8 h-8 bg-gradient-to-br from-orange-500 to-red-600 rounded-lg flex items-center justify-center mr-3">
-                  <i className="fas fa-file-alt text-white text-sm"></i>
+              <div className="flex items-center justify-between mb-6">
+                <div className="flex items-center">
+                  <div className="w-8 h-8 bg-gradient-to-br from-orange-500 to-red-600 rounded-lg flex items-center justify-center mr-3">
+                    <i className="fas fa-file-alt text-white text-sm"></i>
+                  </div>
+                  <h3 className="text-xl font-bold text-slate-800 dark:text-slate-200">Representative Papers</h3>
                 </div>
-                <h3 className="text-xl font-bold text-slate-800 dark:text-slate-200">Representative Papers</h3>
+                
+                {/* Selection Status and Clear Button */}
+                {state.isFiltered && (
+                  <div className="flex items-center space-x-3">
+                    <div className="flex items-center space-x-2">
+                      <div className="w-3 h-3 bg-blue-500 rounded-full"></div>
+                      <span className="text-sm text-slate-600 dark:text-slate-400">
+                        {state.selectedTopic ? 
+                          `Topic: ${analysisData?.topics.data[state.selectedTopic]?.name || state.selectedTopic}` :
+                          `Category: ${state.selectedCategory}`
+                        }
+                      </span>
+                    </div>
+                    <button
+                      onClick={handlers.handleClearSelection}
+                      className="px-3 py-1 text-xs bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-400 rounded-md hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors"
+                    >
+                      Clear Filter
+                    </button>
+                  </div>
+                )}
               </div>
               
               <div className="w-full">

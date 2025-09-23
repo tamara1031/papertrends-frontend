@@ -2,6 +2,9 @@
 
 import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
+import { useTheme } from '@/lib/contexts/ThemeContext'
+import { useDashboard } from '@/lib/contexts/DashboardContext'
+import { getChartTheme, getColorByIndex, getFontSize, getSpacing, getSelectionColor, getOpacity } from '@/lib/styles/chartDesignSystem'
 
 interface TopicData {
   id: string
@@ -18,6 +21,9 @@ interface BubbleChartProps {
 
 export function BubbleChart({ data, width, height }: BubbleChartProps) {
   const svgRef = useRef<HTMLDivElement>(null)
+  const { theme } = useTheme()
+  const { state, handlers } = useDashboard()
+  const chartTheme = getChartTheme(theme === 'dark')
 
   useEffect(() => {
     if (!data || data.length === 0) return
@@ -37,7 +43,7 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       const containerHeight = height || containerRect.height || 320
 
       // Add padding to ensure bubbles fit within container
-      const padding = 20
+      const padding = getSpacing('lg', chartTheme)
       const chartWidth = containerWidth - (padding * 2)
       const chartHeight = containerHeight - (padding * 2)
 
@@ -62,49 +68,81 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
 
     const pack = d3.pack()
       .size([chartWidth, chartHeight])
-      .padding(8)
+      .padding(getSpacing('sm', chartTheme))
 
     const packed = pack(root as any)
 
-    // より美しいカラーパレット
-    const colors = [
-      '#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6',
-      '#06B6D4', '#84CC16', '#F97316', '#EC4899', '#6366F1',
-      '#14B8A6', '#F43F5E', '#A855F7', '#0EA5E9', '#22C55E'
-    ]
-    const color = d3.scaleOrdinal(colors)
+    // Enterprise-grade color palette
+    const color = d3.scaleOrdinal(chartTheme.colors.primary)
 
     // ルートノード（一番外のcircle）を除外して、子ノードのみを処理
     const nodes = packed.descendants().filter(d => d.depth > 0)
+    
+    // 選択状態に応じて全体のフィルタを適用
+    const hasSelection = state.selectedTopic !== null
 
     const node = svg.selectAll('g')
       .data(nodes)
       .join('g')
       .attr('transform', d => `translate(${d.x + padding},${d.y + padding})`)
       .style('cursor', 'pointer')
+      .on('click', function(event, d) {
+        const data = d.data as any
+        const topicId = data.id
+        if (state.selectedTopic === topicId) {
+          handlers.handleTopicSelect(null)
+        } else {
+          handlers.handleTopicSelect(topicId)
+        }
+      })
       .on('mouseenter', function(event, d) {
-        d3.select(this).select('circle')
-          .transition()
-          .duration(200)
-          .attr('stroke-width', 3)
-          .attr('stroke', '#1F2937')
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        if (!isSelected) {
+          d3.select(this).select('circle')
+            .attr('stroke-width', 3)
+            .attr('stroke', chartTheme.colors.hover)
+        }
       })
       .on('mouseleave', function(event, d) {
-        d3.select(this).select('circle')
-          .transition()
-          .duration(200)
-          .attr('stroke-width', 2)
-          .attr('stroke', '#ffffff')
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        if (!isSelected) {
+          d3.select(this).select('circle')
+            .attr('stroke-width', 2)
+            .attr('stroke', chartTheme.colors.border)
+        }
       })
 
     // バブル（円）の描画
     node.append('circle')
       .attr('r', d => d.r)
-      .attr('fill', (d, i) => color(String(i)))
-      .attr('fill-opacity', 0.8)
-      .attr('stroke', '#ffffff')
-      .attr('stroke-width', 2)
-      .style('filter', 'drop-shadow(0 2px 4px rgba(0,0,0,0.1))')
+      .attr('fill', (d, i) => color(String(i))) // 常に元のカラーパレットを使用
+      .attr('fill-opacity', d => {
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        if (hasSelection) {
+          return isSelected ? 1.0 : 0.2 // 選択時は不透明度を上げ、非選択時は大幅に下げる
+        }
+        return 0.7 // 選択がない場合は通常の不透明度
+      })
+      .attr('stroke', d => {
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        return isSelected ? chartTheme.colors.selection : chartTheme.colors.border
+      })
+      .attr('stroke-width', d => {
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        return isSelected ? 5 : 2
+      })
+      .style('filter', d => {
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        return isSelected ? 
+          `${chartTheme.shadows.lg}, drop-shadow(0 0 12px ${chartTheme.colors.selection}60)` : 
+          chartTheme.shadows.sm
+      })
 
     // テキストの描画
     node.append('text')
@@ -113,11 +151,20 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       .attr('font-size', d => {
         // Scale font size based on bubble size and container size
         const baseFontSize = Math.min(d.r * 0.3, Math.min(chartWidth, chartHeight) * 0.08)
-        return Math.max(baseFontSize, 8) // Minimum font size
+        return Math.max(baseFontSize, getFontSize('xs', chartTheme)) // Minimum font size
       })
-      .attr('font-family', 'system-ui, -apple-system, sans-serif')
-      .attr('font-weight', '500')
-      .attr('fill', '#1F2937')
+      .attr('font-family', chartTheme.typography.fontFamily)
+      .attr('font-weight', chartTheme.typography.fontWeight.medium)
+      .attr('fill', d => {
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        return isSelected ? chartTheme.colors.text.primary : chartTheme.colors.text.muted
+      })
+      .style('font-weight', d => {
+        const data = d.data as any
+        const isSelected = state.selectedTopic === data.id
+        return isSelected ? chartTheme.typography.fontWeight.bold : chartTheme.typography.fontWeight.medium
+      })
       .selectAll('tspan')
       .data(d => {
         const data = d.data as any
@@ -150,7 +197,7 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
     return () => {
       resizeObserver.disconnect()
     }
-  }, [data, width, height])
+  }, [data, width, height, theme, state.selectedTopic, handlers])
 
   // Check if data is available
   const hasData = data && data.length > 0
@@ -159,10 +206,10 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
     return (
       <div className="flex items-center justify-center w-full h-full">
         <div className="text-center">
-          <div className="w-12 h-12 bg-slate-100 dark:bg-slate-700 rounded-full flex items-center justify-center mx-auto mb-3">
-            <i className="fas fa-circle text-slate-400 text-xl"></i>
+          <div className={`w-12 h-12 ${chartTheme.colors.surface} rounded-full flex items-center justify-center mx-auto mb-3`}>
+            <i className={`fas fa-circle ${chartTheme.colors.text.muted} text-xl`}></i>
           </div>
-          <p className="text-slate-500 dark:text-slate-400 text-sm">N/A</p>
+          <p className={`${chartTheme.colors.text.muted} text-sm`}>N/A</p>
         </div>
       </div>
     )
