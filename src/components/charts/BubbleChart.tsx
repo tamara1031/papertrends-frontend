@@ -210,7 +210,7 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
     return () => {
       resizeObserver.disconnect()
     }
-  }, [data, width, height, theme, state.selectedTopic, handlers])
+  }, [data, width, height, chartTheme, state.selectedTopic, handlers])
 
   // Check if data is available
   const hasData = data && data.length > 0

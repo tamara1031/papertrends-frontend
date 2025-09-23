@@ -10,8 +10,8 @@ export interface DashboardContextType {
   }
   handlers: {
     handleClearSelection: () => void
-    handleTopicSelect: (topicId: string | null) => void
-    handleCategorySelect: (categoryId: string | null) => void
+    handleTopicSelect: (_topicId: string | null) => void
+    handleCategorySelect: (_categoryId: string | null) => void
   }
 }
 

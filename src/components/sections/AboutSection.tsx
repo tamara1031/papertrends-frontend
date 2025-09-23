@@ -24,8 +24,6 @@ export default function AboutSection() {
     return () => observer.disconnect()
   }, [])
 
-  const stats = []
-
   return (
     <section id="about-section" className="academic-section bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 border-t border-slate-200/60 dark:border-slate-700/60">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

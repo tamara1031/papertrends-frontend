@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
-import SubcategoryPage from 'src/components/dashboard/SubcategoryPage'
-import { arxivCategories } from 'src/lib'
+import SubcategoryPage from '@/components/dashboard/SubcategoryPage'
+import { arxivCategories } from '@/lib'
 
 interface SubcategoryPageProps {
   params: Promise<{

@@ -28,7 +28,8 @@ interface StackAreaChartProps {
 export function StackAreaChart({ data, width, height, legendContainer }: StackAreaChartProps) {
   const containerRef = useRef<HTMLDivElement>(null)
   const svgRef = useRef<HTMLDivElement>(null)
-  const legendRef = legendContainer || useRef<HTMLDivElement>(null)
+  const defaultLegendRef = useRef<HTMLDivElement>(null)
+  const legendRef = legendContainer || defaultLegendRef
   const { theme } = useTheme()
   const { state, handlers } = useDashboard()
   const chartTheme = getChartTheme(theme === 'dark')
@@ -75,8 +76,7 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
     const chartData = years.map(year => {
       const obj: { [key: string]: number | string } = { year }
       topics.forEach(topic => {
-        const topicIndex = parseInt(topic)
-        obj[topic] = seriesData[year]?.[topicIndex] || 0
+        obj[topic] = seriesData[year]?.[parseInt(topic)] || 0
       })
       return obj
     })
@@ -86,7 +86,6 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
       const obj: { [key: string]: number | string } = { year: d.year }
       
       topics.forEach(topic => {
-        const topicIndex = parseInt(topic)
         let sum = 0
         let count = 0
         
@@ -247,19 +246,19 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
 
       legendItems.append('div')
         .attr('class', 'legend-color w-2.5 h-2.5 sm:w-3 sm:h-3 rounded flex-shrink-0 mt-0.5')
-        .style('background-color', (d, i) => colorScale(d)) // 常に元のカラーパレットを使用
-        .style('opacity', (d, i) => {
+        .style('background-color', d => colorScale(d)) // 常に元のカラーパレットを使用
+        .style('opacity', d => {
           const isSelected = state.selectedTopic === d
           if (hasSelection) {
             return isSelected ? 1.0 : 0.3 // 選択時は不透明度を上げ、非選択時は大幅に下げる
           }
           return 0.7 // 選択がない場合は通常の不透明度
         })
-        .style('box-shadow', (d, i) => {
+        .style('box-shadow', d => {
           const isSelected = state.selectedTopic === d
           return isSelected ? `0 0 12px ${chartTheme.colors.selection}60` : 'none'
         })
-        .style('border', (d, i) => {
+        .style('border', d => {
           const isSelected = state.selectedTopic === d
           return isSelected ? `2px solid ${chartTheme.colors.selection}` : 'none'
         })
@@ -268,12 +267,12 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
         .attr('class', 'legend-text text-xs break-words overflow-hidden')
         .style('word-wrap', 'break-word')
         .style('overflow-wrap', 'break-word')
-        .style('color', (d, i) => {
+        .style('color', d => {
           const isSelected = state.selectedTopic === d
           return isSelected ? chartTheme.colors.text.primary : chartTheme.colors.text.secondary
         })
         .style('font-family', chartTheme.typography.fontFamily)
-        .style('font-weight', (d, i) => {
+        .style('font-weight', d => {
           const isSelected = state.selectedTopic === d
           return isSelected ? chartTheme.typography.fontWeight.bold : chartTheme.typography.fontWeight.normal
         })
@@ -305,7 +304,7 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
     return () => {
       resizeObserver.disconnect()
     }
-  }, [data, width, height, theme, state.selectedTopic, handlers])
+  }, [data, width, height, chartTheme, legendRef, state.selectedTopic, handlers])
 
   // Check if data is available
   const hasData = data?.series && data?.topics && Object.keys(data.series).length > 0 && Object.keys(data.topics).length > 0
