@@ -180,7 +180,17 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       })
       .join('tspan')
       .attr('x', 0)
-      .attr('dy', (d, i) => i === 0 ? 0 : '1.0em')
+      .attr('y', (d, i, nodes) => {
+        const totalLines = nodes.length
+        if (totalLines === 1) return 0 // 単一テキストの場合は中央
+        if (totalLines === 2) {
+          return i === 0 ? '-0.6em' : '0.6em' // 2行の場合は上下に配置
+        }
+        if (totalLines === 3) {
+          return i === 0 ? '-1.0em' : i === 1 ? '0' : '1.0em' // 3行の場合は上、中央、下に配置
+        }
+        return i === 0 ? 0 : '1.0em' // デフォルト
+      })
       .text(d => String(d))
       .style('pointer-events', 'none')
     }
