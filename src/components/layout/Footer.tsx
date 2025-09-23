@@ -11,7 +11,7 @@ export default function Footer() {
           </div>
           <p className="text-slate-400 mb-6">Open source research trend analysis platform</p>
           
-          <p className="text-sm text-slate-500">&copy; 2024 PaperTrends. All rights reserved.</p>
+          <p className="text-sm text-slate-500">&copy; 2025 PaperTrends. All rights reserved.</p>
         </div>
       </div>
     </footer>
