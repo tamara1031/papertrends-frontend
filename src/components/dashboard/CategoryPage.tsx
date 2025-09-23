@@ -114,17 +114,6 @@ export default function CategoryPage({ categoryId }: CategoryPageProps) {
             })}
           </div>
         </div>
-
-        {/* Back Button */}
-        <div className={`mt-16 text-center academic-fade-in ${isVisible ? 'visible' : ''}`} style={{ transitionDelay: '1000ms' }}>
-          <Link
-            href="/"
-            className="inline-flex items-center justify-center rounded-xl font-medium transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-semibold shadow-lg hover:shadow-xl hover:scale-105 active:scale-95 focus:ring-blue-500 px-8 py-3"
-          >
-            <i className="fas fa-arrow-left mr-2"></i>
-            Back to Research Domains
-          </Link>
-        </div>
       </div>
     </div>
   )

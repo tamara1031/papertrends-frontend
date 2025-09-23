@@ -30,6 +30,9 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
   const totalPapers = analysisData ? Object.values(analysisData.topics.data).reduce((sum, topic) => sum + topic.count, 0) : 0
   const totalTopics = analysisData ? Object.values(analysisData.topics.data).length : 0
   
+  // Get topic colors
+  const topicColors = analysisData ? getColorScale(Object.keys(analysisData.topics.data)) : {}
+  
   // Get category and subcategory
   const category = arxivCategories.find(cat => cat.id === categoryId)!
   let subcategory = null
@@ -269,266 +272,92 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
         </div>
       </header>
 
-      {/* Main Container */}
-      <main className="flex-1 flex flex-col overflow-hidden">
-        <div className="container mx-auto px-2 sm:px-4 lg:px-6 py-2 flex-1 flex flex-col min-h-0">
-          {/* Dashboard Layout */}
-          <div className="space-y-2 flex-1 flex flex-col min-h-0">
-            {/* Main Content Grid - 2 Row Layout */}
-            <div className="space-y-2 flex-1 flex flex-col">
-              {/* First Row - Topic Analysis (flex4) + Research Evolution (flex6) */}
-              <div className="grid grid-cols-1 lg:grid-cols-10 gap-2 flex-1">
-              {/* Topic Analysis - Left side, flex-4 */}
-              <div className="lg:col-span-4 order-1">
-                <div className="bg-gradient-to-br from-white to-slate-50 dark:from-slate-800 dark:to-slate-900 border border-slate-200/80 dark:border-slate-600/80 rounded-2xl shadow-xl shadow-slate-200/20 dark:shadow-slate-900/40 p-2 sm:p-4 min-h-[400px] lg:h-full flex flex-col backdrop-blur-sm" style={{ width: '100%', minWidth: '300px' }}>
-                  <div className="flex items-center justify-between mb-2">
-                    <div>
-                      <h3 className="text-base sm:text-lg font-bold text-slate-800 dark:text-slate-200 mb-1">
-                        Topic Analysis
-                      </h3>
-                      <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400">Interactive topic exploration</p>
-                    </div>
-                    <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gradient-to-br from-indigo-500 to-indigo-600 rounded-xl flex items-center justify-center shadow-lg shadow-indigo-500/25">
-                      <svg className="w-3 h-3 sm:w-4 sm:h-4 text-white" fill="currentColor" viewBox="0 0 24 24">
-                        <circle cx="6" cy="6" r="3"/>
-                        <circle cx="18" cy="6" r="3"/>
-                        <circle cx="6" cy="18" r="3"/>
-                        <circle cx="18" cy="18" r="3"/>
-                        <path d="M9 6h6M6 9v6M18 9v6M9 18h6"/>
-                      </svg>
-                    </div>
-                  </div>
-                  <div className="flex-1 min-h-[300px] sm:min-h-[400px] lg:h-full flex flex-col">
-                    <div className="flex-1 w-full bg-slate-50/30 dark:bg-slate-700/30 rounded-xl p-2 relative">
-                      <div className="w-full h-full relative" style={{ minWidth: '300px' }}>
-                        {analysisData?.topics ? (
-                          <BubbleChart 
-                            data={{
-                              topics: Object.entries(analysisData.topics.data).map(([id, topic]) => ({
-                                topic_id: parseInt(id),
-                                frequency: topic.count
-                              })),
-                              correlationMatrix: analysisData.topics.correlations
-                            }}
-                            topicData={Object.values(analysisData.topics.data)}
-                          />
-                        ) : (
-                          <div className="flex items-center justify-center h-full w-full text-slate-500 dark:text-slate-400">
-                            <div className="text-center p-4">
-                              <i className="fas fa-chart-pie text-3xl sm:text-4xl mb-3 sm:mb-4"></i>
-                              <p className="text-sm sm:text-base">N/A</p>
-                            </div>
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              {/* Research Evolution - Right side, flex-6 */}
-              <div className="lg:col-span-6 order-2">
-                <div className="bg-gradient-to-br from-white to-slate-50 dark:from-slate-800 dark:to-slate-900 border border-slate-200/80 dark:border-slate-600/80 rounded-2xl shadow-xl shadow-slate-200/20 dark:shadow-slate-900/40 p-2 sm:p-4 flex flex-col backdrop-blur-sm">
-                  <div className="flex items-center justify-between mb-1">
-                    <div>
-                      <h3 className="text-base sm:text-lg font-bold text-slate-800 dark:text-slate-200 mb-0">
-                        Research Evolution
-                      </h3>
-                      <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400">Trend analysis over time</p>
-                    </div>
-                    <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-xl flex items-center justify-center shadow-lg shadow-emerald-500/25">
-                      <i className="fas fa-chart-area text-white text-xs sm:text-sm"></i>
-                    </div>
-                  </div>
-                  <div className="flex flex-col gap-3 sm:gap-3 lg:flex-row lg:gap-1">
-                     {/* Chart */}
-                     <div className="flex-1 flex items-center justify-center" style={{ height: '400px' }}>
-                       {analysisData?.topics ? (
-                         <StackAreaChart 
-                           data={{
-                             categories: Object.values(analysisData.topics.data).map(topic => topic.name),
-                             data: Object.entries(analysisData.topics.series).map(([year, values]) => [year, ...values])
-                           }}
-                         />
-                       ) : (
-                         <div className="flex items-center justify-center h-full w-full text-slate-500 dark:text-slate-400">
-                           <div className="text-center p-4">
-                             <i className="fas fa-chart-area text-2xl sm:text-3xl mb-2"></i>
-                             <p className="text-sm sm:text-base">N/A</p>
-                           </div>
-                         </div>
-                       )}
-                     </div>
-                    
-                    {/* Enhanced Legend - Mobile: Below Graph, Desktop: Side */}
-                    <div className="w-full lg:w-48 h-auto lg:h-full bg-slate-50/80 dark:bg-slate-700/80 border border-slate-200/60 dark:border-slate-600/60 rounded-xl shadow-lg shadow-slate-200/10 dark:shadow-slate-900/20 p-3 lg:p-1.5 backdrop-blur-sm flex-shrink-0 flex flex-col">
-                      <h4 className="text-sm lg:text-xs font-semibold text-slate-700 dark:text-slate-300 mb-3 lg:mb-1 flex-shrink-0">
-                        Topics
-                      </h4>
-                      <div className="flex-1 overflow-y-auto">
-                        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-1 gap-2 sm:gap-1.5 lg:flex lg:flex-col lg:space-y-0.5">
-                            {analysisData?.topics ? (
-                              Object.values(analysisData.topics.data).map((topic) => {
-                                const topicNames = Object.values(analysisData.topics.data).map(t => t.name)
-                                const color = getColorScale(topicNames)(topic.name)
-                                
-                                const isSelected = state.selectedTopic === topic.name || state.selectedCategory === topic.name
-                                
-                                return (
-                                  <div
-                                    key={topic.name}
-                                    className={`group flex items-center space-x-2 lg:space-x-1 p-2 lg:p-1 rounded-lg lg:rounded transition-all duration-200 lg:flex-shrink-0 ${
-                                      isSelected 
-                                        ? 'bg-blue-100 dark:bg-blue-900/30 border border-blue-300 dark:border-blue-600' 
-                                        : 'bg-slate-50 dark:bg-slate-700'
-                                    }`}
-                                    title={topic.name}
-                                  >
-                                    <div
-                                      className={`w-4 h-4 lg:w-3 lg:h-3 rounded-full flex-shrink-0 ${
-                                        isSelected ? 'ring-2 ring-blue-500 dark:ring-blue-400' : ''
-                                      }`}
-                                      style={{ backgroundColor: color }}
-                                    />
-                                    <span className={`text-sm lg:text-xs truncate leading-tight ${
-                                      isSelected 
-                                        ? 'text-blue-700 dark:text-blue-300 font-semibold' 
-                                        : 'text-slate-600 dark:text-slate-300'
-                                    }`}>
-                                      {topic.name.length > 20 ? topic.name.slice(0, 20) + '...' : topic.name}
-                                    </span>
-                                  </div>
-                                )
-                              })
-                            ) : (
-                              <div className="text-center text-slate-500 dark:text-slate-400 p-2">
-                                <i className="fas fa-tags text-sm sm:text-lg mb-1"></i>
-                                <p className="text-xs sm:text-sm">N/A</p>
-                              </div>
-                            )}
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
-              {/* Second Row - Related Papers */}
-              <div className="w-full flex-shrink-0">
-                <div className="flex flex-col bg-gradient-to-br from-white to-slate-50 dark:from-slate-800 dark:to-slate-900 border border-slate-200/80 dark:border-slate-600/80 rounded-2xl shadow-xl shadow-slate-200/20 dark:shadow-slate-900/40 backdrop-blur-sm">
-                {/* Enhanced header */}
-                <div className="bg-gradient-to-r from-slate-50/90 to-slate-100/90 dark:from-slate-700/90 dark:to-slate-800/90 border-b border-slate-200/60 dark:border-slate-600/60 px-4 py-3 sm:px-6 sm:py-4 backdrop-blur-sm">
-                  <div className="flex items-center justify-between">
-                    <div className="flex items-center space-x-3">
-                      <div className="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center shadow-lg shadow-blue-500/25">
-                        <i className="fas fa-file-alt text-white text-sm sm:text-base"></i>
-                      </div>
-                      <div>
-                        <h3 className="text-lg sm:text-xl font-bold text-slate-800 dark:text-slate-200">
-                          Related Papers
-                        </h3>
-                        <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400">Research papers and publications</p>
-                      </div>
-                    </div>
-                    {(state.selectedTopic || state.selectedCategory) && (
-                      <div className="flex items-center space-x-3">
-                        <div className="px-3 py-1.5 bg-blue-100 dark:bg-blue-900/30 rounded-lg">
-                          <span className="text-sm text-blue-700 dark:text-blue-300 font-medium">
-                            Filtered by: {(state.selectedTopic || state.selectedCategory)?.slice(0, 20)}
-                            {(state.selectedTopic || state.selectedCategory) && (state.selectedTopic || state.selectedCategory)!.length > 20 ? '...' : ''}
-                          </span>
-                        </div>
-                        <button
-                          onClick={handlers.handleClearSelection}
-                          className="px-3 py-1.5 bg-slate-200 dark:bg-slate-600 hover:bg-slate-300 dark:hover:bg-slate-500 text-slate-700 dark:text-slate-300 rounded-lg transition-colors text-sm font-medium"
-                        >
-                          Clear Filter
-                        </button>
-                      </div>
-                    )}
-                  </div>
-                </div>
-                
-                {/* Paper list */}
-                <div className="p-4">
-                  <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4">
-                    {papersToShow.length === 0 ? (
-                      <div className="flex items-center justify-center h-24 text-slate-500 dark:text-slate-400">
-                        <div className="text-center p-4">
-                          <i className="fas fa-file-alt text-base sm:text-lg mb-1"></i>
-                          <p className="text-xs sm:text-sm">N/A</p>
-                        </div>
-                      </div>
-                    ) : (
-                      papersToShow.map((paper, index) => (
-                        <div key={index} className="bg-white dark:bg-slate-800 border border-slate-200/60 dark:border-slate-600/60 rounded-xl p-4 hover:shadow-lg hover:border-blue-300 dark:hover:border-blue-500 transition-all duration-300 group">
-                          <div className="space-y-3">
-                            <h4 className="text-sm font-semibold text-slate-900 dark:text-slate-100 leading-tight group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                              <a
-                                href={`https://arxiv.org/abs/${paper.arxiv_id}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="hover:underline block"
-                                title={paper.title}
-                              >
-                                {paper.title}
-                              </a>
-                            </h4>
-                            
-                            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed line-clamp-4">
-                              {paper.abstract}
-                            </p>
-                            
-                            <div className="flex items-center justify-between pt-2 border-t border-slate-200/60 dark:border-slate-600/60">
-                              <div className="flex items-center space-x-2">
-                                <span className="px-2 py-1 bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-400 rounded text-xs font-mono">
-                                  {paper.arxiv_id}
-                                </span>
-                                <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded text-xs font-medium">
-                                  {paper.year}
-                                </span>
-                              </div>
-                              <a
-                                href={`https://arxiv.org/abs/${paper.arxiv_id}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="px-3 py-1 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-medium transition-colors"
-                                title="View Abstract"
-                              >
-                                View Paper
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                      ))
-                    )}
-                  </div>
-                </div>
-                </div>
-              </div>
+      {/* Main Content */}
+      <main className="p-4">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+          {/* Topic Analysis */}
+          <div className="col-span-1">
+            <div className="container mx-auto">
 
             </div>
           </div>
+
+          {/* Research Evolution */}
+          <div className="col-span-1">
+            <div className="container mx-auto">
+
+            </div>
+          </div>
+
+
+          <div className="col-span-1">
+            <div className="bg-white dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 p-4">
+              <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200 mb-4">Research Evolution</h3>
+              <div className="flex">
+                {/* Chart */}
+                <div className="flex-1">
+                  {(analysisData as any)?.timeSeries ? (
+                    <StackAreaChart 
+                      data={(analysisData as any).timeSeries.data}
+                    />
+                  ) : (
+                    <div className="flex items-center justify-center h-32 text-slate-500 dark:text-slate-400">
+                      <p>No data available</p>
+                    </div>
+                  )}
+                </div>
+                {/* Legend */}
+                <div className="w-32 ml-4">
+                  <div className="text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Legend</div>
+                  <div className="space-y-1">
+                    {analysisData?.topics.data && Object.entries(analysisData.topics.data).slice(0, 5).map(([id, topic]) => (
+                      <div key={id} className="flex items-center text-xs">
+                        <div 
+                          className="w-3 h-3 rounded-full mr-2" 
+                          style={{ backgroundColor: (topicColors as any)[id] || '#94a3b8' }}
+                        ></div>
+                        <span className="text-slate-600 dark:text-slate-400 truncate">{topic.name}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {/* Related Papers */}
+          <div className="col-span-1 lg:col-span-2">
+            <div className="bg-white dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 p-4">
+              <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200 mb-4">Related Papers</h3>
+              <div className="max-h-64 overflow-y-auto">
+                {(analysisData as any)?.papers?.data ? (
+                  <div className="space-y-2">
+                    {(analysisData as any).papers.data.slice(0, 10).map((paper: any, index: number) => (
+                      <div key={index} className="p-3 border border-slate-200 dark:border-slate-700 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors">
+                        <a href={paper.url} target="_blank" rel="noopener noreferrer" className="block">
+                          <h4 className="text-sm font-semibold text-blue-600 dark:text-blue-400 hover:underline mb-1">
+                            {paper.title}
+                          </h4>
+                          <p className="text-xs text-slate-600 dark:text-slate-400 mb-1">
+                            {paper.authors.join(', ')}
+                          </p>
+                          <p className="text-xs text-slate-500 dark:text-slate-500">
+                            Published: {paper.year}
+                          </p>
+                        </a>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <div className="flex items-center justify-center h-32 text-slate-500 dark:text-slate-400">
+                    <p>No papers available</p>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+
         </div>
       </main>
-
-      {/* Footer Container - At the very bottom */}
-      <footer className="flex-shrink-0 mt-8">
-        <div className="container mx-auto px-2 sm:px-4 lg:px-6 py-4">
-          {/* Back Button - Left aligned */}
-          <div className="flex justify-start">
-            <Link
-              href={`/category/${categoryId}`}
-              className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-white to-slate-50 dark:from-slate-800 dark:to-slate-900 backdrop-blur-sm border border-slate-200/80 dark:border-slate-600/80 text-slate-700 dark:text-slate-300 font-medium rounded-xl shadow-lg shadow-slate-200/20 dark:shadow-slate-900/40 hover:border-blue-400/60 hover:text-blue-600 dark:hover:text-blue-400 hover:shadow-xl transition-all duration-300 group"
-            >
-              <i className="fas fa-arrow-left mr-1 group-hover:-translate-x-1 transition-transform duration-300"></i>
-              Back to {category.name}
-            </Link>
-          </div>
-        </div>
-      </footer>
-
     </div>
   )
 })
