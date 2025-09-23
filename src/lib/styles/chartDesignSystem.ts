@@ -190,11 +190,6 @@ export const getChartTheme = (isDark: boolean): ChartTheme => {
   return isDark ? darkTheme : lightTheme
 }
 
-// Color utilities
-export const getColorByIndex = (index: number, theme: ChartTheme): string => {
-  return theme.colors.primary[index % theme.colors.primary.length]
-}
-
 // Typography utilities
 export const getFontSize = (size: keyof ChartTheme['typography']['fontSize'], theme: ChartTheme): number => {
   return theme.typography.fontSize[size]
@@ -203,18 +198,4 @@ export const getFontSize = (size: keyof ChartTheme['typography']['fontSize'], th
 // Spacing utilities
 export const getSpacing = (size: keyof ChartTheme['spacing'], theme: ChartTheme): number => {
   return theme.spacing[size]
-}
-
-// Selection state utilities
-export const getSelectionColor = (theme: ChartTheme, isSelected: boolean, isHovered: boolean): string => {
-  if (isSelected) return theme.colors.selection
-  if (isHovered) return theme.colors.hover
-  return theme.colors.primary[0]
-}
-
-// Opacity utilities for different states
-export const getOpacity = (isSelected: boolean, isHovered: boolean): number => {
-  if (isSelected) return 1.0
-  if (isHovered) return 0.9
-  return 0.7
 }

@@ -2,11 +2,9 @@
 
 import { useState, useEffect, memo, useRef } from 'react'
 import Link from 'next/link'
-import { arxivCategories } from '@/lib'
+import { arxivCategories, AnalysisData } from '@/lib'
 import { StackAreaChart } from '@/components/charts/StackAreaChart'
 import { BubbleChart } from '@/components/charts/BubbleChart'
-import { AnalysisData } from '@/lib'
-import { getColorScale } from '@/lib'
 import { DashboardProvider, useDashboard } from '@/lib/contexts'
 
 interface SubcategoryPageProps {
@@ -18,32 +16,19 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
   const [analysisData, setAnalysisData] = useState<AnalysisData | null>(null)
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
-  const [isVisible, setIsVisible] = useState(false)
   
-  const dashboard = useDashboard()
-  const { state, handlers } = dashboard
-  
-  // Ref for legend container
+  const { state, handlers } = useDashboard()
   const legendRef = useRef<HTMLDivElement>(null)
-
-  useEffect(() => {
-    setIsVisible(true)
-  }, [])
 
   // Calculate basic statistics
   const totalPapers = analysisData ? Object.values(analysisData.topics.data).reduce((sum, topic) => sum + topic.count, 0) : 0
   const totalTopics = analysisData ? Object.values(analysisData.topics.data).length : 0
   
-  // Get topic colors
-  const topicColors = analysisData ? getColorScale(Object.keys(analysisData.topics.data)) : {}
-  
   // Get category and subcategory
   const category = arxivCategories.find(cat => cat.id === categoryId)!
-  let subcategory = null
-  for (const group of category.subcategoryGroups) {
-    subcategory = group.subcategories.find(sub => sub.id === subcategoryId)
-    if (subcategory) break
-  }
+  const subcategory = category.subcategoryGroups
+    .flatMap(group => group.subcategories)
+    .find(sub => sub.id === subcategoryId)!
 
   // Load analysis data
   useEffect(() => {
@@ -74,35 +59,22 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
 
 
   // Get papers to display
-  const getPapersToShow = () => {
+  const papersToShow = (() => {
     if (!analysisData?.topics.papers) return []
     
-    // If a topic is selected, show only papers for that topic
     if (state.selectedTopic) {
       return analysisData.topics.papers[state.selectedTopic] || []
     }
     
-    // If a category is selected, show papers for that category
     if (state.selectedCategory) {
-      const topicInfo = Object.entries(analysisData.topics.data)
-        .find(([, topic]) => topic.name === state.selectedCategory)
-      if (topicInfo) {
-        const [topicId] = topicInfo
-        return analysisData.topics.papers[topicId] || []
-      }
+      const topicId = Object.entries(analysisData.topics.data)
+        .find(([, topic]) => topic.name === state.selectedCategory)?.[0]
+      return topicId ? analysisData.topics.papers[topicId] || [] : []
     }
     
-    // Default: show papers from all topics (limited to 15)
-    return Object.keys(analysisData.topics.papers)
-      .map(topicId => analysisData.topics.papers[topicId] || [])
-      .flat()
-      .slice(0, 15)
-  }
+    return Object.values(analysisData.topics.papers).flat().slice(0, 15)
+  })()
 
-  const papersToShow = getPapersToShow()
-
-  // subcategory is guaranteed to exist due to notFound() check in route
-  const subcategoryData = subcategory!
 
   // Loading state
   if (isLoading) {
@@ -165,9 +137,9 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
               <li className="flex-shrink-0"><i className="fas fa-chevron-right text-slate-400 text-xs"></i></li>
               <li className="flex-shrink-0">
                 <span className="text-slate-800 dark:text-slate-200 font-medium">
-                  <span className="hidden sm:inline">{subcategoryData.name}</span>
-                  <span className="sm:hidden">{subcategoryData.id}</span>
-                  <span className="hidden sm:inline text-slate-500 dark:text-slate-400 text-xs font-mono ml-1">({subcategoryData.id})</span>
+                  <span className="hidden sm:inline">{subcategory.name}</span>
+                  <span className="sm:hidden">{subcategory.id}</span>
+                  <span className="hidden sm:inline text-slate-500 dark:text-slate-400 text-xs font-mono ml-1">({subcategory.id})</span>
                 </span>
               </li>
             </ol>
@@ -181,12 +153,12 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
               {/* Left Side - Title and Icon */}
               <div className="flex items-center space-x-2">
                 <div className="inline-flex items-center justify-center w-10 h-10 sm:w-12 sm:h-12 bg-gradient-cs rounded-xl shadow-lg">
-                  <i className={`${subcategoryData.emoji} text-white text-lg sm:text-xl`}></i>
+                  <i className={`${subcategory.emoji} text-white text-lg sm:text-xl`}></i>
                 </div>
                 <div>
                   <h1 className="text-xl sm:text-2xl font-bold text-slate-800 dark:text-slate-200">
-                    {subcategoryData.name} 
-                    <span className="text-base sm:text-lg text-slate-500 dark:text-slate-400 font-mono ml-1">({subcategoryData.id})</span>
+                    {subcategory.name} 
+                    <span className="text-base sm:text-lg text-slate-500 dark:text-slate-400 font-mono ml-1">({subcategory.id})</span>
                   </h1>
                   <p className="text-xs text-slate-600 dark:text-slate-300">
                     Research trends and analysis

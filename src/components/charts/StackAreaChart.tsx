@@ -4,7 +4,7 @@ import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
 import { useTheme } from '@/lib/contexts/ThemeContext'
 import { useDashboard } from '@/lib/contexts/DashboardContext'
-import { getChartTheme, getColorByIndex, getFontSize, getSpacing, getSelectionColor, getOpacity } from '@/lib/styles/chartDesignSystem'
+import { getChartTheme, getFontSize, getSpacing } from '@/lib/styles/chartDesignSystem'
 
 interface StackAreaChartData {
   series: {
@@ -170,7 +170,7 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
         const isSelected = state.selectedTopic === topicId
         if (!isSelected) {
           d3.select(this)
-            .attr('fill-opacity', 0.9)
+            .attr('fill-opacity', hasSelection ? 0.3 : 0.9)
         }
       })
       .on('mouseleave', function(event, d) {
@@ -178,7 +178,7 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
         const isSelected = state.selectedTopic === topicId
         if (!isSelected) {
           d3.select(this)
-            .attr('fill-opacity', 0.7)
+            .attr('fill-opacity', hasSelection ? 0.15 : 0.7)
         }
       })
 

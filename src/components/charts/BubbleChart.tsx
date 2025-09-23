@@ -4,7 +4,7 @@ import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
 import { useTheme } from '@/lib/contexts/ThemeContext'
 import { useDashboard } from '@/lib/contexts/DashboardContext'
-import { getChartTheme, getColorByIndex, getFontSize, getSpacing, getSelectionColor, getOpacity } from '@/lib/styles/chartDesignSystem'
+import { getChartTheme, getFontSize, getSpacing } from '@/lib/styles/chartDesignSystem'
 
 interface TopicData {
   id: string
