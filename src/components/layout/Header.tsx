@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { useTheme } from '@/components/providers'
+import { useTheme } from '@/lib/contexts'
 import { categories } from '@/lib'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'

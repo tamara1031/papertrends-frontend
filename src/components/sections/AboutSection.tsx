@@ -1,66 +1,110 @@
+'use client'
+
 import { Card } from '@/components/ui'
+import { useEffect, useState } from 'react'
 
 export default function AboutSection() {
+  const [isVisible, setIsVisible] = useState(false)
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true)
+        }
+      },
+      { threshold: 0.1 }
+    )
+
+    const element = document.getElementById('about-section')
+    if (element) {
+      observer.observe(element)
+    }
+
+    return () => observer.disconnect()
+  }, [])
+
+  const stats = [
+    { value: '100%', label: 'Free Access' },
+    { value: 'Open', label: 'Source Code' },
+    { value: 'MIT', label: 'License' },
+    { value: '24/7', label: 'Available' }
+  ]
+
   return (
-    <section className="pb-8 pt-20 bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 border-t border-slate-200/60 dark:border-slate-700/60 relative">
-      {/* Decorative section indicator */}
-      <div className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-        <div className="w-16 h-16 bg-gradient-to-br from-pink-500 to-rose-500 border-4 border-slate-200/60 dark:border-slate-700/60 rounded-full flex items-center justify-center shadow-xl shadow-pink-500/25">
-          <i className="fas fa-heart text-white text-xl"></i>
-        </div>
-      </div>
-      
+    <section id="about-section" className="academic-section bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 border-t border-slate-200/60 dark:border-slate-700/60">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
-          <h2 className="text-4xl sm:text-5xl font-bold text-slate-800 dark:text-slate-200 mb-6">
-            <span className="bg-gradient-to-r from-green-600 to-emerald-600 dark:from-green-400 dark:to-emerald-400 bg-clip-text text-transparent">
-              Completely Free
-            </span>
-            <span className="text-slate-800 dark:text-slate-200"> & </span>
-            <span className="bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
-              Open Source
-            </span>
+        <div className={`academic-header academic-fade-in ${isVisible ? 'visible' : ''}`}>
+          <h2 className="academic-title text-slate-800 dark:text-slate-200">
+            Open Academic Platform
           </h2>
-          <p className="text-xl text-slate-600 dark:text-slate-300 max-w-4xl mx-auto font-medium">
-            A research analysis tool built for the community, completely free and open source
+          <p className="academic-subtitle">
+            Built for researchers, by researchers. Free and open source academic analysis tools.
           </p>
         </div>
         
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
-          <Card variant="research" className="p-10 text-center group">
-            <div className="w-20 h-20 bg-gradient-to-br from-green-500 to-emerald-600 rounded-3xl flex items-center justify-center mx-auto mb-8 group-hover:scale-110 transition-transform duration-300 shadow-2xl shadow-green-500/25">
-              <i className="fas fa-gift text-white text-3xl"></i>
-            </div>
-            <h3 className="text-3xl font-bold text-slate-800 dark:text-slate-200 mb-6">
-              Completely Free
-            </h3>
-            <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed">
-              No hidden costs, no premium tiers, no subscriptions. Access all features at zero cost.
-            </p>
-          </Card>
-          
-          <Card variant="research" className="p-10 text-center group">
-            <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-purple-600 rounded-3xl flex items-center justify-center mx-auto mb-8 group-hover:scale-110 transition-transform duration-300 shadow-2xl shadow-blue-500/25">
-              <i className="fab fa-github text-white text-3xl"></i>
-            </div>
-            <h3 className="text-3xl font-bold text-slate-800 dark:text-slate-200 mb-6">
-              Open Source
-            </h3>
-            <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed mb-8">
-              Transparent, auditable, and community-driven. View, modify, and contribute to the code.
-            </p>
-            <a 
-              href="https://github.com/tamara1031/papertrends-frontend"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-slate-800 to-slate-900 hover:from-slate-900 hover:to-black dark:from-slate-700 dark:to-slate-800 dark:hover:from-slate-600 dark:hover:to-slate-700 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:ring-offset-2 dark:focus:ring-offset-slate-900"
+        {/* Stats Grid */}
+        <div className={`grid grid-cols-2 md:grid-cols-4 gap-6 mb-16 academic-fade-in ${isVisible ? 'visible' : ''}`} style={{ transitionDelay: '200ms' }}>
+          {stats.map((stat, index) => (
+            <div
+              key={index}
+              className="text-center"
+              style={{ transitionDelay: `${400 + index * 100}ms` }}
             >
-              <i className="fab fa-github mr-2"></i>
-              View on GitHub
-            </a>
-          </Card>
+              <div className="academic-metric text-blue-600 dark:text-blue-400">
+                {stat.value}
+              </div>
+              <div className="academic-label">
+                {stat.label}
+              </div>
+            </div>
+          ))}
         </div>
         
+        {/* Main Content */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
+          <div className={`academic-fade-in ${isVisible ? 'visible' : ''}`} style={{ transitionDelay: '600ms' }}>
+            <Card variant="research" className="academic-card h-full">
+              <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-emerald-600 rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-lg">
+                <i className="fas fa-graduation-cap text-white text-2xl"></i>
+              </div>
+              <h3 className="text-2xl font-semibold text-slate-800 dark:text-slate-200 mb-4 text-center">
+                Academic Focus
+              </h3>
+              <p className="text-slate-600 dark:text-slate-300 leading-relaxed text-center">
+                Designed specifically for academic researchers and institutions. No commercial barriers, 
+                no data restrictions. Access advanced topic modeling and trend analysis tools built 
+                with academic rigor and transparency.
+              </p>
+            </Card>
+          </div>
+          
+          <div className={`academic-fade-in ${isVisible ? 'visible' : ''}`} style={{ transitionDelay: '800ms' }}>
+            <Card variant="research" className="academic-card h-full">
+              <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-lg">
+                <i className="fab fa-github text-white text-2xl"></i>
+              </div>
+              <h3 className="text-2xl font-semibold text-slate-800 dark:text-slate-200 mb-4 text-center">
+                Open Source
+              </h3>
+              <p className="text-slate-600 dark:text-slate-300 leading-relaxed text-center mb-6">
+                Fully transparent and auditable codebase. Contribute, modify, and extend the platform 
+                to meet your research needs. Built on modern web technologies with academic best practices.
+              </p>
+              <div className="text-center">
+                <a 
+                  href="https://github.com/tamara1031/papertrends-frontend"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-base btn-gradient-primary btn-hover-scale px-6 py-3"
+                >
+                  <i className="fab fa-github mr-2"></i>
+                  View Source Code
+                </a>
+              </div>
+            </Card>
+          </div>
+        </div>
       </div>
     </section>
   )

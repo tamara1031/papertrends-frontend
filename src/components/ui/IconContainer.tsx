@@ -9,10 +9,10 @@ interface IconContainerProps extends HTMLAttributes<HTMLDivElement> {
 
 const IconContainer = forwardRef<HTMLDivElement, IconContainerProps>(
   ({ className, variant = 'gradient', size = 'md', gradient = 'cs', ...props }, ref) => {
-    const baseClasses = 'flex items-center justify-center rounded-xl shadow-lg transition-transform duration-300'
+    const baseClasses = 'icon-container-base'
     
     const variants = {
-      gradient: `bg-gradient-${gradient}`,
+      gradient: `bg-gradient-${gradient} icon-container-gradient`,
       solid: 'bg-slate-600 dark:bg-slate-400',
       outline: 'border-2 border-slate-300 dark:border-slate-600 bg-transparent'
     }

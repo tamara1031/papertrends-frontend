@@ -1,8 +1,8 @@
 // Data exports
 export * from './data'
 
-// Hook exports
-export * from './hooks'
+// Context exports
+export * from './contexts'
 
 // Type exports
 export * from './types'

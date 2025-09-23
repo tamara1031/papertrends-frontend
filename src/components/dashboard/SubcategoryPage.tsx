@@ -6,7 +6,7 @@ import { arxivCategories } from '@/lib'
 import { StackAreaChart, BubbleChart } from '@/components/charts'
 import { AnalysisData } from '@/lib'
 import { getColorScale } from '@/lib'
-import { DashboardProvider, useDashboard } from '@/components/providers'
+import { DashboardProvider, useDashboard } from '@/lib/contexts'
 
 interface SubcategoryPageProps {
   categoryId: string
@@ -17,9 +17,14 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
   const [analysisData, setAnalysisData] = useState<AnalysisData | null>(null)
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [isVisible, setIsVisible] = useState(false)
   
   const dashboard = useDashboard()
   const { state, handlers } = dashboard
+
+  useEffect(() => {
+    setIsVisible(true)
+  }, [])
 
   // Calculate basic statistics
   const totalPapers = analysisData ? Object.values(analysisData.topics.data).reduce((sum, topic) => sum + topic.count, 0) : 0
@@ -175,16 +180,16 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
                 </div>
               </div>
 
-              {/* Right Side - Compact Metrics */}
-              <div className="grid grid-cols-2 lg:grid-cols-4 gap-1">
+              {/* Metrics */}
+              <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-3">
                 
                 {/* Papers Metric */}
-                <div className="flex items-center space-x-1 p-1.5 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
-                  <div className="w-5 h-5 sm:w-6 sm:h-6 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center shadow-lg shadow-blue-500/25 flex-shrink-0">
+                <div className="flex items-center space-x-1.5 p-2 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
+                  <div className="w-6 h-6 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center shadow-lg shadow-blue-500/25 flex-shrink-0">
                     <i className="fas fa-file-alt text-white text-xs"></i>
                   </div>
                   <div className="min-w-0 flex-1">
-                    <p className="text-lg font-bold text-slate-800 dark:text-slate-200 leading-none">
+                    <p className="text-sm font-bold text-slate-800 dark:text-slate-200 leading-none">
                       {totalPapers.toLocaleString()}
                     </p>
                     <p className="text-xs text-slate-600 dark:text-slate-400">Papers</p>
@@ -192,12 +197,12 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
                 </div>
 
                 {/* Topics Metric */}
-                <div className="flex items-center space-x-1 p-1.5 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
-                  <div className="w-5 h-5 sm:w-6 sm:h-6 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-xl flex items-center justify-center shadow-lg shadow-emerald-500/25 flex-shrink-0">
+                <div className="flex items-center space-x-1.5 p-2 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
+                  <div className="w-6 h-6 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center shadow-lg shadow-emerald-500/25 flex-shrink-0">
                     <i className="fas fa-tags text-white text-xs"></i>
                   </div>
                   <div className="min-w-0 flex-1">
-                    <p className="text-lg font-bold text-slate-800 dark:text-slate-200 leading-none">
+                    <p className="text-sm font-bold text-slate-800 dark:text-slate-200 leading-none">
                       {totalTopics}
                     </p>
                     <p className="text-xs text-slate-600 dark:text-slate-400">Topics</p>
@@ -205,12 +210,12 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
                 </div>
 
                 {/* Period Metric */}
-                <div className="flex items-center space-x-1 p-1.5 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
-                  <div className="w-5 h-5 sm:w-6 sm:h-6 bg-gradient-to-br from-amber-500 to-amber-600 rounded-xl flex items-center justify-center shadow-lg shadow-amber-500/25 flex-shrink-0">
+                <div className="flex items-center space-x-1.5 p-2 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
+                  <div className="w-6 h-6 bg-gradient-to-br from-amber-500 to-amber-600 rounded-lg flex items-center justify-center shadow-lg shadow-amber-500/25 flex-shrink-0">
                     <i className="fas fa-calendar-alt text-white text-xs"></i>
                   </div>
                   <div className="min-w-0 flex-1">
-                    <p className="text-sm font-semibold text-slate-800 dark:text-slate-200 leading-none">
+                    <p className="text-sm font-bold text-slate-800 dark:text-slate-200 leading-none">
                       {analysisData?.metadata.period ? 
                         `${analysisData.metadata.period.start} - ${analysisData.metadata.period.end}` : 
                         'N/A'
@@ -233,12 +238,12 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
                 </div>
 
                 {/* Updated Metric */}
-                <div className="flex items-center space-x-1 p-1.5 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
-                  <div className="w-5 h-5 sm:w-6 sm:h-6 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg shadow-purple-500/25 flex-shrink-0">
+                <div className="flex items-center space-x-1.5 p-2 bg-slate-50/50 dark:bg-slate-700/30 rounded-xl">
+                  <div className="w-6 h-6 bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg flex items-center justify-center shadow-lg shadow-purple-500/25 flex-shrink-0">
                     <i className="fas fa-clock text-white text-xs"></i>
                   </div>
                   <div className="min-w-0 flex-1">
-                    <p className="text-sm font-semibold text-slate-800 dark:text-slate-200 leading-none">
+                    <p className="text-sm font-bold text-slate-800 dark:text-slate-200 leading-none">
                       {analysisData?.metadata.lastUpdated ? 
                         new Date(analysisData.metadata.lastUpdated).toLocaleDateString('en-US', { 
                           year: '2-digit',

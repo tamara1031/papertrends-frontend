@@ -34,10 +34,6 @@ export interface Category {
   subcategoryGroups: SubcategoryGroup[];
 }
 
-export interface ThemeContextType {
-  theme: 'light' | 'dark';
-  toggleTheme: () => void;
-}
 
 // Analysis data types
 export interface AnalysisData {

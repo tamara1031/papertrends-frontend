@@ -1,4 +1,4 @@
-import { AcknowledgmentsContent } from '@/components/sections'
+import AcknowledgmentsContent from '@/components/sections/AcknowledgmentsContent'
 
 export const metadata = {
   title: 'Acknowledgments - PaperTrends',
