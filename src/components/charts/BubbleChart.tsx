@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
-import { TopicData } from '../../lib/types';
+import type { TopicData } from '../../lib/types';
 import { getChartTheme, getFontSize, getSpacing } from '../../lib/themes/theme';
 
 interface BubbleChartProps {
@@ -102,7 +102,7 @@ export function BubbleChart({
         .join('g')
         .attr('transform', d => `translate(${d.x + padding},${d.y + padding})`)
         .style('cursor', 'pointer')
-        .on('click', function(event, d) {
+        .on('click', function(_, d) {
           const data = d.data as any;
           const topicId = data?.id;
           if (topicId && onTopicSelect) {
@@ -113,7 +113,7 @@ export function BubbleChart({
             }
           }
         })
-        .on('mouseenter', function(event, d) {
+        .on('mouseenter', function(_, d) {
           const data = d.data as any;
           const isSelected = selectedTopic === data?.id;
           if (!isSelected) {
@@ -122,7 +122,7 @@ export function BubbleChart({
               .attr('stroke', chartTheme.colors.hover);
           }
         })
-        .on('mouseleave', function(event, d) {
+        .on('mouseleave', function(_, d) {
           const data = d.data as any;
           const isSelected = selectedTopic === data?.id;
           if (!isSelected) {
@@ -135,7 +135,7 @@ export function BubbleChart({
       // バブル（円）の描画
       node.append('circle')
         .attr('r', d => d.r)
-        .attr('fill', (d, i) => color(String(i))) // 常に元のカラーパレットを使用
+        .attr('fill', (_, i) => color(String(i))) // 常に元のカラーパレットを使用
         .attr('fill-opacity', d => {
           const data = d.data as any;
           const isSelected = selectedTopic === data?.id;
@@ -169,7 +169,7 @@ export function BubbleChart({
         .attr('font-size', d => {
           // Scale font size based on bubble size and container size
           const baseFontSize = Math.min(d.r * 0.3, Math.min(chartWidth, chartHeight) * 0.08);
-          return Math.max(baseFontSize, getFontSize('xs', chartTheme)); // Minimum font size
+          return Math.max(baseFontSize, parseFloat(getFontSize('xs', chartTheme))); // Minimum font size
         })
         .attr('font-family', chartTheme.typography.fontFamily)
         .attr('font-weight', chartTheme.typography.fontWeight.medium)
@@ -196,7 +196,7 @@ export function BubbleChart({
         })
         .join('tspan')
         .attr('x', 0)
-        .attr('y', (d, i, nodes) => {
+        .attr('y', (_, i, nodes) => {
           const totalLines = nodes.length;
           if (totalLines === 1) return 0; // 単一テキストの場合は中央
           if (totalLines === 2) {

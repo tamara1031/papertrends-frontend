@@ -1,12 +1,11 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-
 import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://papertrends.vercel.app', // Update with your actual domain
+  site: 'https://papertrends.vercel.app',
   integrations: [react()],
   
   // Enable static site generation
@@ -25,5 +24,13 @@ export default defineConfig({
         '@': new URL('./src', import.meta.url).pathname
       }
     }
+  },
+  
+  // Performance optimizations
+  compressHTML: true,
+  
+  // Security headers
+  security: {
+    checkOrigin: true
   }
 });

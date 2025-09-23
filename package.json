@@ -11,8 +11,10 @@
     "lint": "astro check",
     "lint:fix": "astro check --fix",
     "type-check": "astro check",
-    "clean": "rm -rf dist node_modules/.cache",
-    "deploy": "npm run build && npx wrangler pages deploy dist"
+    "clean": "rm -rf dist node_modules/.cache .astro",
+    "deploy": "npm run build && npx wrangler pages deploy dist",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
     "@astrojs/react": "^4.3.1",

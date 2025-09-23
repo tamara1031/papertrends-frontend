@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
-import { AnalysisData } from '../../lib/types';
+import type { AnalysisData } from '../../lib/types';
 import { getChartTheme, getFontSize, getSpacing } from '../../lib/themes/theme';
 
 interface StackAreaChartProps {
@@ -117,7 +117,7 @@ export function StackAreaChart({
         .join('g')
         .attr('class', 'area')
         .style('cursor', 'pointer')
-        .on('click', function(event, d) {
+        .on('click', function(_, d) {
           const topicId = d.key;
           if (onTopicSelect) {
             if (selectedTopic === topicId) {
@@ -127,7 +127,7 @@ export function StackAreaChart({
             }
           }
         })
-        .on('mouseenter', function(event, d) {
+        .on('mouseenter', function(_, d) {
           const topicId = d.key;
           const isSelected = selectedTopic === topicId;
           if (!isSelected) {
@@ -136,7 +136,7 @@ export function StackAreaChart({
               .style('stroke-width', 2);
           }
         })
-        .on('mouseleave', function(event, d) {
+        .on('mouseleave', function(_, d) {
           const topicId = d.key;
           const isSelected = selectedTopic === topicId;
           if (!isSelected) {
@@ -148,13 +148,13 @@ export function StackAreaChart({
 
       areas.append('path')
         .attr('d', area)
-        .attr('fill', (d, i) => color(String(i)))
+        .attr('fill', (_, i) => color(String(i)))
         .attr('fill-opacity', d => {
           const topicId = d.key;
           const isSelected = selectedTopic === topicId;
           return isSelected ? 0.8 : 0.6;
         })
-        .attr('stroke', (d, i) => color(String(i)))
+        .attr('stroke', (_, i) => color(String(i)))
         .attr('stroke-width', d => {
           const topicId = d.key;
           const isSelected = selectedTopic === topicId;
@@ -170,8 +170,8 @@ export function StackAreaChart({
 
       // Add labels
       areas.append('text')
-        .attr('x', d => xScale(d3.median(d, d => d.data.year) || 0))
-        .attr('y', d => yScale((d3.max(d, d => d[1]) || 0 + d3.min(d, d => d[0]) || 0) / 2))
+        .attr('x', d => xScale(d3.median(d, d => d.data.year) ?? 0))
+        .attr('y', d => yScale(((d3.max(d, d => d[1]) ?? 0) + (d3.min(d, d => d[0]) ?? 0)) / 2))
         .attr('text-anchor', 'middle')
         .attr('dominant-baseline', 'middle')
         .attr('font-size', getFontSize('xs', chartTheme))

@@ -12,5 +12,4 @@ export * from './themes/theme';
 
 // Specific exports for backward compatibility
 export { arxivCategories } from './data/arxiv-categories';
-export { topicModelingInfo } from './data/arxiv-categories';
 export { getColorScale } from './utils/colorScale';

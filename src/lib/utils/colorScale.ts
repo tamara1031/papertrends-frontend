@@ -1,4 +1,4 @@
-import { Category } from '../types';
+import type { Category } from '../types';
 
 export function getColorScale(categoryId: string): string[] {
   const colorScales: Record<string, string[]> = {
