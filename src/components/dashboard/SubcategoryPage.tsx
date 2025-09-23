@@ -291,7 +291,12 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
             <div className="bg-white dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 h-[32rem] sm:h-[36rem] md:h-[40rem] lg:h-[32rem] flex flex-col">
               {/* Title Container */}
               <div className="p-4 pb-0 flex-shrink-0">
-                <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200">Topic Analysis</h3>
+                <div className="flex items-center">
+                  <div className="w-8 h-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-lg flex items-center justify-center mr-3">
+                    <i className="fas fa-project-diagram text-white text-sm"></i>
+                  </div>
+                  <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200">Topic Analysis</h3>
+                </div>
               </div>
               
               {/* Content Container */}
