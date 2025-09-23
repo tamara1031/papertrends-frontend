@@ -97,6 +97,51 @@ src/
 
 MIT License
 
+## Deployment
+
+### Cloudflare Pages
+
+This project is configured for deployment to Cloudflare Pages with static export.
+
+#### Prerequisites
+
+1. **Install Wrangler CLI**:
+```bash
+npm install -g wrangler
+```
+
+2. **Login to Cloudflare**:
+```bash
+wrangler login
+```
+
+#### Deployment Commands
+
+```bash
+# Build the project for static export
+npm run build
+
+# Deploy to Cloudflare Pages
+npm run deploy
+
+# Preview locally (optional)
+npm run preview
+```
+
+#### Configuration
+
+- **Static Export**: Configured in `next.config.js` with `output: 'export'`
+- **Output Directory**: `out/` (default for Cloudflare Pages)
+- **Wrangler Config**: `wrangler.toml` contains basic Cloudflare Pages settings
+
+#### Environment Variables
+
+If you need environment variables for your Cloudflare Pages deployment:
+
+1. Go to your Cloudflare Pages dashboard
+2. Navigate to Settings → Environment Variables
+3. Add your required variables
+
 ## Contributing
 
 Pull requests and issue reports are welcome.
