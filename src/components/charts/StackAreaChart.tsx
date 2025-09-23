@@ -193,12 +193,12 @@ export function StackAreaChart({ data, width, height, legendContainer }: StackAr
           
           // Responsive text truncation based on container size
           const containerWidth = containerRect.width
-          let maxLength = 24 // Default for large screens
+          let maxLength = 16 // Default for large screens
           
           if (containerWidth < 640) { // sm breakpoint
-            maxLength = 18 // Shorter for mobile to fit better in 2-column grid
+            maxLength = 16 // Shorter for mobile to fit better in 2-column grid
           } else if (containerWidth < 768) { // md breakpoint
-            maxLength = 20
+            maxLength = 16
           }
           
           const name = topic.name

@@ -290,18 +290,16 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
               
               {/* Content Container */}
               <div className="flex-1 p-4 pt-2 min-h-0">
-                {analysisData?.topics?.data && (
-                  <div className="w-full h-full min-h-0">
-                    <BubbleChart 
-                      data={Object.entries(analysisData.topics.data).map(([id, topic]) => ({
-                        id,
-                        name: topic.name,
-                        count: topic.count,
-                        keywords: topic.keywords || []
-                      }))}
-                    />
-                  </div>
-                )}
+                <div className="w-full h-full min-h-0">
+                  <BubbleChart 
+                    data={analysisData?.topics?.data ? Object.entries(analysisData.topics.data).map(([id, topic]) => ({
+                      id,
+                      name: topic.name,
+                      count: topic.count,
+                      keywords: topic.keywords || []
+                    })) : []}
+                  />
+                </div>
               </div>
             </div>
           </div>
@@ -317,28 +315,29 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
               </div>
               
               {/* Chart Container */}
-              {analysisData?.topics?.series && analysisData?.topics?.data && (
-                <div className="w-full flex-1 min-h-0 flex flex-col lg:flex-row gap-3">
-                  {/* Graph Container */}
-                  <div className="flex-1 min-h-0 bg-slate-50/30 dark:bg-slate-700/30 rounded-lg p-2">
-                    <div className="w-full h-full">
-                      <StackAreaChart 
-                        data={{
-                          series: analysisData.topics.series,
-                          topics: analysisData.topics.data
-                        }}
-                        legendContainer={legendRef}
-                      />
-                    </div>
-                  </div>
-                  
-                  {/* Legend Container */}
-                  <div className="h-48 sm:h-40 md:h-32 lg:h-auto lg:w-44 flex-shrink-0 bg-slate-50/30 dark:bg-slate-700/30 rounded-lg p-2 flex flex-col overflow-hidden">
-                    <h4 className="text-sm font-medium text-slate-800 dark:text-slate-200 mb-1 flex-shrink-0">Topics</h4>
-                    <div ref={legendRef} className="grid grid-cols-2 gap-1 overflow-y-auto overflow-x-hidden flex-1 min-h-0 sm:grid-cols-3 sm:gap-1.5 md:grid-cols-3 md:gap-2 lg:block lg:space-y-1"></div>
+              <div className="w-full flex-1 min-h-0 flex flex-col lg:flex-row gap-3">
+                {/* Graph Container */}
+                <div className="flex-1 min-h-0 bg-slate-50/30 dark:bg-slate-700/30 rounded-lg p-2">
+                  <div className="w-full h-full">
+                    <StackAreaChart 
+                      data={analysisData?.topics?.series && analysisData?.topics?.data ? {
+                        series: analysisData.topics.series,
+                        topics: analysisData.topics.data
+                      } : {
+                        series: {},
+                        topics: {}
+                      }}
+                      legendContainer={legendRef}
+                    />
                   </div>
                 </div>
-              )}
+                
+                {/* Legend Container */}
+                <div className="h-48 sm:h-40 md:h-32 lg:h-auto lg:w-44 flex-shrink-0 bg-slate-50/30 dark:bg-slate-700/30 rounded-lg p-2 flex flex-col overflow-hidden">
+                  <h4 className="text-sm font-medium text-slate-800 dark:text-slate-200 mb-1 flex-shrink-0">Topics</h4>
+                  <div ref={legendRef} className="grid grid-cols-2 gap-1 overflow-y-auto overflow-x-hidden flex-1 min-h-0 sm:grid-cols-3 sm:gap-1.5 md:grid-cols-3 md:gap-2 lg:block lg:space-y-1"></div>
+                </div>
+              </div>
             </div>
           </div>
 
