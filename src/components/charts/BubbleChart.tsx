@@ -88,16 +88,18 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       .style('cursor', 'pointer')
       .on('click', function(event, d) {
         const data = d.data as any
-        const topicId = data.id
-        if (state.selectedTopic === topicId) {
-          handlers.handleTopicSelect(null)
-        } else {
-          handlers.handleTopicSelect(topicId)
+        const topicId = data?.id
+        if (topicId) {
+          if (state.selectedTopic === topicId) {
+            handlers.handleTopicSelect(null)
+          } else {
+            handlers.handleTopicSelect(topicId)
+          }
         }
       })
       .on('mouseenter', function(event, d) {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         if (!isSelected) {
           d3.select(this).select('circle')
             .attr('stroke-width', 3)
@@ -106,7 +108,7 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       })
       .on('mouseleave', function(event, d) {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         if (!isSelected) {
           d3.select(this).select('circle')
             .attr('stroke-width', 2)
@@ -120,7 +122,7 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       .attr('fill', (d, i) => color(String(i))) // 常に元のカラーパレットを使用
       .attr('fill-opacity', d => {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         if (hasSelection) {
           return isSelected ? 1.0 : 0.2 // 選択時は不透明度を上げ、非選択時は大幅に下げる
         }
@@ -128,17 +130,17 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       })
       .attr('stroke', d => {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         return isSelected ? chartTheme.colors.selection : chartTheme.colors.border
       })
       .attr('stroke-width', d => {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         return isSelected ? 5 : 2
       })
       .style('filter', d => {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         return isSelected ? 
           `${chartTheme.shadows.lg}, drop-shadow(0 0 12px ${chartTheme.colors.selection}60)` : 
           chartTheme.shadows.sm
@@ -147,7 +149,7 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
     // テキストの描画
     node.append('text')
       .attr('text-anchor', 'middle')
-      .attr('dy', '0.3em')
+      .attr('dominant-baseline', 'middle')
       .attr('font-size', d => {
         // Scale font size based on bubble size and container size
         const baseFontSize = Math.min(d.r * 0.3, Math.min(chartWidth, chartHeight) * 0.08)
@@ -157,27 +159,37 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       .attr('font-weight', chartTheme.typography.fontWeight.medium)
       .attr('fill', d => {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         return isSelected ? chartTheme.colors.text.primary : chartTheme.colors.text.muted
       })
       .style('font-weight', d => {
         const data = d.data as any
-        const isSelected = state.selectedTopic === data.id
+        const isSelected = state.selectedTopic === data?.id
         return isSelected ? chartTheme.typography.fontWeight.bold : chartTheme.typography.fontWeight.medium
       })
       .selectAll('tspan')
       .data(d => {
         const data = d.data as any
-        if (!data.keywords || data.keywords.length === 0) return [data.name]
-        const topKeywords = data.keywords
+        const keywords = data?.keywords || []
+        if (keywords.length === 0) return [data?.name || 'Unknown']
+        const topKeywords = keywords
           .sort((a: any, b: any) => b[1] - a[1])
           .slice(0, 3)
           .map((k: any) => k[0])
-        return topKeywords.length > 0 ? topKeywords : [data.name]
+        return topKeywords.length > 0 ? topKeywords : [data?.name || 'Unknown']
       })
       .join('tspan')
       .attr('x', 0)
-      .attr('dy', (d, i) => i === 0 ? 0 : '1.1em')
+      .attr('dy', (d, i) => {
+        const data = d.data as any
+        const keywords = data?.keywords || []
+        const totalLines = keywords.length > 0 ? 
+          Math.min(keywords.length, 3) : 1
+        const lineHeight = 1.1
+        const totalHeight = (totalLines - 1) * lineHeight
+        const startOffset = -totalHeight / 2
+        return i === 0 ? startOffset : `${lineHeight}em`
+      })
       .text(d => String(d))
       .style('pointer-events', 'none')
     }
