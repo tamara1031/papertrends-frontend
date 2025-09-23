@@ -180,16 +180,7 @@ export function BubbleChart({ data, width, height }: BubbleChartProps) {
       })
       .join('tspan')
       .attr('x', 0)
-      .attr('dy', (d, i) => {
-        const data = d.data as any
-        const keywords = data?.keywords || []
-        const totalLines = keywords.length > 0 ? 
-          Math.min(keywords.length, 3) : 1
-        const lineHeight = 1.1
-        const totalHeight = (totalLines - 1) * lineHeight
-        const startOffset = -totalHeight / 2
-        return i === 0 ? startOffset : `${lineHeight}em`
-      })
+      .attr('dy', (d, i) => i === 0 ? 0 : '1.0em')
       .text(d => String(d))
       .style('pointer-events', 'none')
     }

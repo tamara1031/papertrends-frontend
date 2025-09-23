@@ -24,12 +24,7 @@ export default function AboutSection() {
     return () => observer.disconnect()
   }, [])
 
-  const stats = [
-    { value: '100%', label: 'Free Access' },
-    { value: 'Open', label: 'Source Code' },
-    { value: 'MIT', label: 'License' },
-    { value: '24/7', label: 'Available' }
-  ]
+  const stats = []
 
   return (
     <section id="about-section" className="academic-section bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 border-t border-slate-200/60 dark:border-slate-700/60">
@@ -43,38 +38,19 @@ export default function AboutSection() {
           </p>
         </div>
         
-        {/* Stats Grid */}
-        <div className={`grid grid-cols-2 md:grid-cols-4 gap-6 mb-16 academic-fade-in ${isVisible ? 'visible' : ''}`} style={{ transitionDelay: '200ms' }}>
-          {stats.map((stat, index) => (
-            <div
-              key={index}
-              className="text-center"
-              style={{ transitionDelay: `${400 + index * 100}ms` }}
-            >
-              <div className="academic-metric text-blue-600 dark:text-blue-400">
-                {stat.value}
-              </div>
-              <div className="academic-label">
-                {stat.label}
-              </div>
-            </div>
-          ))}
-        </div>
-        
         {/* Main Content */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
           <div className={`academic-fade-in ${isVisible ? 'visible' : ''}`} style={{ transitionDelay: '600ms' }}>
             <Card variant="research" className="academic-card h-full">
               <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-emerald-600 rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-lg">
-                <i className="fas fa-graduation-cap text-white text-2xl"></i>
+                <i className="fas fa-gift text-white text-2xl"></i>
               </div>
               <h3 className="text-2xl font-semibold text-slate-800 dark:text-slate-200 mb-4 text-center">
-                Academic Focus
+                100% Free Access
               </h3>
               <p className="text-slate-600 dark:text-slate-300 leading-relaxed text-center">
-                Designed specifically for academic researchers and institutions. No commercial barriers, 
-                no data restrictions. Access advanced topic modeling and trend analysis tools built 
-                with academic rigor and transparency.
+                Completely free to use with no hidden costs, subscription fees, or usage limits. 
+                Access all features and analysis tools without any commercial barriers or restrictions.
               </p>
             </Card>
           </div>
@@ -85,11 +61,11 @@ export default function AboutSection() {
                 <i className="fab fa-github text-white text-2xl"></i>
               </div>
               <h3 className="text-2xl font-semibold text-slate-800 dark:text-slate-200 mb-4 text-center">
-                Open Source
+                Open Source & MIT License
               </h3>
               <p className="text-slate-600 dark:text-slate-300 leading-relaxed text-center mb-6">
-                Fully transparent and auditable codebase. Contribute, modify, and extend the platform 
-                to meet your research needs. Built on modern web technologies with academic best practices.
+                Fully transparent and auditable codebase under MIT license. Contribute, modify, and extend 
+                the platform freely. Built with modern web technologies and open source best practices.
               </p>
               <div className="text-center">
                 <a 
