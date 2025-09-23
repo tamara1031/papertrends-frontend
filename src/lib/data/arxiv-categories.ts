@@ -331,7 +331,6 @@ export const topicModelingInfo = {
     "Automatic discovery of research themes",
     "Identification of emerging topics",
     "Semantic understanding of paper content",
-    "Citation-based paper similarity",
     "Research gap identification"
   ]
 }

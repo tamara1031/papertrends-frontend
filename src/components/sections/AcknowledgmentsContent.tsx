@@ -233,22 +233,15 @@ export default function AcknowledgmentsContent() {
                 PaperTrends is an open source project. We welcome contributions, feedback, and suggestions 
                 from the research community.
               </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <div className="flex justify-center">
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/tamara1031/papertrends-frontend" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:ring-offset-2 dark:focus:ring-offset-slate-900"
                 >
                   <i className="fab fa-github mr-2"></i>
                   View on GitHub
-                </a>
-                <a 
-                  href="mailto:contact@papertrends.com" 
-                  className="inline-flex items-center px-6 py-3 bg-white/80 dark:bg-slate-800/80 hover:bg-white dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 font-semibold rounded-xl border border-slate-200 dark:border-slate-700 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-slate-500/50 focus:ring-offset-2 dark:focus:ring-offset-slate-900"
-                >
-                  <i className="fas fa-envelope mr-2"></i>
-                  Contact Us
                 </a>
               </div>
             </div>

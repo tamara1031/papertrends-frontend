@@ -46,9 +46,18 @@ export default function AboutSection() {
             <h3 className="text-3xl font-bold text-slate-800 dark:text-slate-200 mb-6">
               Open Source
             </h3>
-            <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed">
+            <p className="text-slate-600 dark:text-slate-300 text-lg leading-relaxed mb-8">
               Transparent, auditable, and community-driven. View, modify, and contribute to the code.
             </p>
+            <a 
+              href="https://github.com/tamara1031/papertrends-frontend"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-slate-800 to-slate-900 hover:from-slate-900 hover:to-black dark:from-slate-700 dark:to-slate-800 dark:hover:from-slate-600 dark:hover:to-slate-700 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:ring-offset-2 dark:focus:ring-offset-slate-900"
+            >
+              <i className="fab fa-github mr-2"></i>
+              View on GitHub
+            </a>
           </Card>
         </div>
         
