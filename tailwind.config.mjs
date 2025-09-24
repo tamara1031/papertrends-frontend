@@ -7,6 +7,25 @@ export default defineConfig({
   theme: {
     extend: {
       colors: {
+        // arXiv-inspired color palette
+        arxiv: {
+          white: '#FFFFFF',
+          black: '#000000',
+          blue: '#0000EE',
+          red: '#FF0000',
+          gray: {
+            50: '#F8F8F8',
+            100: '#F0F0F0',
+            200: '#E0E0E0',
+            300: '#C0C0C0',
+            400: '#808080',
+            500: '#606060',
+            600: '#404040',
+            700: '#202020',
+            800: '#101010',
+            900: '#000000',
+          },
+        },
         primary: {
           50: '#eff6ff',
           100: '#dbeafe',
@@ -48,7 +67,9 @@ export default defineConfig({
         },
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
+        sans: ['Georgia', 'Times New Roman', 'serif'], // arXiv-style serif fonts
+        mono: ['Courier New', 'monospace'], // arXiv-style monospace
+        modern: ['Inter', 'system-ui', 'sans-serif'], // Modern fallback
       },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',

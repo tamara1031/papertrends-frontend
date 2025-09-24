@@ -1,98 +1,90 @@
 ---
-// Enhanced Footer component with modern design
+// arXiv-style Footer component
 ---
 
-<footer class="bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-950 border-t border-gray-200 dark:border-gray-800">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+<footer class="bg-arxiv-white dark:bg-arxiv-white border-t-2 border-arxiv-black dark:border-arxiv-black">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       <!-- Brand -->
-      <div class="lg:col-span-2">
+      <div class="md:col-span-2">
         <div class="flex items-center space-x-3 mb-6">
-          <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg">
-            <i class="fas fa-chart-line text-white text-xl"></i>
+          <div class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center">
+            <span class="text-arxiv-white dark:text-arxiv-white font-bold text-sm">PT</span>
           </div>
-          <span class="text-2xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 dark:from-gray-100 dark:to-gray-300 bg-clip-text text-transparent">
+          <span class="text-xl font-bold text-arxiv-black dark:text-arxiv-black font-sans">
             PaperTrends
           </span>
         </div>
-        <p class="text-gray-600 dark:text-gray-400 text-base max-w-md mb-6 leading-relaxed">
+        <p class="text-arxiv-black dark:text-arxiv-black text-sm max-w-md mb-6 leading-relaxed">
           An open-source platform for visualizing academic research trends and discovering insights across research domains. Explore the evolution of knowledge through interactive data visualizations.
         </p>
         
-        <!-- Social Links -->
+        <!-- arXiv-style Social Links -->
         <div class="flex space-x-4">
-          <a href="https://github.com/papertrends" class="w-10 h-10 bg-gray-200 dark:bg-gray-800 rounded-lg flex items-center justify-center hover:bg-blue-500 hover:text-white transition-all duration-300 hover:scale-110 shadow-sm hover:shadow-lg">
-            <i class="fab fa-github text-lg"></i>
+          <a href="https://github.com/papertrends" class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
+            <i class="fab fa-github text-arxiv-white dark:text-arxiv-white text-sm"></i>
           </a>
-          <a href="https://twitter.com/papertrends" class="w-10 h-10 bg-gray-200 dark:bg-gray-800 rounded-lg flex items-center justify-center hover:bg-blue-500 hover:text-white transition-all duration-300 hover:scale-110 shadow-sm hover:shadow-lg">
-            <i class="fab fa-twitter text-lg"></i>
+          <a href="https://twitter.com/papertrends" class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
+            <i class="fab fa-twitter text-arxiv-white dark:text-arxiv-white text-sm"></i>
           </a>
-          <a href="https://linkedin.com/company/papertrends" class="w-10 h-10 bg-gray-200 dark:bg-gray-800 rounded-lg flex items-center justify-center hover:bg-blue-600 hover:text-white transition-all duration-300 hover:scale-110 shadow-sm hover:shadow-lg">
-            <i class="fab fa-linkedin text-lg"></i>
+          <a href="https://linkedin.com/company/papertrends" class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
+            <i class="fab fa-linkedin text-arxiv-white dark:text-arxiv-white text-sm"></i>
           </a>
         </div>
       </div>
       
-      <!-- Quick Links -->
+      <!-- arXiv-style Quick Links -->
       <div>
-        <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-6">
+        <h3 class="text-sm font-bold text-arxiv-black dark:text-arxiv-black mb-4 font-sans">
           Quick Links
         </h3>
-        <ul class="space-y-3">
+        <ul class="space-y-2">
           <li>
-            <a href="/" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fas fa-home mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="/" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               Home
             </a>
           </li>
           <li>
-            <a href="/how-it-works" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fas fa-info-circle mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="/how-it-works" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               How it Works
             </a>
           </li>
           <li>
-            <a href="/acknowledgments" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fas fa-heart mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="/acknowledgments" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               Acknowledgments
             </a>
           </li>
           <li>
-            <a href="/dashboard" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fas fa-chart-bar mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="/dashboard" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               Dashboard
             </a>
           </li>
         </ul>
       </div>
       
-      <!-- Resources -->
+      <!-- arXiv-style Resources -->
       <div>
-        <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-6">
+        <h3 class="text-sm font-bold text-arxiv-black dark:text-arxiv-black mb-4 font-sans">
           Resources
         </h3>
-        <ul class="space-y-3">
+        <ul class="space-y-2">
           <li>
-            <a href="https://github.com/papertrends" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fab fa-github mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="https://github.com/papertrends" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               GitHub Repository
             </a>
           </li>
           <li>
-            <a href="https://arxiv.org" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fas fa-book mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="https://arxiv.org" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               arXiv Papers
             </a>
           </li>
           <li>
-            <a href="https://astro.build" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fas fa-rocket mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="https://astro.build" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               Astro Framework
             </a>
           </li>
           <li>
-            <a href="/api" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors flex items-center group">
-              <i class="fas fa-code mr-2 text-xs group-hover:scale-110 transition-transform"></i>
+            <a href="/api" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               API Documentation
             </a>
           </li>
@@ -100,43 +92,43 @@
       </div>
     </div>
     
-    <!-- Newsletter Signup -->
-    <div class="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
+    <!-- arXiv-style Newsletter Signup -->
+    <div class="mt-8 pt-6 border-t-2 border-arxiv-black dark:border-arxiv-black">
       <div class="max-w-md mx-auto text-center">
-        <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">
+        <h3 class="text-sm font-bold text-arxiv-black dark:text-arxiv-black mb-2 font-sans">
           Stay Updated
         </h3>
-        <p class="text-gray-600 dark:text-gray-400 text-sm mb-4">
+        <p class="text-arxiv-black dark:text-arxiv-black text-xs mb-4">
           Get notified about new features and research insights
         </p>
         <div class="flex gap-2">
           <input 
             type="email" 
             placeholder="Enter your email" 
-            class="flex-1 px-4 py-2 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-700 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+            class="flex-1 px-3 py-1 bg-arxiv-white dark:bg-arxiv-white border border-arxiv-black dark:border-arxiv-black text-xs focus:outline-none focus:ring-1 focus:ring-arxiv-blue focus:border-arxiv-blue"
           />
-          <button class="px-6 py-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white text-sm font-medium rounded-lg hover:from-blue-600 hover:to-purple-700 transition-all duration-200 shadow-sm hover:shadow-md">
+          <button class="px-4 py-1 bg-arxiv-black dark:bg-arxiv-black text-arxiv-white dark:text-arxiv-white text-xs font-medium border border-arxiv-black dark:border-arxiv-black hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
             Subscribe
           </button>
         </div>
       </div>
     </div>
     
-    <!-- Bottom -->
-    <div class="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
+    <!-- arXiv-style Bottom -->
+    <div class="mt-8 pt-6 border-t-2 border-arxiv-black dark:border-arxiv-black">
       <div class="flex flex-col md:flex-row justify-between items-center">
-        <p class="text-gray-500 dark:text-gray-400 text-sm">
+        <p class="text-arxiv-black dark:text-arxiv-black text-xs">
           © 2024 PaperTrends. All rights reserved. Open source under MIT License.
         </p>
-        <div class="flex items-center space-x-6 mt-4 md:mt-0">
-          <a href="/privacy" class="text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors">
+        <div class="flex items-center space-x-4 mt-2 md:mt-0">
+          <a href="/privacy" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
             Privacy Policy
           </a>
-          <a href="/terms" class="text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm transition-colors">
+          <a href="/terms" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
             Terms of Service
           </a>
-          <p class="text-gray-500 dark:text-gray-400 text-sm">
-            Built with <span class="text-red-500 animate-pulse">♥</span> using Astro
+          <p class="text-arxiv-black dark:text-arxiv-black text-xs">
+            Built with Astro
           </p>
         </div>
       </div>

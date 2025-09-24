@@ -3,22 +3,134 @@
 /* Tailwind v4 Dark Mode Configuration */
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* Custom CSS Variables for Theme */
+/* arXiv-inspired CSS Variables */
 :root {
-  --color-primary: #3b82f6;
-  --color-secondary: #a855f7;
-  --color-accent: #22c55e;
+  --color-arxiv-white: #FFFFFF;
+  --color-arxiv-black: #000000;
+  --color-arxiv-blue: #0000EE;
+  --color-arxiv-red: #FF0000;
+  --color-arxiv-gray: #808080;
+  --color-primary: #0000EE;
+  --color-secondary: #FF0000;
+  --color-accent: #808080;
 }
 
 .dark {
-  --color-primary: #60a5fa;
-  --color-secondary: #c084fc;
-  --color-accent: #4ade80;
+  --color-arxiv-white: #FFFFFF;
+  --color-arxiv-black: #000000;
+  --color-arxiv-blue: #60A5FA;
+  --color-arxiv-red: #FF6B6B;
+  --color-arxiv-gray: #C0C0C0;
+  --color-primary: #60A5FA;
+  --color-secondary: #FF6B6B;
+  --color-accent: #C0C0C0;
 }
 
-/* Smooth scrolling */
+/* arXiv-inspired Typography and Layout */
 html {
   scroll-behavior: smooth;
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+/* Ensure header is not transparent */
+header {
+  background-color: var(--color-arxiv-white) !important;
+  opacity: 1 !important;
+}
+
+.dark header {
+  background-color: var(--color-arxiv-white) !important;
+  opacity: 1 !important;
+}
+
+/* arXiv-style headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: bold;
+  color: var(--color-arxiv-black);
+  margin-bottom: 0.5em;
+}
+
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+  color: var(--color-arxiv-white);
+}
+
+/* arXiv-style links */
+a {
+  color: var(--color-arxiv-blue);
+  text-decoration: underline;
+}
+
+a:hover {
+  color: var(--color-arxiv-red);
+}
+
+.dark a {
+  color: var(--color-arxiv-blue);
+}
+
+.dark a:hover {
+  color: var(--color-arxiv-red);
+}
+
+/* arXiv-style code */
+code, pre {
+  font-family: 'Courier New', monospace;
+  background-color: var(--color-arxiv-gray);
+  color: var(--color-arxiv-black);
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+}
+
+.dark code, .dark pre {
+  background-color: var(--color-arxiv-gray);
+  color: var(--color-arxiv-white);
+}
+
+/* arXiv-style tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+th, td {
+  border: 1px solid var(--color-arxiv-gray);
+  padding: 0.5rem;
+  text-align: left;
+}
+
+th {
+  background-color: var(--color-arxiv-gray);
+  font-weight: bold;
+}
+
+.dark th {
+  background-color: var(--color-arxiv-gray);
+}
+
+/* arXiv-style lists */
+ul, ol {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+li {
+  margin: 0.25rem 0;
+}
+
+/* arXiv-style blockquotes */
+blockquote {
+  border-left: 4px solid var(--color-arxiv-blue);
+  margin: 1rem 0;
+  padding-left: 1rem;
+  font-style: italic;
+  color: var(--color-arxiv-gray);
+}
+
+.dark blockquote {
+  border-left-color: var(--color-arxiv-blue);
+  color: var(--color-arxiv-gray);
 }
 
 /* Custom scrollbar */
