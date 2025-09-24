@@ -7,17 +7,30 @@
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <!-- Brand -->
       <div class="md:col-span-2">
-        <div class="flex items-center space-x-3 mb-6">
-          <div class="w-10 h-10 bg-gray-800 dark:bg-gray-700 rounded-lg flex items-center justify-center">
+        <div class="logo-container mb-6">
+          <div class="logo-icon">
             <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M3 13h2v8H3v-8zm4-6h2v14H7V7zm4-4h2v18h-2V3zm4 8h2v10h-2V11zm4-6h2v16h-2V5z"/>
+              <!-- Bar chart bars -->
+              <rect x="2" y="16" width="3" height="6" rx="0.5"/>
+              <rect x="6" y="12" width="3" height="10" rx="0.5"/>
+              <rect x="10" y="8" width="3" height="14" rx="0.5"/>
+              <rect x="14" y="4" width="3" height="18" rx="0.5"/>
+              <rect x="18" y="10" width="3" height="12" rx="0.5"/>
+              <!-- Trend line -->
+              <path d="M3.5 18.5L7 15L10.5 11L14 7L18.5 10.5" stroke="currentColor" stroke-width="1.5" fill="none" opacity="0.8"/>
+              <!-- Data points -->
+              <circle cx="3.5" cy="18.5" r="1" fill="currentColor"/>
+              <circle cx="7" cy="15" r="1" fill="currentColor"/>
+              <circle cx="10.5" cy="11" r="1" fill="currentColor"/>
+              <circle cx="14" cy="7" r="1" fill="currentColor"/>
+              <circle cx="18.5" cy="10.5" r="1" fill="currentColor"/>
             </svg>
           </div>
-          <span class="text-xl font-bold text-gray-900 dark:text-white">
+          <span class="logo-text">
             PaperTrends
           </span>
         </div>
-        <p class="text-gray-600 dark:text-gray-400 text-sm max-w-md mb-6 leading-relaxed">
+        <p class="text-body text-sm max-w-md mb-6">
           An open-source tool for visualizing academic research trends and discovering insights across research domains. Explore the evolution of knowledge through interactive data visualizations.
         </p>
         
@@ -37,22 +50,22 @@
       
       <!-- arXiv-style Quick Links -->
       <div>
-        <h3 class="text-sm font-bold text-arxiv-black dark:text-arxiv-black mb-4 font-sans">
+        <h3 class="heading-tertiary text-sm mb-4">
           Quick Links
         </h3>
         <ul class="space-y-2">
           <li>
-            <a href="/" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
+            <a href="/" class="link-primary text-xs">
               Home
             </a>
           </li>
           <li>
-            <a href="/how-it-works" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
+            <a href="/how-it-works" class="link-primary text-xs">
               How it Works
             </a>
           </li>
           <li>
-            <a href="/dashboard" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
+            <a href="/dashboard" class="link-primary text-xs">
               Dashboard
             </a>
           </li>
@@ -61,27 +74,27 @@
       
       <!-- arXiv-style Resources -->
       <div>
-        <h3 class="text-sm font-bold text-arxiv-black dark:text-arxiv-black mb-4 font-sans">
+        <h3 class="heading-tertiary text-sm mb-4">
           Resources
         </h3>
         <ul class="space-y-2">
           <li>
-            <a href="https://github.com/papertrends" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
+            <a href="https://github.com/papertrends" class="link-primary text-xs">
               GitHub Repository
             </a>
           </li>
           <li>
-            <a href="https://arxiv.org" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
+            <a href="https://arxiv.org" class="link-primary text-xs">
               arXiv Papers
             </a>
           </li>
           <li>
-            <a href="https://astro.build" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
+            <a href="https://astro.build" class="link-primary text-xs">
               Astro Framework
             </a>
           </li>
           <li>
-            <a href="/api" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
+            <a href="/api" class="link-primary text-xs">
               API Documentation
             </a>
           </li>
@@ -90,19 +103,19 @@
     </div>
     
     <!-- arXiv-style Bottom -->
-    <div class="mt-8 pt-6 border-t-2 border-arxiv-black dark:border-arxiv-black">
+    <div class="mt-8 pt-6 border-t-2 border-gray-300 dark:border-gray-600">
       <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-4">
-        <p class="text-arxiv-black dark:text-arxiv-black text-xs flex-shrink-0">
+        <p class="text-meta text-xs flex-shrink-0">
           © 2025 PaperTrends. All rights reserved. Open source under MIT License.
         </p>
         <div class="flex flex-wrap items-center gap-4">
-          <a href="/privacy" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline whitespace-nowrap">
+          <a href="/privacy" class="link-primary text-xs whitespace-nowrap">
             Privacy Policy
           </a>
-          <a href="/terms" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline whitespace-nowrap">
+          <a href="/terms" class="link-primary text-xs whitespace-nowrap">
             Terms of Service
           </a>
-          <p class="text-arxiv-black dark:text-arxiv-black text-xs whitespace-nowrap">
+          <p class="text-meta text-xs whitespace-nowrap">
             Built with Astro
           </p>
         </div>

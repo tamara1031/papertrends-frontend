@@ -5,11 +5,11 @@ import Layout from '../layouts/Layout.astro';
 <Layout title="PaperTrends - Academic Research Trend Analysis">
   <main class="min-h-screen bg-white dark:bg-gray-900">
     <!-- arXiv-style Header Section -->
-    <section class="py-12 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section class="section">
+      <div class="section-container">
         <div class="text-center">
           <!-- arXiv-style title -->
-          <h1 class="text-4xl font-bold text-gray-900 dark:text-white mb-4">
+          <h1 class="heading-primary">
             PaperTrends: Academic Research Trend Analysis
           </h1>
           
@@ -19,55 +19,55 @@ import Layout from '../layouts/Layout.astro';
           </h2>
           
           <!-- arXiv-style description -->
-          <p class="text-base text-gray-600 dark:text-gray-400 mb-8 leading-relaxed max-w-3xl mx-auto">
+          <p class="text-body mb-8 max-w-3xl mx-auto">
             This tool provides comprehensive analysis of academic research trends based on data from 
-            <a href="https://arxiv.org" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">arXiv.org</a>. 
+            <a href="https://arxiv.org" class="link-primary">arXiv.org</a>. 
             Explore patterns and insights across 7 major categories and 95+ subcategories of academic research.
           </p>
           
           <!-- arXiv-style metadata -->
-          <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 mb-8 text-sm rounded-lg">
+          <div class="card-metadata mb-8">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <span class="font-bold text-gray-900 dark:text-white">Categories:</span>
-                <span class="text-gray-700 dark:text-gray-300">cs.AI, cs.LG, math.ST, physics.data-an, q-bio.QM, econ.EM, stat.ML</span>
+                <span class="text-meta">cs.AI, cs.LG, math.ST, physics.data-an, q-bio.QM, econ.EM, stat.ML</span>
               </div>
               <div>
                 <span class="font-bold text-gray-900 dark:text-white">Keywords:</span>
-                <span class="text-gray-700 dark:text-gray-300">research trends, data visualization, academic analysis, arXiv</span>
+                <span class="text-meta">research trends, data visualization, academic analysis, arXiv</span>
               </div>
               <div>
                 <span class="font-bold text-gray-900 dark:text-white">Data Source:</span>
-                <span class="text-gray-700 dark:text-gray-300">arXiv.org e-Print Archive</span>
+                <span class="text-meta">arXiv.org e-Print Archive</span>
               </div>
               <div>
                 <span class="font-bold text-gray-900 dark:text-white">Analysis Period:</span>
-                <span class="text-gray-700 dark:text-gray-300">2020-01 to 2025-09</span>
+                <span class="text-meta">2020-01 to 2025-09</span>
               </div>
             </div>
           </div>
           
           <!-- arXiv-style statistics table -->
           <div class="mb-8">
-            <table class="mx-auto border-collapse border border-gray-300 dark:border-gray-600 rounded-lg overflow-hidden">
+            <table class="table-paper">
               <thead>
-                <tr class="bg-gray-100 dark:bg-gray-800">
-                  <th class="border border-gray-300 dark:border-gray-600 px-4 py-2 text-left font-bold text-gray-900 dark:text-white">Dataset</th>
-                  <th class="border border-gray-300 dark:border-gray-600 px-4 py-2 text-left font-bold text-gray-900 dark:text-white">Count</th>
+                <tr>
+                  <th>Dataset</th>
+                  <th>Count</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td class="border border-gray-300 dark:border-gray-600 px-4 py-2 text-gray-700 dark:text-gray-300">Papers Analyzed</td>
-                  <td class="border border-gray-300 dark:border-gray-600 px-4 py-2 font-bold text-gray-900 dark:text-white">1,600,000+</td>
+                  <td>Papers Analyzed</td>
+                  <td class="font-bold">1,600,000+</td>
                 </tr>
                 <tr>
-                  <td class="border border-gray-300 dark:border-gray-600 px-4 py-2 text-gray-700 dark:text-gray-300">Major Categories</td>
-                  <td class="border border-gray-300 dark:border-gray-600 px-4 py-2 font-bold text-gray-900 dark:text-white">7</td>
+                  <td>Major Categories</td>
+                  <td class="font-bold">7</td>
                 </tr>
                 <tr>
-                  <td class="border border-gray-300 dark:border-gray-600 px-4 py-2 text-gray-700 dark:text-gray-300">Subcategories</td>
-                  <td class="border border-gray-300 dark:border-gray-600 px-4 py-2 font-bold text-gray-900 dark:text-white">95+</td>
+                  <td>Subcategories</td>
+                  <td class="font-bold">95+</td>
                 </tr>
               </tbody>
             </table>
@@ -75,10 +75,10 @@ import Layout from '../layouts/Layout.astro';
           
           <!-- arXiv-style navigation -->
           <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="/dashboard" class="inline-block px-6 py-3 bg-blue-600 dark:bg-blue-500 text-white hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors duration-200 rounded-md font-medium shadow-sm hover:shadow-md">
+            <a href="/dashboard" class="btn-primary">
               Explore Trends
             </a>
-            <a href="/how-it-works" class="inline-block px-6 py-3 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors duration-200 rounded-md font-medium">
+            <a href="/how-it-works" class="btn-outline">
               Documentation
             </a>
           </div>
@@ -87,13 +87,13 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <!-- arXiv-style Abstract Section -->
-    <section class="py-12 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+    <section class="section">
+      <div class="section-container">
+        <h2 class="heading-secondary">
           Abstract
         </h2>
-        <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6 rounded-lg">
-          <p class="text-gray-700 dark:text-gray-300 leading-relaxed">
+        <div class="card-inset">
+          <p class="text-body">
             We present PaperTrends, a comprehensive tool for analyzing academic research trends based on data from the arXiv.org e-Print Archive. 
             Our system processes over 1.6 million research papers across 7 major categories and 95+ subcategories, providing researchers, 
             academics, and data enthusiasts with powerful tools to explore patterns, trends, and insights in academic research. 
@@ -106,23 +106,23 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <!-- arXiv-style Features Section -->
-    <section class="py-12 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-8 text-center">
+    <section class="section">
+      <div class="section-container">
+        <h2 class="heading-secondary text-center">
           Tool Features
         </h2>
         
         <div class="space-y-8">
           <!-- Research Visualizations -->
-          <div class="border border-gray-300 dark:border-gray-600 p-6 rounded-lg">
-            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-3">
+          <div class="card-elevated p-6">
+            <h3 class="heading-tertiary">
               Research Visualizations
             </h3>
-            <p class="text-gray-700 dark:text-gray-300 mb-4">
+            <p class="text-body mb-4">
               Explore research trends through comprehensive circle packing and theme river visualizations. 
               Browse and analyze data patterns across different research domains.
             </p>
-            <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-3 rounded-md">
+            <div class="card-inset p-3">
               <div class="text-sm font-bold text-gray-900 dark:text-white mb-2">Available Data:</div>
               <ul class="text-sm text-gray-700 dark:text-gray-300 space-y-1">
                 <li>• Historical trend analysis</li>
@@ -133,15 +133,15 @@ import Layout from '../layouts/Layout.astro';
           </div>
           
           <!-- Comprehensive Coverage -->
-          <div class="border border-gray-300 dark:border-gray-600 p-6 rounded-lg">
-            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-3">
+          <div class="card-elevated p-6">
+            <h3 class="heading-tertiary">
               Comprehensive Coverage
             </h3>
-            <p class="text-gray-700 dark:text-gray-300 mb-4">
+            <p class="text-body mb-4">
               Explore analysis results from 1.6M papers across 7 major disciplines. 
               Discover trends in Computer Science, Mathematics, Physics, Biology, Economics, Statistics, and Engineering.
             </p>
-            <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-3 rounded-md">
+            <div class="card-inset p-3">
               <div class="text-sm font-bold text-gray-900 dark:text-white mb-2">Coverage Details:</div>
               <ul class="text-sm text-gray-700 dark:text-gray-300 space-y-1">
                 <li>• 7 major research categories</li>
@@ -152,15 +152,15 @@ import Layout from '../layouts/Layout.astro';
           </div>
           
           <!-- Research Insights -->
-          <div class="border border-gray-300 dark:border-gray-600 p-6 rounded-lg">
-            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-3">
+          <div class="card-elevated p-6">
+            <h3 class="heading-tertiary">
               Research Insights
             </h3>
-            <p class="text-gray-700 dark:text-gray-300 mb-4">
+            <p class="text-body mb-4">
               Discover patterns and trends in academic research. Analyze research evolution, 
               identify emerging topics, and understand the landscape of academic knowledge.
             </p>
-            <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-3 rounded-md">
+            <div class="card-inset p-3">
               <div class="text-sm font-bold text-gray-900 dark:text-white mb-2">Insight Types:</div>
               <ul class="text-sm text-gray-700 dark:text-gray-300 space-y-1">
                 <li>• Topic trend analysis</li>
@@ -174,61 +174,61 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <!-- arXiv-style Categories Section -->
-    <section class="py-12 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6 text-center">
+    <section class="section">
+      <div class="section-container">
+        <h2 class="heading-secondary text-center">
           Research Categories
         </h2>
-        <p class="text-center text-gray-700 dark:text-gray-300 mb-8">
-          Based on <a href="https://arxiv.org/category_taxonomy" target="_blank" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">arXiv's category taxonomy</a>
+        <p class="text-center text-meta mb-8">
+          Based on <a href="https://arxiv.org/category_taxonomy" target="_blank" class="link-primary">arXiv's category taxonomy</a>
         </p>
         
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div class="border border-gray-300 dark:border-gray-600 p-4 rounded-lg">
+          <div class="card p-4">
             <h3 class="font-bold text-gray-900 dark:text-white mb-2">Computer Science</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">cs.* categories including AI, Machine Learning, Computer Vision, and more</p>
+            <p class="text-meta">cs.* categories including AI, Machine Learning, Computer Vision, and more</p>
           </div>
-          <div class="border border-gray-300 dark:border-gray-600 p-4 rounded-lg">
+          <div class="card p-4">
             <h3 class="font-bold text-gray-900 dark:text-white mb-2">Mathematics</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">math.* categories covering Algebra, Analysis, Probability, and Statistics</p>
+            <p class="text-meta">math.* categories covering Algebra, Analysis, Probability, and Statistics</p>
           </div>
-          <div class="border border-gray-300 dark:border-gray-600 p-4 rounded-lg">
+          <div class="card p-4">
             <h3 class="font-bold text-gray-900 dark:text-white mb-2">Physics</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">physics.* categories including Condensed Matter, Quantum Physics, and Astrophysics</p>
+            <p class="text-meta">physics.* categories including Condensed Matter, Quantum Physics, and Astrophysics</p>
           </div>
-          <div class="border border-gray-300 dark:border-gray-600 p-4 rounded-lg">
+          <div class="card p-4">
             <h3 class="font-bold text-gray-900 dark:text-white mb-2">Biology</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">q-bio.* categories covering Quantitative Biology, Genomics, and Bioinformatics</p>
+            <p class="text-meta">q-bio.* categories covering Quantitative Biology, Genomics, and Bioinformatics</p>
           </div>
-          <div class="border border-gray-300 dark:border-gray-600 p-4 rounded-lg">
+          <div class="card p-4">
             <h3 class="font-bold text-gray-900 dark:text-white mb-2">Economics</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">econ.* categories including Econometrics, Game Theory, and Financial Economics</p>
+            <p class="text-meta">econ.* categories including Econometrics, Game Theory, and Financial Economics</p>
           </div>
-          <div class="border border-gray-300 dark:border-gray-600 p-4 rounded-lg">
+          <div class="card p-4">
             <h3 class="font-bold text-gray-900 dark:text-white mb-2">Statistics</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">stat.* categories covering Methodology, Machine Learning, and Applications</p>
+            <p class="text-meta">stat.* categories covering Methodology, Machine Learning, and Applications</p>
           </div>
         </div>
       </div>
     </section>
 
     <!-- arXiv-style CTA Section -->
-    <section class="py-12 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+    <section class="section">
+      <div class="section-container text-center">
+        <h2 class="heading-secondary">
           Ready to Explore Research Trends?
         </h2>
         
-        <p class="text-gray-700 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
+        <p class="text-body mb-8 max-w-2xl mx-auto">
           Discover patterns and insights in academic research across multiple domains.
         </p>
         
         <!-- arXiv-style navigation -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="/dashboard" class="inline-block px-6 py-3 bg-blue-600 dark:bg-blue-500 text-white hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors duration-200 rounded-md font-medium shadow-sm hover:shadow-md">
+          <a href="/dashboard" class="btn-primary">
             Explore Trends
           </a>
-          <a href="/how-it-works" class="inline-block px-6 py-3 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors duration-200 rounded-md font-medium">
+          <a href="/how-it-works" class="btn-outline">
             Documentation
           </a>
         </div>
@@ -236,100 +236,100 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <!-- arXiv-style References Section -->
-    <section class="py-12 bg-white dark:bg-gray-900">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+    <section class="section-last">
+      <div class="section-container">
+        <h2 class="heading-secondary">
           References
         </h2>
         
         <div class="space-y-4 text-sm">
           <!-- Data Sources -->
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[1]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">Cornell University. arXiv.org e-Print Archive. Available at: </span>
-              <a href="https://arxiv.org" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://arxiv.org</a>
+          <div class="reference-item">
+            <span class="reference-number">[1]</span>
+            <div class="reference-content">
+              <span>Cornell University. arXiv.org e-Print Archive. Available at: </span>
+              <a href="https://arxiv.org" class="link-primary">https://arxiv.org</a>
             </div>
           </div>
           
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[2]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">arXiv Category Taxonomy. Available at: </span>
-              <a href="https://arxiv.org/category_taxonomy" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://arxiv.org/category_taxonomy</a>
+          <div class="reference-item">
+            <span class="reference-number">[2]</span>
+            <div class="reference-content">
+              <span>arXiv Category Taxonomy. Available at: </span>
+              <a href="https://arxiv.org/category_taxonomy" class="link-primary">https://arxiv.org/category_taxonomy</a>
             </div>
           </div>
 
           <!-- Machine Learning and NLP Libraries -->
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[3]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">SPECTER. Scientific Paper Embeddings using Citation-informed Transformers. Licensed under Apache License 2.0. Available at: </span>
-              <a href="https://github.com/allenai/specter" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://github.com/allenai/specter</a>
+          <div class="reference-item">
+            <span class="reference-number">[3]</span>
+            <div class="reference-content">
+              <span>SPECTER. Scientific Paper Embeddings using Citation-informed Transformers. Licensed under Apache License 2.0. Available at: </span>
+              <a href="https://github.com/allenai/specter" class="link-primary">https://github.com/allenai/specter</a>
             </div>
           </div>
 
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[4]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">BERTopic. Topic modeling library for discovering topics in text data. Licensed under MIT License. Available at: </span>
-              <a href="https://github.com/MaartenGr/BERTopic" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://github.com/MaartenGr/BERTopic</a>
+          <div class="reference-item">
+            <span class="reference-number">[4]</span>
+            <div class="reference-content">
+              <span>BERTopic. Topic modeling library for discovering topics in text data. Licensed under MIT License. Available at: </span>
+              <a href="https://github.com/MaartenGr/BERTopic" class="link-primary">https://github.com/MaartenGr/BERTopic</a>
             </div>
           </div>
 
           <!-- Web Technologies -->
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[5]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">D3.js. Data-driven documents for data visualization. Licensed under BSD-3-Clause License. Available at: </span>
-              <a href="https://d3js.org" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://d3js.org</a>
+          <div class="reference-item">
+            <span class="reference-number">[5]</span>
+            <div class="reference-content">
+              <span>D3.js. Data-driven documents for data visualization. Licensed under BSD-3-Clause License. Available at: </span>
+              <a href="https://d3js.org" class="link-primary">https://d3js.org</a>
             </div>
           </div>
 
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[6]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">Astro. Modern static site generator. Licensed under MIT License. Available at: </span>
-              <a href="https://astro.build" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://astro.build</a>
+          <div class="reference-item">
+            <span class="reference-number">[6]</span>
+            <div class="reference-content">
+              <span>Astro. Modern static site generator. Licensed under MIT License. Available at: </span>
+              <a href="https://astro.build" class="link-primary">https://astro.build</a>
             </div>
           </div>
 
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[7]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">Tailwind CSS. Utility-first CSS framework. Licensed under MIT License. Available at: </span>
-              <a href="https://tailwindcss.com" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://tailwindcss.com</a>
+          <div class="reference-item">
+            <span class="reference-number">[7]</span>
+            <div class="reference-content">
+              <span>Tailwind CSS. Utility-first CSS framework. Licensed under MIT License. Available at: </span>
+              <a href="https://tailwindcss.com" class="link-primary">https://tailwindcss.com</a>
             </div>
           </div>
 
           <!-- Infrastructure -->
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[8]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">Cloudflare Pages. Global edge platform for hosting. Available at: </span>
-              <a href="https://pages.cloudflare.com" class="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 underline decoration-indigo-200 dark:decoration-indigo-600 hover:decoration-indigo-400 dark:hover:decoration-indigo-300">https://pages.cloudflare.com</a>
+          <div class="reference-item">
+            <span class="reference-number">[8]</span>
+            <div class="reference-content">
+              <span>Cloudflare Pages. Global edge platform for hosting. Available at: </span>
+              <a href="https://pages.cloudflare.com" class="link-primary">https://pages.cloudflare.com</a>
             </div>
           </div>
 
           <!-- Project and Community -->
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[9]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">PaperTrends: Academic Research Trend Analysis Tool. Open source project for comprehensive research data visualization and analysis.</span>
+          <div class="reference-item">
+            <span class="reference-number">[9]</span>
+            <div class="reference-content">
+              <span>PaperTrends: Academic Research Trend Analysis Tool. Open source project for comprehensive research data visualization and analysis.</span>
             </div>
           </div>
 
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[10]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">Cornell University Library and arXiv.org team. Open access to comprehensive e-Print Archive enabling research trend analysis and open science initiatives.</span>
+          <div class="reference-item">
+            <span class="reference-number">[10]</span>
+            <div class="reference-content">
+              <span>Cornell University Library and arXiv.org team. Open access to comprehensive e-Print Archive enabling research trend analysis and open science initiatives.</span>
             </div>
           </div>
 
-          <div class="flex">
-            <span class="font-bold text-gray-900 dark:text-white mr-4">[11]</span>
-            <div>
-              <span class="text-gray-700 dark:text-gray-300">Global research community. Contributors to arXiv enabling open access academic publishing and knowledge sharing for research analysis and visualization.</span>
+          <div class="reference-item">
+            <span class="reference-number">[11]</span>
+            <div class="reference-content">
+              <span>Global research community. Contributors to arXiv enabling open access academic publishing and knowledge sharing for research analysis and visualization.</span>
             </div>
           </div>
         </div>
