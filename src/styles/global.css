@@ -3,41 +3,31 @@
 /* Tailwind v4 Dark Mode Configuration */
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* arXiv-inspired CSS Variables - More faithful to actual arXiv */
+/* arXiv-inspired CSS Variables */
 :root {
   --color-arxiv-white: #FFFFFF;
   --color-arxiv-black: #000000;
   --color-arxiv-blue: #0000EE;
-  --color-arxiv-red: #CC0000;
   --color-arxiv-gray: #666666;
-  --color-arxiv-light-gray: #F5F5F5;
-  --color-arxiv-border: #CCCCCC;
-  --color-primary: #0000EE;
-  --color-secondary: #CC0000;
-  --color-accent: #666666;
 }
 
 .dark {
   --color-arxiv-white: #FFFFFF;
   --color-arxiv-black: #000000;
   --color-arxiv-blue: #4A90E2;
-  --color-arxiv-red: #E74C3C;
   --color-arxiv-gray: #999999;
-  --color-arxiv-light-gray: #2C2C2C;
-  --color-arxiv-border: #444444;
-  --color-primary: #4A90E2;
-  --color-secondary: #E74C3C;
-  --color-accent: #999999;
 }
 
-/* arXiv-inspired Typography and Layout */
+/* ===== BASE STYLES ===== */
+
+/* Typography and Layout */
 html {
   scroll-behavior: smooth;
   font-family: 'Times New Roman', 'Times', serif;
   line-height: 1.6;
 }
 
-/* Ensure header is not transparent */
+/* Header Styles */
 header {
   background-color: var(--color-arxiv-white) !important;
   opacity: 1 !important;
@@ -48,7 +38,7 @@ header {
   opacity: 1 !important;
 }
 
-/* arXiv-style headings */
+/* Typography */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Times New Roman', 'Times', serif;
   font-weight: bold;
@@ -76,7 +66,7 @@ h3 {
   color: white;
 }
 
-/* Enhanced arXiv-style links */
+/* Links */
 a {
   color: var(--color-arxiv-blue);
   text-decoration: underline;
@@ -102,7 +92,7 @@ a:hover {
   text-decoration-color: var(--color-arxiv-blue);
 }
 
-/* Enhanced button links */
+/* Button Links */
 a[class*="bg-arxiv-blue"] {
   text-decoration: none;
 }
@@ -111,7 +101,7 @@ a[class*="bg-arxiv-blue"]:hover {
   text-decoration: none;
 }
 
-/* Button hover effects - no red text */
+/* Button Hover Effects */
 .btn-primary:hover,
 .btn-secondary:hover,
 .btn-outline:hover {
@@ -124,7 +114,7 @@ a[class*="bg-arxiv-blue"]:hover {
   color: inherit;
 }
 
-/* arXiv-style code */
+/* Code */
 code, pre {
   font-family: 'Courier New', monospace;
   background-color: var(--color-arxiv-gray);
@@ -138,7 +128,7 @@ code, pre {
   color: white;
 }
 
-/* arXiv-style tables */
+/* Tables */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -161,7 +151,7 @@ th {
   color: white;
 }
 
-/* arXiv-style lists */
+/* Lists */
 ul, ol {
   margin: 1rem 0;
   padding-left: 2rem;
@@ -171,7 +161,7 @@ li {
   margin: 0.25rem 0;
 }
 
-/* arXiv-style blockquotes */
+/* Blockquotes */
 blockquote {
   border-left: 4px solid var(--color-arxiv-blue);
   margin: 1rem 0;
@@ -185,7 +175,7 @@ blockquote {
   color: rgb(156 163 175);
 }
 
-/* Custom scrollbar */
+/* Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -215,7 +205,7 @@ blockquote {
   background-color: rgb(107 114 128);
 }
 
-/* Focus styles */
+/* Focus */
 :focus-visible {
   outline: none;
   box-shadow: 0 0 0 2px rgb(59 130 246), 0 0 0 4px rgb(255 255 255);
@@ -225,7 +215,7 @@ blockquote {
   box-shadow: 0 0 0 2px rgb(59 130 246), 0 0 0 4px rgb(3 7 18);
 }
 
-/* Selection styles */
+/* Selection */
 ::selection {
   background-color: rgb(191 219 254);
   color: rgb(30 58 138);
@@ -236,14 +226,14 @@ blockquote {
   color: rgb(191 219 254);
 }
 
-/* Smooth transitions for theme changes */
+/* Transitions */
 * {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }
 
-/* Ensure dark mode styles have proper specificity */
+/* Dark Mode */
 .dark {
   color-scheme: dark;
 }
@@ -252,7 +242,7 @@ html:not(.dark) {
   color-scheme: light;
 }
 
-/* Disable transitions for users who prefer reduced motion */
+/* Reduced Motion */
 @media (prefers-reduced-motion: reduce) {
   * {
     transition-duration: 0.01ms !important;

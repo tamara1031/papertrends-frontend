@@ -16,28 +16,25 @@ const categoryId = Astro.params.categoryId;
 
 <Layout title={`${category.name} Research Trends`} canonical={`/category/${categoryId}`}>
   <main class="min-h-screen bg-white dark:bg-gray-900">
-    <!-- arXiv-style Header Section -->
+    <!-- Header Section -->
     <section class="section">
       <div class="section-container">
         <div class="text-center">
-          <!-- arXiv-style title -->
           <h1 class="heading-primary">
             {category.name} Research Trends
           </h1>
           
-          <!-- arXiv-style subtitle -->
           <h2 class="text-xl text-gray-700 dark:text-gray-300 mb-6 font-normal">
             Analysis of research trends in {category.name.toLowerCase()} domain
           </h2>
           
-          <!-- arXiv-style description -->
           <p class="text-body mb-8 max-w-3xl mx-auto">
             This page provides comprehensive analysis of research trends in the {category.name.toLowerCase()} domain based on data from 
             <a href="https://arxiv.org" class="link-primary">arXiv.org</a>. 
             Explore patterns and insights across {category.subcategoryGroups.length} research areas and {category.subcategoryGroups.reduce((total, group) => total + group.subcategories.length, 0)}+ subcategories.
           </p>
           
-          <!-- Category emoji display -->
+          <!-- Category Emoji -->
           <div class="mb-8">
             <div class={`w-20 h-20 ${getCategoryGradient(categoryId)} rounded-2xl flex items-center justify-center mx-auto`}>
               <span class="text-3xl">{getCategoryEmoji(categoryId)}</span>
@@ -47,7 +44,7 @@ const categoryId = Astro.params.categoryId;
       </div>
     </section>
 
-    <!-- arXiv-style Research Areas Section -->
+    <!-- Research Areas Section -->
     <section class="section">
       <div class="section-container">
         <h2 class="heading-secondary text-center">
@@ -92,7 +89,7 @@ const categoryId = Astro.params.categoryId;
       </div>
     </section>
 
-    <!-- arXiv-style Research Overview Section -->
+    <!-- Research Overview Section -->
     <section class="section">
       <div class="section-container">
         <h2 class="heading-secondary text-center">
@@ -142,7 +139,7 @@ const categoryId = Astro.params.categoryId;
       </div>
     </section>
 
-    <!-- arXiv-style CTA Section -->
+    <!-- CTA Section -->
     <section class="section-last">
       <div class="section-container text-center">
         <h2 class="heading-secondary">
@@ -153,7 +150,7 @@ const categoryId = Astro.params.categoryId;
           Choose a research area above to start your analysis journey and discover insights in {category.name.toLowerCase()} research.
         </p>
         
-        <!-- arXiv-style navigation -->
+        <!-- Navigation -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
           <a href={`/category/${categoryId}/${category.subcategoryGroups[0].subcategories[0].id}`} class="btn-primary">
             Start Analysis
