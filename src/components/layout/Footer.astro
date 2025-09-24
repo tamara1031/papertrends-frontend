@@ -2,33 +2,35 @@
 // arXiv-style Footer component
 ---
 
-<footer class="bg-arxiv-white dark:bg-arxiv-white border-t-2 border-arxiv-black dark:border-arxiv-black">
+<footer class="bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <!-- Brand -->
       <div class="md:col-span-2">
         <div class="flex items-center space-x-3 mb-6">
-          <div class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center">
-            <span class="text-arxiv-white dark:text-arxiv-white font-bold text-sm">PT</span>
+          <div class="w-10 h-10 bg-gray-800 dark:bg-gray-700 rounded-lg flex items-center justify-center">
+            <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M3 13h2v8H3v-8zm4-6h2v14H7V7zm4-4h2v18h-2V3zm4 8h2v10h-2V11zm4-6h2v16h-2V5z"/>
+            </svg>
           </div>
-          <span class="text-xl font-bold text-arxiv-black dark:text-arxiv-black font-sans">
+          <span class="text-xl font-bold text-gray-900 dark:text-white">
             PaperTrends
           </span>
         </div>
-        <p class="text-arxiv-black dark:text-arxiv-black text-sm max-w-md mb-6 leading-relaxed">
-          An open-source platform for visualizing academic research trends and discovering insights across research domains. Explore the evolution of knowledge through interactive data visualizations.
+        <p class="text-gray-600 dark:text-gray-400 text-sm max-w-md mb-6 leading-relaxed">
+          An open-source tool for visualizing academic research trends and discovering insights across research domains. Explore the evolution of knowledge through interactive data visualizations.
         </p>
         
-        <!-- arXiv-style Social Links -->
+        <!-- Modern Social Links -->
         <div class="flex space-x-4">
-          <a href="https://github.com/papertrends" class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
-            <i class="fab fa-github text-arxiv-white dark:text-arxiv-white text-sm"></i>
+          <a href="https://github.com/papertrends" class="w-10 h-10 bg-gray-900 dark:bg-gray-700 flex items-center justify-center rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors duration-200">
+            <i class="fab fa-github text-white text-sm"></i>
           </a>
-          <a href="https://twitter.com/papertrends" class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
-            <i class="fab fa-twitter text-arxiv-white dark:text-arxiv-white text-sm"></i>
+          <a href="https://twitter.com/papertrends" class="w-10 h-10 bg-gray-900 dark:bg-gray-700 flex items-center justify-center rounded-lg hover:bg-blue-500 dark:hover:bg-blue-500 transition-colors duration-200">
+            <i class="fab fa-twitter text-white text-sm"></i>
           </a>
-          <a href="https://linkedin.com/company/papertrends" class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
-            <i class="fab fa-linkedin text-arxiv-white dark:text-arxiv-white text-sm"></i>
+          <a href="https://linkedin.com/company/papertrends" class="w-10 h-10 bg-gray-900 dark:bg-gray-700 flex items-center justify-center rounded-lg hover:bg-blue-700 dark:hover:bg-blue-700 transition-colors duration-200">
+            <i class="fab fa-linkedin text-white text-sm"></i>
           </a>
         </div>
       </div>
@@ -47,11 +49,6 @@
           <li>
             <a href="/how-it-works" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
               How it Works
-            </a>
-          </li>
-          <li>
-            <a href="/acknowledgments" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline">
-              Acknowledgments
             </a>
           </li>
           <li>
@@ -96,7 +93,7 @@
     <div class="mt-8 pt-6 border-t-2 border-arxiv-black dark:border-arxiv-black">
       <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-4">
         <p class="text-arxiv-black dark:text-arxiv-black text-xs flex-shrink-0">
-          © 2024 PaperTrends. All rights reserved. Open source under MIT License.
+          © 2025 PaperTrends. All rights reserved. Open source under MIT License.
         </p>
         <div class="flex flex-wrap items-center gap-4">
           <a href="/privacy" class="text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue text-xs transition-colors underline whitespace-nowrap">

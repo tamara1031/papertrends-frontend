@@ -3,33 +3,38 @@
 /* Tailwind v4 Dark Mode Configuration */
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* arXiv-inspired CSS Variables */
+/* arXiv-inspired CSS Variables - More faithful to actual arXiv */
 :root {
   --color-arxiv-white: #FFFFFF;
   --color-arxiv-black: #000000;
   --color-arxiv-blue: #0000EE;
-  --color-arxiv-red: #FF0000;
-  --color-arxiv-gray: #808080;
+  --color-arxiv-red: #CC0000;
+  --color-arxiv-gray: #666666;
+  --color-arxiv-light-gray: #F5F5F5;
+  --color-arxiv-border: #CCCCCC;
   --color-primary: #0000EE;
-  --color-secondary: #FF0000;
-  --color-accent: #808080;
+  --color-secondary: #CC0000;
+  --color-accent: #666666;
 }
 
 .dark {
   --color-arxiv-white: #FFFFFF;
   --color-arxiv-black: #000000;
-  --color-arxiv-blue: #60A5FA;
-  --color-arxiv-red: #FF6B6B;
-  --color-arxiv-gray: #C0C0C0;
-  --color-primary: #60A5FA;
-  --color-secondary: #FF6B6B;
-  --color-accent: #C0C0C0;
+  --color-arxiv-blue: #4A90E2;
+  --color-arxiv-red: #E74C3C;
+  --color-arxiv-gray: #999999;
+  --color-arxiv-light-gray: #2C2C2C;
+  --color-arxiv-border: #444444;
+  --color-primary: #4A90E2;
+  --color-secondary: #E74C3C;
+  --color-accent: #999999;
 }
 
 /* arXiv-inspired Typography and Layout */
 html {
   scroll-behavior: smooth;
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: 'Times New Roman', 'Times', serif;
+  line-height: 1.6;
 }
 
 /* Ensure header is not transparent */
@@ -45,14 +50,30 @@ header {
 
 /* arXiv-style headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: 'Times New Roman', 'Times', serif;
   font-weight: bold;
   color: var(--color-arxiv-black);
   margin-bottom: 0.5em;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin-bottom: 0.3em;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-bottom: 0.3em;
 }
 
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
-  color: var(--color-arxiv-white);
+  color: var(--color-arxiv-black);
 }
 
 /* Enhanced arXiv-style links */
