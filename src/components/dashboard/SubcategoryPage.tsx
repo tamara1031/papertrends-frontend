@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { arxivCategories, AnalysisData } from '@/lib'
 import { StackAreaChart } from '@/components/charts/StackAreaChart'
 import { BubbleChart } from '@/components/charts/BubbleChart'
+import TreemapChart from '@/components/charts/TreemapChart'
 import { DashboardProvider, useDashboard } from '@/lib/contexts'
 
 interface SubcategoryPageProps {
@@ -16,6 +17,7 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
   const [analysisData, setAnalysisData] = useState<AnalysisData | null>(null)
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [viewMode, setViewMode] = useState<'bubble' | 'treemap'>('bubble')
   
   const { state, handlers } = useDashboard()
   const legendRef = useRef<HTMLDivElement>(null)
@@ -263,25 +265,63 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
             <div className="bg-white dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 h-[32rem] sm:h-[36rem] md:h-[40rem] lg:h-[32rem] flex flex-col">
               {/* Title Container */}
               <div className="p-4 pb-0 flex-shrink-0">
-                <div className="flex items-center">
-                  <div className="w-8 h-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-lg flex items-center justify-center mr-3">
-                    <i className="fas fa-project-diagram text-white text-sm"></i>
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center">
+                    <div className="w-8 h-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-lg flex items-center justify-center mr-3">
+                      <i className="fas fa-project-diagram text-white text-sm"></i>
+                    </div>
+                    <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200">Topic Analysis</h3>
                   </div>
-                  <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200">Topic Analysis</h3>
+                  {/* View Toggle Buttons */}
+                  <div className="flex bg-slate-100 dark:bg-slate-700 rounded-lg p-1">
+                    <button
+                      onClick={() => setViewMode('bubble')}
+                      className={`px-3 py-1 text-xs font-medium rounded-md transition-colors ${
+                        viewMode === 'bubble'
+                          ? 'bg-white dark:bg-slate-600 text-slate-900 dark:text-slate-100 shadow-sm'
+                          : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100'
+                      }`}
+                    >
+                      <i className="fas fa-circle mr-1"></i>
+                      Bubble
+                    </button>
+                    <button
+                      onClick={() => setViewMode('treemap')}
+                      className={`px-3 py-1 text-xs font-medium rounded-md transition-colors ${
+                        viewMode === 'treemap'
+                          ? 'bg-white dark:bg-slate-600 text-slate-900 dark:text-slate-100 shadow-sm'
+                          : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100'
+                      }`}
+                    >
+                      <i className="fas fa-th mr-1"></i>
+                      Treemap
+                    </button>
+                  </div>
                 </div>
               </div>
               
               {/* Content Container */}
               <div className="flex-1 p-4 pt-2 min-h-0">
                 <div className="w-full h-full min-h-0">
-                  <BubbleChart 
-                    data={analysisData?.topics?.data ? Object.entries(analysisData.topics.data).map(([id, topic]) => ({
-                      id,
-                      name: topic.name,
-                      count: topic.count,
-                      keywords: topic.keywords || []
-                    })) : []}
-                  />
+                  {viewMode === 'bubble' ? (
+                    <BubbleChart 
+                      data={analysisData?.topics?.data ? Object.entries(analysisData.topics.data).map(([id, topic]) => ({
+                        id,
+                        name: topic.name,
+                        count: topic.count,
+                        keywords: topic.keywords || []
+                      })) : []}
+                    />
+                  ) : (
+                    <TreemapChart 
+                      data={analysisData?.topics?.data ? Object.entries(analysisData.topics.data).map(([id, topic]) => ({
+                        id,
+                        name: topic.name,
+                        count: topic.count,
+                        keywords: topic.keywords || []
+                      })) : []}
+                    />
+                  )}
                 </div>
               </div>
             </div>
