@@ -5,36 +5,46 @@ import ThemeToggle from '../ui/ThemeToggle.astro';
 <header class="sticky top-0 z-50 bg-arxiv-white dark:bg-arxiv-white border-b-2 border-arxiv-black dark:border-arxiv-black shadow-sm">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex justify-between items-center h-16">
-      <!-- arXiv-style Logo and Navigation -->
+      <!-- Enhanced Logo and Navigation -->
       <div class="flex items-center space-x-8">
         <a href="/" class="flex items-center space-x-3 group">
-          <!-- arXiv-style simple logo -->
-          <div class="w-8 h-8 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center">
-            <span class="text-arxiv-white dark:text-arxiv-white font-bold text-sm">PT</span>
+          <!-- Enhanced arXiv-style logo -->
+          <div class="relative w-10 h-10 bg-arxiv-black dark:bg-arxiv-black flex items-center justify-center group-hover:bg-arxiv-blue dark:group-hover:bg-arxiv-blue transition-all duration-300 shadow-lg">
+            <div class="absolute inset-0 bg-gradient-to-br from-arxiv-blue/20 to-arxiv-red/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+            <span class="relative text-arxiv-white dark:text-arxiv-white font-bold text-lg tracking-tight">PT</span>
           </div>
-          <span class="text-xl font-bold text-arxiv-black dark:text-arxiv-black font-sans">
-            PaperTrends
-          </span>
+          <div class="flex flex-col">
+            <span class="text-xl font-bold text-arxiv-black dark:text-arxiv-black font-sans group-hover:text-arxiv-blue dark:group-hover:text-arxiv-blue transition-colors duration-300">
+              Paper<span class="text-arxiv-blue dark:text-arxiv-blue">Trends</span>
+            </span>
+            <span class="text-xs text-arxiv-gray dark:text-arxiv-gray font-medium -mt-1">
+              Research Analysis
+            </span>
+          </div>
         </a>
         
-        <!-- arXiv-style simple navigation -->
-        <nav class="hidden md:flex space-x-6">
-          <a href="/" class="text-sm font-medium text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue underline-offset-4 hover:underline">
-            Home
+        <!-- Enhanced navigation -->
+        <nav class="hidden md:flex space-x-1">
+          <a href="/" class="relative px-4 py-2 text-sm font-medium text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue transition-colors duration-300 group">
+            <span class="relative z-10">Home</span>
+            <div class="absolute inset-0 bg-arxiv-gray-100 dark:bg-arxiv-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-sm"></div>
           </a>
-          <a href="/how-it-works" class="text-sm font-medium text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue underline-offset-4 hover:underline">
-            How it Works
+          <a href="/how-it-works" class="relative px-4 py-2 text-sm font-medium text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue transition-colors duration-300 group">
+            <span class="relative z-10">How it Works</span>
+            <div class="absolute inset-0 bg-arxiv-gray-100 dark:bg-arxiv-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-sm"></div>
           </a>
-          <a href="/acknowledgments" class="text-sm font-medium text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue underline-offset-4 hover:underline">
-            Acknowledgments
+          <a href="/acknowledgments" class="relative px-4 py-2 text-sm font-medium text-arxiv-black dark:text-arxiv-black hover:text-arxiv-blue dark:hover:text-arxiv-blue transition-colors duration-300 group">
+            <span class="relative z-10">Acknowledgments</span>
+            <div class="absolute inset-0 bg-arxiv-gray-100 dark:bg-arxiv-gray-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-sm"></div>
           </a>
         </nav>
       </div>
       
       <!-- Right side actions -->
       <div class="flex items-center space-x-4">
-        <!-- arXiv-style simple CTA -->
-        <a href="/dashboard" class="hidden sm:inline-flex items-center px-3 py-1 bg-arxiv-black dark:bg-arxiv-black text-arxiv-white dark:text-arxiv-white text-sm font-medium border border-arxiv-black dark:border-arxiv-black hover:bg-arxiv-blue dark:hover:bg-arxiv-blue transition-colors">
+        <!-- Enhanced CTA -->
+        <a href="/dashboard" class="hidden sm:inline-flex items-center px-4 py-2 bg-arxiv-blue dark:bg-arxiv-blue text-arxiv-white dark:text-arxiv-white text-sm font-semibold border-2 border-arxiv-blue dark:border-arxiv-blue hover:bg-arxiv-red dark:hover:bg-arxiv-red hover:border-arxiv-red dark:hover:border-arxiv-red transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
+          <i class="fas fa-chart-line mr-2 text-xs"></i>
           Explore Trends
         </a>
         

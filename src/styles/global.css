@@ -55,22 +55,39 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-arxiv-white);
 }
 
-/* arXiv-style links */
+/* Enhanced arXiv-style links */
 a {
   color: var(--color-arxiv-blue);
   text-decoration: underline;
+  text-decoration-color: var(--color-arxiv-blue);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: all 0.3s ease;
 }
 
 a:hover {
   color: var(--color-arxiv-red);
+  text-decoration-color: var(--color-arxiv-red);
+  text-decoration-thickness: 2px;
 }
 
 .dark a {
   color: var(--color-arxiv-blue);
+  text-decoration-color: var(--color-arxiv-blue);
 }
 
 .dark a:hover {
   color: var(--color-arxiv-red);
+  text-decoration-color: var(--color-arxiv-red);
+}
+
+/* Enhanced button links */
+a[class*="bg-arxiv-blue"] {
+  text-decoration: none;
+}
+
+a[class*="bg-arxiv-blue"]:hover {
+  text-decoration: none;
 }
 
 /* arXiv-style code */
