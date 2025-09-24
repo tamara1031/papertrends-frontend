@@ -363,7 +363,7 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 w-full p-4">
                     {papersToShow.map((paper: any, index: number) => (
                       <div key={index} className="w-full">
-                        <div className="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 px-4 py-3 h-full w-full m-1 hover:border-orange-300 dark:hover:border-orange-500">
+                        <div className="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 px-4 py-3 h-full w-full m-1 hover:border-orange-400 dark:hover:border-orange-500 hover:shadow-lg transition-all duration-200">
                           <a 
                             href={`https://arxiv.org/abs/${paper.arxiv_id}`} 
                             target="_blank" 
@@ -371,8 +371,8 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
                             className="block h-full w-full"
                           >
                             {/* arXiv ID */}
-                            <div className="mb-2">
-                              <span className="text-xs font-mono text-orange-600 dark:text-orange-400 bg-orange-50 dark:bg-orange-900/30 px-2 py-1 rounded">
+                            <div className="mb-3">
+                              <span className="text-xs font-mono text-orange-600 dark:text-orange-400 bg-orange-50 dark:bg-orange-900/30 px-2 py-1 rounded border border-orange-200 dark:border-orange-800">
                                 arXiv:{paper.arxiv_id}
                               </span>
                             </div>
@@ -382,20 +382,15 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
                               {paper.title}
                             </h4>
                             
-                            {/* Authors */}
-                            <div className="text-xs text-slate-600 dark:text-slate-400 mb-2">
-                              <span className="font-medium">Authors:</span> {paper.authors?.join(', ') || 'N/A'}
-                            </div>
-                            
                             {/* Abstract Preview */}
                             <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed mb-3 line-clamp-3 break-words">
                               {paper.abstract}
                             </p>
                             
                             {/* Metadata */}
-                            <div className="flex items-center justify-between text-xs text-slate-500 dark:text-slate-500">
-                              <span>{paper.year}</span>
-                              <span className="text-orange-600 dark:text-orange-400">arXiv</span>
+                            <div className="flex items-center justify-between text-xs text-slate-500 dark:text-slate-500 mt-3 pt-2 border-t border-slate-100 dark:border-slate-700">
+                              <span className="font-medium">{paper.year}</span>
+                              <span className="text-orange-600 dark:text-orange-400 font-medium italic">powered by arxiv</span>
                             </div>
                           </a>
                         </div>
