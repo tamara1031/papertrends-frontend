@@ -1,34 +1,49 @@
 ---
-// ThemeToggle.astro - Astro component version
+// Simplified ThemeToggle component for Tailwind v4
 ---
 
 <button
   id="theme-toggle"
-  class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-200"
+  class="group relative inline-flex items-center justify-center w-11 h-11 rounded-xl bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-all duration-300 hover:scale-105 shadow-sm hover:shadow-md"
   aria-label="Switch theme"
 >
-  <i id="theme-icon" class="fas fa-moon text-gray-600 dark:text-gray-300"></i>
+  <!-- Sun icon (visible in dark mode) -->
+  <i class="fas fa-sun text-yellow-500 text-lg absolute opacity-0 dark:opacity-100 transition-all duration-300 transform rotate-0 dark:rotate-180"></i>
+  
+  <!-- Moon icon (visible in light mode) -->
+  <i class="fas fa-moon text-gray-600 dark:text-gray-300 text-lg absolute opacity-100 dark:opacity-0 transition-all duration-300 transform rotate-0 dark:-rotate-180"></i>
 </button>
 
 <script>
   class ThemeToggle {
     constructor() {
       this.button = document.getElementById('theme-toggle');
-      this.icon = document.getElementById('theme-icon');
       this.currentTheme = this.getInitialTheme();
       
       this.init();
     }
     
     getInitialTheme() {
-      const savedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      return savedTheme || (prefersDark ? 'dark' : 'light');
+      // Use the theme already set by Layout.astro
+      return window.__initialTheme || document.documentElement.classList.contains('dark') ? 'dark' : 'light';
     }
     
     init() {
-      this.setTheme(this.currentTheme);
-      this.button?.addEventListener('click', () => this.toggleTheme());
+      if (!this.button) {
+        console.error('Theme toggle button not found');
+        return;
+      }
+      
+      this.updateButtonState();
+      this.button.addEventListener('click', () => this.toggleTheme());
+      
+      // Listen for system theme changes
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+        if (!localStorage.getItem('theme')) {
+          const newTheme = e.matches ? 'dark' : 'light';
+          this.setTheme(newTheme);
+        }
+      });
     }
     
     toggleTheme() {
@@ -36,29 +51,31 @@
       this.setTheme(newTheme);
     }
     
-    setTheme(theme: 'light' | 'dark') {
+    setTheme(theme) {
       this.currentTheme = theme;
       localStorage.setItem('theme', theme);
-      document.documentElement.classList.toggle('dark', theme === 'dark');
       
-      // Update icon
-      if (this.icon) {
-        if (theme === 'light') {
-          this.icon.className = 'fas fa-moon text-gray-600 dark:text-gray-300';
-        } else {
-          this.icon.className = 'fas fa-sun text-yellow-500';
-        }
-      }
+      // Update DOM - Tailwind v4 handles the rest automatically
+      document.documentElement.classList.remove('dark', 'light');
+      document.documentElement.classList.add(theme);
+      document.documentElement.setAttribute('data-theme', theme);
       
+      // Update button state
+      this.updateButtonState();
+    }
+    
+    updateButtonState() {
       // Update aria-label
-      if (this.button) {
-        this.button.setAttribute('aria-label', `Switch to ${theme === 'light' ? 'dark' : 'light'} theme`);
-      }
+      this.button.setAttribute('aria-label', `Switch to ${this.currentTheme === 'light' ? 'dark' : 'light'} theme`);
     }
   }
   
   // Initialize when DOM is ready
-  document.addEventListener('DOMContentLoaded', () => {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      new ThemeToggle();
+    });
+  } else {
     new ThemeToggle();
-  });
+  }
 </script>

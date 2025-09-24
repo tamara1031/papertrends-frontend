@@ -1,5 +1,7 @@
 ---
 import '../styles/global.css';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
 
 export interface Props {
   title: string;
@@ -23,7 +25,7 @@ const canonicalUrl = canonical ? `${siteUrl}${canonical}` : Astro.url.href;
 ---
 
 <!DOCTYPE html>
-<html lang="en" class="h-full">
+<html lang="en" class="h-full" id="html-root" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content={siteDescription} />
@@ -63,34 +65,36 @@ const canonicalUrl = canonical ? `${siteUrl}${canonical}` : Astro.url.href;
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
     
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
   </head>
-  <body class="h-full font-sans antialiased">
+  <body class="h-full font-sans antialiased bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100 transition-colors duration-300">
     <div id="app" class="min-h-full">
+      <Header />
+      
       <slot />
+      
+      <Footer />
     </div>
+    
+    <!-- Theme initialization script for Tailwind v4 -->
+    <script is:inline>
+      (function() {
+        // Prevent flash of unstyled content by applying theme immediately
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+        
+        const htmlElement = document.documentElement;
+        
+        // Apply theme immediately to prevent FOUC
+        htmlElement.classList.remove('dark', 'light');
+        htmlElement.classList.add(theme);
+        htmlElement.setAttribute('data-theme', theme);
+        
+        // Store theme for other components
+        window.__initialTheme = theme;
+      })();
+    </script>
   </body>
 </html>
 
-<style>
-  html {
-    font-family: 'Inter', system-ui, sans-serif;
-  }
-  
-  body {
-    background-color: #ffffff;
-    color: #1f2937;
-  }
-  
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #111827;
-      color: #f9fafb;
-    }
-  }
-  
-  .dark body {
-    background-color: #111827;
-    color: #f9fafb;
-  }
-</style>

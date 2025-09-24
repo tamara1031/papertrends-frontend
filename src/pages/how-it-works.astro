@@ -1,16 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Header from '../components/layout/Header.astro';
-import Footer from '../components/layout/Footer.astro';
 ---
 
 <Layout title="How it Works" canonical="/how-it-works">
-  <Header />
-  
-  <main class="min-h-screen bg-white dark:bg-gray-900">
+  <main class="min-h-screen bg-gray-50 dark:bg-gray-950">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
       <div class="text-center mb-16">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-800 dark:text-gray-100 mb-6">
           How PaperTrends Works
         </h1>
         <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
@@ -26,7 +22,7 @@ import Footer from '../components/layout/Footer.astro';
               <i class="fas fa-database text-blue-600 dark:text-blue-400 text-xl"></i>
             </div>
             <div>
-              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+              <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-4">
                 Data Collection
               </h2>
               <p class="text-gray-600 dark:text-gray-300 mb-4">
@@ -49,7 +45,7 @@ import Footer from '../components/layout/Footer.astro';
               <i class="fas fa-brain text-green-600 dark:text-green-400 text-xl"></i>
             </div>
             <div>
-              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+              <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-4">
                 Topic Modeling
               </h2>
               <p class="text-gray-600 dark:text-gray-300 mb-4">
@@ -72,7 +68,7 @@ import Footer from '../components/layout/Footer.astro';
               <i class="fas fa-chart-line text-purple-600 dark:text-purple-400 text-xl"></i>
             </div>
             <div>
-              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+              <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-4">
                 Interactive Visualization
               </h2>
               <p class="text-gray-600 dark:text-gray-300 mb-4">
@@ -80,13 +76,13 @@ import Footer from '../components/layout/Footer.astro';
               </p>
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
                 <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4">
-                  <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Circle Packing</h3>
+                  <h3 class="font-semibold text-gray-800 dark:text-gray-100 mb-2">Circle Packing</h3>
                   <p class="text-sm text-gray-600 dark:text-gray-300">
                     Hierarchical representation showing topic relationships and keyword distributions
                   </p>
                 </div>
                 <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4">
-                  <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Theme River</h3>
+                  <h3 class="font-semibold text-gray-800 dark:text-gray-100 mb-2">Theme River</h3>
                   <p class="text-sm text-gray-600 dark:text-gray-300">
                     Temporal visualization tracking topic evolution over time
                   </p>
@@ -103,7 +99,7 @@ import Footer from '../components/layout/Footer.astro';
               <i class="fas fa-code text-orange-600 dark:text-orange-400 text-xl"></i>
             </div>
             <div>
-              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+              <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-4">
                 Technology Stack
               </h2>
               <p class="text-gray-600 dark:text-gray-300 mb-4">
@@ -114,25 +110,25 @@ import Footer from '../components/layout/Footer.astro';
                   <div class="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center mx-auto mb-2">
                     <i class="fab fa-react text-blue-600 dark:text-blue-400 text-xl"></i>
                   </div>
-                  <p class="text-sm font-medium text-gray-900 dark:text-white">Astro</p>
+                  <p class="text-sm font-medium text-gray-800 dark:text-gray-100">Astro</p>
                 </div>
                 <div class="text-center">
                   <div class="w-12 h-12 bg-green-100 dark:bg-green-900 rounded-lg flex items-center justify-center mx-auto mb-2">
                     <i class="fab fa-js-square text-green-600 dark:text-green-400 text-xl"></i>
                   </div>
-                  <p class="text-sm font-medium text-gray-900 dark:text-white">D3.js</p>
+                  <p class="text-sm font-medium text-gray-800 dark:text-gray-100">D3.js</p>
                 </div>
                 <div class="text-center">
                   <div class="w-12 h-12 bg-purple-100 dark:bg-purple-900 rounded-lg flex items-center justify-center mx-auto mb-2">
                     <i class="fas fa-palette text-purple-600 dark:text-purple-400 text-xl"></i>
                   </div>
-                  <p class="text-sm font-medium text-gray-900 dark:text-white">Tailwind</p>
+                  <p class="text-sm font-medium text-gray-800 dark:text-gray-100">Tailwind</p>
                 </div>
                 <div class="text-center">
                   <div class="w-12 h-12 bg-gray-100 dark:bg-gray-900 rounded-lg flex items-center justify-center mx-auto mb-2">
                     <i class="fas fa-cloud text-gray-600 dark:text-gray-400 text-xl"></i>
                   </div>
-                  <p class="text-sm font-medium text-gray-900 dark:text-white">Cloudflare</p>
+                  <p class="text-sm font-medium text-gray-800 dark:text-gray-100">Cloudflare</p>
                 </div>
               </div>
             </div>
@@ -149,6 +145,4 @@ import Footer from '../components/layout/Footer.astro';
       </div>
     </div>
   </main>
-  
-  <Footer />
 </Layout>

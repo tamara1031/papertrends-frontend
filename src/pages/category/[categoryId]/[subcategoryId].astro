@@ -1,7 +1,5 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import Header from '../../../components/layout/Header.astro';
-import Footer from '../../../components/layout/Footer.astro';
 import { BubbleChart, StackAreaChart } from '../../../components/charts';
 import { arxivCategories } from '../../../lib/data';
 import { getCategoryEmoji, getCategoryGradient } from '../../../lib/utils';
@@ -73,14 +71,12 @@ const mockAnalysisData = {
 ---
 
 <Layout title={`${subcategory.name} - ${category.name} Research Trends`} canonical={`/category/${categoryId}/${subcategoryId}`}>
-  <Header />
-  
-  <main class="min-h-screen bg-white dark:bg-gray-900">
+  <main class="min-h-screen bg-gray-50 dark:bg-gray-950">
     <!-- Hero Section -->
     <section class="relative py-12 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-gray-900 dark:to-gray-800">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex items-center space-x-4 mb-6">
-          <a href={`/category/${categoryId}`} class="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
+          <a href={`/category/${categoryId}`} class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-100 transition-colors">
             <i class="fas fa-arrow-left mr-2"></i>
             Back to {category.name}
           </a>
@@ -91,30 +87,30 @@ const mockAnalysisData = {
             <div class={`w-16 h-16 ${getCategoryGradient(categoryId)} rounded-2xl flex items-center justify-center`}>
               <span class="text-2xl">{getCategoryEmoji(categoryId)}</span>
             </div>
-            <div class={`w-12 h-12 bg-white dark:bg-gray-800 rounded-xl flex items-center justify-center shadow-sm`}>
+            <div class={`w-12 h-12 bg-white dark:bg-gray-800 rounded-xl flex items-center justify-center shadow-xs`}>
               <span class="text-xl">{subcategory.emoji}</span>
             </div>
           </div>
           
-          <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
+          <h1 class="text-4xl md:text-5xl font-bold text-gray-800 dark:text-gray-100 mb-4">
             {subcategory.name}
           </h1>
           <p class="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-6">
             Research trend analysis for {subcategory.name} in {category.name.toLowerCase()}
           </p>
-          <div class="inline-flex items-center px-4 py-2 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
+          <div class="inline-flex items-center px-4 py-2 bg-white dark:bg-gray-800 rounded-lg shadow-xs">
             <span class="text-sm text-gray-600 dark:text-gray-400 mr-2">Category:</span>
-            <span class="text-sm font-medium text-gray-900 dark:text-white">{subcategory.id}</span>
+            <span class="text-sm font-medium text-gray-800 dark:text-gray-100">{subcategory.id}</span>
           </div>
         </div>
       </div>
     </section>
 
     <!-- Visualization Section -->
-    <section class="py-16 bg-white dark:bg-gray-900">
+    <section class="py-16 bg-gray-50 dark:bg-gray-900">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-          <h2 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+          <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4">
             Research Topic Analysis
           </h2>
           <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
@@ -125,10 +121,10 @@ const mockAnalysisData = {
         <!-- Chart Controls -->
         <div class="flex justify-center mb-8">
           <div class="bg-gray-100 dark:bg-gray-800 rounded-lg p-1">
-            <button class="px-4 py-2 bg-white dark:bg-gray-700 text-gray-900 dark:text-white rounded-md shadow-sm font-medium">
+            <button class="px-4 py-2 bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100 rounded-md shadow-xs font-medium">
               Circle Packing
             </button>
-            <button class="px-4 py-2 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
+            <button class="px-4 py-2 text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-100 transition-colors">
               Theme River
             </button>
           </div>
@@ -157,7 +153,7 @@ const mockAnalysisData = {
     <section class="py-16 bg-gray-50 dark:bg-gray-800">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-          <h2 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+          <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4">
             Research Topics
           </h2>
           <p class="text-xl text-gray-600 dark:text-gray-300">
@@ -167,19 +163,19 @@ const mockAnalysisData = {
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {mockTopicData.map((topic, index) => (
-            <div class="bg-white dark:bg-gray-900 rounded-xl p-6 shadow-sm border border-gray-200 dark:border-gray-700">
+            <div class="bg-white dark:bg-gray-900 rounded-xl p-6 shadow-xs border border-gray-200 dark:border-gray-700">
               <div class="flex items-center space-x-3 mb-4">
                 <div class="w-10 h-10 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center">
                   <span class="text-blue-600 dark:text-blue-400 font-semibold">{index + 1}</span>
                 </div>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">
                   {topic.name}
                 </h3>
               </div>
               <div class="space-y-2">
                 <div class="flex items-center justify-between">
                   <span class="text-sm text-gray-600 dark:text-gray-400">Papers:</span>
-                  <span class="text-sm font-medium text-gray-900 dark:text-white">{topic.count}</span>
+                  <span class="text-sm font-medium text-gray-800 dark:text-gray-100">{topic.count}</span>
                 </div>
                 <div class="space-y-1">
                   <span class="text-sm text-gray-600 dark:text-gray-400">Top Keywords:</span>
@@ -199,10 +195,10 @@ const mockAnalysisData = {
     </section>
 
     <!-- Temporal Analysis Section -->
-    <section class="py-16 bg-white dark:bg-gray-900">
+    <section class="py-16 bg-gray-50 dark:bg-gray-900">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-          <h2 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+          <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4">
             Temporal Trend Analysis
           </h2>
           <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
@@ -232,7 +228,7 @@ const mockAnalysisData = {
     <section class="py-16 bg-gray-50 dark:bg-gray-800">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex flex-col sm:flex-row justify-between items-center">
-          <a href={`/category/${categoryId}`} class="inline-flex items-center px-6 py-3 bg-white dark:bg-gray-900 text-gray-900 dark:text-white font-medium rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors mb-4 sm:mb-0">
+          <a href={`/category/${categoryId}`} class="inline-flex items-center px-6 py-3 bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 font-medium rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors mb-4 sm:mb-0">
             <i class="fas fa-arrow-left mr-2"></i>
             Back to {category.name}
           </a>
@@ -244,6 +240,4 @@ const mockAnalysisData = {
       </div>
     </section>
   </main>
-  
-  <Footer />
 </Layout>

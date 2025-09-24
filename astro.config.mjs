@@ -18,7 +18,11 @@ export default defineConfig({
   
   // Vite configuration
   vite: {
-    plugins: [tailwindcss()],
+    plugins: [
+      tailwindcss({
+        configFile: './tailwind.config.mjs'
+      })
+    ],
     resolve: {
       alias: {
         '@': new URL('./src', import.meta.url).pathname

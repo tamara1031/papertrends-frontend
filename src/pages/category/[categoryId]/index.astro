@@ -1,7 +1,5 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import Header from '../../../components/layout/Header.astro';
-import Footer from '../../../components/layout/Footer.astro';
 import { arxivCategories } from '../../../lib/data';
 import { getCategoryEmoji, getCategoryGradient } from '../../../lib/utils';
 
@@ -17,9 +15,7 @@ const categoryId = Astro.params.categoryId;
 ---
 
 <Layout title={`${category.name} Research Trends`} canonical={`/category/${categoryId}`}>
-  <Header />
-  
-  <main class="min-h-screen bg-white dark:bg-gray-900">
+  <main class="min-h-screen bg-gray-50 dark:bg-gray-950">
     <!-- Hero Section -->
     <section class="relative py-16">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -27,7 +23,7 @@ const categoryId = Astro.params.categoryId;
           <div class={`w-20 h-20 ${getCategoryGradient(categoryId)} rounded-2xl flex items-center justify-center mx-auto mb-6`}>
             <span class="text-3xl">{getCategoryEmoji(categoryId)}</span>
           </div>
-          <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
+          <h1 class="text-4xl md:text-5xl font-bold text-gray-800 dark:text-gray-100 mb-4">
             {category.name} Research Trends
           </h1>
           <p class="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-8">
@@ -41,7 +37,7 @@ const categoryId = Astro.params.categoryId;
     <section class="py-16 bg-gray-50 dark:bg-gray-800">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-          <h2 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+          <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4">
             Research Areas
           </h2>
           <p class="text-xl text-gray-600 dark:text-gray-300">
@@ -51,10 +47,10 @@ const categoryId = Astro.params.categoryId;
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {category.subcategoryGroups.map(group => (
-            <div class="bg-white dark:bg-gray-900 rounded-xl p-6 shadow-sm border border-gray-200 dark:border-gray-700">
+            <div class="bg-white dark:bg-gray-900 rounded-xl p-6 shadow-xs border border-gray-200 dark:border-gray-700">
               <div class="flex items-center space-x-3 mb-4">
                 <span class="text-2xl">{group.emoji}</span>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">
                   {group.name}
                 </h3>
               </div>
@@ -67,7 +63,7 @@ const categoryId = Astro.params.categoryId;
                     <div class="flex items-center space-x-3">
                       <span class="text-lg">{subcategory.emoji}</span>
                       <div>
-                        <h4 class="font-medium text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                        <h4 class="font-medium text-gray-800 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
                           {subcategory.name}
                         </h4>
                         <p class="text-sm text-gray-600 dark:text-gray-400">
@@ -88,7 +84,7 @@ const categoryId = Astro.params.categoryId;
     <section class="py-16 bg-white dark:bg-gray-900">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-          <h2 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+          <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4">
             Research Overview
           </h2>
           <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
@@ -152,6 +148,4 @@ const categoryId = Astro.params.categoryId;
       </div>
     </section>
   </main>
-  
-  <Footer />
 </Layout>

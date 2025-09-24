@@ -1,16 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Header from '../components/layout/Header.astro';
-import Footer from '../components/layout/Footer.astro';
 ---
 
 <Layout title="Acknowledgments" canonical="/acknowledgments">
-  <Header />
-  
-  <main class="min-h-screen bg-white dark:bg-gray-900">
+  <main class="min-h-screen bg-gray-50 dark:bg-gray-950">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
       <div class="text-center mb-16">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-800 dark:text-gray-100 mb-6">
           Acknowledgments
         </h1>
         <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
@@ -21,7 +17,7 @@ import Footer from '../components/layout/Footer.astro';
       <div class="space-y-12">
         <!-- Data Sources -->
         <section>
-          <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+          <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-6">
             Data Sources
           </h2>
           <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-6">
@@ -30,7 +26,7 @@ import Footer from '../components/layout/Footer.astro';
                 <i class="fas fa-university text-blue-600 dark:text-blue-400 text-xl"></i>
               </div>
               <div>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2">
                   arXiv.org
                 </h3>
                 <p class="text-gray-600 dark:text-gray-300 mb-3">
@@ -46,7 +42,7 @@ import Footer from '../components/layout/Footer.astro';
 
         <!-- Open Source Libraries -->
         <section>
-          <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+          <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-6">
             Open Source Libraries
           </h2>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -55,7 +51,7 @@ import Footer from '../components/layout/Footer.astro';
                 <div class="w-8 h-8 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center">
                   <i class="fab fa-react text-blue-600 dark:text-blue-400"></i>
                 </div>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Astro</h3>
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">Astro</h3>
               </div>
               <p class="text-gray-600 dark:text-gray-300 text-sm mb-3">
                 Modern static site generator that powers our frontend with optimal performance and developer experience.
@@ -70,7 +66,7 @@ import Footer from '../components/layout/Footer.astro';
                 <div class="w-8 h-8 bg-orange-100 dark:bg-orange-900 rounded-lg flex items-center justify-center">
                   <i class="fas fa-chart-bar text-orange-600 dark:text-orange-400"></i>
                 </div>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">D3.js</h3>
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">D3.js</h3>
               </div>
               <p class="text-gray-600 dark:text-gray-300 text-sm mb-3">
                 Powerful data visualization library that enables our interactive charts and graphs.
@@ -85,7 +81,7 @@ import Footer from '../components/layout/Footer.astro';
                 <div class="w-8 h-8 bg-cyan-100 dark:bg-cyan-900 rounded-lg flex items-center justify-center">
                   <i class="fas fa-palette text-cyan-600 dark:text-cyan-400"></i>
                 </div>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Tailwind CSS</h3>
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">Tailwind CSS</h3>
               </div>
               <p class="text-gray-600 dark:text-gray-300 text-sm mb-3">
                 Utility-first CSS framework that provides our responsive and modern design system.
@@ -100,7 +96,7 @@ import Footer from '../components/layout/Footer.astro';
                 <div class="w-8 h-8 bg-purple-100 dark:bg-purple-900 rounded-lg flex items-center justify-center">
                   <i class="fas fa-cloud text-purple-600 dark:text-purple-400"></i>
                 </div>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Cloudflare Pages</h3>
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">Cloudflare Pages</h3>
               </div>
               <p class="text-gray-600 dark:text-gray-300 text-sm mb-3">
                 Global edge platform that hosts our application with fast performance and reliability.
@@ -114,7 +110,7 @@ import Footer from '../components/layout/Footer.astro';
 
         <!-- Research Community -->
         <section>
-          <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+          <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-6">
             Research Community
           </h2>
           <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-6">
@@ -129,7 +125,7 @@ import Footer from '../components/layout/Footer.astro';
 
         <!-- Contributing -->
         <section>
-          <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+          <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-6">
             Contributing
           </h2>
           <div class="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-6">
@@ -138,7 +134,7 @@ import Footer from '../components/layout/Footer.astro';
                 <i class="fas fa-hands-helping text-blue-600 dark:text-blue-400 text-xl"></i>
               </div>
               <div>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">
+                <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2">
                   Open Source Contribution
                 </h3>
                 <p class="text-gray-600 dark:text-gray-300 mb-4">
@@ -149,7 +145,7 @@ import Footer from '../components/layout/Footer.astro';
                     <i class="fab fa-github mr-2"></i>
                     View on GitHub
                   </a>
-                  <a href="/how-it-works" class="inline-flex items-center px-4 py-2 bg-white dark:bg-gray-800 text-gray-900 dark:text-white font-medium rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                  <a href="/how-it-works" class="inline-flex items-center px-4 py-2 bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-100 font-medium rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
                     <i class="fas fa-book mr-2"></i>
                     Learn More
                   </a>
@@ -161,6 +157,4 @@ import Footer from '../components/layout/Footer.astro';
       </div>
     </div>
   </main>
-  
-  <Footer />
 </Layout>

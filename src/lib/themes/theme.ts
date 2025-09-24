@@ -67,7 +67,7 @@ export const lightTheme: ThemeColors = {
   surface: '#ffffff',
   background: '#f9fafb',
   text: {
-    primary: '#1f2937',
+    primary: '#1f2937', // より読みやすいダークグレー
     secondary: '#374151',
     muted: '#6b7280',
   },
@@ -92,7 +92,7 @@ export const darkTheme: ThemeColors = {
   surface: '#1f2937',
   background: '#111827',
   text: {
-    primary: '#f9fafb',
+    primary: '#f3f4f6', // より読みやすいライトグレー（純白より目に優しい）
     secondary: '#e5e7eb',
     muted: '#9ca3af',
   },
@@ -111,7 +111,7 @@ export const chartThemes: Record<Theme, ChartTheme> = {
       surface: '#ffffff',
       background: '#f9fafb',
       text: {
-        primary: '#1f2937',
+        primary: '#1f2937', // より読みやすいダークグレー
         muted: '#6b7280',
       },
       border: '#e5e7eb',
@@ -139,7 +139,7 @@ export const chartThemes: Record<Theme, ChartTheme> = {
       surface: '#1f2937',
       background: '#111827',
       text: {
-        primary: '#f9fafb',
+        primary: '#f3f4f6', // より読みやすいライトグレー
         muted: '#9ca3af',
       },
       border: '#374151',
