@@ -577,12 +577,29 @@
 /* Legend Components */
 .legend {
   gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.legend-title {
+  color: rgb(107 114 128);
+  font-weight: 600;
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.dark .legend-title {
+  color: rgb(156 163 175);
 }
 
 .legend-item {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  width: 100%;
 }
 
 .legend-color {
@@ -603,6 +620,8 @@
 
 .legend-scroll {
   overflow-x: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .legend-grid {
@@ -610,7 +629,7 @@
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem 1rem;
   padding-bottom: 0.5rem;
-  width: 100%;
+  width: fit-content;
 }
 
 @media (min-width: 640px) {

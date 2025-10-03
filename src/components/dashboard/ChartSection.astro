@@ -45,8 +45,8 @@ const {
         <!-- Desktop Legend -->
         <div class="hidden lg:block lg:w-1/5">
           <div class="chart-container flex flex-col justify-start pt-4">
-            <div class="text-xs font-medium text-gray-700 dark:text-gray-300 mb-3">Topics</div>
             <div class="legend">
+              <div class="legend-title">Topics</div>
               {topics.map((topic, index) => (
                 <div class="legend-item">
                   <div class="legend-color" style={`background-color: ${colors[index]};`}></div>
@@ -60,15 +60,17 @@ const {
       
       <!-- Mobile Legend -->
       <div class="block lg:hidden mt-4">
-        <div class="text-xs font-medium text-gray-700 dark:text-gray-300 mb-3">Topics</div>
-        <div class="legend-scroll">
-          <div class="legend-grid">
-            {topics.map((topic, index) => (
-              <div class="legend-item">
-                <div class="legend-color" style={`background-color: ${colors[index]};`}></div>
-                <span class="legend-label">{topic.name}</span>
-              </div>
-            ))}
+        <div class="legend">
+          <div class="legend-title">Topics</div>
+          <div class="legend-scroll">
+            <div class="legend-grid">
+              {topics.map((topic, index) => (
+                <div class="legend-item">
+                  <div class="legend-color" style={`background-color: ${colors[index]};`}></div>
+                  <span class="legend-label">{topic.name}</span>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </div>
