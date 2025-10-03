@@ -53,12 +53,3 @@ export const DASHBOARD_STATS: DashboardStats[] = [
   }
 ];
 
-// Common chart container CSS classes
-export const CSS_CLASSES = {
-  chartContainer: 'w-full h-72 sm:h-80 md:h-96 lg:h-[400px] xl:h-[450px]',
-  mainContainer: 'max-w-[90%] mx-auto px-6 sm:px-8 lg:px-12',
-  pageLayout: 'min-h-screen bg-gray-50 dark:bg-gray-900',
-  headerSection: 'bg-white dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800',
-  card: 'bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6 h-full',
-  statsCard: 'bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[100px] h-[70px] flex flex-col justify-between'
-} as const;

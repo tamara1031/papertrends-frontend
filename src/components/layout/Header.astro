@@ -114,7 +114,8 @@ import ThemeToggle from '../ui/ThemeToggle.astro';
       
       // Close menu when clicking outside
       document.addEventListener('click', (event) => {
-        if (!mobileMenuButton.contains(event.target) && !mobileMenu.contains(event.target)) {
+        const target = event.target as Node | null;
+        if (target && !mobileMenuButton.contains(target) && !mobileMenu.contains(target)) {
           if (!mobileMenu.classList.contains('hidden')) {
             mobileMenu.classList.add('hidden');
             menuIcon.classList.remove('hidden');

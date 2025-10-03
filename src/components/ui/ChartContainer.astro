@@ -1,0 +1,20 @@
+---
+interface Props {
+  responsive?: boolean;
+  class?: string;
+}
+
+const { 
+  responsive = true,
+  class: className = ''
+} = Astro.props;
+
+const classes = [
+  responsive ? 'chart-responsive' : 'chart-container',
+  className
+].filter(Boolean);
+---
+
+<div class={classes.join(' ')}>
+  <slot />
+</div>

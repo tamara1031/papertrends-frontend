@@ -1,7 +1,8 @@
 @import "tailwindcss";
+@import "./components.css";
 
 /* Tailwind v4 Dark Mode Configuration */
-@custom-variant dark (&:where(.dark, .dark *));
+@variant dark (&:where(.dark, .dark *));
 
 /* arXiv-inspired CSS Variables */
 :root {
@@ -548,9 +549,7 @@ html:not(.dark) {
 
 .link-nav:focus {
   outline: none;
-  ring: 2px;
-  ring-color: rgb(59 130 246);
-  ring-offset: 2px;
+  box-shadow: 0 0 0 2px rgb(59 130 246), 0 0 0 4px white;
 }
 
 .dark .link-nav {
@@ -564,8 +563,7 @@ html:not(.dark) {
 }
 
 .dark .link-nav:focus {
-  ring-color: rgb(59 130 246);
-  ring-offset-color: rgb(17 24 39);
+  box-shadow: 0 0 0 2px rgb(59 130 246), 0 0 0 4px rgb(17 24 39);
 }
 
 /* Table Components */

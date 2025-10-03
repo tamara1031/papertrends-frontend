@@ -164,7 +164,7 @@ export function getChartTheme(isDark: boolean): ChartTheme {
   return isDark ? chartThemes.dark : chartThemes.light;
 }
 
-export function getFontSize(size: 'xs' | 'sm' | 'md' | 'lg' | 'xl', theme: ChartTheme): string {
+export function getFontSize(size: 'xs' | 'sm' | 'md' | 'lg' | 'xl'): string {
   const sizes = {
     xs: '0.75rem',
     sm: '0.875rem',
@@ -175,7 +175,7 @@ export function getFontSize(size: 'xs' | 'sm' | 'md' | 'lg' | 'xl', theme: Chart
   return sizes[size];
 }
 
-export function getSpacing(size: 'xs' | 'sm' | 'md' | 'lg' | 'xl', theme: ChartTheme): number {
+export function getSpacing(size: 'xs' | 'sm' | 'md' | 'lg' | 'xl'): number {
   const spacings = {
     xs: 4,
     sm: 8,

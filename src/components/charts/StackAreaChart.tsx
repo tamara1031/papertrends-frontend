@@ -59,7 +59,7 @@ export function StackAreaChart({
       const chartTheme = getChartTheme(isDark);
       
       // Add padding
-      const padding = getSpacing('lg', chartTheme);
+      const padding = getSpacing('lg');
       const chartWidth = containerWidth - (padding * 2);
       const chartHeight = containerHeight - (padding * 2);
 
@@ -174,7 +174,7 @@ export function StackAreaChart({
         .attr('y', d => yScale(((d3.max(d, d => d[1]) ?? 0) + (d3.min(d, d => d[0]) ?? 0)) / 2))
         .attr('text-anchor', 'middle')
         .attr('dominant-baseline', 'middle')
-        .attr('font-size', getFontSize('xs', chartTheme))
+        .attr('font-size', getFontSize('xs'))
         .attr('font-family', chartTheme.typography.fontFamily)
         .attr('font-weight', chartTheme.typography.fontWeight.medium)
         .attr('fill', d => {
@@ -198,7 +198,7 @@ export function StackAreaChart({
         .call(xAxis)
         .selectAll('text')
         .attr('fill', chartTheme.colors.text.muted)
-        .attr('font-size', getFontSize('xs', chartTheme))
+        .attr('font-size', getFontSize('xs'))
         .attr('font-family', chartTheme.typography.fontFamily);
 
       svg.append('g')
@@ -206,7 +206,7 @@ export function StackAreaChart({
         .call(yAxis)
         .selectAll('text')
         .attr('fill', chartTheme.colors.text.muted)
-        .attr('font-size', getFontSize('xs', chartTheme))
+        .attr('font-size', getFontSize('xs'))
         .attr('font-family', chartTheme.typography.fontFamily);
 
       // Style axes

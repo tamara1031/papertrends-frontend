@@ -1,15 +1,14 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { RelatedPapers } from '../components/dashboard';
-import { TopicAnalysisChart } from '../components/dashboard/TopicAnalysisChart';
-import { TemporalAnalysisChart } from '../components/dashboard/TemporalAnalysisChart';
+import RelatedPapers from '../components/dashboard/RelatedPapers.astro';
 import StatisticsCard from '../components/dashboard/StatisticsCard.astro';
 import ChartSection from '../components/dashboard/ChartSection.astro';
+import { TopicAnalysisChart } from '../components/dashboard/TopicAnalysisChart';
+import { TemporalAnalysisChart } from '../components/dashboard/TemporalAnalysisChart';
 import { 
   generateTemporalData, 
   DASHBOARD_STATS, 
-  TOPIC_COLORS,
-  CSS_CLASSES 
+  TOPIC_COLORS
 } from '../utils/dashboard';
 import type { Topic, Paper } from '../types/dashboard';
 
@@ -58,13 +57,12 @@ const relatedPapers: Paper[] = [
 ];
 ---
 
-<link rel="stylesheet" href="/src/styles/global.css" />
 
 <Layout title="Dashboard - PaperTrends Research Analysis" canonical="/dashboard">
-  <main class={CSS_CLASSES.pageLayout}>
+  <main class="page-layout">
     <!-- Header Section -->
-    <section class={CSS_CLASSES.headerSection}>
-      <div class={CSS_CLASSES.mainContainer}>
+    <section class="section-header">
+      <div class="container-main">
         <!-- Page Header -->
         <div class="py-4">
           <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
@@ -97,7 +95,7 @@ const relatedPapers: Paper[] = [
     </section>
 
     <!-- Main Content Layout -->
-    <div class={`${CSS_CLASSES.mainContainer} py-6`}>
+    <div class="container-main section">
       <div class="w-full">
         <div class="space-y-6">
           <!-- Chart Sections Row -->
@@ -128,12 +126,12 @@ const relatedPapers: Paper[] = [
 
           <!-- Papers Section -->
           <div class="w-full">
-            <div class={CSS_CLASSES.card}>
+            <div class="card card-padding">
               <div class="mb-4">
-                <h3 class="text-lg font-medium text-gray-900 dark:text-white mb-2">
+                <h3 class="heading-tertiary">
                   Representative Papers
                 </h3>
-                <p class="text-sm text-gray-600 dark:text-gray-400">
+                <p class="text-meta">
                   Recent papers in AI Systems & Human Intelligence
                 </p>
               </div>

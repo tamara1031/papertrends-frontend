@@ -1,0 +1,33 @@
+---
+interface Props {
+  variant?: 'default' | 'elevated' | 'inset' | 'compact';
+  class?: string;
+}
+
+const { 
+  variant = 'default',
+  class: className = ''
+} = Astro.props;
+
+let variantClasses = '';
+
+switch (variant) {
+  case 'elevated':
+    variantClasses = 'card-elevated';
+    break;
+  case 'inset':
+    variantClasses = 'card-inset';
+    break;
+  case 'compact':
+    variantClasses = 'card card-compact';
+    break;
+  default:
+    variantClasses = 'card';
+}
+
+const classes = [variantClasses, className].filter(Boolean);
+---
+
+<div class={classes.join(' ')}>
+  <slot />
+</div>

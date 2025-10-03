@@ -1,24 +1,38 @@
 ---
 import type { DashboardStats } from '../../types/dashboard';
+import '../../styles/components.css';
 
 export interface Props {
   stats: DashboardStats;
 }
 
 const { stats } = Astro.props;
-const dotColorClass = `bg-${stats.color}-500`;
+
+// Safe color mapping to avoid runtime color issues
+const getColorClass = (color: string): string => {
+  const colorMap: Record<string, string> = {
+    red: 'bg-red-500',
+    orange: 'bg-orange-500', 
+    yellow: 'bg-yellow-500',
+    green: 'bg-green-500',
+    blue: 'bg-blue-500',
+    purple: 'bg-purple-500',
+    gray: 'bg-gray-500'
+  };
+  return colorMap[color] || 'bg-gray-500';
+};
 ---
 
-<div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[100px] h-[70px] flex flex-col justify-between">
+<div class="stat-card">
   <div class="flex items-center space-x-2">
-    <div class={`w-2 h-2 ${dotColorClass} rounded-full`}></div>
-    <span class="text-xs text-gray-600 dark:text-gray-400 font-medium">{stats.label}</span>
+    <div class={`stat-dot ${getColorClass(stats.color)}`}></div>
+    <span class="stat-label">{stats.label}</span>
   </div>
-  <div class="text-lg font-semibold text-gray-900 dark:text-white">
+  <div class="stat-value">
     {stats.value}
   </div>
   {stats.subtitle && (
-    <div class="text-xs text-gray-500 dark:text-gray-400">
+    <div class="stat-subtitle">
       {stats.subtitle}
     </div>
   )}

@@ -1,34 +1,25 @@
 ---
-// Related Papers Component
+import type { Paper } from '../../types/dashboard';
+import { formatAuthors } from '../../lib/utils';
+import '../../styles/components.css';
+
 export interface Props {
-  papers: Array<{
-    id: string;
-    title: string;
-    authors: string[];
-    year: number;
-    citations: number;
-    abstract: string;
-    topics: string[];
-  }>;
+  papers: Paper[];
 }
 
 const { papers } = Astro.props;
 ---
 
 <div class="space-y-4">
-  
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
     {papers.map((paper) => (
-      <div class="bg-gray-50 dark:bg-gray-700 rounded-lg border border-gray-200 dark:border-gray-600 p-4 hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors">
+      <div class="paper-card">
         <div class="mb-3">
-          <h4 class="text-sm font-medium text-gray-900 dark:text-white line-clamp-2 mb-2">
+          <h4 class="paper-title">
             {paper.title}
           </h4>
-          <div class="flex items-center space-x-2 text-xs text-gray-500 dark:text-gray-400">
-            <span>{paper.authors.slice(0, 2).join(', ')}</span>
-            {paper.authors.length > 2 && (
-              <span>+{paper.authors.length - 2} more</span>
-            )}
+          <div class="paper-meta">
+            <span>{formatAuthors(paper.authors, 2)}</span>
             <span>•</span>
             <span>{paper.year}</span>
             <span>•</span>
@@ -36,18 +27,18 @@ const { papers } = Astro.props;
           </div>
         </div>
         
-        <p class="text-xs text-gray-600 dark:text-gray-300 line-clamp-3 mb-3">
+        <p class="paper-abstract">
           {paper.abstract}
         </p>
         
         <div class="flex flex-wrap gap-1">
           {paper.topics.slice(0, 3).map((topic) => (
-            <span class="px-2 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 text-xs rounded-md">
+            <span class="paper-topic">
               {topic}
             </span>
           ))}
           {paper.topics.length > 3 && (
-            <span class="px-2 py-1 bg-gray-200 dark:bg-gray-600 text-gray-600 dark:text-gray-400 text-xs rounded-md">
+            <span class="paper-topic-more">
               +{paper.topics.length - 3}
             </span>
           )}

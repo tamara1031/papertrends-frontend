@@ -1,0 +1,69 @@
+---
+interface Props {
+  variant?: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'body' | 'meta';
+  element?: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'p' | 'span' | 'div';
+  class?: string;
+}
+
+const { 
+  variant = 'body',
+
+  element,
+  class: className = ''
+} = Astro.props;
+
+// Determine the HTML element
+let Element = element;
+if (!Element) {
+  switch (variant) {
+    case 'h1':
+      Element = 'h1';
+      break;
+    case 'h2':
+      Element = 'h2';
+      break;
+    case 'h3':
+      Element = 'h3';
+      break;
+    case 'h4':
+      Element = 'h4';
+      break;
+    case 'h5':
+      Element = 'h5';
+      break;
+    case 'h6':
+      Element = 'h6';
+      break;
+    default:
+      Element = 'p';
+  }
+}
+
+// Determine CSS classes
+let variantClasses = '';
+switch (variant) {
+  case 'h1':
+    variantClasses = 'heading-primary';
+    break;
+  case 'h2':
+    variantClasses = 'heading-secondary';
+    break;
+  case 'h3':
+    variantClasses = 'heading-tertiary';
+    break;
+  case 'body':
+    variantClasses = 'text-body';
+    break;
+  case 'meta':
+    variantClasses = 'text-meta';
+    break;
+  default:
+    variantClasses = '';
+}
+
+const classes = [variantClasses, className].filter(Boolean);
+---
+
+<Element class={classes.join(' ')}>
+  <slot />
+</Element>
