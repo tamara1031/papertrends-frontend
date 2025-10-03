@@ -412,7 +412,7 @@ html:not(.dark) {
 .section-container {
   max-width: 56rem;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 0.75rem;
 }
 
 @media (min-width: 600px) {

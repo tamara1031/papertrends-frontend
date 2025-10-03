@@ -24,16 +24,27 @@ const getColorClass = (color: string): string => {
 ---
 
 <div class="stat-card">
-  <div class="flex items-center space-x-2">
-    <div class={`stat-dot ${getColorClass(stats.color)}`}></div>
-    <span class="stat-label">{stats.label}</span>
-  </div>
-  <div class="stat-value">
-    {stats.value}
-  </div>
-  {stats.subtitle && (
-    <div class="stat-subtitle">
-      {stats.subtitle}
+  <div class="flex items-center justify-between">
+    <!-- Icon Box -->
+    <div class={`stat-icon-box ${getColorClass(stats.color)}`}>
+      {stats.icon}
     </div>
-  )}
+    
+    <!-- Content -->
+    <div class="stat-content">
+      <div class="stat-value">
+        {stats.value}
+      </div>
+      <div class="stat-label">
+        {stats.label}
+      </div>
+    </div>
+    
+    <!-- Badge -->
+    {stats.subtitle && (
+      <div class="stat-badge">
+        {stats.subtitle}
+      </div>
+    )}
+  </div>
 </div>

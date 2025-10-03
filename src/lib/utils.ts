@@ -47,29 +47,30 @@ export const DASHBOARD_STATS: DashboardStats[] = [
   {
     name: 'papers',
     label: 'Papers',
-    value: '88,303',
-    color: 'red',
+    value: '1,825',
+    color: 'blue',
     icon: '📄'
   },
   {
     name: 'topics',
     label: 'Topics',
-    value: '48',
-    color: 'orange',
+    value: '8',
+    color: 'green',
     icon: '🏷️'
   },
   {
     name: 'period',
     label: 'Period',
     value: '2020-01 - 2025-09',
-    color: 'yellow',
-    icon: '📅'
+    color: 'orange',
+    icon: '📅',
+    subtitle: '69mo'
   },
   {
     name: 'updated',
     label: 'Updated',
-    value: 'Sep 26',
-    color: 'green',
+    value: 'Sep 26, 25',
+    color: 'purple',
     icon: '🔄',
     subtitle: 'v0.0.2'
   }
