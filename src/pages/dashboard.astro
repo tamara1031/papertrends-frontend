@@ -1,6 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { BubbleChart, StackAreaChart } from '../components/charts';
+import { RelatedPapers } from '../components/dashboard';
+import { TopicAnalysisChart } from '../components/dashboard/TopicAnalysisChart';
+import { TemporalAnalysisChart } from '../components/dashboard/TemporalAnalysisChart';
 
 // Mock data for dashboard demonstration
 const mockTopicData = [
@@ -48,271 +50,227 @@ const mockAnalysisData = {
   }
 };
 
-// Dashboard statistics
-const dashboardStats = {
-  totalPapers: 1600000,
-  totalCategories: 7,
-  totalSubcategories: 95,
-  lastUpdated: '2024-01-01'
-};
+
+// Mock data for related papers
+const mockRelatedPapers = [
+  {
+    id: 'paper1',
+    title: 'Deep Learning Approaches for Natural Language Processing',
+    authors: ['John Smith', 'Jane Doe', 'Bob Johnson'],
+    year: 2023,
+    citations: 245,
+    abstract: 'This paper presents novel deep learning techniques for improving natural language processing tasks...',
+    topics: ['Deep Learning', 'NLP', 'Machine Learning']
+  },
+  {
+    id: 'paper2',
+    title: 'Computer Vision Applications in Autonomous Vehicles',
+    authors: ['Alice Brown', 'Charlie Wilson'],
+    year: 2023,
+    citations: 189,
+    abstract: 'We explore the application of computer vision algorithms in autonomous vehicle systems...',
+    topics: ['Computer Vision', 'Autonomous Systems', 'Robotics']
+  },
+  {
+    id: 'paper3',
+    title: 'Reinforcement Learning for Game AI',
+    authors: ['David Lee', 'Emma Davis', 'Frank Miller'],
+    year: 2022,
+    citations: 156,
+    abstract: 'This research investigates reinforcement learning methods for creating intelligent game AI...',
+    topics: ['Reinforcement Learning', 'Game AI', 'Machine Learning']
+  },
+  {
+    id: 'paper4',
+    title: 'Data Science Methodologies for Big Data Analytics',
+    authors: ['Grace Taylor', 'Henry Anderson'],
+    year: 2023,
+    citations: 134,
+    abstract: 'We present comprehensive methodologies for analyzing large-scale datasets using data science techniques...',
+    topics: ['Data Science', 'Big Data', 'Analytics']
+  }
+];
 ---
 
 <Layout title="Dashboard - PaperTrends Research Analysis" canonical="/dashboard">
-  <main class="min-h-screen bg-white dark:bg-gray-900">
-    <!-- Hero Section -->
-    <section class="relative py-8 sm:py-12 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-gray-900 dark:to-gray-800">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex items-center space-x-2 sm:space-x-4 mb-4 sm:mb-6">
-          <a href="/" class="text-sm sm:text-base text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-100 transition-colors">
-            <i class="fas fa-arrow-left mr-1 sm:mr-2"></i>
-            <span class="hidden sm:inline">Back to Home</span>
-            <span class="sm:hidden">Back</span>
-          </a>
-        </div>
-        
-        <div class="text-center">
-          <div class="flex items-center justify-center space-x-2 sm:space-x-4 mb-4 sm:mb-6">
-            <div class="w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl sm:rounded-2xl flex items-center justify-center">
-              <span class="text-lg sm:text-2xl">📊</span>
-            </div>
-            <div class="w-8 h-8 sm:w-12 sm:h-12 bg-white dark:bg-gray-800 rounded-lg sm:rounded-xl flex items-center justify-center shadow-sm">
-              <span class="text-sm sm:text-xl">🔍</span>
-            </div>
-          </div>
-          
-          <h1 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 dark:text-gray-100 mb-3 sm:mb-4">
-            Research Dashboard
-          </h1>
-          <p class="text-base sm:text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-4 sm:mb-6 px-4 sm:px-0">
-            Comprehensive analysis of academic research trends across multiple domains
-          </p>
-          <div class="inline-flex items-center px-3 sm:px-4 py-2 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
-            <span class="text-xs sm:text-sm text-gray-600 dark:text-gray-400 mr-1 sm:mr-2">Last Updated:</span>
-            <span class="text-xs sm:text-sm font-medium text-gray-800 dark:text-gray-100">{dashboardStats.lastUpdated}</span>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Statistics Overview -->
-    <section class="py-8 sm:py-12 md:py-16 bg-gray-50 dark:bg-gray-900">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-8 sm:mb-12">
-          <h2 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-3 sm:mb-4">
-            Dataset Overview
-          </h2>
-          <p class="text-base sm:text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto px-4 sm:px-0">
-            Comprehensive statistics from our research analysis
-          </p>
-        </div>
-        
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
-          <div class="bg-white dark:bg-gray-800 rounded-xl p-4 sm:p-6 shadow-sm border border-gray-200 dark:border-gray-700">
-            <div class="flex items-center space-x-2 sm:space-x-3 mb-3 sm:mb-4">
-              <div class="w-8 h-8 sm:w-10 sm:h-10 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center">
-                <span class="text-blue-600 dark:text-blue-400 font-semibold text-sm sm:text-base">📄</span>
+  <main class="min-h-screen bg-gray-50 dark:bg-gray-900">
+    <!-- Header Section -->
+    <section class="bg-white dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800">
+      <div class="max-w-[90%] mx-auto px-6 sm:px-8 lg:px-12">
+        <!-- Page Header -->
+        <div class="py-3">
+          <div class="flex items-center justify-between">
+            <div class="flex items-center space-x-3">
+              <div class="w-6 h-6 bg-gray-900 dark:bg-white rounded-md flex items-center justify-center">
+                <svg class="w-3 h-3 text-white dark:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+                </svg>
               </div>
-              <h3 class="text-base sm:text-lg font-semibold text-gray-800 dark:text-gray-100">
-                Total Papers
-              </h3>
-            </div>
-            <div class="text-2xl sm:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-2">
-              {dashboardStats.totalPapers.toLocaleString()}+
-            </div>
-            <p class="text-xs sm:text-sm text-gray-600 dark:text-gray-400">
-              Research papers analyzed
-            </p>
-          </div>
-          
-          <div class="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm border border-gray-200 dark:border-gray-700">
-            <div class="flex items-center space-x-3 mb-4">
-              <div class="w-10 h-10 bg-green-100 dark:bg-green-900 rounded-lg flex items-center justify-center">
-                <span class="text-green-600 dark:text-green-400 font-semibold">📚</span>
+              <div>
+                <h1 class="text-lg font-medium text-gray-900 dark:text-white tracking-tight">
+                  Dashboard
+                </h1>
+                <p class="text-xs text-gray-500 dark:text-gray-400 font-normal">
+                  Research analytics
+                </p>
               </div>
-              <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">
-                Categories
-              </h3>
             </div>
-            <div class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-2">
-              {dashboardStats.totalCategories}
-            </div>
-            <p class="text-sm text-gray-600 dark:text-gray-400">
-              Major research domains
-            </p>
-          </div>
-          
-          <div class="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm border border-gray-200 dark:border-gray-700">
-            <div class="flex items-center space-x-3 mb-4">
-              <div class="w-10 h-10 bg-purple-100 dark:bg-purple-900 rounded-lg flex items-center justify-center">
-                <span class="text-purple-600 dark:text-purple-400 font-semibold">🏷️</span>
-              </div>
-              <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">
-                Subcategories
-              </h3>
-            </div>
-            <div class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-2">
-              {dashboardStats.totalSubcategories}+
-            </div>
-            <p class="text-sm text-gray-600 dark:text-gray-400">
-              Detailed research areas
-            </p>
-          </div>
-          
-          <div class="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm border border-gray-200 dark:border-gray-700">
-            <div class="flex items-center space-x-3 mb-4">
-              <div class="w-10 h-10 bg-orange-100 dark:bg-orange-900 rounded-lg flex items-center justify-center">
-                <span class="text-orange-600 dark:text-orange-400 font-semibold">📅</span>
-              </div>
-              <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100">
-                Analysis Period
-              </h3>
-            </div>
-            <div class="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-2">
-              2020-2024
-            </div>
-            <p class="text-sm text-gray-600 dark:text-gray-400">
-              Years of research data
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Visualization Section -->
-    <section class="py-8 sm:py-12 md:py-16 bg-gray-50 dark:bg-gray-800">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-8 sm:mb-12">
-          <h2 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-3 sm:mb-4">
-            Research Topic Analysis
-          </h2>
-          <p class="text-base sm:text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto px-4 sm:px-0">
-            Explore the main research topics and their relationships across all domains
-          </p>
-        </div>
-        
-        <!-- Chart Controls -->
-        <div class="flex justify-center mb-6 sm:mb-8">
-          <div class="bg-gray-100 dark:bg-gray-800 rounded-lg p-1">
-            <button class="px-3 sm:px-4 py-2 text-sm sm:text-base bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100 rounded-md shadow-sm font-medium">
-              Circle Packing
-            </button>
-            <button class="px-3 sm:px-4 py-2 text-sm sm:text-base text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-100 transition-colors">
-              Theme River
-            </button>
-          </div>
-        </div>
-        
-        <!-- Chart Container -->
-        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-4 sm:p-6 md:p-8 mb-6 sm:mb-8">
-          <div class="h-64 sm:h-80 md:h-96 w-full">
-            <BubbleChart 
-              data={mockTopicData} 
-              client:load 
-            />
-          </div>
-        </div>
-        
-        <!-- Chart Info -->
-        <div class="text-center px-4 sm:px-0">
-          <p class="text-gray-600 dark:text-gray-400 text-xs sm:text-sm">
-            Click on any topic to explore its details and related research papers
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <!-- Topic Details Section -->
-    <section class="py-8 sm:py-12 md:py-16 bg-gray-50 dark:bg-gray-900">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-8 sm:mb-12">
-          <h2 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-3 sm:mb-4">
-            Top Research Topics
-          </h2>
-          <p class="text-base sm:text-lg md:text-xl text-gray-600 dark:text-gray-300 px-4 sm:px-0">
-            Key research areas and their characteristics across all domains
-          </p>
-        </div>
-        
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
-          {mockTopicData.map((topic, index) => (
-            <div class="bg-white dark:bg-gray-800 rounded-xl p-4 sm:p-6 shadow-sm border border-gray-200 dark:border-gray-700">
-              <div class="flex items-center space-x-2 sm:space-x-3 mb-3 sm:mb-4">
-                <div class="w-8 h-8 sm:w-10 sm:h-10 bg-blue-100 dark:bg-blue-900 rounded-lg flex items-center justify-center">
-                  <span class="text-blue-600 dark:text-blue-400 font-semibold text-sm sm:text-base">{index + 1}</span>
+            
+            <!-- Statistics Cards -->
+            <div class="hidden lg:flex items-center space-x-6">
+              <div class="group bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[100px] h-[70px] flex flex-col justify-between cursor-pointer">
+                <div class="flex items-center space-x-2">
+                  <div class="w-2 h-2 bg-red-500 rounded-full"></div>
+                  <span class="text-xs text-gray-600 dark:text-gray-400 font-medium">Papers</span>
                 </div>
-                <h3 class="text-base sm:text-lg font-semibold text-gray-800 dark:text-gray-100">
-                  {topic.name}
-                </h3>
+                <div class="text-lg font-semibold text-gray-900 dark:text-white">88,303</div>
+                <div class="text-xs text-red-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300">+12.5%</div>
               </div>
-              <div class="space-y-2">
-                <div class="flex items-center justify-between">
-                  <span class="text-xs sm:text-sm text-gray-600 dark:text-gray-400">Papers:</span>
-                  <span class="text-xs sm:text-sm font-medium text-gray-800 dark:text-gray-100">{topic.count}</span>
+              
+              <div class="group bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[100px] h-[70px] flex flex-col justify-between cursor-pointer">
+                <div class="flex items-center space-x-2">
+                  <div class="w-2 h-2 bg-orange-500 rounded-full"></div>
+                  <span class="text-xs text-gray-600 dark:text-gray-400 font-medium">Topics</span>
                 </div>
-                <div class="space-y-1">
-                  <span class="text-xs sm:text-sm text-gray-600 dark:text-gray-400">Top Keywords:</span>
-                  <div class="flex flex-wrap gap-1">
-                    {topic.keywords.slice(0, 3).map(([keyword, count]) => (
-                      <span class="px-1.5 sm:px-2 py-1 bg-gray-100 dark:bg-gray-800 text-xs rounded-md text-gray-700 dark:text-gray-300">
-                        {keyword}
-                      </span>
-                    ))}
+                <div class="text-lg font-semibold text-gray-900 dark:text-white">48</div>
+                <div class="text-xs text-orange-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300">+3 new</div>
+              </div>
+              
+              <div class="group bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[120px] h-[70px] flex flex-col justify-between cursor-pointer">
+                <div class="flex items-center space-x-2">
+                  <div class="w-2 h-2 bg-yellow-500 rounded-full"></div>
+                  <span class="text-xs text-gray-600 dark:text-gray-400 font-medium">Period</span>
+                </div>
+                <div class="text-sm font-semibold text-gray-900 dark:text-white">2020-2025</div>
+                <div class="text-xs text-gray-500 dark:text-gray-400">69mo</div>
+              </div>
+              
+              <div class="group bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[100px] h-[70px] flex flex-col justify-between cursor-pointer">
+                <div class="flex items-center space-x-2">
+                  <div class="w-2 h-2 bg-green-500 rounded-full"></div>
+                  <span class="text-xs text-gray-600 dark:text-gray-400 font-medium">Updated</span>
+                </div>
+                <div class="text-sm font-semibold text-gray-900 dark:text-white">Sep 26</div>
+                <div class="text-xs text-gray-500 dark:text-gray-400">v0.0.2</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content Layout -->
+    <div class="max-w-[90%] mx-auto px-6 sm:px-8 lg:px-12 py-6">
+      <!-- Main Content -->
+      <div class="w-full">
+          <div class="space-y-6">
+            <!-- First Row: Topic Analysis (Left 2/5) and Temporal Analysis (Right 3/5) -->
+            <div class="grid grid-cols-1 lg:grid-cols-5 gap-6">
+              <!-- Left Column: Topic Analysis (2/5) -->
+              <div class="lg:col-span-2">
+                <div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6 h-full">
+                  <div class="mb-4">
+                    <div class="flex items-center justify-between mb-3">
+                      <div class="flex items-center space-x-3">
+                        <div class="w-6 h-6 bg-gray-900 dark:bg-white rounded-md flex items-center justify-center">
+                          <svg class="w-3 h-3 text-white dark:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"></path>
+                          </svg>
+                        </div>
+                        <h2 class="text-lg font-medium text-gray-900 dark:text-white">
+                          Topic Analysis
+                        </h2>
+                      </div>
+                      
+                      <!-- Chart Type Toggle -->
+                      <div class="flex bg-gray-100 dark:bg-gray-700 rounded-md p-0.5">
+                        <button 
+                          id="bubble-btn"
+                          class="px-3 py-1 text-xs bg-gray-900 dark:bg-white text-white dark:text-gray-900 rounded-sm font-medium"
+                        >
+                          Bubble
+                        </button>
+                        <button 
+                          id="treemap-btn"
+                          class="px-3 py-1 text-xs text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white"
+                        >
+                          Treemap
+                        </button>
+                      </div>
+                    </div>
+                    <p class="text-sm text-gray-600 dark:text-gray-400">
+                      Explore research topic relationships and clustering patterns
+                    </p>
+                  </div>
+                  
+                  <!-- D3 Chart Container - Responsive -->
+                  <div class="w-full h-96 lg:h-[500px]">
+                    <TopicAnalysisChart 
+                      data={mockTopicData} 
+                      client:load 
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <!-- Right Column: Temporal Analysis (3/5) -->
+              <div class="lg:col-span-3">
+                <div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6 h-full">
+                  <div class="mb-4">
+                    <div class="flex items-center space-x-3 mb-3">
+                      <div class="w-6 h-6 bg-gray-900 dark:bg-white rounded-md flex items-center justify-center">
+                        <svg class="w-3 h-3 text-white dark:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+                        </svg>
+                      </div>
+                      <h2 class="text-lg font-medium text-gray-900 dark:text-white">
+                        Temporal Analysis
+                      </h2>
+                    </div>
+                    <p class="text-sm text-gray-600 dark:text-gray-400">
+                      Track research evolution and emerging trends over time
+                    </p>
+                  </div>
+                  
+                  <!-- D3 Chart Container -->
+                  <div class="w-full h-96 lg:h-[500px]">
+                    <TemporalAnalysisChart 
+                      data={mockAnalysisData} 
+                      client:load 
+                    />
                   </div>
                 </div>
               </div>
             </div>
-          ))}
-        </div>
-      </div>
-    </section>
 
-    <!-- Temporal Analysis Section -->
-    <section class="py-8 sm:py-12 md:py-16 bg-gray-50 dark:bg-gray-800">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-8 sm:mb-12">
-          <h2 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-3 sm:mb-4">
-            Temporal Trend Analysis
-          </h2>
-          <p class="text-base sm:text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto px-4 sm:px-0">
-            Track how research topics evolve over time across all domains
-          </p>
-        </div>
-        
-        <!-- Theme River Chart -->
-        <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-4 sm:p-6 md:p-8">
-          <div class="h-64 sm:h-80 md:h-96 w-full">
-            <StackAreaChart 
-              data={mockAnalysisData} 
-              client:load 
-            />
+            <!-- Second Row: Representative Papers (Full Width) -->
+            <div class="w-full">
+              <div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6">
+                <div class="mb-4">
+                  <div class="flex items-center justify-between">
+                    <div class="flex items-center space-x-3">
+                      <div class="w-6 h-6 bg-gray-900 dark:bg-white rounded-md flex items-center justify-center">
+                        <svg class="w-3 h-3 text-white dark:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                      </div>
+                      <h3 class="text-lg font-medium text-gray-900 dark:text-white">
+                        Representative Papers
+                      </h3>
+                    </div>
+                    <div class="flex items-center space-x-3">
+                      <span class="text-sm text-gray-600 dark:text-gray-400">Topic: AI Systems & Human Intelligence</span>
+                      <button class="px-3 py-1 text-xs bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-md hover:bg-gray-200 dark:hover:bg-gray-600">
+                        Clear Filter
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <RelatedPapers papers={mockRelatedPapers} />
+              </div>
+            </div>
           </div>
-        </div>
-        
-        <div class="text-center mt-4 sm:mt-6 px-4 sm:px-0">
-          <p class="text-gray-600 dark:text-gray-400 text-xs sm:text-sm">
-            This visualization shows the relative popularity of different research topics over time
-          </p>
-        </div>
       </div>
-    </section>
-
-
-    <!-- Navigation -->
-    <section class="py-8 sm:py-12 md:py-16 bg-gray-50 dark:bg-gray-800">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex flex-col sm:flex-row justify-between items-center gap-4">
-          <a href="/" class="inline-flex items-center px-4 sm:px-6 py-2 sm:py-3 bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 font-medium rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors text-sm sm:text-base">
-            <i class="fas fa-arrow-left mr-1 sm:mr-2"></i>
-            <span class="hidden sm:inline">Back to Home</span>
-            <span class="sm:hidden">Back</span>
-          </a>
-          <a href="/how-it-works" class="inline-flex items-center px-4 sm:px-6 py-2 sm:py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors text-sm sm:text-base">
-            <i class="fas fa-info-circle mr-1 sm:mr-2"></i>
-            <span class="hidden sm:inline">How it Works</span>
-            <span class="sm:hidden">How it Works</span>
-          </a>
-        </div>
-      </div>
-    </section>
+    </div>
   </main>
 </Layout>

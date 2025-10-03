@@ -246,6 +246,10 @@ export function BubbleChart({
   }
 
   return (
-    <div ref={svgRef} className="w-full h-full"></div>
+    <div 
+      ref={svgRef} 
+      className="w-full h-full"
+      data-chart="bubble"
+    />
   );
 }

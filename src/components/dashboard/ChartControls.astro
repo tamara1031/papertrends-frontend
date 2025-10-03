@@ -1,0 +1,66 @@
+---
+// Chart Controls Component
+---
+
+<div class="flex justify-center mb-4 sm:mb-6">
+  <div class="bg-gray-100 dark:bg-gray-800 rounded-lg p-1">
+    <button 
+      id="circle-packing-btn"
+      class="px-3 sm:px-4 py-1.5 sm:py-2 text-xs sm:text-sm bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100 rounded-md shadow-sm font-medium transition-all duration-200"
+    >
+      Circle Packing
+    </button>
+    <button 
+      id="theme-river-btn"
+      class="px-3 sm:px-4 py-1.5 sm:py-2 text-xs sm:text-sm text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-100 transition-colors"
+    >
+      Theme River
+    </button>
+  </div>
+</div>
+
+<script>
+  // Chart control functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const circlePackingBtn = document.getElementById('circle-packing-btn');
+    const themeRiverBtn = document.getElementById('theme-river-btn');
+    
+    if (circlePackingBtn && themeRiverBtn) {
+      // Set initial state
+      circlePackingBtn.classList.add('bg-white', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-100', 'font-medium');
+      themeRiverBtn.classList.remove('bg-white', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-100', 'font-medium');
+      
+      circlePackingBtn.addEventListener('click', () => {
+        // Update button styles
+        circlePackingBtn.classList.add('bg-white', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-100', 'font-medium');
+        circlePackingBtn.classList.remove('text-gray-600', 'dark:text-gray-400');
+        
+        themeRiverBtn.classList.remove('bg-white', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-100', 'font-medium');
+        themeRiverBtn.classList.add('text-gray-600', 'dark:text-gray-400');
+        
+        // Show circle packing chart, hide theme river
+        const bubbleChart = document.querySelector('[data-chart="bubble"]');
+        const stackChart = document.querySelector('[data-chart="stack"]');
+        
+        if (bubbleChart) bubbleChart.style.display = 'block';
+        if (stackChart) stackChart.style.display = 'none';
+      });
+      
+      themeRiverBtn.addEventListener('click', () => {
+        // Update button styles
+        themeRiverBtn.classList.add('bg-white', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-100', 'font-medium');
+        themeRiverBtn.classList.remove('text-gray-600', 'dark:text-gray-400');
+        
+        circlePackingBtn.classList.remove('bg-white', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-100', 'font-medium');
+        circlePackingBtn.classList.add('text-gray-600', 'dark:text-gray-400');
+        
+        // Show theme river chart, hide circle packing
+        const bubbleChart = document.querySelector('[data-chart="bubble"]');
+        const stackChart = document.querySelector('[data-chart="stack"]');
+        
+        if (bubbleChart) bubbleChart.style.display = 'none';
+        if (stackChart) stackChart.style.display = 'block';
+      });
+    }
+  });
+</script>

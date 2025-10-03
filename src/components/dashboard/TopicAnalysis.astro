@@ -1,0 +1,59 @@
+---
+// Topic Analysis Visualization Component
+import { BubbleChart, StackAreaChart } from '../charts';
+
+export interface Props {
+  topicData: Array<{
+    id: string;
+    name: string;
+    count: number;
+    keywords: [string, number][];
+  }>;
+  analysisData?: {
+    topics: {
+      data: {
+        [topic_id: string]: {
+          name: string;
+          keywords: [string, number][];
+          count: number;
+        };
+      };
+      correlations: number[][];
+      series: {
+        [year: string]: number[];
+      };
+      papers: {
+        [topic_id: string]: any[];
+      };
+    };
+    metadata: {
+      categoryId: string;
+      subcategoryId: string;
+      lastUpdated: string;
+      dataVersion: string;
+      period: {
+        start: string;
+        end: string;
+      };
+    };
+  };
+}
+
+const { topicData, analysisData } = Astro.props;
+---
+
+<div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-3 sm:p-4 mb-4 sm:mb-6">
+  <div class="h-48 sm:h-64 md:h-80 lg:h-96 w-full">
+    <BubbleChart 
+      data={topicData} 
+      client:load 
+    />
+  </div>
+</div>
+
+<!-- Chart Info -->
+<div class="text-center px-2 sm:px-0">
+  <p class="text-gray-600 dark:text-gray-400 text-xs">
+    Click on any topic to explore its details and related research papers
+  </p>
+</div>

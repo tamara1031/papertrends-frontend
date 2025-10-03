@@ -252,6 +252,10 @@ export function StackAreaChart({
   }
 
   return (
-    <div ref={svgRef} className="w-full h-full"></div>
+    <div 
+      ref={svgRef} 
+      className="w-full h-full"
+      data-chart="stack"
+    />
   );
 }

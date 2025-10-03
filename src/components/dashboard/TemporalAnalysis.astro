@@ -1,0 +1,52 @@
+---
+// Temporal Analysis Visualization Component
+import { StackAreaChart } from '../charts';
+
+export interface Props {
+  analysisData: {
+    topics: {
+      data: {
+        [topic_id: string]: {
+          name: string;
+          keywords: [string, number][];
+          count: number;
+        };
+      };
+      correlations: number[][];
+      series: {
+        [year: string]: number[];
+      };
+      papers: {
+        [topic_id: string]: any[];
+      };
+    };
+    metadata: {
+      categoryId: string;
+      subcategoryId: string;
+      lastUpdated: string;
+      dataVersion: string;
+      period: {
+        start: string;
+        end: string;
+      };
+    };
+  };
+}
+
+const { analysisData } = Astro.props;
+---
+
+<div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-3 sm:p-4">
+  <div class="h-48 sm:h-64 md:h-80 lg:h-96 w-full">
+    <StackAreaChart 
+      data={analysisData} 
+      client:load 
+    />
+  </div>
+</div>
+
+<div class="text-center mt-3 sm:mt-4 px-2 sm:px-0">
+  <p class="text-gray-600 dark:text-gray-400 text-xs">
+    This visualization shows the relative popularity of different research topics over time
+  </p>
+</div>
