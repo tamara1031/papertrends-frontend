@@ -5,11 +5,11 @@ import StatisticsCard from '../components/dashboard/StatisticsCard.astro';
 import ChartSection from '../components/dashboard/ChartSection.astro';
 import { TopicAnalysisChart } from '../components/dashboard/TopicAnalysisChart';
 import { TemporalAnalysisChart } from '../components/dashboard/TemporalAnalysisChart';
-import { 
-  generateTemporalData, 
-  DASHBOARD_STATS, 
+import {
+  generateTemporalData,
+  DASHBOARD_STATS,
   TOPIC_COLORS
-} from '../utils/dashboard';
+} from '../lib/utils';
 import type { Topic, Paper } from '../types/dashboard';
 
 // Centralized topic data

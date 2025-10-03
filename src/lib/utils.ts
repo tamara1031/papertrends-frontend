@@ -3,13 +3,27 @@ import { twMerge } from 'tailwind-merge';
 
 /**
  * Combines class names using clsx and tailwind-merge for optimal Tailwind CSS class handling
+ * @param inputs - Class values to be combined
+ * @returns Merged and deduplicated class string
+ * @example
+ * ```typescript
+ * cn('px-4 py-2', 'text-red-500', 'px-6') // 'px-6 py-2 text-red-500'
+ * ```
  */
-export function cn(...inputs: ClassValue[]) {
+export function cn(...inputs: ClassValue[]): string {
   return twMerge(clsx(inputs));
 }
 
 /**
- * Formats numbers with appropriate units (K, M, B)
+ * Formats large numbers with appropriate units (K, M, B) for better readability
+ * @param num - Number to format
+ * @returns Formatted string with appropriate unit
+ * @example
+ * ```typescript
+ * formatNumber(1500) // '1.5K'
+ * formatNumber(2500000) // '2.5M'
+ * formatNumber(1200000000) // '1.2B'
+ * ```
  */
 export function formatNumber(num: number): string {
   if (num >= 1000000000) {
@@ -145,7 +159,7 @@ export async function copyToClipboard(text: string): Promise<boolean> {
     textArea.select();
     
     try {
-      document.execCommand('copy');
+      document.execCommand('copy'); // eslint-disable-line deprecation/deprecation
       return true;
     } catch {
       return false;
@@ -184,3 +198,67 @@ export function isInViewport(element: HTMLElement): boolean {
     rect.right <= (window.innerWidth || document.documentElement.clientWidth)
   );
 }
+
+// Dashboard-specific utilities
+import type { Topic, TopicData, DashboardStats } from '../types/dashboard';
+
+/**
+ * Topic color patterns for consistency across charts
+ */
+export const TOPIC_COLORS = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b'];
+
+/**
+ * Generate temporal data from topics for chart visualization
+ * @param topics - Array of topic objects
+ * @returns Generated temporal data structure
+ */
+export const generateTemporalData = (topics: Topic[]): TopicData => {
+  const data: TopicData = {
+    topics: {
+      data: Object.fromEntries(topics.map(topic => [topic.id, topic])),
+      series: {
+        '2020': topics.map(t => Math.floor(t.count / 20)),
+        '2021': topics.map(t => Math.floor(t.count / 15)),
+        '2022': topics.map(t => Math.floor(t.count / 12)),
+        '2023': topics.map(t => Math.floor(t.count / 10)),
+        '2024': topics.map(t => Math.floor(t.count / 8)),
+      }
+    }
+  };
+  return data;
+};
+
+/**
+ * Dashboard statistics data
+ */
+export const DASHBOARD_STATS: DashboardStats[] = [
+  {
+    name: 'papers',
+    label: 'Papers',
+    value: '88,303',
+    color: 'red',
+    icon: '📄'
+  },
+  {
+    name: 'topics',
+    label: 'Topics',
+    value: '48',
+    color: 'orange',
+    icon: '🏷️'
+  },
+  {
+    name: 'period',
+    label: 'Period',
+    value: '2020-01 - 2025-09',
+    color: 'yellow',
+    icon: '📅'
+  },
+  {
+    name: 'updated',
+    label: 'Updated',
+    value: 'Sep 26',
+    color: 'green',
+    icon: '🔄',
+    subtitle: 'v0.0.2'
+  }
+];
