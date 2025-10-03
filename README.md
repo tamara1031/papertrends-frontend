@@ -11,7 +11,7 @@ PaperTrends is an open-source web application for academic research trend analys
 - **Dashboard**: Topic Frequency, Evolution, and metrics display
 - **Dark/Light Theme**: Switch themes according to user preference
 - **Responsive Design**: Compatible with mobile, tablet, and desktop
-- **Category-based Analysis**: Supports arXiv categories
+- **Research Trend Analysis**: Comprehensive analysis of academic research trends
 
 ## Tech Stack
 
@@ -89,12 +89,8 @@ npm run deploy
 src/
 ├── pages/                    # Astro pages (file-based routing)
 │   ├── index.astro          # Homepage
-│   ├── how-it-works.astro   # How it works page
-│   ├── acknowledgments.astro # Acknowledgments page
-│   └── category/            # Category pages
-│       └── [categoryId]/
-│           ├── index.astro   # Category overview
-│           └── [subcategoryId].astro # Subcategory analysis
+│   ├── dashboard.astro      # Dashboard page
+│   └── how-it-works.astro   # How it works page
 ├── components/              # Astro and React components
 │   ├── charts/              # D3.js chart components (React)
 │   │   ├── BubbleChart.tsx  # Circle packing visualization
@@ -107,13 +103,9 @@ src/
 ├── layouts/                 # Astro layouts
 │   └── Layout.astro         # Main layout template
 ├── lib/                     # Utilities and libraries
-│   ├── data/                # Data definitions
-│   │   └── arxiv-categories.ts # arXiv category definitions
 │   ├── types/               # TypeScript type definitions
-│   ├── themes/              # Theme management
-│   │   └── theme.ts         # Theme colors and configurations
-│   └── utils/               # Utility functions
-│       └── colorScale.ts    # Color scaling utilities
+│   └── themes/              # Theme management
+│       └── theme.ts         # Theme colors and configurations
 └── styles/                  # Global styles
     └── global.css           # Tailwind CSS imports
 ```
@@ -137,9 +129,8 @@ This project leverages Astro's "Islands Architecture" where:
 ### Data Flow
 
 1. **Static Generation**: Pages are pre-rendered at build time
-2. **Dynamic Routes**: Category and subcategory pages are generated using `getStaticPaths()`
-3. **Component Hydration**: Interactive components are hydrated on the client side
-4. **Theme Management**: Theme state is managed in React components with localStorage persistence
+2. **Component Hydration**: Interactive components are hydrated on the client side
+3. **Theme Management**: Theme state is managed in React components with localStorage persistence
 
 ## Key Features
 
@@ -160,7 +151,6 @@ This project leverages Astro's "Islands Architecture" where:
 ### Routing
 
 - **File-based Routing**: Astro's built-in routing system
-- **Dynamic Routes**: Support for category and subcategory parameters
 - **Static Generation**: All routes pre-generated at build time
 - **SEO Optimized**: Proper meta tags and structured data
 

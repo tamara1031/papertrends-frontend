@@ -8,23 +8,23 @@ import Layout from '../layouts/Layout.astro';
     <section class="section">
       <div class="section-container">
         <div class="text-center">
-          <h1 class="heading-primary">
+          <h1 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 dark:text-gray-100 mb-4 sm:mb-6">
             PaperTrends: Academic Research Trend Analysis
           </h1>
           
-          <h2 class="text-xl text-gray-700 dark:text-gray-300 mb-6 font-normal">
+          <h2 class="text-lg sm:text-xl text-gray-700 dark:text-gray-300 mb-4 sm:mb-6 font-normal px-4 sm:px-0">
             Analysis of research trends across academic domains
           </h2>
           
-          <p class="text-body mb-8 max-w-3xl mx-auto">
+          <p class="text-sm sm:text-base text-gray-600 dark:text-gray-300 mb-6 sm:mb-8 max-w-3xl mx-auto px-4 sm:px-0">
             This tool provides comprehensive analysis of academic research trends based on data from 
             <a href="https://arxiv.org" class="link-primary">arXiv.org</a>. 
             Explore patterns and insights across 7 major categories and 95+ subcategories of academic research.
           </p>
           
           <!-- Metadata -->
-          <div class="card-metadata mb-8">
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="card-metadata mb-6 sm:mb-8">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
               <div>
                 <span class="font-bold text-gray-900 dark:text-white">Categories:</span>
                 <span class="text-meta">cs.AI, cs.LG, math.ST, physics.data-an, q-bio.QM, econ.EM, stat.ML</span>
@@ -45,8 +45,8 @@ import Layout from '../layouts/Layout.astro';
           </div>
           
           <!-- Statistics Table -->
-          <div class="mb-8">
-            <table class="table-paper">
+          <div class="mb-6 sm:mb-8 overflow-x-auto">
+            <table class="table-paper min-w-full">
               <thead>
                 <tr>
                   <th>Dataset</th>
@@ -71,11 +71,11 @@ import Layout from '../layouts/Layout.astro';
           </div>
           
           <!-- Navigation -->
-          <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="/dashboard" class="btn-primary">
+          <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-4 sm:px-0">
+            <a href="/dashboard" class="hidden sm:inline-block btn-primary text-sm sm:text-base px-4 sm:px-6 py-2 sm:py-3">
               Explore Trends
             </a>
-            <a href="/how-it-works" class="btn-outline">
+            <a href="/how-it-works" class="btn-outline text-sm sm:text-base px-4 sm:px-6 py-2 sm:py-3">
               How it Works
             </a>
           </div>
@@ -86,11 +86,11 @@ import Layout from '../layouts/Layout.astro';
     <!-- Abstract Section -->
     <section class="section">
       <div class="section-container">
-        <h2 class="heading-secondary">
+        <h2 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4 sm:mb-6">
           Abstract
         </h2>
-        <div class="card-inset">
-          <p class="text-body">
+        <div class="card-inset p-4 sm:p-6">
+          <p class="text-sm sm:text-base text-gray-600 dark:text-gray-300 leading-relaxed">
             We present PaperTrends, a comprehensive tool for analyzing academic research trends based on data from the arXiv.org e-Print Archive. 
             Our system processes over 1.6 million research papers across 7 major categories and 95+ subcategories, providing researchers, 
             academics, and data enthusiasts with powerful tools to explore patterns, trends, and insights in academic research. 
@@ -105,23 +105,23 @@ import Layout from '../layouts/Layout.astro';
     <!-- Features Section -->
     <section class="section">
       <div class="section-container">
-        <h2 class="heading-secondary text-center">
+        <h2 class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-6 sm:mb-8 text-center">
           Tool Features
         </h2>
         
-        <div class="space-y-8">
+        <div class="space-y-6 sm:space-y-8">
           <!-- Research Visualizations -->
-          <div class="card-elevated p-6">
-            <h3 class="heading-tertiary">
+          <div class="card-elevated p-4 sm:p-6">
+            <h3 class="text-lg sm:text-xl font-bold text-gray-800 dark:text-gray-100 mb-3 sm:mb-4">
               Research Visualizations
             </h3>
-            <p class="text-body mb-4">
+            <p class="text-sm sm:text-base text-gray-600 dark:text-gray-300 mb-3 sm:mb-4">
               Explore research trends through comprehensive circle packing and theme river visualizations. 
               Browse and analyze data patterns across different research domains.
             </p>
-            <div class="card-inset p-3">
-              <div class="text-sm font-bold text-gray-900 dark:text-white mb-2">Available Data:</div>
-              <ul class="text-sm text-gray-700 dark:text-gray-300 space-y-1">
+            <div class="card-inset p-3 sm:p-4">
+              <div class="text-xs sm:text-sm font-bold text-gray-900 dark:text-white mb-2">Available Data:</div>
+              <ul class="text-xs sm:text-sm text-gray-700 dark:text-gray-300 space-y-1">
                 <li>• Historical trend analysis</li>
                 <li>• Category-based visualizations</li>
                 <li>• Research pattern insights</li>
@@ -180,10 +180,10 @@ import Layout from '../layouts/Layout.astro';
           Based on <a href="https://arxiv.org/category_taxonomy" target="_blank" class="link-primary">arXiv's category taxonomy</a>
         </p>
         
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div class="card p-4">
-            <h3 class="font-bold text-gray-900 dark:text-white mb-2">Computer Science</h3>
-            <p class="text-meta">cs.* categories including AI, Machine Learning, Computer Vision, and more</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">
+          <div class="card p-3 sm:p-4">
+            <h3 class="text-sm sm:text-base font-bold text-gray-900 dark:text-white mb-2">Computer Science</h3>
+            <p class="text-xs sm:text-sm text-gray-600 dark:text-gray-400">cs.* categories including AI, Machine Learning, Computer Vision, and more</p>
           </div>
           <div class="card p-4">
             <h3 class="font-bold text-gray-900 dark:text-white mb-2">Mathematics</h3>
@@ -222,7 +222,7 @@ import Layout from '../layouts/Layout.astro';
         
         <!-- Navigation -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="/dashboard" class="btn-primary">
+          <a href="/dashboard" class="hidden sm:inline-block btn-primary">
             Explore Trends
           </a>
           <a href="/how-it-works" class="btn-outline">

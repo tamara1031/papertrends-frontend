@@ -13,26 +13,6 @@ export interface WordNode {
   topic: string;
 }
 
-export interface Subcategory {
-  id: string;
-  name: string;
-  emoji: string;
-}
-
-export interface SubcategoryGroup {
-  id: string;
-  name: string;
-  emoji: string;
-  subcategories: Subcategory[];
-}
-
-export interface Category {
-  id: string;
-  name: string;
-  emoji: string;
-  subcategories?: Category[];
-  subcategoryGroups: SubcategoryGroup[];
-}
 
 // Analysis data types
 export interface AnalysisData {

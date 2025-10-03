@@ -5,6 +5,13 @@ export default defineConfig({
     './src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}',
   ],
   theme: {
+    screens: {
+      'sm': '600px',
+      'md': '800px', 
+      'lg': '1100px',
+      'xl': '1280px',
+      '2xl': '1536px',
+    },
     extend: {
       colors: {
         // arXiv-inspired color palette - More faithful to actual arXiv
