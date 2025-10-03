@@ -2,15 +2,15 @@
 import ThemeToggle from '../ui/ThemeToggle.astro';
 ---
 
-<header class="sticky top-0 z-50 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-700">
-  <div class="max-w-7xl mx-auto px-2 sm:px-4 lg:px-6 xl:px-8">
-    <div class="flex justify-between items-center h-16">
-      <!-- Modern Logo and Brand -->
-      <div class="flex items-center space-x-2 sm:space-x-4 lg:space-x-8">
-        <a href="/" class="logo-container">
-          <!-- Chart-inspired logo -->
-          <div class="logo-icon">
-            <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
+<header class="sticky top-0 z-50 bg-white/95 dark:bg-gray-900/95 backdrop-blur-lg border-b border-gray-200/50 dark:border-gray-700/50 shadow-sm">
+  <div class="max-w-7xl mx-auto px-3 sm:px-4 md:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-14 sm:h-16 md:h-18">
+      <!-- Logo and Brand -->
+      <div class="flex items-center space-x-3 sm:space-x-4 md:space-x-6 lg:space-x-8">
+        <a href="/" class="logo-container group">
+          <!-- Enhanced Chart-inspired logo -->
+          <div class="logo-icon group-hover:scale-105 transition-transform duration-200">
+            <svg class="w-5 h-5 sm:w-6 sm:h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
               <!-- Bar chart bars -->
               <rect x="2" y="16" width="3" height="6" rx="0.5"/>
               <rect x="6" y="12" width="3" height="10" rx="0.5"/>
@@ -27,49 +27,57 @@ import ThemeToggle from '../ui/ThemeToggle.astro';
               <circle cx="18.5" cy="10.5" r="1" fill="currentColor"/>
             </svg>
           </div>
-          <span class="logo-text">
+          <span class="logo-text text-lg sm:text-xl md:text-2xl">
             PaperTrends
           </span>
         </a>
         
-        <!-- Modern navigation -->
-        <nav class="nav-desktop">
-          <a href="/" class="link-nav">
+        <!-- Enhanced Desktop Navigation -->
+        <nav class="nav-desktop hidden lg:flex items-center space-x-1">
+          <a href="/" class="link-nav px-3 py-2 text-sm font-medium">
             Home
           </a>
-          <a href="/dashboard" class="link-nav">
+          <a href="/dashboard" class="link-nav px-3 py-2 text-sm font-medium">
             Dashboard
           </a>
-          <a href="/how-it-works" class="link-nav">
+          <a href="/how-it-works" class="link-nav px-3 py-2 text-sm font-medium">
             How it Works
           </a>
         </nav>
       </div>
       
       <!-- Right side actions -->
-      <div class="flex items-center space-x-1 sm:space-x-2 lg:space-x-4">
+      <div class="flex items-center space-x-2 sm:space-x-3 md:space-x-4">
         <!-- Theme Toggle -->
         <ThemeToggle />
         
-        <!-- Mobile menu button -->
-        <button id="mobile-menu-button" class="md:hidden p-1 sm:p-2 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-md transition-all duration-200">
-          <svg class="w-4 h-4 sm:w-5 sm:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <!-- Enhanced Mobile menu button -->
+        <button 
+          id="mobile-menu-button" 
+          class="lg:hidden p-2 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900"
+          aria-label="Toggle mobile menu"
+          aria-expanded="false"
+        >
+          <svg class="w-5 h-5 sm:w-6 sm:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" id="menu-icon">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" id="close-icon">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
           </svg>
         </button>
       </div>
     </div>
     
-    <!-- Modern Mobile Navigation -->
-    <div id="mobile-menu" class="nav-mobile hidden">
-      <div class="px-4 py-4 space-y-2 max-w-full overflow-x-hidden">
-        <a href="/" class="nav-mobile-item">
+    <!-- Enhanced Mobile Navigation -->
+    <div id="mobile-menu" class="nav-mobile hidden lg:hidden">
+      <div class="px-4 py-6 space-y-1 border-t border-gray-200/50 dark:border-gray-700/50">
+        <a href="/" class="nav-mobile-item block px-4 py-3 text-base font-medium">
           Home
         </a>
-        <a href="/dashboard" class="nav-mobile-item">
+        <a href="/dashboard" class="nav-mobile-item block px-4 py-3 text-base font-medium">
           Dashboard
         </a>
-        <a href="/how-it-works" class="nav-mobile-item">
+        <a href="/how-it-works" class="nav-mobile-item block px-4 py-3 text-base font-medium">
           How it Works
         </a>
       </div>
@@ -78,21 +86,52 @@ import ThemeToggle from '../ui/ThemeToggle.astro';
 </header>
 
 <script>
-  // Mobile menu toggle
+  // Enhanced mobile menu toggle
   document.addEventListener('DOMContentLoaded', () => {
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
+    const menuIcon = document.getElementById('menu-icon');
+    const closeIcon = document.getElementById('close-icon');
     
-    if (mobileMenuButton && mobileMenu) {
+    if (mobileMenuButton && mobileMenu && menuIcon && closeIcon) {
       mobileMenuButton.addEventListener('click', () => {
-        mobileMenu.classList.toggle('hidden');
+        const isHidden = mobileMenu.classList.contains('hidden');
         
-        // Update icon
-        const icon = mobileMenuButton.querySelector('i');
-        if (mobileMenu.classList.contains('hidden')) {
-          icon.className = 'fas fa-bars text-lg';
+        if (isHidden) {
+          // Show menu
+          mobileMenu.classList.remove('hidden');
+          menuIcon.classList.add('hidden');
+          closeIcon.classList.remove('hidden');
+          mobileMenuButton.setAttribute('aria-expanded', 'true');
         } else {
-          icon.className = 'fas fa-times text-lg';
+          // Hide menu
+          mobileMenu.classList.add('hidden');
+          menuIcon.classList.remove('hidden');
+          closeIcon.classList.add('hidden');
+          mobileMenuButton.setAttribute('aria-expanded', 'false');
+        }
+      });
+      
+      // Close menu when clicking outside
+      document.addEventListener('click', (event) => {
+        if (!mobileMenuButton.contains(event.target) && !mobileMenu.contains(event.target)) {
+          if (!mobileMenu.classList.contains('hidden')) {
+            mobileMenu.classList.add('hidden');
+            menuIcon.classList.remove('hidden');
+            closeIcon.classList.add('hidden');
+            mobileMenuButton.setAttribute('aria-expanded', 'false');
+          }
+        }
+      });
+      
+      // Close menu on escape key
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && !mobileMenu.classList.contains('hidden')) {
+          mobileMenu.classList.add('hidden');
+          menuIcon.classList.remove('hidden');
+          closeIcon.classList.add('hidden');
+          mobileMenuButton.setAttribute('aria-expanded', 'false');
+          mobileMenuButton.focus();
         }
       });
     }
