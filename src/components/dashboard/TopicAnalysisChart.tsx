@@ -1,15 +1,10 @@
 import { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
-
-interface TopicData {
-  id: string;
-  name: string;
-  count: number;
-  keywords: [string, number][];
-}
+import { getResponsiveSizing } from './hooks/useResponsiveSizing';
+import type { Topic } from '../../types/dashboard';
 
 interface TopicAnalysisChartProps {
-  data: TopicData[];
+  data: Topic[];
   width?: number;
   height?: number;
 }
@@ -38,15 +33,8 @@ export function TopicAnalysisChart({
     // Update SVG dimensions to fill container
     svg.attr('width', '100%').attr('height', '100%');
 
-    // Responsive margins based on screen size
-    let margin;
-    if (actualWidth < 640) { // sm
-      margin = { top: 15, right: 15, bottom: 15, left: 15 };
-    } else if (actualWidth < 1024) { // md
-      margin = { top: 18, right: 18, bottom: 18, left: 18 };
-    } else { // lg and above
-      margin = { top: 20, right: 20, bottom: 20, left: 20 };
-    }
+    // Get responsive sizing configuration
+    const { margin, labelThresholds } = getResponsiveSizing(actualWidth, 'pack');
     
     const innerWidth = actualWidth - margin.left - margin.right;
     const innerHeight = actualHeight - margin.top - margin.bottom;
@@ -107,17 +95,14 @@ export function TopicAnalysisChart({
       .attr('stroke-width', d => d.depth === 0 ? 1 : 2);
 
     // Add text labels with responsive sizing
-    const minLabelSize = actualWidth < 640 ? 8 : actualWidth < 1024 ? 10 : 12;
-    const labelThreshold = actualWidth < 640 ? 15 : actualWidth < 1024 ? 18 : 20;
-    
     nodes.append('text')
       .attr('text-anchor', 'middle')
       .attr('dy', '0.35em')
-      .attr('font-size', d => Math.min(Math.max(d.r / 3, 8), minLabelSize))
+      .attr('font-size', d => Math.min(Math.max(d.r / 3, 8), labelThresholds.minLabelSize))
       .attr('font-weight', d => d.depth === 0 ? 'bold' : 'normal')
       .attr('fill', d => d.depth === 0 ? '#666' : '#fff')
       .text(d => d.data.name)
-      .style('display', d => d.r < labelThreshold ? 'none' : 'block');
+      .style('display', d => d.r < labelThresholds.labelThreshold ? 'none' : 'block');
 
     // Add hover effects
     nodes
