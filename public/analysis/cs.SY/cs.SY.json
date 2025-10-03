@@ -1,0 +1,722 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_control_systems_time_model",
+        "keywords": [
+          [
+            "control",
+            0.0268311049126875
+          ],
+          [
+            "systems",
+            0.017984071371798332
+          ],
+          [
+            "time",
+            0.01684279131422229
+          ],
+          [
+            "model",
+            0.016459671410052574
+          ],
+          [
+            "paper",
+            0.013720159355459994
+          ],
+          [
+            "problem",
+            0.013199052234247062
+          ],
+          [
+            "approach",
+            0.013016251640310596
+          ],
+          [
+            "state",
+            0.012893283191101772
+          ],
+          [
+            "data",
+            0.012460325571080995
+          ],
+          [
+            "method",
+            0.011804330085880584
+          ]
+        ],
+        "count": 19411
+      },
+      "1": {
+        "name": "1_power_energy_grid_model",
+        "keywords": [
+          [
+            "power",
+            0.03580977981275243
+          ],
+          [
+            "energy",
+            0.027045618881631157
+          ],
+          [
+            "grid",
+            0.01903816960749061
+          ],
+          [
+            "model",
+            0.018051484471826484
+          ],
+          [
+            "paper",
+            0.014291684501329976
+          ],
+          [
+            "control",
+            0.01393747344795533
+          ],
+          [
+            "data",
+            0.01313607314031173
+          ],
+          [
+            "systems",
+            0.013101945804349653
+          ],
+          [
+            "voltage",
+            0.011741112961443421
+          ],
+          [
+            "method",
+            0.011111411380501365
+          ]
+        ],
+        "count": 6206
+      },
+      "2": {
+        "name": "2_communication_network_In_performance",
+        "keywords": [
+          [
+            "communication",
+            0.01553775097086055
+          ],
+          [
+            "network",
+            0.015051803944488948
+          ],
+          [
+            "In",
+            0.014630754021570979
+          ],
+          [
+            "performance",
+            0.014563480274609629
+          ],
+          [
+            "wireless",
+            0.012742179016444779
+          ],
+          [
+            "time",
+            0.01218415409026647
+          ],
+          [
+            "networks",
+            0.012153106151600587
+          ],
+          [
+            "power",
+            0.011695538633329283
+          ],
+          [
+            "paper",
+            0.011339337236810817
+          ],
+          [
+            "data",
+            0.011130406689840984
+          ]
+        ],
+        "count": 3293
+      },
+      "3": {
+        "name": "3_quantum_Quantum_classical_control",
+        "keywords": [
+          [
+            "quantum",
+            0.16795214651559875
+          ],
+          [
+            "Quantum",
+            0.04204528151218184
+          ],
+          [
+            "classical",
+            0.025650734947045093
+          ],
+          [
+            "control",
+            0.024028854017431982
+          ],
+          [
+            "systems",
+            0.02158519672153468
+          ],
+          [
+            "computing",
+            0.017031430042805218
+          ],
+          [
+            "quantum computing",
+            0.01673061441726608
+          ],
+          [
+            "quantum systems",
+            0.01623159097561405
+          ],
+          [
+            "qubit",
+            0.015699822015346532
+          ],
+          [
+            "state",
+            0.015276617952502774
+          ]
+        ],
+        "count": 254
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.45036393784816864,
+        -0.11965905616801137,
+        -0.759176210732508
+      ],
+      [
+        -0.45036393784816864,
+        1.0,
+        -0.599653149359018,
+        -0.7599542008901066
+      ],
+      [
+        -0.11965905616801137,
+        -0.599653149359018,
+        1.0,
+        -0.7606411912721189
+      ],
+      [
+        -0.759176210732508,
+        -0.7599542008901066,
+        -0.7606411912721189,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        205,
+        40,
+        2,
+        6
+      ],
+      "2020-02": [
+        233,
+        40,
+        0,
+        3
+      ],
+      "2020-03": [
+        359,
+        62,
+        1,
+        3
+      ],
+      "2020-04": [
+        325,
+        61,
+        0,
+        6
+      ],
+      "2020-05": [
+        304,
+        66,
+        1,
+        2
+      ],
+      "2020-06": [
+        298,
+        57,
+        0,
+        1
+      ],
+      "2020-07": [
+        256,
+        66,
+        1,
+        7
+      ],
+      "2020-08": [
+        272,
+        56,
+        0,
+        1
+      ],
+      "2020-09": [
+        317,
+        56,
+        1,
+        0
+      ],
+      "2020-10": [
+        292,
+        69,
+        0,
+        1
+      ],
+      "2020-11": [
+        372,
+        60,
+        1,
+        0
+      ],
+      "2020-12": [
+        293,
+        55,
+        1,
+        6
+      ],
+      "2021-01": [
+        264,
+        57,
+        0,
+        4
+      ],
+      "2021-02": [
+        297,
+        69,
+        1,
+        1
+      ],
+      "2021-03": [
+        485,
+        79,
+        3,
+        2
+      ],
+      "2021-04": [
+        328,
+        74,
+        1,
+        6
+      ],
+      "2021-05": [
+        277,
+        63,
+        3,
+        2
+      ],
+      "2021-06": [
+        296,
+        74,
+        1,
+        3
+      ],
+      "2021-07": [
+        260,
+        61,
+        2,
+        2
+      ],
+      "2021-08": [
+        268,
+        48,
+        1,
+        5
+      ],
+      "2021-09": [
+        357,
+        47,
+        0,
+        4
+      ],
+      "2021-10": [
+        328,
+        92,
+        1,
+        2
+      ],
+      "2021-11": [
+        306,
+        66,
+        2,
+        5
+      ],
+      "2021-12": [
+        273,
+        68,
+        0,
+        2
+      ],
+      "2022-01": [
+        249,
+        54,
+        0,
+        5
+      ],
+      "2022-02": [
+        267,
+        52,
+        0,
+        4
+      ],
+      "2022-03": [
+        417,
+        77,
+        3,
+        3
+      ],
+      "2022-04": [
+        329,
+        53,
+        2,
+        6
+      ],
+      "2022-05": [
+        308,
+        50,
+        2,
+        5
+      ],
+      "2022-06": [
+        279,
+        60,
+        1,
+        6
+      ],
+      "2022-07": [
+        316,
+        83,
+        1,
+        3
+      ],
+      "2022-08": [
+        292,
+        52,
+        3,
+        7
+      ],
+      "2022-09": [
+        380,
+        73,
+        7,
+        5
+      ],
+      "2022-10": [
+        344,
+        58,
+        3,
+        4
+      ],
+      "2022-11": [
+        366,
+        64,
+        3,
+        11
+      ],
+      "2022-12": [
+        318,
+        77,
+        1,
+        3
+      ],
+      "2023-01": [
+        263,
+        78,
+        6,
+        3
+      ],
+      "2023-02": [
+        254,
+        59,
+        0,
+        7
+      ],
+      "2023-03": [
+        437,
+        85,
+        1,
+        3
+      ],
+      "2023-04": [
+        436,
+        86,
+        2,
+        5
+      ],
+      "2023-05": [
+        366,
+        79,
+        1,
+        8
+      ],
+      "2023-06": [
+        296,
+        47,
+        2,
+        5
+      ],
+      "2023-07": [
+        305,
+        69,
+        1,
+        7
+      ],
+      "2023-08": [
+        310,
+        67,
+        1,
+        2
+      ],
+      "2023-09": [
+        448,
+        65,
+        4,
+        3
+      ],
+      "2023-10": [
+        398,
+        110,
+        3,
+        9
+      ],
+      "2023-11": [
+        394,
+        83,
+        2,
+        6
+      ],
+      "2023-12": [
+        390,
+        56,
+        1,
+        3
+      ],
+      "2024-01": [
+        391,
+        76,
+        1,
+        4
+      ],
+      "2024-02": [
+        355,
+        56,
+        1,
+        6
+      ],
+      "2024-03": [
+        548,
+        90,
+        1,
+        9
+      ],
+      "2024-04": [
+        378,
+        68,
+        6,
+        4
+      ],
+      "2024-05": [
+        425,
+        83,
+        3,
+        6
+      ],
+      "2024-06": [
+        352,
+        60,
+        2,
+        4
+      ],
+      "2024-07": [
+        340,
+        60,
+        2,
+        5
+      ],
+      "2024-08": [
+        350,
+        70,
+        6,
+        9
+      ],
+      "2024-09": [
+        497,
+        69,
+        2,
+        7
+      ],
+      "2024-10": [
+        483,
+        83,
+        2,
+        10
+      ],
+      "2024-11": [
+        425,
+        84,
+        1,
+        7
+      ],
+      "2024-12": [
+        353,
+        87,
+        2,
+        6
+      ],
+      "2025-01": [
+        400,
+        69,
+        2,
+        6
+      ],
+      "2025-02": [
+        406,
+        68,
+        3,
+        7
+      ],
+      "2025-03": [
+        589,
+        95,
+        4,
+        4
+      ],
+      "2025-04": [
+        565,
+        72,
+        3,
+        4
+      ],
+      "2025-05": [
+        501,
+        75,
+        1,
+        9
+      ],
+      "2025-06": [
+        450,
+        76,
+        3,
+        8
+      ],
+      "2025-07": [
+        494,
+        97,
+        1,
+        2
+      ],
+      "2025-08": [
+        440,
+        81,
+        2,
+        10
+      ],
+      "2025-09": [
+        279,
+        53,
+        0,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Active Uncertainty Reduction for Safe and Efficient Interaction Planning: A Shielding-Aware Dual Control Approach",
+          "year": "2023-02",
+          "abstract": "The ability to accurately predict others' behavior is central to the safety\nand efficiency of interactive robotics. Unfortunately, robots often lack access\nto key information on which these predictions may hinge, such as other agents'\ngoals, attention, and willingness to cooperate. Dual control theory addresses\nthis challenge by treating unknown parameters of a predictive model as\nstochastic hidden states and inferring their values at runtime using\ninformation gathered during system operation. While able to optimally and\nautomatically trade off exploration and exploitation, dual control is\ncomputationally intractable for general interactive motion planning. In this\npaper, we present a novel algorithmic approach to enable active uncertainty\nreduction for interactive motion planning based on the implicit dual control\nparadigm. Our approach relies on sampling-based approximation of stochastic\ndynamic programming, leading to a model predictive control problem that can be\nreadily solved by real-time gradient-based optimization methods. The resulting\npolicy is shown to preserve the dual control effect for a broad class of\npredictive models with both continuous and categorical uncertainty. To ensure\nthe safe operation of the interacting agents, we use a runtime safety filter\n(also referred to as a \"shielding\" scheme), which overrides the robot's dual\ncontrol policy with a safety fallback strategy when a safety-critical event is\nimminent. We then augment the dual control framework with an improved variant\nof the recently proposed shielding-aware robust planning scheme, which\nproactively balances the nominal planning performance with the risk of\nhigh-cost emergency maneuvers triggered by low-probability agent behaviors. We\ndemonstrate the efficacy of our approach with both simulated driving studies\nand hardware experiments using 1/10 scale autonomous vehicles.",
+          "arxiv_id": "2302.00171v2"
+        },
+        {
+          "title": "Machine learning-based input-augmented Koopman modeling and predictive control of nonlinear processes",
+          "year": "2024-08",
+          "abstract": "Koopman-based modeling and model predictive control have been a promising\nalternative for optimal control of nonlinear processes. Good Koopman modeling\nperformance significantly depends on an appropriate nonlinear mapping from the\noriginal state-space to a lifted state space. In this work, we propose an\ninput-augmented Koopman modeling and model predictive control approach. Both\nthe states and the known inputs are lifted using two deep neural networks\n(DNNs), and a Koopman model with nonlinearity in inputs is trained within the\nhigher-dimensional state-space. A Koopman-based model predictive control\nproblem is formulated. To bypass non-convex optimization induced by the\nnonlinearity in the Koopman model, we further present an iterative\nimplementation algorithm, which approximates the optimal control input via\nsolving a convex optimization problem iteratively. The proposed method is\napplied to a chemical process and a biological water treatment process via\nsimulations. The efficacy and advantages of the proposed modeling and control\napproach are demonstrated.",
+          "arxiv_id": "2408.02315v1"
+        },
+        {
+          "title": "A Deep Reinforcement Learning-based Sliding Mode Control Design for Partially-known Nonlinear Systems",
+          "year": "2022-05",
+          "abstract": "Presence of model uncertainties creates challenges for model-based control\ndesign, and complexity of the control design is further exacerbated when coping\nwith nonlinear systems. This paper presents a sliding mode control (SMC) design\napproach for nonlinear systems with partially known dynamics by blending\ndata-driven and model-based approaches. First, an SMC is designed for the\navailable (nominal) model of the nonlinear system. The closed-loop state\ntrajectory of the available model is used to build the desired trajectory for\nthe partially known nonlinear system states. Next, a deep policy gradient\nmethod is used to cope with unknown parts of the system dynamics and adjust the\nsliding mode control output to achieve a desired state trajectory. The\nperformance (and viability) of the proposed design approach is finally examined\nthrough numerical examples.",
+          "arxiv_id": "2205.02975v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Distributed Coordination of Grid-Forming and Grid-Following Inverters for Optimal Frequency Control in Power Systems",
+          "year": "2024-11",
+          "abstract": "The large-scale integration of inverter-interfaced renewable energy sources\npresents significant challenges to maintaining power balance and nominal\nfrequency in modern power systems. This paper studies grid-level coordinated\ncontrol of grid-forming (GFM) and grid-following (GFL) inverter-based resources\n(IBRs) for scalable and optimal frequency control. We propose a fully\ndistributed optimal frequency control algorithm based on the projected\nprimal-dual gradient method and by leveraging the structure of the underlying\nphysical system dynamics. The proposed algorithm i) restores the nominal system\nfrequency while minimizing total control cost and enforcing IBR power capacity\nlimits and line thermal constraints, and ii) operates in a distributed manner\nthat only needs local measurements and neighbor-to-neighbor communication. In\nparticular, when the line thermal constraints are disregarded, the proposed\nalgorithm admits a fully local implementation that requires no communication,\nwhile still ensuring optimality and satisfying IBR power capacity limits. We\nestablish the global asymptotic convergence of the algorithm using Lyapunov\nstability analysis. The effectiveness and optimality of the proposed algorithms\nare validated through high-fidelity, 100% inverter-based electromagnetic\ntransient (EMT) simulations on the IEEE 39-bus system.",
+          "arxiv_id": "2411.12682v2"
+        },
+        {
+          "title": "Extremum Power Seeking Control of A Hybrid Wind-Solar-Storage DC Power System",
+          "year": "2020-07",
+          "abstract": "This paper presents a combined power system with a common dc bus that\ncontains solar power, wind power, battery storage, and a constant dc load\n(CDL). In wind system, an AC-DC uncontrolled rectifier is used at the first\nstage and the DC-DC converter is controlled by a maximum power point tracker\n(MPPT) at second stage. In the solar system, two cascaded boost converters are\ncontrolled through a sliding mode controller (SMC) to regulate the power flow\nto the load. A supervisory control strategy is also introduced to maximize the\nsimultaneous energy harvesting from both renewable sources and balance the\nenergy between the sources, battery, and the load. According to the level of\npower generation available at each renewable energy source, the state of charge\nin the battery, and the load requirement, the controller results in four\ncontingencies. Simulation results show the accurate operation of the\nsupervisory controller and functionality of the maximum power point tracking\nalgorithm for solar and for wind power.",
+          "arxiv_id": "2007.05093v2"
+        },
+        {
+          "title": "Weather-Driven Priority Charging for Battery Storage Systems in Hybrid Renewable Energy Grids",
+          "year": "2025-01",
+          "abstract": "The integration of renewable energy into the power grid is often hindered by\nits fragmented infrastructure, leading to inefficient utilization due to the\nvariability of energy production and its reliance on weather conditions.\nBattery storage systems, while essential for stabilizing energy supply, face\nchallenges like sub-optimal energy distribution, accelerating battery\ndegradation, and reducing operational efficiency. This paper presents a novel\nsolution to these challenges by developing a large-scale, interconnected\nrenewable energy network that optimizes energy storage and distribution. The\nproposed system includes strategically placed battery storage facilities that\nstabilize energy production by compensating for fluctuations in renewable\noutput. A priority charging algorithm, informed by real-time weather\nforecasting and load monitoring, ensures that the most suitable battery systems\nare charged under varying conditions. Within each storage facility, a secondary\npriority charging algorithm minimizes battery degradation by ranking batteries\nbased on critical parameters such as state of health (SoH) and state of charge\n(SoC) and deciding which to charge. This comprehensive approach enhances the\nefficiency and longevity of battery storage systems, offering a more reliable\nand resilient renewable energy infrastructure.",
+          "arxiv_id": "2501.06104v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Energy optimization for Full-Duplex Wireless-Powered IoT Networks using Rotary-Wing UAV with Multiple Antennas",
+          "year": "2023-07",
+          "abstract": "In this paper, we propose a novel design for the rotary-wing unmanned aerial\nvehicle (UAV)-enabled full-duplex (FD) wireless-powered Internet of Things\n(IoT) networks. In this network, the UAV is equipped with an antenna array, and\nthe $K$ IoT sensors, which are distributed randomly, use single-antenna to\ncommunicate. By sending the energy, the UAV as a hybrid access point, charges\nthe sensors and collects information from them. Then, to manage the time and\noptimize the energy, the sensors are divided into N groups, so that the UAV\nequipped with multi-input multi-output (MIMO) technology can serve the sensors\nin a group, during the total time $T$. We provide a simple implementation of\nthe wireless power transfer protocol in the sensors by using the time division\nmultiple access (TDMA) scheme to receive information from the users. In other\nwords, the sensors of each group receive energy from the UAV, when it hovers\nover the sensors of the previous group, and also when the UAV flies over the\nprevious group to the current group. The sensors of each group send their\ninformation to the UAV, when the UAV is hovering over their group. Under these\nassumptions, we formulate two optimization problems: a sum throughput\nmaximization problem, and a total time minimization problem. Numerical results\nshow that our proposed optimal network provides better performance than the\nexisting networks. In fact, our novel design can serve more sensors at the cost\nof using more antennas compared to that of the conventional networks.",
+          "arxiv_id": "2307.02302v1"
+        },
+        {
+          "title": "Adaptive Soft Actor-Critic Framework for RIS-Assisted and UAV-Aided Communication",
+          "year": "2024-11",
+          "abstract": "In this work, we explore UAV-assisted reconfigurable intelligent surface\n(RIS) technology to enhance downlink communications in wireless networks. By\nintegrating RIS on both UAVs and ground infrastructure, we aim to boost network\ncoverage, fairness, and resilience against challenges such as UAV jitter. To\nmaximize the minimum achievable user rate, we formulate a joint optimization\nproblem involving beamforming, phase shifts, and UAV trajectory. To address\nthis problem, we propose an adaptive soft actor-critic (ASAC) framework. In\nthis approach, agents are built using adaptive sparse transformers with\nattentive feature refinement (ASTAFER), enabling dynamic feature processing\nthat adapts to real-time network conditions. The ASAC model learns optimal\nsolutions to the coupled subproblems in real time, delivering an end-to-end\nsolution without relying on iterative or relaxation-based methods. Simulation\nresults demonstrate that our ASAC-based approach achieves better performance\ncompared to the conventional SAC. This makes it a robust, adaptable solution\nfor real-time, fair, and efficient downlink communication in UAV-RIS networks.",
+          "arxiv_id": "2411.10882v1"
+        },
+        {
+          "title": "Development of an underwater inductive coupling communication system with power carrier technology",
+          "year": "2024-06",
+          "abstract": "Inductive coupling communication is one of the main methods of underwater\ncommunication systems due to its excellent comprehensive performance. However,\nthe data transmission distance and operational power consumption need to be\nfurther enhanced. In this paper, an underwater induction coupling communication\nscheme based on power carrier technology is proposed to improve the\ntransmission speed and reduce the bit error rate. The microcontroller of STM32L\nseries with ultra-low power consumption was employed as the core of the system.\nThrough the construction and simulation of the communication channel, the\noptimal parameters were determined. According to the circuit model of the power\ncarrier communication, the effect of different modulation and demodulation\nmethods to the signal transmission quality were discussed, which demonstrates\nthe superiority of Differential Phase Shift Keying (DPSK). With the\nsystem-level low power design and onboard communication quality optimization,\nthe device was developed. The test results in the laboratory environment show\nthat the system can achieve efficient data communication with a rate of\n115200bps and static power consumption as low as 660{\\mu}A in the 700m channel.\nThis study provides a practical design approach for the high-speed\ncommunication and Low-power operation of underwater communication systems.",
+          "arxiv_id": "2406.02854v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Linear quantum systems: a tutorial",
+          "year": "2022-05",
+          "abstract": "The purpose of this tutorial is to give a brief introduction to linear\nquantum control systems. The mathematical model of linear quantum control\nsystems is presented first, then some fundamental control-theoretic notions\nsuch as stability, controllability and observability are given, which are\nclosely related to several important concepts in quantum information science\nsuch as decoherence-free subsystems, quantum non-demolition variables, and\nback-action evasion measurements. After that, quantum Gaussian states are\nintroduced, in particular, an information-theoretic uncertainty relation is\npresented which often gives a better bound for mixed Gaussian states than the\nwell-known Heisenberg uncertainty relation. The quantum Kalman filter is\npresented for quantum linear systems, which is the quantum analogy of the\nKalman filter for classical (namely, non-quantum-mechanical) linear systems.\nThe quantum Kalman canonical decomposition for quantum linear systems is\nrecorded, and its application is illustrated by means of a recent experiment.\nAs single- and multi-photon states are useful resources in quantum information\ntechnology, the response of quantum linear systems to these types of input is\npresented. Finally, coherent feedback control of quantum linear systems is\nbriefly introduced, and a recent experiment is used to demonstrate the\neffectiveness of quantum linear systems and networks theory.dback control of\nquantum linear systems is briefly introduced, and a recent experiment is used\nto demonstrate the effectiveness of quantum linear systems and networks theory.",
+          "arxiv_id": "2205.04080v2"
+        },
+        {
+          "title": "Model-free Quantum Gate Design and Calibration using Deep Reinforcement Learning",
+          "year": "2023-02",
+          "abstract": "High-fidelity quantum gate design is important for various quantum\ntechnologies, such as quantum computation and quantum communication. Numerous\ncontrol policies for quantum gate design have been proposed given a dynamical\nmodel of the quantum system of interest. However, a quantum system is often\nhighly sensitive to noise, and obtaining its accurate modeling can be difficult\nfor many practical applications. Thus, the control policy based on a quantum\nsystem model may be unpractical for quantum gate design. Also, quantum\nmeasurements collapse quantum states, which makes it challenging to obtain\ninformation through measurements during the control process. In this paper, we\npropose a novel training framework using deep reinforcement learning for\nmodel-free quantum control. The proposed framework relies only on the\nmeasurement at the end of the control process and offers the ability to find\nthe optimal control policy without access to quantum systems during the\nlearning process. The effectiveness of the proposed technique is numerically\ndemonstrated for model-free quantum gate design and quantum gate calibration\nusing off-policy reinforcement learning algorithms.",
+          "arxiv_id": "2302.02371v2"
+        },
+        {
+          "title": "A prototype of quantum von Neumann architecture",
+          "year": "2021-12",
+          "abstract": "A modern computer system, based on the von Neumann architecture, is a\ncomplicated system with several interactive modular parts. Quantum computing,\nas the most generic usage of quantum information, follows a hybrid architecture\nso far, namely, quantum algorithms are stored and controlled classically, and\nmainly the executions of them are quantum, leading to the so-called quantum\nprocessing units. Such a quantum-classical hybrid is constrained by its\nclassical ingredients, and cannot reveal the computational power of a fully\nquantum computer system as conceived from the beginning of the field. Recently,\nthe nature of quantum information has been further recognized, such as the\nno-programming and no-control theorems, and the unifying understandings of\nquantum algorithms and computing models. As a result, in this work we propose a\nmodel of universal quantum computer system, the quantum version of the von\nNeumann architecture. It uses ebits (i.e., Bell states) as elements of the\nquantum memory unit, and qubits as elements of the quantum control unit and\nprocessing unit. As a digital quantum system, its global configurations can be\nviewed as tensor-network states. Its universality is proved by the capability\nto execute quantum algorithms based on a program composition scheme via a\nuniversal quantum gate teleportation. It is also protected by the uncertainty\nprinciple, the fundamental law of quantum information, making it quantum-secure\ndistinct from the classical case. In particular, we introduce a few variants of\nquantum circuits, including the tailed, nested, and topological ones, to\ncharacterize the roles of quantum memory and control, which could also be of\nindependent interest in other contexts. In all, our primary study demonstrates\nthe manifold power of quantum information and paves the way for the creation of\nquantum computer systems in the near future.",
+          "arxiv_id": "2112.09345v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:44:56Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

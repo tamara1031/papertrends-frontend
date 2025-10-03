@@ -1,0 +1,2108 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_energy_hardware_neural_DNN",
+        "keywords": [
+          [
+            "energy",
+            0.015827712992583502
+          ],
+          [
+            "hardware",
+            0.014930946132305759
+          ],
+          [
+            "neural",
+            0.013816311196507976
+          ],
+          [
+            "DNN",
+            0.013363516166034267
+          ],
+          [
+            "accuracy",
+            0.01311724464421004
+          ],
+          [
+            "memory",
+            0.01302719835354847
+          ],
+          [
+            "Neural",
+            0.011736796076168333
+          ],
+          [
+            "efficiency",
+            0.011431531955007712
+          ],
+          [
+            "In",
+            0.011144528923948007
+          ],
+          [
+            "design",
+            0.010695170200283793
+          ]
+        ],
+        "count": 1346
+      },
+      "1": {
+        "name": "1_performance_FPGA_hardware_RISC",
+        "keywords": [
+          [
+            "performance",
+            0.018055855617840347
+          ],
+          [
+            "FPGA",
+            0.013975484968780942
+          ],
+          [
+            "hardware",
+            0.013922269792165558
+          ],
+          [
+            "RISC",
+            0.012899847339693784
+          ],
+          [
+            "data",
+            0.011753319152183278
+          ],
+          [
+            "high",
+            0.011704855724227586
+          ],
+          [
+            "design",
+            0.01165194128535986
+          ],
+          [
+            "memory",
+            0.01150739843300169
+          ],
+          [
+            "applications",
+            0.011194288804457617
+          ],
+          [
+            "level",
+            0.010388349368384822
+          ]
+        ],
+        "count": 567
+      },
+      "2": {
+        "name": "2_design_code_circuit_generation",
+        "keywords": [
+          [
+            "design",
+            0.03139773313922933
+          ],
+          [
+            "code",
+            0.01842574725541738
+          ],
+          [
+            "circuit",
+            0.016320857669839834
+          ],
+          [
+            "generation",
+            0.015616238207254088
+          ],
+          [
+            "RTL",
+            0.015344157821076208
+          ],
+          [
+            "Verilog",
+            0.013498684736121383
+          ],
+          [
+            "designs",
+            0.012981739046124737
+          ],
+          [
+            "framework",
+            0.01232281585453745
+          ],
+          [
+            "models",
+            0.011597953090799392
+          ],
+          [
+            "optimization",
+            0.011367846518074869
+          ]
+        ],
+        "count": 507
+      },
+      "3": {
+        "name": "3_memory_data_cache_performance",
+        "keywords": [
+          [
+            "memory",
+            0.041195818489265804
+          ],
+          [
+            "data",
+            0.024693325307272078
+          ],
+          [
+            "cache",
+            0.02172114360557649
+          ],
+          [
+            "performance",
+            0.021481745471498153
+          ],
+          [
+            "DRAM",
+            0.021135823942447576
+          ],
+          [
+            "latency",
+            0.01439711495199268
+          ],
+          [
+            "storage",
+            0.013083487928941009
+          ],
+          [
+            "systems",
+            0.011670859543745611
+          ],
+          [
+            "Memory",
+            0.011650144532309805
+          ],
+          [
+            "access",
+            0.011057606072739467
+          ]
+        ],
+        "count": 348
+      },
+      "4": {
+        "name": "4_security_attacks_attack_hardware",
+        "keywords": [
+          [
+            "security",
+            0.03964086975125719
+          ],
+          [
+            "attacks",
+            0.032032698664227664
+          ],
+          [
+            "attack",
+            0.018052898662177887
+          ],
+          [
+            "hardware",
+            0.018009672599855565
+          ],
+          [
+            "cache",
+            0.017680459561335647
+          ],
+          [
+            "secure",
+            0.014503006077691236
+          ],
+          [
+            "channel",
+            0.013957157866847808
+          ],
+          [
+            "software",
+            0.013353180241306982
+          ],
+          [
+            "execution",
+            0.01233424425413425
+          ],
+          [
+            "design",
+            0.01202403849472252
+          ]
+        ],
+        "count": 318
+      },
+      "5": {
+        "name": "5_LLM_LLMs_memory_models",
+        "keywords": [
+          [
+            "LLM",
+            0.024605831335314906
+          ],
+          [
+            "LLMs",
+            0.019873475327553132
+          ],
+          [
+            "memory",
+            0.01878421859783187
+          ],
+          [
+            "models",
+            0.01869045609894636
+          ],
+          [
+            "inference",
+            0.018606530410705497
+          ],
+          [
+            "attention",
+            0.01568935237319958
+          ],
+          [
+            "hardware",
+            0.014694572232553398
+          ],
+          [
+            "language",
+            0.014160194320429698
+          ],
+          [
+            "model",
+            0.01409670086884846
+          ],
+          [
+            "performance",
+            0.011704443481743822
+          ]
+        ],
+        "count": 316
+      },
+      "6": {
+        "name": "6_quantum_Quantum_qubits_circuits",
+        "keywords": [
+          [
+            "quantum",
+            0.10992661385380675
+          ],
+          [
+            "Quantum",
+            0.04960647005078486
+          ],
+          [
+            "qubits",
+            0.03296804920957524
+          ],
+          [
+            "circuits",
+            0.02430531266269294
+          ],
+          [
+            "circuit",
+            0.024039854893311546
+          ],
+          [
+            "quantum computing",
+            0.021476369019054125
+          ],
+          [
+            "gates",
+            0.01997302800192926
+          ],
+          [
+            "computing",
+            0.018365362579543503
+          ],
+          [
+            "error",
+            0.018141904795006082
+          ],
+          [
+            "fidelity",
+            0.017978409653142048
+          ]
+        ],
+        "count": 182
+      },
+      "7": {
+        "name": "7_autonomous_3D_point_point cloud",
+        "keywords": [
+          [
+            "autonomous",
+            0.02352695821008658
+          ],
+          [
+            "3D",
+            0.015896920026633968
+          ],
+          [
+            "point",
+            0.014945183246436742
+          ],
+          [
+            "point cloud",
+            0.014192649521794247
+          ],
+          [
+            "real",
+            0.013780649869046055
+          ],
+          [
+            "cloud",
+            0.013401363925685385
+          ],
+          [
+            "FPGA",
+            0.013223469058059763
+          ],
+          [
+            "time",
+            0.012959503792572746
+          ],
+          [
+            "data",
+            0.01278061899690592
+          ],
+          [
+            "hardware",
+            0.012244645273972954
+          ]
+        ],
+        "count": 137
+      },
+      "8": {
+        "name": "8_approximate_arithmetic_multiplier_bit",
+        "keywords": [
+          [
+            "approximate",
+            0.021634908428648913
+          ],
+          [
+            "arithmetic",
+            0.017998851206126897
+          ],
+          [
+            "multiplier",
+            0.017512669931889057
+          ],
+          [
+            "bit",
+            0.016766312136474962
+          ],
+          [
+            "adders",
+            0.015602549534215514
+          ],
+          [
+            "adder",
+            0.01559605041213604
+          ],
+          [
+            "power",
+            0.01537996522000081
+          ],
+          [
+            "multipliers",
+            0.015102454776647822
+          ],
+          [
+            "point",
+            0.014861501190704259
+          ],
+          [
+            "design",
+            0.014854711928840596
+          ]
+        ],
+        "count": 136
+      },
+      "9": {
+        "name": "9_graph_GNN_Graph_memory",
+        "keywords": [
+          [
+            "graph",
+            0.05040112125957167
+          ],
+          [
+            "GNN",
+            0.035010815011851985
+          ],
+          [
+            "Graph",
+            0.029085179634389325
+          ],
+          [
+            "memory",
+            0.019855276283474305
+          ],
+          [
+            "GNNs",
+            0.019383133903326438
+          ],
+          [
+            "data",
+            0.019049561738256744
+          ],
+          [
+            "graphs",
+            0.01872941645823059
+          ],
+          [
+            "GCN",
+            0.018463546033413887
+          ],
+          [
+            "irregular",
+            0.014856643284411218
+          ],
+          [
+            "processing",
+            0.014063292154517236
+          ]
+        ],
+        "count": 132
+      },
+      "10": {
+        "name": "10_FHE_HE_Encryption_data",
+        "keywords": [
+          [
+            "FHE",
+            0.036746727396949105
+          ],
+          [
+            "HE",
+            0.025841706471739622
+          ],
+          [
+            "Encryption",
+            0.019394243645941
+          ],
+          [
+            "data",
+            0.018571380125963165
+          ],
+          [
+            "hardware",
+            0.01751991054795514
+          ],
+          [
+            "encryption",
+            0.01632241222209214
+          ],
+          [
+            "computation",
+            0.014711213881689687
+          ],
+          [
+            "operations",
+            0.014236545179847532
+          ],
+          [
+            "multiplication",
+            0.014124717981611287
+          ],
+          [
+            "encrypted",
+            0.0138042177225076
+          ]
+        ],
+        "count": 131
+      },
+      "11": {
+        "name": "11_DRAM_RowHammer_row_chips",
+        "keywords": [
+          [
+            "DRAM",
+            0.11403326854223046
+          ],
+          [
+            "RowHammer",
+            0.0671825647267444
+          ],
+          [
+            "row",
+            0.03492928626570855
+          ],
+          [
+            "chips",
+            0.031360414596599835
+          ],
+          [
+            "memory",
+            0.026028680034695578
+          ],
+          [
+            "DRAM chips",
+            0.025771255756039616
+          ],
+          [
+            "disturbance",
+            0.02507897798891531
+          ],
+          [
+            "read disturbance",
+            0.02456193262502178
+          ],
+          [
+            "rows",
+            0.023853893165177657
+          ],
+          [
+            "Rowhammer",
+            0.02376440135112433
+          ]
+        ],
+        "count": 85
+      },
+      "12": {
+        "name": "12_wireless_MIMO_antenna_channel",
+        "keywords": [
+          [
+            "wireless",
+            0.027397513778216937
+          ],
+          [
+            "MIMO",
+            0.026600432709425696
+          ],
+          [
+            "antenna",
+            0.025941966349362244
+          ],
+          [
+            "channel",
+            0.020256509004831082
+          ],
+          [
+            "communication",
+            0.016527971386947584
+          ],
+          [
+            "frequency",
+            0.01607204396744645
+          ],
+          [
+            "signal",
+            0.014627096805186934
+          ],
+          [
+            "power",
+            0.014609166026305222
+          ],
+          [
+            "systems",
+            0.013819482778929734
+          ],
+          [
+            "multiple",
+            0.013405521425330746
+          ]
+        ],
+        "count": 82
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6757345403809211,
+        -0.6879088950006529,
+        -0.6554647366446882,
+        -0.7494104640275328,
+        -0.6861560524071448,
+        -0.7572360372400091,
+        -0.7229073982829546,
+        -0.6760047343913571,
+        -0.7435274634127969,
+        -0.7536941742591836,
+        -0.7402320220233176,
+        -0.7519290685683253
+      ],
+      [
+        -0.6757345403809211,
+        1.0,
+        -0.690486578624107,
+        -0.3526403408032629,
+        -0.7233191047904889,
+        -0.7142554204146117,
+        -0.7497579865103016,
+        -0.7225176848039564,
+        -0.7124058452898969,
+        -0.7355355723465553,
+        -0.745514203902164,
+        -0.7350502879778698,
+        -0.7499798225029725
+      ],
+      [
+        -0.6879088950006529,
+        -0.690486578624107,
+        1.0,
+        -0.6877079722024877,
+        -0.7184819845217929,
+        -0.45648534187731343,
+        -0.7511762838124544,
+        -0.7421239203640169,
+        -0.719323743465925,
+        -0.7066659142762273,
+        -0.75886443800854,
+        -0.7388694846672961,
+        -0.750093754150202
+      ],
+      [
+        -0.6554647366446882,
+        -0.3526403408032629,
+        -0.6877079722024877,
+        1.0,
+        -0.7065004247610729,
+        -0.5846886291875403,
+        -0.7543069151837082,
+        -0.7257085053838827,
+        -0.7234031771603902,
+        -0.7180917456367439,
+        -0.7371051392806115,
+        -0.6378931463887731,
+        -0.7495582248899605
+      ],
+      [
+        -0.7494104640275328,
+        -0.7233191047904889,
+        -0.7184819845217929,
+        -0.7065004247610729,
+        1.0,
+        -0.7439704864998029,
+        -0.7398448897855314,
+        -0.7453442191336156,
+        -0.748490642265037,
+        -0.7511783401636833,
+        -0.7266869135047971,
+        -0.7382590351767635,
+        -0.7482492135148988
+      ],
+      [
+        -0.6861560524071448,
+        -0.7142554204146117,
+        -0.45648534187731343,
+        -0.5846886291875403,
+        -0.7439704864998029,
+        1.0,
+        -0.7629958346085666,
+        -0.7399717424118748,
+        -0.719828557526654,
+        -0.7327416821759494,
+        -0.7579811331276682,
+        -0.7262573605965499,
+        -0.7618528629983206
+      ],
+      [
+        -0.7572360372400091,
+        -0.7497579865103016,
+        -0.7511762838124544,
+        -0.7543069151837082,
+        -0.7398448897855314,
+        -0.7629958346085666,
+        1.0,
+        -0.7618207095550884,
+        -0.7473030166364575,
+        -0.7553839876426665,
+        -0.7359872073905604,
+        -0.7645235237368967,
+        -0.7627971654569354
+      ],
+      [
+        -0.7229073982829546,
+        -0.7225176848039564,
+        -0.7421239203640169,
+        -0.7257085053838827,
+        -0.7453442191336156,
+        -0.7399717424118748,
+        -0.7618207095550884,
+        1.0,
+        -0.7518815804100796,
+        -0.7457044862335453,
+        -0.7558714773334823,
+        -0.7504543091402767,
+        -0.7528905914835731
+      ],
+      [
+        -0.6760047343913571,
+        -0.7124058452898969,
+        -0.719323743465925,
+        -0.7234031771603902,
+        -0.748490642265037,
+        -0.719828557526654,
+        -0.7473030166364575,
+        -0.7518815804100796,
+        1.0,
+        -0.7497453020744689,
+        -0.7564177545747259,
+        -0.7614313254411009,
+        -0.7408671173490067
+      ],
+      [
+        -0.7435274634127969,
+        -0.7355355723465553,
+        -0.7066659142762273,
+        -0.7180917456367439,
+        -0.7511783401636833,
+        -0.7327416821759494,
+        -0.7553839876426665,
+        -0.7457044862335453,
+        -0.7497453020744689,
+        1.0,
+        -0.7614026680495009,
+        -0.7409207942117776,
+        -0.7655764556207767
+      ],
+      [
+        -0.7536941742591836,
+        -0.745514203902164,
+        -0.75886443800854,
+        -0.7371051392806115,
+        -0.7266869135047971,
+        -0.7579811331276682,
+        -0.7359872073905604,
+        -0.7558714773334823,
+        -0.7564177545747259,
+        -0.7614026680495009,
+        1.0,
+        -0.7605766386255614,
+        -0.763822225475837
+      ],
+      [
+        -0.7402320220233176,
+        -0.7350502879778698,
+        -0.7388694846672961,
+        -0.6378931463887731,
+        -0.7382590351767635,
+        -0.7262573605965499,
+        -0.7645235237368967,
+        -0.7504543091402767,
+        -0.7614313254411009,
+        -0.7409207942117776,
+        -0.7605766386255614,
+        1.0,
+        -0.7626187106358647
+      ],
+      [
+        -0.7519290685683253,
+        -0.7499798225029725,
+        -0.750093754150202,
+        -0.7495582248899605,
+        -0.7482492135148988,
+        -0.7618528629983206,
+        -0.7627971654569354,
+        -0.7528905914835731,
+        -0.7408671173490067,
+        -0.7655764556207767,
+        -0.763822225475837,
+        -0.7626187106358647,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        8,
+        0,
+        2,
+        1,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1
+      ],
+      "2020-02": [
+        11,
+        1,
+        0,
+        3,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "2020-03": [
+        6,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0,
+        3,
+        0,
+        0,
+        3,
+        1
+      ],
+      "2020-04": [
+        22,
+        1,
+        2,
+        4,
+        3,
+        2,
+        0,
+        1,
+        2,
+        0,
+        0,
+        5,
+        0
+      ],
+      "2020-05": [
+        12,
+        0,
+        0,
+        7,
+        4,
+        3,
+        0,
+        0,
+        4,
+        0,
+        1,
+        4,
+        0
+      ],
+      "2020-06": [
+        18,
+        0,
+        0,
+        8,
+        2,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "2020-07": [
+        26,
+        3,
+        4,
+        15,
+        7,
+        0,
+        2,
+        0,
+        1,
+        4,
+        0,
+        3,
+        1
+      ],
+      "2020-08": [
+        21,
+        1,
+        4,
+        10,
+        4,
+        1,
+        2,
+        1,
+        2,
+        0,
+        0,
+        3,
+        0
+      ],
+      "2020-09": [
+        23,
+        4,
+        8,
+        12,
+        5,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        5,
+        3
+      ],
+      "2020-10": [
+        16,
+        2,
+        8,
+        10,
+        3,
+        1,
+        2,
+        0,
+        6,
+        5,
+        0,
+        2,
+        1
+      ],
+      "2020-11": [
+        30,
+        1,
+        2,
+        12,
+        2,
+        3,
+        0,
+        0,
+        5,
+        2,
+        0,
+        2,
+        2
+      ],
+      "2020-12": [
+        19,
+        1,
+        3,
+        8,
+        4,
+        6,
+        1,
+        2,
+        0,
+        2,
+        0,
+        6,
+        1
+      ],
+      "2021-01": [
+        22,
+        0,
+        3,
+        8,
+        5,
+        1,
+        1,
+        1,
+        3,
+        1,
+        0,
+        2,
+        0
+      ],
+      "2021-02": [
+        33,
+        0,
+        6,
+        2,
+        3,
+        1,
+        2,
+        3,
+        2,
+        2,
+        0,
+        3,
+        3
+      ],
+      "2021-03": [
+        32,
+        1,
+        3,
+        5,
+        6,
+        2,
+        0,
+        3,
+        2,
+        9,
+        1,
+        3,
+        1
+      ],
+      "2021-04": [
+        25,
+        2,
+        4,
+        9,
+        7,
+        4,
+        1,
+        3,
+        2,
+        8,
+        0,
+        4,
+        0
+      ],
+      "2021-05": [
+        26,
+        1,
+        7,
+        10,
+        8,
+        1,
+        0,
+        0,
+        2,
+        3,
+        0,
+        8,
+        1
+      ],
+      "2021-06": [
+        29,
+        2,
+        6,
+        7,
+        6,
+        0,
+        3,
+        1,
+        4,
+        1,
+        0,
+        3,
+        2
+      ],
+      "2021-07": [
+        21,
+        0,
+        5,
+        10,
+        8,
+        4,
+        2,
+        1,
+        2,
+        1,
+        0,
+        3,
+        2
+      ],
+      "2021-08": [
+        19,
+        1,
+        7,
+        10,
+        4,
+        0,
+        3,
+        0,
+        3,
+        4,
+        0,
+        4,
+        1
+      ],
+      "2021-09": [
+        19,
+        2,
+        1,
+        11,
+        4,
+        0,
+        3,
+        2,
+        3,
+        3,
+        2,
+        7,
+        0
+      ],
+      "2021-10": [
+        20,
+        2,
+        4,
+        7,
+        4,
+        2,
+        1,
+        4,
+        4,
+        0,
+        1,
+        4,
+        0
+      ],
+      "2021-11": [
+        23,
+        1,
+        6,
+        4,
+        3,
+        2,
+        2,
+        2,
+        2,
+        9,
+        0,
+        2,
+        0
+      ],
+      "2021-12": [
+        32,
+        2,
+        1,
+        10,
+        3,
+        0,
+        2,
+        2,
+        2,
+        6,
+        3,
+        2,
+        1
+      ],
+      "2022-01": [
+        23,
+        1,
+        4,
+        6,
+        3,
+        2,
+        3,
+        1,
+        5,
+        6,
+        0,
+        6,
+        2
+      ],
+      "2022-02": [
+        26,
+        2,
+        5,
+        4,
+        2,
+        2,
+        3,
+        1,
+        4,
+        4,
+        1,
+        5,
+        0
+      ],
+      "2022-03": [
+        30,
+        0,
+        4,
+        12,
+        3,
+        0,
+        2,
+        3,
+        8,
+        5,
+        0,
+        2,
+        0
+      ],
+      "2022-04": [
+        23,
+        1,
+        4,
+        9,
+        5,
+        1,
+        0,
+        3,
+        4,
+        3,
+        3,
+        6,
+        0
+      ],
+      "2022-05": [
+        35,
+        2,
+        10,
+        13,
+        7,
+        3,
+        4,
+        4,
+        2,
+        5,
+        2,
+        6,
+        0
+      ],
+      "2022-06": [
+        34,
+        0,
+        5,
+        8,
+        4,
+        1,
+        1,
+        0,
+        3,
+        6,
+        0,
+        3,
+        1
+      ],
+      "2022-07": [
+        30,
+        2,
+        1,
+        6,
+        4,
+        2,
+        3,
+        1,
+        2,
+        6,
+        1,
+        3,
+        1
+      ],
+      "2022-08": [
+        25,
+        0,
+        2,
+        8,
+        4,
+        2,
+        12,
+        4,
+        3,
+        2,
+        0,
+        0,
+        2
+      ],
+      "2022-09": [
+        25,
+        0,
+        4,
+        11,
+        6,
+        2,
+        4,
+        2,
+        2,
+        5,
+        1,
+        4,
+        1
+      ],
+      "2022-10": [
+        28,
+        0,
+        2,
+        4,
+        0,
+        4,
+        7,
+        5,
+        1,
+        4,
+        1,
+        2,
+        0
+      ],
+      "2022-11": [
+        22,
+        1,
+        11,
+        10,
+        8,
+        2,
+        4,
+        2,
+        3,
+        4,
+        2,
+        5,
+        1
+      ],
+      "2022-12": [
+        21,
+        2,
+        4,
+        5,
+        2,
+        2,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "2023-01": [
+        23,
+        3,
+        3,
+        6,
+        4,
+        1,
+        3,
+        1,
+        3,
+        4,
+        0,
+        1,
+        2
+      ],
+      "2023-02": [
+        32,
+        0,
+        2,
+        10,
+        9,
+        4,
+        2,
+        3,
+        5,
+        0,
+        1,
+        4,
+        1
+      ],
+      "2023-03": [
+        22,
+        0,
+        10,
+        13,
+        3,
+        3,
+        6,
+        0,
+        8,
+        10,
+        1,
+        5,
+        1
+      ],
+      "2023-04": [
+        29,
+        2,
+        11,
+        11,
+        8,
+        2,
+        3,
+        2,
+        5,
+        7,
+        1,
+        5,
+        0
+      ],
+      "2023-05": [
+        35,
+        0,
+        2,
+        18,
+        7,
+        5,
+        3,
+        1,
+        3,
+        7,
+        1,
+        5,
+        1
+      ],
+      "2023-06": [
+        31,
+        0,
+        4,
+        7,
+        4,
+        1,
+        6,
+        3,
+        6,
+        6,
+        0,
+        7,
+        0
+      ],
+      "2023-07": [
+        32,
+        1,
+        7,
+        5,
+        7,
+        3,
+        4,
+        2,
+        0,
+        3,
+        0,
+        0,
+        1
+      ],
+      "2023-08": [
+        33,
+        2,
+        6,
+        6,
+        9,
+        6,
+        6,
+        2,
+        3,
+        11,
+        2,
+        5,
+        0
+      ],
+      "2023-09": [
+        35,
+        1,
+        8,
+        12,
+        6,
+        4,
+        4,
+        1,
+        3,
+        3,
+        2,
+        1,
+        3
+      ],
+      "2023-10": [
+        31,
+        0,
+        8,
+        10,
+        4,
+        5,
+        2,
+        1,
+        1,
+        0,
+        2,
+        7,
+        2
+      ],
+      "2023-11": [
+        36,
+        0,
+        6,
+        10,
+        4,
+        5,
+        8,
+        2,
+        8,
+        5,
+        2,
+        4,
+        2
+      ],
+      "2023-12": [
+        29,
+        2,
+        6,
+        11,
+        3,
+        7,
+        3,
+        0,
+        2,
+        7,
+        0,
+        4,
+        0
+      ],
+      "2024-01": [
+        35,
+        2,
+        5,
+        11,
+        10,
+        13,
+        3,
+        3,
+        4,
+        6,
+        1,
+        4,
+        1
+      ],
+      "2024-02": [
+        32,
+        0,
+        11,
+        11,
+        3,
+        4,
+        2,
+        2,
+        5,
+        8,
+        0,
+        6,
+        1
+      ],
+      "2024-03": [
+        37,
+        1,
+        6,
+        12,
+        3,
+        13,
+        4,
+        2,
+        3,
+        5,
+        1,
+        6,
+        0
+      ],
+      "2024-04": [
+        39,
+        3,
+        18,
+        6,
+        2,
+        8,
+        3,
+        4,
+        2,
+        5,
+        1,
+        10,
+        0
+      ],
+      "2024-05": [
+        44,
+        0,
+        5,
+        11,
+        6,
+        9,
+        4,
+        2,
+        4,
+        2,
+        1,
+        6,
+        0
+      ],
+      "2024-06": [
+        35,
+        0,
+        3,
+        14,
+        5,
+        10,
+        5,
+        4,
+        6,
+        4,
+        0,
+        8,
+        1
+      ],
+      "2024-07": [
+        54,
+        1,
+        19,
+        13,
+        6,
+        11,
+        5,
+        4,
+        0,
+        7,
+        0,
+        5,
+        2
+      ],
+      "2024-08": [
+        28,
+        0,
+        14,
+        14,
+        2,
+        11,
+        6,
+        1,
+        4,
+        5,
+        1,
+        10,
+        4
+      ],
+      "2024-09": [
+        38,
+        1,
+        11,
+        8,
+        9,
+        14,
+        8,
+        3,
+        4,
+        5,
+        0,
+        4,
+        0
+      ],
+      "2024-10": [
+        45,
+        1,
+        7,
+        12,
+        7,
+        12,
+        4,
+        5,
+        3,
+        4,
+        4,
+        1,
+        2
+      ],
+      "2024-11": [
+        39,
+        2,
+        12,
+        16,
+        6,
+        13,
+        7,
+        5,
+        9,
+        8,
+        1,
+        4,
+        1
+      ],
+      "2024-12": [
+        40,
+        0,
+        14,
+        11,
+        5,
+        15,
+        5,
+        3,
+        4,
+        5,
+        1,
+        5,
+        0
+      ],
+      "2025-01": [
+        44,
+        1,
+        15,
+        21,
+        5,
+        8,
+        3,
+        2,
+        2,
+        4,
+        2,
+        8,
+        4
+      ],
+      "2025-02": [
+        46,
+        1,
+        11,
+        19,
+        6,
+        27,
+        5,
+        0,
+        3,
+        10,
+        1,
+        8,
+        1
+      ],
+      "2025-03": [
+        48,
+        1,
+        21,
+        18,
+        3,
+        19,
+        4,
+        6,
+        4,
+        3,
+        3,
+        9,
+        0
+      ],
+      "2025-04": [
+        57,
+        1,
+        17,
+        15,
+        9,
+        30,
+        5,
+        4,
+        6,
+        4,
+        1,
+        5,
+        0
+      ],
+      "2025-05": [
+        65,
+        2,
+        19,
+        17,
+        4,
+        20,
+        4,
+        3,
+        3,
+        7,
+        0,
+        5,
+        3
+      ],
+      "2025-06": [
+        56,
+        1,
+        13,
+        16,
+        3,
+        19,
+        6,
+        4,
+        3,
+        4,
+        2,
+        6,
+        2
+      ],
+      "2025-07": [
+        45,
+        0,
+        20,
+        9,
+        4,
+        21,
+        1,
+        6,
+        5,
+        8,
+        2,
+        7,
+        3
+      ],
+      "2025-08": [
+        61,
+        3,
+        15,
+        7,
+        2,
+        25,
+        5,
+        4,
+        2,
+        7,
+        2,
+        9,
+        4
+      ],
+      "2025-09": [
+        21,
+        0,
+        6,
+        8,
+        3,
+        6,
+        1,
+        3,
+        2,
+        3,
+        1,
+        2,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "NicePIM: Design Space Exploration for Processing-In-Memory DNN Accelerators with 3D-Stacked-DRAM",
+          "year": "2023-05",
+          "abstract": "With the widespread use of deep neural networks(DNNs) in intelligent systems,\nDNN accelerators with high performance and energy efficiency are greatly\ndemanded. As one of the feasible processing-in-memory(PIM) architectures,\n3D-stacked-DRAM-based PIM(DRAM-PIM) architecture enables large-capacity memory\nand low-cost memory access, which is a promising solution for DNN accelerators\nwith better performance and energy efficiency. However, the low-cost\ncharacteristics of stacked DRAM and the distributed manner of memory access and\ndata storing require us to rebalance the hardware design and DNN mapping. In\nthis paper, we propose NicePIM to efficiently explore the design space of\nhardware architecture and DNN mapping of DRAM-PIM accelerators, which consists\nof three key components: PIM-Tuner, PIM-Mapper and Data-Scheduler. PIM-Tuner\noptimizes the hardware configurations leveraging a DNN model for classifying\narea-compliant architectures and a deep kernel learning model for identifying\nbetter hardware parameters. PIM-Mapper explores a variety of DNN mapping\nconfigurations, including parallelism between branches of DNN, DNN layer\npartitioning, DRAM capacity allocation and data layout pattern in DRAM to\ngenerate high-hardware-utilization DNN mapping schemes for various hardware\nconfigurations. The Data-Scheduler employs an integer-linear-programming-based\ndata scheduling algorithm to alleviate the inter-PIM-node communication\noverhead of data-sharing brought by DNN layer partitioning. Experimental\nresults demonstrate that NicePIM can optimize hardware configurations for\nDRAM-PIM systems effectively and can generate high-quality DNN mapping schemes\nwith latency and energy cost reduced by 37% and 28% on average respectively\ncompared to the baseline method.",
+          "arxiv_id": "2305.19041v1"
+        },
+        {
+          "title": "NAX: Co-Designing Neural Network and Hardware Architecture for Memristive Xbar based Computing Systems",
+          "year": "2021-06",
+          "abstract": "In-Memory Computing (IMC) hardware using Memristive Crossbar Arrays (MCAs)\nare gaining popularity to accelerate Deep Neural Networks (DNNs) since it\nalleviates the \"memory wall\" problem associated with von-Neumann architecture.\nThe hardware efficiency (energy, latency and area) as well as application\naccuracy (considering device and circuit non-idealities) of DNNs mapped to such\nhardware are co-dependent on network parameters, such as kernel size, depth\netc. and hardware architecture parameters such as crossbar size. However,\nco-optimization of both network and hardware parameters presents a challenging\nsearch space comprising of different kernel sizes mapped to varying crossbar\nsizes. To that effect, we propose NAX -- an efficient neural architecture\nsearch engine that co-designs neural network and IMC based hardware\narchitecture. NAX explores the aforementioned search space to determine kernel\nand corresponding crossbar sizes for each DNN layer to achieve optimal\ntradeoffs between hardware efficiency and application accuracy. Our results\nfrom NAX show that the networks have heterogeneous crossbar sizes across\ndifferent network layers, and achieves optimal hardware efficiency and accuracy\nconsidering the non-idealities in crossbars. On CIFAR-10 and Tiny ImageNet, our\nmodels achieve 0.8%, 0.2% higher accuracy, and 17%, 4% lower EDAP\n(energy-delay-area product) compared to a baseline ResNet-20 and ResNet-18\nmodels, respectively.",
+          "arxiv_id": "2106.12125v1"
+        },
+        {
+          "title": "NeuroNAS: Enhancing Efficiency of Neuromorphic In-Memory Computing for Intelligent Mobile Agents through Hardware-Aware Spiking Neural Architecture Search",
+          "year": "2024-06",
+          "abstract": "Intelligent mobile agents (e.g., UGVs and UAVs) typically demand low\npower/energy consumption when solving their machine learning (ML)-based tasks,\nsince they are usually powered by portable batteries with limited capacity. A\npotential solution is employing neuromorphic computing with Spiking Neural\nNetworks (SNNs), which leverages event-based computation to enable ultra-low\npower/energy ML algorithms. To maximize the performance efficiency of SNN\ninference, the In-Memory Computing (IMC)-based hardware accelerators with\nemerging device technologies (e.g., RRAM) can be employed. However, SNN models\nare typically developed without considering constraints from the application\nand the underlying IMC hardware, thereby hindering SNNs from reaching their\nfull potential in performance and efficiency. To address this, we propose\nNeuroNAS, a novel framework for developing energyefficient neuromorphic IMC for\nintelligent mobile agents using hardware-aware spiking neural architecture\nsearch (NAS), i.e., by quickly finding an SNN architecture that offers high\naccuracy under the given constraints (e.g., memory, area, latency, and energy\nconsumption). Its key steps include: optimizing SNN operations to enable\nefficient NAS, employing quantization to minimize the memory footprint,\ndeveloping an SNN architecture that facilitates an effective learning, and\ndevising a systematic hardware-aware search algorithm to meet the constraints.\nCompared to the state-of-the-art techniques, NeuroNAS quickly finds SNN\narchitectures (with 8bit weight precision) that maintain high accuracy by up to\n6.6x search time speed-ups, while achieving up to 92% area savings, 1.2x\nlatency improvements, 84% energy savings across different datasets (i.e.,\nCIFAR-10, CIFAR-100, and TinyImageNet-200); while the state-of-the-art fail to\nmeet all constraints at once.",
+          "arxiv_id": "2407.00641v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Ara2: Exploring Single- and Multi-Core Vector Processing with an Efficient RVV 1.0 Compliant Open-Source Processor",
+          "year": "2023-11",
+          "abstract": "Vector processing is highly effective in boosting processor performance and\nefficiency for data-parallel workloads. In this paper, we present Ara2, the\nfirst fully open-source vector processor to support the RISC-V V 1.0 frozen\nISA. We evaluate Ara2's performance on a diverse set of data-parallel kernels\nfor various problem sizes and vector-unit configurations, achieving an average\nfunctional-unit utilization of 95% on the most computationally intensive\nkernels. We pinpoint performance boosters and bottlenecks, including the scalar\ncore, memories, and vector architecture, providing insights into the main\nvector architecture's performance drivers. Leveraging the openness of the\ndesign, we implement Ara2 in a 22nm technology, characterize its PPA metrics on\nvarious configurations (2-16 lanes), and analyze its microarchitecture and\nimplementation bottlenecks. Ara2 achieves a state-of-the-art energy efficiency\nof 37.8 DP-GFLOPS/W (0.8V) and 1.35GHz of clock frequency (critical path: ~40\nFO4 gates). Finally, we explore the performance and energy-efficiency\ntrade-offs of multi-core vector processors: we find that multiple vector cores\nhelp overcome the scalar core issue-rate bound that limits short-vector\nperformance. For example, a cluster of eight 2-lane Ara2 (16 FPUs) achieves\nmore than 3x better performance than a 16-lane single-core Ara2 (16 FPUs) when\nexecuting a 32x32x32 matrix multiplication, with 1.5x improved energy\nefficiency.",
+          "arxiv_id": "2311.07493v2"
+        },
+        {
+          "title": "High-Level FPGA Accelerator Design for Structured-Mesh-Based Explicit Numerical Solvers",
+          "year": "2021-01",
+          "abstract": "This paper presents a workflow for synthesizing near-optimal FPGA\nimplementations for structured-mesh based stencil applications for explicit\nsolvers. It leverages key characteristics of the application class, its\ncomputation-communication pattern, and the architectural capabilities of the\nFPGA to accelerate solvers from the high-performance computing domain. Key new\nfeatures of the workflow are (1) the unification of standard state-of-the-art\ntechniques with a number of high-gain optimizations such as batching and\nspatial blocking/tiling, motivated by increasing throughput for real-world work\nloads and (2) the development and use of a predictive analytic model for\nexploring the design space, resource estimates and performance. Three\nrepresentative applications are implemented using the design workflow on a\nXilinx Alveo U280 FPGA, demonstrating near-optimal performance and over 85%\npredictive model accuracy. These are compared with equivalent highly-optimized\nimplementations of the same applications on modern HPC-grade GPUs (Nvidia V100)\nanalyzing time to solution, bandwidth and energy consumption. Performance\nresults indicate equivalent runtime performance of the FPGA implementations to\nthe V100 GPU, with over 2x energy savings, for the largest non-trivial\napplication synthesized on the FPGA compared to the best performing GPU-based\nsolution. Our investigation shows the considerable challenges in gaining high\nperformance on current generation FPGAs compared to traditional architectures.\nWe discuss determinants for a given stencil code to be amenable to FPGA\nimplementation, providing insights into the feasibility and profitability of a\ndesign and its resulting performance.",
+          "arxiv_id": "2101.01177v2"
+        },
+        {
+          "title": "Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs",
+          "year": "2025-02",
+          "abstract": "Embedded heterogeneous systems-on-chip (SoCs) rely on domain-specific\nhardware accelerators to improve performance and energy efficiency. In\nparticular, programmable multi-core accelerators feature a cluster of\nprocessing elements and tightly coupled scratchpad memories to balance\nperformance, energy efficiency, and flexibility. In embedded systems running a\ngeneral-purpose OS, accelerators access data via dedicated, physically\naddressed memory regions. This negatively impacts memory utilization and\nperformance by requiring a copy from the virtual host address to the physical\naccelerator address space. Input-Output Memory Management Units (IOMMUs)\novercome this limitation by allowing devices and hosts to use a shared virtual\npaged address space. However, resolving IO virtual addresses can be\nparticularly costly on high-latency memory systems as it requires up to three\nsequential memory accesses on IOTLB miss. In this work, we present a\nquantitative evaluation of shared virtual addressing in RISC-V heterogeneous\nembedded systems. We integrate an IOMMU in an open-source heterogeneous RISC-V\nSoC consisting of a 64-bit host with a 32-bit accelerator cluster. We evaluated\nthe system performance by emulating the design on FPGA and implementing compute\nkernels from the RajaPERF benchmark suite using heterogeneous OpenMP\nprogramming. We measure the transfers and computation time on the host and\naccelerators for systems with different DRAM access latencies. We first show\nthat IO virtual address translation can account for 4.2% up to 17.6% of the\naccelerator's runtime for gemm (General Matrix Multiplication) at low and high\nmemory bandwidth. Then, we show that in systems containing a last-level cache,\nthis IO address translation cost falls to 0.4% and 0.7% under the same\nconditions, making shared virtual addressing and zero-copy offloading suitable\nfor such RISC-V heterogeneous SoCs.",
+          "arxiv_id": "2502.17398v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Evaluating Large Language Models for Automatic Register Transfer Logic Generation via High-Level Synthesis",
+          "year": "2024-08",
+          "abstract": "The ever-growing popularity of large language models (LLMs) has resulted in\ntheir increasing adoption for hardware design and verification. Prior research\nhas attempted to assess the capability of LLMs to automate digital hardware\ndesign by producing superior-quality Register Transfer Logic (RTL)\ndescriptions, particularly in Verilog. However, these tests have revealed that\nVerilog code production using LLMs at current state-of-the-art lack sufficient\nfunctional correctness to be practically viable, compared to automatic\ngeneration of programs in general-purpose programming languages such as C, C++,\nPython, etc. With this as the key insight, in this paper we assess the\nperformance of a two-stage software pipeline for automated Verilog RTL\ngeneration: LLM based automatic generation of annotated C++ code suitable for\nhigh-level synthesis (HLS), followed by HLS to generate Verilog RTL. We have\nbenchmarked the performance of our proposed scheme using the open-source\nVerilogEval dataset, for four different industry-scale LLMs, and the Vitis HLS\ntool. Our experimental results demonstrate that our two-step technique\nsubstantially outperforms previous proposed techniques of direct Verilog RTL\ngeneration by LLMs in terms of average functional correctness rates, reaching\nscore of 0.86 in pass@1 metric.",
+          "arxiv_id": "2408.02793v1"
+        },
+        {
+          "title": "OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation",
+          "year": "2025-03",
+          "abstract": "The automated generation of design RTL based on large language model (LLM)\nand natural language instructions has demonstrated great potential in agile\ncircuit design. However, the lack of datasets and benchmarks in the public\ndomain prevents the development and fair evaluation of LLM solutions. This\npaper highlights our latest advances in open datasets and benchmarks from three\nperspectives: (1) RTLLM 2.0, an updated benchmark assessing LLM's capability in\ndesign RTL generation. The benchmark is augmented to 50 hand-crafted designs.\nEach design provides the design description, test cases, and a correct RTL\ncode. (2) AssertEval, an open-source benchmark assessing the LLM's assertion\ngeneration capabilities for RTL verification. The benchmark includes 18\ndesigns, each providing specification, signal definition, and correct RTL code.\n(3) RTLCoder-Data, an extended open-source dataset with 80K instruction-code\ndata samples. Moreover, we propose a new verification-based method to verify\nthe functionality correctness of training data samples. Based on this\ntechnique, we further release a dataset with 7K verified high-quality samples.\nThese three studies are integrated into one framework, providing off-the-shelf\nsupport for the development and evaluation of LLMs for RTL code generation and\nverification. Finally, extensive experiments indicate that LLM performance can\nbe boosted by enlarging the training dataset, improving data quality, and\nimproving the training scheme.",
+          "arxiv_id": "2503.15112v1"
+        },
+        {
+          "title": "RTL++: Graph-enhanced LLM for RTL Code Generation",
+          "year": "2025-05",
+          "abstract": "As hardware design complexity escalates, there is an urgent need for advanced\nautomation in electronic design automation (EDA). Traditional register transfer\nlevel (RTL) design methods are manual, time-consuming, and prone to errors.\nWhile commercial (instruction-tuned) large language models (LLMs) shows\npromising performance for automation, they pose security and privacy concerns.\nOpen-source models offer alternatives; however, they frequently fall short in\nquality/correctness, largely due to limited, high-quality RTL code data\nessential for effective training and generalization. This paper proposes RTL++,\na first-of-its-kind LLM-assisted method for RTL code generation that utilizes\ngraph representations of code structures to enhance the quality of generated\ncode. By encoding RTL code into a textualized control flowgraphs (CFG) and data\nflow graphs (DFG), RTL++ captures the inherent hierarchy, dependencies, and\nrelationships within the code. This structured graph-based approach enhances\nthe context available to LLMs, enabling them to better understand and generate\ninstructions. By focusing on data generation through graph representations,\nRTL++ addresses the limitations of previous approaches that rely solely on code\nand suffer from lack of diversity. Experimental results demonstrate that RTL++\noutperforms state-of-the-art models fine-tuned for RTL generation, as evaluated\nusing the VerilogEval benchmark's Pass@1/5/10 metric, as well as the RTLLM1.1\nmodel, which highlight the effectiveness of graph-enhanced context in advancing\nthe capabilities of LLM-assisted RTL code generation.",
+          "arxiv_id": "2505.13479v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Architectural and System Implications of CXL-enabled Tiered Memory",
+          "year": "2025-03",
+          "abstract": "Memory disaggregation is an emerging technology that decouples memory from\ntraditional memory buses, enabling independent scaling of compute and memory.\nCompute Express Link (CXL), an open-standard interconnect technology,\nfacilitates memory disaggregation by allowing processors to access remote\nmemory through the PCIe bus while preserving the shared-memory programming\nmodel. This innovation creates a tiered memory architecture combining local DDR\nand remote CXL memory with distinct performance characteristics.\n  In this paper, we investigate the architectural implications of CXL memory,\nfocusing on its increased latency and performance heterogeneity, which can\nundermine the efficiency of existing processor designs optimized for\n(relatively) uniform memory latency. Using carefully designed micro-benchmarks,\nwe identify bottlenecks such as limited hardware-level parallelism in CXL\nmemory, unfair queuing in memory request handling, and its impact on DDR memory\nperformance and inter-core synchronization. Our findings reveal that the\ndisparity in memory tier parallelism can reduce DDR memory bandwidth by up to\n81% under heavy loads. To address these challenges, we propose a Dynamic Memory\nRequest Control mechanism, MIKU, that prioritizes DDR memory requests while\nserving CXL memory requests on a best-effort basis. By dynamically adjusting\nCXL request rates based on service time estimates, MIKU achieves near-peak DDR\nthroughput while maintaining high performance for CXL memory. Our evaluation\nwith micro-benchmarks and representative workloads demonstrates the potential\nof MIKU to enhance tiered memory system efficiency.",
+          "arxiv_id": "2503.17864v2"
+        },
+        {
+          "title": "Exploiting Inter- and Intra-Memory Asymmetries for Data Mapping in Hybrid Tiered-Memories",
+          "year": "2020-05",
+          "abstract": "Modern computing systems are embracing hybrid memory comprising of DRAM and\nnon-volatile memory (NVM) to combine the best properties of both memory\ntechnologies, achieving low latency, high reliability, and high density. A\nprominent characteristic of DRAM-NVM hybrid memory is that it has NVM access\nlatency much higher than DRAM access latency. We call this inter-memory\nasymmetry. We observe that parasitic components on a long bitline are a major\nsource of high latency in both DRAM and NVM, and a significant factor\ncontributing to high-voltage operations in NVM, which impact their reliability.\nWe propose an architectural change, where each long bitline in DRAM and NVM is\nsplit into two segments by an isolation transistor. One segment can be accessed\nwith lower latency and operating voltage than the other. By introducing tiers,\nwe enable non-uniform accesses within each memory type (which we call\nintra-memory asymmetry), leading to performance and reliability trade-offs in\nDRAM-NVM hybrid memory. We extend existing NVM-DRAM OS in three ways. First, we\nexploit both inter- and intra-memory asymmetries to allocate and migrate memory\npages between the tiers in DRAM and NVM. Second, we improve the OS's page\nallocation decisions by predicting the access intensity of a newly-referenced\nmemory page in a program and placing it to a matching tier during its initial\nallocation. This minimizes page migrations during program execution, lowering\nthe performance overhead. Third, we propose a solution to migrate pages between\nthe tiers of the same memory without transferring data over the memory channel,\nminimizing channel occupancy and improving performance. Our overall approach,\nwhich we call MNEME, to enable and exploit asymmetries in DRAM-NVM hybrid\ntiered memory improves both performance and reliability for both single-core\nand multi-programmed workloads.",
+          "arxiv_id": "2005.04750v1"
+        },
+        {
+          "title": "FPGA-based Emulation and Device-Side Management for CXL-based Memory Tiering Systems",
+          "year": "2025-02",
+          "abstract": "The Compute Express Link (CXL) technology facilitates the extension of CPU\nmemory through byte-addressable SerDes links and cascaded switches, creating\ncomplex heterogeneous memory systems where CPU access to various endpoints\ndiffers in latency and bandwidth. Effective tiered memory management is\nessential for optimizing system performance in such systems. However, designing\nan effective memory tiering system for CXL-extended heterogeneous memory faces\nchallenges: 1) Existing evaluation methods, such as NUMA-based emulation and\nfull-system simulations like GEM5, are limited in assessing hardware-based\ntiered memory management solutions and handling real-world workloads at scale.\n2) Previous memory tiering systems struggle to simultaneously achieve high\nresolution, low overhead, and high flexibility and compatibility.\n  In this study, we first introduce HeteroBox, a configurable emulation\nplatform that leverages real CXL-enabled FPGAs to emulate the performance of\nvarious CXL memory architectures. HeteroBox allows one to configure a memory\nspace with multiple regions, each exhibiting distinct CPU-access latency and\nbandwidth. HeteroBox helps assess the performance of both software-managed and\nhardware-managed memory tiering systems with high efficiency and fidelity.\nBased on HeteroBox, we further propose HeteroMem, a hardware-managed memory\ntiering system that operates on the device side. HeteroMem creates an\nabstraction layer between the CPU and device memory, effectively monitoring\ndata usage and migrating data to faster memory tiers, thus hiding device-side\nheterogeneity from the CPU. Evaluations with real-world applications show that\nHeteroMem delivers high performance while keeping heterogeneous memory\nmanagement fully transparent to the CPU, achieving a 5.1\\% to 16.2\\%\nperformance improvement over existing memory tiering solutions.",
+          "arxiv_id": "2502.19233v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "New Models for Understanding and Reasoning about Speculative Execution Attacks",
+          "year": "2020-09",
+          "abstract": "Spectre and Meltdown attacks and their variants exploit hardware performance\noptimization features to cause security breaches. Secret information is\naccessed and leaked through covert or side channels. New attack variants keep\nappearing and we do not have a systematic way to capture the critical\ncharacteristics of these attacks and evaluate why they succeed or fail.\n  In this paper, we provide a new attack-graph model for reasoning about\nspeculative execution attacks. We model attacks as ordered dependency graphs,\nand prove that a race condition between two nodes can occur if there is a\nmissing dependency edge between them. We define a new concept, \"security\ndependency\", between a resource access and its prior authorization operation.\nWe show that a missing security dependency is equivalent to a race condition\nbetween authorization and access, which is a root cause of speculative\nexecution attacks. We show detailed examples of how our attack graph models the\nSpectre and Meltdown attacks, and is generalizable to all the attack variants\npublished so far. This attack model is also very useful for identifying new\nattacks and for generalizing defense strategies. We identify several defense\nstrategies with different performance-security tradeoffs. We show that the\ndefenses proposed so far all fit under one of our defense strategies. We also\nexplain how attack graphs can be constructed and point to this as promising\nfuture work for tool designers.",
+          "arxiv_id": "2009.07998v2"
+        },
+        {
+          "title": "PREFENDER: A Prefetching Defender against Cache Side Channel Attacks as A Pretender",
+          "year": "2023-07",
+          "abstract": "Cache side channel attacks are increasingly alarming in modern processors due\nto the recent emergence of Spectre and Meltdown attacks. A typical attack\nperforms intentional cache access and manipulates cache states to leak secrets\nby observing the victim's cache access patterns. Different countermeasures have\nbeen proposed to defend against both general and transient execution based\nattacks. Despite their effectiveness, they mostly trade some level of\nperformance for security, or have restricted security scope. In this paper, we\nseek an approach to enforcing security while maintaining performance. We\nleverage the insight that attackers need to access cache in order to manipulate\nand observe cache state changes for information leakage. Specifically, we\npropose Prefender, a secure prefetcher that learns and predicts attack-related\naccesses for prefetching the cachelines to simultaneously help security and\nperformance. Our results show that Prefender is effective against several cache\nside channel attacks while maintaining or even improving performance for SPEC\nCPU 2006 and 2017 benchmarks.",
+          "arxiv_id": "2307.06756v1"
+        },
+        {
+          "title": "Protecting Cache States Against Both Speculative Execution Attacks and Side-channel Attacks",
+          "year": "2023-02",
+          "abstract": "Hardware caches are essential performance optimization features in modern\nprocessors to reduce the effective memory access time. Unfortunately, they are\nalso the prime targets for attacks on computer processors because they are\nhigh-bandwidth and reliable side or covert channels for leaking secrets.\nConventional cache timing attacks typically leak secret encryption keys, while\nrecent speculative execution attacks typically leak arbitrary\nillegally-obtained secrets through cache timing channels. While many hardware\ndefenses have been proposed for each class of attacks, we show that those for\nconventional (non-speculative) cache timing channels do not work for all\nspeculative execution attacks, and vice versa. We maintain that a cache is not\nsecure unless it can defend against both of these major attack classes.\n  We propose a new methodology and framework for covering such relatively large\nattack surfaces to produce a Speculative and Timing Attack Resilient (STAR)\ncache subsystem. We use this to design two comprehensive secure cache\narchitectures, STAR-FARR and STAR-NEWS, that have very low performance\noverheads of 5.6% and 6.8%, respectively. To the best of our knowledge, these\nare the first secure cache designs that cover both non-speculative cache side\nchannels and cache-based speculative execution attacks.\n  Our methodology can be used to compose and check other secure cache designs.\nIt can also be extended to other attack classes and hardware systems.\nAdditionally, we also highlight the intrinsic security and performance benefits\nof a randomized cache like a real Fully Associative cache with Random\nReplacement (FARR) and a lower-latency, speculation-aware version (NEWS).",
+          "arxiv_id": "2302.00732v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference",
+          "year": "2025-02",
+          "abstract": "Large Language Model (LLM) inference uses an autoregressive manner to\ngenerate one token at a time, which exhibits notably lower operational\nintensity compared to earlier Machine Learning (ML) models such as encoder-only\ntransformers and Convolutional Neural Networks. At the same time, LLMs possess\nlarge parameter sizes and use key-value caches to store context information.\nModern LLMs support context windows with up to 1 million tokens to generate\nversatile text, audio, and video content. A large key-value cache unique to\neach prompt requires a large memory capacity, limiting the inference batch\nsize. Both low operational intensity and limited batch size necessitate a high\nmemory bandwidth. However, contemporary hardware systems for ML model\ndeployment, such as GPUs and TPUs, are primarily optimized for compute\nthroughput. This mismatch challenges the efficient deployment of advanced LLMs\nand makes users pay for expensive compute resources that are poorly utilized\nfor the memory-bound LLM inference tasks.\n  We propose CENT, a CXL-ENabled GPU-Free sysTem for LLM inference, which\nharnesses CXL memory expansion capabilities to accommodate substantial LLM\nsizes, and utilizes near-bank processing units to deliver high memory\nbandwidth, eliminating the need for expensive GPUs. CENT exploits a scalable\nCXL network to support peer-to-peer and collective communication primitives\nacross CXL devices. We implement various parallelism strategies to distribute\nLLMs across these devices. Compared to GPU baselines with maximum supported\nbatch sizes and similar average power, CENT achieves 2.3$\\times$ higher\nthroughput and consumes 2.9$\\times$ less energy. CENT enhances the Total Cost\nof Ownership (TCO), generating 5.2$\\times$ more tokens per dollar than GPUs.",
+          "arxiv_id": "2502.07578v3"
+        },
+        {
+          "title": "Demystifying AI Platform Design for Distributed Inference of Next-Generation LLM models",
+          "year": "2024-06",
+          "abstract": "Large language models (LLMs) have shown remarkable performance across a wide\nrange of applications, often outperforming human experts. However, deploying\nthese gigantic models efficiently for diverse inference use cases requires\ncarefully designed hardware platforms with ample computing, memory, and network\nresources. With constant innovation in LLM serving optimizations and model\narchitecture evolving at breakneck speed, the hardware requirements to meet\nService Level Objectives (SLOs) remain an open research question.\n  To answer the question, we present an analytical tool, GenZ, to efficiently\nnavigate the relationship between diverse LLM model architectures(Dense, GQA,\nMoE, Mamba), LLM serving optimizations(Chunking, Speculative decoding,\nquanitization), and AI platform design parameters. Our tool estimates LLM\ninference performance metrics for the given scenario. We have validated against\nreal hardware platforms running various different LLM models, achieving a max\ngeomean error of 5.82.We use GenZ to identify compute, memory capacity, memory\nbandwidth, network latency, and network bandwidth requirements across diverse\nLLM inference use cases. We also study diverse architectural choices in use\ntoday (inspired by LLM serving platforms from several vendors) to help inform\ncomputer architects designing next-generation AI hardware accelerators and\nplatforms. The trends and insights derived from GenZ can guide AI engineers\ndeploying LLMs as well as computer architects designing next-generation\nhardware accelerators and platforms. Ultimately, this work sheds light on the\nplatform design considerations for unlocking the full potential of large\nlanguage models across a spectrum of applications. The source code is available\nat https://github.com/abhibambhaniya/GenZ-LLM-Analyzer . Users can also be\ntried it on at https://genz-llm-analyzer.streamlit.app/ without any setup on\nyour web browser.",
+          "arxiv_id": "2406.01698v3"
+        },
+        {
+          "title": "SLIM: A Heterogeneous Accelerator for Edge Inference of Sparse Large Language Model via Adaptive Thresholding",
+          "year": "2025-07",
+          "abstract": "Large language models (LLMs) have demonstrated exceptional proficiency in\nunderstanding and generating human language, but efficient inference on\nresource-constrained embedded devices remains challenging due to large model\nsizes and memory-intensive operations in feedforward network (FFN) and\nmulti-head attention (MHA) layers. While existing accelerators offload LLM\ninference to expensive heterogeneous computing systems, they fail to exploit\nthe significant sparsity inherent in LLM operations, leaving hardware resources\nunderutilized. We propose SLIM, an algorithm-hardware co-design optimized for\nsparse LLM serving on edge devices. SLIM exploits LLM sparsity through an\nadaptive thresholding algorithm that enables runtime-configurable sparsity with\nnegligible accuracy loss, fetching only activated neurons to dramatically\nreduce data movement. Our heterogeneous hardware architecture strategically\ncombines near-storage processing (NSP) and processing-in-memory (PIM): FFN\nweights are stored in high-density 3D NAND and computed using NSP units, while\nmemory-intensive MHA operations are processed in PIM modules. This design\nsignificantly reduces memory footprint, data movement, and energy consumption.\nOur comprehensive evaluation demonstrates SLIM's effectiveness, achieving\n13-18x throughput improvements over SSD-GPU systems and 9-10x better energy\nefficiency over DRAM-GPU systems while maintaining low latency, making\ncost-effective LLM deployment viable for edge computing environments.",
+          "arxiv_id": "2507.09201v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "QuantumSEA: In-Time Sparse Exploration for Noise Adaptive Quantum Circuits",
+          "year": "2024-01",
+          "abstract": "Parameterized Quantum Circuits (PQC) have obtained increasing popularity\nthanks to their great potential for near-term Noisy Intermediate-Scale Quantum\n(NISQ) computers. Achieving quantum advantages usually requires a large number\nof qubits and quantum circuits with enough capacity. However, limited coherence\ntime and massive quantum noises severely constrain the size of quantum circuits\nthat can be executed reliably on real machines. To address these two pain\npoints, we propose QuantumSEA, an in-time sparse exploration for noise-adaptive\nquantum circuits, aiming to achieve two key objectives: (1) implicit circuits\ncapacity during training - by dynamically exploring the circuit's sparse\nconnectivity and sticking a fixed small number of quantum gates throughout the\ntraining which satisfies the coherence time and enjoy light noises, enabling\nfeasible executions on real quantum devices; (2) noise robustness - by jointly\noptimizing the topology and parameters of quantum circuits under real device\nnoise models. In each update step of sparsity, we leverage the moving average\nof historical gradients to grow necessary gates and utilize salience-based\npruning to eliminate insignificant gates. Extensive experiments are conducted\nwith 7 Quantum Machine Learning (QML) and Variational Quantum Eigensolver (VQE)\nbenchmarks on 6 simulated or real quantum computers, where QuantumSEA\nconsistently surpasses noise-aware search, human-designed, and randomly\ngenerated quantum circuit baselines by a clear performance margin. For example,\neven in the most challenging on-chip training regime, our method establishes\nstate-of-the-art results with only half the number of quantum gates and ~2x\ntime saving of circuit executions. Codes are available at\nhttps://github.com/VITA-Group/QuantumSEA.",
+          "arxiv_id": "2401.05571v1"
+        },
+        {
+          "title": "A Uniform Quantum Computing Model Based on Virtual Quantum Processors",
+          "year": "2023-02",
+          "abstract": "Quantum Computers, one fully realized, can represent an exponential boost in\ncomputing power. However, the computational power of the current quantum\ncomputers, referred to as Noisy Internediate Scale Quantum, or NISQ, is\nseverely limited because of environmental and intrinsic noise, as well as the\nvery low connectivity between qubits compared to their total amount. We propose\na virtual quantum processor that emulates a generic hybrid quantum machine\nwhich can serve as a logical version of quantum computing hardware. This hybrid\nclassical quantum machine powers quantum-logical computations which are\nsubstitutable by future native quantum processors.",
+          "arxiv_id": "2302.12750v1"
+        },
+        {
+          "title": "Optimising Iteration Scheduling for Full-State Vector Simulation of Quantum Circuits on FPGAs",
+          "year": "2024-11",
+          "abstract": "As the field of quantum computing grows, novel algorithms which take\nadvantage of quantum phenomena need to be developed. As we are currently in the\nNISQ (noisy intermediate scale quantum) era, quantum algorithm researchers\ncannot reliably test their algorithms on real quantum hardware, which is still\ntoo limited. Instead, quantum computing simulators on classical computing\nsystems are used. In the quantum circuit model, quantum bits (qubits) are\noperated on by quantum gates. A quantum circuit is a sequence of such quantum\ngates operating on some number of qubits. A quantum gate applied to a qubit can\nbe controlled by other qubits in the circuit. This applies the gate only to the\nstates which satisfy the required control qubit state. We particularly target\nFPGAs as our main simulation platform, as these offer potential energy savings\nwhen compared to running simulations on CPUs/GPUs.\n  In this work, we present a memory access pattern to optimise the number of\niterations that need to be scheduled to execute a quantum gate such that only\nthe iterations which access the required pairs (determined according to the\ncontrol qubits imposed on the gate) are scheduled. We show that this approach\nresults in a significant reduction in the time required to simulate a gate for\neach added control qubit. We also show that this approach benefits the\nsimulation time on FPGAs more than CPUs and GPUs and allows to outperform both\nCPU and GPU platforms in terms of energy efficiency, which is the main factor\nfor scalability of the simulations.",
+          "arxiv_id": "2411.18354v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "FADEC: FPGA-based Acceleration of Video Depth Estimation by HW/SW Co-design",
+          "year": "2022-12",
+          "abstract": "3D reconstruction from videos has become increasingly popular for various\napplications, including navigation for autonomous driving of robots and drones,\naugmented reality (AR), and 3D modeling. This task often combines traditional\nimage/video processing algorithms and deep neural networks (DNNs). Although\nrecent developments in deep learning have improved the accuracy of the task,\nthe large number of calculations involved results in low computation speed and\nhigh power consumption. Although there are various domain-specific hardware\naccelerators for DNNs, it is not easy to accelerate the entire process of\napplications that alternate between traditional image/video processing\nalgorithms and DNNs. Thus, FPGA-based end-to-end acceleration is required for\nsuch complicated applications in low-power embedded environments.\n  This paper proposes a novel FPGA-based accelerator for DeepVideoMVS, a\nDNN-based depth estimation method for 3D reconstruction. We employ HW/SW\nco-design to appropriately utilize heterogeneous components in modern SoC\nFPGAs, such as programmable logic (PL) and CPU, according to the inherent\ncharacteristics of the method. As some operations are unsuitable for hardware\nimplementation, we determine the operations to be implemented in software\nthrough analyzing the number of times each operation is performed and its\nmemory access pattern, and then considering comprehensive aspects: the ease of\nhardware implementation and degree of expected acceleration by hardware. The\nhardware and software implementations are executed in parallel on the PL and\nCPU to hide their execution latencies. The proposed accelerator was developed\non a Xilinx ZCU104 board by using NNgen, an open-source high-level synthesis\n(HLS) tool. Experiments showed that the proposed accelerator operates 60.2\ntimes faster than the software-only implementation on the same FPGA board with\nminimal accuracy degradation.",
+          "arxiv_id": "2212.00357v2"
+        },
+        {
+          "title": "PointAcc: Efficient Point Cloud Accelerator",
+          "year": "2021-10",
+          "abstract": "Deep learning on point clouds plays a vital role in a wide range of\napplications such as autonomous driving and AR/VR. These applications interact\nwith people in real-time on edge devices and thus require low latency and low\nenergy. Compared to projecting the point cloud to 2D space, directly processing\nthe 3D point cloud yields higher accuracy and lower #MACs. However, the\nextremely sparse nature of point cloud poses challenges to hardware\nacceleration. For example, we need to explicitly determine the nonzero outputs\nand search for the nonzero neighbors (mapping operation), which is unsupported\nin existing accelerators. Furthermore, explicit gather and scatter of sparse\nfeatures are required, resulting in large data movement overhead. In this\npaper, we comprehensively analyze the performance bottleneck of modern point\ncloud networks on CPU/GPU/TPU. To address the challenges, we then present\nPointAcc, a novel point cloud deep learning accelerator. PointAcc maps diverse\nmapping operations onto one versatile ranking-based kernel, streams the sparse\ncomputation with configurable caching, and temporally fuses consecutive dense\nlayers to reduce the memory footprint. Evaluated on 8 point cloud models across\n4 applications, PointAcc achieves 3.7X speedup and 22X energy savings over RTX\n2080Ti GPU. Co-designed with light-weight neural networks, PointAcc rivals the\nprior accelerator Mesorasi by 100X speedup with 9.1% higher accuracy running\nsegmentation on the S3DIS dataset. PointAcc paves the way for efficient point\ncloud recognition.",
+          "arxiv_id": "2110.07600v1"
+        },
+        {
+          "title": "HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference",
+          "year": "2025-01",
+          "abstract": "Point cloud is an important type of geometric data structure for many\nembedded applications such as autonomous driving and augmented reality. Current\nPoint Cloud Networks (PCNs) have proven to achieve great success in using\ninference to perform point cloud analysis, including object part segmentation,\nshape classification, and so on. However, point cloud applications on the\ncomputing edge require more than just the inference step. They require an\nend-to-end (E2E) processing of the point cloud workloads: pre-processing of raw\ndata, input preparation, and inference to perform point cloud analysis. Current\nPCN approaches to support end-to-end processing of point cloud workload cannot\nmeet the real-time latency requirement on the edge, i.e., the ability of the AI\nservice to keep up with the speed of raw data generation by 3D sensors. Latency\nfor end-to-end processing of the point cloud workloads stems from two reasons:\nmemory-intensive down-sampling in the pre-processing phase and the data\nstructuring step for input preparation in the inference phase. In this paper,\nwe present HgPCN, an end-to-end heterogeneous architecture for real-time\nembedded point cloud applications. In HgPCN, we introduce two novel\nmethodologies based on spatial indexing to address the two identified\nbottlenecks. In the Pre-processing Engine of HgPCN, an Octree-Indexed-Sampling\nmethod is used to optimize the memory-intensive down-sampling bottleneck of the\npre-processing phase. In the Inference Engine, HgPCN extends a commercial DLA\nwith a customized Data Structuring Unit which is based on a Voxel-Expanded\nGathering method to fundamentally reduce the workload of the data structuring\nstep in the inference phase.",
+          "arxiv_id": "2501.07767v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "FPGA-Based Multiplier with a New Approximate Full Adder for Error-Resilient Applications",
+          "year": "2025-06",
+          "abstract": "Electronic devices primarily aim to offer low power consumption, high speed,\nand a compact area. The performance of very large-scale integration (VLSI)\ndevices is influenced by arithmetic operations, where multiplication is a\ncrucial operation. Therefore, a high-speed multiplier is essential for\ndeveloping any signal-processing module. Numerous multipliers have been\nreviewed in existing literature, and their speed is largely determined by how\npartial products (PPs) are accumulated. To enhance the speed of multiplication\nbeyond current methods, an approximate adder-based multiplier is introduced.\nThis approach allows for the simultaneous addition of PPs from two consecutive\nbits using a novel approximate adder. The proposed multiplier is utilized in a\nmean filter structure and implemented in ISE Design Suite 14.7 using VHDL and\nsynthesized on the Xilinx Spartan3-XC3S400 FPGA board. Compared to the\nliterature, the proposed multiplier achieves power and power-delay product\n(PDP) improvements of 56.09% and 73.02%, respectively. The validity of the\nexpressed multiplier is demonstrated through the mean filter system. Results\nshow that it achieves power savings of 33.33%. Additionally, the proposed\nmultiplier provides more accurate results than other approximate multipliers by\nexpressing higher values of peak signal-to-noise ratio (PSNR), (30.58%), and\nstructural similarity index metric (SSIM), (22.22%), while power consumption is\nin a low range.",
+          "arxiv_id": "2506.09596v1"
+        },
+        {
+          "title": "Design and Analysis of High Performance Heterogeneous Block-based Approximate Adders",
+          "year": "2021-06",
+          "abstract": "Approximate computing is an emerging paradigm to improve the power and\nperformance efficiency of error-resilient applications. As adders are one of\nthe key components in almost all processing systems, a significant amount of\nresearch has been carried out towards designing approximate adders that can\noffer better efficiency than conventional designs, however, at the cost of some\naccuracy loss. In this paper, we highlight a new class of energy-efficient\napproximate adders, namely Heterogeneous Block-based Approximate Adders (HBAA),\nand propose a generic configurable adder model that can be configured to\nrepresent a particular HBAA configuration. An HBAA, in general, is composed of\nheterogeneous sub-adder blocks of equal length, where each sub-adder can be an\napproximate sub-adder and have a different configuration. The sub-adders are\nmainly approximated through inexact logic and carry truncation. Compared to the\nexisting design space, HBAAs provide additional design points that fall on the\nPareto-front and offer a better quality-efficiency trade-off in certain\nscenarios. Furthermore, to enable efficient design space exploration based on\nuser-defined constraints, we propose an analytical model to efficiently\nevaluate the Probability Mass Function (PMF) of approximation error and other\nerror metrics, such as Mean Error Distance (MED), Normalized Mean Error\nDistance (NMED) and Error Rate (ER) of HBAAs. The results show that HBAA\nconfigurations can provide around 15% reduction in area and up to 17% reduction\nin energy compared to state-of-the-art approximate adders.",
+          "arxiv_id": "2106.08800v2"
+        },
+        {
+          "title": "Fixed-Posit: A Floating-Point Representation for Error-Resilient Applications",
+          "year": "2021-04",
+          "abstract": "Today, almost all computer systems use IEEE-754 floating point to represent\nreal numbers. Recently, posit was proposed as an alternative to IEEE-754\nfloating point as it has better accuracy and a larger dynamic range. The\nconfigurable nature of posit, with varying number of regime and exponent bits,\nhas acted as a deterrent to its adoption. To overcome this shortcoming, we\npropose fixed-posit representation where the number of regime and exponent bits\nare fixed, and present the design of a fixed-posit multiplier. We evaluate the\nfixed-posit multiplier on error-resilient applications of AxBench and OpenBLAS\nbenchmarks as well as neural networks. The proposed fixed-posit multiplier has\n47%, 38.5%, 22% savings for power, area and delay respectively when compared to\nposit multipliers and up to 70%, 66%, 26% savings in power, area and delay\nrespectively when compared to 32-bit IEEE-754 multiplier. These savings are\naccompanied with minimal output quality loss (1.2% average relative error)\nacross OpenBLAS and AxBench workloads. Further, for neural networks like\nResNet-18 on ImageNet we observe a negligible accuracy loss (0.12%) on using\nthe fixed-posit multiplier.",
+          "arxiv_id": "2104.04763v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Accelerating Generic Graph Neural Networks via Architecture, Compiler, Partition Method Co-Design",
+          "year": "2023-08",
+          "abstract": "Graph neural networks (GNNs) have shown significant accuracy improvements in\na variety of graph learning domains, sparking considerable research interest.\nTo translate these accuracy improvements into practical applications, it is\nessential to develop high-performance and efficient hardware acceleration for\nGNN models. However, designing GNN accelerators faces two fundamental\nchallenges: the high bandwidth requirement of GNN models and the diversity of\nGNN models. Previous works have addressed the first challenge by using more\nexpensive memory interfaces to achieve higher bandwidth. For the second\nchallenge, existing works either support specific GNN models or have generic\ndesigns with poor hardware utilization.\n  In this work, we tackle both challenges simultaneously. First, we identify a\nnew type of partition-level operator fusion, which we utilize to internally\nreduce the high bandwidth requirement of GNNs. Next, we introduce\npartition-level multi-threading to schedule the concurrent processing of graph\npartitions, utilizing different hardware resources. To further reduce the extra\non-chip memory required by multi-threading, we propose fine-grained graph\npartitioning to generate denser graph partitions. Importantly, these three\nmethods make no assumptions about the targeted GNN models, addressing the\nchallenge of model variety. We implement these methods in a framework called\nSwitchBlade, consisting of a compiler, a graph partitioner, and a hardware\naccelerator. Our evaluation demonstrates that SwitchBlade achieves an average\nspeedup of $1.85\\times$ and energy savings of $19.03\\times$ compared to the\nNVIDIA V100 GPU. Additionally, SwitchBlade delivers performance comparable to\nstate-of-the-art specialized accelerators.",
+          "arxiv_id": "2308.08174v1"
+        },
+        {
+          "title": "Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses",
+          "year": "2023-06",
+          "abstract": "Graph Neural Networks (GNNs) are emerging as a powerful tool for learning\nfrom graph-structured data and performing sophisticated inference tasks in\nvarious application domains. Although GNNs have been shown to be effective on\nmodest-sized graphs, training them on large-scale graphs remains a significant\nchallenge due to lack of efficient data access and data movement methods.\nExisting frameworks for training GNNs use CPUs for graph sampling and feature\naggregation, while the training and updating of model weights are executed on\nGPUs. However, our in-depth profiling shows the CPUs cannot achieve the\nthroughput required to saturate GNN model training throughput, causing gross\nunder-utilization of expensive GPU resources. Furthermore, when the graph and\nits embeddings do not fit in the CPU memory, the overhead introduced by the\noperating system, say for handling page-faults, comes in the critical path of\nexecution.\n  To address these issues, we propose the GPU Initiated Direct Storage Access\n(GIDS) dataloader, to enable GPU-oriented GNN training for large-scale graphs\nwhile efficiently utilizing all hardware resources, such as CPU memory,\nstorage, and GPU memory with a hybrid data placement strategy. By enabling GPU\nthreads to fetch feature vectors directly from storage, GIDS dataloader solves\nthe memory capacity problem for GPU-oriented GNN training. Moreover, GIDS\ndataloader leverages GPU parallelism to tolerate storage latency and eliminates\nexpensive page-fault overhead. Doing so enables us to design novel\noptimizations for exploiting locality and increasing effective bandwidth for\nGNN training. Our evaluation using a single GPU on terabyte-scale GNN datasets\nshows that GIDS dataloader accelerates the overall DGL GNN training pipeline by\nup to 392X when compared to the current, state-of-the-art DGL dataloader.",
+          "arxiv_id": "2306.16384v2"
+        },
+        {
+          "title": "GNNIE: GNN Inference Engine with Load-balancing and Graph-Specific Caching",
+          "year": "2021-05",
+          "abstract": "Graph neural networks (GNN) analysis engines are vital for real-world\nproblems that use large graph models. Challenges for a GNN hardware platform\ninclude the ability to (a) host a variety of GNNs, (b) handle high sparsity in\ninput vertex feature vectors and the graph adjacency matrix and the\naccompanying random memory access patterns, and (c) maintain load-balanced\ncomputation in the face of uneven workloads, induced by high sparsity and\npower-law vertex degree distributions. This paper proposes GNNIE, an\naccelerator designed to run a broad range of GNNs. It tackles workload\nimbalance by (i)~splitting vertex feature operands into blocks, (ii)~reordering\nand redistributing computations, (iii)~using a novel flexible MAC architecture.\nIt adopts a graph-specific, degree-aware caching policy that is well suited to\nreal-world graph characteristics. The policy enhances on-chip data reuse and\navoids random memory access to DRAM.\n  GNNIE achieves average speedups of 21233x over a CPU and 699x over a GPU over\nmultiple datasets on graph attention networks (GATs), graph convolutional\nnetworks (GCNs), GraphSAGE, GINConv, and DiffPool. Compared to prior\napproaches, GNNIE achieves an average speedup of 35x over HyGCN (which cannot\nimplement GATs) for GCN, GraphSAGE, and GINConv, and, using 3.4x fewer\nprocessing units, an average speedup of 2.1x over AWB-GCN (which runs only\nGCNs).",
+          "arxiv_id": "2105.10554v2"
+        }
+      ],
+      "10": [
+        {
+          "title": "ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse",
+          "year": "2022-05",
+          "abstract": "Homomorphic Encryption (HE) is one of the most promising post-quantum\ncryptographic schemes that enable privacy-preserving computation on servers.\nHowever, noise accumulates as we perform operations on HE-encrypted data,\nrestricting the number of possible operations. Fully HE (FHE) removes this\nrestriction by introducing the bootstrapping operation, which refreshes the\ndata; however, FHE schemes are highly memory-bound. Bootstrapping, in\nparticular, requires loading GBs of evaluation keys and plaintexts from\noff-chip memory, which makes FHE acceleration fundamentally bottlenecked by the\noff-chip memory bandwidth.\n  In this paper, we propose ARK, an Accelerator for FHE with Runtime data\ngeneration and inter-operation Key reuse. ARK enables practical FHE workloads\nwith a novel algorithm-architecture co-design to accelerate bootstrapping. We\nfirst eliminate the off-chip memory bandwidth bottleneck through runtime data\ngeneration and inter-operation key reuse. This approach enables ARK to fully\nexploit on-chip memory by substantially reducing the size of the working set.\nOn top of such algorithmic enhancements, we build ARK microarchitecture that\nminimizes on-chip data movement through an efficient, alternating data\ndistribution policy based on the data access patterns and a streamlined\ndataflow organization of the tailored functional units -- including base\nconversion, number-theoretic transform, and automorphism units. Overall, our\nco-design effectively handles the heavy computation and data movement overheads\nof FHE, drastically reducing the cost of HE operations, including\nbootstrapping.",
+          "arxiv_id": "2205.00922v3"
+        },
+        {
+          "title": "BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption",
+          "year": "2021-12",
+          "abstract": "Homomorphic encryption (HE) enables the secure offloading of computations to\nthe cloud by providing computation on encrypted data (ciphertexts). HE is based\non noisy encryption schemes in which noise accumulates as more computations are\napplied to the data. The limited number of operations applicable to the data\nprevents practical applications from exploiting HE. Bootstrapping enables an\nunlimited number of operations or fully HE (FHE) by refreshing the ciphertext.\nUnfortunately, bootstrapping requires a significant amount of additional\ncomputation and memory bandwidth as well. Prior works have proposed hardware\naccelerators for computation primitives of FHE. However, to the best of our\nknowledge, this is the first to propose a hardware FHE accelerator that\nsupports bootstrapping as a first-class citizen.\n  In particular, we propose BTS - Bootstrappable, Technologydriven, Secure\naccelerator architecture for FHE. We identify the challenges of supporting\nbootstrapping in the accelerator and analyze the off-chip memory bandwidth and\ncomputation required. In particular, given the limitations of modern memory\ntechnology, we identify the HE parameter sets that are efficient for FHE\nacceleration. Based on the insights gained from our analysis, we propose BTS,\nwhich effectively exploits the parallelism innate in HE operations by arranging\na massive number of processing elements in a grid. We present the design and\nmicroarchitecture of BTS, including a network-on-chip design that exploits a\ndeterministic communication pattern. BTS shows 5,556x and 1,306x improved\nexecution time on ResNet-20 and logistic regression over a CPU, with a chip\narea of 373.6mm^2 and up to 163.2W of power.",
+          "arxiv_id": "2112.15479v2"
+        },
+        {
+          "title": "MemFHE: End-to-End Computing with Fully Homomorphic Encryption in Memory",
+          "year": "2022-04",
+          "abstract": "The increasing amount of data and the growing complexity of problems has\nresulted in an ever-growing reliance on cloud computing. However, many\napplications, most notably in healthcare, finance or defense, demand security\nand privacy which today's solutions cannot fully address. Fully homomorphic\nencryption (FHE) elevates the bar of today's solutions by adding\nconfidentiality of data during processing. It allows computation on fully\nencrypted data without the need for decryption, thus fully preserving privacy.\nTo enable processing encrypted data at usable levels of classic security, e.g.,\n128-bit, the encryption procedure introduces noticeable data size expansion -\nthe ciphertext is much bigger than the native aggregate of native data types.\nIn this paper, we present MemFHE which is the first accelerator of both client\nand server for the latest Ring-GSW (Gentry, Sahai, and Waters) based\nhomomorphic encryption schemes using Processing In Memory (PIM). PIM alleviates\nthe data movement issues with large FHE encrypted data, while providing in-situ\nexecution and extensive parallelism needed for FHE's polynomial operations.\nWhile the client-PIM can homomorphically encrypt and decrypt data, the\nserver-PIM can process homomorphically encrypted data without decryption.\nMemFHE's server-PIM is pipelined and is designed to provide flexible\nbootstrapping, allowing two encryption techniques and various FHE\nsecurity-levels based on the application requirements. We evaluate MemFHE for\nvarious security-levels and compare it with state-of-the-art CPU\nimplementations for Ring-GSW based FHE. MemFHE is up to 20kx (265x) faster than\nCPU (GPU) for FHE arithmetic operations and provides on average 2007x higher\nthroughput than the state-of-the-art while implementing neural networks with\nFHE.",
+          "arxiv_id": "2204.12557v1"
+        }
+      ],
+      "11": [
+        {
+          "title": "Understanding RowHammer Under Reduced Wordline Voltage: An Experimental Study Using Real DRAM Devices",
+          "year": "2022-06",
+          "abstract": "RowHammer is a circuit-level DRAM vulnerability, where repeatedly activating\nand precharging a DRAM row, and thus alternating the voltage of a row's\nwordline between low and high voltage levels, can cause bit flips in physically\nnearby rows. Recent DRAM chips are more vulnerable to RowHammer: with\ntechnology node scaling, the minimum number of activate-precharge cycles to\ninduce a RowHammer bit flip reduces and the RowHammer bit error rate increases.\nTherefore, it is critical to develop effective and scalable approaches to\nprotect modern DRAM systems against RowHammer. To enable such solutions, it is\nessential to develop a deeper understanding of the RowHammer vulnerability of\nmodern DRAM chips. However, even though the voltage toggling on a wordline is a\nkey determinant of RowHammer vulnerability, no prior work experimentally\ndemonstrates the effect of wordline voltage (VPP) on the RowHammer\nvulnerability. Our work closes this gap in understanding.\n  This is the first work to experimentally demonstrate on 272 real DRAM chips\nthat lowering VPP reduces a DRAM chip's RowHammer vulnerability. We show that\nlowering VPP 1) increases the number of activate-precharge cycles needed to\ninduce a RowHammer bit flip by up to 85.8% with an average of 7.4% across all\ntested chips and 2) decreases the RowHammer bit error rate by up to 66.9% with\nan average of 15.2% across all tested chips. At the same time, reducing VPP\nmarginally worsens a DRAM cell's access latency, charge restoration, and data\nretention time within the guardbands of system-level nominal timing parameters\nfor 208 out of 272 tested chips. We conclude that reducing VPP is a promising\nstrategy for reducing a DRAM chip's RowHammer vulnerability without requiring\nmodifications to DRAM chips.",
+          "arxiv_id": "2206.09999v1"
+        },
+        {
+          "title": "PuDHammer: Experimental Analysis of Read Disturbance Effects of Processing-using-DRAM in Real DRAM Chips",
+          "year": "2025-06",
+          "abstract": "Processing-using-DRAM (PuD) is a promising paradigm for alleviating the data\nmovement bottleneck using DRAM's massive internal parallelism and bandwidth to\nexecute very wide operations. Performing a PuD operation involves activating\nmultiple DRAM rows in quick succession or simultaneously, i.e., multiple-row\nactivation. Multiple-row activation is fundamentally different from\nconventional memory access patterns that activate one DRAM row at a time.\nHowever, repeatedly activating even one DRAM row (e.g., RowHammer) can induce\nbitflips in unaccessed DRAM rows because modern DRAM is subject to read\ndisturbance. Unfortunately, no prior work investigates the effects of\nmultiple-row activation on DRAM read disturbance.\n  In this paper, we present the first characterization study of read\ndisturbance effects of multiple-row activation-based PuD (which we call\nPuDHammer) using 316 real DDR4 DRAM chips from four major DRAM manufacturers.\nOur detailed characterization show that 1) PuDHammer significantly exacerbates\nthe read disturbance vulnerability, causing up to 158.58x reduction in the\nminimum hammer count required to induce the first bitflip ($HC_{first}$),\ncompared to RowHammer, 2) PuDHammer is affected by various operational\nconditions and parameters, 3) combining RowHammer with PuDHammer is more\neffective than using RowHammer alone to induce read disturbance error, e.g.,\ndoing so reduces $HC_{first}$ by 1.66x on average, and 4) PuDHammer bypasses an\nin-DRAM RowHammer mitigation mechanism (Target Row Refresh) and induces more\nbitflips than RowHammer.\n  To develop future robust PuD-enabled systems in the presence of PuDHammer, we\n1) develop three countermeasures and 2) adapt and evaluate the state-of-the-art\nRowHammer mitigation standardized by industry, called Per Row Activation\nCounting (PRAC). We show that the adapted PRAC incurs large performance\noverheads (48.26%, on average).",
+          "arxiv_id": "2506.12947v1"
+        },
+        {
+          "title": "A Deeper Look into RowHammer`s Sensitivities: Experimental Analysis of Real DRAM Chips and Implications on Future Attacks and Defenses",
+          "year": "2021-10",
+          "abstract": "RowHammer is a circuit-level DRAM vulnerability where repeatedly accessing\n(i.e., hammering) a DRAM row can cause bit flips in physically nearby rows. The\nRowHammer vulnerability worsens as DRAM cell size and cell-to-cell spacing\nshrink. Recent studies demonstrate that modern DRAM chips, including chips\npreviously marketed as RowHammer-safe, are even more vulnerable to RowHammer\nthan older chips such that the required hammer count to cause a bit flip has\nreduced by more than 10X in the last decade. Therefore, it is essential to\ndevelop a better understanding and in-depth insights into the RowHammer\nvulnerability of modern DRAM chips to more effectively secure current and\nfuture systems.\n  Our goal in this paper is to provide insights into fundamental properties of\nthe RowHammer vulnerability that are not yet rigorously studied by prior works,\nbut can potentially be $i$) exploited to develop more effective RowHammer\nattacks or $ii$) leveraged to design more effective and efficient defense\nmechanisms. To this end, we present an experimental characterization using\n248~DDR4 and 24~DDR3 modern DRAM chips from four major DRAM manufacturers\ndemonstrating how the RowHammer effects vary with three fundamental properties:\n1)~DRAM chip temperature, 2)~aggressor row active time, and 3)~victim DRAM\ncell's physical location. Among our 16 new observations, we highlight that a\nRowHammer bit flip 1)~is very likely to occur in a bounded range, specific to\neach DRAM cell (e.g., 5.4% of the vulnerable DRAM cells exhibit errors in the\nrange 70C to 90C), 2)~is more likely to occur if the aggressor row is active\nfor longer time (e.g., RowHammer vulnerability increases by 36% if we keep a\nDRAM row active for 15 column accesses), and 3)~is more likely to occur in\ncertain physical regions of the DRAM module under attack (e.g., 5% of the rows\nare 2x more vulnerable than the remaining 95% of the rows).",
+          "arxiv_id": "2110.10291v1"
+        }
+      ],
+      "12": [
+        {
+          "title": "Fixed and Movable Antenna Technology for 6G Integrated Sensing and Communication",
+          "year": "2024-07",
+          "abstract": "By deploying antenna arrays at the transmitter/receiver to provide additional\nspatial-domain degrees of freedom (DoFs), multi-antenna technology greatly\nimproves the reliability and efficiency of wireless communication. Meanwhile,\nthe application of multi-antenna technology in the radar field has achieved\nspatial angle resolution and improved sensing DoF, thus significantly enhancing\nwireless sensing performance. However, wireless communication and radar sensing\nhave undergone independent development over the past few decades. As a result,\nalthough multi-antenna technology has dramatically advanced in these two fields\nseparately, it has not been deeply integrated by exploiting their synergy. A\nnew opportunity to fill up this gap arises as the integration of sensing and\ncommunication has been identified as one of the typical usage scenarios of the\n6G communication network. Motivated by the above, this article aims to explore\nthe multi-antenna technology for 6G ISAC, with the focus on its future\ndevelopment trends such as continuous expansion of antenna array scale, more\ndiverse array architectures, and more flexible antenna designs. First, we\nintroduce several new and promising antenna architectures, including the\ncentralized antenna architectures based on traditional compact arrays or\nemerging sparse arrays, the distributed antenna architectures exemplified by\nthe cell-free massive MIMO, and the movable/fluid antennas with flexible\npositions and/or orientations in a given 3D space. Next, for each antenna\narchitecture mentioned above, we present the corresponding far-field/near-field\nchannel models and analyze the communication and sensing performance. Finally,\nwe summarize the characteristics of different antenna architectures and look\nforward to new ideas for solving the difficulties in acquiring CSI caused by\nthe continuous expansion of antenna array scale and flexible antenna designs.",
+          "arxiv_id": "2407.04404v2"
+        },
+        {
+          "title": "Ray Antenna Array: A Novel Cost-Effective Multi-Antenna Architecture for Enhanced Wireless Communication",
+          "year": "2025-05",
+          "abstract": "This paper proposes a novel multi-antenna architecture, termed ray antenna\narray (RAA), which aims to enhance wireless communication performance in a\ncost-effective manner. RAA is composed of massive cheap antenna elements and a\nfew radio frequency (RF) chains. The massive antenna elements are arranged in a\nnovel ray-like structure, with each ray corresponding to a simple uniform\nlinear array (sULA) with a carefully designed orientation. The antenna elements\nof each sULA are directly connected to an RF combiner, so that the sULA in each\nray is able to form a beam towards a direction matching the ray orientation\nwithout relying on any analog or digital beamforming. By further designing a\nray selection network (RSN), appropriate sULAs are selected to connect to the\nRF chains for further baseband processing. Compared to conventional\nmulti-antenna architectures like hybrid analog/digital beamforming (HBF), the\nproposed RAA has two major advantages. First, it can significantly reduce\nhardware costs since no phase shifters, which are usually expensive especially\nin high-frequency systems, are required. Besides, RAA can greatly improve\nsystem performance by configuring antenna elements with higher directionality,\nas each sULA only needs to be responsible for a portion of the total coverage\nangle. To demonstrate such advantages, in this paper, we first present the\ninput-output model for RAA-based wireless communications, based on which the\nray orientations of the RAA are designed. Furthermore, efficient algorithms for\njoint ray selection and beamforming are proposed for single-user and multi-user\nRAA-based wireless communications. Simulation results demonstrate the superior\nperformance of RAA compared to HBF while significantly reducing hardware cost.",
+          "arxiv_id": "2505.18163v1"
+        },
+        {
+          "title": "A Novel Cost-Effective MIMO Architecture with Ray Antenna Array for Enhanced Wireless Communication Performance",
+          "year": "2025-05",
+          "abstract": "This paper proposes a novel multi-antenna architecture, termed ray antenna\narray (RAA), which practically enables flexible beamforming and also enhances\nwireless communication performance for high frequency systems in a\ncost-effective manner. RAA consists of a large number of inexpensive antenna\nelements and a few radio frequency (RF) chains. These antenna elements are\narranged in a novel ray like structure, where each ray corresponds to one\nsimple uniform linear array (sULA) with a carefully designed orientation. The\nantenna elements within each sULA are directly connected, so that each sULA is\nable to form a beam towards a direction matching the ray orientation without\nrelying on any analog or digital beamforming. By further designing a ray\nselection network (RSN), appropriate sULAs are selected to connect to the RF\nchains for subsequent baseband processing. Compared to conventional\nmulti-antenna architectures such as the uniform linear array (ULA) with hybrid\nanalog/digital beamforming (HBF), the proposed RAA enjoys three appealing\nadvantages: (i) finer and uniform angular resolution for all signal directions;\n(ii) enhanced beamforming gain by using antenna elements with higher\ndirectivity, as each sULA is only responsible for a small portion of the total\nangle coverage range; and (iii) dramatically reduced hardware cost since no\nphase shifters are required, which are expensive and difficult to design in\nhigh-frequency systems such as mmWave and THz systems. To validate such\nadvantages, we first present the input-output mathematical model for RAA-based\nwireless communications. Efficient algorithms for joint RAA beamforming and ray\nselection are then proposed for single-user and multi-user RAA-based wireless\ncommunications. Simulation results demonstrate that RAA achieves superior\nperformance compared to the conventional ULA with HBF, while significantly\nreducing hardware cost.",
+          "arxiv_id": "2505.23394v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:45:45Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_energy_molecular_electron_quantum",
+        "keywords": [
+          [
+            "energy",
+            0.030797150196336238
+          ],
+          [
+            "molecular",
+            0.02645981709153766
+          ],
+          [
+            "electron",
+            0.025766321550071337
+          ],
+          [
+            "quantum",
+            0.024919023316116305
+          ],
+          [
+            "molecules",
+            0.024651185356985978
+          ],
+          [
+            "state",
+            0.021825555029569118
+          ],
+          [
+            "states",
+            0.020800476644224228
+          ],
+          [
+            "dynamics",
+            0.02018916289445597
+          ],
+          [
+            "time",
+            0.018907360297236605
+          ],
+          [
+            "atoms",
+            0.01866044280331883
+          ]
+        ],
+        "count": 678
+      },
+      "1": {
+        "name": "1_CO2_spectra_carbon_bands",
+        "keywords": [
+          [
+            "CO2",
+            0.04019247370246125
+          ],
+          [
+            "spectra",
+            0.02876747937625365
+          ],
+          [
+            "carbon",
+            0.02556152856617073
+          ],
+          [
+            "bands",
+            0.024385818351678575
+          ],
+          [
+            "infrared",
+            0.02348581602066088
+          ],
+          [
+            "observed",
+            0.021435566170567844
+          ],
+          [
+            "interstellar",
+            0.02041976461668795
+          ],
+          [
+            "fundamental",
+            0.02035256317127682
+          ],
+          [
+            "spectrum",
+            0.019148489168992183
+          ],
+          [
+            "plane",
+            0.017946189630817642
+          ]
+        ],
+        "count": 58
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.3780109185706363
+      ],
+      [
+        -0.3780109185706363,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        10,
+        2
+      ],
+      "2020-02": [
+        9,
+        2
+      ],
+      "2020-03": [
+        18,
+        0
+      ],
+      "2020-04": [
+        6,
+        1
+      ],
+      "2020-05": [
+        11,
+        2
+      ],
+      "2020-06": [
+        10,
+        3
+      ],
+      "2020-07": [
+        9,
+        0
+      ],
+      "2020-08": [
+        6,
+        2
+      ],
+      "2020-09": [
+        7,
+        2
+      ],
+      "2020-10": [
+        13,
+        2
+      ],
+      "2020-11": [
+        12,
+        0
+      ],
+      "2020-12": [
+        5,
+        0
+      ],
+      "2021-01": [
+        5,
+        1
+      ],
+      "2021-02": [
+        14,
+        2
+      ],
+      "2021-03": [
+        12,
+        0
+      ],
+      "2021-04": [
+        9,
+        2
+      ],
+      "2021-05": [
+        17,
+        2
+      ],
+      "2021-06": [
+        15,
+        0
+      ],
+      "2021-07": [
+        7,
+        3
+      ],
+      "2021-08": [
+        5,
+        3
+      ],
+      "2021-09": [
+        9,
+        0
+      ],
+      "2021-10": [
+        11,
+        1
+      ],
+      "2021-11": [
+        13,
+        4
+      ],
+      "2021-12": [
+        4,
+        2
+      ],
+      "2022-01": [
+        13,
+        1
+      ],
+      "2022-02": [
+        7,
+        2
+      ],
+      "2022-03": [
+        12,
+        3
+      ],
+      "2022-04": [
+        13,
+        0
+      ],
+      "2022-05": [
+        10,
+        1
+      ],
+      "2022-06": [
+        13,
+        0
+      ],
+      "2022-07": [
+        10,
+        3
+      ],
+      "2022-08": [
+        8,
+        1
+      ],
+      "2022-09": [
+        12,
+        2
+      ],
+      "2022-10": [
+        11,
+        2
+      ],
+      "2022-11": [
+        17,
+        4
+      ],
+      "2022-12": [
+        8,
+        3
+      ],
+      "2023-01": [
+        9,
+        2
+      ],
+      "2023-02": [
+        5,
+        0
+      ],
+      "2023-03": [
+        10,
+        2
+      ],
+      "2023-04": [
+        9,
+        2
+      ],
+      "2023-05": [
+        8,
+        1
+      ],
+      "2023-06": [
+        9,
+        1
+      ],
+      "2023-07": [
+        10,
+        1
+      ],
+      "2023-08": [
+        12,
+        1
+      ],
+      "2023-09": [
+        16,
+        3
+      ],
+      "2023-10": [
+        11,
+        0
+      ],
+      "2023-11": [
+        5,
+        1
+      ],
+      "2023-12": [
+        11,
+        0
+      ],
+      "2024-01": [
+        13,
+        4
+      ],
+      "2024-02": [
+        14,
+        1
+      ],
+      "2024-03": [
+        12,
+        0
+      ],
+      "2024-04": [
+        3,
+        0
+      ],
+      "2024-05": [
+        7,
+        0
+      ],
+      "2024-06": [
+        10,
+        0
+      ],
+      "2024-07": [
+        8,
+        1
+      ],
+      "2024-08": [
+        15,
+        2
+      ],
+      "2024-09": [
+        13,
+        1
+      ],
+      "2024-10": [
+        8,
+        1
+      ],
+      "2024-11": [
+        4,
+        3
+      ],
+      "2024-12": [
+        12,
+        0
+      ],
+      "2025-01": [
+        7,
+        0
+      ],
+      "2025-02": [
+        11,
+        1
+      ],
+      "2025-03": [
+        11,
+        2
+      ],
+      "2025-04": [
+        12,
+        2
+      ],
+      "2025-05": [
+        9,
+        0
+      ],
+      "2025-06": [
+        19,
+        3
+      ],
+      "2025-07": [
+        8,
+        2
+      ],
+      "2025-08": [
+        8,
+        1
+      ],
+      "2025-09": [
+        8,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Single-shot electron imaging of dopant-induced nanoplasmas",
+          "year": "2021-02",
+          "abstract": "We present single-shot electron velocity-map images of nanoplasmas generated\nfrom doped helium nanodroplets and neon clusters by intense near-infrared and\nmid-infrared laser pulses. We report a large variety of signal types, most\ncrucially depending on the cluster size. The common feature is a two-component\ndistribution for each single-cluster event: A bright inner part with nearly\ncircular shape corresponding to electron energies up to a few eV, surrounded by\nan extended background of more energetic electrons. The total counts and energy\nof the electrons in the inner part are strongly correlated and follow a simple\npower-law dependence. Deviations from the circular shape of the inner electrons\nobserved for neon clusters and large helium nanodroplets indicate non-spherical\nshapes of the neutral clusters. The dependence of the measured electron\nenergies on the extraction voltage of the spectrometer indicates that the\nevolution of the nanoplasma is significantly affected by the presence of an\nexternal electric field. This conjecture is confirmed by molecular dynamics\nsimulations, which reproduce the salient features of the experimental electron\nspectra.",
+          "arxiv_id": "2102.12878v2"
+        },
+        {
+          "title": "XUV fluorescence as a probe of laser-induced helium nanoplasma dynamics",
+          "year": "2023-05",
+          "abstract": "XUV fluorescence spectroscopy provides information on energy absorption and\ndissipation processes taking place in the interaction of helium clusters with\nintense femtosecond laser pulses. The present experimental results complement\nthe physical picture derived from previous electron and ion spectroscopic\nstudies of the generated helium nanoplasma. Here, the broadband XUV\nfluorescence emission from high-lying Rydberg states that covers the spectral\nregion from $6p \\to 1s$ at 53.0 eV all the way to photon energies corresponding\nto the ionization potential of He$^+$ ions at 54.4 eV is observed directly. The\ncluster size-dependent population of these states in the expanding nanoplasma\nfollows the well-known bottleneck model. The results support previous findings\nand highlight the important role of Rydberg states in the energetics and\ndynamics of laser-generated nanoplasma.",
+          "arxiv_id": "2305.10031v2"
+        },
+        {
+          "title": "Visualizing intense laser field driven electron dynamics in a multielectron molecule: dynamic electron localization, bonding properties and multiple ionization bursts",
+          "year": "2025-08",
+          "abstract": "The paper presents results and discussion of electron dynamics in molecules\nin which intense ultrafast pulse drives multiphoton ionization, high harmonic\ngeneration, and charge resonance due to the Rabbi flopping in the regime of\nCharge Resonance Enhanced Ionization (CREI) for the ground state molecular\nnitrogen cation. We show how ionization rates oscillate with oscillations of\nenvelope reflecting modulation of the population of the excited molecular\norbital. We observe the increase in ionization due to mechanisms analogous to\nCharge Resonance Enhanced Ionization (CREI) and also uncover also the time\nperiods of suppressed ionization. Electronic flux calculations illustrate these\nchanges and help reveal multiple ionization bursts which are for the first time\nreported for a multielectron non-stretched/ non-dissociating molecule.\nFurthermore, we discuss the effects of ultrafast intense laser pulses on the\nbonding properties of a nitrogen molecular ion in these conditions through\ndetailed analysis of electron density and electron density differences,\ntime-dependent average local energy, and time-dependent electron localization\nfunction. We illustrate the main characteristics of changes of the electron\ndensity that leads to laser induced dynamics of bonding and how the standard\ncriteria lead to the transient properties of double, triple, and lone pair\nbonding characteristics.",
+          "arxiv_id": "2508.10475v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Infrared spectra of (CO$_2$)$_2$-Rg trimers, Rg = Ne, Ar, Kr, and Xe",
+          "year": "2022-07",
+          "abstract": "High resolution spectra of (CO$_2$)$_2$-Rg trimers (Rg = Ne, Ar, Kr, and Xe)\nin the region of the CO2 nu3 fundamental (~2350 cm$^{-1}$) are reported, using\na tunable OPO laser source to probe a pulsed supersonic slit jet expansion.\nThese (CO$_2$)$_2$-Rg transitions tend to be hidden among stronger spectra due\nto other species, such as CO$_2$-Rg and (CO$_2$)$_2$. Each trimer consists of a\n(CO$_2$)$_2$ unit which is similar to the free carbon dioxide dimer (planar\nparallel staggered) plus an Rg atom located out-of-plane on the dimer C$_2$\nsymmetry axis, but the (CO$_2$)$_2$ unit may not remain exactly planar in the\ndimer. Experimental structures show that the C-Rg bond lengths in the trimers\nare similar to those in the corresponding CO$_2$-Rg dimers. As well, the\nvibrational band origin shifts, relative to (CO$_2$)$_2$ itself, are similar to\nthose of CO$_2$-Rg relative to CO$_2$.",
+          "arxiv_id": "2207.03042v1"
+        },
+        {
+          "title": "Infrared spectra of both isomers of CO$_2$-CO in the CO$_2$ $ν_3$ region",
+          "year": "2021-05",
+          "abstract": "Extensive infrared spectra of the weakly-bound CO$_2$-CO dimer are observed\nin the carbon dioxide $\\nu_3$ asymmetric stretch region (~2350 cm-1) using a\ntunable infrared OPO laser source to probe a pulsed slit jet supersonic\nexpansion. Both C-bonded and O-bonded isomers are analyzed for the normal\nisotopologue as well as for 13CO$_2$-CO and $^{16}$O$^{13}$C$^{18}$O-CO, the\nlatter being the first observation of an asymmetrically substituted form for\nwhich all values of Ka are allowed. Combination bands involving the lowest\nin-plane intermolecular bending modes are also studied for both isomers. Weak\nbands near 2337 cm-1 are assigned to CO$_2$ hot band transitions (v1, v2l2, v3)\n= (0111) <-- (0110), yielding the splitting of the degenerate CO$_2$ $\\nu_2$\nbend into in-plane and out-of-plane components due to the presence of the CO.\nThis splitting has rather different values for the C- and O- bonded isomers,\n4.56 and 1.59 cm-1, respectively, with the out-of-plane mode higher in energy\nthan the in-plane for both cases.",
+          "arxiv_id": "2105.13259v1"
+        },
+        {
+          "title": "Weakly-bound clusters of atmospheric molecules: infrared spectra and structural calculations of (CO$_2$)$_n$-(CO)$_m$-(N$_2$)$_p$, $(n, m, p)$ = (2, 1, 0), (2, 0, 1), (1, 2, 0), (1, 0, 2), (1, 1, 1), (1, 3, 0), (1, 0, 3), (1, 2, 1), (1, 1, 2)",
+          "year": "2022-02",
+          "abstract": "Structural calculations and high-resolution infrared spectra are reported for\ntrimers and tetramers containing CO$_2$ together with CO and/or N$_2$. Among\nthe 9 clusters studied here, only (CO$_2$)$_2$-CO was previously observed by\nhigh-resolution spectroscopy. The spectra, which occur in the region of the\n$\\nu_3$ fundamental of CO$_2$ (~2350 cm$^{-1}$), were recorded using a tunable\noptical parametric oscillator source to probe a pulsed supersonic slit jet\nexpansion. The trimers (CO$_2$)$_2$-CO and (CO$_2$)$_2$-N$_2$ have structures\nin which the CO or N$_2$ is aligned along the symmetry axis of a staggered\nside-by-side CO$_2$ dimer unit. The observation of two fundamental bands for\n(CO$_2$)$_2$-CO and (CO$_2$)$_2$-N$_2$ shows that this CO$_2$ dimer unit is\nnon-planar, unlike (CO$_2$)$_2$ itself. For the trimers CO$_2$-(CO)$_2$ and\nCO$_2$-(N$_2$)$_2$, the CO or N$_2$ monomers occupy equivalent positions in the\n'equatorial plane' of the CO$_2$, pointing toward its C atom. To form the\ntetramers CO$_2$-(CO)$_3$ and CO$_2$-(N$_2$)$_3$, a third CO or N$_2$ monomer\nis then added off to the 'side' of the first two. In the mixed tetramers\nCO$_2$-(CO)$_2$-N$_2$ and CO$_2$-CO-(N$_2$)$_2$, this 'side' position is taken\nby N2 and not CO. In addition to the fundamental bands, combination bands are\nalso observed for (CO$_2$)$_2$-CO, CO$_2$-(CO)$_2$, and CO$_2$-(N$_2$)$_2$,\nyielding some information about their low-frequency intermolecular vibrations.",
+          "arxiv_id": "2202.13233v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:00:26Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

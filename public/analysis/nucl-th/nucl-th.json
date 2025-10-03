@@ -1,0 +1,1786 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_collisions_heavy_ion_heavy ion",
+        "keywords": [
+          [
+            "collisions",
+            0.0247862477806038
+          ],
+          [
+            "heavy",
+            0.01807348746174752
+          ],
+          [
+            "ion",
+            0.015057610736323676
+          ],
+          [
+            "heavy ion",
+            0.014886395671946124
+          ],
+          [
+            "quark",
+            0.014016612057425873
+          ],
+          [
+            "model",
+            0.013777794802193013
+          ],
+          [
+            "QCD",
+            0.01348653256555616
+          ],
+          [
+            "ion collisions",
+            0.013477185617110752
+          ],
+          [
+            "heavy ion collisions",
+            0.01327794342523724
+          ],
+          [
+            "energy",
+            0.012976803139947955
+          ]
+        ],
+        "count": 4218
+      },
+      "1": {
+        "name": "1_nuclei_nuclear_model_energy",
+        "keywords": [
+          [
+            "nuclei",
+            0.022784054997410954
+          ],
+          [
+            "nuclear",
+            0.01955109113174529
+          ],
+          [
+            "model",
+            0.015833217039029297
+          ],
+          [
+            "energy",
+            0.015671574362717187
+          ],
+          [
+            "neutron",
+            0.014781194313835228
+          ],
+          [
+            "shell",
+            0.013863969229802722
+          ],
+          [
+            "calculations",
+            0.011636354884833892
+          ],
+          [
+            "experimental",
+            0.011556326263482465
+          ],
+          [
+            "states",
+            0.011482151263356007
+          ],
+          [
+            "alpha",
+            0.011355268884744321
+          ]
+        ],
+        "count": 2654
+      },
+      "2": {
+        "name": "2_neutron_matter_stars_star",
+        "keywords": [
+          [
+            "neutron",
+            0.04037201161866364
+          ],
+          [
+            "matter",
+            0.035815671274956565
+          ],
+          [
+            "stars",
+            0.03566334760739076
+          ],
+          [
+            "star",
+            0.03374497986201302
+          ],
+          [
+            "neutron star",
+            0.02684497009625863
+          ],
+          [
+            "neutron stars",
+            0.024114025135649596
+          ],
+          [
+            "mass",
+            0.02222975275796904
+          ],
+          [
+            "density",
+            0.017928170796027692
+          ],
+          [
+            "nuclear",
+            0.017458807244189977
+          ],
+          [
+            "state",
+            0.01732813901378637
+          ]
+        ],
+        "count": 1543
+      },
+      "3": {
+        "name": "3_production_parton_functions_gluon",
+        "keywords": [
+          [
+            "production",
+            0.020084391363351283
+          ],
+          [
+            "parton",
+            0.016725707114715955
+          ],
+          [
+            "functions",
+            0.016554085138194355
+          ],
+          [
+            "gluon",
+            0.016536482698298716
+          ],
+          [
+            "transverse",
+            0.016093936831423773
+          ],
+          [
+            "jet",
+            0.01532550553608337
+          ],
+          [
+            "momentum",
+            0.014769689857948607
+          ],
+          [
+            "small",
+            0.014197451342229765
+          ],
+          [
+            "proton",
+            0.014053614806796464
+          ],
+          [
+            "factorization",
+            0.014029232712183135
+          ]
+        ],
+        "count": 678
+      },
+      "4": {
+        "name": "4_states_state_meson_channel",
+        "keywords": [
+          [
+            "states",
+            0.027681056483041276
+          ],
+          [
+            "state",
+            0.01819180218755748
+          ],
+          [
+            "meson",
+            0.018161229972857212
+          ],
+          [
+            "channel",
+            0.016059600245082344
+          ],
+          [
+            "model",
+            0.015143812434566212
+          ],
+          [
+            "quark",
+            0.014917020431589647
+          ],
+          [
+            "mass",
+            0.014743870248119208
+          ],
+          [
+            "resonance",
+            0.014331576296338307
+          ],
+          [
+            "decay",
+            0.013532680032821239
+          ],
+          [
+            "MeV",
+            0.012767485189244166
+          ]
+        ],
+        "count": 675
+      },
+      "5": {
+        "name": "5_form_theory_scattering_nucleon",
+        "keywords": [
+          [
+            "form",
+            0.017601365924937253
+          ],
+          [
+            "theory",
+            0.016001078066094767
+          ],
+          [
+            "scattering",
+            0.012895140505515493
+          ],
+          [
+            "nucleon",
+            0.01269088168105005
+          ],
+          [
+            "states",
+            0.012289187021766427
+          ],
+          [
+            "form factors",
+            0.01195388622442836
+          ],
+          [
+            "energy",
+            0.011715539836745961
+          ],
+          [
+            "field",
+            0.011625060497608185
+          ],
+          [
+            "factors",
+            0.011563561264300488
+          ],
+          [
+            "quantum",
+            0.01094781210702138
+          ]
+        ],
+        "count": 501
+      },
+      "6": {
+        "name": "6_neutrino_beta_decay_beta decay",
+        "keywords": [
+          [
+            "neutrino",
+            0.05005679491813068
+          ],
+          [
+            "beta",
+            0.04958312997199496
+          ],
+          [
+            "decay",
+            0.027483720040926418
+          ],
+          [
+            "beta decay",
+            0.023842514999289053
+          ],
+          [
+            "nuclear",
+            0.023595766540153072
+          ],
+          [
+            "scattering",
+            0.018291185036395364
+          ],
+          [
+            "double",
+            0.01737857439920935
+          ],
+          [
+            "cross",
+            0.016314103831365407
+          ],
+          [
+            "double beta",
+            0.015812778150247203
+          ],
+          [
+            "neutrinos",
+            0.01563813893063895
+          ]
+        ],
+        "count": 433
+      },
+      "7": {
+        "name": "7_lattice_QCD_lattice QCD_pion",
+        "keywords": [
+          [
+            "lattice",
+            0.05552060560272948
+          ],
+          [
+            "QCD",
+            0.03836263842506176
+          ],
+          [
+            "lattice QCD",
+            0.03368604842158415
+          ],
+          [
+            "pion",
+            0.024051354590386865
+          ],
+          [
+            "quark",
+            0.01746126491366239
+          ],
+          [
+            "nucleon",
+            0.016791595644119413
+          ],
+          [
+            "mass",
+            0.014808709366170247
+          ],
+          [
+            "momentum",
+            0.014040468521861558
+          ],
+          [
+            "physical",
+            0.013775589809798212
+          ],
+          [
+            "distribution",
+            0.013160184679548242
+          ]
+        ],
+        "count": 298
+      },
+      "8": {
+        "name": "8_quantum_Quantum_gauge_Hamiltonian",
+        "keywords": [
+          [
+            "quantum",
+            0.08009623913576884
+          ],
+          [
+            "Quantum",
+            0.021252826472117438
+          ],
+          [
+            "gauge",
+            0.020343401313915037
+          ],
+          [
+            "Hamiltonian",
+            0.01889021034175099
+          ],
+          [
+            "systems",
+            0.01751939189296284
+          ],
+          [
+            "classical",
+            0.01664286395527728
+          ],
+          [
+            "algorithm",
+            0.016262743774100863
+          ],
+          [
+            "states",
+            0.01600910626247835
+          ],
+          [
+            "computers",
+            0.015737986519863863
+          ],
+          [
+            "qubits",
+            0.015572364191830215
+          ]
+        ],
+        "count": 271
+      },
+      "9": {
+        "name": "9_neutrino_process_nucleosynthesis_rates",
+        "keywords": [
+          [
+            "neutrino",
+            0.047535476880618495
+          ],
+          [
+            "process",
+            0.026907189642774037
+          ],
+          [
+            "nucleosynthesis",
+            0.02215957963684787
+          ],
+          [
+            "rates",
+            0.021079751515836787
+          ],
+          [
+            "neutrinos",
+            0.020113234067540217
+          ],
+          [
+            "reaction",
+            0.019887751351575098
+          ],
+          [
+            "flavor",
+            0.018392605394368187
+          ],
+          [
+            "nuclear",
+            0.01675512139265225
+          ],
+          [
+            "neutron",
+            0.015220183415399711
+          ],
+          [
+            "abundances",
+            0.014797799877401282
+          ]
+        ],
+        "count": 261
+      },
+      "10": {
+        "name": "10_deuteron_scattering_proton_nuclear",
+        "keywords": [
+          [
+            "deuteron",
+            0.033904224290774186
+          ],
+          [
+            "scattering",
+            0.025454687806581465
+          ],
+          [
+            "proton",
+            0.024767026506747957
+          ],
+          [
+            "nuclear",
+            0.020385806804337946
+          ],
+          [
+            "nucleon",
+            0.020240874516582203
+          ],
+          [
+            "cross",
+            0.01382630118987949
+          ],
+          [
+            "structure",
+            0.01261355701887701
+          ],
+          [
+            "data",
+            0.01196446091996076
+          ],
+          [
+            "radius",
+            0.011902792732915586
+          ],
+          [
+            "neutron",
+            0.011848821097395651
+          ]
+        ],
+        "count": 254
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6783648130019023,
+        -0.6661264171918988,
+        -0.3857530338986333,
+        -0.7052358746867642,
+        -0.4687679620288274,
+        -0.7315672928088179,
+        -0.6650340783587256,
+        -0.6824799094716731,
+        -0.7295291716986343,
+        -0.6890383941979639
+      ],
+      [
+        -0.6783648130019023,
+        1.0,
+        -0.6898965301790344,
+        -0.6883226806612953,
+        -0.6997667882789571,
+        -0.6469733903938729,
+        -0.6338540836599237,
+        -0.7352555157268037,
+        -0.7177160759995433,
+        -0.7078499038577404,
+        -0.5661885345768407
+      ],
+      [
+        -0.6661264171918988,
+        -0.6898965301790344,
+        1.0,
+        -0.6714077883883784,
+        -0.7344675797295661,
+        -0.6424007624347268,
+        -0.7064515187518502,
+        -0.7074874113869367,
+        -0.7213024381137809,
+        -0.6859693709979711,
+        -0.690545629451984
+      ],
+      [
+        -0.3857530338986333,
+        -0.6883226806612953,
+        -0.6714077883883784,
+        1.0,
+        -0.6972433363655839,
+        -0.2541202783282252,
+        -0.7090429847356003,
+        -0.6081755356670163,
+        -0.6896541458994706,
+        -0.7046205483345074,
+        -0.6417529724938873
+      ],
+      [
+        -0.7052358746867642,
+        -0.6997667882789571,
+        -0.7344675797295661,
+        -0.6972433363655839,
+        1.0,
+        -0.6749740212178318,
+        -0.7322637611973326,
+        -0.7024496210491682,
+        -0.705132579256372,
+        -0.7502910432044078,
+        -0.7064417766531073
+      ],
+      [
+        -0.4687679620288274,
+        -0.6469733903938729,
+        -0.6424007624347268,
+        -0.2541202783282252,
+        -0.6749740212178318,
+        1.0,
+        -0.6951106635659461,
+        -0.5923874599019877,
+        -0.6651229192917677,
+        -0.7143824674584053,
+        -0.5984134466707964
+      ],
+      [
+        -0.7315672928088179,
+        -0.6338540836599237,
+        -0.7064515187518502,
+        -0.7090429847356003,
+        -0.7322637611973326,
+        -0.6951106635659461,
+        1.0,
+        -0.7375016224880899,
+        -0.7304735392743338,
+        -0.45599774468202575,
+        -0.665680340945823
+      ],
+      [
+        -0.6650340783587256,
+        -0.7352555157268037,
+        -0.7074874113869367,
+        -0.6081755356670163,
+        -0.7024496210491682,
+        -0.5923874599019877,
+        -0.7375016224880899,
+        1.0,
+        -0.6846540298172734,
+        -0.7500532900355446,
+        -0.7089718288355487
+      ],
+      [
+        -0.6824799094716731,
+        -0.7177160759995433,
+        -0.7213024381137809,
+        -0.6896541458994706,
+        -0.705132579256372,
+        -0.6651229192917677,
+        -0.7304735392743338,
+        -0.6846540298172734,
+        1.0,
+        -0.7340461301250099,
+        -0.7102320245633691
+      ],
+      [
+        -0.7295291716986343,
+        -0.7078499038577404,
+        -0.6859693709979711,
+        -0.7046205483345074,
+        -0.7502910432044078,
+        -0.7143824674584053,
+        -0.45599774468202575,
+        -0.7500532900355446,
+        -0.7340461301250099,
+        1.0,
+        -0.7019531115928531
+      ],
+      [
+        -0.6890383941979639,
+        -0.5661885345768407,
+        -0.690545629451984,
+        -0.6417529724938873,
+        -0.7064417766531073,
+        -0.5984134466707964,
+        -0.665680340945823,
+        -0.7089718288355487,
+        -0.7102320245633691,
+        -0.7019531115928531,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        79,
+        14,
+        31,
+        7,
+        13,
+        14,
+        8,
+        12,
+        15,
+        6,
+        17
+      ],
+      "2020-02": [
+        70,
+        9,
+        27,
+        11,
+        10,
+        9,
+        12,
+        14,
+        14,
+        8,
+        5
+      ],
+      "2020-03": [
+        78,
+        18,
+        22,
+        18,
+        15,
+        10,
+        10,
+        23,
+        17,
+        4,
+        11
+      ],
+      "2020-04": [
+        81,
+        20,
+        36,
+        17,
+        17,
+        6,
+        10,
+        17,
+        16,
+        1,
+        22
+      ],
+      "2020-05": [
+        70,
+        23,
+        32,
+        22,
+        11,
+        8,
+        3,
+        18,
+        13,
+        4,
+        8
+      ],
+      "2020-06": [
+        72,
+        15,
+        38,
+        21,
+        16,
+        7,
+        10,
+        16,
+        15,
+        7,
+        19
+      ],
+      "2020-07": [
+        66,
+        14,
+        42,
+        16,
+        17,
+        13,
+        10,
+        20,
+        15,
+        5,
+        18
+      ],
+      "2020-08": [
+        66,
+        13,
+        28,
+        18,
+        14,
+        7,
+        9,
+        12,
+        20,
+        7,
+        21
+      ],
+      "2020-09": [
+        74,
+        20,
+        37,
+        17,
+        17,
+        6,
+        9,
+        19,
+        13,
+        9,
+        21
+      ],
+      "2020-10": [
+        68,
+        15,
+        37,
+        12,
+        10,
+        11,
+        14,
+        17,
+        13,
+        4,
+        15
+      ],
+      "2020-11": [
+        39,
+        18,
+        33,
+        8,
+        11,
+        9,
+        10,
+        17,
+        17,
+        4,
+        9
+      ],
+      "2020-12": [
+        65,
+        11,
+        35,
+        13,
+        4,
+        11,
+        11,
+        8,
+        11,
+        0,
+        20
+      ],
+      "2021-01": [
+        52,
+        10,
+        26,
+        10,
+        14,
+        8,
+        9,
+        10,
+        11,
+        4,
+        6
+      ],
+      "2021-02": [
+        44,
+        15,
+        24,
+        16,
+        18,
+        11,
+        14,
+        21,
+        10,
+        7,
+        18
+      ],
+      "2021-03": [
+        78,
+        11,
+        31,
+        18,
+        9,
+        9,
+        10,
+        14,
+        17,
+        11,
+        17
+      ],
+      "2021-04": [
+        48,
+        7,
+        36,
+        12,
+        9,
+        14,
+        10,
+        12,
+        20,
+        3,
+        11
+      ],
+      "2021-05": [
+        48,
+        18,
+        35,
+        12,
+        12,
+        7,
+        9,
+        6,
+        18,
+        4,
+        17
+      ],
+      "2021-06": [
+        61,
+        15,
+        36,
+        12,
+        10,
+        8,
+        10,
+        12,
+        18,
+        3,
+        17
+      ],
+      "2021-07": [
+        60,
+        16,
+        32,
+        12,
+        12,
+        8,
+        13,
+        14,
+        16,
+        3,
+        10
+      ],
+      "2021-08": [
+        52,
+        14,
+        24,
+        14,
+        13,
+        12,
+        7,
+        17,
+        16,
+        6,
+        18
+      ],
+      "2021-09": [
+        67,
+        8,
+        39,
+        7,
+        11,
+        18,
+        7,
+        7,
+        12,
+        5,
+        19
+      ],
+      "2021-10": [
+        52,
+        10,
+        38,
+        11,
+        13,
+        9,
+        10,
+        20,
+        15,
+        5,
+        10
+      ],
+      "2021-11": [
+        64,
+        22,
+        29,
+        16,
+        15,
+        12,
+        14,
+        19,
+        16,
+        4,
+        10
+      ],
+      "2021-12": [
+        66,
+        10,
+        46,
+        18,
+        12,
+        15,
+        10,
+        33,
+        22,
+        5,
+        7
+      ],
+      "2022-01": [
+        55,
+        17,
+        29,
+        15,
+        12,
+        9,
+        10,
+        10,
+        17,
+        2,
+        16
+      ],
+      "2022-02": [
+        41,
+        8,
+        33,
+        7,
+        10,
+        11,
+        16,
+        15,
+        18,
+        9,
+        11
+      ],
+      "2022-03": [
+        59,
+        16,
+        37,
+        21,
+        8,
+        9,
+        18,
+        7,
+        15,
+        3,
+        17
+      ],
+      "2022-04": [
+        46,
+        14,
+        29,
+        13,
+        12,
+        9,
+        8,
+        7,
+        19,
+        0,
+        12
+      ],
+      "2022-05": [
+        52,
+        12,
+        27,
+        12,
+        16,
+        5,
+        7,
+        17,
+        16,
+        6,
+        8
+      ],
+      "2022-06": [
+        50,
+        18,
+        32,
+        16,
+        12,
+        12,
+        9,
+        7,
+        10,
+        8,
+        14
+      ],
+      "2022-07": [
+        54,
+        13,
+        29,
+        16,
+        13,
+        14,
+        8,
+        13,
+        14,
+        6,
+        10
+      ],
+      "2022-08": [
+        67,
+        10,
+        29,
+        14,
+        20,
+        9,
+        6,
+        14,
+        16,
+        5,
+        8
+      ],
+      "2022-09": [
+        67,
+        11,
+        41,
+        13,
+        9,
+        11,
+        7,
+        19,
+        15,
+        6,
+        9
+      ],
+      "2022-10": [
+        53,
+        16,
+        26,
+        20,
+        11,
+        7,
+        11,
+        11,
+        17,
+        5,
+        15
+      ],
+      "2022-11": [
+        77,
+        13,
+        40,
+        17,
+        25,
+        10,
+        6,
+        17,
+        17,
+        7,
+        14
+      ],
+      "2022-12": [
+        51,
+        16,
+        28,
+        9,
+        14,
+        9,
+        9,
+        16,
+        22,
+        5,
+        9
+      ],
+      "2023-01": [
+        45,
+        10,
+        31,
+        10,
+        16,
+        9,
+        8,
+        4,
+        12,
+        5,
+        9
+      ],
+      "2023-02": [
+        48,
+        11,
+        26,
+        11,
+        7,
+        11,
+        12,
+        10,
+        16,
+        3,
+        12
+      ],
+      "2023-03": [
+        61,
+        12,
+        32,
+        15,
+        12,
+        7,
+        12,
+        7,
+        19,
+        5,
+        14
+      ],
+      "2023-04": [
+        51,
+        10,
+        25,
+        13,
+        8,
+        9,
+        15,
+        17,
+        19,
+        7,
+        8
+      ],
+      "2023-05": [
+        53,
+        12,
+        36,
+        18,
+        14,
+        10,
+        8,
+        18,
+        20,
+        6,
+        10
+      ],
+      "2023-06": [
+        59,
+        11,
+        38,
+        17,
+        13,
+        6,
+        11,
+        14,
+        15,
+        9,
+        10
+      ],
+      "2023-07": [
+        84,
+        9,
+        34,
+        21,
+        11,
+        14,
+        9,
+        17,
+        13,
+        9,
+        20
+      ],
+      "2023-08": [
+        66,
+        12,
+        38,
+        16,
+        11,
+        11,
+        14,
+        13,
+        16,
+        4,
+        15
+      ],
+      "2023-09": [
+        67,
+        16,
+        43,
+        11,
+        11,
+        8,
+        12,
+        11,
+        16,
+        2,
+        15
+      ],
+      "2023-10": [
+        71,
+        13,
+        24,
+        17,
+        9,
+        9,
+        13,
+        19,
+        14,
+        10,
+        12
+      ],
+      "2023-11": [
+        61,
+        13,
+        36,
+        21,
+        10,
+        9,
+        7,
+        19,
+        21,
+        5,
+        10
+      ],
+      "2023-12": [
+        78,
+        26,
+        42,
+        16,
+        24,
+        13,
+        10,
+        27,
+        16,
+        4,
+        16
+      ],
+      "2024-01": [
+        58,
+        14,
+        35,
+        30,
+        14,
+        8,
+        6,
+        22,
+        14,
+        4,
+        7
+      ],
+      "2024-02": [
+        56,
+        17,
+        29,
+        14,
+        8,
+        13,
+        13,
+        15,
+        23,
+        8,
+        19
+      ],
+      "2024-03": [
+        74,
+        12,
+        37,
+        18,
+        14,
+        7,
+        11,
+        11,
+        20,
+        2,
+        13
+      ],
+      "2024-04": [
+        49,
+        12,
+        27,
+        7,
+        14,
+        9,
+        9,
+        7,
+        22,
+        4,
+        15
+      ],
+      "2024-05": [
+        79,
+        20,
+        31,
+        10,
+        9,
+        17,
+        20,
+        8,
+        18,
+        5,
+        14
+      ],
+      "2024-06": [
+        53,
+        16,
+        30,
+        14,
+        6,
+        10,
+        9,
+        9,
+        14,
+        7,
+        12
+      ],
+      "2024-07": [
+        64,
+        11,
+        42,
+        15,
+        15,
+        15,
+        13,
+        17,
+        17,
+        2,
+        25
+      ],
+      "2024-08": [
+        59,
+        13,
+        38,
+        13,
+        14,
+        10,
+        14,
+        12,
+        17,
+        4,
+        10
+      ],
+      "2024-09": [
+        72,
+        10,
+        41,
+        20,
+        12,
+        11,
+        17,
+        14,
+        19,
+        8,
+        13
+      ],
+      "2024-10": [
+        61,
+        14,
+        39,
+        20,
+        20,
+        9,
+        9,
+        18,
+        13,
+        6,
+        21
+      ],
+      "2024-11": [
+        79,
+        23,
+        44,
+        17,
+        7,
+        8,
+        11,
+        18,
+        18,
+        6,
+        13
+      ],
+      "2024-12": [
+        69,
+        14,
+        43,
+        12,
+        15,
+        13,
+        15,
+        20,
+        16,
+        6,
+        13
+      ],
+      "2025-01": [
+        61,
+        14,
+        38,
+        8,
+        14,
+        7,
+        10,
+        21,
+        11,
+        3,
+        10
+      ],
+      "2025-02": [
+        61,
+        9,
+        28,
+        18,
+        13,
+        9,
+        13,
+        23,
+        15,
+        5,
+        11
+      ],
+      "2025-03": [
+        71,
+        25,
+        28,
+        18,
+        10,
+        12,
+        16,
+        20,
+        28,
+        8,
+        11
+      ],
+      "2025-04": [
+        89,
+        18,
+        30,
+        11,
+        7,
+        11,
+        12,
+        20,
+        19,
+        7,
+        15
+      ],
+      "2025-05": [
+        59,
+        15,
+        39,
+        11,
+        7,
+        13,
+        13,
+        19,
+        18,
+        8,
+        5
+      ],
+      "2025-06": [
+        72,
+        10,
+        40,
+        8,
+        11,
+        6,
+        13,
+        9,
+        34,
+        3,
+        18
+      ],
+      "2025-07": [
+        72,
+        12,
+        39,
+        24,
+        18,
+        11,
+        10,
+        25,
+        29,
+        5,
+        19
+      ],
+      "2025-08": [
+        89,
+        15,
+        33,
+        13,
+        8,
+        4,
+        16,
+        25,
+        16,
+        3,
+        15
+      ],
+      "2025-09": [
+        46,
+        3,
+        26,
+        12,
+        3,
+        8,
+        6,
+        10,
+        12,
+        2,
+        12
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The dijet mass distribution in heavy ion collisions",
+          "year": "2020-02",
+          "abstract": "In these proceedings, we review the production of both light and heavy flavor\ndijets in heavy ion collisions and highlight a promising observable to expose\ntheir distinct signatures. We propose the modification of dijet invariant mass\ndistributions in heavy ion collisions as a novel observable that exhibits\nstriking sensitivity to the quark-gluon plasma transport properties and heavy\nquark mass effects on in-medium parton showers. This observable has the\nadvantage of amplifying the effects of jet quenching in contrast to\nconventional observables, such as the dijet momentum imbalance shift, which\ninvolve cancellations of such effects and, hence, result in less pronounced\nsignals. Predictions are presented for Au+Au collisions at $\\sqrt{s_{NN}}$ =\n200 GeV to guide the future sPHENIX program at the Relativistic Heavy Ion\nCollider.",
+          "arxiv_id": "2002.12442v1"
+        },
+        {
+          "title": "Electromagnetic fields from the extended Kharzeev-McLerran-Warringa model in relativistic heavy-ion collisions",
+          "year": "2021-01",
+          "abstract": "Based on the Kharzeev-McLerran-Warringa (KMW) model that estimates strong\nelectromagnetic (EM) fields generated in relativistic heavy-ion collisions, we\ngeneralize the formulas of EM fields in the vacuum by incorporating the\nlongitudinal position dependence, the generalized charge distributions and\nretardation correction. We further generalize the formulas of EM fields in the\npure quark-gluon plasma (QGP) medium by incorporating a constant Ohm electric\nconductivity and also during the realistic early-time stages QGP evolution by\nusing a time-dependent electric conductivity. Using the extended KMW model, we\nobserve a slower time evolution and a more reasonable impact parameter $b$\ndependence of the magnetic field strength than those from the original KMW\nmodel in the vacuum. The inclusion of medium effects by using the lattice data\nhelps to further prolong the time evolution of magnetic field, such that the\nmagnetic field strength during the realistic QGP evolution at thermal\nfreeze-out time can meet the $1\\sigma$ bound constrained from experimentally\nmeasured difference in global polarizations of $\\Lambda$ and $\\bar{\\Lambda}$\nhyperons in Au+Au collisions at top RHIC energy. These generalized formulations\nin the extended KMW model will be potentially useful for many EM fields\nrelevant studies in heavy-ion collisions, especially at lower colliding\nenergies and for various species of colliding nuclei.",
+          "arxiv_id": "2101.09845v3"
+        },
+        {
+          "title": "Exploring Anisotropic flow via the Boltzmann Transport Equation Employing the Tsallis Blast Wave Description at LHC energies",
+          "year": "2023-09",
+          "abstract": "Anisotropic flows $i.e.$ azimuthal anisotropies in particle production are\none of the important probes in characterizing the properties of the strongly\ninteracting matter created in the relativistic heavy-ion collisions. These\nobservables are sensitive to both the transport properties as well as the\nequation of state (EOS) of Quantum Chromodynamics (QCD) matter. We have adopted\nthe Boltzmann transport equation (BTE) in the relaxation time approximation\n(RTA) to describe the experimental data for harmonic flows such as elliptic\nflow ($v_2$), triangular flow ($v_3$), quadrangular flow ($v_4$) obtained in\nheavy-ion collisions at Large Hadron Collider (LHC) energies. In this analysis,\nwe have used Tsallis statistics as an initial distribution and the Tsallis\nBlast wave (TBW) description is used as the equilibrium distribution function\nwhile describing the evolution of the particle production in BTE. We have\nfitted the transverse momentum spectra, $v_2$, $v_3$, and $v_4$ of identified\nhadrons such as pion, kaon, and proton for Pb-Pb and Xe-Xe collisions at the\nLHC energies of $\\sqrt{s_{NN}}$ = 5.02 TeV and $\\sqrt{s_{NN}}$ = 5.44 TeV,\nrespectively for various centralities. Our study offers a comparative analysis\nbetween the two distinct collision systems operating at comparable collision\nenergies. The present formulation successfully fits the experimental data for\n$p_T$-spectra upto $p_T$ = 8 GeV and effectively explains the anisotropic flows\ndata upto $p_T$ = 10 GeV with a very favourable $\\chi^2/ndf$. We observe that\nthe average transverse flow velocity ($<\\beta_r>$) and the kinetic freeze-out\ntemperature ($T$) extracted in our analysis decrease as we go towards the\nperipheral collisions. The azimuthal modulation amplitudes ($\\rho_a$) exhibit\nan increasing pattern as one moves from central to peripheral collisions in\nboth the Pb-Pb and Xe-Xe nuclei interactions.",
+          "arxiv_id": "2309.06128v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Collective-model description of shape coexistence and intruder states in cadmium isotopes based on a relativistic energy density functional",
+          "year": "2022-09",
+          "abstract": "Low-energy structure of even-even $^{108-116}$Cd isotopes is analyzed using a\ncollective model that is based on the nuclear density functional theory.\nSpectroscopic properties are computed by solving the triaxial quadrupole\ncollective Hamiltonian, with parameters determined by the constrained\nself-consistent mean-field calculations within the relativistic\nHartree-Bogoliubov method employing a universal energy density functional and a\npairing force. The collective Hamiltonian reproduces the observed quadrupole\nphonon states of vibrational character, which are based on the moderately\ndeformed equilibrium minimum in the mean-field potential energy surface. In\naddition, the calculation yields a low-lying excited $0^+$ band and a\n$\\gamma$-vibrational band that are associated with a deformed local minimum\nclose in energy to the ground state, consistently with the empirical\ninterpretation of these bands as intruder bands. Observed energy spectra,\n$B(E2)$, and $\\rho^2(E0)$ values are, in general, reproduced reasonably well.",
+          "arxiv_id": "2209.09463v2"
+        },
+        {
+          "title": "Microscopic description of fission in superheavy nuclei with the parametrization D1M$^{*}$ of the Gogny energy density functional",
+          "year": "2020-04",
+          "abstract": "The constrained Hartree-Fock-Bogoliubov approximation, based on the recent\nparametrization D1M$^{*}$ of the Gogny energy density functional, is used to\ndescribe fission in 435 superheavy nuclei. The Gogny-D1M$^{*}$ parametrization\nis benchmarked against available experimental data on inner and second barrier\nheights, excitation energies of the fission isomers and half-lives in a\nselected set of\n  Pu, Cm, Cf, Fm, No, Rf, Sg, Hs and Fl nuclei. Results are also compared with\nthose obtained with the Gogny-D1M energy density functional. A detailed study\nof the minimal energy fission paths is carried out for isotopic chains with\natomic numbers 100 $\\le$ Z $\\le$ 126 including very neutron-rich sectors up to\naround 4 MeV from the two-neutron driplines. Single-particle energies, ground\nstate deformations, pairing correlations, two-nucleon separation energies and\nbarrier heights are also discussed. In addition to fission paths, the\nconstrained Hartree-Fock-Bogoliubov framework provides collective masses and\nzero-point quantum rotational and vibrational energies. Those quantities are\nbuilding blocks within the Wentzel-Kramer-Brillouin formalism employed to\nevaluate the systematic of the spontaneous fission half-lives t$_\\mathrm{SF}$.\nThe competition between spontaneous fission and $\\alpha$-decay is studied,\nthrough the computation of the $\\alpha$-decay half-lives t$_\\mathrm{\\alpha}$\nusing a parametrization of the Viola-Seaborg formula. From the comparison with\nthe available experimental data and the results obtained with other theoretical\napproaches, it is concluded that D1M$^{*}$ represents a reasonable starting\npoint to describe fission in heavy and superheavy nuclei.",
+          "arxiv_id": "2004.04378v1"
+        },
+        {
+          "title": "Exploring the ground state bulk and decay properties of the nuclei in superheavy island",
+          "year": "2022-04",
+          "abstract": "The $\\alpha$-decay half-lives of 204 superheavy nuclei covering the range\n$114 \\leq Z \\leq 126$ have been investigated using the relativistic mean-field\nmodel (RMF) for NL3$^*$ parameter set. The ground state bulk properties such as\nbinding energy, quadrupole deformation parameter ($\\beta_2$ ), and\nroot-mean-square charge radii for these nuclei are analyzed. Four different\nsemi-empirical formulae, namely, the universal decay law (UDL), the\nViola-Seaborg (VSS) formula, the modified universal decay law (MUDL), and the\nmodified Brown formula (MBrown), are used to obtain the $\\alpha$-decay\nhalf-lives for the considered nuclei. To examine the applicability of\nrelativistic mean-field model within NL3$^*$ parametrization, the\n$\\alpha$-decay energies, and the half-lives of a few known superheavy nuclei\nwithin the range 102 $\\leq$ Z $\\leq$ 118 are calculated and the results are\ncompared with the experimental data along with the theoretical predictions. The\n$\\alpha$-decay energies ($Q$-values) are estimated from the binding energies of\nthe parent, and daughter from the RMF (NL3$^*$) parameter set. The calculated\nresults are compared with macroscopic-microscopic Finite-Range-Droplet-Model\n(FRDM), Global Nuclear Mass Model (WS3, WS4), Weizsacker-Skyrme mass model\n(WS$^*$) predictions, and the experimental data, wherever available. The\npossible standard deviations are also estimated for experimental and various\ntheoretical predictions. We find a good consistency for the\nexperimental-to-UDL, FRDM-to-UDL, and WS4-to-UDL estimates of the decay energy\nand corresponding half-life. The present analysis provides the theoretical\npredictions within the microscopic model for the upcoming experiments on the\nsuperheavy region.",
+          "arxiv_id": "2204.11173v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Constraining the dense matter equation of state with new NICER mass-radius measurements and new chiral effective field theory inputs",
+          "year": "2024-07",
+          "abstract": "Pulse profile modeling of X-ray data from NICER is now enabling precision\ninference of neutron star mass and radius. Combined with nuclear physics\nconstraints from chiral effective field theory ($\\chi$EFT), and masses and\ntidal deformabilities inferred from gravitational wave detections of binary\nneutron star mergers, this has lead to a steady improvement in our\nunderstanding of the dense matter equation of state (EOS). Here we consider the\nimpact of several new results: the radius measurement for the 1.42$\\,M_\\odot$\npulsar PSR J0437$-$4715 presented by Choudhury et al. (2024), updates to the\nmasses and radii of PSR J0740$+$6620 and PSR J0030$+$0451, and new $\\chi$EFT\nresults for neutron star matter up to 1.5 times nuclear saturation density.\nUsing two different high-density EOS extensions -- a piecewise-polytropic (PP)\nmodel and a model based on the speed of sound in a neutron star (CS) -- we find\nthe radius of a 1.4$\\,M_\\odot$ (2.0$\\,M_\\odot$) neutron star to be constrained\nto the 95% credible ranges $12.28^{+0.50}_{-0.76}\\,$km\n($12.33^{+0.70}_{-1.34}\\,$km) for the PP model and $12.01^{+0.56}_{-0.75}\\,$km\n($11.55^{+0.94}_{-1.09}\\,$km) for the CS model. The maximum neutron star mass\nis predicted to be $2.15^{+0.14}_{-0.16}\\,$$M_\\odot$ and\n$2.08^{+0.28}_{-0.16}\\,$$M_\\odot$ for the PP and CS model, respectively. We\nexplore the sensitivity of our results to different orders and different\ndensities up to which $\\chi$EFT is used, and show how the astrophysical\nobservations provide constraints for the pressure at intermediate densities.\nMoreover, we investigate the difference $R_{2.0} - R_{1.4}$ of the radius of\n2$\\,M_\\odot$ and 1.4$\\,M_\\odot$ neutron stars within our EOS inference.",
+          "arxiv_id": "2407.06790v2"
+        },
+        {
+          "title": "Constraints on the dense matter equation of state and neutron star properties from NICER's mass-radius estimate of PSR J0740+6620 and multimessenger observations",
+          "year": "2021-05",
+          "abstract": "In recent years our understanding of the dense matter equation of state (EOS)\nof neutron stars has significantly improved by analyzing multimessenger data\nfrom radio/X-ray pulsars, gravitational wave events, and from nuclear physics\nconstraints. Here we study the additional impact on the EOS from the jointly\nestimated mass and radius of PSR J0740+6620, presented in Riley et al. (2021)\nby analyzing a combined dataset from X-ray telescopes NICER and XMM-Newton. We\nemploy two different high-density EOS parameterizations: a piecewise-polytropic\n(PP) model and a model based on the speed of sound in a neutron star (CS). At\nnuclear densities these are connected to microscopic calculations of neutron\nmatter based on chiral effective field theory interactions. In addition to the\nnew NICER data for this heavy neutron star, we separately study constraints\nfrom the radio timing mass measurement of PSR J0740+6620, the gravitational\nwave events of binary neutron stars GW190425 and GW170817, and for the latter\nthe associated kilonova AT2017gfo. By combining all these, and the NICER\nmass-radius estimate of PSR J0030+0451 we find the radius of a 1.4 solar mass\nneutron star to be constrained to the 95% credible ranges 12.33^{+0.76}_{-0.81}\nkm (PP model) and 12.18^{+0.56}_{-0.79} km (CS model). In addition, we explore\ndifferent chiral effective field theory calculations and show that the new\nNICER results provide tight constraints for the pressure of neutron star matter\nat around twice saturation density, which shows the power of these observations\nto constrain dense matter interactions at intermediate densities.",
+          "arxiv_id": "2105.06981v2"
+        },
+        {
+          "title": "Delta baryons and diquark formation in the cores of neutron stars",
+          "year": "2020-08",
+          "abstract": "We investigate the hadron-quark phase transition in cold neutron stars in\nlight of (i) the observed limits on the maximum-mass of heavy pulsars, (ii)\nconstraints on the tidal properties inferred from the gravitational waves\nemitted in binary neutron-star mergers, and (iii) mass and radius constraints\nderived from the observation of hot spots on neutron star observed with NICER.\nSpecial attention is directed to the possible presence of $\\Delta(1232)$\nbaryons in neutron star matter. Our results indicate that this particle could\nmake up a large fraction of the baryons in neutron stars and thus have a\nsignificant effect on the properties of such objects, particularly on their\nradii. This is partially caused by the low density appearance of $\\Delta$s for\na wide range of theoretically defensible sets of meson-hyperon, SU(3) ESC08\nmodel, and meson-$\\Delta$ coupling constants. The transition of hadronic matter\nto quark matter, treated in the 2SC+s condensation phase, is found to occur\nonly in neutron stars very close to the mass peak. Nevertheless, quark matter\nmay still constitute an appreciable fraction of the stars' total matter if the\nphase transition is treated as Maxwell-like (sharp), in which case the neutron\nstars located beyond the gravitational mass peak would remain stable against\ngravitational collapse. In this case, the instability against gravitational\ncollapse is shifted to a new (terminal) mass different from the maximum-mass of\nthe stellar sequence, giving rise to stable compact objects with the same\ngravitational masses as those of the neutron stars on the traditional branch,\nbut whose radii are smaller by up to 1 km. All models for the equation of state\nof our study fall comfortably within the bound established very recently by\nAnnala {\\it et al.} (Nature Physics, 2020)",
+          "arxiv_id": "2008.06459v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Simultaneous Monte Carlo analysis of parton densities and fragmentation functions",
+          "year": "2021-01",
+          "abstract": "We perform a comprehensive new Monte Carlo analysis of high-energy\nlepton-lepton, lepton-hadron and hadron-hadron scattering data to\nsimultaneously determine parton distribution functions (PDFs) in the proton and\nparton to hadron fragmentation functions (FFs). The analysis includes all\navailable semi-inclusive deep-inelastic scattering and single-inclusive $e^+\ne^-$ annihilation data for pions, kaons and unidentified charged hadrons, which\nallows the flavor dependence of the fragmentation functions to be constrained.\nEmploying a new multi-step fitting strategy and more flexible parametrizations\nfor both PDFs and FFs, we assess the impact of different data sets on sea quark\ndensities, and confirm the previously observed suppression of the strange quark\ndistribution. The new fit, which we refer to as \"JAM20-SIDIS\", will allow for\nimproved studies of universality of parton correlation functions, including\ntransverse momentum dependent (TMD) distributions, across a wide variety of\nprocess, and the matching of collinear to TMD factorization descriptions.",
+          "arxiv_id": "2101.04664v2"
+        },
+        {
+          "title": "First study of polarized proton-proton scattering with small-$x$ helicity evolution",
+          "year": "2025-03",
+          "abstract": "We perform a phenomenological study of helicity-dependent parton distribution\nfunctions (PDFs) using small-$x$ helicity evolution equations, incorporating\nfor the first time single-inclusive jet production data in polarized\nproton-proton ($pp$) scattering at parton momentum fractions $x < 0.1$. We also\nsimultaneously include double-longitudinal spin asymmetries in inclusive and\nsemi-inclusive deep-inelastic scattering probing $x < 0.1$. Employing the\npolarized small-$x$ pure-glue calculation of $pp\\to gX$ for the jet production\ncross section, we modify the large-$N_c\\&N_f$ KPS-CTT evolution equations by\nsetting $N_f = 0$ to replicate the large-$N_c$ (pure-glue) limit, while\nretaining external quark flavors for the spinor field operators. We find that\nthe $pp$ data have a considerable impact on the helicity PDFs at small $x$,\nreducing their uncertainties and leading to a total quark and gluon helicity in\nthe proton for $x < 0.1$ of $-0.04 \\pm 0.23$. Combining our analysis with the a\nrecent JAM helicity PDF analysis of the world polarized data, which includes $x\n> 0.1$, we find a total quark and gluon helicity contribution for $x > 10^{-7}$\nof between 0.02 and 0.51.",
+          "arxiv_id": "2503.21006v1"
+        },
+        {
+          "title": "Dihadron correlations in small-$x$ DIS at NLO: transverse momentum dependent fragmentation",
+          "year": "2024-05",
+          "abstract": "We compute inclusive dihadron cross-section in Deep Inelastic Scattering at\nnext-to-leading order (NLO) and small $x$ in the Color Glass Condensate. We\nfocus on the kinematic limit where the hadrons are produced at forward\nrapidities (in the direction of the virtual photon) and back-to-back in the\ntransverse plane. Our calculation demonstrates that the coefficient of the\nSudakov double logarithm for this process is\n$-\\frac{\\alpha_s}{2\\pi}\\left[C_F+\\frac{N_c}{2}\\right]$ instead of\n$-\\frac{\\alpha_s N_c}{4\\pi}$ when back-to-back jets are measured in the final\nstate. To preserve the universality of the Sudakov soft factor associated with\nthe Weizs\\\"{a}cker-Williams transverse momentum dependent (TMD) gluon\ndistribution, we promote the collinear fragmentation functions into TMD\nfragmentation functions. We then perform the resummation of the Sudakov\nlogarithms through Collins-Soper-Sterman evolution of the TMD fragmentation\nfunctions and the Weizs\\\"{a}cker-Williams TMD gluon distribution. Finally,\nanalytic expressions are obtained for the NLO coefficient functions in the\n$\\overline{\\rm MS}$-scheme. These results pave the way towards numerically\ncalculating dihadron correlations at small $x$ at the future Electron-Ion\nCollider with full NLO accuracy.",
+          "arxiv_id": "2405.19404v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Bottomonium-like tetraquarks in a chiral quark model",
+          "year": "2022-04",
+          "abstract": "The low-lying bottomonium-like tetraquarks $b\\bar{b}q\\bar{q}$ $(q=u,\\,d,\\,s)$\nwith spin-parity $J^P=0^+$, $1^+$ and $2^+$, and isospin $I=0,\\,1$ or\n$\\frac{1}{2}$, are systematically investigated within the theoretical framework\nof real- and complex-scaling range of a chiral quark model, which has already\nbeen successfully applied in analysis of several multiquark systems. A complete\nfour-body $S$-wave function, which includes meson-meson, diquark-antidiquark\nand K-type arrangements of quarks, along with all possible color configurations\nare considered. In the $b\\bar{b}q\\bar{q}$ $(q=u,\\,d)$ tetraquark system, we\nfound resonance states of $B^{(*)} \\bar{B}^{(*)}$, $\\Upsilon\\omega$,\n$\\Upsilon\\rho$ and $\\eta_b \\rho$ nature with all possible $I(J^P)$ quantum\nnumbers. Their masses are generally located in the energy range $11.0-11.3$ GeV\nand their widths are less than $10$ MeV. In addition, extremely narrow\nresonances, with two-meson strong decay widths less than $1.5$ MeV, are\nobtained in both $b\\bar{b}u\\bar{s}$ and $b\\bar{b}s\\bar{s}$ tetraquark systems.\nParticularly, four radial excitations of $\\Upsilon K^*$ and $\\eta_b K^*$ are\nfound at $\\sim11.1$ GeV in $J^P=0^+$, $1^+$ and $2^+$ channels of\n$b\\bar{b}u\\bar{s}$ system. One $\\Upsilon(1S)\\phi(2S)$ resonance state is\nobtained at $11.28$ GeV in the $J^P=1^+$ sector.",
+          "arxiv_id": "2204.08556v1"
+        },
+        {
+          "title": "Diffusion Monte Carlo calculations of fully-heavy (multiquark) bound states",
+          "year": "2020-09",
+          "abstract": "We use a diffusion Monte Carlo method to solve the many-body Schr\\\"odinger\nequation describing fully-heavy tetraquark systems. This approach allows to\nreduce the uncertainty of the numerical calculation at the percent level,\naccounts for multi-particle correlations in the physical observables, and\navoids the usual quark-clustering assumed in other theoretical techniques\napplied to the same problem. The interaction between particles was modeled by\nthe most general and accepted potential, i.e. a pairwise interaction including\nCoulomb, linear-confining and hyperfine spin-spin terms. This means that, in\nprinciple, our analysis should provide some rigorous statements about the mass\nlocation of the all-heavy tetraquark ground states, which is particularly\ntimely due to the very recent observation made by the LHCb collaboration of\nsome enhancements in the invariant mass spectra of $J/\\psi$-pairs. Our main\nresults are: (i) the $cc\\bar c\\bar c$, $cc\\bar b\\bar b$ ($bb\\bar c\\bar c$) and\n$bb\\bar b \\bar b$ lowest-lying states are located well above their\ncorresponding meson-meson thresholds; (ii) the $J^{PC}=0^{++}$ $cc\\bar c\\bar c$\nground state with preferred quark-antiquark pair configurations is compatible\nwith the enhancement(s) observed by the LHCb collaboration; (iii) our results\nfor the $cc\\bar c\\bar b$ and $bb\\bar c\\bar b$ sectors seem to indicate that the\n$0^+$ and $1^+$ ground states are almost degenerate with the $2^+$ located\naround $100\\,\\text{MeV}$ above them; (iv) smaller mass splittings for the\n$cb\\bar c\\bar b$ system are predicted, with absolute mass values in reasonable\nagreement with other theoretical works; (v) the $1^{++}$ $cb\\bar c\\bar b$\ntetraquark ground state lies at its lowest $S$-wave meson-meson threshold and\nit is compatible with a molecular configuration.",
+          "arxiv_id": "2009.11889v1"
+        },
+        {
+          "title": "Doubly heavy tetraquark bound and resonant states",
+          "year": "2024-09",
+          "abstract": "We calculate the energy spectrum of the S-wave doubly heavy tetraquark\nsystems, including the $ QQ^{(\\prime)}\\bar q\\bar q$, $QQ^{(\\prime)}\\bar s\\bar\nq$, and $ QQ^{(\\prime)}\\bar s\\bar s$ ($Q^{(\\prime)}=b,c$ and $q=u,d$) systems\nwithin the constituent quark model. We use the complex scaling method to obtain\nbound states and resonant states simultaneously, and the Gaussian expansion\nmethod to solve the complex-scaled four-body Schr\\\"odinger equation. With a\nnovel definition of the root-mean-square radii, we are able to distinguish\nbetween meson molecules and compact tetraquark states. The compact tetraquarks\nare further classified into three different types with distinct spatial\nconfigurations: compact even tetraquarks, compact diquark-antidiquark\ntetraquarks and compact diquark-centered tetraquarks. In the $ I(J^P)=0(1^+) $\n$QQ\\bar q\\bar q$ system, there exists the $ D^*D $ molecular bound state with a\nbinding energy of $ -14 $ MeV, which is the candidate for $ T_{cc}(3875)^+ $.\nThe shallow $\\bar B^*\\bar B$ molecular bound state is the bottom analog of\n$T_{cc}(3875)^+$. Moreover, we identify two resonant states near the $D^*D^*$\nand $\\bar B^*\\bar B^*$ thresholds. In the $ J^P=1^+ $ $bb\\bar q\\bar q\\,(I=0)$\nand $bb\\bar s\\bar q$ systems, we obtain deeply bound states with a compact\ndiquark-centered tetraquark configuration and a dominant $\\chi_{\\bar 3_c\\otimes\n3_c}$ component, along with resonant states with similar configurations as\ntheir radial excitations. These states are the QCD analog of the helium atom.\nWe also obtain some other bound states and resonant states with ``QCD hydrogen\nmolecule\" configurations. Moreover, we investigate the heavy quark mass\ndependence of the $ I(J^P)=0(1^+) $ $ QQ\\bar q\\bar q $ bound states. We\nstrongly urge the experimental search for the predicted states.",
+          "arxiv_id": "2409.03373v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Two-Meson Form Factors in Unitarized Chiral Perturbation Theory",
+          "year": "2020-11",
+          "abstract": "We present a comprehensive analysis of form factors for two light\npseudoscalar mesons induced by scalar, vector, and tensor quark operators. The\ntheoretical framework is based on a combination of unitarized chiral\nperturbation theory and dispersion relations. The low-energy constants in\nchiral perturbation theory are fixed by a global fit to the available data of\nthe two-meson scattering phase shifts. Each form factor derived from unitarized\nchiral perturbation theory is improved by iteratively applying a dispersion\nrelation. This study updates the existing results in the literature and\nexplores those that have not been systematically studied previously, in\nparticular the two-meson tensor form factors within unitarized chiral\nperturbation theory. We also discuss the applications of these form factors as\nmandatory inputs for low-energy phenomena, such as the semi-leptonic decays\n$B_s\\to \\pi^+\\pi^-\\ell^+\\ell^-$ and the $\\tau$ lepton decay\n$\\tau\\rightarrow\\pi^{-}\\pi^{0}\\nu_{\\tau}$, in searches for physics beyond the\nStandard Model.",
+          "arxiv_id": "2011.00921v2"
+        },
+        {
+          "title": "Dispersion relation for hadronic light-by-light scattering: subleading contributions",
+          "year": "2024-11",
+          "abstract": "In this work, we present an evaluation of subleading effects in the hadronic\nlight-by-light contribution to the anomalous magnetic moment of the muon. Using\na recently derived optimized basis, we first study the matching of axial-vector\ncontributions to short-distance constraints at the level of the scalar basis\nfunctions, finding that also the tails of the pseudoscalar poles and tensor\nmesons play a role. We then develop a matching strategy that allows for a\ncombined evaluation of axial-vector and short-distance constraints,\nsupplemented by an estimate of tensor-meson contributions based on simplified\nassumptions for their transition form factors. Uncertainties are primarily\npropagated from the axial-vector transition form factors and the variation of\nthe matching scale, but we also consider estimates of the low-energy effect of\nhadronic states not explicitly included. In total, we obtain\n$a_\\mu^\\text{HLbL}\\big|_\\text{subleading}=33.2(7.2)\\times 10^{-11}$, which in\ncombination with previously evaluated contributions in the dispersive approach\nleads to $a_\\mu^\\text{HLbL}\\big|_\\text{total}=101.9(7.9)\\times 10^{-11}$.",
+          "arxiv_id": "2412.00178v2"
+        },
+        {
+          "title": "Gravitational form factors of the nucleon and one pion graviproduction in chiral EFT",
+          "year": "2023-12",
+          "abstract": "In the framework of chiral effective field theory of delta resonances,\nnucleons and pions interacting with background gravitational field we calculate\nthe gravitational form factors of the nucleon up to fourth order in the small\nscale expansion and obtain the long-range behavior of the corresponding\ncontributions to the energy, spin, pressure and shear force distributions. By\ncomparing nucleon gravitational form factors with and without delta\ncontributions we conclude that explicit inclusion of deltas plays an important\nrole. Next we explore the Lorentz structure of the $N \\mapsto N \\pi$ transition\nmatrix element of the conserved symmetric energy-momentum tensor and introduce\nits parametrization in terms of twelve transition form factors. We use the\nchiral effective field theory to calculate the tree-order contributions to the\ngravitational transition form factors of the pion graviproduction off the\nnucleon up to third order.",
+          "arxiv_id": "2312.09675v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Virtual Majorana Neutrinos and the Minimum Neutrino Mass Scale in Neutrinoless Double-Beta Decay",
+          "year": "2025-03",
+          "abstract": "Virtual Majorana neutrinos are indispensable for neutrinoless double-beta\n(0$\\nu\\beta\\beta$) decay. In this study, we demonstrate that the overlap of the\nvirtual Majorana neutrino wavefunction, predominantly composed of a\nright-handed antineutrino component with a strongly suppressed left-handed\ncomponent (with amplitude proportional to the effective Majorana neutrino mass,\n$|m_{\\beta\\beta}|$, is crucial for triggering this decay process. This\neffective mass, derived from the minimum neutrino mass, offers valuable\ninsights into the absolute neutrino mass scale. Using best-fit parameters from\nneutrino oscillation experiments, the minimum neutrino mass is determined from\nthe sum of the three neutrino mass eigenstates, $\\Sigma = m_1 + m_2 + m_3,$\nwhich is represented by two narrow bands centered at approximately 0.06\neV/c$^2$ for the normal hierarchy (NH) and 0.102 eV/c$^2$ for the inverted\nhierarchy (IH). Under these constraints, the minimum neutrino mass is found to\nbe 0.001186 eV/c$^2$ for NH and 0.002646 eV/c$^2$ for IH, thereby establishing\na potential absolute neutrino mass scale for both scenarios. From these values,\nwe calculate $|m_{\\beta\\beta}|$, which plays a central role in $0\\nu\\beta\\beta$\ndecay. By combining $|m_{\\beta\\beta}|$ with decay phase-space factors, nuclear\nmatrix elements, and the absorption probability of the virtual Majorana\nneutrino, we estimate the $0\\nu\\beta\\beta$ half-life for key isotopes, namely,\n$^{76}$Ge, $^{130}$Te, and $^{136}$Xe, using two independent methods. The\nresults are in good agreement, and we also discuss the uncertainties in the\nnuclear matrix elements that may affect these calculations.",
+          "arxiv_id": "2503.16650v1"
+        },
+        {
+          "title": "Vertex correction to nuclear matrix elements of double-$β$ decays",
+          "year": "2024-08",
+          "abstract": "The predicted neutrinoless double-$\\beta$ ($0\\nu\\beta\\beta$) decay is the\ncrucial phenomenon to prove the existence of the Majorana neutrino, which gives\na foundation to leptogenesis to explain the matter prevalence of the universe.\nThe nuclear matrix element (NME) of $0\\nu\\beta\\beta$ decay is an important\ntheoretical quantity to determine the effective neutrino mass and help the\ndetector design for the next generation of the $0\\nu\\beta\\beta$ decay search.\nReliable calculation of this NME is a long-standing problem because of the\ndiversity of the predicted values of the NME. The main reason for this\ndifficulty is that the effective strength of the Gamow-Teller transition\noperator $g_A$ for this decay is unknown. I will show the lowest-order vertex\ncorrections for the $0\\nu\\beta\\beta$ and the $2\\nu\\beta\\beta$ NME of $^{136}$Xe\nin the framework of the hybrid application of the quantum field theory to the\nleptons and the Rayleigh-Schr\\\"{o}dinger perturbation to the nucleus. The\nunperturbed nuclear states are obtained by the quasiparticle random-phase\napproximation. These corrections reduce the $0\\nu\\beta\\beta$ NME by 30%. The\neffective $g_A$ referring to this reduced NME is also obtained, and it is shown\nfor the first time that the effective $g_A$ for the $0\\nu\\beta\\beta$ NME is not\nquite different from that for the $2\\nu\\beta\\beta$ NME; the difference is only\n10%. This indicates the possibility that the phenomenological effective $g_A$\nto reproduce the experimental half-life of the $2\\nu\\beta\\beta$ decay can be\napproximately used for the calculation of the $0\\nu\\beta\\beta$ NME.",
+          "arxiv_id": "2408.13254v3"
+        },
+        {
+          "title": "Neutrinoless double-beta decay in the neutrino-extended Standard Model",
+          "year": "2023-03",
+          "abstract": "We investigate neutrinoless double-beta decay ($0\\nu\\beta\\beta$) in the\nminimal extension of the standard model of particle physics, the $\\nu$SM, where\ngauge-singlet right-handed neutrinos give rise to Dirac and Majorana neutrino\nmass terms. We focus on the associated sterile neutrinos and argue that the\nusual evaluation of their contributions to $0\\nu\\beta\\beta$, based on\nmass-dependent nuclear matrix elements, is missing important contributions from\nneutrinos with ultrasoft and hard momenta. We identify the hadronic and nuclear\nmatrix elements that enter the new contributions, and calculate all relevant\nnuclear matrix elements for $^{136}$Xe using the nuclear shell model. Finally,\nwe illustrate the impact on $0\\nu\\beta\\beta$ rates in specific neutrino mass\nmodels and show that the new contributions significantly alter the\n$0\\nu\\beta\\beta$ rate in most parts of the $\\nu$SM parameter space.",
+          "arxiv_id": "2303.04168v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Probing nucleon strange and charm distributions with lattice QCD",
+          "year": "2020-05",
+          "abstract": "We present the first lattice-QCD calculation of the unpolarized strange and\ncharm parton distribution functions using large-momentum effective theory\n(LaMET). We use a lattice ensemble with 2+1+1 flavors of highly improved\nstaggered quarks (HISQ) generated by MILC collaboration, with lattice spacing\n$a\\approx 0.12$ fm and $M_\\pi \\approx 310$ MeV, and clover valence fermions\nwith two valence pion masses: 310 and 690 MeV. We use momentum-smeared sources\nto improve the signal up to nucleon boost momentum $P_z=2.18$ GeV, and\ndetermine nonperturbative renormalization factors in RI/MOM scheme. We compare\nour lattice results with the matrix elements obtained from matching the PDFs\nfrom CT18NNLO and NNPDF3.1NNLO global fits. Our data support the assumptions of\nstrange-antistrange and charm-anticharm symmetry that are commonly used in\nglobal PDF fits, and we find smaller than expected parton distribution at mid\nto small $x$.",
+          "arxiv_id": "2005.01124v1"
+        },
+        {
+          "title": "Pion and Kaon Distribution Amplitudes in the Continuum Limit",
+          "year": "2020-05",
+          "abstract": "We present a lattice-QCD calculation of the pion, kaon and $\\eta_s$\ndistribution amplitudes using large-momentum effective theory (LaMET). Our\ncalculation is carried out using three ensembles with 2+1+1 flavors of highly\nimproved staggered quarks (HISQ), generated by MILC collaboration, at 310 MeV\npion mass with 0.06, 0.09 and 0.12 fm lattice spacings. We use clover fermion\naction for the valence quarks and tune the quark mass to match the lightest\nlight and strange masses in the sea. The resulting lattice matrix elements are\nnonperturbatively renormalized in regularization-independent\nmomentum-subtraction (RI/MOM) scheme and extrapolated to the continuum. We use\ntwo approaches to extract the $x$-dependence of the meson distribution\namplitudes: 1) we fit the renormalized matrix elements in coordinate space to\nan assumed distribution form through a one-loop matching kernel; 2) we use a\nmachine-learning algorithm trained on pseudo lattice-QCD data to make\npredictions on the lattice data. We found the results are consistent between\nthese methods with the latter method giving a less smooth shape. Both\napproaches suggest that as the quark mass increases, the distribution amplitude\nbecomes narrower. Our pion distribution amplitude has broader distribution than\npredicted by light-front constituent-quark model, and the moments of our pion\ndistributions agree with previous lattice-QCD results using the operator\nproduction expansion.",
+          "arxiv_id": "2005.13955v1"
+        },
+        {
+          "title": "Gluon Parton Distribution of the Nucleon from 2+1+1-Flavor Lattice QCD in the Physical-Continuum Limit",
+          "year": "2022-10",
+          "abstract": "We present the first physical-continuum limit $x$-dependent nucleon gluon\ndistribution from lattice QCD using the pseudo-PDF approach, on lattice\nensembles with $2+1+1$ flavors of highly improved staggered quarks (HISQ),\ngenerated by MILC Collaboration. We use clover fermions for the valence action\non three lattice spacings $a \\approx 0.9$, 0.12 and 0.15~fm and three pion\nmasses $M_\\pi \\approx 220$, 310 and 690~MeV, with nucleon two-point\nmeasurements numbering up to $O(10^6)$ and nucleon boost momenta up to 3~GeV.\nWe study the lattice-spacing and pion-mass dependence of the reduced pseudo-ITD\nmatrix elements obtained from the lattice calculation, then extrapolate them to\nthe continuum-physical limit before extracting $xg(x)/\\langle x \\rangle_g$. We\nuse the gluon momentum fraction $\\langle x \\rangle_g$ calculated from the same\nensembles to determine the nucleon gluon unpolarized PDF $xg(x)$ for the first\ntime entirely through lattice-QCD simulation. We compare our results with\nprevious single-ensemble lattice calculations, as well as selected global fits.",
+          "arxiv_id": "2210.09985v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "Quantum-classical simulation of quantum field theory by quantum circuit learning",
+          "year": "2023-11",
+          "abstract": "We employ quantum circuit learning to simulate quantum field theories (QFTs).\nTypically, when simulating QFTs with quantum computers, we encounter\nsignificant challenges due to the technical limitations of quantum devices when\nimplementing the Hamiltonian using Pauli spin matrices. To address this\nchallenge, we leverage quantum circuit learning, employing a compact\nconfiguration of qubits and low-depth quantum circuits to predict real-time\ndynamics in quantum field theories. The key advantage of this approach is that\na single-qubit measurement can accurately forecast various physical parameters,\nincluding fully-connected operators. To demonstrate the effectiveness of our\nmethod, we use it to predict quench dynamics, chiral dynamics and jet\nproduction in a 1+1-dimensional model of quantum electrodynamics. We find that\nour predictions closely align with the results of rigorous classical\ncalculations, exhibiting a high degree of accuracy. This hybrid\nquantum-classical approach illustrates the feasibility of efficiently\nsimulating large-scale QFTs on cutting-edge quantum devices.",
+          "arxiv_id": "2311.16297v1"
+        },
+        {
+          "title": "QCSH: a Full Quantum Computer Nuclear Shell-Model Package",
+          "year": "2022-05",
+          "abstract": "Nucleus is a typical many-body quantum system. Full calculation of a nuclear\nsystem in a classical computer is far beyond the capacity of current classical\ncomputers. With fast development of hardware, the prospect of using quantum\ncomputers in nuclear physics is closing. Here, we report a full quantum\npackage, QCSH, for solving nuclear shell-model in a quantum computer. QCSH uses\nthe linear combination of unitaries formalism of quantum computing, and\nperforms all calculations in a quantum computer. The complexities of qubit\nresource, number of basic gates of QCSH, are both polynomial to the nuclear\nsize. QCSH can already provide meaningful results in the near term. As\nexamples, the binding energies of twelve light nuclei, $^{2}$H, $^{3}$H,\n$^{3}$He, $^{4}$He, $^{6}$Li, $^{7}$Li, $^{12}$C, $^{14}$N, $^{16}$O, $^{17}$O,\n$^{23}$Na and $^{40}$Ca are calculated using QCSH in a classical quantum\nemulator. The binding energy of Deuteron has already been experimentally\nstudied using QCSH on a superconducting quantum computing device. QCSH not only\nworks in near-term quantum devices, but also in future large-scale quantum\ncomputers. With the development of quantum devices, nuclear system constitutes\nanother promising area for demonstrating practical quantum advantage.",
+          "arxiv_id": "2205.12087v1"
+        },
+        {
+          "title": "Variance minimisation on a quantum computer for nuclear structure",
+          "year": "2022-09",
+          "abstract": "Quantum computing opens up new possibilities for the simulation of many-body\nnuclear systems. As the number of particles in a many-body system increases,\nthe size of the space if the associated Hamiltonian increases exponentially.\nThis presents a challenge when performing calculations on large systems when\nusing classical computing methods. By using a quantum computer, one may be able\nto overcome this difficulty thanks to the exponential way the Hilbert space of\na quantum computer grows with the number of quantum bits (qubits). Our aim is\nto develop quantum computing algorithms which can reproduce and predict nuclear\nstructure such as level schemes and level densities. As a sample Hamiltonian,\nwe use the Lipkin-Meshkov-Glick model. We use an efficient encoding of the\nHamiltonian onto many-qubit systems, and have developed an algorithm allowing\nthe full excitation spectrum of a nucleus to be determined with a variational\nalgorithm capable of implementation on today's quantum computers with a limited\nnumber of qubits. Our algorithm uses the variance of the Hamiltonian, $\\langle\nH^2\\rangle - \\langle H\\rangle ^2$, as a cost function for the widely-used\nvariational quantum eigensolver (VQE). In this work we present a variance based\nmethod of finding the excited state spectrum of a small nuclear system using a\nquantum computer, using a reduced-qubit encoding method.",
+          "arxiv_id": "2209.07820v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Neutrinos from dense environments : Flavor mechanisms, theoretical approaches, observations, and new directions",
+          "year": "2023-01",
+          "abstract": "Neutrino masses and mixings produce vacuum oscillations, an established\nquantum mechanical phenomenon. In matter, the Mikheev-Smirnov-Wolfenstein\neffect, due to neutrino interactions with the background particles, triggers\nresonant flavor modification. In dense environments, such as core-collapse\nsupernovae or compact mergers, sizable neutrino-neutrino interactions, shock\nwaves and turbulence impact the neutrino flavor content under a variety of\nphenomena. Theoretical approaches of neutrino propagation range from the\nmean-field approximation to the full quantum kinetic equations. Intriguing\nconnections have been uncovered between weakly interacting dense neutrino gases\nand other many-body systems and domains, from condensed matter and nuclear\nphysics to quantum computing. Besides the intrinsic theoretical interest,\nestablishing how neutrinos change flavor contributes to answer the longstanding\nopen questions of how massive stars explode and of the r-process sites. It is\nalso important for future observations of core-collapse supernova neutrinos and\nof the diffuse supernova neutrino background that should be discovered in the\nforeseeable future.",
+          "arxiv_id": "2301.11814v4"
+        },
+        {
+          "title": "The impact of new ($α$, n) reaction rates on the weak s-process in metal-poor massive stars",
+          "year": "2025-04",
+          "abstract": "Massive stars are significant sites for the weak s-process (ws-process).\n$^{22}$Ne and $^{16}$O are, respectively, the main neutron source and poison\nfor the ws-process. In the metal-poor stars, the abundance of $^{22}$Ne is\nlimited by the metallicity, so that the contribution of $^{22}$Ne($\\alpha$,\nn)$^{25}$Mg reaction on the s-process is weaker. Conversely, the\n$^{17}$O($\\alpha$, n)$^{20}$Ne reaction is more evident in more metal-poor\nstars due to the most abundant $^{16}$O in all metallicities. In this work, we\ncalculate the evolution of four metal-poor models ($Z=10^{-3}$) for the\nZero-Age Main-Sequence (ZAMS) masses of $M ({\\rm ZAMS})=$ 15, 20, 25, and 30\nM$_{\\odot}$ to investigate the effect of reaction rates on the ws-process. We\nadopt the new $^{17}$O($\\alpha$, n)$^{20}$Ne and $^{17}$O($\\alpha,\n\\gamma$)$^{21}$Ne reaction rates suggested by Wiescher et al. (2023) and\n$^{22}$Ne($\\alpha$, n)$^{25}$Mg and $^{22}$Ne($\\alpha, \\gamma$)$^{26}$Mg from\nBest et al. (2013). The yields of the s-process isotope with updated reaction\nrates are compared with the results using default reaction rates from JINA\nREACLIB. We find that the new $^{17}$O+$\\alpha$ reaction rates increase the\nws-process mainly in all the stages, while the new $^{22}$Ne+$\\alpha$ reaction\nrates only increase the ws-process in C and Ne burning stages. Updating these\nnew reaction rates would increase the production of ws-process isotopes by tens\nof times. We also note that for more massive stars, the enhancement by new\n$^{17}$O+$\\alpha$ reaction rates become more significant.",
+          "arxiv_id": "2504.13766v2"
+        },
+        {
+          "title": "Neutrinos and nucleosynthesis of elements",
+          "year": "2023-08",
+          "abstract": "Neutrinos are known to play important roles in many astrophysical scenarios\nfrom the early period of the big bang to current stellar evolution being a\nunique messenger of the fusion reactions occurring in the center of our sun. In\nparticular, neutrinos are crucial in determining the dynamics and the\ncomposition evolution in explosive events such as core-collapse supernovae and\nthe merger of two neutron stars. In this paper, we review the current\nunderstanding of supernovae and binary neutron star mergers by focusing on the\nrole of neutrinos therein. Several recent improvements on the theoretical\nmodeling of neutrino interaction rates in nuclear matter as well as their\nimpact on the heavy element nucleosynthesis in the supernova neutrino-driven\nwind are discussed, including the neutrino-nucleon opacity at the mean field\nlevel taking into account the relativistic kinematics of nucleons, the effect\ndue to the nucleon-nucleon correlation, and the nucleon-nucleon bremsstrahlung.\nWe also review the framework used to compute the neutrino-nucleus interactions\nand the up-to-date yield prediction for isotopes from neutrino nucleosynthesis\noccurring in the outer envelope of the supernova progenitor star during the\nexplosion. Here improved predictions of energy spectra of supernova neutrinos\nof all flavors have had significant impact on the nucleosynthesis yields. Rapid\nprogresses in modeling the flavor oscillations of neutrinos in these\nenvironments, including several novel mechanisms for collective neutrino\noscillations and their potential impacts on various nucleosynthesis processes\nare summarized.",
+          "arxiv_id": "2308.03962v2"
+        }
+      ],
+      "10": [
+        {
+          "title": "Lowest-order QED radiative corrections in unpolarized elastic electron-deuteron scattering beyond the ultra-relativistic limit for the proposed deuteron charge radius measurement at Jefferson Laboratory",
+          "year": "2023-07",
+          "abstract": "Analogous to the well-known proton charge radius puzzle, a similar puzzle\nexists for the deuteron charge radius, $r_{d}$. There are discrepancies\nobserved in the results of $r_{d}$, measured from electron-deuteron ($e-d$)\nscattering experiments, as well as from atomic spectroscopy. In order to help\nresolve the charge radius puzzle of the deuteron, the PRad collaboration at\nJefferson Lab has proposed an experiment for measuring $r_{d}$, named DRad.\nThis experiment is designed to measure the unpolarized elastic $e-d$ scattering\ncross section in a low-$Q^{2}$ region. To extract the cross section with a high\nprecision, having reliable knowledge of QED radiative corrections is important.\nIn this paper, we present complete numerical calculations of the lowest-order\nradiative corrections in $e-d$ scattering for the DRad kinematics. The\ncalculations have been performed within a covariant formalism and beyond the\nultra-relativistic approximation ($m_{e}^{2} \\ll Q^{2}$). Besides, we present a\nsystematic uncertainty on $r_{d}$ arising from higher-order radiative\ncorrections, estimated based on our cross-section results.",
+          "arxiv_id": "2307.09680v2"
+        },
+        {
+          "title": "Impact-Parameter Description of High-Energy Deuteron-Nucleus Collisions",
+          "year": "2020-09",
+          "abstract": "A theoretical analysis using an impact-parameter description of the\ncollisions of deuterons with nuclei is carried out in the high-energy\ndiffraction approximation. It is used to obtain the intensities and integrated\ncross sections for elastic scattering, for the emergence of the two incident\nnucleons from the collision whether they appear as an elastically scattered\ndeuteron or as two unbound nucleons, and for the diffraction-induced\ndissociation of the deuteron into a free neutron and a free proton, as well as\nthe total cross section. The cross section for collisions in which one or both\nof the nucleons is absorbed is derived in terms of the sum of the\nneutron-nucleus and proton-nucleus effective phase shifts. Expressions for the\ncross section for processes in which the proton (or neutron) is absorbed\nwhether the neutron (or proton) is absorbed or not, and for the cross section\nfor processes in which the neutron (or proton) is absorbed and the proton (or\nneutron) remains free are derived. A reduced form of a two-particle density\nmatrix is introduced to directly derive expressions for the cross section for\ntwo-particle absorption in which both the proton and neutron are absorbed and\nfor the cross section for stripping processes in which the proton (or neutron)\nis absorbed and the neutron (or proton) emerges as a free particle. The\nexpression for the cross section for the breakup of the deuteron and the\nresulting emergence of one or two free nucleons is also derived. The mechanism\nby which the diffraction dissociation of the deuteron is induced is understood\nin an approximate semi-quantitative basis in classical terms (primarily the\nradial derivative of the radial impulse), allowing an estimate of where in the\nnuclear potential (beyond the \"radius\", near the \"surface\") the dissociation\nprocess tends to predominantly occur.",
+          "arxiv_id": "2009.12586v1"
+        },
+        {
+          "title": "Total reaction cross section on a deuteron target and the eclipse effect of the constituent neutron and proton",
+          "year": "2020-10",
+          "abstract": "Background: Eclipse effect of the neutron and proton in a deuteron target is\nessential to correctly describe high-energy deuteron scattering. The\nnucleus-deuteron scattering needs information not only on the nucleus-proton\nbut also the nucleus-neutron interaction, for which no direct measurement of\nthe nucleus-neutron cross sections is available for unstable nuclei.\n  Purpose: We systematically evaluated the total reaction cross sections by a\ndeuteron target to explore the feasibility of extracting the nucleus-neutron\ninteraction from measurable cross sections.\n  Methods: High-energy nucleus-deuteron collision is described by the Glauber\nmodel, in which the proton and neutron configuration of the deuteron is\nexplicitly taken into account.\n  Results: Our calculation reproduces available experimental total reaction\ncross section data on the nucleus-deuteron scattering. The possibility of\nextracting the nucleus-neutron total reaction cross section from\nnucleus-deuteron and nucleus-proton total reaction cross sections is explored.\nThe total reaction cross sections of a nucleus by proton, neutron, and deuteron\ntargets can be expressed, to good accuracy, in terms of the nuclear matter\nradius and neutron skin thickness. Incident-energy dependence of the total\nreaction cross sections is examined.\n  Conclusions: The total reaction cross section on a deuteron target includes\ninformation on both the nucleus-neutron and nucleus-proton profile functions.\nMeasuring the cross sections by deuteron and proton targets is a promising tool\nto extract the nuclear size properties.",
+          "arxiv_id": "2010.09956v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:59:45Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

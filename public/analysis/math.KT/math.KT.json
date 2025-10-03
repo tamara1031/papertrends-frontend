@@ -1,0 +1,578 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_theory_motivic_groups_cohomology",
+        "keywords": [
+          [
+            "theory",
+            0.044885687980521026
+          ],
+          [
+            "motivic",
+            0.03684805748264457
+          ],
+          [
+            "groups",
+            0.028897621726095803
+          ],
+          [
+            "cohomology",
+            0.028726781491581043
+          ],
+          [
+            "group",
+            0.02497397422976793
+          ],
+          [
+            "algebraic",
+            0.021914440118558604
+          ],
+          [
+            "equivariant",
+            0.021679509798151014
+          ],
+          [
+            "field",
+            0.02123702107417254
+          ],
+          [
+            "homotopy",
+            0.020837829844491257
+          ],
+          [
+            "ring",
+            0.020636169986043063
+          ]
+        ],
+        "count": 562
+      },
+      "1": {
+        "name": "1_category_categories_algebras_algebra",
+        "keywords": [
+          [
+            "category",
+            0.04415296537091224
+          ],
+          [
+            "categories",
+            0.03942555710074022
+          ],
+          [
+            "algebras",
+            0.03879219888898414
+          ],
+          [
+            "algebra",
+            0.03517584239993789
+          ],
+          [
+            "theory",
+            0.030774288576907338
+          ],
+          [
+            "homology",
+            0.027804761288856256
+          ],
+          [
+            "cohomology",
+            0.026971855390437057
+          ],
+          [
+            "Lie",
+            0.020564996754177334
+          ],
+          [
+            "Hochschild",
+            0.019624925896669664
+          ],
+          [
+            "structure",
+            0.01947859568141566
+          ]
+        ],
+        "count": 441
+      },
+      "2": {
+        "name": "2_index_operators_Dirac_curvature",
+        "keywords": [
+          [
+            "index",
+            0.09318519913205488
+          ],
+          [
+            "operators",
+            0.05351388303129697
+          ],
+          [
+            "Dirac",
+            0.0419548356005157
+          ],
+          [
+            "curvature",
+            0.04080455004474906
+          ],
+          [
+            "scalar",
+            0.03786860275962959
+          ],
+          [
+            "boundary",
+            0.03511872309972049
+          ],
+          [
+            "manifolds",
+            0.0330647593829741
+          ],
+          [
+            "operator",
+            0.03285684622319289
+          ],
+          [
+            "theory",
+            0.031972725455163345
+          ],
+          [
+            "manifold",
+            0.03130793395240191
+          ]
+        ],
+        "count": 137
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.07198628234766985,
+        -0.43792376387072035
+      ],
+      [
+        -0.07198628234766985,
+        1.0,
+        -0.4502962340646176
+      ],
+      [
+        -0.43792376387072035,
+        -0.4502962340646176,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        17,
+        6,
+        5
+      ],
+      "2020-02": [
+        15,
+        8,
+        2
+      ],
+      "2020-03": [
+        16,
+        5,
+        6
+      ],
+      "2020-04": [
+        13,
+        10,
+        1
+      ],
+      "2020-05": [
+        9,
+        9,
+        4
+      ],
+      "2020-06": [
+        14,
+        12,
+        2
+      ],
+      "2020-07": [
+        21,
+        8,
+        5
+      ],
+      "2020-08": [
+        10,
+        10,
+        4
+      ],
+      "2020-09": [
+        22,
+        11,
+        3
+      ],
+      "2020-10": [
+        15,
+        12,
+        2
+      ],
+      "2020-11": [
+        18,
+        3,
+        1
+      ],
+      "2020-12": [
+        10,
+        13,
+        3
+      ],
+      "2021-01": [
+        14,
+        7,
+        2
+      ],
+      "2021-02": [
+        14,
+        6,
+        1
+      ],
+      "2021-03": [
+        11,
+        7,
+        3
+      ],
+      "2021-04": [
+        6,
+        8,
+        0
+      ],
+      "2021-05": [
+        12,
+        8,
+        3
+      ],
+      "2021-06": [
+        18,
+        5,
+        2
+      ],
+      "2021-07": [
+        7,
+        11,
+        0
+      ],
+      "2021-08": [
+        8,
+        8,
+        6
+      ],
+      "2021-09": [
+        11,
+        14,
+        1
+      ],
+      "2021-10": [
+        11,
+        12,
+        2
+      ],
+      "2021-11": [
+        17,
+        12,
+        3
+      ],
+      "2021-12": [
+        17,
+        12,
+        3
+      ],
+      "2022-01": [
+        6,
+        6,
+        8
+      ],
+      "2022-02": [
+        21,
+        8,
+        0
+      ],
+      "2022-03": [
+        14,
+        10,
+        3
+      ],
+      "2022-04": [
+        20,
+        11,
+        2
+      ],
+      "2022-05": [
+        12,
+        9,
+        0
+      ],
+      "2022-06": [
+        11,
+        12,
+        2
+      ],
+      "2022-07": [
+        12,
+        13,
+        3
+      ],
+      "2022-08": [
+        8,
+        7,
+        2
+      ],
+      "2022-09": [
+        16,
+        11,
+        2
+      ],
+      "2022-10": [
+        15,
+        10,
+        4
+      ],
+      "2022-11": [
+        17,
+        18,
+        4
+      ],
+      "2022-12": [
+        10,
+        8,
+        1
+      ],
+      "2023-01": [
+        9,
+        5,
+        2
+      ],
+      "2023-02": [
+        7,
+        12,
+        0
+      ],
+      "2023-03": [
+        19,
+        12,
+        5
+      ],
+      "2023-04": [
+        15,
+        13,
+        3
+      ],
+      "2023-05": [
+        22,
+        10,
+        0
+      ],
+      "2023-06": [
+        15,
+        13,
+        1
+      ],
+      "2023-07": [
+        19,
+        9,
+        2
+      ],
+      "2023-08": [
+        16,
+        6,
+        2
+      ],
+      "2023-09": [
+        15,
+        8,
+        2
+      ],
+      "2023-10": [
+        13,
+        10,
+        2
+      ],
+      "2023-11": [
+        20,
+        10,
+        3
+      ],
+      "2023-12": [
+        9,
+        10,
+        1
+      ],
+      "2024-01": [
+        18,
+        11,
+        1
+      ],
+      "2024-02": [
+        12,
+        10,
+        3
+      ],
+      "2024-03": [
+        15,
+        6,
+        1
+      ],
+      "2024-04": [
+        17,
+        8,
+        0
+      ],
+      "2024-05": [
+        16,
+        17,
+        0
+      ],
+      "2024-06": [
+        13,
+        9,
+        4
+      ],
+      "2024-07": [
+        15,
+        17,
+        6
+      ],
+      "2024-08": [
+        11,
+        13,
+        0
+      ],
+      "2024-09": [
+        22,
+        12,
+        1
+      ],
+      "2024-10": [
+        21,
+        16,
+        3
+      ],
+      "2024-11": [
+        11,
+        16,
+        2
+      ],
+      "2024-12": [
+        24,
+        7,
+        0
+      ],
+      "2025-01": [
+        15,
+        10,
+        4
+      ],
+      "2025-02": [
+        8,
+        10,
+        3
+      ],
+      "2025-03": [
+        17,
+        11,
+        2
+      ],
+      "2025-04": [
+        20,
+        4,
+        1
+      ],
+      "2025-05": [
+        21,
+        9,
+        7
+      ],
+      "2025-06": [
+        19,
+        14,
+        3
+      ],
+      "2025-07": [
+        25,
+        5,
+        5
+      ],
+      "2025-08": [
+        18,
+        8,
+        3
+      ],
+      "2025-09": [
+        8,
+        6,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Remarks on the motivic sphere without $\\mathbb A^1$-invariance",
+          "year": "2024-10",
+          "abstract": "We generalize several basic facts about the motivic sphere spectrum in\n$\\mathbb A^1$-homotopy theory to the category $\\mathrm{MS}$ of non-$\\mathbb\nA^1$-invariant motivic spectra over a derived scheme. On the one hand, we show\nthat all the Milnor-Witt K-theory relations hold in the graded endomorphism\nring of the motivic sphere. On the other hand, we show that the positive\neigenspace $\\mathbf 1_\\mathbb Q^+$ of the rational motivic sphere is the\nrational motivic cohomology spectrum $\\mathrm H\\mathbb Q$, which represents the\neigenspaces of the Adams operations on rational algebraic K-theory. We deduce\nseveral familiar characterizations of $\\mathrm H\\mathbb Q$-modules in\n$\\mathrm{MS}$: a rational motivic spectrum is an $\\mathrm H\\mathbb Q$-module\niff it is orientable, iff the involution $\\langle -1\\rangle$ is the identity,\niff the Hopf map $\\eta$ is zero, iff it satisfies \\'etale descent. Moreover,\nthese conditions are automatic in many cases, for example over non-orderable\nfields and over $\\mathbb Z[\\zeta_n]$ for any $n\\geq 3$.",
+          "arxiv_id": "2410.16757v1"
+        },
+        {
+          "title": "Atiyah duality for motivic spectra",
+          "year": "2024-03",
+          "abstract": "We prove that Atiyah duality holds in the $\\infty$-category of non-$\\mathbb\nA^1$-invariant motivic spectra over arbitrary derived schemes: every smooth\nprojective scheme is dualizable with dual given by the Thom spectrum of its\nnegative tangent bundle. The Gysin maps recently constructed by L. Tang are a\nkey ingredient in the proof. We then present several applications. First, we\nstudy $\\mathbb A^1$-colocalization, which transforms any module over the\n$\\mathbb A^1$-invariant sphere into an $\\mathbb A^1$-invariant motivic spectrum\nwithout changing its values on smooth projective schemes. This can be applied\nto all known $p$-adic cohomology theories and gives a new elementary approach\nto \"logarithmic\" or \"tame\" cohomology theories; it recovers for instance the\nlogarithmic crystalline cohomology of strict normal crossings compactifications\nover perfect fields and shows that the latter is independent of the choice of\ncompactification. Second, we prove a motivic Landweber exact functor theorem,\nassociating a motivic spectrum to any graded formal group law classified by a\nflat map to the moduli stack of formal groups. Using this theorem, we compute\nthe ring of $\\mathbb P^1$-stable cohomology operations on the algebraic\nK-theory of qcqs derived schemes, and we prove that rational motivic cohomology\nis an idempotent motivic spectrum.",
+          "arxiv_id": "2403.01561v1"
+        },
+        {
+          "title": "Algebraic cobordism and a Conner-Floyd isomorphism for algebraic K-theory",
+          "year": "2023-03",
+          "abstract": "We formulate and prove a Conner-Floyd isomorphism for the algebraic K-theory\nof arbitrary qcqs derived schemes. To that end, we study a stable\n$\\infty$-category of non-$\\mathbb A^1$-invariant motivic spectra, which turns\nout to be equivalent to the $\\infty$-category of fundamental motivic spectra\nsatisfying elementary blowup excision, previously introduced by the first and\nthird authors. We prove that this $\\infty$-category satisfies $\\mathbb\nP^1$-homotopy invariance and weighted $\\mathbb A^1$-homotopy invariance, which\nwe use in place of $\\mathbb A^1$-homotopy invariance to obtain analogues of\nseveral key results from $\\mathbb A^1$-homotopy theory. These allow us in\nparticular to define a universal oriented motivic $\\mathbb E_\\infty$-ring\nspectrum $\\mathrm{MGL}$. We then prove that the algebraic K-theory of a qcqs\nderived scheme $X$ can be recovered from its $\\mathrm{MGL}$-cohomology via a\nConner-Floyd isomorphism \\[\\mathrm{MGL}^{**}(X)\\otimes_{\\mathrm L}\\mathbb\nZ[\\beta^{\\pm 1}]\\simeq \\mathrm K^{**}(X),\\] where $\\mathrm L$ is the Lazard\nring and $\\mathrm K^{p,q}(X)=\\mathrm K_{2q-p}(X)$. Finally, we prove a Snaith\ntheorem for the periodized version of $\\mathrm{MGL}$.",
+          "arxiv_id": "2303.02051v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Enriched Koszul duality for dg categories",
+          "year": "2022-11",
+          "abstract": "It is well-known that the category of small dg categories dgCat, though it is\nmonoidal, does not form a monoidal model category. In this paper we construct a\nmonoidal model structure on the category of pointed curved coalgebras ptdCoa*\nand show that the Quillen equivalence relating it to dgCat is monoidal. We also\nshow that dgCat is a ptdCoa*-enriched model category. As a consequence, the\nhomotopy category of dgCat is closed monoidal and is equivalent as a closed\nmonoidal category to the homotopy category of ptdCoa*. In particular, this\ngives a conceptual construction of a derived internal hom in dgCat. As an\napplication we obtain a new description of simplicial mapping spaces in dgCat\nand a calculation of their homotopy groups in terms of Hochschild cohomology\ngroups, reproducing and slightly generalizing well-known results of To\\\"en.\nComparing our approach to To\\\"en's, we also obtain a description of the core of\nLurie's dg nerve in terms of the ordinary nerve of a discrete category.",
+          "arxiv_id": "2211.08118v4"
+        },
+        {
+          "title": "Galois theory and homology in quasi-abelian functor categories",
+          "year": "2024-03",
+          "abstract": "Given a finite category T, we consider the functor category [T,A], where A\ncan in particular be any quasi-abelian category. Examples of quasi-abelian\ncategories are given by any abelian category but also by non-exact additive\ncategories as the categories of torsion(-free) abelian groups, topological\nabelian groups, locally compact abelian groups, Banach spaces and Fr\\'echet\nspaces. In this situation, the categories of various internal categorical\nstructures in A, such as the categories of internal n-fold groupoids, are\nequivalent to functor categories [T,A] for a suitable category T. For a replete\nfull subcategory S of T, we define F to be the full subcategory of [T,A] whose\nobjects are given by the functors G with G(X)=0 for all objects X not in S. We\nprove that F is a torsion-free Birkhoff subcategory of [T,A]. This allows us to\nstudy (higher) central extensions from categorical Galois theory in [T,A] with\nrespect to F and generalized Hopf formulae for homology.",
+          "arxiv_id": "2403.12750v1"
+        },
+        {
+          "title": "Davydov-Yetter cohomology and relative homological algebra",
+          "year": "2022-02",
+          "abstract": "Davydov--Yetter (DY) cohomology classifies infinitesimal deformations of the\nmonoidal structure of tensor functors and tensor categories. In this paper we\nprovide new tools for the computation of the DY cohomology for finite tensor\ncategories and exact functors between them. The key point is to realize DY\ncohomology as relative Ext groups. In particular, we prove that the\ninfinitesimal deformations of a tensor category $\\mathcal{C}$ are classified by\nthe 3-rd self-extension group of the tensor unit of the Drinfeld center\n$\\mathcal{Z}(\\mathcal{C})$ relative to $\\mathcal{C}$. From classical results on\nrelative homological algebra we get a long exact sequence for DY cohomology and\na Yoneda product for which we provide an explicit formula. Using the long exact\nsequence and duality, we obtain a dimension formula for the cohomology groups\nbased solely on relatively projective covers which reduces a problem in\nhomological algebra to a problem in representation theory, e.g. calculating the\nspace of invariants in a certain object of $\\mathcal{Z}(\\mathcal{C})$. Thanks\nto the Yoneda product, we also develop a method for computing DY cocycles\nexplicitly which are needed for applications in the deformation theory. We\napply these tools to the category of finite-dimensional modules over a\nfinite-dimensional Hopf algebra. We study in detail the examples of the\nbosonization of exterior algebras $\\Lambda\\mathbb{C}^k \\rtimes\n\\mathbb{C}[\\mathbb{Z}_2]$, the Taft algebras and the small quantum group of\n$\\mathfrak{sl}_2$ at a root of unity.",
+          "arxiv_id": "2202.12287v4"
+        }
+      ],
+      "2": [
+        {
+          "title": "A partitioned manifold index theorem for noncompact hypersurfaces",
+          "year": "2025-07",
+          "abstract": "Roe's partitioned manifold index theorem applies when a complete Riemannian\nmanifold $M$ is cut into two pieces along a compact hypersurface $N$. It states\nthat a version of the index of a Dirac operator on $M$ localized to $N$ equals\nthe index of the corresponding Dirac operator on $N$. This yields obstructions\nto positive scalar curvature, and implies cobordism invariance of the index of\nDirac operators on compact manifolds. We generalize this result to cases where\n$N$ may be noncompact, under assumptions on the way it is embedded into $M$.\nThis results in an equality between two classes in the $K$-theory of the Roe\nalgebra of $N$. Bunke and Ludewig, and Engel and Wulff, have recently obtained\nrelated results based on different approaches.",
+          "arxiv_id": "2507.16591v2"
+        },
+        {
+          "title": "Quantitative K-theory, positive scalar curvature, and band width",
+          "year": "2020-10",
+          "abstract": "We develop two connections between the quantitative framework of operator\n$K$-theory for geometric $C^*$-algebras and the problem of positive scalar\ncurvature. First, we introduce a quantitative notion of higher index and use it\nto give a refinement of the well-known obstruction of Rosenberg to positive\nscalar curvature on closed spin manifolds coming from the higher index of the\nDirac operator. We show that on a manifold with uniformly positive scalar\ncurvature, the propagation at which the index of the Dirac operator vanishes is\nrelated inversely to the curvature lower bound. Second, we give an approach,\nusing related techniques, to Gromov's band width conjecture, which has been the\nsubject of recent work by Zeidler and Cecchini from a different point of view.",
+          "arxiv_id": "2010.01749v4"
+        },
+        {
+          "title": "$l^1$-higher index, $l^1$-higher rho invariant and cyclic cohomology",
+          "year": "2022-06",
+          "abstract": "In this paper, we study $l^1$-higher index theory and its pairing with cyclic\ncohomology for both closed manifolds and compact manifolds with boundary. We\nfirst give a sufficient geometric condition for the vanishing of the\n$l^1$-higher indices of Dirac-type operators on closed manifolds. This leads us\nto define an $l^1$-version of higher rho invariants. We prove a product formula\nfor these $l^1$-higher rho invariants. A main novelty of our product formula is\nthat it works in the general Banach algebra setting, in particular, the\n$l^1$-setting.\n  On compact spin manifolds with boundary, we also give a sufficient geometric\ncondition for Dirac operators to have well-defined $l^1$-higher indices. More\nprecisely, we show that, on a compact spin manifold $M$ with boundary equipped\nwith a Riemannian metric which has product structure near the boundary, if the\nscalar curvature on the boundary is sufficiently large, then the $l^1$-higher\nindex of its Dirac operator $D_M$ is well-defined and lies in the $K$-theory of\nthe $l^1$-algebra of the fundamental group. As an immediate corollary, we see\nthat if the Bost conjecture holds for the fundamental group of $M$, then the\n$C^\\ast$-algebraic higher index of $D_M$ lies in the image of the Baum-Connes\nassembly map.\n  By pairing the above $K$-theoretic $l^1$-index results with cyclic cocycles,\nwe prove an $l^1$-version of the higher Atiyah-Patodi-Singer index theorem for\nmanifolds with boundary. A key ingredient of its proof is the product formula\nfor $l^1$-higher rho invariants mentioned above.",
+          "arxiv_id": "2206.09913v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:54:52Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

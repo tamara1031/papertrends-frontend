@@ -1,0 +1,2272 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_stars_stellar_high",
+        "keywords": [
+          [
+            "data",
+            0.013090318254119566
+          ],
+          [
+            "stars",
+            0.012099429886027979
+          ],
+          [
+            "stellar",
+            0.010400770711106153
+          ],
+          [
+            "high",
+            0.009114558702783002
+          ],
+          [
+            "light",
+            0.00886262718479632
+          ],
+          [
+            "spectra",
+            0.008849739513500827
+          ],
+          [
+            "model",
+            0.008689526036085565
+          ],
+          [
+            "observations",
+            0.007855939100514119
+          ],
+          [
+            "present",
+            0.007416529578431013
+          ],
+          [
+            "star",
+            0.007174668916847538
+          ]
+        ],
+        "count": 4474
+      },
+      "1": {
+        "name": "1_ray_energy_detector_gamma",
+        "keywords": [
+          [
+            "ray",
+            0.027964563479751372
+          ],
+          [
+            "energy",
+            0.022941459993929516
+          ],
+          [
+            "detector",
+            0.016619370506324758
+          ],
+          [
+            "gamma",
+            0.016051033653057597
+          ],
+          [
+            "cosmic",
+            0.01282693228771698
+          ],
+          [
+            "detectors",
+            0.01251727212689542
+          ],
+          [
+            "gamma ray",
+            0.012050737755400899
+          ],
+          [
+            "Cherenkov",
+            0.011981662705370714
+          ],
+          [
+            "high",
+            0.011625814511202896
+          ],
+          [
+            "neutrino",
+            0.01135343711754396
+          ]
+        ],
+        "count": 2250
+      },
+      "2": {
+        "name": "2_gravitational_wave_gravitational wave_noise",
+        "keywords": [
+          [
+            "gravitational",
+            0.03897303065759758
+          ],
+          [
+            "wave",
+            0.033477471115716396
+          ],
+          [
+            "gravitational wave",
+            0.031943233139624175
+          ],
+          [
+            "noise",
+            0.024251456446772516
+          ],
+          [
+            "GW",
+            0.016845630928538587
+          ],
+          [
+            "signals",
+            0.015432661561044432
+          ],
+          [
+            "data",
+            0.014659851912239334
+          ],
+          [
+            "LIGO",
+            0.014186647504181587
+          ],
+          [
+            "LISA",
+            0.013595456613790394
+          ],
+          [
+            "binary",
+            0.013241049826555195
+          ]
+        ],
+        "count": 1479
+      },
+      "3": {
+        "name": "3_code_simulations_numerical_method",
+        "keywords": [
+          [
+            "code",
+            0.022166829279654063
+          ],
+          [
+            "simulations",
+            0.01804284993691289
+          ],
+          [
+            "numerical",
+            0.01660076491877378
+          ],
+          [
+            "method",
+            0.01395744919336384
+          ],
+          [
+            "equations",
+            0.012309985354260596
+          ],
+          [
+            "radiative",
+            0.010929071054836481
+          ],
+          [
+            "radiation",
+            0.010838717364225852
+          ],
+          [
+            "hydrodynamics",
+            0.010353773801619025
+          ],
+          [
+            "order",
+            0.009930358705662033
+          ],
+          [
+            "transfer",
+            0.009744579690351718
+          ]
+        ],
+        "count": 708
+      },
+      "4": {
+        "name": "4_cosmological_inference_model_galaxy",
+        "keywords": [
+          [
+            "cosmological",
+            0.020769518709691043
+          ],
+          [
+            "inference",
+            0.01729280225293889
+          ],
+          [
+            "model",
+            0.017046691637723398
+          ],
+          [
+            "galaxy",
+            0.015956870254362345
+          ],
+          [
+            "data",
+            0.014170762963513491
+          ],
+          [
+            "simulations",
+            0.014129820610847476
+          ],
+          [
+            "lensing",
+            0.014068246996867088
+          ],
+          [
+            "parameters",
+            0.012605310689163452
+          ],
+          [
+            "matter",
+            0.012205499139767982
+          ],
+          [
+            "Bayesian",
+            0.01182289498998988
+          ]
+        ],
+        "count": 651
+      },
+      "5": {
+        "name": "5_mission_Earth_space_spacecraft",
+        "keywords": [
+          [
+            "mission",
+            0.017546478908577932
+          ],
+          [
+            "Earth",
+            0.015984175309611534
+          ],
+          [
+            "space",
+            0.014635413064828916
+          ],
+          [
+            "spacecraft",
+            0.01417109055148687
+          ],
+          [
+            "orbit",
+            0.01407402418852261
+          ],
+          [
+            "Mars",
+            0.013933204861456551
+          ],
+          [
+            "asteroid",
+            0.01242990404925011
+          ],
+          [
+            "missions",
+            0.012149069512965682
+          ],
+          [
+            "surface",
+            0.01008990818923219
+          ],
+          [
+            "satellite",
+            0.00959315661939969
+          ]
+        ],
+        "count": 634
+      },
+      "6": {
+        "name": "6_data_research_astronomy_science",
+        "keywords": [
+          [
+            "data",
+            0.027170003109004425
+          ],
+          [
+            "research",
+            0.023586736127703144
+          ],
+          [
+            "astronomy",
+            0.021447069797513287
+          ],
+          [
+            "science",
+            0.016764868149021162
+          ],
+          [
+            "scientific",
+            0.01671345849128557
+          ],
+          [
+            "astronomical",
+            0.013760418876047875
+          ],
+          [
+            "Astronomy",
+            0.012836961983608274
+          ],
+          [
+            "software",
+            0.012688268203507377
+          ],
+          [
+            "community",
+            0.012221790054259182
+          ],
+          [
+            "Science",
+            0.012041577939056419
+          ]
+        ],
+        "count": 558
+      },
+      "7": {
+        "name": "7_CMB_GHz_polarization_microwave",
+        "keywords": [
+          [
+            "CMB",
+            0.027649806549806467
+          ],
+          [
+            "GHz",
+            0.024372392201459557
+          ],
+          [
+            "polarization",
+            0.018393314177117554
+          ],
+          [
+            "microwave",
+            0.01735143191664621
+          ],
+          [
+            "detectors",
+            0.015944623738379647
+          ],
+          [
+            "frequency",
+            0.015538050202775282
+          ],
+          [
+            "readout",
+            0.013234208839801132
+          ],
+          [
+            "design",
+            0.012896851871931925
+          ],
+          [
+            "detector",
+            0.012556820993274268
+          ],
+          [
+            "Microwave",
+            0.012321875769548074
+          ]
+        ],
+        "count": 509
+      },
+      "8": {
+        "name": "8_solar_Solar_magnetic_data",
+        "keywords": [
+          [
+            "solar",
+            0.053449705345326774
+          ],
+          [
+            "Solar",
+            0.024863566852278564
+          ],
+          [
+            "magnetic",
+            0.02211373495756007
+          ],
+          [
+            "data",
+            0.01764788002769006
+          ],
+          [
+            "Sun",
+            0.017592085559569762
+          ],
+          [
+            "observations",
+            0.014701016389760947
+          ],
+          [
+            "field",
+            0.01347575994081628
+          ],
+          [
+            "coronal",
+            0.01345171646245892
+          ],
+          [
+            "magnetic field",
+            0.01167425290187206
+          ],
+          [
+            "flare",
+            0.010630382022083879
+          ]
+        ],
+        "count": 455
+      },
+      "9": {
+        "name": "9_radio_frequency_RFI_MHz",
+        "keywords": [
+          [
+            "radio",
+            0.03873221236623726
+          ],
+          [
+            "frequency",
+            0.01925754007997404
+          ],
+          [
+            "RFI",
+            0.018512263554029695
+          ],
+          [
+            "MHz",
+            0.01801891219362417
+          ],
+          [
+            "Radio",
+            0.014581172821841407
+          ],
+          [
+            "data",
+            0.013545793166217852
+          ],
+          [
+            "observations",
+            0.013337415227447308
+          ],
+          [
+            "search",
+            0.012442467591451062
+          ],
+          [
+            "Array",
+            0.011004305953267221
+          ],
+          [
+            "time",
+            0.010667991657591793
+          ]
+        ],
+        "count": 388
+      },
+      "10": {
+        "name": "10_cm_signal_power_foreground",
+        "keywords": [
+          [
+            "cm",
+            0.04322897428644706
+          ],
+          [
+            "signal",
+            0.032936914748402026
+          ],
+          [
+            "power",
+            0.02495592699690476
+          ],
+          [
+            "foreground",
+            0.023804882512654873
+          ],
+          [
+            "cm signal",
+            0.022075548057823684
+          ],
+          [
+            "power spectrum",
+            0.020142007866652135
+          ],
+          [
+            "spectrum",
+            0.019817844394000087
+          ],
+          [
+            "EoR",
+            0.01767424475851948
+          ],
+          [
+            "Epoch",
+            0.0161012534928245
+          ],
+          [
+            "data",
+            0.01586913105619508
+          ]
+        ],
+        "count": 301
+      },
+      "11": {
+        "name": "11_ice_molecules_CO_interstellar",
+        "keywords": [
+          [
+            "ice",
+            0.039501462125345485
+          ],
+          [
+            "molecules",
+            0.02342207353122881
+          ],
+          [
+            "CO",
+            0.019969723197272526
+          ],
+          [
+            "interstellar",
+            0.0195018253363853
+          ],
+          [
+            "ices",
+            0.018735735773354065
+          ],
+          [
+            "molecular",
+            0.017789284271997514
+          ],
+          [
+            "species",
+            0.01740280631288813
+          ],
+          [
+            "gas",
+            0.014138299933260014
+          ],
+          [
+            "laboratory",
+            0.013634037790672352
+          ],
+          [
+            "reaction",
+            0.013328370243433172
+          ]
+        ],
+        "count": 260
+      },
+      "12": {
+        "name": "12_image_data_images_imaging",
+        "keywords": [
+          [
+            "image",
+            0.02910192279003617
+          ],
+          [
+            "data",
+            0.026452882517338523
+          ],
+          [
+            "images",
+            0.023151964072948176
+          ],
+          [
+            "imaging",
+            0.022156561474656875
+          ],
+          [
+            "radio",
+            0.018755232131057436
+          ],
+          [
+            "algorithm",
+            0.017943807564464738
+          ],
+          [
+            "reconstruction",
+            0.016504542987729708
+          ],
+          [
+            "CLEAN",
+            0.016173204758563042
+          ],
+          [
+            "interferometric",
+            0.01460055231793739
+          ],
+          [
+            "deconvolution",
+            0.014325993331036218
+          ]
+        ],
+        "count": 175
+      },
+      "13": {
+        "name": "13_satellites_brightness_sky_Starlink",
+        "keywords": [
+          [
+            "satellites",
+            0.055304694699475146
+          ],
+          [
+            "brightness",
+            0.05032771582406479
+          ],
+          [
+            "sky",
+            0.04052179313255713
+          ],
+          [
+            "Starlink",
+            0.03922080233102324
+          ],
+          [
+            "satellite",
+            0.037481533129332306
+          ],
+          [
+            "night",
+            0.028273292336766898
+          ],
+          [
+            "sky brightness",
+            0.022326222999960402
+          ],
+          [
+            "night sky",
+            0.020628981306373636
+          ],
+          [
+            "light",
+            0.020266440688646394
+          ],
+          [
+            "astronomical",
+            0.017921440985385916
+          ]
+        ],
+        "count": 131
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6494819273772592,
+        -0.6818065840709463,
+        0.12849663213985618,
+        -0.03659654585913539,
+        -0.6190507868070858,
+        -0.6170138613327667,
+        -0.6358476694366005,
+        -0.6526324076105379,
+        -0.6640981002964328,
+        -0.6873495819149198,
+        -0.736361843319498,
+        -0.6656468076153945,
+        -0.6931726809319805
+      ],
+      [
+        -0.6494819273772592,
+        1.0,
+        -0.7213564985508882,
+        -0.6984946058486228,
+        -0.6987095755757986,
+        -0.6395812849965463,
+        -0.6574986015599584,
+        -0.679205509515501,
+        -0.6916922976070528,
+        -0.664245860727585,
+        -0.7207825022363885,
+        -0.7229861261190168,
+        -0.7093517842688568,
+        -0.7127947166172245
+      ],
+      [
+        -0.6818065840709463,
+        -0.7213564985508882,
+        1.0,
+        -0.6888064090743221,
+        -0.6777903864749417,
+        -0.7370813467713258,
+        -0.7127133144743684,
+        -0.7416953318708941,
+        -0.7382721055059466,
+        -0.7228499065221577,
+        -0.6575509871694034,
+        -0.7623556796396798,
+        -0.7129918825184589,
+        -0.7324784107694359
+      ],
+      [
+        0.12849663213985618,
+        -0.6984946058486228,
+        -0.6888064090743221,
+        1.0,
+        -0.19803456902565256,
+        -0.7243585973235902,
+        -0.6771470489049147,
+        -0.7178972224352177,
+        -0.7008882042059192,
+        -0.7082589815509558,
+        -0.693535872899474,
+        -0.7390253723905948,
+        -0.6755682219918596,
+        -0.7042375546444182
+      ],
+      [
+        -0.03659654585913539,
+        -0.6987095755757986,
+        -0.6777903864749417,
+        -0.19803456902565256,
+        1.0,
+        -0.7248509602296052,
+        -0.677220341987239,
+        -0.7149905499110456,
+        -0.7088640838202269,
+        -0.71165603253318,
+        -0.680434719546152,
+        -0.7402630099898947,
+        -0.6713230106344799,
+        -0.7120053515881537
+      ],
+      [
+        -0.6190507868070858,
+        -0.6395812849965463,
+        -0.7370813467713258,
+        -0.7243585973235902,
+        -0.7248509602296052,
+        1.0,
+        -0.6418999009536785,
+        -0.6301458661039372,
+        -0.6368368375330438,
+        -0.6772721580191453,
+        -0.7397232966355352,
+        -0.7399830490038677,
+        -0.7286472706682943,
+        -0.7096985158548151
+      ],
+      [
+        -0.6170138613327667,
+        -0.6574986015599584,
+        -0.7127133144743684,
+        -0.6771470489049147,
+        -0.677220341987239,
+        -0.6418999009536785,
+        1.0,
+        -0.6698710728774837,
+        -0.670421222219712,
+        -0.6727895377570412,
+        -0.7132572006313351,
+        -0.7411431062331185,
+        -0.25111433332948896,
+        -0.7107447234952802
+      ],
+      [
+        -0.6358476694366005,
+        -0.679205509515501,
+        -0.7416953318708941,
+        -0.7178972224352177,
+        -0.7149905499110456,
+        -0.6301458661039372,
+        -0.6698710728774837,
+        1.0,
+        -0.6921613478129125,
+        -0.6725646827515871,
+        -0.7117550722750113,
+        -0.75501938997863,
+        -0.7372111796014746,
+        -0.7241775950822471
+      ],
+      [
+        -0.6526324076105379,
+        -0.6916922976070528,
+        -0.7382721055059466,
+        -0.7008882042059192,
+        -0.7088640838202269,
+        -0.6368368375330438,
+        -0.670421222219712,
+        -0.6921613478129125,
+        1.0,
+        -0.6829978519024127,
+        -0.7363822869198056,
+        -0.7398930452081113,
+        -0.7073747376141037,
+        -0.7259224397541917
+      ],
+      [
+        -0.6640981002964328,
+        -0.664245860727585,
+        -0.7228499065221577,
+        -0.7082589815509558,
+        -0.71165603253318,
+        -0.6772721580191453,
+        -0.6727895377570412,
+        -0.6725646827515871,
+        -0.6829978519024127,
+        1.0,
+        -0.6877632575677708,
+        -0.7333183858549999,
+        -0.6763384451982072,
+        -0.719857864454513
+      ],
+      [
+        -0.6873495819149198,
+        -0.7207825022363885,
+        -0.6575509871694034,
+        -0.693535872899474,
+        -0.680434719546152,
+        -0.7397232966355352,
+        -0.7132572006313351,
+        -0.7117550722750113,
+        -0.7363822869198056,
+        -0.6877632575677708,
+        1.0,
+        -0.7458384655405801,
+        -0.712945262645114,
+        -0.716286045503992
+      ],
+      [
+        -0.736361843319498,
+        -0.7229861261190168,
+        -0.7623556796396798,
+        -0.7390253723905948,
+        -0.7402630099898947,
+        -0.7399830490038677,
+        -0.7411431062331185,
+        -0.75501938997863,
+        -0.7398930452081113,
+        -0.7333183858549999,
+        -0.7458384655405801,
+        1.0,
+        -0.7505689581360749,
+        -0.7540386126393056
+      ],
+      [
+        -0.6656468076153945,
+        -0.7093517842688568,
+        -0.7129918825184589,
+        -0.6755682219918596,
+        -0.6713230106344799,
+        -0.7286472706682943,
+        -0.25111433332948896,
+        -0.7372111796014746,
+        -0.7073747376141037,
+        -0.6763384451982072,
+        -0.712945262645114,
+        -0.7505689581360749,
+        1.0,
+        -0.6918170338101608
+      ],
+      [
+        -0.6931726809319805,
+        -0.7127947166172245,
+        -0.7324784107694359,
+        -0.7042375546444182,
+        -0.7120053515881537,
+        -0.7096985158548151,
+        -0.7107447234952802,
+        -0.7241775950822471,
+        -0.7259224397541917,
+        -0.719857864454513,
+        -0.716286045503992,
+        -0.7540386126393056,
+        -0.6918170338101608,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        40,
+        17,
+        17,
+        14,
+        6,
+        5,
+        10,
+        7,
+        5,
+        8,
+        1,
+        0,
+        5,
+        8
+      ],
+      "2020-02": [
+        49,
+        13,
+        25,
+        6,
+        3,
+        4,
+        16,
+        8,
+        10,
+        5,
+        11,
+        3,
+        6,
+        14
+      ],
+      "2020-03": [
+        61,
+        12,
+        10,
+        12,
+        11,
+        3,
+        17,
+        2,
+        13,
+        13,
+        8,
+        5,
+        6,
+        18
+      ],
+      "2020-04": [
+        62,
+        19,
+        19,
+        4,
+        11,
+        3,
+        15,
+        4,
+        17,
+        5,
+        10,
+        5,
+        8,
+        8
+      ],
+      "2020-05": [
+        63,
+        18,
+        24,
+        13,
+        6,
+        4,
+        12,
+        4,
+        6,
+        11,
+        12,
+        2,
+        7,
+        12
+      ],
+      "2020-06": [
+        59,
+        11,
+        20,
+        18,
+        5,
+        12,
+        24,
+        3,
+        18,
+        11,
+        11,
+        4,
+        6,
+        8
+      ],
+      "2020-07": [
+        73,
+        13,
+        19,
+        9,
+        6,
+        11,
+        17,
+        5,
+        20,
+        13,
+        4,
+        1,
+        3,
+        16
+      ],
+      "2020-08": [
+        55,
+        10,
+        24,
+        6,
+        7,
+        5,
+        9,
+        5,
+        20,
+        13,
+        7,
+        8,
+        3,
+        15
+      ],
+      "2020-09": [
+        53,
+        11,
+        20,
+        8,
+        7,
+        12,
+        15,
+        7,
+        17,
+        8,
+        16,
+        5,
+        9,
+        15
+      ],
+      "2020-10": [
+        66,
+        19,
+        26,
+        10,
+        6,
+        4,
+        13,
+        4,
+        8,
+        13,
+        6,
+        4,
+        10,
+        19
+      ],
+      "2020-11": [
+        60,
+        15,
+        15,
+        21,
+        12,
+        8,
+        15,
+        7,
+        10,
+        12,
+        13,
+        3,
+        15,
+        21
+      ],
+      "2020-12": [
+        126,
+        26,
+        27,
+        15,
+        15,
+        10,
+        34,
+        21,
+        16,
+        10,
+        13,
+        2,
+        26,
+        23
+      ],
+      "2021-01": [
+        85,
+        34,
+        22,
+        13,
+        12,
+        12,
+        17,
+        10,
+        17,
+        12,
+        12,
+        8,
+        8,
+        15
+      ],
+      "2021-02": [
+        51,
+        32,
+        11,
+        14,
+        4,
+        7,
+        11,
+        6,
+        12,
+        11,
+        6,
+        5,
+        8,
+        8
+      ],
+      "2021-03": [
+        89,
+        13,
+        16,
+        11,
+        5,
+        6,
+        15,
+        2,
+        11,
+        7,
+        7,
+        3,
+        12,
+        12
+      ],
+      "2021-04": [
+        47,
+        16,
+        15,
+        17,
+        6,
+        8,
+        9,
+        4,
+        12,
+        3,
+        15,
+        5,
+        3,
+        12
+      ],
+      "2021-05": [
+        53,
+        12,
+        12,
+        19,
+        12,
+        3,
+        5,
+        5,
+        11,
+        5,
+        13,
+        2,
+        6,
+        11
+      ],
+      "2021-06": [
+        66,
+        11,
+        13,
+        13,
+        12,
+        8,
+        18,
+        6,
+        13,
+        7,
+        11,
+        5,
+        7,
+        6
+      ],
+      "2021-07": [
+        90,
+        42,
+        19,
+        13,
+        8,
+        9,
+        9,
+        3,
+        12,
+        13,
+        23,
+        10,
+        5,
+        15
+      ],
+      "2021-08": [
+        64,
+        46,
+        15,
+        8,
+        8,
+        6,
+        11,
+        4,
+        17,
+        9,
+        5,
+        3,
+        11,
+        14
+      ],
+      "2021-09": [
+        63,
+        34,
+        18,
+        14,
+        12,
+        5,
+        13,
+        3,
+        18,
+        7,
+        9,
+        4,
+        7,
+        15
+      ],
+      "2021-10": [
+        54,
+        19,
+        24,
+        14,
+        11,
+        5,
+        9,
+        5,
+        17,
+        14,
+        13,
+        4,
+        7,
+        13
+      ],
+      "2021-11": [
+        89,
+        24,
+        27,
+        15,
+        8,
+        4,
+        28,
+        16,
+        17,
+        14,
+        14,
+        2,
+        6,
+        18
+      ],
+      "2021-12": [
+        70,
+        31,
+        19,
+        7,
+        10,
+        7,
+        16,
+        7,
+        14,
+        2,
+        17,
+        10,
+        10,
+        14
+      ],
+      "2022-01": [
+        51,
+        20,
+        18,
+        12,
+        8,
+        3,
+        15,
+        3,
+        25,
+        8,
+        18,
+        6,
+        7,
+        11
+      ],
+      "2022-02": [
+        54,
+        13,
+        18,
+        9,
+        7,
+        6,
+        11,
+        3,
+        19,
+        10,
+        9,
+        4,
+        8,
+        10
+      ],
+      "2022-03": [
+        75,
+        26,
+        22,
+        19,
+        11,
+        6,
+        14,
+        6,
+        13,
+        8,
+        15,
+        9,
+        9,
+        15
+      ],
+      "2022-04": [
+        69,
+        9,
+        18,
+        10,
+        6,
+        5,
+        8,
+        3,
+        17,
+        5,
+        12,
+        5,
+        8,
+        6
+      ],
+      "2022-05": [
+        52,
+        19,
+        21,
+        15,
+        11,
+        4,
+        15,
+        7,
+        20,
+        6,
+        7,
+        4,
+        3,
+        10
+      ],
+      "2022-06": [
+        72,
+        14,
+        20,
+        16,
+        6,
+        6,
+        16,
+        1,
+        12,
+        9,
+        12,
+        3,
+        11,
+        14
+      ],
+      "2022-07": [
+        65,
+        18,
+        30,
+        21,
+        9,
+        8,
+        12,
+        10,
+        22,
+        13,
+        10,
+        6,
+        12,
+        14
+      ],
+      "2022-08": [
+        110,
+        28,
+        18,
+        19,
+        8,
+        10,
+        19,
+        22,
+        15,
+        15,
+        23,
+        7,
+        14,
+        16
+      ],
+      "2022-09": [
+        91,
+        20,
+        17,
+        11,
+        9,
+        7,
+        29,
+        4,
+        25,
+        5,
+        17,
+        7,
+        10,
+        21
+      ],
+      "2022-10": [
+        79,
+        18,
+        32,
+        13,
+        6,
+        7,
+        13,
+        5,
+        26,
+        9,
+        14,
+        4,
+        13,
+        14
+      ],
+      "2022-11": [
+        90,
+        30,
+        16,
+        12,
+        12,
+        7,
+        13,
+        1,
+        22,
+        11,
+        16,
+        4,
+        8,
+        15
+      ],
+      "2022-12": [
+        55,
+        16,
+        15,
+        13,
+        10,
+        8,
+        21,
+        5,
+        17,
+        5,
+        8,
+        4,
+        10,
+        10
+      ],
+      "2023-01": [
+        73,
+        17,
+        23,
+        5,
+        3,
+        6,
+        9,
+        5,
+        25,
+        17,
+        6,
+        7,
+        9,
+        18
+      ],
+      "2023-02": [
+        62,
+        22,
+        20,
+        12,
+        9,
+        10,
+        20,
+        6,
+        17,
+        7,
+        11,
+        2,
+        5,
+        15
+      ],
+      "2023-03": [
+        62,
+        26,
+        17,
+        5,
+        7,
+        3,
+        18,
+        5,
+        21,
+        5,
+        10,
+        2,
+        12,
+        12
+      ],
+      "2023-04": [
+        52,
+        14,
+        22,
+        11,
+        6,
+        1,
+        13,
+        5,
+        19,
+        12,
+        9,
+        6,
+        10,
+        10
+      ],
+      "2023-05": [
+        67,
+        13,
+        24,
+        17,
+        13,
+        5,
+        18,
+        2,
+        25,
+        15,
+        15,
+        6,
+        7,
+        14
+      ],
+      "2023-06": [
+        76,
+        19,
+        28,
+        11,
+        7,
+        8,
+        12,
+        3,
+        17,
+        12,
+        12,
+        3,
+        11,
+        10
+      ],
+      "2023-07": [
+        50,
+        26,
+        31,
+        7,
+        10,
+        6,
+        6,
+        3,
+        23,
+        16,
+        13,
+        8,
+        9,
+        15
+      ],
+      "2023-08": [
+        58,
+        45,
+        20,
+        10,
+        7,
+        3,
+        11,
+        5,
+        21,
+        12,
+        14,
+        11,
+        3,
+        14
+      ],
+      "2023-09": [
+        71,
+        37,
+        28,
+        13,
+        11,
+        9,
+        16,
+        5,
+        18,
+        9,
+        9,
+        5,
+        9,
+        13
+      ],
+      "2023-10": [
+        75,
+        31,
+        32,
+        16,
+        16,
+        9,
+        21,
+        3,
+        14,
+        12,
+        16,
+        6,
+        16,
+        25
+      ],
+      "2023-11": [
+        96,
+        25,
+        36,
+        18,
+        12,
+        6,
+        24,
+        12,
+        20,
+        10,
+        18,
+        5,
+        14,
+        15
+      ],
+      "2023-12": [
+        77,
+        12,
+        23,
+        11,
+        10,
+        3,
+        16,
+        2,
+        4,
+        9,
+        9,
+        2,
+        9,
+        16
+      ],
+      "2024-01": [
+        65,
+        24,
+        17,
+        11,
+        8,
+        5,
+        13,
+        6,
+        14,
+        6,
+        9,
+        6,
+        9,
+        16
+      ],
+      "2024-02": [
+        52,
+        16,
+        19,
+        8,
+        15,
+        4,
+        23,
+        6,
+        18,
+        7,
+        7,
+        3,
+        9,
+        19
+      ],
+      "2024-03": [
+        55,
+        12,
+        22,
+        7,
+        10,
+        4,
+        25,
+        5,
+        15,
+        12,
+        9,
+        4,
+        9,
+        17
+      ],
+      "2024-04": [
+        63,
+        10,
+        20,
+        13,
+        6,
+        2,
+        17,
+        4,
+        22,
+        6,
+        9,
+        1,
+        6,
+        11
+      ],
+      "2024-05": [
+        86,
+        21,
+        27,
+        9,
+        20,
+        6,
+        18,
+        7,
+        22,
+        9,
+        14,
+        6,
+        11,
+        21
+      ],
+      "2024-06": [
+        79,
+        21,
+        25,
+        12,
+        8,
+        9,
+        27,
+        19,
+        13,
+        13,
+        19,
+        2,
+        10,
+        13
+      ],
+      "2024-07": [
+        109,
+        22,
+        36,
+        17,
+        12,
+        11,
+        28,
+        10,
+        24,
+        5,
+        19,
+        5,
+        13,
+        23
+      ],
+      "2024-08": [
+        69,
+        11,
+        15,
+        15,
+        6,
+        5,
+        8,
+        4,
+        12,
+        10,
+        11,
+        4,
+        11,
+        19
+      ],
+      "2024-09": [
+        94,
+        24,
+        30,
+        14,
+        15,
+        7,
+        24,
+        6,
+        18,
+        16,
+        12,
+        7,
+        11,
+        16
+      ],
+      "2024-10": [
+        93,
+        33,
+        56,
+        19,
+        16,
+        6,
+        21,
+        2,
+        17,
+        12,
+        16,
+        10,
+        13,
+        13
+      ],
+      "2024-11": [
+        69,
+        19,
+        30,
+        20,
+        15,
+        4,
+        25,
+        9,
+        14,
+        17,
+        7,
+        4,
+        12,
+        13
+      ],
+      "2024-12": [
+        66,
+        15,
+        32,
+        11,
+        13,
+        6,
+        17,
+        6,
+        17,
+        12,
+        11,
+        1,
+        14,
+        20
+      ],
+      "2025-01": [
+        75,
+        14,
+        31,
+        16,
+        8,
+        4,
+        20,
+        6,
+        13,
+        16,
+        9,
+        2,
+        11,
+        14
+      ],
+      "2025-02": [
+        72,
+        21,
+        25,
+        8,
+        7,
+        8,
+        21,
+        2,
+        17,
+        12,
+        13,
+        5,
+        7,
+        7
+      ],
+      "2025-03": [
+        90,
+        21,
+        23,
+        11,
+        13,
+        3,
+        23,
+        5,
+        23,
+        8,
+        17,
+        0,
+        17,
+        13
+      ],
+      "2025-04": [
+        96,
+        15,
+        23,
+        12,
+        9,
+        6,
+        15,
+        3,
+        15,
+        9,
+        17,
+        5,
+        12,
+        15
+      ],
+      "2025-05": [
+        65,
+        14,
+        29,
+        12,
+        9,
+        4,
+        22,
+        5,
+        22,
+        10,
+        8,
+        7,
+        9,
+        20
+      ],
+      "2025-06": [
+        79,
+        18,
+        32,
+        12,
+        3,
+        7,
+        22,
+        4,
+        20,
+        16,
+        17,
+        2,
+        3,
+        15
+      ],
+      "2025-07": [
+        101,
+        55,
+        27,
+        21,
+        15,
+        7,
+        24,
+        4,
+        21,
+        19,
+        12,
+        16,
+        14,
+        17
+      ],
+      "2025-08": [
+        82,
+        28,
+        35,
+        16,
+        2,
+        5,
+        16,
+        4,
+        32,
+        13,
+        11,
+        5,
+        8,
+        17
+      ],
+      "2025-09": [
+        71,
+        21,
+        21,
+        10,
+        9,
+        5,
+        8,
+        5,
+        16,
+        11,
+        9,
+        6,
+        8,
+        9
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Simulating Reflected Light Exoplanet Spectra of the Promising Direct Imaging Target, $\\upsilon$ Andromedae d, with a New, Fast Sampling Method Using the Planetary Spectrum Generator",
+          "year": "2021-06",
+          "abstract": "Simulations of exoplanet albedo profiles are key to planning and interpreting\nfuture direct imaging observations. In this paper we demonstrate the use of the\nPlanetary Spectrum Generator to produce simulations of reflected light\nexoplanet spectra. We use PSG to examine multiple issues relevant to all models\nof directly imaged exoplanet spectra and to produce sample spectra of the\nbright, nearby exoplanet $\\upsilon$ Andromedae d, a potential direct imaging\ntarget for next-generation facilities. We introduce a new, fast, and accurate\nsubsampling technique that enables calculations of disk-integrated spectra one\norder of magnitude faster than Chebyshev-Gauss sampling for moderate- to\nhigh-resolution sampling. Using this method and a first-principles-derived\natmosphere for $\\upsilon$ And d, we simulate phase-dependent spectra for a\nvariety of different potential atmospheric configurations. The simulated\nspectra for $\\upsilon$ And d include versions with different haze and cloud\nproperties. Based on our combined analysis of this planet's orbital parameters,\nphase-and illumination-appropriate model spectra, and realistic instrument\nnoise parameters, we find that $\\upsilon$ And d is a potentially favorable\ndirect imaging and spectroscopy target for the Coronagraph Instrument (CGI) on\nthe Nancy Grace Roman Space Telescope. When a noise model corresponding to the\nRoman CGI SPC spectroscopy mode is included, PSG predicts the time required to\nreach a signal-to-noise ratio of 10 of the simulated spectra in both the\ncentral wavelength bin of the Roman CGI SPC spectroscopy mode (R=50 spectrum)\nand of the Band 1 HLC imaging mode is approximately 400 and less than 40 hr,\nrespectively. We also discuss potential pathways to extricating information\nabout the planet and its atmosphere with future observations and find that\nRoman observations may be able to bound the interior temperature of the planet.",
+          "arxiv_id": "2107.00015v1"
+        },
+        {
+          "title": "Precision radial velocity measurements by the forward-modeling technique in the near-infrared",
+          "year": "2020-07",
+          "abstract": "Precision radial velocity (RV) measurements in the near-infrared are a\npowerful tool to detect and characterize exoplanets around low-mass stars or\nyoung stars with higher magnetic activity. However, the presence of strong\ntelluric absorption lines and emission lines in the near infrared that\nsignificantly vary in time can prevent extraction of RV information from these\nspectra by classical techniques, which ignore or mask the telluric lines. We\npresent a methodology and pipeline to derive precision RVs from near-infrared\nspectra using a forward-modeling technique. We applied this to spectra with a\nwide wavelength coverage (Y, J, and H bands, simultaneously), taken by the\nInfraRed Doppler (IRD) spectrograph on the Subaru 8.2-m telescope. Our pipeline\nextracts the instantaneous instrumental profile of the spectrograph for each\nspectral segment, based on a reference spectrum of the laser-frequency comb\nthat is injected into the spectrograph simultaneously with the stellar light.\nThese profiles are used to derive the intrinsic stellar template spectrum,\nwhich is free from instrumental broadening and telluric features, as well as\nmodel and fit individual observed spectra in the RV analysis. Implementing a\nseries of numerical simulations using theoretical spectra that mimic IRD data,\nwe test the pipeline and show that IRD can achieve $<2$ m s$^{-1}$ precision\nfor slowly rotating mid-to-late M dwarfs with a signal-to-noise ratio $> 100$\nper pixel at 1000 nm. Dependences of RV precision on various stellar parameters\n(e.g., $T_{\\rm eff}$, $v\\sin i$, [Fe/H]) and the impact of telluric-line\nblendings on the RV accuracy are discussed through the mock spectra analyses.\nWe also apply the RV-analysis pipeline to the observed spectra of GJ 699 and\nTRAPPIST-1, demonstrating that the spectrograph and the pipeline are capable of\nan RV accuracy of $<3$ m s$^{-1}$ at least on a time scale of a few months.",
+          "arxiv_id": "2007.11013v2"
+        },
+        {
+          "title": "SWEET-Cat 2.0: The Cat just got SWEETer; Higher quality spectra and precise parallaxes from GAIA eDR3",
+          "year": "2021-09",
+          "abstract": "Aims. The catalog of Stars With ExoplanETs (SWEET-Cat) was originally\nintroduced in 2013. Since then many more exoplanets have been confirmed,\nincreasing significantly the number of host stars listed there. A crucial step\ntoward a comprehensive understanding of these new worlds is the precise and\nhomogeneous characterization of their host stars. Better spectroscopic stellar\nparameters along with new results from Gaia eDR3 provide updated and precise\nparameters for the discovered planets. A new version of the catalog, whose\nhomogeneity in the derivation of the parameters is key to unraveling\nstar-planet connections, is available to the community. Methods. We made use of\nhigh-resolution spectra for planet-host stars, either observed by our team or\ncollected through public archives. The spectroscopic stellar parameters were\nderived for the spectra following the same homogeneous process using ARES and\nMOOG (ARES+MOOG) as for the previous SWEET-Cat releases. We re-derived\nparameters for the stars in the catalog using better quality spectra and/or\nusing the most recent versions of the codes. Moreover, the new SWEET-Cat table\ncan now be more easily combined with the planet properties listed both at the\nExtrasolar Planets Encyclopedia and at the NASA exoplanet archive to perform\nstatistical analyses of exoplanets. We also made use of the recent GAIA eDR3\nparallaxes and respective photometry to derive consistent and accurate surface\ngravity values for the host stars. Results. We increased the number of stars\nwith homogeneous parameters by more than 40\\% (from 645 to 928). We reviewed\nand updated the metallicity distributions of stars hosting planets with\ndifferent mass regimes comparing the low-mass planets (< 30M$_{\\oplus}$) with\nthe high-mass planets. The new data strengthen previous results showing the\npossible trend in the metallicity-period-mass diagram for low-mass planets.",
+          "arxiv_id": "2109.04781v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Muon measurements at the Pierre Auger Observatory",
+          "year": "2022-09",
+          "abstract": "The Pierre Auger Observatory is the world's largest detector for observation\nof ultra-high-energy cosmic rays (UHECRs) (above the energy of $10^{17}$ eV).\nIt consists of a Fluorescence Detector (FD) and an array of particle detectors\nknown as the Surface Detector (SD). Observations of extensive air showers by\nthe Observatory can be used to probe hadronic interactions at high energy, in a\nkinematic and energy region inaccessible to experiments at man-made\naccelerators and to measure the muon component of the shower. Air showers\ninduced by different primaries have different muon contents. With increasing\nmass of the primary cosmic ray particle, it is expected that the muon content\nin the corresponding air showers should also increase. Recent results obtained\nfrom the Pierre Auger Observatory and other experiments indicate that all the\nshower simulations underestimate the number of muons in the showers compared to\nthe data. This is the so-called muon deficit. In this paper we briefly review\nthe muon measurements, and present in more detail recent results on\nfluctuations in the muon number. These results provide new insights into the\norigin of the muon deficit in air shower simulations and constrain the models\nof hadronic interactions at ultrahigh energies. With the current design of the\nsurface detectors it is also difficult to reliably separate the contributions\nof muons to the SD signal from the contributions of photons, electrons, and\npositrons. Therefore, we also present a new method to extract the muon\ncomponent of the signal time traces recorded by each SD station using recurrent\nneural networks. The combination of such algorithms, with the future data\ncollected by the upgraded Pierre Auger Observatory, will be a major step\nforward, as we are likely to achieve an unprecedented resolution in mass\nestimation on an event-by-event basis.",
+          "arxiv_id": "2209.13392v3"
+        },
+        {
+          "title": "EUSO-SPB2: A sub-orbital cosmic ray and neutrino multi-messenger pathfinder observatory",
+          "year": "2022-08",
+          "abstract": "The next generation of ultra-high energy cosmic ray (UHECR) and very-high\nenergy neutrino observatories will address the challenge of the extremely low\nfluxes of these particles at the highest energies. EUSO-SPB2 (Extreme Universe\nSpace Observatory on a Super Pressure Balloon2) is designed to prepare space\nmissions to address this challenge. EUSO-SPB2 is equipped with 2 telescopes:\nthe Fluorescence Telescope, which will point downwards and measure fluorescence\nemission from UHECR air showers with an energy above 2EeV, and the Cherenkov\nTelescope (CT), which will point towards the Earth's limb and measure direct\nCherenkov emission from cosmic rays with energies above 1PeV, verifying the\ntechnique. Pointed below the limb, the CT will search for Cherenkov emission\nproduced by neutrino-sourced tau-lepton decays above 10PeV energies and study\nbackgrounds for such events. The EUSO-SPB2 mission will provide pioneering\nobservations and technical milestones on the path towards a space-based\nmulti-messenger observatory.",
+          "arxiv_id": "2208.07466v2"
+        },
+        {
+          "title": "Signal extraction in atmospheric shower arrays designed for $\\rm 200\\,GeV-50\\,TeV$ $γ$-ray astronomy",
+          "year": "2021-05",
+          "abstract": "We present the SEMLA (Signal Extraction using Machine Learning for ALTO)\nanalysis method, developed for the detection of $\\rm E>200\\,GeV$ $\\gamma$ rays\nin the context of the ALTO wide-field-of-view atmospheric shower array R&D\nproject. The scientific focus of ALTO is extragalactic $\\gamma$-ray astronomy,\nso primarily the detection of soft-spectrum $\\gamma$-ray sources such as Active\nGalactic Nuclei and Gamma Ray Bursts. The current phase of the ALTO R&D project\nis the optimization of sensitivity for such sources and includes a number of\nideas which are tested and evaluated through the analysis of dedicated Monte\nCarlo simulations and hardware testing. In this context, it is important to\nclarify how data are analysed and how results are being obtained. SEMLA takes\nadvantage of machine learning and comprises four stages: initial event cleaning\n(stage A), filtering out of poorly reconstructed $\\gamma$-ray events (stage B),\nfollowed by $\\gamma$-ray signal extraction from proton background events (stage\nC) and finally reconstructing the energy of the events (stage D). The\nperformance achieved through SEMLA is evaluated in terms of the angular, shower\ncore position, and energy resolution, together with the effective detection\narea, and background suppression. Our methodology can be easily generalized to\nany experiment, provided that the signal extraction variables for the specific\nanalysis project are considered.",
+          "arxiv_id": "2105.06728v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Enhancing the sensitivity of transient gravitational wave searches with Gaussian Mixture Models",
+          "year": "2020-08",
+          "abstract": "Identifying the presence of a gravitational wave transient buried in\nnon-stationary, non-Gaussian noise which can often contain spurious noise\ntransients (glitches) is a very challenging task. For a given data set,\ntransient gravitational wave searches produce a corresponding list of triggers\nthat indicate the possible presence of a gravitational wave signal. These\ntriggers are often the result of glitches mimicking gravitational wave signal\ncharacteristics. To distinguish glitches from genuine gravitational wave\nsignals, search algorithms estimate a range of trigger attributes, with\nthresholds applied to these trigger properties to separate signal from noise.\nHere, we present the use of Gaussian mixture models, a supervised machine\nlearning approach, as a means of modelling the multi-dimensional trigger\nattribute space. We demonstrate this approach by applying it to triggers from\nthe coherent Waveburst search for generic bursts in LIGO O1 data. By building\nGaussian mixture models for the signal and background noise attribute spaces,\nwe show that we can significantly improve the sensitivity of the coherent\nWaveburst search and strongly suppress the impact of glitches and background\nnoise, without the use of multiple search bins as employed by the original O1\nsearch. We show that the detection probability is enhanced by a factor of 10,\nleading enhanced statistical significance for gravitational wave signals such\nas GW150914.",
+          "arxiv_id": "2008.01262v1"
+        },
+        {
+          "title": "Detecting and Denoising Gravitational Wave Signals from Binary Black Holes using Deep Learning",
+          "year": "2022-10",
+          "abstract": "We present a convolutional neural network, designed in the auto-encoder\nconfiguration that can detect and denoise astrophysical gravitational waves\nfrom merging black hole binaries, orders of magnitude faster than the\nconventional matched-filtering based detection that is currently employed at\nadvanced LIGO (aLIGO). The Neural-Net architecture is such that it learns from\nthe sparse representation of data in the time-frequency domain and constructs a\nnon-linear mapping function that maps this representation into two separate\nmasks for signal and noise, facilitating the separation of the two, from raw\ndata. This approach is the first of its kind to apply machine learning based\ngravitational wave detection/denoising in the 2D representation of\ngravitational wave data. We applied our formalism to the first gravitational\nwave event detected, GW150914, successfully recovering the signal at all three\nphases of coalescence at both detectors. This method is further tested on the\ngravitational wave data from the second observing run ($O2$) of aLIGO,\nreproducing all binary black hole mergers detected in $O2$ at both the aLIGO\ndetectors. The Neural-Net seems to have uncovered a pattern of 'ringing' after\nthe ringdown phase of the coalescence, which is not a feature that is present\nin the conventional binary merger templates. This method can also interpolate\nand extrapolate between modeled templates and explore gravitational waves that\nare unmodeled and hence not present in the template bank of signals used in the\nmatched-filtering detection pipelines. Faster and efficient detection schemes,\nsuch as this method, will be instrumental as ground based detectors reach their\ndesign sensitivity, likely to result in several hundreds of potential\ndetections in a few months of observing runs.",
+          "arxiv_id": "2210.01718v1"
+        },
+        {
+          "title": "BILBY in space: Bayesian inference for transient gravitational-wave signals observed with LISA",
+          "year": "2023-12",
+          "abstract": "The Laser Interferometer Space Antenna (LISA) is scheduled to launch in the\nmid 2030s, and is expected to observe gravitational-wave candidates from\nmassive black-hole binary mergers, extreme mass-ratio inspirals, and more.\nAccurately inferring the source properties from the observed gravitational-wave\nsignals is crucial to maximise the scientific return of the LISA mission.\nBILBY, the user-friendly Bayesian inference library, is regularly used for\nperforming gravitational-wave inference on data from existing ground-based\ngravitational-wave detectors. Given that Bayesian inference with LISA includes\nadditional subtitles and complexities beyond it's ground-based counterpart, in\nthis work we modify BILBY to perform parameter estimation with LISA. We show\nthat full nested sampling can be performed to accurately infer the properties\nof LISA sources from transient gravitational-wave signals in a) zero-noise and\nb) idealized instrumental noise. By focusing on massive black-hole binary\nmergers, we demonstrate that higher order multipole waveform models can be used\nto analyse a year's worth of simulated LISA data, and discuss the computational\ncost and performance of full nested sampling compared with techniques for\noptimising likelihood calculations, such as the heterodyned likelihood.",
+          "arxiv_id": "2312.13039v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Quokka: A code for two-moment AMR radiation hydrodynamics on GPUs",
+          "year": "2021-10",
+          "abstract": "We present Quokka, a new subcycling-in-time, block-structured adaptive mesh\nrefinement (AMR) radiation hydrodynamics code optimised for graphics processing\nunits (GPUs). Quokka solves the equations of hydrodynamics with the piecewise\nparabolic method (PPM) in a method-of-lines formulation, and handles radiative\ntransfer via the variable Eddington tensor (VET) radiation moment equations\nwith a local closure. We use the AMReX library to handle the adaptive mesh\nmanagement. In order to maximise GPU performance, we combine explicit-in-time\nevolution of the radiation moment equations with the reduced speed-of-light\napproximation. We show results for a wide range of test problems for\nhydrodynamics, radiation, and coupled radiation hydrodynamics. On uniform grids\nin 3D on a single GPU, our code achieves > 250 million hydrodynamic updates per\nsecond and almost 40 million radiation hydrodynamic updates per second. For\nradiation hydrodynamics problems on uniform grids in 3D, our code scales from 4\nGPUs to 256 GPUs with an efficiency of 76 per cent. The code is publicly\nreleased under an open-source license on GitHub.",
+          "arxiv_id": "2110.01792v2"
+        },
+        {
+          "title": "Smoothed Particle Radiation Hydrodynamics: Two-Moment method with Local Eddington Tensor Closure",
+          "year": "2021-02",
+          "abstract": "We present a new radiative transfer method (SPH-M1RT) that is coupled\ndynamically with smoothed particle hydrodynamics (SPH). We implement it in the\n(task-based parallel) SWIFT galaxy simulation code but it can be\nstraightforwardly implemented in other SPH codes. Our moment-based method\nsimultaneously solves the radiation energy and flux equations in SPH, making it\nadaptive in space and time. We modify the M1 closure relation to stabilize\nradiation fronts in the optically thin limit. We also introduce anisotropic\nartificial viscosity and high-order artificial diffusion schemes, which allow\nthe code to handle radiation transport accurately in both the optically thin\nand optically thick regimes. Non-equilibrium thermo-chemistry is solved using a\nsemi-implicit sub-cycling technique. The computational cost of our method is\nindependent of the number of sources and can be lowered further by using the\nreduced speed of light approximation. We demonstrate the robustness of our\nmethod by applying it to a set of standard tests from the cosmological\nradiative transfer comparison project of Iliev et al. The SPH-M1RT scheme is\nwell-suited for modelling situations in which numerous sources emit ionising\nradiation, such as cosmological simulations of galaxy formation or simulations\nof the interstellar medium.",
+          "arxiv_id": "2102.08404v2"
+        },
+        {
+          "title": "Tree-based solvers for adaptive mesh refinement code FLASH -- II: radiation transport module TreeRay",
+          "year": "2021-05",
+          "abstract": "The treatment of radiative transfer with multiple radiation sources is a\ncritical challenge in simulations of star formation and the interstellar\nmedium. In this paper we present the novel TreeRay method for solving general\nradiative transfer problems, based on reverse ray tracing combined with\ntree-based accelerated integration. We implement TreeRay in the adaptive mesh\nrefinement code FLASH, as a module of the tree solver developed by W\\\"unsch et\nal. However, the method itself is independent of the host code and can be\nimplemented in any grid based or particle based hydrodynamics code. A key\nadvantage of TreeRay is that its computational cost is independent of the\nnumber of sources, making it suitable for simulations with many point sources\n(e.g. massive star clusters) as well as simulations where diffuse emission is\nimportant. A very efficient communication and tree-walk strategy enables\nTreeRay to achieve almost ideal parallel scalings. TreeRay can easily be\nextended with sub-modules to treat radiative transfer at different wavelengths\nand to implement related physical processes. Here, we focus on ionising (EUV)\nradiation and use the On-the-Spot approximation to test the method and its\nparameters. The ability to set the tree solver time step independently enables\nthe speedy calculation of radiative transfer in a multi-phase interstellar\nmedium, where the hydrodynamic time step is typically limited by the sound\nspeed of the hot gas produced in stellar wind bubbles or supernova remnants. We\nshow that complicated simulations of star clusters with feedback from multiple\nmassive stars become feasible with TreeRay.",
+          "arxiv_id": "2105.09644v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Fast emulation of cosmological density fields based on dimensionality reduction and supervised machine-learning",
+          "year": "2023-04",
+          "abstract": "N-body simulations are the most powerful method to study the non-linear\nevolution of large-scale structure. However, they require large amounts of\ncomputational resources, making unfeasible their direct adoption in scenarios\nthat require broad explorations of parameter spaces. In this work, we show that\nit is possible to perform fast dark matter density field emulations with\ncompetitive accuracy using simple machine-learning approaches. We build an\nemulator based on dimensionality reduction and machine learning regression\ncombining simple Principal Component Analysis and supervised learning methods.\nFor the estimations with a single free parameter, we train on the dark matter\ndensity parameter, $\\Omega_m$, while for emulations with two free parameters,\nwe train on a range of $\\Omega_m$ and redshift. The method first adopts a\nprojection of a grid of simulations on a given basis; then, a machine learning\nregression is trained on this projected grid. Finally, new density cubes for\ndifferent cosmological parameters can be estimated without relying directly on\nnew N-body simulations by predicting and de-projecting the basis coefficients.\nWe show that the proposed emulator can generate density cubes at non-linear\ncosmological scales with density distributions within a few percent compared to\nthe corresponding N-body simulations. The method enables gains of three orders\nof magnitude in CPU run times compared to performing a full N-body simulation\nwhile reproducing the power spectrum and bispectrum within $\\sim 1\\%$ and $\\sim\n3\\%$, respectively, for the single free parameter emulation and $\\sim 5\\%$ and\n$\\sim 15\\%$ for two free parameters. This can significantly accelerate the\ngeneration of density cubes for a wide variety of cosmological models, opening\nthe doors to previously unfeasible applications, such as parameter and model\ninferences at full survey scales as the ESA/NASA Euclid mission.",
+          "arxiv_id": "2304.06099v1"
+        },
+        {
+          "title": "Estimating Cosmological Constraints from Galaxy Cluster Abundance using Simulation-Based Inference",
+          "year": "2022-07",
+          "abstract": "Inferring the values and uncertainties of cosmological parameters in a\ncosmology model is of paramount importance for modern cosmic observations. In\nthis paper, we use the simulation-based inference (SBI) approach to estimate\ncosmological constraints from a simplified galaxy cluster observation analysis.\nUsing data generated from the Quijote simulation suite and analytical models,\nwe train a machine learning algorithm to learn the probability function between\ncosmological parameters and the possible galaxy cluster observables. The\nposterior distribution of the cosmological parameters at a given observation is\nthen obtained by sampling the predictions from the trained algorithm. Our\nresults show that the SBI method can successfully recover the truth values of\nthe cosmological parameters within the 2{\\sigma} limit for this simplified\ngalaxy cluster analysis, and acquires similar posterior constraints obtained\nwith a likelihood-based Markov Chain Monte Carlo method, the current state-of\nthe-art method used in similar cosmological studies.",
+          "arxiv_id": "2208.00134v1"
+        },
+        {
+          "title": "The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison",
+          "year": "2024-05",
+          "abstract": "We advocate for a new paradigm of cosmological likelihood-based inference,\nleveraging recent developments in machine learning and its underlying\ntechnology, to accelerate Bayesian inference in high-dimensional settings.\nSpecifically, we combine (i) emulation, where a machine learning model is\ntrained to mimic cosmological observables, e.g. CosmoPower-JAX; (ii)\ndifferentiable and probabilistic programming, e.g. JAX and NumPyro,\nrespectively; (iii) scalable Markov chain Monte Carlo (MCMC) sampling\ntechniques that exploit gradients, e.g. Hamiltonian Monte Carlo; and (iv)\ndecoupled and scalable Bayesian model selection techniques that compute the\nBayesian evidence purely from posterior samples, e.g. the learned harmonic mean\nimplemented in harmonic. This paradigm allows us to carry out a complete\nBayesian analysis, including both parameter estimation and model selection, in\na fraction of the time of traditional approaches. First, we demonstrate the\napplication of this paradigm on a simulated cosmic shear analysis for a Stage\nIV survey in 37- and 39-dimensional parameter spaces, comparing $\\Lambda$CDM\nand a dynamical dark energy model ($w_0w_a$CDM). We recover posterior contours\nand evidence estimates that are in excellent agreement with those computed by\nthe traditional nested sampling approach while reducing the computational cost\nfrom 8 months on 48 CPU cores to 2 days on 12 GPUs. Second, we consider a joint\nanalysis between three simulated next-generation surveys, each performing a\n3x2pt analysis, resulting in 157- and 159-dimensional parameter spaces.\nStandard nested sampling techniques are simply unlikely to be feasible in this\nhigh-dimensional setting, requiring a projected 12 years of compute time on 48\nCPU cores; on the other hand, the proposed approach only requires 8 days of\ncompute time on 24 GPUs. All packages used in our analyses are publicly\navailable.",
+          "arxiv_id": "2405.12965v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Performance Benefit of Aerocapture for the Design Reference Mission Set",
+          "year": "2023-09",
+          "abstract": "Aerocapture is a maneuver which uses aerodynamic drag to slow down a\nspacecraft in a single pass through the atmosphere. All planetary orbiters to\ndate have used propulsive orbit insertion. Aerocapture is a promising\nalternative, especially for small satellite missions and missions to the ice\ngiants. The large {\\Delta}V requirement makes it practically impossible for\nsmall satellites to enter low circular orbits. Aerocapture can enable insertion\nof low-cost satellites into circular orbits around Mars and Venus. For ice\ngiant missions, aerocapture can enable orbit insertion from fast arrival\ntrajectories which are impractical with propulsive insertion. By utilizing the\natmospheric drag to impart the {\\Delta}V, aerocapture can offer significant\npropellant mass and cost savings for a wide range of planetary missions. The\npresent study analyzes the performance benefit offered by aerocapture for a set\nof design reference missions and their applications to future Solar System\nexploration from Venus to Neptune. The estimated performance benefit for\naerocapture in terms of delivered mass increase are: Venus (92%), Earth (108%),\nMars (17%), and Titan (614%), Uranus (35%), and Neptune (43%). At Uranus and\nNeptune, aerocapture is a mission enabling technology for orbit insertion from\nfast arrival interplanetary trajectories.",
+          "arxiv_id": "2309.09438v1"
+        },
+        {
+          "title": "A Low Cost Mars Aerocapture Technology Demonstrator",
+          "year": "2023-07",
+          "abstract": "The ability to launch small secondary payloads to Mars on future science\nmissions present an exciting opportunity for demonstration of advanced\ntechnologies for planetary exploration such as aerocapture. Over the years,\nseveral aerocapture technology demonstration missions have been proposed but\nnone could be realized, causing the technology to become dormant as it is seen\nas too risky and expensive to be used on a science mission. The present study\nproposes a low-cost Mars aerocapture demonstration concept as a secondary\npayload, and could pave the way for future low-cost small interplanetary\norbiter missions. The proposed mission heavily leverages the mission\narchitecture and the flight hardware of the MarCO spacecraft for a low cost\nmission. The 35 kg technology demonstrator would launch as an ESPA secondary\npayload on a future Mars mission, and would be deployed from the upper stage\nsoon after primary spacecraft separation. The vehicle then independently\ncruises to Mars, where it will perform aerocapture and insert a 6U MarCO\nheritage CubeSat to a 200 x 2000 km orbit. The mission architecture\nincorporates a number of cost saving approaches, and is estimated to fit within\na 30M cost cap, of which 10M is allocated for technology development and risk\nreduction.",
+          "arxiv_id": "2307.11378v1"
+        },
+        {
+          "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
+          "year": "2025-09",
+          "abstract": "Near-Earth asteroid 2024 YR4 was discovered on 2024-12-27 and its probability\nof Earth impact in December 2032 peaked at about 3% on 2025-02-18. Additional\nobservations ruled out Earth impact by 2025-02-23. However, the probability of\nlunar impact in December 2032 then rose, reaching about 4% by the end of the\napparition in May 2025. James Webb Space Telescope (JWST) observations on\n2025-03-26 estimated the asteroid's diameter at 60 +/- 7 m. Studies of 2024\nYR4's potential lunar impact effects suggest lunar ejecta could increase\nmicrometeoroid debris flux in low Earth orbit up to 1000 times above background\nlevels over just a few days, possibly threatening astronauts and spacecraft. In\nthis work, we present options for space missions to 2024 YR4 that could be\nutilized if lunar impact is confirmed. We cover flyby & rendezvous\nreconnaissance, deflection, and robust disruption of the asteroid. We examine\nboth rapid-response and delayed launch options through 2032. We evaluate\nchemical and solar electric propulsion, various launch vehicles, optimized deep\nspace maneuvers, and gravity assists. Re-tasking extant spacecraft and using\nbuilt spacecraft not yet launched are also considered. The best reconnaissance\nmission options launch in late 2028, leaving only approximately three years for\ndevelopment at the time of this writing in August 2025. Deflection missions\nwere assessed and appear impractical. However, kinetic robust disruption\nmissions are available with launches between April 2030 and April 2032. Nuclear\nrobust disruption missions are also available with launches between late 2029\nand late 2031. Finally, even if lunar impact is ruled out there is significant\npotential utility in deploying a reconnaissance mission to characterize the\nasteroid.",
+          "arxiv_id": "2509.12351v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Towards an Astronomical Science Platform: Experiences and Lessons Learned from Chinese Virtual Observatory",
+          "year": "2020-05",
+          "abstract": "In the era of big data astronomy, next generation telescopes and large sky\nsurveys produce data sets at the TB or even PB level. Due to their large data\nvolumes, these astronomical data sets are extremely difficult to transfer and\nanalyze using personal computers or small clusters. In order to offer better\naccess to data, data centers now generally provide online science platforms\nthat enable analysis close to the data. The Chinese Virtual Observatory\n(China-VO) is one of the member projects in the International Virtual\nObservatory Alliance and it is dedicated to providing a research and education\nenvironment where globally distributed astronomy archives are simple to find,\naccess, and interoperate. In this study, we summarize highlights of the work\nconducted at the China-VO, as well the experiences and lessons learned during\nthe full life-cycle management of astronomical data. Finally, We discuss the\nchallenges and future trends for astronomical science platforms.",
+          "arxiv_id": "2005.10501v1"
+        },
+        {
+          "title": "Astronomical data organization, management and access in Scientific Data Lakes",
+          "year": "2022-02",
+          "abstract": "The data volumes stored in telescope archives is constantly increasing due to\nthe development and improvements in the instrumentation. Often the archives\nneed to be stored over a distributed storage architecture, provided by\nindependent compute centres. Such a distributed data archive requires\noverarching data management orchestration. Such orchestration comprises of\ntools which handle data storage and cataloguing, and steering transfers\nintegrating different storage systems and protocols, while being aware of data\npolicies and locality. In addition, it needs a common Authorisation and\nAuthentication Infrastructure (AAI) layer which is perceived as a single entity\nby end users and provides transparent data access.\n  The scientific domain of particle physics also uses complex and distributed\ndata management systems. The experiments at the Large Hadron Collider\\,(LHC)\naccelerator at CERN generate several hundred petabytes of data per year. This\ndata is globally distributed to partner sites and users using national compute\nfacilities. Several innovative tools were developed to successfully address the\ndistributed computing challenges in the context of the Worldwide LHC Computing\nGrid (WLCG).\n  The work being carried out in the ESCAPE project and in the Data\nInfrastructure for Open Science (DIOS) work package is to prototype a\nScientific Data Lake using the tools developed in the context of the WLCG,\nharnessing different physics scientific disciplines addressing FAIR standards\nand Open Data. We present how the Scientific Data Lake prototype is applied to\naddress astronomical data use cases. We introduce the software stack and also\ndiscuss some of the differences between the domains.",
+          "arxiv_id": "2202.01828v1"
+        },
+        {
+          "title": "The Benefits of the Virtual Observatory to Underserved Communities",
+          "year": "2024-12",
+          "abstract": "The Virtual Observatory (VO) is a global ecosystem of interoperating services\nthat connect worldwide data archives. The VO is implemented in all major\nastronomy archives through common interfaces developed by the 22 members of the\nInternational Virtual Observatory Alliance (IVOA). It was founded in 2002, and\nthe newest members, the SKA Observatory and the Kazakhstan Virtual Observatory,\njoined in 2022. The VO offers access to data on FAIR principles and from its\ninception has supported Open Science. The VO acts as a democratizing influence\nin astronomy: it provides equal access to worldwide public data sets to\nunderserved communities as well as to large data centers, and it enables\ninternational participation in scientific research and education. Thus,\nastronomers from many different communities are positioned to participate in\nthe big science questions emerging in astronomy in the 2020s, such as\ninterpreting transient sources that will be measured in forthcoming missions\nsuch as Rubin. In addition, the IVOA has signed an MoU with the IAU Office of\nAstronomy for Development (OAD). Under this MoU, IVOA members participated in\n\"Astronomy from Archival Data,\" which involved educational activities for\nundergraduate and post-graduate students organized by Dr. Priya Hasan. The IVOA\nplans to participate in future such educational events. The presentation\ndescribes how new communities may participate in Virtual Observatory science\nand educational activities, including practices for developing VO-compliant\ndata centers and archives and education and training for developers and end\nusers.",
+          "arxiv_id": "2412.07973v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "The Simons Observatory: Design, Optimization, and Performance of Low Frequency Detectors",
+          "year": "2024-12",
+          "abstract": "The Simons Observatory (SO) is a cosmic microwave background (CMB) experiment\nlocated in the Atacama Desert in Chile that will make precise temperature and\npolarization measurements over six spectral bands ranging from 27 to 285 GHz.\nThree small aperture telescopes (SATs) and one large aperture telescope (LAT)\nwill house $\\sim$60,000 detectors and cover angular scales between one\narcminute and tens of degrees. We present the performance of the dichroic,\nlow-frequency (LF) lenslet-coupled sinuous antenna transition-edge sensor (TES)\nbolometer arrays with bands centered at 27 and 39 GHz. The LF focal plane will\nprimarily characterize Galactic synchrotron emission as a critical part of\nforeground subtraction from CMB data. We will discuss the design, optimization,\nand current testing status of these pixels.",
+          "arxiv_id": "2412.01204v1"
+        },
+        {
+          "title": "Assembly development for the Simons Observatory focal plane readout module",
+          "year": "2022-04",
+          "abstract": "The Simons Observatory (SO) is a suite of instruments sensitive to\ntemperature and polarization of the cosmic microwave background (CMB) to be\nlocated at Cerro Toco in the Atacama Desert in Chile. Five telescopes, one\nlarge aperture telescope and four small aperture telescopes, will host roughly\n70,000 highly multiplexed transition edge sensor (TES) detectors operated at\n100 mK. Each SO focal plane module (UFM) couples 1,764 TESes to microwave\nresonators in a microwave multiplexing (uMux) readout circuit. Before detector\nintegration, the 100 mK uMux components are packaged into multiplexing modules\n(UMMs), which are independently validated to ensure they meet SO performance\nspecifications. Here we present the assembly developments of these UMM readout\npackages for mid frequency (90/150 GHz) and ultra high frequency (220/280 GHz)\nUFMs.",
+          "arxiv_id": "2204.05869v2"
+        },
+        {
+          "title": "The Simons Observatory: Magnetic Sensitivity Measurements of Microwave SQUID Multiplexers",
+          "year": "2020-12",
+          "abstract": "The Simons Observatory (SO) will be a cosmic microwave background (CMB)\nsurvey experiment with three small-aperture telescopes and one large-aperture\ntelescope, which will observe from the Atacama Desert in Chile. In total, SO\nwill field $\\sim$70,000 transition-edge sensor (TES) bolometers in six spectral\nbands centered between 27 and 280 GHz in order to achieve the sensitivity\nnecessary to measure or constrain numerous cosmological quantities. The SO\nUniversal Focal Plane Modules (UFMs) each contain a 150 mm diameter TES\ndetector array, horn or lenslet optical coupling, cold readout components, and\nmagnetic shielding. SO will use a microwave SQUID multiplexing ($\\mu$MUX)\nreadout at an initial multiplexing factor of $\\sim$1000; the cold (100 mK)\nreadout components are packaged in a $\\mu$MUX readout module, which is part of\nthe UFM, and can also be characterized independently. The 100 mK stage TES\nbolometer arrays and microwave SQUIDs are sensitive to magnetic fields, and\ntheir measured response will vary with the degree to which they are\nmagnetically shielded. We present measurements of the magnetic pickup of test\nmicrowave SQUID multiplexers as a study of various shielding configurations for\nthe Simons Observatory. We discuss how these measurements motivated the\nmaterial choice and design of the UFM magnetic shielding.",
+          "arxiv_id": "2012.04532v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "Exploring the Solar Poles: The Last Great Frontier of the Sun",
+          "year": "2022-12",
+          "abstract": "Despite investments in multiple space and ground-based solar observatories by\nthe global community, the Sun's polar regions remain unchartered territory -\nthe last great frontier for solar observations. Breaching this frontier is\nfundamental to understanding the solar cycle - the ultimate driver of\nshort-to-long term solar activity that encompasses space weather and space\nclimate. Magnetohydrodynamic dynamo models and empirically observed\nrelationships have established that the polar field is the primary determinant\nof the future solar cycle amplitude. Models of solar surface evolution of\ntilted active regions indicate that the mid to high latitude surges of magnetic\nflux govern dynamics leading to the reversal and build-up of polar fields. Our\ntheoretical understanding and numerical models of this high latitude magnetic\nfield dynamics and plasma flows - that are a critical component of the sunspot\ncycle - lack precise observational constraints. This limitation compromises our\nability to observe the enigmatic kilo Gauss polar flux patches and constrain\nthe polar field distribution at high latitudes. The lack of these observations\nhandicap our understanding of how high latitude magnetic fields power polar\njets, plumes, and the fast solar wind that extend to the boundaries of the\nheliosphere and modulate solar open flux and cosmic ray flux within the solar\nsystem. Accurate observation of the Sun's polar regions, therefore, is the\nsingle most outstanding challenge that confronts Heliophysics. This paper\nargues the scientific case for novel out of ecliptic observations of the Sun's\npolar regions, in conjunction with existing, or future multi-vantage point\nheliospheric observatories. Such a mission concept can revolutionize the field\nof Heliophysics like no other mission concept has - with relevance that\ntranscends spatial regimes from the solar interior to the heliosphere.",
+          "arxiv_id": "2301.00010v1"
+        },
+        {
+          "title": "Solar Radio Imaging at Arecibo: The Brightness Temperature and Magnetic Field of Active Regions",
+          "year": "2023-07",
+          "abstract": "Strong solar magnetic fields are the energy source of intense flares and\nenergetic coronal mass ejections of space weather importance. The key issue is\nthe difficulty in predicting the occurrence time and location of strong solar\neruptions, those leading to high impact space weather disturbances at the\nnear-Earth environment. Here, we report regular solar mapping made at X-band\n(8.1 -- 9.2 GHz) with the Arecibo 12-m radio telescope. This has demonstrated\nits potential for identifying active regions, about one half to a day in\nadvance, when they rotate on to the central meridian of the Sun, and predicting\nthe strongest flares and coronal mass ejections directed towards the Earth.\nResults show (i) a good correlation between the temporal evolution of\nbrightness temperature of active regions and their magnetic configurations;\n(ii) the ability of the mapping data to provide a better picture of the\nformation sites of active regions and to accurately track their evolution\nacross the solar disk, giving forewarning of intense solar eruptions leading to\nsevere space weather consequences; (iii) the importance of long-term monitoring\nof the Sun at X-band for understanding the complex three-dimensional evolution\nof solar features as a function of solar activity. The key point in this study\nis the identification of the magnetic properties of active regions on the solar\ndisk to aid in improving forecast strategies for extreme space-weather events.",
+          "arxiv_id": "2307.00328v1"
+        },
+        {
+          "title": "Heating and dynamics of the Solar atmosphere",
+          "year": "2023-04",
+          "abstract": "The solar atmosphere shows anomalous variation in temperature, starting from\nthe 5500 K photosphere to the million-degree Kelvin corona. The corona itself\nexpands into the interstellar medium as the free streaming solar wind, which\nmodulates and impacts the near-Earth space weather. The precise source regions\nof different structures in the solar wind, their formation height, and the\nheating of the solar atmosphere are inextricably linked and unsolved problems\nin astrophysics. Observations suggest correlations between Coronal holes (CHs),\nwhich are cool, intensity deficit structures in the solar corona, with\nstructures in the solar wind. Observations also suggest the local plasma\nheating in the corona through power-law distributed impulsive events. In this\nthesis, we use narrowband photometric, spectroscopic, and disc-integrated\nemission of the solar atmosphere ranging from Near Ultraviolet to X-rays along\nwith in-situ solar wind measurements to understand (i). the source regions of\nthe solar wind, (ii). the underlying mechanism of solar coronal heating, and\n(iii). the differentiation in dynamics of CHs with the background Quiet Sun\n(QS) regions, which do not show any significant signature of the solar wind. We\nleverage machine learning and numerical modeling tools to develop solar wind\nforecasting codes using interpretable AI, inversion codes to infer the\nproperties of impulsive events and to understand the differences in the\nthermodynamics of CHs and QS regions. We finally present a unified scenario of\nsolar wind emergence and heating in the solar atmosphere and discuss the\nimplications of inferences from this thesis.",
+          "arxiv_id": "2304.01553v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Radio Frequency Interference Mitigation and Statistics in the Spectral Observations of FAST",
+          "year": "2021-11",
+          "abstract": "In radio astronomy, radio frequency interference (RFI) becomes more and more\nserious for radio observational facilities. The RFI always influences the\nsearch and study of the interesting astronomical objects. Mitigating the RFI\nbecomes an essential procedure in any survey data processing.\nFive-hundred-meter Aperture Spherical radio Telescope (FAST) is an extremely\nsensitive radio telescope. It is necessary to find out an effective and precise\nRFI mitigation method for FAST data processing. In this work, we introduce a\nmethod to mitigate the RFI in FAST spectral observation and make a statistics\nfor the RFI using around 300 hours FAST data. The details are as follows.\nFirstly, according to the characteristics of FAST spectra, we propose to use\nthe ArPLS algorithm for baseline fitting. Our test results show that it has a\ngood performance. Secondly, we flag the RFI with four strategies, which are to\nflag extremely strong RFI, flag long-lasting RFI, flag polarized RFI, and flag\nbeam-combined RFI, respectively. The test results show that all the RFI above a\npreset threshold could be flagged. Thirdly, we make a statistics for the\nprobabilities of polarized XX and YY RFI in FAST observations. The statistical\nresults could tell us which frequencies are relatively quiescent. With such\nstatistical data, we are able to avoid using such frequencies in our spectral\nobservations. Finally, based on the around 300 hours FAST data, we got an RFI\ntable, which is the most complete database currently for FAST.",
+          "arxiv_id": "2111.11018v2"
+        },
+        {
+          "title": "High-Time Resolution GPU Imager for FRB searches at low radio frequencies",
+          "year": "2024-05",
+          "abstract": "Fast Radio Bursts (FRBs) are millisecond dispersed radio pulses of\npredominately extra-galactic origin. Although originally discovered at GHz\nfrequencies, most FRBs have been detected between 400 to 800 MHz. Nevertheless,\nonly a handful of FRBs were detected below 400 MHz. Searching for FRBs at low\nfrequencies is computationally challenging due to increased dispersive delay\nthat must be accounted for. However, the wide field of view (FoV) of\nlow-frequency telescopes - such as the the Murchison Widefield Array (MWA), and\nprototype stations of the low-frequency Square Kilometre Array (SKA-Low) -\nmakes them promising instruments to open a low-frequency window on FRB event\nrates, and constrain FRB emission models. The standard approach, inherited from\nhigh-frequencies, is to form multiple tied-array beams to tessellate the entire\nFoV and perform the search on the resulting time series. This approach,\nhowever, may not be optimal for low-frequency interferometers due to their\nlarge FoVs and high spatial resolutions leading to a large number of beams.\nConsequently, there are regions of parameter space in terms of number of\nantennas and resolution elements (pixels) where interferometric imaging is\ncomputationally more efficient. Here we present a new high-time resolution\nimager BLINK implemented on modern Graphical Processing Units (GPUs) and\nintended for radio astronomy. The main goal for this imager is to become part\nof a fully GPU-accelerated FRB search pipeline. We describe the imager and\npresent its verification on real and simulated data processed to form all-sky\nand widefield images from the MWA and prototype SKA-Low stations. We also\npresent and compare benchmarks of the GPU and CPU code executed on laptops,\ndesktop computers, and Australian supercomputers. The code is publicly\navailable at https://github.com/PaCER-BLINK-Project/imager and can be applied\nto data from any radio telescope.",
+          "arxiv_id": "2405.13478v1"
+        },
+        {
+          "title": "Low Complexity Radio Frequency Interference Mitigation for Radio Astronomy Using Large Antenna Array",
+          "year": "2024-03",
+          "abstract": "With the ongoing growth in radio communications, there is an increased\ncontamination of radio astronomical source data, which hinders the study of\ncelestial radio sources. In many cases, fast mitigation of strong radio\nfrequency interference (RFI) is valuable for studying short lived radio\ntransients so that the astronomers can perform detailed observations of\ncelestial radio sources. The standard method to manually excise contaminated\nblocks in time and frequency makes the removed data useless for radio astronomy\nanalyses. This motivates the need for better radio frequency interference (RFI)\nmitigation techniques for array of size M antennas. Although many solutions for\nmitigating strong RFI improves the quality of the final celestial source\nsignal, many standard approaches require all the eigenvalues of the spatial\ncovariance matrix ($\\textbf{R} \\in \\mathbb{C}^{M \\times M}$) of the received\nsignal, which has $O(M^3)$ computation complexity for removing RFI of size $d$\nwhere $\\textit{d} \\ll M$. In this work, we investigate two approaches for RFI\nmitigation, 1) the computationally efficient Lanczos method based on the\nQuadratic Mean to Arithmetic Mean (QMAM) approach using information from\npreviously-collected data under similar radio-sky-conditions, and 2) an\napproach using a celestial source as a reference for RFI mitigation. QMAM uses\nthe Lanczos method for finding the Rayleigh-Ritz values of the covariance\nmatrix $\\textbf{R}$, thus, reducing the computational complexity of the overall\napproach to $O(\\textit{d}M^2)$. Our numerical results, using data from the\nradio observatory Long Wavelength Array (LWA-1), demonstrate the effectiveness\nof both proposed approaches to remove strong RFI, with the QMAM-based approach\nstill being computationally efficient.",
+          "arxiv_id": "2403.04250v1"
+        }
+      ],
+      "10": [
+        {
+          "title": "Robust Extraction of Global 21 cm Spectrum from Experiments with a Chromatic Beam Based on Physics-Motivated Error Modeling",
+          "year": "2025-07",
+          "abstract": "The extraction of the sky-averaged 21 cm signal from Cosmic Dawn and the\nEpoch of Reionization faces significant challenges. The bright and anisotropic\nGalactic foreground, which is 4 - 5 orders of magnitude brighter than the 21 cm\nsignal, when convolved with the inevitably chromatic beam, introduces\nadditional spectral structures that can easily mimic the real 21 cm signal. In\nthis paper, we investigate the signal extraction for a lunar-orbit experiment,\nwhere the antenna moves fast in orbit and data from multiple orbits have to be\nused. We propose a physics-motivated and correlated modeling of both the\nforeground and the measurement errors. By dividing the sky into multiple\nregions according to the spectral index distribution and accounting for the\nfull covariance of modeling errors, we jointly fit both the foreground and the\n21 cm signal using simulated data for the Discovering the Sky at the Longest\nwavelength lunar orbit experiment. This method successfully extracts the 21 cm\nsignals of various amplitudes from the simulated data even for a testing\nantenna with a relatively high level of chromaticity. This approach, which is\nrobust against moderate beam chromaticity, significantly relaxes the stringent\ndesign and manufacturing requirements for the antenna, offering a practical\nsolution for future 21 cm global signal experiments either on the ground or in\nspace.",
+          "arxiv_id": "2507.13102v2"
+        },
+        {
+          "title": "A Bayesian approach to modelling spectrometer data chromaticity corrected using beam factors -- II. Model priors and posterior odds",
+          "year": "2025-06",
+          "abstract": "The reliable detection of the global 21-cm signal, a key tracer of Cosmic\nDawn and the Epoch of Reionization, requires meticulous data modelling and\nrobust statistical frameworks for model validation and comparison. In Paper I\nof this series, we presented the Beam-Factor-based Chromaticity Correction\n(BFCC) model for spectrometer data processed using BFCC to suppress\ninstrumentally induced spectral structure. We demonstrated that the BFCC model,\nwith complexity calibrated by Bayes factor-based model comparison (BFBMC),\nenables unbiased recovery of a 21-cm signal consistent with the one reported by\nEDGES from simulated data. Here, we extend the evaluation of the BFCC model to\nlower amplitude 21-cm signal scenarios where deriving reliable conclusions\nabout a model's capacity to recover unbiased 21-cm signal estimates using BFBMC\nis more challenging. Using realistic simulations of chromaticity-corrected\nEDGES-low spectrometer data, we evaluate three signal amplitude regimes --\nnull, moderate, and high. We then conduct a Bayesian comparison between the\nBFCC model and three alternative models previously applied to 21-cm signal\nestimation from EDGES data. To mitigate biases introduced by systematics in the\n21-cm signal model fit, we incorporate the Bayesian Null-Test-Evidence-Ratio\n(BaNTER) validation framework and implement a Bayesian inference workflow based\non posterior odds of the validated models. We demonstrate that, unlike BFBMC\nalone, this approach consistently recovers 21-cm signal estimates that align\nwith the true signal across all amplitude regimes, advancing robust global\n21-cm signal detection methodologies.",
+          "arxiv_id": "2506.20042v1"
+        },
+        {
+          "title": "Mitigating incoherent excess variance in high-redshift 21-cm observations with multi-output cross Gaussian process regression",
+          "year": "2025-08",
+          "abstract": "Systematic effects that limit the achievable sensitivity of current\nlow-frequency radio telescopes to the 21-cm signal are among the foremost\nchallenges in observational 21-cm cosmology. The standard approach to\nretrieving the 21-cm signal from radio interferometric data separates it from\nbright astrophysical foregrounds by exploiting their spectrally smooth nature,\nin contrast to the finer spectral structure of the 21-cm signal. Contaminants\nexhibiting rapid frequency fluctuations, on the other hand, are difficult to\nseparate from the 21-cm signal using standard techniques, and the power from\nthese contaminants contributes to low-level systematics that can limit our\nability to detect the 21-cm signal. Many of these low-level systematics are\nincoherent across multiple nights of observation, resulting in an incoherent\nexcess variance above the thermal noise sensitivity of the instrument. In this\npaper, we develop a method called cross-GPR (cross covariance Gaussian process\nregression) that exploits the incoherence of these systematics to separate them\nfrom the 21-cm signal, which remains coherent across multiple nights of\nobservation. We first develop and demonstrate the technique on synthetic\nsignals in a general setting, and then apply it to gridded interferometric\nvisibility cubes. We perform realistic simulations of visibility cubes\ncontaining foregrounds, 21-cm signal, noise, and incoherent systematics. The\nsimulations show that the method can successfully separate and subtract\nincoherent contributions to the excess variance, and its advantages over\nstandard techniques become more evident when the spectral behavior of the\ncontaminants resembles that of the 21-cm signal. Simulations performed on a\nvariety of 21-cm signal shapes also reveal that the cross-GPR approach can\nsubtract incoherent contributions to the excess variance, without suppressing\nthe 21-cm signal.",
+          "arxiv_id": "2508.08235v1"
+        }
+      ],
+      "11": [
+        {
+          "title": "Photon-induced desorption of larger species in UV-irradiated methane (CH4) ice",
+          "year": "2020-02",
+          "abstract": "At the low temperatures found in the interior of dense clouds and\ncircumstellar regions, along with H$_2$O and smaller amounts of species such as\nCO, CO$_2$, or CH$_3$OH, the infrared features of CH$_4$ have been observed on\nicy dust grains. Ultraviolet (UV) photons induce different processes in ice\nmantles, affecting the molecular abundances detected in the gas-phase. This\nwork aims to understand the processes that occur in a pure CH$_4$ ice mantle\nsubmitted to UV irradiation. We studied photon-induced processes for the\ndifferent photoproducts arising in the ice upon UV irradiation. Experiments\nwere carried out in ISAC, an ultra-high vacuum chamber equipped with a cryostat\nand an F-type UV-lamp reproducing the secondary UV-field induced by cosmic rays\nin dense clouds. Infrared spectroscopy and quadrupole mass spectrometry were\nused to monitor the solid and gas-phase, respectively, during the formation,\nirradiation, and warm-up of the ice. Direct photodesorption of pure CH$_4$ was\nnot observed. UV photons form CH$_x\\cdot$ and H$\\cdot$ radicals, leading to\nphotoproducts such as H$_2$, C$_2$H$_2$, C$_2$H$_6$, and C$_3$H$_8$. Evidence\nfor the photodesorption of C$_2$H$_2$ and photochemidesorption of C$_2$H$_6$\nand C$_3$H$_8$ was found, the latter species is so far the largest molecule\nfound to photochemidesorb. $^{13}$CH$_4$ experiments were also carried out to\nconfirm the reliability of these results.",
+          "arxiv_id": "2002.00173v1"
+        },
+        {
+          "title": "Interstellar carbonaceous dust erosion induced by X-ray irradiation of water ice in star-forming regions",
+          "year": "2023-10",
+          "abstract": "The chemical inventory of protoplanetary midplanes is the basis for forming\nplanetesimals. Among them, solid-state reactions based on CO/CO$_2$ toward\nmolecular complexity on interstellar dust grains have been studied in\ntheoretical and laboratory work. In this work, the erosion of C dust grains\ninduced by X-ray irradiation of H$_2$O ice was systematically investigated for\nthe first time. The work aims to provide a better understanding of the reaction\nmechanism using selectively isotope-labeled oxygen/carbon species in kinetic\nanalysis. Ultrahigh vacuum experiments were performed to study the interstellar\nice analog on sub-$\\mu$m thick C dust at $\\sim$13~K. H$_2$O or O$_2$ ice was\ndeposited on the pre-synthesized amorphous C dust and exposed to soft X-ray\nphotons (250--1250~eV). Fourier-transform infrared spectroscopy was used to\nmonitor in situ the newly formed species as a function of the incident photon\nfluence. Field emission scanning electron microscopy was used to monitor the\nmorphological changes of (non-)eroded carbon samples. The X-ray processing of\nthe ice/dust interface leads to the formation of CO$_2$, which further\ndissociates and forms CO. Carbonyl groups are formed by oxygen addition to\ngrain surfaces and are confirmed as intermediate species in the formation\nprocess. The yields of CO and CO$_2$ were found to be dependent on the\nthickness of the carbon layer. The astronomical relevance of the experimental\nfindings is discussed.",
+          "arxiv_id": "2310.19497v1"
+        },
+        {
+          "title": "Laboratory spectroscopy of theoretical ices: Predictions for JWST and test for astrochemical models",
+          "year": "2022-08",
+          "abstract": "Context. The gas and ice-grain chemistry of the pre-stellar core L1544 has\nbeen the subject of several observations and modelling studies conducted in the\npast years. The chemical composition of the ice mantles reflects the\nenvironmental physical changes along the temporal evolution. The investigation\noutcome hints at a layered structure of interstellar ices with mainly H$_2$O in\nthe inner layers and an increasing amount of CO near the surface. The\nmorphology of interstellar ice analogues can be investigated experimentally.\nAims. This research presents a new approach of a three-dimensional fit where\nobservational results are first fitted with a gas-grain chemical model. Then,\nbased on the numerical results the laboratory IR spectra are recorded for\ninterstellar ice analogues in a layered and in a mixed morphology. These\nresults can then be compared with future James Webb Space Telescope (JWST)\nobservations. Special attention is paid to the inclusion of the IR inactive\nspecies N$_2$ and O$_2$. Methods. Ice analogue spectra containing the most\nabundant predicted molecules were recorded at a temperature of 10 K using a\nFourier transform infrared spectrometer. In the case of layered ice we\ndeposited a H$_2$O-CO-N$_2$-O$_2$ mixture on top of a H2O-CH$_3$OH-N$_2$ ice,\nwhile in the case of mixed ice we examined a H$_2$O-CH$_3$OH-N$_2$-CO\ncomposition. Results. Following the changing composition and structure of the\nice, we find differences in the absorption bands for most of the examined\nvibrational modes. The extent of observed changes in the IR band profiles will\nallow us to analyse the structure of ice mantles in L1544 from future\nobservations by the JWST. Conclusions. The comparison of our spectroscopic\nmeasurements with upcoming JWST observations is crucial in order to put\nstringent constraints on the chemical and physical structure of dust icy\nmantles, and to explain surface chemistry.",
+          "arxiv_id": "2208.07672v2"
+        }
+      ],
+      "12": [
+        {
+          "title": "PolyCLEAN: Atomic Optimization for Super-Resolution Imaging and Uncertainty Estimation in Radio Interferometry",
+          "year": "2024-06",
+          "abstract": "Aims: We address two issues for the adoption of convex optimization in radio\ninterferometric imaging. First, a method for a fine resolution setup is\nproposed which scales naturally in terms of memory usage and reconstruction\nspeed. Second, a new tool to localize a region of uncertainty is developed,\npaving the way for quantitative imaging in radio interferometry.\n  Methods: The classical $\\ell_1$ penalty is used to turn the inverse problem\ninto a sparsity-promoting optimization. For efficient implementation, the\nso-called Frank-Wolfe algorithm is used together with a \\textit{polyatomic}\nrefinement. The algorithm naturally produces sparse images at each iteration,\nleveraged to reduce memory and computational requirements. In that regard,\nPolyCLEAN reproduces the numerical behavior of CLEAN while guaranteeing that it\nsolves the minimization problem of interest. Additionally, we introduce the\nconcept of the \\textit{dual certificate image}, which appears as a numerical\nbyproduct of the Frank-Wolfe algorithm. This image is proposed as a tool for\nuncertainty quantification on the location of the recovered sources.\n  Results: PolyCLEAN demonstrates good scalability performance, in particular\nfor fine-resolution grids. On simulations, the Python-based implementation is\ncompetitive with the fast numerically-optimized CLEAN solver. This acceleration\ndoes not affect image reconstruction quality: PolyCLEAN images are consistent\nwith CLEAN-obtained ones for both point sources and diffuse emission recovery.\nWe also highlight PolyCLEAN reconstruction capabilities on observed radio\nmeasurements.\n  Conclusions: PolyCLEAN can be considered as an alternative to CLEAN in the\nradio interferometric imaging pipeline, as it enables the use of Bayesian\npriors without impacting the scalability and numerical performance of the\nimaging method.",
+          "arxiv_id": "2406.01342v2"
+        },
+        {
+          "title": "The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy",
+          "year": "2024-03",
+          "abstract": "Radio-interferometric (RI) imaging entails solving high-resolution\nhigh-dynamic range inverse problems from large data volumes. Recent image\nreconstruction techniques grounded in optimization theory have demonstrated\nremarkable capability for imaging precision, well beyond CLEAN's capability.\nThese range from advanced proximal algorithms propelled by handcrafted\nregularization operators, such as the SARA family, to hybrid plug-and-play\n(PnP) algorithms propelled by learned regularization denoisers, such as AIRI.\nOptimization and PnP structures are however highly iterative, which hinders\ntheir ability to handle the extreme data sizes expected from future\ninstruments. To address this scalability challenge, we introduce a novel deep\nlearning approach, dubbed \"Residual-to-Residual DNN series for high-Dynamic\nrange imaging\". R2D2's reconstruction is formed as a series of residual images,\niteratively estimated as outputs of Deep Neural Networks (DNNs) taking the\nprevious iteration's image estimate and associated data residual as inputs. It\nthus takes a hybrid structure between a PnP algorithm and a learned version of\nthe matching pursuit algorithm that underpins CLEAN. We present a comprehensive\nstudy of our approach, featuring its multiple incarnations distinguished by\ntheir DNN architectures. We provide a detailed description of its training\nprocess, targeting a telescope-specific approach. R2D2's capability to deliver\nhigh precision is demonstrated in simulation, across a variety of image and\nobservation settings using the Very Large Array (VLA). Its reconstruction speed\nis also demonstrated: with only few iterations required to clean data residuals\nat dynamic ranges up to 100000, R2D2 opens the door to fast precision imaging.\nR2D2 codes are available in the BASPLib library on GitHub.",
+          "arxiv_id": "2403.05452v3"
+        },
+        {
+          "title": "Image reconstruction algorithms in radio interferometry: from handcrafted to learned regularization denoisers",
+          "year": "2022-02",
+          "abstract": "We introduce a new class of iterative image reconstruction algorithms for\nradio interferometry, at the interface of convex optimization and deep\nlearning, inspired by plug-and-play methods. The approach consists in learning\na prior image model by training a deep neural network (DNN) as a denoiser, and\nsubstituting it for the handcrafted proximal regularization operator of an\noptimization algorithm. The proposed AIRI (``AI for Regularization in\nradio-interferometric Imaging'') framework, for imaging complex intensity\nstructure with diffuse and faint emission from visibility data, inherits the\nrobustness and interpretability of optimization, and the learning power and\nspeed of networks. Our approach relies on three steps. Firstly, we design a low\ndynamic range training database from optical intensity images. Secondly, we\ntrain a DNN denoiser at a noise level inferred from the signal-to-noise ratio\nof the data. We use training losses enhanced with a nonexpansiveness term\nensuring algorithm convergence, and including on-the-fly database dynamic range\nenhancement via exponentiation. Thirdly, we plug the learned denoiser into the\nforward-backward optimization algorithm, resulting in a simple iterative\nstructure alternating a denoising step with a gradient-descent data-fidelity\nstep. We have validated AIRI against CLEAN, optimization algorithms of the SARA\nfamily, and a DNN trained to reconstruct the image directly from visibility\ndata. Simulation results show that AIRI is competitive in imaging quality with\nSARA and its unconstrained forward-backward-based version uSARA, while\nproviding significant acceleration. CLEAN remains faster but offers lower\nquality. The end-to-end DNN offers further acceleration, but with far lower\nquality than AIRI.",
+          "arxiv_id": "2202.12959v2"
+        }
+      ],
+      "13": [
+        {
+          "title": "The Steward Observatory LEO Satellite Photometric Survey",
+          "year": "2023-11",
+          "abstract": "The Steward Observatory LEO Satellite Photometric Survey is a comprehensive\nobservational survey to characterize the apparent brightness of the Starlink\nand OneWeb low Earth orbit satellites and evaluate the potential impact on\nastronomy. We report the results of over 16,000 independent measurements of\nnearly 2800 individual satellites. In addition to photometry, we also measured\nthe astrometric position of each satellite and evaluated the accuracy of\npredicting satellite position with the available two-line element sets. The\napparent brightness of a satellite seen in the sky is not constant and depends\non the Sun-satellite-observer geometry. To capture this, we designed the survey\nto create an all-geometries set of measurements to fully characterize the\nbrightness of each population of satellites as seen in the sky. We visualize\nthe data with sky-plots that show the correlation of apparent brightness with\non-sky position and relative Sun-satellite-observer geometry. The sky-plots\nshow where in the sky the satellites are brightest. In addition to visual\nmagnitudes, we also present two new metrics: the expected photon flux and the\neffective albedo. The expected photon flux metric assesses the potential impact\non astronomy sensors by predicting the flux for a satellite trail in an image\nfrom a theoretical 1 m class telescope and sensor. The effective albedo metric\nassesses where a satellite is more reflective than baseline, which ties to the\nphysical structure of the satellite and indicates the potential for\nbrightness-reducing design changes. We intend to use this methodology and\nresulting data to inform the astronomy community about satellite brightness.",
+          "arxiv_id": "2311.14092v1"
+        },
+        {
+          "title": "Characterization of LEO Satellites With All-Sky Photometric Signatures",
+          "year": "2022-10",
+          "abstract": "We present novel techniques and methodology for unresolved photometric\ncharacterization of low-Earth Orbit (LEO) satellites. With the Pomenis LEO\nSatellite Photometric Survey our team has made over 14,000 observations of\nStarlink and OneWeb satellites to measure their apparent brightness. From the\napparent brightness of each satellite, we calculate a new metric: the effective\nalbedo, which quantifies the specularity of the reflecting satellite. Unlike\nstellar magnitude units, the effective albedo accounts for apparent range and\nphase angle and enables direct comparison of different satellites. Mapping the\neffective albedo from multiple observations across the sky produces an all-sky\nphotometric signature which is distinct for each population of satellites,\nincluding the various sub-models of Starlink satellites. Space Situational\nAwareness (SSA) practitioners can use all-sky photometric signatures to\ndifferentiate populations of satellites, compare their reflection\ncharacteristics, identify unknown satellites, and find anomalous members. To\ntest the efficacy of all-sky signatures for satellite identification, we\napplied a machine learning classifier algorithm which correctly identified the\nmajority of satellites based solely on the effective albedo metric and with as\nfew as one observation per individual satellite. Our new method of LEO\nsatellite photometric characterization requires no prior knowledge of the\nsatellite's properties and is readily scalable to large numbers of satellites\nsuch as those expected with developing communications mega-constellations.",
+          "arxiv_id": "2210.03215v1"
+        },
+        {
+          "title": "Simulated impact on LSST data of Starlink V1.5 and V2 satellites",
+          "year": "2025-06",
+          "abstract": "The new Starlink V2 satellites incorporate improvements to the chassis\nbrightness through dielectric mirrors, off-pointing solar arrays, and black\npaint on exposed components. For the general case in which the reflectivities\nare initially unknown, we simulate LSST operations and repeated photometry of\nevery satellite in simulated model constellations. We derive a brightness model\nof the Starlink V2 satellite and study the simulated apparent brightness as a\nfunction of the satellite position relative to the observer and the sun. We\nfind that the V2 Starlink satellites appear brightest at two distinct positions\nin the sky: when oriented toward the sun at low elevations where light is\nspecularly reflected, and nearly overhead where the satellite is closest to the\nobserver.\n  A simulation of Starlink V2 satellites at 550 km height distributed across a\nseries of Walker constellations with varying inclinations was analyzed to study\nthe impact on the LSST observations.\n  Some bright satellites will be visible in LSST observations. For every\nthousand V1.5 Starlink satellites imaged by LSST in the first hour of a summer\nnight, we find 1.2 of them will appear brighter than 7 AB magnitude. By\ncomparison, for every thousand V2 Starlink satellites observed, we find only\n0.93 of them will appear this bright. The off-pointed solar array and reduced\ndiffuse reflection of the chassis mitigate the brightness.\n  Finally, we simulate lowering this Walker constellation to 350km. Only 0.56\nV2 Starlink satellites per thousand brighter than 7 AB magnitude will be\nobserved in the first hour at this height. This is a 40% reduction in number of\nbright satellites entering the focal plane compared to the constellation at\n550km height. We find that a combination of factors yield an apparent surface\nbrightness of these satellites for LSST operations only 5% brighter than at\n550km orbit.",
+          "arxiv_id": "2506.19092v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:36:54Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

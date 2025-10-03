@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_model_economic_study",
+        "keywords": [
+          [
+            "data",
+            0.023425037360635014
+          ],
+          [
+            "model",
+            0.022957086896090922
+          ],
+          [
+            "economic",
+            0.021593672826710403
+          ],
+          [
+            "study",
+            0.01979448908920073
+          ],
+          [
+            "market",
+            0.01709274517082666
+          ],
+          [
+            "paper",
+            0.016561806281782106
+          ],
+          [
+            "results",
+            0.015169171314202303
+          ],
+          [
+            "analysis",
+            0.014266667174749212
+          ],
+          [
+            "policy",
+            0.014140552964875349
+          ],
+          [
+            "impact",
+            0.013962553229918793
+          ]
+        ],
+        "count": 4714
+      },
+      "1": {
+        "name": "1_blockchain_Bitcoin_digital_market",
+        "keywords": [
+          [
+            "blockchain",
+            0.03960924636151121
+          ],
+          [
+            "Bitcoin",
+            0.039081516865219094
+          ],
+          [
+            "digital",
+            0.029729983688201955
+          ],
+          [
+            "market",
+            0.021013273615495993
+          ],
+          [
+            "decentralized",
+            0.02097031748827691
+          ],
+          [
+            "transaction",
+            0.01944475914842917
+          ],
+          [
+            "DeFi",
+            0.01869006582585521
+          ],
+          [
+            "paper",
+            0.01643526382648537
+          ],
+          [
+            "transactions",
+            0.016203296335808755
+          ],
+          [
+            "currency",
+            0.015402010580291435
+          ]
+        ],
+        "count": 193
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.03217346851199756
+      ],
+      [
+        -0.03217346851199756,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        52,
+        0
+      ],
+      "2020-02": [
+        25,
+        0
+      ],
+      "2020-03": [
+        47,
+        1
+      ],
+      "2020-04": [
+        46,
+        2
+      ],
+      "2020-05": [
+        50,
+        0
+      ],
+      "2020-06": [
+        59,
+        3
+      ],
+      "2020-07": [
+        56,
+        0
+      ],
+      "2020-08": [
+        36,
+        1
+      ],
+      "2020-09": [
+        46,
+        1
+      ],
+      "2020-10": [
+        72,
+        2
+      ],
+      "2020-11": [
+        74,
+        2
+      ],
+      "2020-12": [
+        90,
+        1
+      ],
+      "2021-01": [
+        83,
+        3
+      ],
+      "2021-02": [
+        89,
+        7
+      ],
+      "2021-03": [
+        80,
+        0
+      ],
+      "2021-04": [
+        92,
+        1
+      ],
+      "2021-05": [
+        87,
+        2
+      ],
+      "2021-06": [
+        76,
+        0
+      ],
+      "2021-07": [
+        81,
+        3
+      ],
+      "2021-08": [
+        63,
+        0
+      ],
+      "2021-09": [
+        53,
+        5
+      ],
+      "2021-10": [
+        56,
+        2
+      ],
+      "2021-11": [
+        62,
+        2
+      ],
+      "2021-12": [
+        60,
+        2
+      ],
+      "2022-01": [
+        62,
+        4
+      ],
+      "2022-02": [
+        58,
+        4
+      ],
+      "2022-03": [
+        53,
+        0
+      ],
+      "2022-04": [
+        44,
+        3
+      ],
+      "2022-05": [
+        58,
+        2
+      ],
+      "2022-06": [
+        82,
+        3
+      ],
+      "2022-07": [
+        40,
+        4
+      ],
+      "2022-08": [
+        47,
+        0
+      ],
+      "2022-09": [
+        70,
+        2
+      ],
+      "2022-10": [
+        45,
+        3
+      ],
+      "2022-11": [
+        55,
+        2
+      ],
+      "2022-12": [
+        72,
+        4
+      ],
+      "2023-01": [
+        53,
+        2
+      ],
+      "2023-02": [
+        62,
+        2
+      ],
+      "2023-03": [
+        72,
+        4
+      ],
+      "2023-04": [
+        72,
+        2
+      ],
+      "2023-05": [
+        67,
+        4
+      ],
+      "2023-06": [
+        64,
+        4
+      ],
+      "2023-07": [
+        56,
+        3
+      ],
+      "2023-08": [
+        66,
+        3
+      ],
+      "2023-09": [
+        58,
+        1
+      ],
+      "2023-10": [
+        69,
+        9
+      ],
+      "2023-11": [
+        82,
+        4
+      ],
+      "2023-12": [
+        93,
+        2
+      ],
+      "2024-01": [
+        79,
+        3
+      ],
+      "2024-02": [
+        84,
+        2
+      ],
+      "2024-03": [
+        71,
+        2
+      ],
+      "2024-04": [
+        73,
+        7
+      ],
+      "2024-05": [
+        85,
+        4
+      ],
+      "2024-06": [
+        60,
+        3
+      ],
+      "2024-07": [
+        71,
+        5
+      ],
+      "2024-08": [
+        66,
+        3
+      ],
+      "2024-09": [
+        82,
+        3
+      ],
+      "2024-10": [
+        80,
+        4
+      ],
+      "2024-11": [
+        87,
+        2
+      ],
+      "2024-12": [
+        90,
+        6
+      ],
+      "2025-01": [
+        86,
+        3
+      ],
+      "2025-02": [
+        92,
+        2
+      ],
+      "2025-03": [
+        122,
+        4
+      ],
+      "2025-04": [
+        100,
+        1
+      ],
+      "2025-05": [
+        119,
+        3
+      ],
+      "2025-06": [
+        94,
+        3
+      ],
+      "2025-07": [
+        104,
+        4
+      ],
+      "2025-08": [
+        116,
+        1
+      ],
+      "2025-09": [
+        46,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The Dynamic Persistence of Economic Shocks",
+          "year": "2023-06",
+          "abstract": "We propose a novel framework for modeling time-varying persistence in\neconomic time series, allowing for smoothly evolving heterogeneity in shock\ndynamics. We leverage localized regression techniques to flexibly identify\nchanges in persistence over time, offering a data-driven alternative to\ntraditional parametric models. We applied this methodology to U.S. inflation\nand stock market volatility data and found substantial persistence variations\nthat align with key macroeconomic events and market conditions. The results\nreveal previously undetected pockets of predictability and provide significant\nincreases in out-of-sample forecast accuracy. These findings have important\nimplications for economic modeling, forecasting, and policy analysis.",
+          "arxiv_id": "2306.01511v2"
+        },
+        {
+          "title": "Breaking the general election effect. The impact of the 2020 US presidential election on Chinese economy and counter strategies",
+          "year": "2023-04",
+          "abstract": "The study of US-China relations has always been a crucial topic in our\neconomic development [4][5][7], and the US presidential election plays an\nintegral role in shaping these relations. The presidential election is held\nevery four years, and it is crucial to assess the impact of the 2020 election\non China to prepare for the potential effects of the 2024 US presidential\nelection on the Chinese economy [8][16][20]. To achieve this, we have gathered\nstatistical data from nearly 70 years and analyzed data related to the US\neconomy. We have classified the collected data and utilized the analytic\nhierarchy process [1][2][3] to evaluate the President's policy\nimplementation.This approach allowed us to obtain a comprehensive ranking of\nthe indicators [6][9][11][33]. We then quantified the index data and employed\nthe entropy weight method to calculate the weight of each index data. Finally,\nwe used the weighted total score calculation to evaluate the economic status of\nthe United States in a hierarchical manner after the election of Presidents\nTrump and Biden [15][18]. We optimized the index system by incorporating\nadditional dimension indexes such as \"foreign policy\". We then crawled China's\nspecific development data from 1990-2020 and substituted it into the model for\nanalysis and evaluation. This enabled us to obtain detailed quantitative index\ndata of the degree of influence [10][12][14]. To address China's shortcomings\nin science and technology innovation, we recommend strengthening economic\ncooperation with developed countries, diversifying market development, and\nactively expanding the domestic market through feasible solutions\n[13][16][23][36].",
+          "arxiv_id": "2304.11518v1"
+        },
+        {
+          "title": "The CoRisk-Index: A data-mining approach to identify industry-specific risk assessments related to COVID-19 in real-time",
+          "year": "2020-03",
+          "abstract": "While the coronavirus spreads, governments are attempting to reduce contagion\nrates at the expense of negative economic effects. Market expectations\nplummeted, foreshadowing the risk of a global economic crisis and mass\nunemployment. Governments provide huge financial aid programmes to mitigate the\neconomic shocks. To achieve higher effectiveness with such policy measures, it\nis key to identify the industries that are most in need of support. In this\nstudy, we introduce a data-mining approach to measure industry-specific risks\nrelated to COVID-19. We examine company risk reports filed to the U.S.\nSecurities and Exchange Commission (SEC). This alternative data set can\ncomplement more traditional economic indicators in times of the fast-evolving\ncrisis as it allows for a real-time analysis of risk assessments. Preliminary\nfindings suggest that the companies' awareness towards corona-related business\nrisks is ahead of the overall stock market developments. Our approach allows to\ndistinguish the industries by their risk awareness towards COVID-19. Based on\nnatural language processing, we identify corona-related risk topics and their\nperceived relevance for different industries. The preliminary findings are\nsummarised as an up-to-date online index. The CoRisk-Index tracks the\nindustry-specific risk assessments related to the crisis, as it spreads through\nthe economy. The tracking tool is updated weekly. It could provide relevant\nempirical data to inform models on the economic effects of the crisis. Such\ncomplementary empirical information could ultimately help policymakers to\neffectively target financial support in order to mitigate the economic shocks\nof the crisis.",
+          "arxiv_id": "2003.12432v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Deciphering Bitcoin Blockchain Data by Cohort Analysis",
+          "year": "2021-02",
+          "abstract": "Bitcoin is a peer-to-peer electronic payment system that has rapidly grown in\npopularity in recent years. Usually, the complete history of Bitcoin blockchain\ndata must be queried to acquire variables with economic meaning. This task has\nrecently become increasingly difficult, as there are over 1.6 billion\nhistorical transactions on the Bitcoin blockchain. It is thus important to\nquery Bitcoin transaction data in a way that is more efficient and provides\neconomic insights. We apply cohort analysis that interprets Bitcoin blockchain\ndata using methods developed for population data in the social sciences.\nSpecifically, we query and process the Bitcoin transaction input and output\ndata within each daily cohort. This enables us to create datasets and\nvisualizations for some key Bitcoin transaction indicators, including the daily\nlifespan distributions of spent transaction output (STXO) and the daily age\ndistributions of the cumulative unspent transaction output (UTXO). We provide a\ncomputationally feasible approach for characterizing Bitcoin transactions that\npaves the way for future economic studies of Bitcoin.",
+          "arxiv_id": "2103.00173v3"
+        },
+        {
+          "title": "Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain",
+          "year": "2022-06",
+          "abstract": "Decentralized finance (DeFi) has the potential to disrupt centralized finance\nby validating peer-to-peer transactions through tamper-proof smart contracts,\nthus significantly lowering the transaction cost charged by financial\nintermediaries. However, the actual realization of peer-to-peer transactions\nand the levels and effects of decentralization are largely unknown. Our\nresearch pioneers a blockchain network study that applies social network\nanalysis to measure the level, dynamics, and impacts of decentralization in\nDeFi token transactions on the Ethereum blockchain. First, we find a\nsignificant core-periphery structure in the AAVE token transaction network\nwhere the cores include the two largest centralized crypto exchanges. Second,\nwe provide evidence that multiple network features consistently characterize\ndecentralization dynamics. Finally, we document that a more decentralized\nnetwork significantly predicts a higher return and lower volatility of the\ndecentralized market of AAVE tokens on the Ethereum blockchain. We point out\nthat our approach is seminal for inspiring future extensions related to the\nfacets of application scenarios, research questions, and methodologies on the\nmechanics of blockchain decentralization.",
+          "arxiv_id": "2206.08401v4"
+        },
+        {
+          "title": "The economic dependency of the Bitcoin security",
+          "year": "2021-02",
+          "abstract": "We study to what extent the Bitcoin blockchain security permanently depends\non the underlying distribution of cryptocurrency market outcomes. We use daily\nblockchain and Bitcoin data for 2014-2019 and employ the ARDL approach. We test\nthree equilibrium hypotheses: (i) sensitivity of the Bitcoin blockchain to\nmining reward; (ii) security outcomes of the Bitcoin blockchain and the\nproof-of-work cost; and (iii) the speed of adjustment of the Bitcoin blockchain\nsecurity to deviations from the equilibrium path. Our results suggest that the\nBitcoin price and mining rewards are intrinsically linked to Bitcoin security\noutcomes. The Bitcoin blockchain security's dependency on mining costs is\ngeographically differenced - it is more significant for the global mining\nleader China than for other world regions. After input or output price shocks,\nthe Bitcoin blockchain security reverts to its equilibrium security level.",
+          "arxiv_id": "2102.08378v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:05:02Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

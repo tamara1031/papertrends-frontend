@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_research_model_models",
+        "keywords": [
+          [
+            "data",
+            0.04646337150718744
+          ],
+          [
+            "research",
+            0.028532597958626085
+          ],
+          [
+            "model",
+            0.02736031325722788
+          ],
+          [
+            "models",
+            0.024653360706040395
+          ],
+          [
+            "analysis",
+            0.022024789111502973
+          ],
+          [
+            "life",
+            0.01942777274425541
+          ],
+          [
+            "study",
+            0.01940987393003887
+          ],
+          [
+            "systems",
+            0.01788342732887164
+          ],
+          [
+            "new",
+            0.017338572452461794
+          ],
+          [
+            "health",
+            0.0173169369449589
+          ]
+        ],
+        "count": 506
+      },
+      "1": {
+        "name": "1_plant_water_seeds_study",
+        "keywords": [
+          [
+            "plant",
+            0.02853036244776698
+          ],
+          [
+            "water",
+            0.027133168562030067
+          ],
+          [
+            "seeds",
+            0.026300786082487915
+          ],
+          [
+            "study",
+            0.023852679892469204
+          ],
+          [
+            "results",
+            0.02098124627065794
+          ],
+          [
+            "food",
+            0.020155737271181345
+          ],
+          [
+            "significant",
+            0.019922700949063253
+          ],
+          [
+            "concentrations",
+            0.019885960208710373
+          ],
+          [
+            "genotypes",
+            0.01789897749100469
+          ],
+          [
+            "highest",
+            0.017533151695368107
+          ]
+        ],
+        "count": 77
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.08930854674195954
+      ],
+      [
+        -0.08930854674195954,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        3,
+        0
+      ],
+      "2020-02": [
+        4,
+        3
+      ],
+      "2020-03": [
+        11,
+        0
+      ],
+      "2020-04": [
+        8,
+        2
+      ],
+      "2020-05": [
+        15,
+        0
+      ],
+      "2020-06": [
+        12,
+        2
+      ],
+      "2020-07": [
+        9,
+        1
+      ],
+      "2020-08": [
+        10,
+        0
+      ],
+      "2020-09": [
+        8,
+        0
+      ],
+      "2020-10": [
+        9,
+        0
+      ],
+      "2020-11": [
+        11,
+        2
+      ],
+      "2020-12": [
+        6,
+        2
+      ],
+      "2021-01": [
+        6,
+        2
+      ],
+      "2021-02": [
+        3,
+        0
+      ],
+      "2021-03": [
+        4,
+        1
+      ],
+      "2021-04": [
+        4,
+        1
+      ],
+      "2021-05": [
+        7,
+        0
+      ],
+      "2021-06": [
+        1,
+        2
+      ],
+      "2021-07": [
+        9,
+        0
+      ],
+      "2021-08": [
+        5,
+        1
+      ],
+      "2021-09": [
+        3,
+        1
+      ],
+      "2021-10": [
+        6,
+        0
+      ],
+      "2021-11": [
+        7,
+        0
+      ],
+      "2021-12": [
+        13,
+        0
+      ],
+      "2022-01": [
+        6,
+        2
+      ],
+      "2022-02": [
+        3,
+        1
+      ],
+      "2022-03": [
+        5,
+        0
+      ],
+      "2022-04": [
+        7,
+        3
+      ],
+      "2022-05": [
+        4,
+        0
+      ],
+      "2022-06": [
+        1,
+        0
+      ],
+      "2022-07": [
+        4,
+        0
+      ],
+      "2022-08": [
+        7,
+        0
+      ],
+      "2022-09": [
+        7,
+        0
+      ],
+      "2022-10": [
+        5,
+        0
+      ],
+      "2022-11": [
+        5,
+        0
+      ],
+      "2022-12": [
+        4,
+        0
+      ],
+      "2023-01": [
+        5,
+        0
+      ],
+      "2023-02": [
+        7,
+        0
+      ],
+      "2023-03": [
+        4,
+        2
+      ],
+      "2023-04": [
+        4,
+        2
+      ],
+      "2023-05": [
+        6,
+        1
+      ],
+      "2023-06": [
+        10,
+        1
+      ],
+      "2023-07": [
+        10,
+        1
+      ],
+      "2023-08": [
+        2,
+        2
+      ],
+      "2023-09": [
+        16,
+        2
+      ],
+      "2023-10": [
+        6,
+        1
+      ],
+      "2023-11": [
+        6,
+        1
+      ],
+      "2023-12": [
+        4,
+        0
+      ],
+      "2024-01": [
+        8,
+        0
+      ],
+      "2024-02": [
+        10,
+        2
+      ],
+      "2024-03": [
+        6,
+        4
+      ],
+      "2024-04": [
+        10,
+        1
+      ],
+      "2024-05": [
+        10,
+        2
+      ],
+      "2024-06": [
+        9,
+        5
+      ],
+      "2024-07": [
+        8,
+        1
+      ],
+      "2024-08": [
+        10,
+        2
+      ],
+      "2024-09": [
+        12,
+        1
+      ],
+      "2024-10": [
+        6,
+        2
+      ],
+      "2024-11": [
+        9,
+        0
+      ],
+      "2024-12": [
+        8,
+        1
+      ],
+      "2025-01": [
+        8,
+        2
+      ],
+      "2025-02": [
+        11,
+        3
+      ],
+      "2025-03": [
+        10,
+        1
+      ],
+      "2025-04": [
+        8,
+        0
+      ],
+      "2025-05": [
+        15,
+        1
+      ],
+      "2025-06": [
+        9,
+        2
+      ],
+      "2025-07": [
+        16,
+        2
+      ],
+      "2025-08": [
+        13,
+        1
+      ],
+      "2025-09": [
+        6,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Verbesserung des Record Linkage für die Gesundheitsforschung in Deutschland",
+          "year": "2023-12",
+          "abstract": "Record linkage means linking data from multiple sources. This approach\nenables the answering of scientific questions that cannot be addressed using\nsingle data sources due to limited variables. The potential of linked data for\nhealth research is enormous, as it can enhance prevention, treatment, and\npopulation health policies. Due the sensitivity of health data, there are\nstrict legal requirements to prevent potential misuse. However, these\nrequirements also limit the use of health data for research, thereby hindering\ninnovations in prevention and care. Also, comprehensive Record linkage in\nGermany is often challenging due to lacking unique personal identifiers or\ninteroperable solutions. Rather, the need to protect data is often weighed\nagainst the importance of research aiming at healthcare enhancements: for\ninstance, data protection officers may demand the informed consent of\nindividual study participants for data linkage, even when this is not\nmandatory. Furthermore, legal frameworks may be interpreted differently on\nvarying occasions. Given both, technical and legal challenges, record linkage\nfor health research in Germany falls behind the standards of other European\ncountries. To ensure successful record linkage, case-specific solutions must be\ndeveloped, tested, and modified as necessary before implementation. This paper\ndiscusses limitations and possibilities of various data linkage approaches\ntailored to different use cases in compliance with the European General Data\nProtection Regulation. It further describes requirements for achieving a more\nresearch-friendly approach to linking health data records in Germany.\nAdditionally, it provides recommendations to legislators. The objective of this\nwork is to improve record linkage for health research in Germany.",
+          "arxiv_id": "2312.10093v1"
+        },
+        {
+          "title": "Applications and Challenges of AI and Microscopy in Life Science Research: A Review",
+          "year": "2025-01",
+          "abstract": "The complexity of human biology and its intricate systems holds immense\npotential for advancing human health, disease treatment, and scientific\ndiscovery. However, traditional manual methods for studying biological\ninteractions are often constrained by the sheer volume and complexity of\nbiological data. Artificial Intelligence (AI), with its proven ability to\nanalyze vast datasets, offers a transformative approach to addressing these\nchallenges. This paper explores the intersection of AI and microscopy in life\nsciences, emphasizing their potential applications and associated challenges.\nWe provide a detailed review of how various biological systems can benefit from\nAI, highlighting the types of data and labeling requirements unique to this\ndomain. Particular attention is given to microscopy data, exploring the\nspecific AI techniques required to process and interpret this information. By\naddressing challenges such as data heterogeneity and annotation scarcity, we\noutline potential solutions and emerging trends in the field. Written primarily\nfrom an AI perspective, this paper aims to serve as a valuable resource for\nresearchers working at the intersection of AI, microscopy, and biology. It\nsummarizes current advancements, key insights, and open problems, fostering an\nunderstanding that encourages interdisciplinary collaborations. By offering a\ncomprehensive yet concise synthesis of the field, this paper aspires to\ncatalyze innovation, promote cross-disciplinary engagement, and accelerate the\nadoption of AI in life science research.",
+          "arxiv_id": "2501.13135v1"
+        },
+        {
+          "title": "Synthetic data: How could it be used for infectious disease research?",
+          "year": "2024-07",
+          "abstract": "Over the last three to five years, it has become possible to generate machine\nlearning synthetic data for healthcare-related uses. However, concerns have\nbeen raised about potential negative factors associated with the possibilities\nof artificial dataset generation. These include the potential misuse of\ngenerative artificial intelligence (AI) in fields such as cybercrime, the use\nof deepfakes and fake news to deceive or manipulate, and displacement of human\njobs across various market sectors.\n  Here, we consider both current and future positive advances and possibilities\nwith synthetic datasets. Synthetic data offers significant benefits,\nparticularly in data privacy, research, in balancing datasets and reducing bias\nin machine learning models. Generative AI is an artificial intelligence genre\ncapable of creating text, images, video or other data using generative models.\nThe recent explosion of interest in GenAI was heralded by the invention and\nspeedy move to use of large language models (LLM). These computational models\nare able to achieve general-purpose language generation and other natural\nlanguage processing tasks and are based on transformer architectures, which\nmade an evolutionary leap from previous neural network architectures.\n  Fuelled by the advent of improved GenAI techniques and wide scale usage, this\nis surely the time to consider how synthetic data can be used to advance\ninfectious disease research. In this commentary we aim to create an overview of\nthe current and future position of synthetic data in infectious disease\nresearch.",
+          "arxiv_id": "2407.06211v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Comparative study of the biological activities of the aqueous extracts of two spontaneous plants harvested in the Algerian Sahara",
+          "year": "2020-06",
+          "abstract": "The present study investigates the insecticidal and herbicidal effects of\nleaf extracts from two plants were harvested in the Northern Algerian Sahara.\nThese are Cleome arabica (Capparaceae) and Pergularia tomentosa\n(Asclepiadaceae). The efficacy of the extracts from the plants was evaluated by\nthe reflux extraction method. The phytochemical screening of the aqueous\nextracts of C. arabica shows a remarkable richness in active principles in\ncomparison with the extract of P. tomentosa; including flavonoids, saponosides,\nglycosides, terpenes, sterols, deoxyose, polyphenols and total alkaloids. The\nimago of Tribolium confusum treated with aqueous extracts of C. arabica and P.\ntomentosa at doses of 80% to 100% respectively have mortality rates of 73.33%\nto 96.67%, and 36.67% to 86.67%. The lethal time 50 (TL50%) of the aqueous\nextract of C. arabica was estimated about 6.41 days, and 6.94 days for the\nextract P. tomentosa for the imago of T. confusum. The extracts of P. tomentosa\nis less toxic than the extracts of C. arabica. The allelopathic potentials of\nC. arabica and P. tomentosa tested on germination of the seeds of a weed\nDactyloctenium aegyptium (Poaceae) and two cultivated species, including\nHordeumvulgare and Triticumdurum (Poaceae), show that the inhibitory effect of\nextracts of C. arabica is very highly significant. It manifests itself in the\ngrowth of the aerial and underground part of the H. vulgar and T. durum. The\ninhibition rate is more than 84.44% for D. aegyptium seeds treated with the\ndifferent concentrations. The inhibition rates range from 75.56% to 91.11% for\nT. durum wheat irrigate at 80% to 100%, but are only 55.56% to 77.78% for\nbarley seeds treated with the same concentrations (80% to 100%).",
+          "arxiv_id": "2006.07933v1"
+        },
+        {
+          "title": "Effect of some plant extracts on hardwood cuttings of Bottlebrush (Callistemon viminalis)",
+          "year": "2023-09",
+          "abstract": "The study was conducted at the Collage of Agricultural Engineering Sciences,\nUniversity of Sulaimani, Kurdistan Region-Iraq so as to investigate response\nhardwood cuttings of Callistemon viminalis to some plant extracts. The hardwood\ncuttings were taken on 11 March 2021 and soaked separately in 3 and 6 g/L\naqueous extracts of moringa leaf, licorice root, willow shoot, fenugreek seed\nand cinnamon bark for 1 hour. They were compared to the cuttings dipped in 3000\nppm IBA for 10s and control cuttings which were soaked in distilled water for 1\nhour. The experiment laid out in CRD with three replications in a greenhouse,\nand each replication included six cuttings which planted in a mixture of sand\nand rice husk medium. The results showed that the highest (86.66%) rooting was\nachieved in the cuttings treated with 6 g/L licorice extract and they were\nsignificantly different with control cuttings (53.33%), but they were not\nsignificantly different with 3000 ppm IBA (66.66%). Cinnamon 3g/L and fenugreek\n3g/L extracts gave the lowest (6.66% and 33.33%, respectively) rooting and\nother studied parameters. The cuttings dipped in 3000 ppm IBA gave the highest\n(18.91) root number and the highest (66.66%) survival cuttings after\ntransplanting. The longest root (15.54 cm) was found in cuttings were treated\nwith 6 g/L moringa extract. The longest (5.83 cm) shoot was observed in treated\ncuttings with 3 g/L willow extract. The highest chlorophyll a and b (10.08 and\n4.62 mg/L, respectively) were observed in cuttings treated with 6 g/L willow\nextract. Moreover, 3000 ppm IBA gave the highest (20.23%) total carbohydrate\nand (1.77 mg/g) IAA content along with 6 g/L licorice, moringa and fenugreek\nextracts, after 30 days from planting of the cuttings. Licorice root extract at\n6 g/L fairly improved the measurements similar to 3000 ppm IBA throughout the\nstudy.",
+          "arxiv_id": "2311.12032v1"
+        },
+        {
+          "title": "Comprehensive treatment and analysis of Fishpond sediments as a source of organic fertilizers",
+          "year": "2023-04",
+          "abstract": "Agricultural fertilizers are essential to enhance proper growth and crop\nyield. Chemical fertilizers endanger ecosystems, soil, plants, and animal and\nhuman lives. This has increased interest in biofertilizers which are products\nthat contain living microorganisms or natural compounds derived from organisms\nsuch as bacteria, fungi, and algae that improve soil chemical and biological\nproperties, stimulate plant growth and restore soil fertility. This study aimed\nto use natural coagulants in the management of fishpond sediment for the\npotential recovery of nutrients that can be utilized in crop production as\norganic fertilizers. Fishpond wastewater and sediment were collected, treated\nwith natural, powdered Moringa oleifera seed coagulant, and dried. Greenhouse\nevaluation of the dried sediment was carried out using maize seeds on soil\nprimed with the sediment. Growth parameters such as plant height, leaf length,\nroot length, plant weight, and percentage yield were determined. The nitrate,\ntotal nitrogen, phosphate, and total phosphorus content of the organic\nfertilizer were also determined. Plant height in maize showed a 35.8-44.4 %\nincrease in fertilized maize and a 20.3-39.3 % increase in the leaf length.\nThere was a 38.8-66 % increase in root length and a 23.9-36.5 % increase in\nplant weight in fertilized maize. The nutritive component was 59.80 mg/Kg,\n655.56 mg/Kg, 103.87 mg/Kg, and 426.60 mg/Kg respectively. For a period of 21\ndays of active growth, the growth rate of maize primed with organic fertilizer\nwas 0.93 cm/day with a total yield of 100 % while the control was 0.68 cm/day\nwith a total yield of 50 %. A dried biofertilizer that can improve plant\ngrowth, weight, and percentage yield without having to deal with smelly manure\nlooks promising and seems to be a better alternative to explore in agriculture.",
+          "arxiv_id": "2304.07630v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:04:25Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

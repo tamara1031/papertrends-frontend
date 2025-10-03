@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_models_cardiac_flow",
+        "keywords": [
+          [
+            "model",
+            0.03126726866242835
+          ],
+          [
+            "models",
+            0.020378428841626706
+          ],
+          [
+            "cardiac",
+            0.02033973687004083
+          ],
+          [
+            "flow",
+            0.018217276936095223
+          ],
+          [
+            "data",
+            0.015456844927025794
+          ],
+          [
+            "tissue",
+            0.015414532928488687
+          ],
+          [
+            "pressure",
+            0.014130841685934582
+          ],
+          [
+            "study",
+            0.013930605782101608
+          ],
+          [
+            "heart",
+            0.013724538778447991
+          ],
+          [
+            "blood",
+            0.013027551567230055
+          ]
+        ],
+        "count": 312
+      },
+      "1": {
+        "name": "1_data_images_learning_imaging",
+        "keywords": [
+          [
+            "data",
+            0.028675358940114633
+          ],
+          [
+            "images",
+            0.027535270288554122
+          ],
+          [
+            "learning",
+            0.024853261330442477
+          ],
+          [
+            "imaging",
+            0.021010258068194138
+          ],
+          [
+            "image",
+            0.019942603731721544
+          ],
+          [
+            "segmentation",
+            0.019114050200688102
+          ],
+          [
+            "tissue",
+            0.01884683673246814
+          ],
+          [
+            "models",
+            0.018561865760636828
+          ],
+          [
+            "analysis",
+            0.01745062904089216
+          ],
+          [
+            "cancer",
+            0.01744850279904511
+          ]
+        ],
+        "count": 200
+      },
+      "2": {
+        "name": "2_cell_tissue_cells_model",
+        "keywords": [
+          [
+            "cell",
+            0.060950724312056836
+          ],
+          [
+            "tissue",
+            0.03589767440674169
+          ],
+          [
+            "cells",
+            0.03290626845224928
+          ],
+          [
+            "model",
+            0.032565814186606465
+          ],
+          [
+            "growth",
+            0.02605224195561612
+          ],
+          [
+            "cellular",
+            0.020450693313060344
+          ],
+          [
+            "active",
+            0.02039055579236947
+          ],
+          [
+            "tissues",
+            0.019367643862153786
+          ],
+          [
+            "mechanical",
+            0.018150202452211373
+          ],
+          [
+            "models",
+            0.0171243059366509
+          ]
+        ],
+        "count": 189
+      },
+      "3": {
+        "name": "3_bone_scaffolds_cells_mesoporous",
+        "keywords": [
+          [
+            "bone",
+            0.03613080610483825
+          ],
+          [
+            "scaffolds",
+            0.03473637100638239
+          ],
+          [
+            "cells",
+            0.024259427703695425
+          ],
+          [
+            "mesoporous",
+            0.02094664710842923
+          ],
+          [
+            "tissue",
+            0.02070093928532271
+          ],
+          [
+            "cell",
+            0.018604350801227312
+          ],
+          [
+            "regeneration",
+            0.017269589176591646
+          ],
+          [
+            "nanoparticles",
+            0.016752109615100555
+          ],
+          [
+            "wound",
+            0.016370882075082624
+          ],
+          [
+            "3D",
+            0.016133568972879226
+          ]
+        ],
+        "count": 96
+      },
+      "4": {
+        "name": "4_tumor_cancer_cells_model",
+        "keywords": [
+          [
+            "tumor",
+            0.05844976993731374
+          ],
+          [
+            "cancer",
+            0.045100656466917126
+          ],
+          [
+            "cells",
+            0.04492895178610709
+          ],
+          [
+            "model",
+            0.044038639706835456
+          ],
+          [
+            "treatment",
+            0.03947482651168171
+          ],
+          [
+            "cell",
+            0.028859329554002583
+          ],
+          [
+            "therapy",
+            0.026843055982363764
+          ],
+          [
+            "immune",
+            0.025547944892570843
+          ],
+          [
+            "mathematical",
+            0.024591661618460013
+          ],
+          [
+            "dynamics",
+            0.024181595365367115
+          ]
+        ],
+        "count": 86
+      },
+      "5": {
+        "name": "5_SARS_disease_CoV_effects",
+        "keywords": [
+          [
+            "SARS",
+            0.022136472256811604
+          ],
+          [
+            "disease",
+            0.021270611512969655
+          ],
+          [
+            "CoV",
+            0.018038300472337548
+          ],
+          [
+            "effects",
+            0.016379893504102922
+          ],
+          [
+            "study",
+            0.01570825810444043
+          ],
+          [
+            "higher",
+            0.014603254245388761
+          ],
+          [
+            "cells",
+            0.014067949189494881
+          ],
+          [
+            "infection",
+            0.013572257600625352
+          ],
+          [
+            "ACE2",
+            0.013451789411671765
+          ],
+          [
+            "treatment",
+            0.01333413789726337
+          ]
+        ],
+        "count": 72
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5733700180325797,
+        -0.3227166273171319,
+        -0.5035934404674295,
+        -0.4080277065947491,
+        -0.5049964184866385
+      ],
+      [
+        -0.5733700180325797,
+        1.0,
+        -0.6612218531035006,
+        -0.7007802029085446,
+        -0.6281401343112981,
+        -0.7087484899576046
+      ],
+      [
+        -0.3227166273171319,
+        -0.6612218531035006,
+        1.0,
+        -0.6450068498699959,
+        -0.2687348925498555,
+        -0.6881419742945383
+      ],
+      [
+        -0.5035934404674295,
+        -0.7007802029085446,
+        -0.6450068498699959,
+        1.0,
+        -0.6578776201989764,
+        -0.4291262308732823
+      ],
+      [
+        -0.4080277065947491,
+        -0.6281401343112981,
+        -0.2687348925498555,
+        -0.6578776201989764,
+        1.0,
+        -0.6875690907025862
+      ],
+      [
+        -0.5049964184866385,
+        -0.7087484899576046,
+        -0.6881419742945383,
+        -0.4291262308732823,
+        -0.6875690907025862,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        3,
+        3,
+        6,
+        1,
+        3,
+        0
+      ],
+      "2020-02": [
+        4,
+        2,
+        5,
+        0,
+        2,
+        0
+      ],
+      "2020-03": [
+        8,
+        3,
+        3,
+        1,
+        8,
+        2
+      ],
+      "2020-04": [
+        7,
+        1,
+        3,
+        0,
+        4,
+        5
+      ],
+      "2020-05": [
+        2,
+        0,
+        8,
+        0,
+        8,
+        4
+      ],
+      "2020-06": [
+        7,
+        0,
+        6,
+        1,
+        4,
+        2
+      ],
+      "2020-07": [
+        4,
+        0,
+        11,
+        0,
+        5,
+        0
+      ],
+      "2020-08": [
+        8,
+        0,
+        3,
+        0,
+        6,
+        2
+      ],
+      "2020-09": [
+        5,
+        2,
+        2,
+        1,
+        4,
+        0
+      ],
+      "2020-10": [
+        11,
+        1,
+        2,
+        0,
+        2,
+        0
+      ],
+      "2020-11": [
+        9,
+        1,
+        4,
+        2,
+        7,
+        0
+      ],
+      "2020-12": [
+        6,
+        2,
+        6,
+        0,
+        2,
+        0
+      ],
+      "2021-01": [
+        3,
+        1,
+        5,
+        3,
+        6,
+        0
+      ],
+      "2021-02": [
+        4,
+        0,
+        3,
+        1,
+        5,
+        1
+      ],
+      "2021-03": [
+        5,
+        1,
+        3,
+        12,
+        8,
+        0
+      ],
+      "2021-04": [
+        5,
+        0,
+        3,
+        6,
+        4,
+        1
+      ],
+      "2021-05": [
+        4,
+        0,
+        3,
+        3,
+        3,
+        1
+      ],
+      "2021-06": [
+        3,
+        3,
+        2,
+        1,
+        2,
+        0
+      ],
+      "2021-07": [
+        3,
+        4,
+        7,
+        0,
+        0,
+        0
+      ],
+      "2021-08": [
+        2,
+        3,
+        1,
+        0,
+        3,
+        0
+      ],
+      "2021-09": [
+        1,
+        1,
+        3,
+        1,
+        4,
+        0
+      ],
+      "2021-10": [
+        3,
+        1,
+        4,
+        4,
+        3,
+        0
+      ],
+      "2021-11": [
+        7,
+        2,
+        6,
+        0,
+        3,
+        0
+      ],
+      "2021-12": [
+        8,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "2022-01": [
+        6,
+        3,
+        2,
+        0,
+        1,
+        1
+      ],
+      "2022-02": [
+        1,
+        1,
+        2,
+        0,
+        5,
+        0
+      ],
+      "2022-03": [
+        4,
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      "2022-04": [
+        0,
+        2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "2022-05": [
+        1,
+        5,
+        3,
+        0,
+        2,
+        0
+      ],
+      "2022-06": [
+        5,
+        2,
+        3,
+        0,
+        3,
+        0
+      ],
+      "2022-07": [
+        3,
+        0,
+        0,
+        1,
+        2,
+        0
+      ],
+      "2022-08": [
+        10,
+        0,
+        7,
+        0,
+        0,
+        0
+      ],
+      "2022-09": [
+        4,
+        3,
+        2,
+        0,
+        3,
+        0
+      ],
+      "2022-10": [
+        5,
+        0,
+        2,
+        0,
+        3,
+        0
+      ],
+      "2022-11": [
+        2,
+        0,
+        3,
+        0,
+        9,
+        0
+      ],
+      "2022-12": [
+        5,
+        5,
+        6,
+        0,
+        5,
+        1
+      ],
+      "2023-01": [
+        6,
+        3,
+        5,
+        0,
+        1,
+        0
+      ],
+      "2023-02": [
+        2,
+        0,
+        9,
+        0,
+        3,
+        0
+      ],
+      "2023-03": [
+        8,
+        2,
+        4,
+        0,
+        4,
+        0
+      ],
+      "2023-04": [
+        2,
+        0,
+        3,
+        0,
+        3,
+        0
+      ],
+      "2023-05": [
+        9,
+        1,
+        3,
+        1,
+        3,
+        0
+      ],
+      "2023-06": [
+        2,
+        2,
+        5,
+        0,
+        3,
+        1
+      ],
+      "2023-07": [
+        4,
+        2,
+        4,
+        0,
+        4,
+        0
+      ],
+      "2023-08": [
+        8,
+        3,
+        4,
+        2,
+        7,
+        0
+      ],
+      "2023-09": [
+        8,
+        2,
+        1,
+        0,
+        6,
+        0
+      ],
+      "2023-10": [
+        4,
+        1,
+        10,
+        0,
+        5,
+        0
+      ],
+      "2023-11": [
+        3,
+        6,
+        5,
+        1,
+        5,
+        0
+      ],
+      "2023-12": [
+        8,
+        3,
+        8,
+        1,
+        2,
+        0
+      ],
+      "2024-01": [
+        4,
+        5,
+        4,
+        0,
+        5,
+        0
+      ],
+      "2024-02": [
+        2,
+        1,
+        2,
+        3,
+        4,
+        0
+      ],
+      "2024-03": [
+        13,
+        2,
+        6,
+        1,
+        4,
+        0
+      ],
+      "2024-04": [
+        1,
+        2,
+        2,
+        0,
+        1,
+        0
+      ],
+      "2024-05": [
+        5,
+        3,
+        1,
+        0,
+        2,
+        0
+      ],
+      "2024-06": [
+        2,
+        2,
+        3,
+        1,
+        7,
+        0
+      ],
+      "2024-07": [
+        7,
+        3,
+        4,
+        0,
+        2,
+        0
+      ],
+      "2024-08": [
+        3,
+        0,
+        5,
+        1,
+        2,
+        0
+      ],
+      "2024-09": [
+        4,
+        3,
+        6,
+        0,
+        5,
+        0
+      ],
+      "2024-10": [
+        8,
+        2,
+        3,
+        1,
+        7,
+        0
+      ],
+      "2024-11": [
+        2,
+        5,
+        3,
+        0,
+        4,
+        0
+      ],
+      "2024-12": [
+        4,
+        2,
+        2,
+        0,
+        3,
+        0
+      ],
+      "2025-01": [
+        2,
+        7,
+        2,
+        1,
+        5,
+        0
+      ],
+      "2025-02": [
+        7,
+        2,
+        3,
+        1,
+        3,
+        0
+      ],
+      "2025-03": [
+        9,
+        7,
+        2,
+        0,
+        7,
+        0
+      ],
+      "2025-04": [
+        6,
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "2025-05": [
+        6,
+        2,
+        4,
+        0,
+        3,
+        1
+      ],
+      "2025-06": [
+        2,
+        2,
+        4,
+        1,
+        3,
+        1
+      ],
+      "2025-07": [
+        8,
+        2,
+        5,
+        0,
+        3,
+        0
+      ],
+      "2025-08": [
+        5,
+        5,
+        2,
+        1,
+        5,
+        0
+      ],
+      "2025-09": [
+        3,
+        2,
+        2,
+        0,
+        1,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Cardiac Reentry Modeled by Spatiotemporal Chaos in a Coupled Map Lattice",
+          "year": "2022-02",
+          "abstract": "Arrhythmias are potentially fatal disruptions to the normal heart rhythm, but\ntheir underlying dynamics is still poorly understood. Theoretical modeling is\nan important tool to fill this gap. Typical studies often employ detailed\nmultidimensional conductance-based models. We describe the cardiac muscle with\na three-dimensional map-based membrane potential model in lattices. Although\nmaps retain the biophysical behavior of cells and generate computationally\nefficient tissue models, few studies have used them to understand cardiac\ndynamics. Our study captures healthy and pathological behaviors with fewer\nparameters and simpler equations than conductance models. We successfully\ngeneralize results obtained previously with reaction-diffusion systems, showing\nhow chaotic properties result in reentry, a pathological propagation of stimuli\nthat evolves to arrhythmias with complex spatiotemporal features. The\nbifurcation diagram of the single cell is very similar to that obtained in a\ndetailed conductance-based model. We find torsade de pointes, a clinical\nmanifestation of some types of tachycardia in the electrocardiogram, using a\ngeneric sampling of the whole network during spiral waves. We also find a novel\ntype of dynamical pattern, with wavefronts composed of synchronized cardiac\nplateaus and bursts. Our study provides the first in-depth look at the use of\nmap-based models to simulate complex cardiac dynamics.",
+          "arxiv_id": "2202.12406v2"
+        },
+        {
+          "title": "Comparison of Immersed Boundary Simulations of Heart Valve Hemodynamics against In Vitro 4D Flow MRI Data",
+          "year": "2021-11",
+          "abstract": "The immersed boundary (IB) method is a mathematical framework for\nfluid-structure interaction problems (FSI) that was originally developed to\nsimulate flows around heart valves. Direct comparison of FSI simulations around\nheart valves against experimental data is challenging, however, due to the\ndifficulty of performing robust and effective simulations, the complications of\nmodeling a specific physical experiment, and the need to acquire experimental\ndata that is directly comparable to simulation data. Such comparators are a\nnecessary precursor for further formal validation studies of FSI simulations\ninvolving heart valves. In this work, we performed physical experiments of flow\nthrough a pulmonary valve in an in vitro pulse duplicator, and measured the\ncorresponding velocity field using 4D flow MRI (4-dimensional flow magnetic\nresonance imaging). We constructed a computer model of this pulmonary artery\nsetup, including modeling valve geometry and material properties via a\ntechnique called design-based elasticity, and simulated flow through it with\nthe IB method. The simulated flow fields showed excellent qualitative agreement\nwith experiments, excellent agreement on integral metrics, and reasonable\nrelative error in the entire flow domain and on slices of interest. These\nresults illustrate how to construct a computational model of a physical\nexperiment for use as a comparator.",
+          "arxiv_id": "2111.00720v3"
+        },
+        {
+          "title": "Simulating Cardiac Fluid Dynamics in the Human Heart",
+          "year": "2023-07",
+          "abstract": "Cardiac fluid dynamics fundamentally involves interactions between complex\nblood flows and the structural deformations of the muscular heart walls and the\nthin, flexible valve leaflets. There has been longstanding scientific,\nengineering, and medical interest in creating mathematical models of the heart\nthat capture, explain, and predict these fluid-structure interactions. However,\nexisting computational models that account for interactions among the blood,\nthe actively contracting myocardium, and the cardiac valves are limited in\ntheir abilities to predict valve performance, resolve fine-scale flow features,\nor use realistic descriptions of tissue biomechanics. Here we introduce and\nbenchmark a comprehensive mathematical model of cardiac fluid dynamics in the\nhuman heart. A unique feature of our model is that it incorporates\nbiomechanically detailed descriptions of all major cardiac structures that are\ncalibrated using tensile tests of human tissue specimens to reflect the heart's\nmicrostructure. Further, it is the first fluid-structure interaction model of\nthe heart that provides anatomically and physiologically detailed\nrepresentations of all four cardiac valves. We demonstrate that this\nintegrative model generates physiologic dynamics, including realistic\npressure-volume loops that automatically capture isovolumetric contraction and\nrelaxation, and predicts fine-scale flow features. None of these outputs are\nprescribed; instead, they emerge from interactions within our comprehensive\ndescription of cardiac physiology. Such models can serve as tools for\npredicting the impacts of medical devices or clinical interventions. They also\ncan serve as platforms for mechanistic studies of cardiac pathophysiology and\ndysfunction, including congenital defects, cardiomyopathies, and heart failure,\nthat are difficult or impossible to perform in patients.",
+          "arxiv_id": "2307.02680v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "A General-Purpose Self-Supervised Model for Computational Pathology",
+          "year": "2023-08",
+          "abstract": "Tissue phenotyping is a fundamental computational pathology (CPath) task in\nlearning objective characterizations of histopathologic biomarkers in anatomic\npathology. However, whole-slide imaging (WSI) poses a complex computer vision\nproblem in which the large-scale image resolutions of WSIs and the enormous\ndiversity of morphological phenotypes preclude large-scale data annotation.\nCurrent efforts have proposed using pretrained image encoders with either\ntransfer learning from natural image datasets or self-supervised pretraining on\npublicly-available histopathology datasets, but have not been extensively\ndeveloped and evaluated across diverse tissue types at scale. We introduce UNI,\na general-purpose self-supervised model for pathology, pretrained using over\n100 million tissue patches from over 100,000 diagnostic haematoxylin and\neosin-stained WSIs across 20 major tissue types, and evaluated on 33\nrepresentative CPath clinical tasks in CPath of varying diagnostic\ndifficulties. In addition to outperforming previous state-of-the-art models, we\ndemonstrate new modeling capabilities in CPath such as resolution-agnostic\ntissue classification, slide classification using few-shot class prototypes,\nand disease subtyping generalization in classifying up to 108 cancer types in\nthe OncoTree code classification system. UNI advances unsupervised\nrepresentation learning at scale in CPath in terms of both pretraining data and\ndownstream evaluation, enabling data-efficient AI models that can generalize\nand transfer to a gamut of diagnostically-challenging tasks and clinical\nworkflows in anatomic pathology.",
+          "arxiv_id": "2308.15474v1"
+        },
+        {
+          "title": "A Generalized Deep Learning Framework for Whole-Slide Image Segmentation and Analysis",
+          "year": "2020-01",
+          "abstract": "Histopathology tissue analysis is considered the gold standard in cancer\ndiagnosis and prognosis. Given the large size of these images and the increase\nin the number of potential cancer cases, an automated solution as an aid to\nhistopathologists is highly desirable. In the recent past, deep learning-based\ntechniques have provided state of the art results in a wide variety of image\nanalysis tasks, including analysis of digitized slides. However, the size of\nimages and variability in histopathology tasks makes it a challenge to develop\nan integrated framework for histopathology image analysis. We propose a deep\nlearning-based framework for histopathology tissue analysis. We demonstrate the\ngeneralizability of our framework, including training and inference, on several\nopen-source datasets, which include CAMELYON (breast cancer metastases),\nDigestPath (colon cancer), and PAIP (liver cancer) datasets. We discuss\nmultiple types of uncertainties pertaining to data and model, namely aleatoric\nand epistemic, respectively. Simultaneously, we demonstrate our model\ngeneralization across different data distribution by evaluating some samples on\nTCGA data. On CAMELYON16 test data (n=139) for the task of lesion detection,\nthe FROC score achieved was 0.86 and in the CAMELYON17 test-data (n=500) for\nthe task of pN-staging the Cohen's kappa score achieved was 0.9090 (third in\nthe open leaderboard). On DigestPath test data (n=212) for the task of tumor\nsegmentation, a Dice score of 0.782 was achieved (fourth in the challenge). On\nPAIP test data (n=40) for the task of viable tumor segmentation, a Jaccard\nIndex of 0.75 (third in the challenge) was achieved, and for viable tumor\nburden, a score of 0.633 was achieved (second in the challenge). Our entire\nframework and related documentation are freely available at GitHub and PyPi.",
+          "arxiv_id": "2001.00258v2"
+        },
+        {
+          "title": "Data Efficient and Weakly Supervised Computational Pathology on Whole Slide Images",
+          "year": "2020-04",
+          "abstract": "The rapidly emerging field of computational pathology has the potential to\nenable objective diagnosis, therapeutic response prediction and identification\nof new morphological features of clinical relevance. However, deep\nlearning-based computational pathology approaches either require manual\nannotation of gigapixel whole slide images (WSIs) in fully-supervised settings\nor thousands of WSIs with slide-level labels in a weakly-supervised setting.\nMoreover, whole slide level computational pathology methods also suffer from\ndomain adaptation and interpretability issues. These challenges have prevented\nthe broad adaptation of computational pathology for clinical and research\npurposes. Here we present CLAM - Clustering-constrained attention multiple\ninstance learning, an easy-to-use, high-throughput, and interpretable WSI-level\nprocessing and learning method that only requires slide-level labels while\nbeing data efficient, adaptable and capable of handling multi-class subtyping\nproblems. CLAM is a deep-learning-based weakly-supervised method that uses\nattention-based learning to automatically identify sub-regions of high\ndiagnostic value in order to accurately classify the whole slide, while also\nutilizing instance-level clustering over the representative regions identified\nto constrain and refine the feature space. In three separate analyses, we\ndemonstrate the data efficiency and adaptability of CLAM and its superior\nperformance over standard weakly-supervised classification. We demonstrate that\nCLAM models are interpretable and can be used to identify well-known and new\nmorphological features. We further show that models trained using CLAM are\nadaptable to independent test cohorts, cell phone microscopy images, and\nbiopsies. CLAM is a general-purpose and adaptable method that can be used for a\nvariety of different computational pathology tasks in both clinical and\nresearch settings.",
+          "arxiv_id": "2004.09666v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Clonal dynamics of surface-driven growing tissues",
+          "year": "2023-12",
+          "abstract": "The self-organization of cells into complex tissues relies on a tight\ncoordination of cell behavior. Identifying the cellular processes driving\ntissue growth is key to understanding the emergence of tissue forms and\ndevising targeted therapies for aberrant growth, such as in cancer. Inferring\nthe mode of tissue growth, whether it is driven by cells on the surface or\ncells in the bulk, is possible in cell culture experiments, but difficult in\nmost tissues in living organisms (in vivo). Genetic tracing experiments, where\na subset of cells is labeled with inheritable markers have become important\nexperimental tools to study cell fate in vivo. Here, we show that the mode of\ntissue growth is reflected in the size distribution of the progeny of marked\ncells. To this end, we derive the clone-size distributions using analytical\ncalculations in the limit of negligible cell migration and cell death, and we\ntest our predictions with an agent-based stochastic sampling technique. We show\nthat for surface-driven growth the clone-size distribution takes a\ncharacteristic power-law form with an exponent determined by fluctuations of\nthe tissue surface. Our results show how the mode of tissue growth can be\ninferred from genetic tracing experiments.",
+          "arxiv_id": "2312.01923v3"
+        },
+        {
+          "title": "A Mean-Field Model for Active Plastic Flow of Epithelial Tissue",
+          "year": "2024-09",
+          "abstract": "Animal morphogenesis often involves significant shape changes of epithelial\ntissue sheets. Great progress has been made in understanding the underlying\ncellular driving forces and their coordination through biomechanical feedback\nloops. However, quantitative understanding of how cell-level dynamics translate\ninto large-scale morphogenetic flows remains limited. A key challenge is\nfinding the relevant macroscopic variables (order parameters) that retain the\nessential information about cell-scale structure. To address this challenge, we\ncombine symmetry arguments with a stochastic mean-field model that accounts for\nthe relevant microscopic dynamics. Complementary to previous work on the\npassive fluid- and solid-like properties of tissue, we focus on the role of\nactively generated internal stresses. Centrally, we use the timescale\nseparation between elastic relaxation and morphogenetic dynamics to describe\ntissue shape change in quasi-static balance of forces within the tissue sheet.\nThe resulting geometric structure - a triangulation in tension space dual to\nthe polygonal cell tiling - proves ideal for developing a mean-field model. All\nparameters of the coarse-grained model are calculated from the underlying\nmicroscopic dynamics. Centrally, the model explains how active plastic flow\ndriven by autonomous active cell rearrangements becomes self-limiting as\npreviously observed in experiments and simulations. Additionally, the model\nquantitatively predicts tissue behavior when coupled with external fields, such\nas planar cell polarity and external forces. We show how such fields can\nsustain oriented active cell rearrangements and thus overcome the self-limited\ncharacter of purely autonomous active plastic flow. These findings demonstrate\nhow local self-organization and top-down genetic instruction together determine\ninternally-driven tissue dynamics.",
+          "arxiv_id": "2409.13129v1"
+        },
+        {
+          "title": "Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth",
+          "year": "2024-03",
+          "abstract": "Regulation of cell proliferation is a crucial aspect of tissue development\nand homeostasis and plays a major role in morphogenesis, wound healing, and\ntumor invasion. A phenomenon of such regulation is contact inhibition, which\ndescribes the dramatic slowing of proliferation, cell migration and individual\ncell growth when multiple cells are in contact with each other. While many\nphysiological, molecular and genetic factors are known, the mechanism of\ncontact inhibition is still not fully understood. In particular, the relevance\nof cellular signaling due to interfacial contact for contact inhibition is\nstill debated. Cellular automata (CA) have been employed in the past as\nnumerically efficient mathematical models to study the dynamics of cell\nensembles, but they are not suitable to explore the origins of contact\ninhibition as such agent-based models assume fixed cell sizes. We develop a\nminimal, data-driven model to simulate the dynamics of planar cell cultures by\nextending a probabilistic CA to incorporate size changes of individual cells\nduring growth and cell division. We successfully apply this model to previous\nin-vitro experiments on contact inhibition in epithelial tissue: After a\nsystematic calibration of the model parameters to measurements of single-cell\ndynamics, our CA model quantitatively reproduces independent measurements of\nemergent, culture-wide features, like colony size, cell density and collective\ncell migration. In particular, the dynamics of the CA model also exhibit the\ntransition from a low-density confluent regime to a stationary postconfluent\nregime with a rapid decrease in cell size and motion. This implies that the\nvolume exclusion principle, a mechanical constraint which is the only\ninter-cellular interaction incorporated in the model, paired with a\nsize-dependent proliferation rate is sufficient to generate the observed\ncontact inhibition.",
+          "arxiv_id": "2403.07612v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "3-D macro/microporous-nanofibrous bacterial cellulose scaffolds seeded with BMP-2 preconditioned mesenchymal stem cells exhibit remarkable potential for bone tissue engineering",
+          "year": "2020-09",
+          "abstract": "Bone repair using BMP-2 is a promising therapeutic approach in clinical\npractices, however, high dosages required to be effective pose issues of cost\nand safety. The present study explores the potential of low dose BMP-2\ntreatment via tissue engineering approach, which amalgamates 3-D\nmacro/microporous-nanofibrous bacterial cellulose (mNBC) scaffolds and low dose\nBMP-2 primed murine mesenchymal stem cells (C3H10T1/2 cells). Initial studies\non cell-scaffold interaction using unprimed C3H10T1/2 cells confirmed that\nscaffolds provided a propitious environment for cell adhesion, growth, and\ninfiltration, owing to its ECM-mimicking nano-micro-macro architecture.\nOsteogenic studies were conducted by preconditioning the cells with 50 ng/mL\nBMP-2 for 15 minutes, followed by culturing on mNBC scaffolds for up to three\nweeks. The results showed an early onset and significantly enhanced bone matrix\nsecretion and maturation in the scaffolds seeded with BMP-2 primed cells\ncompared to the unprimed ones. Moreover, mNBC scaffolds alone were able to\nfacilitate the mineralization of cells to some extent. These findings suggest\nthat, with the aid of 'osteoinduction' from low dose BMP-2 priming of stem\ncells and 'osteoconduction' from nano-macro/micro topography of mNBC scaffolds,\na cost-effective bone tissue engineering strategy can be designed for quick and\nexcellent in vivo osseointegration.",
+          "arxiv_id": "2009.06338v2"
+        },
+        {
+          "title": "The effect of biomimetic mineralization of 3D-printed mesoporous bioglass scaffolds on physical properties and in vitro osteogenicity",
+          "year": "2021-03",
+          "abstract": "Three-dimensional Mesoporous bioactive glasses (MBGs) scaffolds has been\nwidely considered for bone regeneration purposes and additive manufacturing\nenables the fabrication of highly bioactive patient-specific constructs for\nbone defects. Commonly, this process is performed with the addition of\npolymeric binders that facilitate the printability of scaffolds. However, these\nadditives cover the MBG particles resulting in the reduction of their\nosteogenic potential. The present work investigates a simple yet effective\nphosphate-buffered saline immersion method for achieving polyvinyl alcohol\nbinder removal while enables the maintenance of the mesoporous structure of MBG\n3D-printed scaffolds. This resulted in significantly modifying the surface of\nthe scaffold via the spontaneous formation of a biomimetic mineralized layer\nwhich positively affected the physical and biological properties of the\nscaffold. The extensive surface remodeling induced by the deposition of the\napatite-like layer lead to a 3-fold increase in surface area, a 5-fold increase\nin the roughness, and 4-fold increase in the hardness of the PBS-immersed\nscaffolds when compared to the as-printed counterpart. The biomimetic\nmineralization also occurred throughout the bulk of the scaffold connecting the\nMBGs particles and was responsible for the maintenance of structural integrity.\nIn vitro assays using MC3T3-E1 pre-osteoblast like cells demonstrated a\nsignificant upregulation of osteogenic-related genes for the scaffolds\npreviously immersed in PBS when compared to the as-printed PVA-containing\nscaffolds. Although the pre-immersion scaffolds performed equally towards\nosteogenic cell differentiation, our data suggest that a short immersion in PBS\nof MBG scaffolds is beneficial for the osteogenic properties and might\naccelerate bone formation after implantation.",
+          "arxiv_id": "2103.11464v1"
+        },
+        {
+          "title": "Mesoporous bioactive glass/e-polycaprolactone scaffolds promote bone regeneration in osteoporotic sheep",
+          "year": "2021-03",
+          "abstract": "Macroporous scaffolds made of a SiO2-CaO-P2O5 mesoporous bioactive glass\n(MBG) and epolycaprolactone (PCL) have been prepared by robocasting. These\nscaffolds showed an excellent in vitro biocompatibility in contact with\nosteoblast like cells (Saos 2) and osteoclasts derived from RAW 264.7\nmacrophages. In vivo studies were carried out by implantation into cavitary\ndefects drilled in osteoporotic sheep. The scaffolds evidenced excellent bone\nregeneration properties, promoting new bone formation at both the peripheral\nand the inner parts of the scaffolds, thick trabeculae, high vascularization\nand high presence of osteoblasts and osteoclasts. In order to evaluate the\neffects of the local release of an antiosteoporotic drug, 1% (%wt) of\nzoledronic acid was incorporated to the scaffolds. The scaffolds loaded with\nzoledronic acid induced apoptosis in Saos 2 cells, impeded osteoclast\ndifferentiation in a time dependent manner and inhibited bone healing,\npromoting an intense inflammatory response in osteoporotic sheep.",
+          "arxiv_id": "2103.13114v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "CAR T cells for T-cell leukemias: Insights from mathematical models",
+          "year": "2020-04",
+          "abstract": "Immunotherapy has the potential to change the way all cancer types are\ntreated and cured. Cancer immunotherapies use elements of the patient immune\nsystem to attack tumor cells. One of the most successful types of immunotherapy\nis CAR-T cells. This treatment works by extracting patient's T-cells and adding\nto them an antigen receptor allowing tumor cells to be recognized and targeted.\nThese new cells are called CAR-T cells and are re-infused back into the patient\nafter expansion in-vitro. This approach has been successfully used to treat\nB-cell malignancies (B-cell leukemias and lymphomas). However, its application\nto the treatment of T-cell leukemias faces several problems. One of these is\nfratricide, since the CAR-T cells target both tumor and other CAR-T cells. This\nleads to nonlinear dynamical phenomena amenable to mathematical modeling. In\nthis paper we construct a mathematical model describing the competition of\nCAR-T, tumor and normal T-cells and studied some basic properties of the model\nand its practical implications. Specifically, we found that the model\nreproduced the observed difficulties for in-vitro expansion of the therapeutic\ncells found in the laboratory. The mathematical model predicted that CAR-T cell\nexpansion in the patient would be possible due to the initial presence of a\nlarge number of targets. We also show that, in the context of our mathematical\napproach, CAR-T cells could control tumor growth but not eradicate the disease.",
+          "arxiv_id": "2004.14291v1"
+        },
+        {
+          "title": "CAR T cell therapy in B-cell acute lymphoblastic leukaemia: Insights from mathematical models",
+          "year": "2020-03",
+          "abstract": "Immunotherapies use components of the patient immune system to selectively\ntarget cancer cells. The use of CAR T cells to treat B-cell malignancies\n--leukaemias and lymphomas-- is one of the most successful examples, with many\npatients experiencing long-lasting complete responses to this therapy. This\ntreatment works by extracting the patient's T cells and adding them the CAR\ngroup, which enables them to recognize and target cells carrying the antigen\nCD19+, that is expressed in these haematological tumors.\n  Here we put forward a mathematical model describing the time response of\nleukaemias to the injection of CAR T-cells. The model accounts for mature and\nprogenitor B-cells, tumor cells, CAR T cells and side effects by incorporating\nthe main biological processes involved. The model explains the early\npost-injection dynamics of the different compartments and the fact that the\nnumber of CAR T cells injected does not critically affect the treatment\noutcome. An explicit formula is found that provides the maximum CAR T cell\nexpansion in-vivo and the severity of side effects. Our mathematical model\ncaptures other known features of the response to this immunotherapy. It also\npredicts that CD19+ tumor relapses could be the result of the competition\nbetween tumor and CAR T cells analogous to predator-prey dynamics. We discuss\nthis fact on the light of available evidences and the possibility of\ncontrolling relapses by early re-challenging of the tumor with stored CAR T\ncells.",
+          "arxiv_id": "2003.10236v2"
+        },
+        {
+          "title": "A stochastic agent-based model for simulating tumor-immune dynamics and evaluating therapeutic strategies",
+          "year": "2025-08",
+          "abstract": "Tumor-immune interactions are central to cancer progression and treatment\noutcomes. In this study, we present a stochastic agent-based model that\nintegrates cellular heterogeneity, spatial cell-cell interactions, and drug\nresistance evolution to simulate tumor growth and immune response in a\ntwo-dimensional microenvironment. The model captures dynamic behaviors of four\nmajor cell types--tumor cells, cytotoxic T lymphocytes, helper T cells, and\nregulatory T cells--and incorporates key biological processes such as\nproliferation, apoptosis, migration, and immune regulation. Using this\nframework, we simulate tumor progression under different therapeutic\ninterventions, including radiotherapy, targeted therapy, and immune checkpoint\nblockade. Our simulations reproduce emergent phenomena such as immune privilege\nand spatial immune exclusion. Quantitative analyses show that all therapies\nsuppress tumor growth to varying degrees and reshape the tumor\nmicroenvironment. Notably, combination therapies--especially targeted therapy\nwith immunotherapy--achieve the most effective tumor control and delay the\nemergence of resistance. Additionally, sensitivity analyses reveal a nonlinear\nrelationship between treatment intensity and therapeutic efficacy, highlighting\nthe existence of optimal dosing thresholds. This work demonstrates the utility\nof agent-based modeling in capturing complex tumor-immune dynamics and provides\na computational platform for optimizing cancer treatment strategies. The model\nis extensible, biologically interpretable, and well-suited for future\nintegration with experimental or clinical data.",
+          "arxiv_id": "2508.12297v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Deposition distribution of the new coronavirus (SARS-CoV-2) in the human airways upon exposure to cough-generated aerosol",
+          "year": "2020-05",
+          "abstract": "The new coronavirus disease 2019 (COVID-19) has been emerged as a rapidly\nspreading pandemic. The disease is thought to spread mainly from\nperson-to-person through respiratory droplets produced when an infected person\ncoughs, sneezes, or talks. The pathogen of COVID-19 is the severe acute\nrespiratory syndrome coronavirus 2 (SARS-CoV-2). It infects the cells binding\nto the angiotensin-converting enzyme 2 receptor (ACE2) which is expressed by\ncells throughout the airways as targets for cellular entry. Although the\nmajority of persons infected with SARS-CoV-2 experience symptoms of mild upper\nrespiratory tract infection, in some people infections of the peripheral\nairways result in severe, potentially fatal pneumonia. However, the induction\nof COVID-19 pneumonia requires that SARS-CoV-2 reaches the peripheral airways.\nWhile huge efforts have been made to understand the spread of the disease as\nwell as the pathogenesis following cellular entry, much less attention is paid\nhow SARS-CoV-2 from the environment reach the receptors of the target cells.\nThe aim of the present study is to characterize the deposition distribution of\nSARS-CoV-2 in the airways upon exposure to cough-generated aerosol. For this\npurpose, the Stochastic Lung Deposition Model has been applied. Aerosol size\ndistribution and breathing parameters were taken from the literature supposing\nnormal breathing through the nose. We found that the probability of direct\ninfection of the peripheral airways due to inhalation of aerosol generated by a\nbystander cough is very low. As the number of pathogens deposited in the\nextrathoracic airways is ~10 times higher than in the peripheral airways, we\nconcluded that in most cases COVID-19 pneumonia must be preceded by SARS-CoV-2\ninfection of the upper airways. Our results suggest that without the\nenhancement of viral load in the upper airways, COVID-19 would be much less\ndangerous...",
+          "arxiv_id": "2005.05882v1"
+        },
+        {
+          "title": "Prediction of repurposed drugs for treating lung injury in COVID-19",
+          "year": "2020-03",
+          "abstract": "Coronavirus disease (COVID-19) is an infectious disease discovered in 2019\nand currently in outbreak across the world. Lung injury with severe respiratory\nfailure is the leading cause of death in COVID-19, brought by severe acute\nrespiratory syndrome coronavirus 2 (SARS-CoV-2). However, there still lacks\nefficient treatment for COVID-19 induced lung injury and acute respiratory\nfailure. Inhibition of Angiotensin-converting enzyme 2 (ACE2) caused by spike\nprotein of SARS-CoV-2 is the most plausible mechanism of lung injury in\nCOVID-19. We propose two candidate drugs, COL-3 (a chemically modified\ntetracycline) and CGP-60474 (a cyclin-dependent kinase inhibitor), for treating\nlung injuries in COVID-19, based on their abilities to reverse the gene\nexpression patterns in HCC515 cells treated with ACE2 inhibitor and in human\nCOVID-19 patient lung tissues. Further bioinformatics analysis shows that\ntwelve significantly enriched pathways (P-value <0.05) overlap between HCC515\ncells treated with ACE2 inhibitor and human COVID-19 patient lung tissues,\nincluding signaling pathways known to be associated with lung injury such as\nTNF signaling, MAPK signaling and Chemokine signaling pathways. All these\ntwelve pathways are targeted in COL-3 treated HCC515 cells, in which genes such\nas RHOA, RAC2, FAS, CDC42 have reduced expression. CGP-60474 shares eleven of\ntwelve pathways with COL-3 with common target genes such as RHOA. It also\nuniquely targets genes related to lung injury, such as CALR and MMP14. In\nsummary, this study shows that ACE2 inhibition is likely part of the mechanisms\nleading to lung injury in COVID-19, and that compounds such as COL-3 and\nCGP-60474 have the potential as repurposed drugs for its treatment.",
+          "arxiv_id": "2003.14333v2"
+        },
+        {
+          "title": "Decreased serum vitamin D level as a prognostic marker in patients with COVID-19",
+          "year": "2022-12",
+          "abstract": "Background: The corona virus disease 2019 (COVID-19) pandemic, which is\ncaused by severe acute respiratory syndrome coronavirus 2, is still localized\noutbreak and has resulted in a high rate of infection and severe disease in\nolder patients with comorbidities. The vitamin D status of the population has\nbeen found to be an important factor that could influence outcome of COVID-19.\nHowever, whether vitamin D can lessen the symptoms or severity of COVID-19\nstill remains controversial. Methods: A total of 719 patients with confirmed\nCOVID-19 were enrolled retrospectively in this study from April 13 to June 6,\n2022 at Shanghai Forth People's Hospital. The circulating levels of 25(OH)D3,\ninflammatory factors, and clinical parameters were assayed. Time to viral RNA\nclearance (TVRC), classification and prognosis of COVID-19 were used to\nevaluate the severity of COVID-19 infection. Results: The median age was 76\nyears (interquartile range, IQR, 64.5-84.6), 44.1% of patients were male, and\nthe TVRC was 11 days (IQR, 7-16) in this population. The median level of\n25(OH)D3 was 27.15 (IQR, 19.31-38.89) nmol/L. Patients with lower serum\n25(OH)D3 had prolonged time to viral clearance, more obvious inflammatory\nresponse, more severe respiratory symptoms and higher risks of impaired hepatic\nand renal function. Multiple regression analyses revealed that serum 25(OH)D3\nlevel was negatively associated with TVRC independently. ROC curve showed the\nserum vitamin D level could predict the severity classification and prognosis\nof COVID-19 significantly.Conclusions: Serum 25(OH)D3 level is independently\nassociated with the severity of COVID-19 in elderly, and it could be used as a\npredictor of the severity of COVID-19. In addition, supplementation with\nvitamin D might provide beneficial effects in old patients with COVID-19.",
+          "arxiv_id": "2301.02660v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:04:51Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

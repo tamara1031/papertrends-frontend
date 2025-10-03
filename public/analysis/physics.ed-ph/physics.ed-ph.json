@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_students_physics_learning_research",
+        "keywords": [
+          [
+            "students",
+            0.06367537720828356
+          ],
+          [
+            "physics",
+            0.05663442741648031
+          ],
+          [
+            "learning",
+            0.031743711857517204
+          ],
+          [
+            "research",
+            0.025448728037652437
+          ],
+          [
+            "student",
+            0.02340485465123898
+          ],
+          [
+            "education",
+            0.023162474183920107
+          ],
+          [
+            "study",
+            0.022095512877503512
+          ],
+          [
+            "science",
+            0.020465836041675033
+          ],
+          [
+            "data",
+            0.019890714279818155
+          ],
+          [
+            "course",
+            0.019381552792156476
+          ]
+        ],
+        "count": 1531
+      },
+      "1": {
+        "name": "1_astronomy_science_students_Astronomy",
+        "keywords": [
+          [
+            "astronomy",
+            0.05421452775276698
+          ],
+          [
+            "science",
+            0.029687060573546482
+          ],
+          [
+            "students",
+            0.02957381538235117
+          ],
+          [
+            "Astronomy",
+            0.029311580818569584
+          ],
+          [
+            "data",
+            0.024334151364951838
+          ],
+          [
+            "research",
+            0.0232001622768706
+          ],
+          [
+            "astronomical",
+            0.02045855923549889
+          ],
+          [
+            "education",
+            0.018454025070070865
+          ],
+          [
+            "scientific",
+            0.01718217480718901
+          ],
+          [
+            "present",
+            0.014052153169482851
+          ]
+        ],
+        "count": 205
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        0.14852263511983727
+      ],
+      [
+        0.14852263511983727,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        20,
+        1
+      ],
+      "2020-02": [
+        15,
+        6
+      ],
+      "2020-03": [
+        18,
+        1
+      ],
+      "2020-04": [
+        25,
+        4
+      ],
+      "2020-05": [
+        23,
+        1
+      ],
+      "2020-06": [
+        42,
+        2
+      ],
+      "2020-07": [
+        29,
+        6
+      ],
+      "2020-08": [
+        24,
+        13
+      ],
+      "2020-09": [
+        24,
+        3
+      ],
+      "2020-10": [
+        27,
+        3
+      ],
+      "2020-11": [
+        20,
+        4
+      ],
+      "2020-12": [
+        21,
+        2
+      ],
+      "2021-01": [
+        16,
+        5
+      ],
+      "2021-02": [
+        13,
+        4
+      ],
+      "2021-03": [
+        12,
+        4
+      ],
+      "2021-04": [
+        15,
+        5
+      ],
+      "2021-05": [
+        16,
+        3
+      ],
+      "2021-06": [
+        19,
+        3
+      ],
+      "2021-07": [
+        20,
+        4
+      ],
+      "2021-08": [
+        30,
+        9
+      ],
+      "2021-09": [
+        15,
+        4
+      ],
+      "2021-10": [
+        18,
+        5
+      ],
+      "2021-11": [
+        14,
+        5
+      ],
+      "2021-12": [
+        16,
+        2
+      ],
+      "2022-01": [
+        22,
+        2
+      ],
+      "2022-02": [
+        12,
+        7
+      ],
+      "2022-03": [
+        29,
+        3
+      ],
+      "2022-04": [
+        11,
+        3
+      ],
+      "2022-05": [
+        10,
+        5
+      ],
+      "2022-06": [
+        26,
+        3
+      ],
+      "2022-07": [
+        10,
+        3
+      ],
+      "2022-08": [
+        10,
+        4
+      ],
+      "2022-09": [
+        16,
+        6
+      ],
+      "2022-10": [
+        18,
+        3
+      ],
+      "2022-11": [
+        16,
+        6
+      ],
+      "2022-12": [
+        19,
+        2
+      ],
+      "2023-01": [
+        21,
+        2
+      ],
+      "2023-02": [
+        18,
+        4
+      ],
+      "2023-03": [
+        26,
+        3
+      ],
+      "2023-04": [
+        18,
+        5
+      ],
+      "2023-05": [
+        22,
+        1
+      ],
+      "2023-06": [
+        29,
+        3
+      ],
+      "2023-07": [
+        20,
+        3
+      ],
+      "2023-08": [
+        24,
+        3
+      ],
+      "2023-09": [
+        20,
+        7
+      ],
+      "2023-10": [
+        22,
+        3
+      ],
+      "2023-11": [
+        26,
+        2
+      ],
+      "2023-12": [
+        16,
+        5
+      ],
+      "2024-01": [
+        23,
+        2
+      ],
+      "2024-02": [
+        23,
+        2
+      ],
+      "2024-03": [
+        29,
+        3
+      ],
+      "2024-04": [
+        19,
+        1
+      ],
+      "2024-05": [
+        16,
+        5
+      ],
+      "2024-06": [
+        20,
+        3
+      ],
+      "2024-07": [
+        31,
+        7
+      ],
+      "2024-08": [
+        12,
+        6
+      ],
+      "2024-09": [
+        28,
+        2
+      ],
+      "2024-10": [
+        28,
+        8
+      ],
+      "2024-11": [
+        17,
+        5
+      ],
+      "2024-12": [
+        29,
+        4
+      ],
+      "2025-01": [
+        29,
+        8
+      ],
+      "2025-02": [
+        17,
+        3
+      ],
+      "2025-03": [
+        21,
+        2
+      ],
+      "2025-04": [
+        27,
+        5
+      ],
+      "2025-05": [
+        27,
+        8
+      ],
+      "2025-06": [
+        19,
+        5
+      ],
+      "2025-07": [
+        23,
+        6
+      ],
+      "2025-08": [
+        48,
+        4
+      ],
+      "2025-09": [
+        18,
+        3
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "A longitudinal analysis of students' motivational characteristics in introductory physics courses: Gender differences",
+          "year": "2021-02",
+          "abstract": "The lack of diversity and the under-performance of underrepresented students\nin STEM courses have been the focus of researchers in the last decade. In\nparticular, many hypotheses have been put forth for the reasons for the\nunder-representation and under-performance of women in physics. Here, we\npresent a framework for helping all students learn in science courses that\ntakes into account four factors: 1) characteristics of instruction and learning\ntools, 2) implementation of instruction and learning tools, 3) student\ncharacteristics, and 4) students' environments. While there has been much\nresearch on factor 1 (characteristics of instruction and learning tools), there\nhas been less focus on factor 2 (students' characteristics, and in particular,\nmotivational factors). Here, we focus on the baseline motivational\ncharacteristics of introductory physics students obtained from survey data to\ninform factor 2 of the framework. A longitudinal analysis of students'\nmotivational characteristics in two-semester introductory physics courses was\nperformed by administering pre- and post-surveys that evaluated students'\nself-efficacy, grit, fascination with physics, value associated with physics,\nintelligence mindset, and physics epistemology. Female students reported lower\nself-efficacy, fascination and value, and had a more \"fixed\" view of\nintelligence in the context of physics compared to male students. Grit was the\nonly factor on which female students reported averages that were equal to or\nhigher than male students throughout introductory physics courses. These gender\ndifferences can at least partly be attributed to the societal stereotypes and\nbiases about who belongs in physics and can excel in it. The findings inform\nthe framework and have implications for the development and implementation of\neffective pedagogies and learning tools to help all students learn.",
+          "arxiv_id": "2102.07321v1"
+        },
+        {
+          "title": "ChatGPT in the Classroom: Boon or Bane for Physics Students' Academic Performance?",
+          "year": "2023-12",
+          "abstract": "This study investigates the influence of ChatGPT, an AI-based language model,\non student performance in a physics course. We conducted an experimental\nanalysis with two cohorts of students in a second-semester engineering physics\ncourse. The control group (Physics 2 2022B) used traditional teaching methods,\nwhile the experimental group (Physics 2 2023A) integrated ChatGPT as a learning\ntool. Our results indicate that the use of ChatGPT led to a significant\ndecrease in student performance, as evidenced by lower grades and negative Hake\nfactors compared to the control group. In addition, a survey of students\nrevealed conflicting perceptions of the usefulness of ChatGPT in teaching\nphysics. While most recognized its usefulness in understanding concepts and\nproviding information, concerns were raised about its potential to reduce\ncritical thinking and independent learning. These findings suggest that while\nChatGPT can be a useful tool, it should be used with caution and as a\nsupplement to traditional teaching methods, rather than as a stand-alone\nsolution. The study underlines the importance of critical and reflective use of\nAI tools in educational settings and highlights the irreplaceable role of\nteachers in providing comprehensive educational support.",
+          "arxiv_id": "2312.02422v1"
+        },
+        {
+          "title": "An equitable and effective approach to introductory mechanics",
+          "year": "2021-11",
+          "abstract": "Introductory mechanics (\"physics 1\") is a critical gateway course for\nstudents desiring to pursue a STEM career. A major challenge with this course\nis that there is a large spread in the students' incoming physics preparation,\nand this level of preparation is strongly predictive of a students'\nperformance. The level of incoming preparation is also largely determined by a\nstudent's educational privilege, and so this course can amplify inequities in\nK-12 education and provide a barrier to a STEM career for students from\nmarginalized groups. Here, we present a novel introductory course design to\naddress such equity challenges in physics 1. We designed the course based on\nthe concept of deliberate practice to give students targeted, scaffolded, and\nrepeated opportunities to engage in research-identified practices and decisions\nrequired for effective problem-solving. We used real-world problems, as they\ncarry less resemblance to physics high school problems, and so even the\nstudents with the best high school physics instruction have little experience\nor skill in solving them. The students learned the physics content knowledge\nthey needed in future courses, particularly in engineering, and their\nproblem-solving skills improved substantially. Furthermore, the success in the\ncourse was not correlated with incoming physics preparation, in stark contrast\nto the outcomes from traditional physics 1 courses. These findings suggest that\nwe made physics 1 more equitable by employing a deliberate practice approach in\nthe context of real-world problem-solving.",
+          "arxiv_id": "2111.12504v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Status of Astronomy Education in India: A Baseline Survey",
+          "year": "2024-06",
+          "abstract": "We present the results of a nation-wide baseline survey, conducted by us, for\nthe status of Astronomy education among secondary school students in India. The\nsurvey was administered in 10 different languages to over 2000 students from\ndiverse backgrounds, and it explored multiple facets of their perspectives on\nastronomy. The topics included students' views on the incorporation of\nastronomy in curricula, their grasp of fundamental astronomical concepts,\naccess to educational resources, cultural connections to astronomy, and their\nlevels of interest and aspirations in the subject. We find notable deficiencies\nin students' knowledge of basic astronomical principles, with only a minority\ndemonstrating proficiency in key areas such as celestial sizes, distances, and\nlunar phases. Furthermore, access to resources such as telescopes and\nplanetariums remain limited across the country. Despite these challenges, a\nsignificant majority of students expressed a keen interest in astronomy. We\nfurther analyze the data along socioeconomic and gender lines. Particularly\nstriking were the socioeconomic disparities, with students from resource-poor\nbackgrounds often having lower levels of access and proficiency. Some\ndifferences were observed between genders, although not very pronounced. The\ninsights gleaned from this study hold valuable implications for the development\nof a more robust astronomy curriculum and the design of effective teacher\ntraining programs in the future.",
+          "arxiv_id": "2406.12308v1"
+        },
+        {
+          "title": "Using Data Science in High School Astronomy",
+          "year": "2025-01",
+          "abstract": "Astronomy datasets can be challenging to use for high school astronomy\nclasses. Data science education pedagogy can be leveraged to create astronomy\nactivities in which students interrogate data, create visuals, and use\nstatistical thinking to construct astronomy knowledge. This session describes\nhow the NASA/IPAC Infrared Science Archive (IRSA) can provide a web-based\ninterface for students to use basic data science techniques in astronomy to\nbuild data literacy while learning astronomical concepts. The activities shared\nwill be available for anyone but were designed to be used in astro 101 classes\nin high school or early college.",
+          "arxiv_id": "2501.04856v1"
+        },
+        {
+          "title": "Astronomy Identity Framework for Undergraduate Students and Researchers",
+          "year": "2024-10",
+          "abstract": "This research was a qualitative transcendental phenomenological exploration\nof astronomy identity formation among astronomy majors and physics majors\nengaged in astronomy research. Participants (N=10), all of whom identified with\ntraditionally marginalized groups in astronomy, were recruited from two large\nuniversities in New York State at different stages in their undergraduate\ncareers. Social cognitive career theory and the physics identity framework\nconceptually guided the analysis of astronomy identity for undergraduate majors\nand undergraduate astronomy researchers by exploring participants interest in,\nchoice to study, and persistence in astronomy. Themes related to astronomy\ninterest were popular culture and directly observing astronomical phenomena,\nwhile astronomy choice and persistence were facilitated by experiences in\nintroductory coursework, recognition from faculty, and socializing with peers.\nThe emergent astronomy identity framework was characterized by six distinct yet\ninterrelated constructs: 1) interest, typically rooted in observing naturally\noccurring phenomena and engaging with popular culture; 2) recognition from\npeers, experts, and families; 3) peer socialization; 4) competence; 5) sense of\nbelonging; and 6) astronomy career expectations. Implications from this\nresearch provide insights on factors that influence undergraduates in four-year\ncolleges to study astronomy, and how students' past experiences lead to a\nnatural interest in astronomy that may be fostered in secondary and\npost-secondary contexts. Findings suggest departments and institutions may\nfacilitate the accessibility of astronomy at the collegiate level by promoting\na more inclusive astronomy community, fostering interactions with astronomy\nfaculty and graduate students, providing opportunities for undergraduate\nresearch, and communicating expectancy for astronomy-related future careers.",
+          "arxiv_id": "2410.00885v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:01:42Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

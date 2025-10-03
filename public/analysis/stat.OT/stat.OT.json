@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_science_data science_students",
+        "keywords": [
+          [
+            "data",
+            0.06939421469200445
+          ],
+          [
+            "science",
+            0.06051455514100684
+          ],
+          [
+            "data science",
+            0.057912612809489845
+          ],
+          [
+            "students",
+            0.0525609141941499
+          ],
+          [
+            "statistics",
+            0.034554242914153065
+          ],
+          [
+            "research",
+            0.028702992354453016
+          ],
+          [
+            "learning",
+            0.025621595113198302
+          ],
+          [
+            "courses",
+            0.02518896820463069
+          ],
+          [
+            "course",
+            0.024880619174323337
+          ],
+          [
+            "undergraduate",
+            0.024120119803426484
+          ]
+        ],
+        "count": 98
+      },
+      "1": {
+        "name": "1_causal_treatment_effect_model",
+        "keywords": [
+          [
+            "causal",
+            0.04281279425705008
+          ],
+          [
+            "treatment",
+            0.03835943144808483
+          ],
+          [
+            "effect",
+            0.026186466390234513
+          ],
+          [
+            "model",
+            0.02236153274023417
+          ],
+          [
+            "data",
+            0.020964409464511554
+          ],
+          [
+            "effects",
+            0.020469224207675846
+          ],
+          [
+            "analysis",
+            0.019583269676205058
+          ],
+          [
+            "approach",
+            0.019010636180504366
+          ],
+          [
+            "study",
+            0.018411091384389334
+          ],
+          [
+            "test",
+            0.017934880091739748
+          ]
+        ],
+        "count": 91
+      },
+      "2": {
+        "name": "2_population_COVID_climate_data",
+        "keywords": [
+          [
+            "population",
+            0.036658986969081646
+          ],
+          [
+            "COVID",
+            0.028417428823064517
+          ],
+          [
+            "climate",
+            0.025263055148189054
+          ],
+          [
+            "data",
+            0.022391592436867454
+          ],
+          [
+            "model",
+            0.02189135166252757
+          ],
+          [
+            "study",
+            0.021774416603459107
+          ],
+          [
+            "models",
+            0.021008553397405587
+          ],
+          [
+            "change",
+            0.02084869105706131
+          ],
+          [
+            "time",
+            0.01788695289698646
+          ],
+          [
+            "pandemic",
+            0.01694453979859965
+          ]
+        ],
+        "count": 56
+      },
+      "3": {
+        "name": "3_Bayesian_linear_distributions_models",
+        "keywords": [
+          [
+            "Bayesian",
+            0.03299477984812614
+          ],
+          [
+            "linear",
+            0.025180131387852293
+          ],
+          [
+            "distributions",
+            0.02344005020180249
+          ],
+          [
+            "models",
+            0.02083295777719827
+          ],
+          [
+            "model",
+            0.01976765396602054
+          ],
+          [
+            "estimator",
+            0.01920221829383287
+          ],
+          [
+            "posterior",
+            0.01890345292143945
+          ],
+          [
+            "inference",
+            0.018371659525610075
+          ],
+          [
+            "method",
+            0.01795799002592175
+          ],
+          [
+            "regression",
+            0.017626662675662482
+          ]
+        ],
+        "count": 51
+      },
+      "4": {
+        "name": "4_probability_frequentist_Bayesian_inference",
+        "keywords": [
+          [
+            "probability",
+            0.09011271751353614
+          ],
+          [
+            "frequentist",
+            0.04322897890440805
+          ],
+          [
+            "Bayesian",
+            0.040904369435160064
+          ],
+          [
+            "inference",
+            0.03820115912355213
+          ],
+          [
+            "statistical",
+            0.03319249873329493
+          ],
+          [
+            "paradox",
+            0.03220067769416334
+          ],
+          [
+            "The",
+            0.03155458728720384
+          ],
+          [
+            "theory",
+            0.031001718570031724
+          ],
+          [
+            "statistics",
+            0.027647854861819116
+          ],
+          [
+            "probabilities",
+            0.026279933068884483
+          ]
+        ],
+        "count": 43
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6326783350593251,
+        -0.6230290272528318,
+        -0.5916471162658001,
+        -0.6659335243900573
+      ],
+      [
+        -0.6326783350593251,
+        1.0,
+        -0.6272600407759488,
+        -0.566806070202696,
+        -0.643572227221278
+      ],
+      [
+        -0.6230290272528318,
+        -0.6272600407759488,
+        1.0,
+        -0.497502890852622,
+        -0.6845585056035405
+      ],
+      [
+        -0.5916471162658001,
+        -0.566806070202696,
+        -0.497502890852622,
+        1.0,
+        -0.5092354807030318
+      ],
+      [
+        -0.6659335243900573,
+        -0.643572227221278,
+        -0.6845585056035405,
+        -0.5092354807030318,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        5,
+        1,
+        1,
+        1,
+        5
+      ],
+      "2020-02": [
+        7,
+        2,
+        0,
+        1,
+        3
+      ],
+      "2020-03": [
+        10,
+        0,
+        2,
+        4,
+        4
+      ],
+      "2020-04": [
+        8,
+        3,
+        7,
+        2,
+        1
+      ],
+      "2020-05": [
+        2,
+        0,
+        0,
+        1,
+        0
+      ],
+      "2020-06": [
+        10,
+        2,
+        0,
+        3,
+        2
+      ],
+      "2020-07": [
+        7,
+        2,
+        1,
+        3,
+        7
+      ],
+      "2020-08": [
+        6,
+        1,
+        1,
+        1,
+        2
+      ],
+      "2020-09": [
+        2,
+        2,
+        0,
+        6,
+        2
+      ],
+      "2020-10": [
+        6,
+        3,
+        1,
+        1,
+        3
+      ],
+      "2020-11": [
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "2020-12": [
+        5,
+        3,
+        2,
+        3,
+        2
+      ],
+      "2021-01": [
+        7,
+        1,
+        1,
+        1,
+        3
+      ],
+      "2021-02": [
+        9,
+        1,
+        3,
+        2,
+        1
+      ],
+      "2021-03": [
+        7,
+        2,
+        1,
+        4,
+        2
+      ],
+      "2021-04": [
+        4,
+        1,
+        2,
+        4,
+        3
+      ],
+      "2021-05": [
+        7,
+        1,
+        0,
+        2,
+        2
+      ],
+      "2021-06": [
+        3,
+        3,
+        0,
+        1,
+        3
+      ],
+      "2021-07": [
+        1,
+        2,
+        0,
+        2,
+        3
+      ],
+      "2021-08": [
+        6,
+        4,
+        1,
+        0,
+        2
+      ],
+      "2021-09": [
+        6,
+        1,
+        0,
+        2,
+        1
+      ],
+      "2021-10": [
+        4,
+        0,
+        0,
+        0,
+        2
+      ],
+      "2021-11": [
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      "2021-12": [
+        4,
+        0,
+        2,
+        2,
+        1
+      ],
+      "2022-01": [
+        7,
+        0,
+        1,
+        1,
+        0
+      ],
+      "2022-02": [
+        8,
+        2,
+        1,
+        1,
+        1
+      ],
+      "2022-03": [
+        3,
+        1,
+        0,
+        1,
+        1
+      ],
+      "2022-04": [
+        5,
+        2,
+        1,
+        3,
+        3
+      ],
+      "2022-05": [
+        9,
+        1,
+        0,
+        2,
+        0
+      ],
+      "2022-06": [
+        3,
+        2,
+        1,
+        2,
+        3
+      ],
+      "2022-07": [
+        2,
+        0,
+        0,
+        1,
+        3
+      ],
+      "2022-08": [
+        8,
+        2,
+        0,
+        0,
+        0
+      ],
+      "2022-09": [
+        3,
+        1,
+        1,
+        2,
+        1
+      ],
+      "2022-10": [
+        5,
+        1,
+        0,
+        1,
+        5
+      ],
+      "2022-11": [
+        7,
+        1,
+        0,
+        2,
+        4
+      ],
+      "2022-12": [
+        2,
+        0,
+        1,
+        1,
+        1
+      ],
+      "2023-01": [
+        7,
+        0,
+        1,
+        0,
+        1
+      ],
+      "2023-02": [
+        4,
+        1,
+        0,
+        0,
+        1
+      ],
+      "2023-03": [
+        7,
+        2,
+        0,
+        1,
+        1
+      ],
+      "2023-04": [
+        8,
+        2,
+        5,
+        1,
+        3
+      ],
+      "2023-05": [
+        5,
+        1,
+        0,
+        2,
+        3
+      ],
+      "2023-06": [
+        7,
+        1,
+        1,
+        2,
+        1
+      ],
+      "2023-07": [
+        8,
+        4,
+        0,
+        4,
+        3
+      ],
+      "2023-08": [
+        5,
+        1,
+        0,
+        0,
+        2
+      ],
+      "2023-09": [
+        7,
+        1,
+        0,
+        0,
+        2
+      ],
+      "2023-10": [
+        7,
+        2,
+        1,
+        0,
+        4
+      ],
+      "2023-11": [
+        2,
+        0,
+        0,
+        1,
+        0
+      ],
+      "2023-12": [
+        5,
+        1,
+        0,
+        3,
+        3
+      ],
+      "2024-01": [
+        5,
+        2,
+        0,
+        1,
+        1
+      ],
+      "2024-02": [
+        8,
+        0,
+        2,
+        2,
+        1
+      ],
+      "2024-03": [
+        6,
+        0,
+        0,
+        1,
+        1
+      ],
+      "2024-04": [
+        3,
+        1,
+        0,
+        2,
+        1
+      ],
+      "2024-05": [
+        5,
+        4,
+        1,
+        3,
+        1
+      ],
+      "2024-06": [
+        5,
+        3,
+        1,
+        0,
+        0
+      ],
+      "2024-07": [
+        12,
+        0,
+        1,
+        3,
+        4
+      ],
+      "2024-08": [
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "2024-09": [
+        6,
+        3,
+        0,
+        3,
+        3
+      ],
+      "2024-10": [
+        7,
+        0,
+        1,
+        0,
+        2
+      ],
+      "2024-11": [
+        4,
+        2,
+        0,
+        2,
+        1
+      ],
+      "2024-12": [
+        9,
+        1,
+        0,
+        1,
+        2
+      ],
+      "2025-01": [
+        7,
+        1,
+        2,
+        0,
+        3
+      ],
+      "2025-02": [
+        6,
+        2,
+        0,
+        3,
+        3
+      ],
+      "2025-03": [
+        7,
+        2,
+        1,
+        2,
+        4
+      ],
+      "2025-04": [
+        10,
+        3,
+        1,
+        3,
+        1
+      ],
+      "2025-05": [
+        4,
+        3,
+        1,
+        2,
+        0
+      ],
+      "2025-06": [
+        4,
+        2,
+        0,
+        3,
+        4
+      ],
+      "2025-07": [
+        3,
+        1,
+        1,
+        1,
+        5
+      ],
+      "2025-08": [
+        8,
+        4,
+        0,
+        1,
+        3
+      ],
+      "2025-09": [
+        2,
+        1,
+        1,
+        3,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The Mastery Rubric for Statistics and Data Science: promoting coherence and consistency in data science education and training",
+          "year": "2023-08",
+          "abstract": "Consensus based publications of both competencies and undergraduate\ncurriculum guidance documents targeting data science instruction for higher\neducation have recently been published. Recommendations for curriculum features\nfrom diverse sources may not result in consistent training across programs. A\nMastery Rubric was developed that prioritizes the promotion and documentation\nof formal growth as well as the development of independence needed for the 13\nrequisite knowledge, skills, and abilities for professional practice in\nstatistics and data science, SDS. The Mastery Rubric, MR, driven curriculum can\nemphasize computation, statistics, or a third discipline in which the other\nwould be deployed or, all three can be featured. The MR SDS supports each of\nthese program structures while promoting consistency with international,\nconsensus based, curricular recommendations for statistics and data science,\nand allows 'statistics', 'data science', and 'statistics and data science'\ncurricula to consistently educate students with a focus on increasing learners\nindependence. The Mastery Rubric construct integrates findings from the\nlearning sciences, cognitive and educational psychology, to support teachers\nand students through the learning enterprise. The MR SDS will support higher\neducation as well as the interests of business, government, and academic work\nforce development, bringing a consistent framework to address challenges that\nexist for a domain that is claimed to be both an independent discipline and\npart of other disciplines, including computer science, engineering, and\nstatistics. The MR-SDS can be used for development or revision of an evaluable\ncurriculum that will reliably support the preparation of early e.g.,\nundergraduate degree programs, middle e.g., upskilling and training programs,\nand late e.g., doctoral level training practitioners.",
+          "arxiv_id": "2308.08004v1"
+        },
+        {
+          "title": "A Systematic Literature Review of Undergraduate Data Science Education Research",
+          "year": "2024-03",
+          "abstract": "The presence of data science has been profound in the scientific community in\nalmost every discipline. An important part of the data science education\nexpansion has been at the undergraduate level. We conducted a systematic\nliterature review to (1) portray current evidence and knowledge gaps in\nself-proclaimed undergraduate data science education research and (2) inform\npolicymakers and the data science education community about what educators may\nencounter when searching for literature using the general keyword 'data science\neducation.' While open-access publications that target a broader audience of\ndata science educators and include multiple examples of data science programs\nand courses are a strength, significant knowledge gaps remain. The\nundergraduate data science literature that we identified often lacks empirical\ndata, research questions and reproducibility. Certain disciplines are less\nvisible. We recommend that we should (1) cherish data science as an\ninterdisciplinary field; (2) adopt a consistent set of keywords/terminology to\nensure data science education literature is easily identifiable; (3) prioritize\ninvestments in empirical studies.",
+          "arxiv_id": "2403.03387v2"
+        },
+        {
+          "title": "Computational Skills by Stealth in Secondary School Data Science",
+          "year": "2020-10",
+          "abstract": "The unprecedented growth in the availability of data of all types and\nqualities and the emergence of the field of data science has provided an\nimpetus to finally realizing the implementation of the full breadth of the\nNolan and Temple Lang proposed integration of computing concepts into\nstatistics curricula at all levels in statistics and new data science programs\nand courses. Moreover, data science, implemented carefully, opens accessible\npathways to stem for students for whom neither mathematics nor computer science\nare natural affinities, and who would traditionally be excluded. We discuss a\nproposal for the stealth development of computational skills in students' first\nexposure to data science through careful, scaffolded exposure to computation\nand its power. The intent of this approach is to support students, regardless\nof interest and self-efficacy in coding, in becoming data-driven learners, who\nare capable of asking complex questions about the world around them, and then\nanswering those questions through the use of data-driven inquiry. This\ndiscussion is presented in the context of the International Data Science in\nSchools Project which recently published computer science and statistics\nconsensus curriculum frameworks for a two-year secondary school data science\nprogram, designed to make data science accessible to all.",
+          "arxiv_id": "2010.07017v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "A tutorial comparing different covariate balancing methods with an application evaluating the causal effects of substance use treatment programs for adolescents",
+          "year": "2020-10",
+          "abstract": "Randomized controlled trials are the gold standard for measuring causal\neffects. However, they are often not always feasible, and causal treatment\neffects must be estimated from observational data. Observational studies do not\nallow robust conclusions about causal relationships unless statistical\ntechniques account for the imbalance of pretreatment confounders across groups\nwhile key assumptions hold. Propensity score and balance weighting (PSBW) are\nuseful techniques that aim to reduce the imbalances between treatment groups by\nweighting the groups to look alike on the observed confounders. There are many\nmethods available to estimate PSBW. However, it is unclear a priori which will\nachieve the best trade-off between covariate balance and effective sample size.\nMoreover, it is critical to assess the validity of key assumptions required for\nrobust estimation of the needed treatment effects, including the overlap and no\nunmeasured confounding assumptions. We present a step-by-step guide to\ncovariate balancing strategies, including how to evaluate overlap, obtain\nestimates of PSBW, check for covariate balance, and assess sensitivity to\nunobserved confounding. We compare the performance of several estimation\nmethods using a case study examining the relative effectiveness of substance\nuse treatment programs and provide a user-friendly web application that can\nimplement the proposed steps.",
+          "arxiv_id": "2010.09563v3"
+        },
+        {
+          "title": "The role of discretization scales in causal inference with continuous-time treatment",
+          "year": "2023-06",
+          "abstract": "There are well-established methods for identifying the causal effect of a\ntime-varying treatment applied at discrete time points. However, in the real\nworld, many treatments are continuous or have a finer time scale than the one\nused for measurement or analysis. While researchers have investigated the\ndiscrepancies between estimates under varying discretization scales using\nsimulations and empirical data, it is still unclear how the choice of\ndiscretization scale affects causal inference. To address this gap, we present\na framework to understand how discretization scales impact the properties of\ncausal inferences about the effect of a time-varying treatment. We introduce\nthe concept of \"identification bias\", which is the difference between the\ncausal estimand for a continuous-time treatment and the purported estimand of a\ndiscretized version of the treatment. We show that this bias can persist even\nwith an infinite number of longitudinal treatment-outcome trajectories. We\nspecifically examine the identification problem in a class of linear stochastic\ncontinuous-time data-generating processes and demonstrate the identification\nbias of the g-formula in this context. Our findings indicate that\ndiscretization bias can significantly impact empirical analysis, especially\nwhen there are limited repeated measurements. Therefore, we recommend that\nresearchers carefully consider the choice of discretization scale and perform\nsensitivity analysis to address this bias. We also propose a simple and\nheuristic quantitative measure for sensitivity concerning discretization and\nsuggest that researchers report this measure along with point and interval\nestimates in their work. By doing so, researchers can better understand and\naddress the potential impact of discretization bias on causal inference.",
+          "arxiv_id": "2306.08840v1"
+        },
+        {
+          "title": "A Bayesian nonparametric approach for causal inference with multiple mediators",
+          "year": "2022-08",
+          "abstract": "Mediation analysis with contemporaneously observed multiple mediators is an\nimportant area of causal inference. Recent approaches for multiple mediators\nare often based on parametric models and thus may suffer from model\nmisspecification. Also, much of the existing literature either only allow\nestimation of the joint mediation effect, or, estimate the joint mediation\neffect as the sum of individual mediator effects, which often is not a\nreasonable assumption. In this paper, we propose a methodology which overcomes\nthe two aforementioned drawbacks. Our method is based on a novel Bayesian\nnonparametric (BNP) approach, wherein the joint distribution of the observed\ndata (outcome, mediators, treatment, and confounders) is modeled flexibly using\nan enriched Dirichlet process mixture with three levels: the first level\ncharacterizing the conditional distribution of the outcome given the mediators,\ntreatment and the confounders, the second level corresponding to the\nconditional distribution of each of the mediators given the treatment and the\nconfounders, and the third level corresponding to the distribution of the\ntreatment and the confounders. We use standardization (g-computation) to\ncompute causal mediation effects under three uncheckable assumptions that allow\nidentification of the individual and joint mediation effects. The efficacy of\nour proposed method is demonstrated with simulations. We apply our proposed\nmethod to analyze data from a study of Ventilator-associated Pneumonia (VAP)\nco-infected patients, where the effect of the abundance of Pseudomonas on VAP\ninfection is suspected to be mediated through antibiotics.",
+          "arxiv_id": "2208.13382v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "A computational framework for modelling infectious disease policy based on age and household structure with applications to the COVID-19 pandemic",
+          "year": "2022-01",
+          "abstract": "The widespread, and in many countries unprecedented, use of\nnon-pharmaceutical interventions (NPIs) during the COVID-19 pandemic has\nhighlighted the need for mathematical models which can estimate the impact of\nthese measures while accounting for the highly heterogeneous risk profile of\nCOVID-19. Models accounting either for age structure or the household structure\nnecessary to explicitly model many NPIs are commonly used in infectious disease\nmodelling, but models incorporating both levels of structure present\nsubstantial computational and mathematical challenges due to their high\ndimensionality. Here we present a modelling framework for the spread of an\nepidemic that includes explicit representation of age structure and household\nstructure. Our model is formulated in terms of tractable systems of ordinary\ndifferential equations for which we provide an open-source Python\nimplementation. Such tractability leads to significant benefits for model\ncalibration, exhaustive evaluation of possible parameter values, and\ninterpretability of results. We demonstrate the flexibility of our model\nthrough four policy case studies, where we quantify the likely benefits of the\nfollowing measures which were either considered or implemented in the UK during\nthe current COVID-19 pandemic: control of within- and between-household mixing\nthrough NPIs; formation of support bubbles during lockdown periods;\nout-of-household isolation (OOHI); and temporary relaxation of NPIs during\nholiday periods. Our ordinary differential equation formulation and associated\nanalysis demonstrate that multiple dimensions of risk stratification and social\nstructure can be incorporated into infectious disease models without\nsacrificing mathematical tractability. This model and its software\nimplementation expand the range of tools available to infectious disease policy\nanalysts.",
+          "arxiv_id": "2201.05486v2"
+        },
+        {
+          "title": "An exploratory assessment of a multidimensional healthcare and economic data on COVID-19 in Nigeria",
+          "year": "2020-11",
+          "abstract": "The coronavirus disease of 2019 (COVID-19) is a pandemic that is ravaging\nNigeria and the world at large. This data article provides a dataset of daily\nupdates of COVID-19 as reported online by the Nigeria Centre for Disease\nControl (NCDC) from February 27, 2020 to September 29, 2020. The data were\nobtained through web scraping from different sources and it includes some\neconomic variables such as the Nigeria budget for each state in 2020,\npopulation estimate, healthcare facilities, and the COVID-19 laboratories in\nNigeria. The dataset has been processed using the standard of the FAIR data\nprinciple which encourages its findability, accessibility, interoperability,\nand reusability and will be relevant to researchers in different fields such as\nData Science, Epidemiology, Earth Modelling, and Health Informatics.",
+          "arxiv_id": "2011.06689v1"
+        },
+        {
+          "title": "COVIDHunter: An Accurate, Flexible, and Environment-Aware Open-Source COVID-19 Outbreak Simulation Model",
+          "year": "2021-02",
+          "abstract": "Background: Early detection and isolation of COVID-19 patients are essential\nfor successful implementation of mitigation strategies and eventually curbing\nthe disease spread. With a limited number of daily COVID-19 tests performed in\nevery country, simulating the COVID-19 spread along with the potential effect\nof each mitigation strategy currently remains one of the most effective ways in\nmanaging the healthcare system and guiding policy-makers. Methods: We introduce\nCOVIDHunter, a flexible and accurate COVID-19 outbreak simulation model that\nevaluates the current mitigation measures that are applied to a region and\nprovides suggestions on what strength the upcoming mitigation measure should\nbe. The key idea of COVIDHunter is to quantify the spread of COVID-19 in a\ngeographical region by simulating the average number of new infections caused\nby an infected person considering the effect of external factors, such as\nenvironmental conditions (e.g., climate, temperature, humidity) and mitigation\nmeasures. Results: Using Switzerland as a case study, COVIDHunter estimates\nthat if the policy-makers relax the mitigation measures by 50% for 30 days then\nboth the daily capacity need for hospital beds and daily number of deaths\nincrease exponentially by an average of 5.1x, who may occupy ICU beds and\nventilators for a period of time. Unlike existing models, the COVIDHunter model\naccurately monitors and predicts the daily number of cases, hospitalizations,\nand deaths due to COVID-19. Our model is flexible to configure and simple to\nmodify for modeling different scenarios under different environmental\nconditions and mitigation measures. Availability: We release the source code of\nthe COVIDHunter implementation at https://github.com/CMU- SAFARI/COVIDHunter\nand show how to flexibly configure our model for any scenario and easily extend\nit for different measures and conditions than we account for.",
+          "arxiv_id": "2102.03667v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Uncertainty quantification in the Henry problem using the multilevel Monte Carlo method",
+          "year": "2024-02",
+          "abstract": "We investigate the applicability of the well-known multilevel Monte Carlo\n(MLMC) method to the class of density-driven flow problems, in particular the\nproblem of salinisation of coastal aquifers. As a test case, we solve the\nuncertain Henry saltwater intrusion problem. Unknown porosity, permeability and\nrecharge parameters are modelled by using random fields. The classical\ndeterministic Henry problem is non-linear and time-dependent, and can easily\ntake several hours of computing time. Uncertain settings require the solution\nof multiple realisations of the deterministic problem, and the total\ncomputational cost increases drastically. Instead of computing of hundreds\nrandom realisations, typically the mean value and the variance are computed.\nThe standard methods such as the Monte Carlo or surrogate-based methods is a\ngood choice, but they compute all stochastic realisations on the same, often,\nvery fine mesh. They also do not balance the stochastic and discretisation\nerrors. These facts motivated us to apply the MLMC method. We demonstrate that\nby solving the Henry problem on multi-level spatial and temporal meshes, the\nMLMC method reduces the overall computational and storage costs. To reduce the\ncomputing cost further, parallelization is performed in both physical and\nstochastic spaces. To solve each deterministic scenario, we run the parallel\nmultigrid solver ug4 in a black-box fashion.",
+          "arxiv_id": "2403.17018v1"
+        },
+        {
+          "title": "elhmc: An R Package for Hamiltonian Monte Carlo Sampling in Bayesian Empirical Likelihood",
+          "year": "2022-09",
+          "abstract": "In this article, we describe a {\\tt R} package for sampling from an empirical\nlikelihood-based posterior using a Hamiltonian Monte Carlo method. Empirical\nlikelihood-based methodologies have been used in Bayesian modeling of many\nproblems of interest in recent times. This semiparametric procedure can easily\ncombine the flexibility of a non-parametric distribution estimator together\nwith the interpretability of a parametric model. The model is specified by\nestimating equations-based constraints. Drawing an inference from a Bayesian\nempirical likelihood (BayesEL) posterior is challenging. The likelihood is\ncomputed numerically, so no closed expression of the posterior exists.\nMoreover, for any sample of finite size, the support of the likelihood is\nnon-convex, which hinders the fast mixing of many Markov Chain Monte Carlo\n(MCMC) procedures. It has been recently shown that using the properties of the\ngradient of log empirical likelihood, one can devise an efficient Hamiltonian\nMonte Carlo (HMC) algorithm to sample from a BayesEL posterior.\n  The package requires the user to specify only the estimating equations, the\nprior, and their respective gradients. An MCMC sample drawn from the BayesEL\nposterior of the parameters, with various details required by the user is\nobtained.",
+          "arxiv_id": "2209.01289v1"
+        },
+        {
+          "title": "Bayesian Estimation Approach for Linear Regression Models with Linear Inequality Restrictions",
+          "year": "2021-12",
+          "abstract": "Univariate and multivariate general linear regression models, subject to\nlinear inequality constraints, arise in many scientific applications. The\nlinear inequality restrictions on model parameters are often available from\nphenomenological knowledge and motivated by machine learning applications of\nhigh-consequence engineering systems (Agrell, 2019; Veiga and Marrel, 2012).\nSome studies on the multiple linear models consider known linear combinations\nof the regression coefficient parameters restricted between upper and lower\nbounds. In the present paper, we consider both univariate and multivariate\ngeneral linear models subjected to this kind of linear restrictions. So far,\nresearch on univariate cases based on Bayesian methods is all under the\ncondition that the coefficient matrix of the linear restrictions is a square\nmatrix of full rank. This condition is not, however, always feasible. Another\ndifficulty arises at the estimation step by implementing the Gibbs algorithm,\nwhich exhibits, in most cases, slow convergence. This paper presents a Bayesian\nmethod to estimate the regression parameters when the matrix of the constraints\nproviding the set of linear inequality restrictions undergoes no condition. For\nthe multivariate case, our Bayesian method estimates the regression parameters\nwhen the number of the constrains is less than the number of the regression\ncoefficients in each multiple linear models. We examine the efficiency of our\nBayesian method through simulation studies for both univariate and multivariate\nregressions. After that, we illustrate that the convergence of our algorithm is\nrelatively faster than the previous methods. Finally, we use our approach to\nanalyze two real datasets.",
+          "arxiv_id": "2112.02950v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Physical, subjective and analogical probability",
+          "year": "2022-04",
+          "abstract": "The aim of this paper is to show that the concept of probability is best\nunderstood by dividing this concept into two different types of probability,\nnamely physical probability and analogical probability. Loosely speaking, a\nphysical probability is a probability that applies to the outcomes of an\nexperiment that have been judged as being equally likely on the basis of\nphysical symmetry. Physical probabilities are arguably in some sense\n'objective' and possess all the standard properties of the concept of\nprobability. On the other hand, an analogical probability is defined by making\nan analogy between the uncertainty surrounding an event of interest and the\nuncertainty surrounding an event that has a physical probability. Analogical\nprobabilities are undeniably subjective probabilities and are not obliged to\nhave all the standard mathematical properties possessed by physical\nprobabilities, e.g. they may not have the property of additivity or obey the\nstandard definition of conditional probability. Nevertheless, analogical\nprobabilities have extra properties, which are not possessed by physical\nprobabilities, that assist in their direct elicitation, general derivation,\ncomparison and justification. More specifically, these properties facilitate\nthe application of analogical probability to real-world problems that can not\nbe adequately resolved by using only physical probability, e.g. probabilistic\ninference about hypotheses on the basis of observed data. Careful definitions\nare given of the concepts that are introduced and, where appropriate, examples\nof the application of these concepts are presented for additional clarity.",
+          "arxiv_id": "2204.10159v1"
+        },
+        {
+          "title": "The P-T Probability Framework for Semantic Communication, Falsification, Confirmation, and Bayesian Reasoning",
+          "year": "2020-10",
+          "abstract": "Many researchers want to unify probability and logic by defining logical\nprobability or probabilistic logic reasonably. This paper tries to unify\nstatistics and logic so that we can use both statistical probability and\nlogical probability at the same time. For this purpose, this paper proposes the\nP-T probability framework, which is assembled with Shannon's statistical\nprobability framework for communication, Kolmogorov's probability axioms for\nlogical probability, and Zadeh's membership functions used as truth functions.\nTwo kinds of probabilities are connected by an extended Bayes' theorem, with\nwhich we can convert a likelihood function and a truth function from one to\nanother. Hence, we can train truth functions (in logic) by sampling\ndistributions (in statistics). This probability framework was developed in the\nauthor's long-term studies on semantic information, statistical learning, and\ncolor vision. This paper first proposes the P-T probability framework and\nexplains different probabilities in it by its applications to semantic\ninformation theory. Then, this framework and the semantic information methods\nare applied to statistical learning, statistical mechanics, hypothesis\nevaluation (including falsification), confirmation, and Bayesian reasoning.\nTheoretical applications illustrate the reasonability and practicability of\nthis framework. This framework is helpful for interpretable AI. To interpret\nneural networks, we need further study.",
+          "arxiv_id": "2011.00992v1"
+        },
+        {
+          "title": "Bayesian questions with frequentist answers",
+          "year": "2023-08",
+          "abstract": "The two statistical methods, namely the frequentist and the Bayesian methods,\nare both commonly used for probabilistic inference in many scientific\nsituations. However, it is not straightforward to interpret the result of one\napproach in terms of the concepts of the other. In this paper we explore the\npossibility of finding a Bayesian significance for the frequentist's main\nobject of interest, the $p$-value, which is the probability assigned to the\nproposition -- which we call the {\\it extremity proposition} -- that a\nmeasurement will result in a value that is at least as extreme as the value\nthat was actually obtained. To make contact with the frequentist language, the\nBayesian can choose to update probabilities based on the {\\it extremity\nproposition}, which is weaker than the standard Bayesian update proposition,\nwhich uses the actual observed value. We then show that the posterior\nprobability (or probability density) of a theory is equal to the prior\nprobability (or probability density) multiplied by the ratio of the $p$-value\nfor the data obtained, given that theory, to the mean $p$-value -- averaged\nover all theories weighted by their prior probabilities. Thus, we provide\nfrequentist answers to Bayesian questions. Our result is generic -- it does not\nrely on restrictive assumptions about the situation under consideration or\nspecific properties of the likelihoods or the priors.",
+          "arxiv_id": "2308.16252v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:08:59Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

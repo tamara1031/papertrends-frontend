@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_space_spaces_topological_compact",
+        "keywords": [
+          [
+            "space",
+            0.07204451476696073
+          ],
+          [
+            "spaces",
+            0.06781409490773405
+          ],
+          [
+            "topological",
+            0.04711279417977835
+          ],
+          [
+            "compact",
+            0.04397196623903866
+          ],
+          [
+            "topology",
+            0.03591538685746345
+          ],
+          [
+            "set",
+            0.03557966780727391
+          ],
+          [
+            "continuous",
+            0.0311300276287276
+          ],
+          [
+            "sets",
+            0.03001733366447788
+          ],
+          [
+            "paper",
+            0.02907027735059059
+          ],
+          [
+            "group",
+            0.028705210288464903
+          ]
+        ],
+        "count": 1934
+      },
+      "1": {
+        "name": "1_mappings_point_metric_metric spaces",
+        "keywords": [
+          [
+            "mappings",
+            0.14297467762458638
+          ],
+          [
+            "point",
+            0.11601330850650056
+          ],
+          [
+            "metric",
+            0.07416648274056489
+          ],
+          [
+            "metric spaces",
+            0.06692041167452703
+          ],
+          [
+            "type",
+            0.059457252904852556
+          ],
+          [
+            "spaces",
+            0.05657332033156767
+          ],
+          [
+            "results",
+            0.05196838471140902
+          ],
+          [
+            "contractions",
+            0.05122001512653258
+          ],
+          [
+            "point theorems",
+            0.044653346520566864
+          ],
+          [
+            "point theorem",
+            0.043240057323126614
+          ]
+        ],
+        "count": 53
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.26883308690720403
+      ],
+      [
+        -0.26883308690720403,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        29,
+        0
+      ],
+      "2020-02": [
+        28,
+        0
+      ],
+      "2020-03": [
+        25,
+        2
+      ],
+      "2020-04": [
+        29,
+        3
+      ],
+      "2020-05": [
+        23,
+        4
+      ],
+      "2020-06": [
+        27,
+        1
+      ],
+      "2020-07": [
+        29,
+        5
+      ],
+      "2020-08": [
+        9,
+        2
+      ],
+      "2020-09": [
+        27,
+        2
+      ],
+      "2020-10": [
+        15,
+        2
+      ],
+      "2020-11": [
+        24,
+        1
+      ],
+      "2020-12": [
+        30,
+        0
+      ],
+      "2021-01": [
+        19,
+        4
+      ],
+      "2021-02": [
+        24,
+        1
+      ],
+      "2021-03": [
+        27,
+        3
+      ],
+      "2021-04": [
+        33,
+        3
+      ],
+      "2021-05": [
+        29,
+        0
+      ],
+      "2021-06": [
+        16,
+        0
+      ],
+      "2021-07": [
+        24,
+        5
+      ],
+      "2021-08": [
+        24,
+        4
+      ],
+      "2021-09": [
+        34,
+        2
+      ],
+      "2021-10": [
+        25,
+        1
+      ],
+      "2021-11": [
+        38,
+        3
+      ],
+      "2021-12": [
+        31,
+        1
+      ],
+      "2022-01": [
+        19,
+        3
+      ],
+      "2022-02": [
+        22,
+        1
+      ],
+      "2022-03": [
+        25,
+        2
+      ],
+      "2022-04": [
+        29,
+        3
+      ],
+      "2022-05": [
+        30,
+        0
+      ],
+      "2022-06": [
+        29,
+        3
+      ],
+      "2022-07": [
+        39,
+        2
+      ],
+      "2022-08": [
+        24,
+        3
+      ],
+      "2022-09": [
+        20,
+        2
+      ],
+      "2022-10": [
+        33,
+        2
+      ],
+      "2022-11": [
+        50,
+        1
+      ],
+      "2022-12": [
+        29,
+        1
+      ],
+      "2023-01": [
+        23,
+        1
+      ],
+      "2023-02": [
+        22,
+        1
+      ],
+      "2023-03": [
+        35,
+        7
+      ],
+      "2023-04": [
+        20,
+        1
+      ],
+      "2023-05": [
+        24,
+        2
+      ],
+      "2023-06": [
+        16,
+        1
+      ],
+      "2023-07": [
+        34,
+        3
+      ],
+      "2023-08": [
+        34,
+        7
+      ],
+      "2023-09": [
+        32,
+        3
+      ],
+      "2023-10": [
+        19,
+        1
+      ],
+      "2023-11": [
+        24,
+        4
+      ],
+      "2023-12": [
+        36,
+        2
+      ],
+      "2024-01": [
+        31,
+        1
+      ],
+      "2024-02": [
+        19,
+        2
+      ],
+      "2024-03": [
+        33,
+        2
+      ],
+      "2024-04": [
+        27,
+        4
+      ],
+      "2024-05": [
+        31,
+        4
+      ],
+      "2024-06": [
+        29,
+        4
+      ],
+      "2024-07": [
+        38,
+        3
+      ],
+      "2024-08": [
+        21,
+        1
+      ],
+      "2024-09": [
+        26,
+        2
+      ],
+      "2024-10": [
+        18,
+        1
+      ],
+      "2024-11": [
+        22,
+        0
+      ],
+      "2024-12": [
+        42,
+        8
+      ],
+      "2025-01": [
+        28,
+        6
+      ],
+      "2025-02": [
+        28,
+        1
+      ],
+      "2025-03": [
+        29,
+        2
+      ],
+      "2025-04": [
+        24,
+        5
+      ],
+      "2025-05": [
+        22,
+        1
+      ],
+      "2025-06": [
+        30,
+        0
+      ],
+      "2025-07": [
+        30,
+        2
+      ],
+      "2025-08": [
+        32,
+        4
+      ],
+      "2025-09": [
+        10,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Lotz-Peck-Porta and Rosenthal's theorems for spaces $C_p(X)$",
+          "year": "2025-09",
+          "abstract": "For a Tychonoff space $X$ by $C_p(X)$ we denote the space $C(X)$ of\ncontinuous real valued functions on $X$ endowed with the pointwise topology. We\nprove that an infinite compact space $X$ is scattered if and only if every\nclosed infinite-dimensional subspace in $C_p(X)$ contains a copy of $c_0$ (with\nthe pointwise topology) which is complemented in the whole space $C_p(X)$. This\nprovides a $C_p$-version of the theorem of Lotz, Peck and Porta for Banach\nspaces $C(X)$ and $c_0$. Applications will be provided. We prove also a\n$C_p$-version of Rosenthal's theorem by showing that for an infinite compact\n$X$ the space $C_p(X)$ contains a closed copy of $c_{0}(\\Gamma)$ (with the\npointwise topology) for some uncountable set $\\Gamma$ if and only if $X$ admits\nan uncountable family of pairwise disjoint open subsets of $X$. Illustrating\nexamples, additional supplementing $C_p$-theorems and comments are included.",
+          "arxiv_id": "2509.08634v1"
+        },
+        {
+          "title": "A characterization of $X$ for which spaces $C_p(X)$ are distinguished and its applications",
+          "year": "2020-11",
+          "abstract": "We prove that the locally convex space $C_{p}(X)$ of continuous real-valued\nfunctions on a Tychonoff space $X$ equipped with the topology of pointwise\nconvergence is distinguished if and only if $X$ is a $\\Delta$-space in the\nsense of \\cite {Knight}. As an application of this characterization theorem we\nobtain the following results: 1) If $X$ is a \\v{C}ech-complete (in particular,\ncompact) space such that $C_p(X)$ is distinguished, then $X$ is scattered. 2)\nFor every separable compact space of the Isbell--Mr\\'owka type $X$, the space\n$C_p(X)$ is distinguished. 3) If $X$ is the compact space of ordinals\n$[0,\\omega_1]$, then $C_p(X)$ is not distinguished. We observe that the\nexistence of an uncountable separable metrizable space $X$ such that $C_p(X)$\nis distinguished, is independent of ZFC. We explore also the question to which\nextent the class of $\\Delta$-spaces is invariant under basic topological\noperations.",
+          "arxiv_id": "2011.14299v1"
+        },
+        {
+          "title": "Compact subspaces of the space of separately continuous functions with the cross-uniform topology",
+          "year": "2024-06",
+          "abstract": "We consider two natural topologies on the space $S(X\\times Y,Z)$ of all\nseparately continuous functions defined on the product of two topological\nspaces $X$ and $Y$ and ranged into a topological or metric space $X$. These\ntopologies are the cross-open topology and the cross-uniform topology. We show\nthat these topologies coincides if $X$ and $Y$ are pseudocompacts and $Z$ is a\nmetric space. We prove that a compact space $K$ embeds into $S(X\\times Y,Z)$\nfor infinite compacts $X$, $Y$ and a metrizable space $Z\\supseteq\\mathbb{R}$ if\nand only if the weight of $K$ is less than the sharp cellularity of both spaces\n$X$ and $Y$.",
+          "arxiv_id": "2406.05705v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Fixed point results for multipoint Kannan-type mappings",
+          "year": "2025-04",
+          "abstract": "We introduce and study a new type of mappings in metric spaces termed\n$n$-point Kannan-type mappings. A fixed-point theorem is proved for these\nmappings. In general case such mappings are discontinuous in the domain but\nnecessarily continuous at fixed points. Conditions under which usual Kannan\nmappings and mapping contracting the total pairwise distances between $n$\npoints are $n$-point Kannan-type mappings are found. It is shown that\nadditional conditions of asymptotic regularity and continuity allow to extend\nthe value of the contraction coefficient in fixed-point theorems for $n$-point\nKannan-type mappings.",
+          "arxiv_id": "2504.14213v1"
+        },
+        {
+          "title": "Fixed point theorem for generalized Kannan type mappings",
+          "year": "2023-08",
+          "abstract": "We introduce a new type of mappings in metric spaces which are three-point\nanalogue of the well-known Kannan type mappings and call them generalized\nKannan type mappings. It is shown that in general case such mappings are\ndiscontinuous but continuous at fixed points as well as Kannan type mappings\nand that these two classes of mappings are independent. The fixed-point theorem\nfor generalized Kannan type mappings is proved. Additional conditions of\nasymptotic regularity and continuity allow us to extent the class of mappings\nfor which the fixed-point theorems hold. Following Kannan, we also obtain two\nother fixed-point theorems for generalized Kannan type mappings in metric\nspaces which are not obligatory complete.",
+          "arxiv_id": "2308.05419v2"
+        },
+        {
+          "title": "A three point extension of Chatterjea's fixed point theorem with at most two fixed points",
+          "year": "2024-02",
+          "abstract": "In this paper, we introduce a new category of mappings within metric spaces,\nspecifically focusing on three-point analogs of the well-established Chatterjea\ntype mappings. We demonstrate that Chatterjea type mappings and their\nthree-point analogs are different classes of mappings. A fixed point theorem\nfor generalized Chatterjea type mappings is established. It is shown that these\nmappings are continuous at fixed point. Connections between generalized\nChatterjea type mappings, generalized Kannan type mappings, Chatterjea type\nmappings, and mappings contracting perimeters of triangles are found.\nAdditionally, we derive two fixed point theorems for generalized Chatterjea\ntype mappings in metric spaces, even when completeness is not mandatory.",
+          "arxiv_id": "2403.07906v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:53:58Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

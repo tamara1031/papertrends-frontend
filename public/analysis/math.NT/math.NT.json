@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_number_function_paper_group",
+        "keywords": [
+          [
+            "number",
+            0.02323859098522124
+          ],
+          [
+            "function",
+            0.018627384037541644
+          ],
+          [
+            "paper",
+            0.01681871961841229
+          ],
+          [
+            "group",
+            0.01585893840288735
+          ],
+          [
+            "numbers",
+            0.015784129470682935
+          ],
+          [
+            "results",
+            0.015230297835942519
+          ],
+          [
+            "conjecture",
+            0.015168884792523223
+          ],
+          [
+            "prime",
+            0.014936223679398739
+          ],
+          [
+            "fields",
+            0.01474181279912779
+          ],
+          [
+            "finite",
+            0.014236634075705808
+          ]
+        ],
+        "count": 16271
+      },
+      "1": {
+        "name": "1_partitions_partition_parts_congruences",
+        "keywords": [
+          [
+            "partitions",
+            0.08957151357946339
+          ],
+          [
+            "partition",
+            0.06481312131925317
+          ],
+          [
+            "parts",
+            0.04441109100411468
+          ],
+          [
+            "congruences",
+            0.038984700182264985
+          ],
+          [
+            "function",
+            0.031781036972682995
+          ],
+          [
+            "number",
+            0.03075620584726715
+          ],
+          [
+            "modulo",
+            0.02544383861492239
+          ],
+          [
+            "Andrews",
+            0.02403632177987676
+          ],
+          [
+            "partition function",
+            0.02304386113131417
+          ],
+          [
+            "functions",
+            0.022117985556906517
+          ]
+        ],
+        "count": 543
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.2948707594790235
+      ],
+      [
+        -0.2948707594790235,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        228,
+        13
+      ],
+      "2020-02": [
+        240,
+        11
+      ],
+      "2020-03": [
+        234,
+        16
+      ],
+      "2020-04": [
+        205,
+        20
+      ],
+      "2020-05": [
+        299,
+        11
+      ],
+      "2020-06": [
+        285,
+        20
+      ],
+      "2020-07": [
+        216,
+        10
+      ],
+      "2020-08": [
+        210,
+        16
+      ],
+      "2020-09": [
+        236,
+        16
+      ],
+      "2020-10": [
+        272,
+        17
+      ],
+      "2020-11": [
+        208,
+        13
+      ],
+      "2020-12": [
+        258,
+        11
+      ],
+      "2021-01": [
+        230,
+        16
+      ],
+      "2021-02": [
+        227,
+        16
+      ],
+      "2021-03": [
+        244,
+        9
+      ],
+      "2021-04": [
+        212,
+        12
+      ],
+      "2021-05": [
+        226,
+        10
+      ],
+      "2021-06": [
+        237,
+        13
+      ],
+      "2021-07": [
+        208,
+        8
+      ],
+      "2021-08": [
+        215,
+        18
+      ],
+      "2021-09": [
+        240,
+        11
+      ],
+      "2021-10": [
+        243,
+        20
+      ],
+      "2021-11": [
+        262,
+        21
+      ],
+      "2021-12": [
+        218,
+        19
+      ],
+      "2022-01": [
+        215,
+        16
+      ],
+      "2022-02": [
+        205,
+        14
+      ],
+      "2022-03": [
+        260,
+        14
+      ],
+      "2022-04": [
+        222,
+        14
+      ],
+      "2022-05": [
+        216,
+        20
+      ],
+      "2022-06": [
+        245,
+        12
+      ],
+      "2022-07": [
+        257,
+        22
+      ],
+      "2022-08": [
+        232,
+        15
+      ],
+      "2022-09": [
+        225,
+        15
+      ],
+      "2022-10": [
+        245,
+        14
+      ],
+      "2022-11": [
+        283,
+        13
+      ],
+      "2022-12": [
+        208,
+        15
+      ],
+      "2023-01": [
+        234,
+        13
+      ],
+      "2023-02": [
+        212,
+        17
+      ],
+      "2023-03": [
+        272,
+        23
+      ],
+      "2023-04": [
+        217,
+        14
+      ],
+      "2023-05": [
+        213,
+        17
+      ],
+      "2023-06": [
+        224,
+        12
+      ],
+      "2023-07": [
+        222,
+        21
+      ],
+      "2023-08": [
+        268,
+        18
+      ],
+      "2023-09": [
+        258,
+        19
+      ],
+      "2023-10": [
+        265,
+        21
+      ],
+      "2023-11": [
+        220,
+        13
+      ],
+      "2023-12": [
+        258,
+        17
+      ],
+      "2024-01": [
+        292,
+        17
+      ],
+      "2024-02": [
+        245,
+        14
+      ],
+      "2024-03": [
+        265,
+        20
+      ],
+      "2024-04": [
+        212,
+        17
+      ],
+      "2024-05": [
+        279,
+        14
+      ],
+      "2024-06": [
+        256,
+        20
+      ],
+      "2024-07": [
+        260,
+        13
+      ],
+      "2024-08": [
+        246,
+        15
+      ],
+      "2024-09": [
+        262,
+        25
+      ],
+      "2024-10": [
+        292,
+        19
+      ],
+      "2024-11": [
+        260,
+        17
+      ],
+      "2024-12": [
+        251,
+        26
+      ],
+      "2025-01": [
+        221,
+        15
+      ],
+      "2025-02": [
+        259,
+        20
+      ],
+      "2025-03": [
+        276,
+        24
+      ],
+      "2025-04": [
+        285,
+        17
+      ],
+      "2025-05": [
+        288,
+        16
+      ],
+      "2025-06": [
+        252,
+        14
+      ],
+      "2025-07": [
+        287,
+        22
+      ],
+      "2025-08": [
+        323,
+        31
+      ],
+      "2025-09": [
+        154,
+        12
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Automorphism Groups of Finite Extensions of Fields and the Minimal Ramification Problem",
+          "year": "2024-08",
+          "abstract": "We study the following question: given a global field $F$ and finite group\n$G$, what is the minimal $r$ such that there exists a finite extension $K/F$\nwith $\\mathrm{Aut}(K/F)\\cong G$ that is ramified over exactly $r$ places of\n$F$? We conjecture that the answer is $\\le 1$ for any global field $F$ and\nfinite group $G$. In the case when $F$ is a number field we show that the\nanswer is always $\\le 4[F:\\mathbb Q]$. We show that assuming Schinzel's\nHypothesis H the answer is always $\\le 1$ if $F$ is a number field. We show\nunconditionally that the answer is always $\\le 1$ if $F$ is a global function\nfield.\n  We also show that for a broader class of fields $F$ than previously known,\nevery finite group $G$ can be realized as the automorphism group of a finite\nextension $K/F$ (without restriction on the ramification).\n  An important new tool used in this work is a recent result of the author and\nC. Tsang, which says that for any finite group $G$ there exists a natural\nnumber $n$ and a subgroup $H\\leqslant S_n$ of the symmetric group such that\n$N_{S_n}(H)/H\\cong G$.",
+          "arxiv_id": "2408.12441v2"
+        },
+        {
+          "title": "Figurate numbers, forms of mixed type and their representation numbers",
+          "year": "2023-02",
+          "abstract": "In this article, we consider the problem of determining formulas for the\nnumber of representations of a natural number $n$ by a sum of figurate numbers\nwith certain positive integer coefficients. To achieve this, we prove that the\nassociated generating function gives rise to a modular form of integral weight\nunder certain condition on the coefficients when even number of higher figurate\nnumbers are considered. In particular, we obtain modular property of the\ngenerating function corresponding to a sum of even number of triangular numbers\nwith coefficients. We also obtain modularity property of the generating\nfunction of mixed forms involving figurate numbers (including the squares and\ntriangular numbers) with coefficients and forms of the type $m^2+mn+n^2$ with\ncoefficients. In particular, we show the modularity of the generating function\nof odd number of squares and odd number of triangular numbers (with\ncoefficients). As a consequence, explicit formulas for the number of\nrepresentations of these mixed forms are obtained using a basis of the\ncorresponding space of modular forms of integral weight. We also obtain several\napplications concerning the triangular numbers with coefficients similar to the\nones obtained in \\cite{ono}. In \\cite{xia}, Xia-Ma-Tian considered some special\ncases of mixed forms and obtained the number of representations of these 21\nmixed forms using the $(p,k)$ parametrisation method. We also derive these 21\nformulas using our method and further obtain as a consequence, the $(p,k)$\nparametrisation of the Eisenstein series $E_4(\\tau)$ and its duplications. It\nis to be noted that the $(p,k)$ parametrisation of $E_4$ and its duplications\nwere derived by a different method in \\cite{{aw},{aaw}}. We illustrate our\nmethod with several examples.",
+          "arxiv_id": "2302.00964v1"
+        },
+        {
+          "title": "Space spanned by characteristic exponents",
+          "year": "2023-08",
+          "abstract": "We prove several rigidity results on multiplier spectrum and length spectrum.\nFor example, we show that for every non-exceptional rational map\n$f:\\mathbb{P}^1(\\mathbb{C})\\to\\mathbb{P}^1(\\mathbb{C})$ of degree $d\\geq2$, the\n$\\mathbb{Q}$-vector space generated by all the (finite) characteristic\nexponents of periodic points of $f$ has infinite dimension. This answers a\nstronger version of a question of Levy and Tucker. Our result can also be seen\nas a generalization of recent results of Ji-Xie and of Huguin which proved\nMilnor's conjecture about rational maps having integer multipliers. We also get\na characterization of postcritically finite maps by using its length spectrum.\nFinally as an application of our result, we get a new proof of the\nZariski-dense orbit conjecture for endomorphisms on $(\\mathbb{P}^1)^N, N\\geq\n1$.",
+          "arxiv_id": "2308.00289v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "A congruence family modulo powers of 5 for generalized cubic partitions via the localization method",
+          "year": "2025-08",
+          "abstract": "Recently Amdeberhan, Sellers, and Singh introduced a new infinite family of\npartition functions called generalized cubic partitions. Given a positive\ninteger $d$, they let $a_d(n)$ be the counting function for partitions of $n$\nin which the odd parts are unrestricted and the even parts are $d$-colored.\nThese partitions are natural generalizations of Chan's notion of cubic\npartitions, as they coincide when $d=2.$ Many Ramanujan-like congruences exist\nin the literature for cubic partitions, and in their work Amdeberhan, Sellers,\nand Singh proved a collection of congruences satisfied by $a_d(n)$ for various\n$d \\geq 1$, including an infinite family with prime moduli. Our goal in this\npaper is to prove a family of congruences modulo powers of 5 for $a_3(n)$. More\nspecifically, our main theorem asserts \\[a_3\\left(5^{2\\alpha}n +\\gamma_{\\alpha}\n\\right) \\equiv 0 \\pmod{5^\\alpha},\\] where \\[\\gamma_{\\alpha} = 20 + \\frac{19\n\\cdot 25 (25^{\\alpha-1}-1)}{24}.\\] In order to prove these congruences, we use\nan approach centered around modular functions, as in the seminal work of Watson\nand Atkin on proving Ramanujan's congruences for the partition function $p(n)$.\nHowever, due to the complexity of the modular curve $X_0(10)$ associated to our\nmodular functions, the classical method cannot be directly applied. Rather, we\nutilize the very recently developed localization method of Banerjee and Smoot,\nwhich is designed to treat congruence families over more complicated modular\ncurves, such as $X_0(10).$",
+          "arxiv_id": "2508.05833v1"
+        },
+        {
+          "title": "Inequalities and asymptotics for hook numbers in restricted partitions",
+          "year": "2023-11",
+          "abstract": "In this paper, we consider the asymptotic properties of hook numbers of\npartitions in restricted classes. More specifically, we compare the frequency\nwith which partitions into odd parts and partitions into distinct parts have\nhook numbers equal to $h \\geq 1$ by deriving an asymptotic formula for the\ntotal number of hooks equal to $h$ that appear among partitions into odd and\ndistinct parts, respectively. We use these asymptotic formulas to prove a\nrecent conjecture of the first author and collaborators that for $h \\geq 2$ and\n$n \\gg 0$, partitions into odd parts have, on average, more hooks equal to $h$\nthan do partitions into distinct parts. We also use our asymptotics to prove\ncertain probabilistic statements about how hooks distribute in the rows of\npartitions.",
+          "arxiv_id": "2311.15013v1"
+        },
+        {
+          "title": "Partition theorems and the Chinese remainder theorem",
+          "year": "2023-10",
+          "abstract": "The famous partition theorem of Euler states that partitions of $n$ into\ndistinct parts are equinumerous with partitions of $n$ into odd parts. Another\nfamous partition theorem due to MacMahon states that the number of partitions\nof $n$ with all parts repeated at least once equals the number of partitions of\n$n$ where all parts must be even or congruent to $3 \\pmod 6$. These partition\ntheorems were further extended by Glaisher, Andrews, Subbarao, Nyirenda and\nMugwangwavari. In this paper, we utilize the Chinese remainder theorem to prove\na comprehensive partition theorem that encompasses all existing partition\ntheorems. We also give a natural generalization of Euler's theorem based on a\nspecial complete residue system. Furthermore, we establish interesting\ncongruence connections between the partition function $p(n)$ and related\npartition functions.",
+          "arxiv_id": "2310.08978v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:56:21Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

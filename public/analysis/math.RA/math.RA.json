@@ -1,0 +1,1166 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_algebras_algebra_Lie_modules",
+        "keywords": [
+          [
+            "algebras",
+            0.03940705004105437
+          ],
+          [
+            "algebra",
+            0.032074345948159506
+          ],
+          [
+            "Lie",
+            0.02952412647246839
+          ],
+          [
+            "modules",
+            0.023743713668481898
+          ],
+          [
+            "category",
+            0.01626512119891803
+          ],
+          [
+            "finite",
+            0.01504441855892228
+          ],
+          [
+            "Lie algebras",
+            0.013981648899972134
+          ],
+          [
+            "dimensional",
+            0.013619836751634048
+          ],
+          [
+            "paper",
+            0.013110781736003324
+          ],
+          [
+            "categories",
+            0.013016695555546865
+          ]
+        ],
+        "count": 2222
+      },
+      "1": {
+        "name": "1_rings_ring_lattices_lattice",
+        "keywords": [
+          [
+            "rings",
+            0.03441435872291989
+          ],
+          [
+            "ring",
+            0.02702926535227229
+          ],
+          [
+            "lattices",
+            0.02557299015335135
+          ],
+          [
+            "lattice",
+            0.023270506938889865
+          ],
+          [
+            "finite",
+            0.0204446384953881
+          ],
+          [
+            "monoids",
+            0.018390485183236955
+          ],
+          [
+            "monoid",
+            0.017225783384562963
+          ],
+          [
+            "semigroup",
+            0.017140433067379116
+          ],
+          [
+            "ideals",
+            0.01586040183721058
+          ],
+          [
+            "semigroups",
+            0.015818928473873634
+          ]
+        ],
+        "count": 827
+      },
+      "2": {
+        "name": "2_matrices_matrix_inverse_dual",
+        "keywords": [
+          [
+            "matrices",
+            0.07921806042830354
+          ],
+          [
+            "matrix",
+            0.0543328800303827
+          ],
+          [
+            "inverse",
+            0.044384767934262825
+          ],
+          [
+            "dual",
+            0.028091393317669865
+          ],
+          [
+            "inverses",
+            0.023014952578960073
+          ],
+          [
+            "core",
+            0.02190349371001275
+          ],
+          [
+            "positive",
+            0.021309494644675287
+          ],
+          [
+            "generalized",
+            0.020962759625077234
+          ],
+          [
+            "quaternion",
+            0.019157951132347393
+          ],
+          [
+            "order",
+            0.016975872028045354
+          ]
+        ],
+        "count": 374
+      },
+      "3": {
+        "name": "3_Baxter_Rota_operators_algebras",
+        "keywords": [
+          [
+            "Baxter",
+            0.10511529271374724
+          ],
+          [
+            "Rota",
+            0.08435897364854544
+          ],
+          [
+            "operators",
+            0.05029687980726255
+          ],
+          [
+            "algebras",
+            0.04802055093167096
+          ],
+          [
+            "Lie",
+            0.03813516004858058
+          ],
+          [
+            "Yang",
+            0.0353004115775317
+          ],
+          [
+            "algebra",
+            0.032094356542980214
+          ],
+          [
+            "solutions",
+            0.029874344964714694
+          ],
+          [
+            "equation",
+            0.02801473058188082
+          ],
+          [
+            "relative",
+            0.02635454668430101
+          ]
+        ],
+        "count": 326
+      },
+      "4": {
+        "name": "4_codes_matrix_matrices_field",
+        "keywords": [
+          [
+            "codes",
+            0.06109728730452397
+          ],
+          [
+            "matrix",
+            0.026603603972014677
+          ],
+          [
+            "matrices",
+            0.024493321253020207
+          ],
+          [
+            "field",
+            0.02444632902849195
+          ],
+          [
+            "group",
+            0.02341005466661349
+          ],
+          [
+            "finite",
+            0.022469865555330593
+          ],
+          [
+            "polynomial",
+            0.02172307960739432
+          ],
+          [
+            "polynomials",
+            0.018130632572729285
+          ],
+          [
+            "linear",
+            0.01796815542560701
+          ],
+          [
+            "ring",
+            0.01683118271313469
+          ]
+        ],
+        "count": 274
+      },
+      "5": {
+        "name": "5_path_Leavitt_path algebras_algebras",
+        "keywords": [
+          [
+            "path",
+            0.10182618931538057
+          ],
+          [
+            "Leavitt",
+            0.10142476296042335
+          ],
+          [
+            "path algebras",
+            0.06753788034598535
+          ],
+          [
+            "algebras",
+            0.05644889320985652
+          ],
+          [
+            "graph",
+            0.05642310211853815
+          ],
+          [
+            "graphs",
+            0.05388842199109879
+          ],
+          [
+            "path algebra",
+            0.04359092192459426
+          ],
+          [
+            "algebra",
+            0.03395635886671368
+          ],
+          [
+            "ideals",
+            0.019251087163676964
+          ],
+          [
+            "ideal",
+            0.019067459015610275
+          ]
+        ],
+        "count": 135
+      },
+      "6": {
+        "name": "6_skew_braces_skew braces_Galois",
+        "keywords": [
+          [
+            "skew",
+            0.10711525354595838
+          ],
+          [
+            "braces",
+            0.05101917367137858
+          ],
+          [
+            "skew braces",
+            0.0322750500205742
+          ],
+          [
+            "Galois",
+            0.031858993320294855
+          ],
+          [
+            "group",
+            0.03076552765312187
+          ],
+          [
+            "polynomial",
+            0.030690027124479758
+          ],
+          [
+            "left",
+            0.02565717836418411
+          ],
+          [
+            "brace",
+            0.023731662731976785
+          ],
+          [
+            "rings",
+            0.02351256083317047
+          ],
+          [
+            "ring",
+            0.021758639333246586
+          ]
+        ],
+        "count": 126
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.14205221548051233,
+        -0.5514133439825326,
+        -0.39084843830892246,
+        -0.5200826826993362,
+        -0.5158121792781561,
+        -0.6690987087005442
+      ],
+      [
+        -0.14205221548051233,
+        1.0,
+        -0.5249812965600009,
+        -0.6704989676802748,
+        -0.4983676929851237,
+        -0.660403095599701,
+        -0.6526937554050374
+      ],
+      [
+        -0.5514133439825326,
+        -0.5249812965600009,
+        1.0,
+        -0.7092769294680765,
+        -0.4799499662410392,
+        -0.7141967599438456,
+        -0.6912072755961245
+      ],
+      [
+        -0.39084843830892246,
+        -0.6704989676802748,
+        -0.7092769294680765,
+        1.0,
+        -0.7065846539369423,
+        -0.5114629301844746,
+        -0.6800329016580327
+      ],
+      [
+        -0.5200826826993362,
+        -0.4983676929851237,
+        -0.4799499662410392,
+        -0.7065846539369423,
+        1.0,
+        -0.710118935357521,
+        -0.6645085569366964
+      ],
+      [
+        -0.5158121792781561,
+        -0.660403095599701,
+        -0.7141967599438456,
+        -0.5114629301844746,
+        -0.710118935357521,
+        1.0,
+        -0.7294630460331881
+      ],
+      [
+        -0.6690987087005442,
+        -0.6526937554050374,
+        -0.6912072755961245,
+        -0.6800329016580327,
+        -0.6645085569366964,
+        -0.7294630460331881,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        59,
+        25,
+        9,
+        4,
+        3,
+        4,
+        7
+      ],
+      "2020-02": [
+        38,
+        16,
+        7,
+        5,
+        1,
+        5,
+        4
+      ],
+      "2020-03": [
+        54,
+        13,
+        5,
+        3,
+        2,
+        3,
+        4
+      ],
+      "2020-04": [
+        51,
+        21,
+        5,
+        2,
+        7,
+        3,
+        5
+      ],
+      "2020-05": [
+        54,
+        13,
+        11,
+        4,
+        8,
+        2,
+        0
+      ],
+      "2020-06": [
+        59,
+        17,
+        18,
+        6,
+        8,
+        6,
+        5
+      ],
+      "2020-07": [
+        46,
+        18,
+        18,
+        10,
+        3,
+        3,
+        7
+      ],
+      "2020-08": [
+        68,
+        16,
+        9,
+        3,
+        6,
+        5,
+        4
+      ],
+      "2020-09": [
+        52,
+        16,
+        11,
+        1,
+        6,
+        1,
+        7
+      ],
+      "2020-10": [
+        47,
+        22,
+        16,
+        3,
+        4,
+        2,
+        2
+      ],
+      "2020-11": [
+        44,
+        9,
+        9,
+        4,
+        3,
+        3,
+        7
+      ],
+      "2020-12": [
+        39,
+        14,
+        13,
+        0,
+        3,
+        2,
+        6
+      ],
+      "2021-01": [
+        43,
+        17,
+        4,
+        1,
+        3,
+        6,
+        4
+      ],
+      "2021-02": [
+        42,
+        13,
+        6,
+        3,
+        1,
+        2,
+        4
+      ],
+      "2021-03": [
+        31,
+        19,
+        12,
+        2,
+        5,
+        8,
+        4
+      ],
+      "2021-04": [
+        44,
+        19,
+        7,
+        3,
+        4,
+        0,
+        2
+      ],
+      "2021-05": [
+        48,
+        21,
+        5,
+        2,
+        5,
+        6,
+        5
+      ],
+      "2021-06": [
+        42,
+        16,
+        3,
+        2,
+        6,
+        4,
+        3
+      ],
+      "2021-07": [
+        61,
+        17,
+        8,
+        5,
+        2,
+        3,
+        4
+      ],
+      "2021-08": [
+        49,
+        12,
+        9,
+        13,
+        3,
+        2,
+        6
+      ],
+      "2021-09": [
+        28,
+        13,
+        8,
+        6,
+        7,
+        5,
+        1
+      ],
+      "2021-10": [
+        35,
+        9,
+        11,
+        2,
+        6,
+        3,
+        2
+      ],
+      "2021-11": [
+        32,
+        14,
+        8,
+        1,
+        3,
+        2,
+        3
+      ],
+      "2021-12": [
+        47,
+        17,
+        10,
+        7,
+        8,
+        5,
+        5
+      ],
+      "2022-01": [
+        36,
+        23,
+        13,
+        1,
+        6,
+        5,
+        6
+      ],
+      "2022-02": [
+        42,
+        12,
+        5,
+        6,
+        5,
+        1,
+        0
+      ],
+      "2022-03": [
+        52,
+        22,
+        9,
+        3,
+        5,
+        5,
+        1
+      ],
+      "2022-04": [
+        44,
+        18,
+        12,
+        7,
+        4,
+        1,
+        4
+      ],
+      "2022-05": [
+        56,
+        18,
+        14,
+        3,
+        1,
+        2,
+        5
+      ],
+      "2022-06": [
+        42,
+        14,
+        14,
+        6,
+        2,
+        7,
+        7
+      ],
+      "2022-07": [
+        46,
+        19,
+        9,
+        9,
+        5,
+        7,
+        5
+      ],
+      "2022-08": [
+        57,
+        20,
+        9,
+        4,
+        6,
+        5,
+        4
+      ],
+      "2022-09": [
+        68,
+        18,
+        18,
+        8,
+        2,
+        1,
+        4
+      ],
+      "2022-10": [
+        53,
+        24,
+        2,
+        5,
+        4,
+        3,
+        3
+      ],
+      "2022-11": [
+        58,
+        17,
+        10,
+        5,
+        4,
+        2,
+        8
+      ],
+      "2022-12": [
+        44,
+        12,
+        14,
+        8,
+        4,
+        4,
+        4
+      ],
+      "2023-01": [
+        65,
+        18,
+        10,
+        1,
+        2,
+        1,
+        3
+      ],
+      "2023-02": [
+        43,
+        12,
+        11,
+        3,
+        2,
+        5,
+        2
+      ],
+      "2023-03": [
+        49,
+        18,
+        9,
+        5,
+        4,
+        4,
+        8
+      ],
+      "2023-04": [
+        59,
+        17,
+        11,
+        6,
+        4,
+        1,
+        5
+      ],
+      "2023-05": [
+        51,
+        17,
+        11,
+        3,
+        6,
+        3,
+        3
+      ],
+      "2023-06": [
+        60,
+        22,
+        7,
+        5,
+        4,
+        4,
+        2
+      ],
+      "2023-07": [
+        49,
+        17,
+        12,
+        5,
+        2,
+        2,
+        2
+      ],
+      "2023-08": [
+        49,
+        18,
+        12,
+        4,
+        2,
+        1,
+        5
+      ],
+      "2023-09": [
+        60,
+        20,
+        10,
+        5,
+        8,
+        3,
+        4
+      ],
+      "2023-10": [
+        38,
+        20,
+        9,
+        3,
+        3,
+        3,
+        5
+      ],
+      "2023-11": [
+        50,
+        18,
+        9,
+        5,
+        2,
+        5,
+        5
+      ],
+      "2023-12": [
+        53,
+        13,
+        11,
+        5,
+        4,
+        4,
+        4
+      ],
+      "2024-01": [
+        48,
+        30,
+        12,
+        4,
+        6,
+        3,
+        5
+      ],
+      "2024-02": [
+        56,
+        22,
+        14,
+        5,
+        6,
+        4,
+        9
+      ],
+      "2024-03": [
+        53,
+        22,
+        18,
+        7,
+        7,
+        6,
+        6
+      ],
+      "2024-04": [
+        62,
+        22,
+        6,
+        5,
+        4,
+        3,
+        8
+      ],
+      "2024-05": [
+        61,
+        22,
+        15,
+        7,
+        3,
+        1,
+        7
+      ],
+      "2024-06": [
+        52,
+        13,
+        6,
+        8,
+        3,
+        6,
+        6
+      ],
+      "2024-07": [
+        54,
+        20,
+        14,
+        3,
+        5,
+        2,
+        2
+      ],
+      "2024-08": [
+        43,
+        21,
+        5,
+        6,
+        2,
+        1,
+        2
+      ],
+      "2024-09": [
+        48,
+        30,
+        12,
+        5,
+        5,
+        4,
+        5
+      ],
+      "2024-10": [
+        49,
+        22,
+        9,
+        9,
+        4,
+        2,
+        5
+      ],
+      "2024-11": [
+        48,
+        19,
+        12,
+        9,
+        5,
+        2,
+        4
+      ],
+      "2024-12": [
+        56,
+        16,
+        11,
+        11,
+        5,
+        6,
+        8
+      ],
+      "2025-01": [
+        44,
+        18,
+        11,
+        6,
+        4,
+        2,
+        6
+      ],
+      "2025-02": [
+        44,
+        18,
+        6,
+        8,
+        4,
+        7,
+        7
+      ],
+      "2025-03": [
+        68,
+        14,
+        10,
+        5,
+        8,
+        8,
+        3
+      ],
+      "2025-04": [
+        69,
+        24,
+        11,
+        12,
+        5,
+        3,
+        4
+      ],
+      "2025-05": [
+        54,
+        12,
+        8,
+        6,
+        4,
+        3,
+        8
+      ],
+      "2025-06": [
+        55,
+        20,
+        11,
+        5,
+        4,
+        5,
+        5
+      ],
+      "2025-07": [
+        74,
+        10,
+        18,
+        5,
+        11,
+        3,
+        8
+      ],
+      "2025-08": [
+        56,
+        29,
+        12,
+        5,
+        13,
+        2,
+        10
+      ],
+      "2025-09": [
+        29,
+        12,
+        9,
+        4,
+        3,
+        4,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The construction of 3-Bihom-Lie algebras",
+          "year": "2020-01",
+          "abstract": "The purpose of this paper is to study the construction of $3$-Bihom-Lie\nalgebras. We give some ways of constructing $3$-Bihom-Lie algebras from\n$3$-Bihom-Lie algebras and $3$-totally Bihom-associative algebras. Furthermore,\nwe introduce $T_\\theta$-extensions and $T_\\theta^*$-extensions of $3$-Bihom-Lie\nalgebras and prove the necessary and sufficient conditions for a\n$2n$-dimensional quadratic $3$-Bihom-Lie algebra to be isomorphic to a\n$T_\\theta^*$-extension.",
+          "arxiv_id": "2001.10348v1"
+        },
+        {
+          "title": "Category $\\mathcal{O}$ for the Lie algebra of vector fields on the line",
+          "year": "2022-08",
+          "abstract": "Let $\\mathfrak{W}$ be the Lie algebra of vector fields on the line. Via\ncomputing extensions between all simple modules in the category $\\mathcal{O}$,\nwe give the block decomposition of $\\mathcal{O}$, and show that the\nrepresentation type of each block of $\\mathcal{O}$ is wild using the\nExt-quiver. Each block of $\\mathcal{O}$ has infinite simple objects. This\nresult is very different from that of $\\mathcal{O}$ for complex semisimple Lie\nalgebras. To find a connection between $\\mathcal{O}$ and the module category\nover some associative algebra, we define a subalgebra $H_1$ of\n$U(\\mathfrak{b})$. We give an exact functor from $\\mathcal{O}$ to the category\n$\\Omega$ of finite dimensional modules over $H_1$. We also construct new simple\n$\\mathfrak{W}$-modules from Weyl modules and modules over the Borel subalgebra\n$\\mathfrak{b}$ of $\\mathfrak{W}$.",
+          "arxiv_id": "2208.03893v2"
+        },
+        {
+          "title": "Semisimple decompositions of Lie algebras and prehomogeneous modules",
+          "year": "2022-01",
+          "abstract": "We study {\\em disemisimple} Lie algebras, i.e., Lie algebras which can be\nwritten as a vector space sum of two semisimple subalgebras. We show that a Lie\nalgebra $\\mathfrak{g}$ is disemisimple if and only if its solvable radical\ncoincides with its nilradical and is a prehomogeneous $\\mathfrak{s}$-module for\na Levi subalgebra $\\mathfrak{s}$ of $\\mathfrak{g}$. We use the classification\nof prehomogeneous $\\mathfrak{s}$-modules for simple Lie algebras $\\mathfrak{s}$\ngiven by Vinberg to show that the solvable radical of a disemisimple Lie\nalgebra with simple Levi subalgebra is abelian. We extend this result to\ndisemisimple Lie algebras having no simple quotients of type $A$.",
+          "arxiv_id": "2201.08758v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Ideals, quotients, and continuity of the Cuntz semigroup for rings",
+          "year": "2024-11",
+          "abstract": "In this paper we explore which part of the ideal lattice of a general ring is\nparametrized by its Cuntz semigroup $\\mathrm{S}(R)$ and its ambient semigroup\n$\\Lambda(R)$. We identify these classes of ideals as the quasipure ideals (a\ngeneralization of pure ideals) in the case of $\\mathrm{S}(R)$, and what we term\ndecomposable ideals in the case of $\\Lambda(R)$. For an ($s$-)unital ring $R$,\nthe latter class exhausts all ideals of the ring. We prove that these\nconstructions behave well with respect to quotients. In order to study the\npassage to inductive limits, we introduce the classes of dense and left normal\nrings. We show that $\\mathrm{S}(R)$ is an abstract Cu-semigroup whenever $R$ is\nleft normal and, for such rings, the assignment $R\\mapsto \\mathrm{S}(R)$ is\ncontinuous. We prove a parallel result for $\\Lambda(R)$ whenever $R$ is a dense\nring.",
+          "arxiv_id": "2411.00507v1"
+        },
+        {
+          "title": "S-J-Ideals: A Study in Commutative and Noncommutative Rings",
+          "year": "2024-07",
+          "abstract": "In this paper, we introduce the concept of S-J-ideals in both commutative and\nnoncommutative rings. For a commutative ring R and a multiplicatively closed\nsubset S, we show that many properties of J-ideals apply to S-J-ideals and\nexamine their characteristics in various ring constructions, such as\nhomomorphic image rings, quotient rings, cartesian product rings, polynomial\nrings, power series rings, idealization rings, and amalgamation rings. In\nnoncommutative rings, where S is an m-system, we define right S-J-ideals. We\ndemonstrate the equivalence of S-J-ideals and right S-J-ideals in commutative\nrings with identity and provide examples to illustrate the connections between\nright S-prime ideals and J-ideals.",
+          "arxiv_id": "2407.12590v2"
+        },
+        {
+          "title": "The Case for Inverse Semirings",
+          "year": "2024-11",
+          "abstract": "A semiring generalises the notion of a ring, replacing the additive abelian\ngroup structure with that of a commutative monoid. In this paper, we study a\nnotion positioned between a ring and a semiring -- a semiring whose additive\nmonoid is a commutative inverse semigroup. These inverse semirings include some\nimportant classes of semirings, as well as some new motivating examples. We\ndevote particular attention to the inverse semiring of bounded polynomials and\nargue for their computational significance. We then prove a number of\nfundamental results about inverse semirings, their modules and their ideals.\nParts of the theory show strong similarities with rings, while other parts are\nakin to the theory of idempotent semirings or distributive lattices. We note in\nparticular that downward-closed submodules are precisely kernels. We end by\nexploring a connection to the theory of E-unitary inverse semigroups.",
+          "arxiv_id": "2411.12318v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Dual Drazin generalized inverse for dual matrices",
+          "year": "2023-05",
+          "abstract": "This manuscript proposes a generalized inverse for a dual matrix called dual\nDrazin generalized inverse (DDGI) which generalizes the notion of the dual\ngroup generalized inverse (DGGI). Under certain necessary and sufficient\nconditions, we establish the existence of the DDGI of a dual matrix of any\nindex. Thereafter, we show that the DDGI is unique (whenever exists). The DDGI\nis then used to solve a linear dual system. We also establish reverse-order law\nand forward-order law for a particular form of the DGGI, dual Moore-Penrose\ngeneralized inverse (DMPGI), dual core generalized inverse (DCGI), and DDGI\nunder certain suitable conditions. Finally, the partial-orders based on DCGI\nand DGGI are proposed.",
+          "arxiv_id": "2305.12658v1"
+        },
+        {
+          "title": "Quasi-determinant and right eigenvalues of dual quaternion matrices",
+          "year": "2024-04",
+          "abstract": "Dual quaternion/complex matrices have important applications in brain science\nand multi-agent formation control. In this paper, we first study some basic\nproperties of determinants of dual complex matrices, including Sturm theorem\nand Bloomfield-Watson inequality for dual complex matrices. Then, we show that\nevery eigenvalue of a dual complex matrix must be the root of the\ncharacteristic polynomial of this matrix. With the help of the determinants of\ndual complex matrices, we introduce the concept of quasi-determinants of dual\nquaternion matrices, and show that every right eigenvalue of a dual quaternion\nmatrix must be the root of the quasi-characteristic polynomial of this matrix,\nas well as the quasi-determinant of a dual quaternion Hermitian matrix is\nequivalent to the product of the square of the magnitudes of all eigenvalues.\nOur results are helpful for the further study of dual quaternion matrix theory,\nand their applications.",
+          "arxiv_id": "2404.19348v1"
+        },
+        {
+          "title": "A new generalized inverse of matrices from core-EP decomposition",
+          "year": "2020-07",
+          "abstract": "A new generalized inverse for a square matrix $H\\in\\mathbb{C}^{n\\times n}$,\ncalled CCE-inverse, is established by the core-EP decomposition and\nMoore-Penrose inverse $H^{\\dag}$. We propose some characterizations of the\nCCE-inverse. Furthermore, two canonical forms of the CCE-inverse are presented.\nAt last, we introduce the definitions of CCE-matrices and $k$-CCE matrices, and\nprove that CCE-matrices are the same as $i$-EP matrices studied by Wang and Liu\nin [The weak group matrix, Aequationes Mathematicae, 93(6): 1261-1273, 2019].",
+          "arxiv_id": "2007.02364v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Lie n-algebras and cohomologies of relative Rota-Baxter operators on n-Lie algebras",
+          "year": "2021-08",
+          "abstract": "Based on the differential graded Lie algebra controlling deformations of an\n$n$-Lie algebra with a representation (called an n-LieRep pair), we construct a\nLie n-algebra, whose Maurer-Cartan elements characterize relative Rota-Baxter\noperators on n-LieRep pairs. The notion of an n-pre-Lie algebra is introduced,\nwhich is the underlying algebraic structure of the relative Rota-Baxter\noperator. We give the cohomology of relative Rota-Baxter operators and study\ninfinitesimal deformations and extensions of order m deformations to order m+1\ndeformations of relative Rota-Baxter operators through the cohomology groups of\nrelative Rota-Baxter operators. Moreover, we build the relation between the\ncohomology groups of relative Rota-Baxter operators on n-LieRep pairs and those\non (n+1)-LieRep pairs by certain linear functions.",
+          "arxiv_id": "2108.04076v1"
+        },
+        {
+          "title": "Extended Rota-Baxter algebras, diagonally colored Delannoy paths and Hopf algebras",
+          "year": "2024-01",
+          "abstract": "The Rota-Baxter operator and the modified Rota-Baxter operator on various\nalgebras are both important in mathematics and mathematical physics. The former\nis originated from the integration-by-parts formula and probability with\napplications to the renormalization of quantum field theory and the classical\nYang-Baxter equation. The latter originated from Hilbert transformations with\napplications to ergodic theory and the modified Yang-Baxter equation. Their\nmerged form, called the extended Rota-Baxter operators, has also found\ninteresting applications recently.\n  This paper presents a systematic study of the extended Rota-Baxter operator.\nWe show that while extended Rota-Baxter operators have properties similar to\nRota-Baxter operators; they provide a linear structure that unifies Rota-Baxter\noperators and modified Rota-Baxter operators. Examples of extended Rota-Baxter\noperators are also given, especially from polynomials and Laurent series due to\ntheir importance in ($q$-)integration and the renormalization in quantum field\ntheory. We then construct free commutative extended Rota-Baxter operators by a\ngeneralization of the quasi-shuffle product. The multiplication of the initial\nobject in the category of commutative extended Rota-Baxter operators allows a\ncombinatorial interpretation in terms of a color-enrichment of Delannoy paths.\nApplying its universal property, we equip a free commutative extended\nRota-Baxter operators with a coproduct which has a cocycle condition, yielding\na bialgebraic structure. We then show that this bialgebra on a free extended\nRota-Baxter operators possesses an increasing filtration and a connectedness\nproperty, culminating at a Hopf algebraic structure on a free commutative\nextended Rota-Baxter operator.",
+          "arxiv_id": "2401.11363v2"
+        },
+        {
+          "title": "Bialgebras, Frobenius algebras and associative Yang-Baxter equations for Rota-Baxter algebras",
+          "year": "2021-12",
+          "abstract": "Rota-Baxter operators and bialgebras go hand in hand in their applications,\nsuch as in the Connes-Kreimer approach to renormalization and the operator\napproach to the classical Yang-Baxter equation. We establish a bialgebra\nstructure that is compatible with the Rota-Baxter operator, called the\nRota-Baxter antisymmetric infinitesimal (ASI) bialgebra. This bialgebra is\ncharacterized by generalizations of matched pairs of algebras and double\nconstructions of Frobenius algebras to the context of Rota-Baxter algebras. The\nstudy of the coboundary case leads to an enrichment of the associative\nYang-Baxter equation (AYBE) to Rota-Baxter algebras. Antisymmetric solutions of\nthe equation are used to construct Rota-Baxter ASI bialgebras. The notions of\nan $\\mathcal{O}$-operator on a Rota-Baxter algebra and a Rota-Baxter dendriform\nalgebra are also introduced to produce solutions of the AYBE in Rota-Baxter\nalgebras and thus to provide Rota-Baxter ASI bialgebras. An unexpected\nbyproduct is that a Rota-Baxter ASI bialgebra of weight zero gives rise to a\nquadri-bialgebra instead of bialgebra constructions for the dendriform algebra.",
+          "arxiv_id": "2112.10928v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Skew constacyclic codes over a class of finite commutative semisimple rings",
+          "year": "2022-05",
+          "abstract": "In this article, we study skew constacyclic codes over a class of finite\ncommutative semisimple rings. The automorphism group of\n$\\mathcal{R}=\\prod_{i=1}^t F_q$ is determined, and we characterize skew\nconstacyclic codes over ring by linear codes over finite field. We also define\nhomomorphisms which map linear codes over $\\mathcal{R}$ to matrix product codes\nover $F_q,$ some optimal linear codes over finite fields are obtained.",
+          "arxiv_id": "2205.08964v2"
+        },
+        {
+          "title": "The trace dual of nonlinear skew cyclic codes",
+          "year": "2025-04",
+          "abstract": "Codes which have a finite field $\\mathbb{F}_{q^m}$ as their alphabet but\nwhich are only linear over a subfield $\\mathbb{F}_q$ are a topic of much recent\ninterest due to their utility in constructing quantum error correcting codes.\nIn this article, we find generators for trace dual spaces of different families\nof $\\mathbb{F}_q$-linear codes over $\\mathbb{F}_{q^2}$. In particular, given\nthe field extension $\\mathbb{F}_q\\leq \\mathbb{F}_{q^2}$ with $q$ an odd prime\npower, we determine the trace Euclidean and trace Hermitian dual codes for the\ngeneral $\\mathbb{F}_q$-linear cyclic $\\mathbb{F}_{q^2}$-code. In addition, we\nalso determine the trace Euclidean and trace Hermitian duals for general\n$\\mathbb{F}_q$-linear skew cyclic $\\mathbb{F}_{q^2}$-codes, which are defined\nto be left $\\mathbb{F}_q[X]$-submodules of\n$\\mathbb{F}_{q^2}[X;\\sigma]/(X^n-1)$, where $\\sigma$ denotes the Frobenius\nautomorphism and $\\mathbb{F}_{q^2}[X;\\sigma]$ the induced skew polynomial ring.",
+          "arxiv_id": "2504.09098v1"
+        },
+        {
+          "title": "Multi-twisted codes as free modules over principal ideal domains",
+          "year": "2022-04",
+          "abstract": "We begin this chapter by introducing the simple algebraic structure of cyclic\ncodes over finite fields. This structure undergoes a series of generalizations\nto present algebraic descriptions of constacyclic, quasi-cyclic (QC),\nquasi-twisted (QT), generalized quasi-cyclic (GQC), and multi-twisted (MT)\ncodes. The correspondence between these codes and submodules of the free\n$\\mathbb{F}_q[x]$-module $\\left(\\mathbb{F}_q[x]\\right)^\\ell$ is established.\nThus, any of these codes corresponds to a free linear code over the principal\nideal domain (PID) $\\mathbb{F}_q[x]$. A basis of this code exists and is used\nto build a generator matrix with polynomial entries, called the generator\npolynomial matrix (GPM). The Hermite normal form of matrices over PIDs is\nexploited to achieve the reduced GPMs of MT codes. Some properties of the\nreduced GPM are introduced, for example, the identical equation. A formula for\na GPM of the dual code $\\mathcal{C}^\\perp$ of a MT code is given. At this\npoint, special attention is paid to QC codes. For a QC code $\\mathcal{C}$, we\ndefine its reversed code $\\mathcal{R}$. We call $\\mathcal{C}$ reversible or\nself-dual if $\\mathcal{R}=\\mathcal{C}$ or $\\mathcal{C}^\\perp=\\mathcal{C}$,\nrespectively. A formula for a GPM of $\\mathcal{R}$ is given. We characterize\nGPMs for QC codes that combine reversibility and\nself-duality/self-orthogonality. For the reader interested in running computer\nsearch for optimal codes, we show the existence of binary self-orthogonal\nreversible QC codes that have the best known parameters as linear codes. These\nresults can be obtained by brute-force search using GPMs that meet the above\ncharacterization.",
+          "arxiv_id": "2204.03156v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "On the ideals of ultragraph Leavitt path algebras",
+          "year": "2021-09",
+          "abstract": "In this article, we provide an explicit description of a set of generators\nfor any ideal of an ultragraph Leavitt path algebra. We provide several\nadditional consequences of this description, including information about\ngenerating sets for graded ideals, the graded uniqueness and Cuntz-Krieger\ntheorems, the semiprimeness, and the semiprimitivity of ultragraph Leavitt path\nalgebras, a complete characterization of the prime and primitive ideals of an\nultragraph Leavitt path algebra. We also show that every primitive ideal of an\nultragraph Leavitt path algebra is exactly the annihilator of a Chen simple\nmodule. Consequently, we prove Exel's Effros-Hahn conjecture on primitive\nideals in the ultragraph Leavitt path algebra setting (a conclusion that is\nalso new in the context of Leavitt path algebras of graphs).",
+          "arxiv_id": "2109.10440v1"
+        },
+        {
+          "title": "A note on the regular ideals of Leavitt path algebras",
+          "year": "2020-06",
+          "abstract": "We show that, for an arbitrary graph, a regular ideal of the associated\nLeavitt path algebra is also graded. As a consequence, for a row-finite graph,\nwe obtain that the quotient of the associated Leavitt path by a regular ideal\nis again a Leavitt path algebra and that Condition~(L) is preserved by\nquotients by regular ideals. Furthermore, we describe the vertex set of a\nregular ideal and make a comparison between the theory of regular ideals in\nLeavitt path algebras and in graph C*-algebras.",
+          "arxiv_id": "2006.03634v3"
+        },
+        {
+          "title": "Realizing ultragraph Leavitt path algebras as Steinberg algebras",
+          "year": "2020-08",
+          "abstract": "In this article, we realize ultragraph Leavitt path algebras as Steinberg\nalgebras. This realization allows us to use the groupoid approach to obtain\nstructural results about these algebras. Using skew product groupoid, we show\nthat ultragraph Leavitt path algebras are graded von Neumann regular rings. We\ncharacterize strongly graded ultragraph Leavitt path algebras and show that\nevery ultragraph Leavitt path algebra is semiprimitive. Moreover, we\ncharacterize irreducible representations of ultragraph Leavitt path algebras.\nWe also show that ultragraph Leavitt path algebras can be realized as\nCuntz-Pimsner rings.",
+          "arxiv_id": "2008.04668v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Finite skew braces of square-free order and supersolubility",
+          "year": "2024-02",
+          "abstract": "The aim of this paper is to study supersoluble skew braces, a class of skew\nbraces that encompasses all finite skew braces of square-free order. It turns\nout that finite supersoluble skew braces have Sylow towers, and that in an\narbitrary supersoluble skew brace $B$ many relevant skew brace-theoretical\nproperties are easier to identify: for example, a centrally nilpotent ideal of\n$B$ is $B$-centrally nilpotent, a fact that simplifies the computational search\nfor the Fitting ideal; also, $B$ has finite multipermutational level if and\nonly if $(B,+)$ is nilpotent.\n  Given a finite presentation of the structure skew brace $G(X,r)$ associated\nwith a finite non-degenerate solution of the Yang--Baxter Equation (YBE), there\nis an algorithm that decides if $G(X,r)$ is supersoluble or not. Moreover,\nsupersoluble skew braces are examples of almost polycyclic skew braces, so they\ngive rise to solutions of the YBE on which one can algorithmically work on.",
+          "arxiv_id": "2402.18486v1"
+        },
+        {
+          "title": "Central series' and ($n$)-isoclinism of skew left braces",
+          "year": "2025-03",
+          "abstract": "The aim of this article is to advance the knowledge on the theory of skew\nleft braces. We introduce a subclass of skew left braces, which we denote by\n$\\mathcal{I}_n$, $n \\ge 1$, such that elements of the annihilator and lower\ncentral series' interact `nicely' with respect to commutation. That allows us\nto define a concept of $n$-isoclinism of skew left braces in $\\mathcal{I}_n$,\nby using a concept of brace commutator words, which we have introduced. We\nprove results on $1$-isoclinism (isoclinism) of skew left braces analogous to\nimportant results in group theory. For any two symmetric $n$-isoclinic skew\nleft braces $A$ and $B$, we prove that, there exist skew left braces $C$ and\n$R$ such that both $A$ and $B$ are $n$-isoclinic to both $C$ and $R$ and (i)\n$A$ and $B$ are quotient skew left braces of $C$; (ii) $A$ and $B$ are sub-skew\nleft braces of $R$. Connections between a skew left brace and the group which\noccurs as a natural semi-direct product of additive and multiplicative groups\nof the skew left brace are investigated, and it is proved that $n$-isoclinism\nis preserved from braces to groups. We also show that various nilpotency\nconcepts on skew left braces are invariant under $n$-isoclinism.",
+          "arxiv_id": "2503.10313v2"
+        },
+        {
+          "title": "On $λ$-homomorphic skew braces",
+          "year": "2020-04",
+          "abstract": "For a skew left brace $(G, \\cdot, \\circ)$, the map $\\lambda : (G, \\circ) \\to\n\\mathrm{Aut} \\;(G, \\cdot),~~a \\mapsto \\lambda_a$, where $\\lambda_a(b) = a^{-1}\n\\cdot (a \\circ b)$ for all $a, b \\in G$, is a group homomorphism. Then\n$\\lambda$ can also be viewed as a map from $(G, \\cdot)$ to $\\mathrm{Aut}\\; (G,\n\\cdot)$, which, in general, may not be a homomorphism. We study skew left\nbraces $(G, \\cdot, \\circ)$ for which $\\lambda : (G, \\cdot) \\to \\mathrm{Aut}\\;\n(G, \\cdot)$ is a homomorphism. Such skew left braces will be called\n$\\lambda$-homomorphic. We formulate necessary and sufficient conditions under\nwhich a given homomorphism $\\lambda : (G, \\cdot) \\to \\mathrm{Aut}\\; (G, \\cdot)$\ngives rise to a skew left brace, which, indeed, is $\\lambda$-homomorphic. As an\napplication, we construct skew left braces when $(G, \\cdot)$ is either a free\ngroup or a free abelian group. We prove that any $\\lambda$-homomorphic skew\nleft brace is an extension of a trivial skew brace by a trivial skew brace.\nSpecial emphasis is given on $\\lambda$-homomorphic skew left brace for which\nthe image of $\\lambda$ is cyclic. A complete characterization of such skew left\nbraces on the free abelian group of rank two is obtained.",
+          "arxiv_id": "2004.05555v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:57:44Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

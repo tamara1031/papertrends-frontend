@@ -1,0 +1,1318 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_molecular_model_water_energy",
+        "keywords": [
+          [
+            "molecular",
+            0.014663169565036995
+          ],
+          [
+            "model",
+            0.01354960465819183
+          ],
+          [
+            "water",
+            0.0123516305553272
+          ],
+          [
+            "energy",
+            0.011435244020484417
+          ],
+          [
+            "learning",
+            0.010694219835624429
+          ],
+          [
+            "models",
+            0.010311218534381656
+          ],
+          [
+            "surface",
+            0.010310887233798268
+          ],
+          [
+            "dynamics",
+            0.010137781820197481
+          ],
+          [
+            "simulations",
+            0.01011370251630691
+          ],
+          [
+            "chemical",
+            0.009991222299224289
+          ]
+        ],
+        "count": 5470
+      },
+      "1": {
+        "name": "1_quantum_density_theory_energy",
+        "keywords": [
+          [
+            "quantum",
+            0.024092228398791486
+          ],
+          [
+            "density",
+            0.01609293438525634
+          ],
+          [
+            "theory",
+            0.014786963126039955
+          ],
+          [
+            "energy",
+            0.014745467384134032
+          ],
+          [
+            "method",
+            0.014708880672116485
+          ],
+          [
+            "basis",
+            0.014422923958729397
+          ],
+          [
+            "state",
+            0.014070220194391771
+          ],
+          [
+            "electron",
+            0.013228665845048606
+          ],
+          [
+            "systems",
+            0.013155811188010201
+          ],
+          [
+            "correlation",
+            0.01262930547519867
+          ]
+        ],
+        "count": 2278
+      },
+      "2": {
+        "name": "2_molecules_state_energy_molecular",
+        "keywords": [
+          [
+            "molecules",
+            0.019053689650709527
+          ],
+          [
+            "state",
+            0.016731005647763326
+          ],
+          [
+            "energy",
+            0.014916762083930937
+          ],
+          [
+            "molecular",
+            0.014627398362866516
+          ],
+          [
+            "states",
+            0.013358754956962395
+          ],
+          [
+            "electron",
+            0.012291155619561116
+          ],
+          [
+            "rotational",
+            0.012065708593746019
+          ],
+          [
+            "molecule",
+            0.011184214685846275
+          ],
+          [
+            "laser",
+            0.010724377325219763
+          ],
+          [
+            "vibrational",
+            0.010627350216942272
+          ]
+        ],
+        "count": 1085
+      },
+      "3": {
+        "name": "3_cavity_coupling_light_quantum",
+        "keywords": [
+          [
+            "cavity",
+            0.036539078093947956
+          ],
+          [
+            "coupling",
+            0.027492636248691874
+          ],
+          [
+            "light",
+            0.025456870824229413
+          ],
+          [
+            "quantum",
+            0.02256676751879042
+          ],
+          [
+            "molecular",
+            0.019745753926392703
+          ],
+          [
+            "strong",
+            0.019223979587873866
+          ],
+          [
+            "polariton",
+            0.018106852683581066
+          ],
+          [
+            "energy",
+            0.017554099557988416
+          ],
+          [
+            "matter",
+            0.017477460393080492
+          ],
+          [
+            "optical",
+            0.016531392472421212
+          ]
+        ],
+        "count": 510
+      },
+      "4": {
+        "name": "4_quantum_dynamics_systems_bath",
+        "keywords": [
+          [
+            "quantum",
+            0.044022050544528846
+          ],
+          [
+            "dynamics",
+            0.03730461498625206
+          ],
+          [
+            "systems",
+            0.020200721312368473
+          ],
+          [
+            "bath",
+            0.020135825023466156
+          ],
+          [
+            "time",
+            0.018396325601223333
+          ],
+          [
+            "classical",
+            0.01668194658739395
+          ],
+          [
+            "electronic",
+            0.016612139141158618
+          ],
+          [
+            "non",
+            0.01612135884866619
+          ],
+          [
+            "approach",
+            0.015281111363582182
+          ],
+          [
+            "method",
+            0.014223237797642348
+          ]
+        ],
+        "count": 341
+      },
+      "5": {
+        "name": "5_NMR_spin_magnetic_polarization",
+        "keywords": [
+          [
+            "NMR",
+            0.06059090964293857
+          ],
+          [
+            "spin",
+            0.03734681841891651
+          ],
+          [
+            "magnetic",
+            0.035704449852968854
+          ],
+          [
+            "polarization",
+            0.03547433039414998
+          ],
+          [
+            "nuclear",
+            0.03152086780229072
+          ],
+          [
+            "DNP",
+            0.031074508333428674
+          ],
+          [
+            "field",
+            0.026190523266549005
+          ],
+          [
+            "resonance",
+            0.021359185955463815
+          ],
+          [
+            "spins",
+            0.019731511972013907
+          ],
+          [
+            "magnetic resonance",
+            0.018387998158789134
+          ]
+        ],
+        "count": 193
+      },
+      "6": {
+        "name": "6_combustion_chemical_model_gas",
+        "keywords": [
+          [
+            "combustion",
+            0.030295239730654462
+          ],
+          [
+            "chemical",
+            0.023348582883078336
+          ],
+          [
+            "model",
+            0.0210242744520543
+          ],
+          [
+            "gas",
+            0.0183005089713315
+          ],
+          [
+            "data",
+            0.01813020455987227
+          ],
+          [
+            "mixtures",
+            0.018056357237360498
+          ],
+          [
+            "fuel",
+            0.016967533110378286
+          ],
+          [
+            "species",
+            0.016562972109627448
+          ],
+          [
+            "models",
+            0.016249321568054753
+          ],
+          [
+            "reaction",
+            0.014402148813832573
+          ]
+        ],
+        "count": 148
+      },
+      "7": {
+        "name": "7_chiral_molecules_chiral molecules_chirality",
+        "keywords": [
+          [
+            "chiral",
+            0.08068071989729932
+          ],
+          [
+            "molecules",
+            0.032890066312738137
+          ],
+          [
+            "chiral molecules",
+            0.02897280887206946
+          ],
+          [
+            "chirality",
+            0.028740754909834274
+          ],
+          [
+            "molecular",
+            0.028584766923491812
+          ],
+          [
+            "orientation",
+            0.025274677712235048
+          ],
+          [
+            "pulse",
+            0.02366638378201108
+          ],
+          [
+            "dichroism",
+            0.02361913790315869
+          ],
+          [
+            "laser",
+            0.022315407755265852
+          ],
+          [
+            "light",
+            0.021002455350679936
+          ]
+        ],
+        "count": 123
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.654653723682822,
+        -0.5107094313662882,
+        -0.7264417440538791,
+        -0.6140326313235723,
+        -0.7254793654463672,
+        -0.5255446256637235,
+        -0.7164612808679127
+      ],
+      [
+        -0.654653723682822,
+        1.0,
+        -0.657616696961359,
+        -0.7078902692054158,
+        -0.6587131612052195,
+        -0.719093587869195,
+        -0.7199197234140088,
+        -0.7073343827134846
+      ],
+      [
+        -0.5107094313662882,
+        -0.657616696961359,
+        1.0,
+        -0.710191766173593,
+        -0.7108161316972181,
+        -0.7216347407544195,
+        -0.5060270802817235,
+        -0.29253336621957676
+      ],
+      [
+        -0.7264417440538791,
+        -0.7078902692054158,
+        -0.710191766173593,
+        1.0,
+        -0.6565275383820164,
+        -0.7314240338109772,
+        -0.7429956627373009,
+        -0.7160759942596802
+      ],
+      [
+        -0.6140326313235723,
+        -0.6587131612052195,
+        -0.7108161316972181,
+        -0.6565275383820164,
+        1.0,
+        -0.7119137784974116,
+        -0.7338304645459075,
+        -0.7133497886317173
+      ],
+      [
+        -0.7254793654463672,
+        -0.719093587869195,
+        -0.7216347407544195,
+        -0.7314240338109772,
+        -0.7119137784974116,
+        1.0,
+        -0.748680046650395,
+        -0.7137131715999233
+      ],
+      [
+        -0.5255446256637235,
+        -0.7199197234140088,
+        -0.5060270802817235,
+        -0.7429956627373009,
+        -0.7338304645459075,
+        -0.748680046650395,
+        1.0,
+        -0.7414260210699353
+      ],
+      [
+        -0.7164612808679127,
+        -0.7073343827134846,
+        -0.29253336621957676,
+        -0.7160759942596802,
+        -0.7133497886317173,
+        -0.7137131715999233,
+        -0.7414260210699353,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        65,
+        20,
+        3,
+        10,
+        15,
+        12,
+        1,
+        11
+      ],
+      "2020-02": [
+        76,
+        28,
+        5,
+        7,
+        17,
+        10,
+        1,
+        5
+      ],
+      "2020-03": [
+        76,
+        34,
+        5,
+        11,
+        17,
+        10,
+        5,
+        6
+      ],
+      "2020-04": [
+        71,
+        30,
+        8,
+        7,
+        14,
+        9,
+        2,
+        14
+      ],
+      "2020-05": [
+        62,
+        27,
+        5,
+        5,
+        20,
+        10,
+        3,
+        7
+      ],
+      "2020-06": [
+        68,
+        39,
+        7,
+        9,
+        17,
+        11,
+        6,
+        6
+      ],
+      "2020-07": [
+        74,
+        46,
+        6,
+        4,
+        17,
+        12,
+        5,
+        13
+      ],
+      "2020-08": [
+        87,
+        30,
+        4,
+        8,
+        17,
+        8,
+        1,
+        6
+      ],
+      "2020-09": [
+        65,
+        24,
+        6,
+        9,
+        13,
+        9,
+        4,
+        8
+      ],
+      "2020-10": [
+        80,
+        41,
+        7,
+        8,
+        22,
+        7,
+        3,
+        12
+      ],
+      "2020-11": [
+        69,
+        34,
+        9,
+        9,
+        13,
+        7,
+        2,
+        9
+      ],
+      "2020-12": [
+        83,
+        26,
+        7,
+        7,
+        14,
+        8,
+        0,
+        16
+      ],
+      "2021-01": [
+        59,
+        23,
+        4,
+        5,
+        23,
+        8,
+        4,
+        8
+      ],
+      "2021-02": [
+        76,
+        27,
+        4,
+        4,
+        19,
+        8,
+        3,
+        6
+      ],
+      "2021-03": [
+        81,
+        27,
+        6,
+        7,
+        19,
+        5,
+        4,
+        14
+      ],
+      "2021-04": [
+        72,
+        20,
+        5,
+        11,
+        21,
+        5,
+        2,
+        9
+      ],
+      "2021-05": [
+        73,
+        26,
+        6,
+        5,
+        17,
+        4,
+        3,
+        14
+      ],
+      "2021-06": [
+        65,
+        32,
+        6,
+        8,
+        18,
+        11,
+        5,
+        13
+      ],
+      "2021-07": [
+        73,
+        25,
+        4,
+        10,
+        29,
+        10,
+        1,
+        8
+      ],
+      "2021-08": [
+        72,
+        17,
+        9,
+        6,
+        13,
+        11,
+        2,
+        10
+      ],
+      "2021-09": [
+        70,
+        30,
+        5,
+        7,
+        19,
+        12,
+        2,
+        17
+      ],
+      "2021-10": [
+        75,
+        21,
+        4,
+        6,
+        19,
+        12,
+        1,
+        11
+      ],
+      "2021-11": [
+        80,
+        28,
+        6,
+        14,
+        16,
+        13,
+        2,
+        9
+      ],
+      "2021-12": [
+        72,
+        27,
+        8,
+        13,
+        17,
+        8,
+        2,
+        14
+      ],
+      "2022-01": [
+        58,
+        30,
+        8,
+        6,
+        14,
+        8,
+        8,
+        6
+      ],
+      "2022-02": [
+        74,
+        29,
+        6,
+        10,
+        18,
+        13,
+        6,
+        13
+      ],
+      "2022-03": [
+        75,
+        35,
+        6,
+        8,
+        19,
+        10,
+        3,
+        16
+      ],
+      "2022-04": [
+        63,
+        30,
+        2,
+        15,
+        19,
+        11,
+        2,
+        6
+      ],
+      "2022-05": [
+        75,
+        24,
+        7,
+        5,
+        26,
+        14,
+        1,
+        16
+      ],
+      "2022-06": [
+        66,
+        31,
+        7,
+        13,
+        29,
+        9,
+        3,
+        10
+      ],
+      "2022-07": [
+        54,
+        29,
+        9,
+        9,
+        18,
+        9,
+        2,
+        9
+      ],
+      "2022-08": [
+        66,
+        26,
+        6,
+        10,
+        29,
+        14,
+        1,
+        11
+      ],
+      "2022-09": [
+        89,
+        32,
+        6,
+        12,
+        25,
+        15,
+        2,
+        13
+      ],
+      "2022-10": [
+        75,
+        26,
+        4,
+        10,
+        14,
+        15,
+        1,
+        7
+      ],
+      "2022-11": [
+        83,
+        30,
+        15,
+        11,
+        28,
+        13,
+        3,
+        14
+      ],
+      "2022-12": [
+        86,
+        26,
+        8,
+        12,
+        23,
+        16,
+        4,
+        8
+      ],
+      "2023-01": [
+        85,
+        29,
+        8,
+        6,
+        17,
+        7,
+        0,
+        10
+      ],
+      "2023-02": [
+        70,
+        29,
+        9,
+        6,
+        20,
+        4,
+        3,
+        9
+      ],
+      "2023-03": [
+        87,
+        31,
+        4,
+        12,
+        35,
+        9,
+        3,
+        11
+      ],
+      "2023-04": [
+        71,
+        30,
+        2,
+        8,
+        20,
+        11,
+        3,
+        7
+      ],
+      "2023-05": [
+        87,
+        33,
+        14,
+        16,
+        15,
+        3,
+        4,
+        10
+      ],
+      "2023-06": [
+        98,
+        19,
+        9,
+        12,
+        27,
+        16,
+        7,
+        18
+      ],
+      "2023-07": [
+        77,
+        33,
+        10,
+        10,
+        24,
+        14,
+        2,
+        8
+      ],
+      "2023-08": [
+        88,
+        31,
+        4,
+        15,
+        17,
+        12,
+        2,
+        14
+      ],
+      "2023-09": [
+        78,
+        25,
+        13,
+        9,
+        19,
+        15,
+        2,
+        7
+      ],
+      "2023-10": [
+        90,
+        24,
+        7,
+        13,
+        15,
+        13,
+        3,
+        14
+      ],
+      "2023-11": [
+        82,
+        31,
+        4,
+        11,
+        21,
+        15,
+        4,
+        10
+      ],
+      "2023-12": [
+        72,
+        26,
+        5,
+        11,
+        22,
+        12,
+        2,
+        12
+      ],
+      "2024-01": [
+        90,
+        34,
+        7,
+        10,
+        28,
+        7,
+        3,
+        22
+      ],
+      "2024-02": [
+        102,
+        30,
+        6,
+        10,
+        33,
+        11,
+        3,
+        14
+      ],
+      "2024-03": [
+        117,
+        39,
+        8,
+        12,
+        13,
+        14,
+        1,
+        11
+      ],
+      "2024-04": [
+        82,
+        35,
+        6,
+        9,
+        25,
+        9,
+        2,
+        11
+      ],
+      "2024-05": [
+        93,
+        38,
+        8,
+        11,
+        33,
+        12,
+        3,
+        13
+      ],
+      "2024-06": [
+        88,
+        32,
+        9,
+        13,
+        24,
+        11,
+        1,
+        12
+      ],
+      "2024-07": [
+        89,
+        38,
+        3,
+        13,
+        28,
+        12,
+        2,
+        9
+      ],
+      "2024-08": [
+        110,
+        36,
+        6,
+        10,
+        26,
+        13,
+        4,
+        11
+      ],
+      "2024-09": [
+        114,
+        37,
+        11,
+        15,
+        14,
+        9,
+        12,
+        12
+      ],
+      "2024-10": [
+        123,
+        34,
+        8,
+        15,
+        29,
+        12,
+        5,
+        16
+      ],
+      "2024-11": [
+        95,
+        29,
+        6,
+        12,
+        30,
+        9,
+        4,
+        6
+      ],
+      "2024-12": [
+        86,
+        23,
+        10,
+        10,
+        26,
+        7,
+        6,
+        12
+      ],
+      "2025-01": [
+        78,
+        25,
+        7,
+        19,
+        18,
+        20,
+        4,
+        6
+      ],
+      "2025-02": [
+        70,
+        21,
+        5,
+        8,
+        19,
+        12,
+        5,
+        6
+      ],
+      "2025-03": [
+        116,
+        40,
+        3,
+        18,
+        32,
+        11,
+        1,
+        14
+      ],
+      "2025-04": [
+        88,
+        29,
+        8,
+        19,
+        19,
+        9,
+        2,
+        8
+      ],
+      "2025-05": [
+        128,
+        45,
+        4,
+        15,
+        22,
+        13,
+        3,
+        6
+      ],
+      "2025-06": [
+        121,
+        44,
+        11,
+        10,
+        27,
+        10,
+        5,
+        12
+      ],
+      "2025-07": [
+        102,
+        28,
+        5,
+        12,
+        24,
+        10,
+        5,
+        18
+      ],
+      "2025-08": [
+        108,
+        33,
+        11,
+        8,
+        26,
+        18,
+        0,
+        18
+      ],
+      "2025-09": [
+        45,
+        18,
+        3,
+        8,
+        13,
+        5,
+        7,
+        9
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling",
+          "year": "2025-07",
+          "abstract": "Organic reaction, the foundation of modern chemical industry, is crucial for\nnew material development and drug discovery. However, deciphering reaction\nmechanisms and modeling multi-molecular relationships remain formidable\nchallenges due to the complexity of molecular dynamics. While several\nstate-of-the-art models like Uni-Mol2 have revolutionized single-molecular\nrepresentation learning, their extension to multi-molecular systems, where\nchemical reactions inherently occur, has been underexplored. This paper\nintroduces Uni-Mol3, a novel deep learning framework that employs a\nhierarchical pipeline for multi-molecular reaction modeling. At its core,\nUni-Mol3 adopts a multi-scale molecular tokenizer (Mol-Tokenizer) that encodes\n3D structures of molecules and other features into discrete tokens, creating a\n3D-aware molecular language. The framework innovatively combines two\npre-training stages: molecular pre-training to learn the molecular grammars and\nreaction pre-training to capture fundamental reaction principles, forming a\nprogressive learning paradigm from single- to multi-molecular systems. With\nprompt-aware downstream fine-tuning, Uni-Mol3 demonstrates exceptional\nperformance in diverse organic reaction tasks and supports multi-task\nprediction with strong generalizability. Experimental results across 10\ndatasets spanning 4 downstream tasks show that Uni-Mol3 outperforms existing\nmethods, validating its effectiveness in modeling complex organic reactions.\nThis work not only ushers in an alternative paradigm for multi-molecular\ncomputational modeling but also charts a course for intelligent organic\nreaction by bridging molecular representation with reaction mechanism\nunderstanding.",
+          "arxiv_id": "2508.00920v2"
+        },
+        {
+          "title": "Beyond potential energy surface benchmarking: a complete application of machine learning to chemical reactivity",
+          "year": "2023-06",
+          "abstract": "We train an equivariant machine learning model to predict energies and forces\nfor a real-world study of hydrogen combustion under conditions of finite\ntemperature and pressure. This challenging case for reactive chemistry\nillustrates that ML learned potential energy surfaces (PESs) are always\nincomplete as they are overly reliant on chemical intuition of what data is\nimportant for training, i.e. stable or metastable energy states. Instead we\nshow here that a negative design data acquisition strategy is necessary to\ncreate a more complete ML model of the PES, since it must also learn avoidance\nof unforeseen high energy intermediates or even unphysical energy\nconfigurations. Because this type of data is unintuitive to create, we\nintroduce an active learning workflow based on metadynamics that samples a\nlower dimensional manifold within collective variables that efficiently creates\nhighly variable energy configurations for further ML training. This strategy\nmore rapidly completes the ML PES such that deviations among query by committee\nML models helps to now signal occasional calls to the external ab initio data\nsource to further molecular dynamics in time without need for retraining the ML\nmodel. With the hybrid ML-physics model we predict the change in transition\nstate and/or reaction mechanism at finite temperature and pressure for hydrogen\ncombustion, thereby delivering on the promise of real application work using ML\ntrained models of an ab initio PES with two orders of magnitude reduction in\ncost.",
+          "arxiv_id": "2306.08273v1"
+        },
+        {
+          "title": "Machine learning potentials for complex aqueous systems made simple",
+          "year": "2021-05",
+          "abstract": "Simulation techniques based on accurate and efficient representations of\npotential energy surfaces are urgently needed for the understanding of complex\naqueous systems such as solid-liquid interfaces. Here, we present a machine\nlearning framework that enables the efficient development and validation of\nmodels for complex aqueous systems. Instead of trying to deliver a\nglobally-optimal machine learning potential, we propose to develop models\napplicable to specific thermodynamic state points in a simple and user-friendly\nprocess. After an initial ab initio simulation, a machine learning potential is\nconstructed with minimum human effort through a data-driven active learning\nprotocol. Such models can afterwards be applied in exhaustive simulations to\nprovide reliable answers for the scientific question at hand. We showcase this\nmethodology on a diverse set of aqueous systems with increasing degrees of\ncomplexity. The systems chosen here comprise bulk water with different ions in\nsolution, water on a titanium dioxide surface, as well as water confined in\nnanotubes and between molybdenum disulfide sheets. Highlighting the accuracy of\nour approach with respect to the underlying ab initio reference, the resulting\nmodels are evaluated in detail with an automated validation protocol that\nincludes structural and dynamical properties and the precision of the force\nprediction of the models. Finally, we demonstrate the capabilities of our\napproach for the description of water on the rutile titanium dioxide (110)\nsurface to analyze the structure and mobility of water on this surface. Such\nmachine learning models provide a straightforward and uncomplicated but\naccurate extension of simulation time and length scales for complex systems.",
+          "arxiv_id": "2106.00048v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Cluster Amplitudes and Their Interplay with Self-Consistency in Density Functional Methods",
+          "year": "2022-10",
+          "abstract": "Density functional theory (DFT) provides convenient electronic structure\nmethods for the study of molecular systems and materials. Regular Kohn-Sham DFT\ncalculations rely on unitary transformations to determine the ground-state\nelectronic density, ground state energy, and related properties. However, for\ndissociation of molecular systems into open-shell fragments, due to the\nself-interaction error present in a large number of density functional\napproximations, the self-consistent procedure based on the this type of\ntransformation gives rise to the well-known charge delocalization problem. To\navoid this issue, we showed previously that the cluster operator of\ncoupled-cluster theory can be utilized within the context of DFT to solve in an\nalternative and approximate fashion the ground-state self-consistent problem.\nThis work further examines the application of the singles cluster operator to\nmolecular ground state calculations. Two approximations are derived and\nexplored: i), A linearized scheme of the quadratic equation used to determine\nthe cluster amplitudes, and, ii), the effect of carrying the calculations in a\nnon-self-consistent field fashion. These approaches are found to be capable of\nimproving the energy and density of the system and are quite stable in either\ncase. The theoretical framework discussed in this work could be used to\ndescribe, with an added flexibility, quantum systems that display challenging\nfeatures and require expanded theoretical methods.",
+          "arxiv_id": "2210.03694v1"
+        },
+        {
+          "title": "Foundation for the ΔSCF Approach in Density Functional Theory",
+          "year": "2024-03",
+          "abstract": "We extend ground-state density-functional theory to excited states and\nprovide the theoretical formulation for the widely used $\\Delta SCF$ method for\ncalculating excited-state energies and densities. As the electron density alone\nis insufficient to characterize excited states, we formulate excited-state\ntheory using the defining variables of a noninteracting reference system,\nnamely (1) the excitation quantum number $n_{s}$ and the potential\n$w_{s}(\\mathbf{r})$ (excited-state potential-functional theory, $n$PFT), (2)\nthe noninteracting wavefunction $\\Phi$ ($\\Phi$-functional theory, $\\Phi$FT), or\n(3) the noninteracting one-electron reduced density matrix\n$\\gamma_{s}(\\mathbf{r},\\mathbf{r}')$ (density-matrix-functional theory,\n$\\gamma_{s}$FT). We show the equivalence of these three sets of variables and\ntheir corresponding energy functionals. Importantly, the ground and\nexcited-state exchange-correlation energy use the \\textit{same} universal\nfunctional, regardless of whether $\\left(n_{s},w_{s}(\\boldsymbol{r})\\right)$,\n$\\Phi$, or $\\gamma_{s}(\\mathbf{r},\\mathbf{r}')$ is selected as the fundamental\ndescriptor of the system. We derive the excited-state (generalized) Kohn-Sham\nequations. The minimum of all three functionals is the ground-state energy and,\nfor ground states, they are all equivalent to the Hohenberg-Kohn-Sham method.\nThe other stationary points of the functionals provide the excited-state\nenergies and electron densities, establishing the foundation for the $\\Delta\nSCF$ method.",
+          "arxiv_id": "2403.04604v1"
+        },
+        {
+          "title": "Quantum self-consistent equation-of-motion method for computing molecular excitation energies, ionization potentials, and electron affinities on a quantum computer",
+          "year": "2022-06",
+          "abstract": "Near-term quantum computers are expected to facilitate material and chemical\nresearch through accurate molecular simulations. Several developments have\nalready shown that accurate ground-state energies for small molecules can be\nevaluated on present-day quantum devices. Although electronically excited\nstates play a vital role in chemical processes and applications, the search for\na reliable and practical approach for routine excited-state calculations on\nnear-term quantum devices is ongoing. Inspired by excited-state methods\ndeveloped for the unitary coupled-cluster theory in quantum chemistry, we\npresent an equation-of-motion-based method to compute excitation energies\nfollowing the variational quantum eigensolver algorithm for ground-state\ncalculations on a quantum computer. We perform numerical simulations on H$_2$,\nH$_4$, H$_2$O, and LiH molecules to test our quantum self-consistent\nequation-of-motion (q-sc-EOM) method and compare it to other current\nstate-of-the-art methods. q-sc-EOM makes use of self-consistent operators to\nsatisfy the vacuum annihilation condition, a critical property for accurate\ncalculations. It provides real and size-intensive energy differences\ncorresponding to vertical excitation energies, ionization potentials and\nelectron affinities. We also find that q-sc-EOM is more suitable for\nimplementation on NISQ devices as it is expected to be more resilient to noise\ncompared with the currently available methods.",
+          "arxiv_id": "2206.10502v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Inelastic H + H$^+_3$ Collision rates and their impact in the determination of the excitation temperature of H$^+_3$",
+          "year": "2024-12",
+          "abstract": "Context. In dffuse interstellar clouds the excitation temperature derived\nfrom the lowest levels of H$^+_3$ is systematically lower than that derived\nfrom H2. The differences may be attributed to the lack of state-specific\nformation and destruction rates of H$^+_3$ needed to thermalize the two\nspecies. Aims. In this work, we want to check the role of rotational excitation\ncollisions of H$^+_3$ with atomic hydrogen on its excitation temperature.\nMethods. A time independent close-coupling method is used to calculate the\nstate-to-state rate coefficients, using a very accurate and full dimensional\npotential energy surface recently developed for H$^+_4$. A symmetric top\napproach is used to describe a frozen H$^+_3$ as equilateral triangle. Results.\nRotational excitation collision rate coefficients of H$^+_3$ with atomic\nHydrogen have been derived in a temperature range appropriate to diffuse\ninterstellar conditions up to $(J; K; \\pm) = (7; 6; +)$ and $(J; K; \\pm) = (6;\n4; +)$ for its ortho and para forms. This allows to have a consistent set of\ncollisional excitation rate coefficients and to improve the previous study\nwhere these contributions were speculated. Conclusions. The new state-specific\ninelastic H$^+_3$ + H rate coeffcients yield differences up to 20% in the\nexcitation temperature, and their impact increases with decreasing molecular\nfraction. We also confirm the impact of chemical state-to-state destruction\nreactions in the excitation balance of H$^+_3$ , and that reactive H + H$^+_3$\ncollisions are also needed to account for possible further ortho to para\ntransitions",
+          "arxiv_id": "2412.06697v1"
+        },
+        {
+          "title": "State-to-state rovibrational transition rates for CO2 in the bend mode in collisions with He atoms",
+          "year": "2023-09",
+          "abstract": "Modeling environments that are not in local thermal equilibrium, such as\nprotoplanetary disks or planetary atmospheres, with molecular spectroscopic\ndata from space telescopes requires knowledge of the rate coefficients of\nrovibrationally inelastic molecular collisions. Here, we present such rate\ncoefficients in a temperature range from 10 to 500 K for collisions of CO$_2$\nwith He atoms in which CO$_2$ is (de)excited in the bend mode. They are\nobtained from numerically exact coupled-channel (CC) calculations as well as\nfrom calculations with the less demanding coupled-states approximation (CSA)\nand the vibrational close-coupling rotational infinite-order sudden (VCC-IOS)\nmethod. All of the calculations are based on a newly calculated accurate ab\ninitio four-dimensional CO$_2$-He potential surface including the CO$_2$ bend\n($\\nu_2$) mode. We find that the rovibrationally inelastic collision cross\nsections and rate coefficients from the CSA and VCC-IOS calculations agree to\nwithin 50% with the CC results at the rotational state-to-state level, except\nfor the smaller ones and in the low energy resonance region, and to within 20%\nfor the overall vibrational quenching rates except for temperatures below 50 K\nwhere resonances provide a substantial contribution. Our CC quenching rates\nagree with the most recent experimental data within the error bars. We also\ncompared our results with data from Clary et al. calculated in the 1980's with\nthe CSA and VCC-IOS methods and a simple atom-atom model potential based on ab\ninitio Hartree-Fock calculations and found that their cross sections agree\nfairly well with ours for collision energies above 500 cm$^{-1}$, but that the\ninclusion of long range attractive dispersion interactions is crucial to obtain\nreliable cross sections at lower energies and rate coefficients at lower\ntemperatures.",
+          "arxiv_id": "2309.03781v2"
+        },
+        {
+          "title": "Formation of interstellar complex organic molecules on water-rich ices triggered by atomic carbon freezing",
+          "year": "2023-10",
+          "abstract": "The reactivity of interstellar carbon atoms (C) on the water-dominated ices\nis one of the possible ways to form interstellar complex organic molecules\n(iCOMs). In this work, we report a quantum chemical study of the coupling\nreaction of C ($^3$P) with an icy water molecule, alongside possible subsequent\nreactions with the most abundant closed shell frozen species (NH$_3$, CO,\nCO$_2$ and H$_2$), atoms (H, N and O), and molecular radicals (OH, NH$_2$ and\nCH$_3$). We found that C spontaneously reacts with the water molecule,\nresulting in the formation of $^3$C-OH$_2$, a highly reactive species due to\nits triplet electronic state. While reactions with the closed-shell species do\nnot show any reactivity, reactions with N and O form CN and CO, respectively,\nthe latter ending up into methanol upon subsequent hydrogenation. The reactions\nwith OH, CH$_3$ and NH$_2$ form methanediol, ethanol and methanimine,\nrespectively, upon subsequent hydrogenation. We also propose an explanation for\nmethane formation, observed in experiments through H additions to C in the\npresence of ices. The astrochemical implications of this work are: i) atomic C\non water ice is locked into $^3$C-OH$_2$, making difficult the reactivity of\nbare C atoms on the icy surfaces, contrary to what is assumed in astrochemical\ncurrent models; and ii) the extraordinary reactivity of $^3$C-OH$_2$ provides\nnew routes towards the formation of iCOMs in a non-energetic way, in particular\nethanol, mother of other iCOMs once in the gas-phase.",
+          "arxiv_id": "2310.14831v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Superreaction: the collective enhancement of a reaction rate by molecular polaritons in the presence of energy fluctuations",
+          "year": "2021-03",
+          "abstract": "Recent experiments have demonstrated that molecular polaritons, hybrid states\nof light and matter formed by the strong coupling between molecular electronic\nor vibrational excitations and an optical cavity, can substantially modify the\nphysical and chemical properties of molecular systems. Here, we show that, by\nexploiting the collective character of molecular polaritons in conjunction with\nthe effect of polaron decoupling, i.e., the suppression of environmental\ninfluence on the polariton, a superreaction can be realized, involving a\ncollective enhancement of charge or excitation-energy transfer reaction rate in\na system of donors all coupled to a common acceptor. This effect is analogous\nto the phenomenon of superradiation. Since the polariton is a superposition\nstate of excitations of all the molecules coupled to the cavity, it is\nvulnerable to the effect of decoherence caused by energy fluctuations in\nmolecular systems. Consequently, in the absence of a strong light-matter\ninteraction, the reaction rate decreases significantly as the number of\nmolecules increases, even if the system starts from the polariton state. By\nturning on the light-matter interaction, the dynamic behavior of the system\nchanges dramatically, and the reaction rate increases with the number of\nmolecules, as expected for a superreaction. The underlying mechanism is shown\nto be the enhancement of quantum coherence between different donors as the\nlight-matter interaction becomes stronger.",
+          "arxiv_id": "2103.16166v1"
+        },
+        {
+          "title": "Ab initio linear-response approach to vibro-polaritons in the cavity Born-Oppenheimer approximation",
+          "year": "2021-08",
+          "abstract": "Recent years have seen significant developments in the study of strong\nlight-matter coupling including the control of chemical reactions by altering\nthe vibrational normal modes of molecules. In the vibrational strong coupling\nregime the normal modes of the system become hybrid modes which mix nuclear,\nelectronic, and photonic degrees of freedom. First principles methods capable\nof treating light and matter degrees of freedom on the same level of theory are\nan important tool in understanding such systems. In this work, we develop and\napply a generalized force constant matrix approach to the study of mixed\nvibration-photon (vibro-polariton) states of molecules based on the cavity\nBorn-Oppenheimer approximation and quantum-electrodynamical density-functional\ntheory. With this method vibro-polariton modes and infrared spectra can be\ncomputed via linear response techniques analogous to those widely used for\nconventional vibrations and phonons. We also develop an accurate model that\nhighlights the consistent treatment of cavity coupled electrons in the\nvibrational strong coupling regime. These electronic effects appear as new\nterms previously disregarded by simpler models. This effective model also\nallows for an accurate extrapolation of single and two molecule calculations to\nthe collective strong coupling limit of hundreds of molecules. We benchmark\nthese approaches for single and many CO$_2$ molecules coupled to a single\nphoton mode and the iron-pentacarbonyl Fe(CO)$_5$ molecule coupled to a few\nphoton modes. Our results are the first ab-initio results for collective\nvibrational strong coupling effects. This framework for efficient computations\nof vibro-polaritons paves the way to a systematic description and improved\nunderstanding of the behavior of chemical systems in vibrational strong\ncoupling.",
+          "arxiv_id": "2108.11564v1"
+        },
+        {
+          "title": "When do molecular polaritons behave like optical filters?",
+          "year": "2024-08",
+          "abstract": "This review outlines several linear optical effects featured by molecular\npolaritons arising in the collective strong light-matter coupling regime. Under\nweak laser irradiation and when the single-molecule light-matter coupling can\nbe neglected (often in the limit when the number of molecules per photon mode\nis large), we show that the excited-state molecular dynamics under collective\nstrong coupling can be exactly replicated without the cavity using a shaped (or\n``filtered'') laser, whose field amplitude is enhanced by the cavity quality\nfactor, shining on the bare molecules. As a consequence, the absorption within\na cavity can be understood as the overlap between the polariton transmission\nand the bare molecular absorption, suggesting that polaritons act in part as\noptical filters. This framework demystifies and provides a straightforward\nexplanation for a large class of experiments and theoretical models in\nmolecular polaritonics, highlighting that the same effects can be achieved\nwithout the cavity with shaped laser pulses. With a few modifications, this\nsimple conceptual picture can also be adapted to understand the incoherent\nnonlinear response of polaritonic systems. This review establishes a clear\ndistinction between polaritonic phenomena that can be fully explained through\nclassical linear optics and those that require a quantum electrodynamics\napproach. It also highlights the need to differentiate between effects that\nnecessitate polaritons (i.e., hybrid light-matter states) and those that can\noccur in the weak coupling regime. We further discuss that certain quantum\noptical effects like fluorescence can be partially described as optical\nfiltering, whereas some others like cavity-induced Raman scattering go beyond\nthis. Further exploration in these areas is needed to uncover novel polaritonic\nphenomena beyond optical filtering.",
+          "arxiv_id": "2408.05036v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Improved Efficiency of Open Quantum System Simulations Using Matrix Products States in the Interaction Picture",
+          "year": "2021-11",
+          "abstract": "Modeling open quantum systems -- quantum systems coupled to a bath -- is of\nvalue in condensed matter theory, cavity quantum electrodynamics, nanosciences\nand biophysics. The real-time simulation of open quantum systems was advanced\nsignificantly by the recent development of chain mapping techniques and the use\nof matrix product states that exploit the intrinsic entanglement structure in\nopen quantum systems. The computational cost of simulating open quantum\nsystems, however, remains high when the bath is excited to high-lying quantum\nstates. We develop an approach to reduce the computational costs in such cases.\nThe interaction representation for the open quantum system is used to\ndistribute excitations among the bath degrees of freedom so that the occupation\nof each bath oscillator is ensured to be low. The interaction picture also\ncauses the matrix dimensions to be much smaller in a matrix product state of a\nchain-mapped open quantum system than in the Schr\\\"odinger picture. Using the\ninteraction representation accelerates the calculations by 1-2 orders of\nmagnitude over existing matrix-product-state method. In the regime of strong\nsystem-bath coupling and high temperatures, the speedup can be as large as 3\norders of magnitude. The approach developed here is especially promising to\nsimulate the dynamics of open quantum systems in the high-temperature and\nstrong-coupling regimes.",
+          "arxiv_id": "2111.14308v1"
+        },
+        {
+          "title": "Simulating Non-Markovian Quantum Dynamics on NISQ Computers Using the Hierarchical Equations of Motion",
+          "year": "2024-11",
+          "abstract": "Quantum computing offers promising new avenues for tackling the long-standing\nchallenge of simulating the quantum dynamics of complex chemical systems,\nparticularly open quantum systems coupled to external baths. However,\nsimulating such non-unitary dynamics on quantum computers is challenging since\nquantum circuits are specifically designed to carry out unitary\ntransformations. Furthermore, chemical systems are often strongly coupled to\nthe surrounding environment, rendering the dynamics non-Markovian and beyond\nthe scope of Markovian quantum master equations like Lindblad or Redfield. In\nthis work, we introduce a quantum algorithm designed to simulate non-Markovian\ndynamics of open quantum systems. Our approach enables the implementation of\narbitrary quantum master equations on noisy intermediate-scale quantum (NISQ)\ncomputers. We illustrate the method as applied in conjunction with the\nnumerically exact hierarchical equations of motion (HEOM) method. The\neffectiveness of the resulting quantum HEOM algorithm is demonstrated as\napplied to simulations of the non-Lindbladian electronic energy and charge\ntransfer dynamics in models of the carotenoid-porphyrin-\\ce{C60} molecular\ntriad dissolved in tetrahydrofuran and the Fenna-Matthews-Olson complex.",
+          "arxiv_id": "2411.12049v2"
+        },
+        {
+          "title": "Perspective: Numerically \"exact\" approach to open quantum dynamics: The hierarchical equations of motion (HEOM)",
+          "year": "2020-06",
+          "abstract": "An open quantum system refers to a system that is further coupled to a bath\nsystem consisting of surrounding radiation fields, atoms, molecules, or\nproteins. The bath system is typically modeled by an infinite number of\nharmonic oscillators. This system-bath model can describe the time-irreversible\ndynamics through which the system evolves toward a thermal equilibrium state at\nfinite temperature. In nuclear magnetic resonance and atomic spectroscopy,\ndynamics can be studied easily by using simple quantum master equations under\nthe assumption that the system-bath interaction is weak (perturbative\napproximation) and the bath fluctuations are very fast (Markovian\napproximation). However, such approximations cannot be applied in chemical\nphysics and biochemical physics problems, where environmental materials are\ncomplex and strongly coupled with environments. The hierarchical equations of\nmotion (HEOM) can describe numerically \"exact\" dynamics of a reduced system\nunder nonperturbative and non-Markovian system--bath interactions, which has\nbeen verified on the basis of exact analytical solutions (non-Markovian tests)\nwith any desired numerical accuracy. The HEOM theory has been used to treat\nsystems of practical interest, in particular to account for various linear and\nnonlinear spectra in molecular and solid state materials, to evaluate charge\nand exciton transfer rates in biological systems, to simulate resonant\ntunneling and quantum ratchet processes in nanodevices, and to explore quantum\nentanglement states in quantum information theories. This article, presents an\noverview of the HEOM theory, focusing on its theoretical background and\napplications, to help further the development of the study of open quantum\ndynamics.",
+          "arxiv_id": "2006.05501v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Triplet J-driven DNP, a proposal to increase the sensitivity of solution-state NMR without microwave",
+          "year": "2025-02",
+          "abstract": "Dynamic nuclear polarization (DNP) is an important method to enhance the\nlimited sensitivity of nuclear magnetic resonance (NMR). Using the existing\nmechanisms such as Overhauser DNP (ODNP) is still difficult to achieve\nsignificant enhancement of NMR signals in solutions at a high magnetic field.\nThe recently proposed J-driven DNP (JDNP) condition (when the exchange\ninteraction of two electron spins matches their Lamour frequency) may enable\nsignal enhancement in solution as it requires only dipolar interaction between\nthe biradical polarization agent and the analyte. However, likewise ODNP, the\ncurrent JDNP strategy still requires the saturation of the electron\npolarization with high microwave power which has poor penetration and is\nassociated with heating effects in most liquids. The replacement of high-power\nmicrowave irradiation is possible if the temporal electron polarization\nimbalance is created by a different wavelength such as the visible light. Here,\nwe propose a triplet JDNP mechanism which first exploits the light-induced\nsinglet fission process (i.e., a singlet exciton is converted into two triplet\nexcitons). As the JDNP condition is fulfilled, a triplet-to-triplet\ncross-relaxation process will occur with different rates and consequently lead\nto the creation of hyperpolarization on the coupled nuclear spin states. This\ncommunication discusses the theory behind the triplet JDNP proposal, as well as\nthe polarizing agents and conditions that will enable the new approach to\nenhance the sensitivity of NMR without the need of microwave irradiation.",
+          "arxiv_id": "2502.15269v2"
+        },
+        {
+          "title": "Cryogenic field-cycling instrument for optical NMR hyperpolarization studies",
+          "year": "2024-12",
+          "abstract": "Optical dynamic nuclear polarization (DNP) offers an attractive approach to\nenhancing the sensitivity of nuclear magnetic resonance (NMR) spectroscopy.\nEfficient, optically-generated electron polarization can be leveraged to\noperate across a broad range of temperatures and magnetic fields, making it\nparticularly appealing for applications requiring high DNP efficiency or\nspatial resolution. While a large class of systems hold promise for optical\nDNP, many candidates display both variable electron polarizability and electron\nand nuclear T1 relaxation times as functions of magnetic field and temperature.\nThis necessitates tools capable of studying DNP under diverse experimental\nconditions. To address this, we introduce a cryogenic field cycling instrument\nthat facilitates optical DNP studies across a wide range of magnetic fields\n(10mT to 9.4T) and temperatures (10K to 300K). Continuous cryogen replenishment\nenables sustained, long-term operation. Additionally, the system supports the\nability to manipulate and probe hyperpolarized nuclear spins via pulse\nsequences involving millions of RF pulses. We describe innovations in the\ndevice design and demonstrate its operation on a model system of 13C nuclear\nspins in diamond polarized through optically pumped nitrogen vacancy (NV)\ncenters. We anticipate the use of the instrument for a broad range of optical\nDNP systems and studies.",
+          "arxiv_id": "2412.16471v1"
+        },
+        {
+          "title": "Zero- to Ultralow-field Nuclear Magnetic Resonance",
+          "year": "2024-08",
+          "abstract": "Zero and ultralow-field nuclear magnetic resonance (ZULF NMR) is an NMR\nmodality where experiments are performed in fields at which spin-spin\ninteractions within molecules and materials are stronger than Zeeman\ninteractions. This typically occurs at external fields of microtesla strength\nor below, considerably smaller than Earth's field. In ZULF NMR, the measurement\nof spin-spin couplings and spin relaxation rates provides a nondestructive\nmeans for identifying chemicals and chemical fragments, and for conducting\nsample or process analyses. The absence of the symmetry imposed by a strong\nexternal magnetic field enables experiments that exploit terms in the nuclear\nspin Hamiltonian that are suppressed in high-field NMR, which in turn opens up\nnew capabilities in a broad range of fields, from the search for dark matter to\nthe preparation of hyperpolarized contrast agents for clinical imaging.\nFurthermore, as in ZULF NMR the Larmor frequencies are typically in the audio\nband, the nuclear spins can be manipulated with d.c. magnetic field pulses, and\nhighly sensitive magnetometers are used for detection. In contrast to\nhigh-field NMR, the low-frequency signals readily pass through conductive\nmaterials such as metals, and heterogeneous samples do not lead to resonance\nline broadening, meaning that high-resolution spectroscopy is possible. Notable\npractical advantages of ZULF NMR spectroscopy are the low cost and relative\nsimplicity and portability of the spectrometer system. In recent years ZULF NMR\nhas become more accessible, thanks to improvements in magnetometer sensitivity\nand their commercial availability, and the development of hyperpolarization\nmethods that provide a simple means to boost signal strengths by several orders\nof magnitude. These topics are reviewed and a perspective on potential future\navenues of ZULF-NMR research is presented.",
+          "arxiv_id": "2409.09048v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Accurate experimental ($p$, $ρ$, $T$) data of the ($CO_{2}$ + $O_{2}$) binary system for the development of models for CCS processes",
+          "year": "2024-09",
+          "abstract": "The limited availability of accurate experimental data in wide ranges of\npressure, temperature, and composition is the main constraining factor for the\nproper development and assessment of thermodynamic models and equations of\nstate. In the particular case of carbon capture and storage (CCS) processes,\nthere is a clear need for data sets related to the (carbon dioxide + oxygen)\nmixtures that this work aims to address. This work provides new experimental\n($p$, $\\rho$, $T$) data for three binary ($CO_{2}$ + $O_{2}$) mixtures with\nmole fractions of oxygen $x$($O_{2}$) = (0.05, 0.10, and 0.20) mol/mol, in the\ntemperature range $T$ = (250 to 375) K and pressure range $p$ = (0.5 to 13)\nMPa. The measurements were performed with a high-precision single-sinker\ndensimeter with magnetic suspension coupling. The density data were obtained\nwith estimated expanded relative uncertainties of 0.02% for the highest\ndensities and up to 0.3% for the lowest ones.The results were compared to the\ncorresponding results calculated by the current reference equations of state\nfor this kind of mixtures, namely the EOS-CG (combustion gases) and the\nGERG-2008 equation of state, respectively. The EOS-CG yields better estimations\nin density than the GERG-2008 equation of state. The results from the EOS-GC\nmodel show no systematic temperature dependence. For the GERG-2008 model,\nhowever, this criterion is significantly less fulfilled.",
+          "arxiv_id": "2409.17164v1"
+        },
+        {
+          "title": "Toward Machine Learned Highly Reduce Kinetic Models For Methane/Air Combustion",
+          "year": "2021-03",
+          "abstract": "Accurate low dimension chemical kinetic models for methane are an essential\ncomponent in the design of efficient gas turbine combustors. Kinetic models\ncoupled to computational fluid dynamics (CFD) provide quick and efficient ways\nto test the effect of operating conditions, fuel composition and combustor\ndesign compared to physical experiments. However, detailed chemical kinetic\nmodels are too computationally expensive for use in CFD. We propose a novel\ndata orientated three-step methodology to produce compact models that replicate\na target set of detailed model properties to a high fidelity. In the first\nstep, a reduced kinetic model is obtained by removing all non-essential species\nfrom the detailed model containing 118 species using path flux analysis (PFA).\nIt is then numerically optimised to replicate the detailed model's prediction\nin two rounds; First, to selected species (OH,H,CO and CH4) profiles in\nperfectly stirred reactor (PSR) simulations and then re-optimised to the\ndetailed model's prediction of the laminar flame speed. This is implemented by\na purposely developed Machine Learned Optimisation of Chemical Kinetics (MLOCK)\nalgorithm. The MLOCK algorithm systematically perturbs all three Arrhenius\nparameters for selected reactions and assesses the suitability of the new\nparameters through an objective error function which quantifies the error in\nthe compact model's calculation of the optimisation target. This strategy is\ndemonstrated through the production of a 19 species and a 15 species compact\nmodel for methane/air combustion. Both compact models are validated across a\nrange of 0D and 1D calculations across both lean and rich conditions and shows\ngood agreement to the parent detailed mechanism. The 15 species model is shown\nto outperform the current state-of-art models in both accuracy and range of\nconditions the model is valid over.",
+          "arxiv_id": "2103.08377v3"
+        },
+        {
+          "title": "Numerical modeling of distributed combustion without air dilution in a novel ultra-low emission turbulent swirl burner",
+          "year": "2021-11",
+          "abstract": "Distributed combustion, often associated with the low-oxygen condition,\noffers ultra-low NOX emission. However, it was recently achieved without\ncombustion air dilution or internal flue gas recirculation, using a distinct\napproach called Mixture Temperature-Controlled combustion. Here, the fuel-air\nstream is cooled at the inlet to delay ignition and hence foster homogeneous\nmixture formation. The aim of this numerical study aims to understand the\noperation of this combustion concept better and present a robust framework for\ndistributed combustion modeling in a parameter range where such operation was\nnot predicted before by any existing theory. Further, liquid fuel combustion\nwas evaluated that brings additional complexity. Four operating conditions were\npresented at which distributed combustion was observed. The reacting flow was\nmodeled by Flamelet-Generated Manifold, based on a detailed n-dodecane\nmechanism. The Zimont turbulent flame speed model was used with significantly\nreduced coefficients to achieve distributed combustion. The droplets of\nairblast atomization were tracked in a Lagrangian frame. The numerical results\nwere validated by Schlieren images and acoustic spectra. It was concluded that\nthe reactant dilution ratio remained below 0.25 through the combustion chamber,\nrevealing that the homogeneous fuel-air mixture is the principal reason for\nexcellent flame stability and ultra-low NOX emission without significant\ninternal recirculation. The potential applications of these results are\nboilers, furnaces, and gas turbines.",
+          "arxiv_id": "2112.01943v4"
+        }
+      ],
+      "7": [
+        {
+          "title": "Strong chiral dichroism in above threshold ionization and ionization rates from locally-chiral light",
+          "year": "2020-10",
+          "abstract": "We derive here a new highly selective photoelectron-based chirality-sensing\ntechnique that utilizes 'locally-chiral' laser pulses. We show that this\napproach results in strong chiral discrimination, where the standard\nforwards/backwards asymmetry of photoelectron circular dichroism (PECD) is\nlifted. The resulting dichroism is much larger and more robust than\nconventional PECD, is found in all hemispheres, and is not symmetric or\nantisymmetric with respect to any symmetry operator. Remarkably, a CD of up to\n10% survives in the angularly-integrated above-threshold ionization (ATI)\nspectra, and of up to 5% in the total ionization rates. We demonstrate these\nresults through ab-initio calculations in the chiral molecules\nBromochlorofluoromethane, Limonene, Fenchone, and Camphor. We also explore the\nparameter-space of the locally-chiral field and show that the observed CD is\nstrongly correlated to the degree of chirality of the light, validating it as a\nmeasure for chiral-interaction strengths. Our results pave the way for highly\nselective probing of ultrafast chirality in ATI, can potentially lead to\nall-optical enantio-separation, and motivate the use of locally-chiral light\nfor enhancing ultrafast spectroscopies.",
+          "arxiv_id": "2010.14182v1"
+        },
+        {
+          "title": "Ultrafast chirality: the road to efficient chiral measurements",
+          "year": "2022-03",
+          "abstract": "Today we are witnessing the electric-dipole revolution in chiral\nmeasurements. Here we reflect on its lessons and outcomes, such as the\nperspective on chiral measurements using the complementary principles of\n\"chiral reagent\" and \"chiral observer\", the hierarchy of scalar, vectorial and\ntensorial observables, the new properties of the chiro-optical response in the\nultrafast and non-linear domains, and the geometrical magnetism associated with\nthe chiral response in photoionization. The electric-dipole revolution is a\nlandmark event. It has opened routes to extremely efficient\nenantio-discrimination with a family of new methods. These methods are governed\nby the same principles but work in vastly different regimes -- from microwaves\nto optical light; they address all molecular degrees of freedom -- electronic,\nvibrational and rotational, and use flexible detection schemes, i.e. detecting\nphotons or electrons, making them applicable to different chiral phases, from\ngases to liquids to amorphous solids. The electric-dipole revolution has also\nenabled enantio-sensitive manipulation of chiral molecules with light. This\nmanipulation includes exciting and controlling ultrafast helical currents in\nvibronic states of chiral molecules, enantio-sensitive control of populations\nin electronic, vibronic and rotational molecular states, and opens the way to\nefficient enantio-separation and enantio-sensitive trapping of chiral\nmolecules. The word \"perspective\" has two meanings: \"outlook\" and \"point of\nview\". In this perspective article, we have tried to cover both meanings.",
+          "arxiv_id": "2203.00580v1"
+        },
+        {
+          "title": "Geometric fields and new enantio-sensitive observables in photoionization of chiral molecules",
+          "year": "2021-06",
+          "abstract": "Chiral molecules are instrumental for molecular recognition in living\norganisms. Distinguishing between two opposite enantiomers, the mirror twins of\nthe same chiral molecule, is both vital and challenging. Photoelectron circular\ndichroism (PECD), an extremely sensitive probe of molecular chirality via\nphotoionization, outperforms standard optical methods by many orders of\nmagnitude. Here we show that the physical origin of PECD in chiral molecules is\nlinked to the concept of geometric magnetism, which enables a broad class of\nphenomena in solids including the anomalous electron velocity, the Hall effect,\nand related topological phenomena. We uncover the geometric field in molecular\nphotoionization, which leads to a new class of enantio-sensitive observables\nemerging due to ultrafast excitation of chiral electronic or vibronic currents\nprior to ionization. Next, we introduce the first member of this new class:\nenantio-sensitive orientation of chiral molecules via photoionization. This\neffect opens new routes to both enantio-separation and imaging of chiral\ndynamics on ultrafast time scales. Our work suggests that geometric fields in\nphotoionization provide the bridge between the two geometrical properties,\nchirality and topology.",
+          "arxiv_id": "2106.14264v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:01:06Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

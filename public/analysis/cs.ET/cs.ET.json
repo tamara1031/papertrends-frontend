@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_paper_communication_systems",
+        "keywords": [
+          [
+            "data",
+            0.023254526647444554
+          ],
+          [
+            "paper",
+            0.015182459190829264
+          ],
+          [
+            "communication",
+            0.014077634869201168
+          ],
+          [
+            "systems",
+            0.013849404721447365
+          ],
+          [
+            "model",
+            0.013695355735368111
+          ],
+          [
+            "models",
+            0.012853654500906267
+          ],
+          [
+            "research",
+            0.01191335269993279
+          ],
+          [
+            "performance",
+            0.011535692348317382
+          ],
+          [
+            "framework",
+            0.01117990202559598
+          ],
+          [
+            "challenges",
+            0.010517354811180614
+          ]
+        ],
+        "count": 1537
+      },
+      "1": {
+        "name": "1_memory_computing_energy_hardware",
+        "keywords": [
+          [
+            "memory",
+            0.02772587563191282
+          ],
+          [
+            "computing",
+            0.021433818579635524
+          ],
+          [
+            "energy",
+            0.01936419662223035
+          ],
+          [
+            "hardware",
+            0.016972854344166382
+          ],
+          [
+            "neuromorphic",
+            0.015582338692882662
+          ],
+          [
+            "devices",
+            0.014333310988542812
+          ],
+          [
+            "neural",
+            0.014211252522623787
+          ],
+          [
+            "design",
+            0.013395023895999572
+          ],
+          [
+            "learning",
+            0.012758635943260144
+          ],
+          [
+            "systems",
+            0.012435295808153139
+          ]
+        ],
+        "count": 1316
+      },
+      "2": {
+        "name": "2_quantum_Quantum_classical_circuit",
+        "keywords": [
+          [
+            "quantum",
+            0.0903421560302648
+          ],
+          [
+            "Quantum",
+            0.03972437895483092
+          ],
+          [
+            "classical",
+            0.024573142421331438
+          ],
+          [
+            "circuit",
+            0.0214740090175948
+          ],
+          [
+            "computing",
+            0.019586086388815867
+          ],
+          [
+            "circuits",
+            0.018811161115733513
+          ],
+          [
+            "quantum computing",
+            0.017460641142054343
+          ],
+          [
+            "qubit",
+            0.017249361752396945
+          ],
+          [
+            "algorithm",
+            0.016545982257534755
+          ],
+          [
+            "algorithms",
+            0.01598703167939289
+          ]
+        ],
+        "count": 1100
+      },
+      "3": {
+        "name": "3_optical_photonic_neural_computing",
+        "keywords": [
+          [
+            "optical",
+            0.05765911214168164
+          ],
+          [
+            "photonic",
+            0.04679732884705237
+          ],
+          [
+            "neural",
+            0.03154705894666997
+          ],
+          [
+            "computing",
+            0.022657751365066568
+          ],
+          [
+            "networks",
+            0.022236026636037857
+          ],
+          [
+            "high",
+            0.020973246970469653
+          ],
+          [
+            "neural networks",
+            0.02042726766505775
+          ],
+          [
+            "energy",
+            0.018640755024121
+          ],
+          [
+            "network",
+            0.01651303506161783
+          ],
+          [
+            "Photonic",
+            0.015947758049849294
+          ]
+        ],
+        "count": 313
+      },
+      "4": {
+        "name": "4_Ising_problems_machines_optimization",
+        "keywords": [
+          [
+            "Ising",
+            0.08972843882403966
+          ],
+          [
+            "problems",
+            0.051983187250098865
+          ],
+          [
+            "machines",
+            0.03624861930129905
+          ],
+          [
+            "optimization",
+            0.03309497053806896
+          ],
+          [
+            "problem",
+            0.02680083503696382
+          ],
+          [
+            "optimization problems",
+            0.025007925814166904
+          ],
+          [
+            "combinatorial",
+            0.02305895781304944
+          ],
+          [
+            "combinatorial optimization",
+            0.021952711401985823
+          ],
+          [
+            "spin",
+            0.020810157147353462
+          ],
+          [
+            "machine",
+            0.019787149035706404
+          ]
+        ],
+        "count": 126
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5317788377984234,
+        -0.7245298767635022,
+        -0.7188022804305524,
+        -0.7331739365675917
+      ],
+      [
+        -0.5317788377984234,
+        1.0,
+        -0.725314789543391,
+        -0.6090254774833563,
+        -0.714889176372377
+      ],
+      [
+        -0.7245298767635022,
+        -0.725314789543391,
+        1.0,
+        -0.727894660122223,
+        -0.5853670992884656
+      ],
+      [
+        -0.7188022804305524,
+        -0.6090254774833563,
+        -0.727894660122223,
+        1.0,
+        -0.7204031192448496
+      ],
+      [
+        -0.7331739365675917,
+        -0.714889176372377,
+        -0.5853670992884656,
+        -0.7204031192448496,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        9,
+        5,
+        10,
+        7,
+        0
+      ],
+      "2020-02": [
+        7,
+        6,
+        8,
+        7,
+        1
+      ],
+      "2020-03": [
+        10,
+        11,
+        4,
+        7,
+        4
+      ],
+      "2020-04": [
+        10,
+        9,
+        12,
+        1,
+        1
+      ],
+      "2020-05": [
+        10,
+        10,
+        11,
+        2,
+        2
+      ],
+      "2020-06": [
+        7,
+        10,
+        12,
+        11,
+        1
+      ],
+      "2020-07": [
+        9,
+        5,
+        11,
+        11,
+        1
+      ],
+      "2020-08": [
+        12,
+        3,
+        7,
+        6,
+        3
+      ],
+      "2020-09": [
+        17,
+        5,
+        14,
+        3,
+        3
+      ],
+      "2020-10": [
+        7,
+        7,
+        12,
+        4,
+        0
+      ],
+      "2020-11": [
+        19,
+        8,
+        8,
+        2,
+        2
+      ],
+      "2020-12": [
+        11,
+        6,
+        9,
+        5,
+        2
+      ],
+      "2021-01": [
+        5,
+        7,
+        10,
+        3,
+        1
+      ],
+      "2021-02": [
+        8,
+        6,
+        5,
+        10,
+        1
+      ],
+      "2021-03": [
+        16,
+        6,
+        6,
+        12,
+        2
+      ],
+      "2021-04": [
+        9,
+        6,
+        8,
+        6,
+        1
+      ],
+      "2021-05": [
+        10,
+        8,
+        11,
+        15,
+        5
+      ],
+      "2021-06": [
+        20,
+        5,
+        12,
+        8,
+        2
+      ],
+      "2021-07": [
+        15,
+        8,
+        11,
+        9,
+        2
+      ],
+      "2021-08": [
+        8,
+        8,
+        9,
+        5,
+        4
+      ],
+      "2021-09": [
+        7,
+        7,
+        19,
+        14,
+        3
+      ],
+      "2021-10": [
+        13,
+        6,
+        14,
+        9,
+        3
+      ],
+      "2021-11": [
+        18,
+        8,
+        11,
+        9,
+        1
+      ],
+      "2021-12": [
+        13,
+        9,
+        9,
+        17,
+        2
+      ],
+      "2022-01": [
+        6,
+        4,
+        9,
+        7,
+        2
+      ],
+      "2022-02": [
+        14,
+        3,
+        8,
+        6,
+        2
+      ],
+      "2022-03": [
+        10,
+        9,
+        15,
+        14,
+        2
+      ],
+      "2022-04": [
+        17,
+        11,
+        7,
+        8,
+        2
+      ],
+      "2022-05": [
+        12,
+        10,
+        13,
+        9,
+        5
+      ],
+      "2022-06": [
+        11,
+        7,
+        11,
+        9,
+        3
+      ],
+      "2022-07": [
+        8,
+        5,
+        10,
+        8,
+        1
+      ],
+      "2022-08": [
+        12,
+        4,
+        9,
+        11,
+        1
+      ],
+      "2022-09": [
+        7,
+        6,
+        16,
+        7,
+        0
+      ],
+      "2022-10": [
+        7,
+        3,
+        17,
+        8,
+        3
+      ],
+      "2022-11": [
+        18,
+        10,
+        10,
+        14,
+        1
+      ],
+      "2022-12": [
+        6,
+        7,
+        13,
+        7,
+        1
+      ],
+      "2023-01": [
+        12,
+        6,
+        9,
+        9,
+        5
+      ],
+      "2023-02": [
+        13,
+        7,
+        13,
+        8,
+        3
+      ],
+      "2023-03": [
+        6,
+        3,
+        10,
+        12,
+        3
+      ],
+      "2023-04": [
+        8,
+        5,
+        7,
+        7,
+        2
+      ],
+      "2023-05": [
+        16,
+        9,
+        22,
+        16,
+        6
+      ],
+      "2023-06": [
+        10,
+        10,
+        12,
+        17,
+        3
+      ],
+      "2023-07": [
+        16,
+        15,
+        15,
+        11,
+        4
+      ],
+      "2023-08": [
+        10,
+        3,
+        19,
+        16,
+        4
+      ],
+      "2023-09": [
+        46,
+        8,
+        36,
+        9,
+        7
+      ],
+      "2023-10": [
+        9,
+        6,
+        25,
+        13,
+        7
+      ],
+      "2023-11": [
+        11,
+        9,
+        24,
+        9,
+        7
+      ],
+      "2023-12": [
+        7,
+        9,
+        23,
+        9,
+        3
+      ],
+      "2024-01": [
+        20,
+        8,
+        18,
+        14,
+        7
+      ],
+      "2024-02": [
+        21,
+        8,
+        27,
+        12,
+        4
+      ],
+      "2024-03": [
+        44,
+        5,
+        22,
+        20,
+        5
+      ],
+      "2024-04": [
+        56,
+        17,
+        29,
+        9,
+        7
+      ],
+      "2024-05": [
+        55,
+        11,
+        25,
+        8,
+        3
+      ],
+      "2024-06": [
+        68,
+        6,
+        20,
+        8,
+        12
+      ],
+      "2024-07": [
+        59,
+        15,
+        29,
+        14,
+        4
+      ],
+      "2024-08": [
+        55,
+        11,
+        26,
+        5,
+        2
+      ],
+      "2024-09": [
+        70,
+        13,
+        25,
+        11,
+        4
+      ],
+      "2024-10": [
+        65,
+        12,
+        18,
+        19,
+        8
+      ],
+      "2024-11": [
+        65,
+        17,
+        24,
+        13,
+        5
+      ],
+      "2024-12": [
+        67,
+        11,
+        17,
+        4,
+        4
+      ],
+      "2025-01": [
+        67,
+        10,
+        22,
+        7,
+        2
+      ],
+      "2025-02": [
+        58,
+        14,
+        22,
+        7,
+        5
+      ],
+      "2025-03": [
+        85,
+        5,
+        23,
+        12,
+        5
+      ],
+      "2025-04": [
+        74,
+        12,
+        29,
+        5,
+        14
+      ],
+      "2025-05": [
+        90,
+        14,
+        29,
+        9,
+        8
+      ],
+      "2025-06": [
+        83,
+        16,
+        23,
+        9,
+        7
+      ],
+      "2025-07": [
+        95,
+        8,
+        29,
+        10,
+        7
+      ],
+      "2025-08": [
+        84,
+        13,
+        29,
+        5,
+        10
+      ],
+      "2025-09": [
+        43,
+        5,
+        9,
+        3,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "NetOrchLLM: Mastering Wireless Network Orchestration with Large Language Models",
+          "year": "2024-12",
+          "abstract": "The transition to 6G networks promises unprecedented advancements in wireless\ncommunication, with increased data rates, ultra-low latency, and enhanced\ncapacity. However, the complexity of managing and optimizing these\nnext-generation networks presents significant challenges. The advent of large\nlanguage models (LLMs) has revolutionized various domains by leveraging their\nsophisticated natural language understanding capabilities. However, the\npractical application of LLMs in wireless network orchestration and management\nremains largely unexplored. Existing literature predominantly offers visionary\nperspectives without concrete implementations, leaving a significant gap in the\nfield. To address this gap, this paper presents NETORCHLLM, a wireless NETwork\nORCHestrator LLM framework that uses LLMs to seamlessly orchestrate diverse\nwireless-specific models from wireless communication communities using their\nlanguage understanding and generation capabilities. A comprehensive framework\nis introduced, demonstrating the practical viability of our approach and\nshowcasing how LLMs can be effectively harnessed to optimize dense network\noperations, manage dynamic environments, and improve overall network\nperformance. NETORCHLLM bridges the theoretical aspirations of prior research\nwith practical, actionable solutions, paving the way for future advancements in\nintegrating generative AI technologies within the wireless communications\nsector.",
+          "arxiv_id": "2412.10107v1"
+        },
+        {
+          "title": "Energy, Scalability, Data and Security in Massive IoT: Current Landscape and Future Directions",
+          "year": "2025-05",
+          "abstract": "The Massive Internet of Things (MIoT) envisions an interconnected ecosystem\nof billions of devices, fundamentally transforming diverse sectors such as\nhealthcare, smart cities, transportation, agriculture, and energy management.\nHowever, the vast scale of MIoT introduces significant challenges, including\nnetwork scalability, efficient data management, energy conservation, and robust\nsecurity mechanisms. This paper presents a thorough review of existing and\nemerging MIoT technologies designed to address these challenges, including\nLow-Power Wide-Area Networks (LPWAN), 5G/6G capabilities, edge and fog\ncomputing architectures, and hybrid access methodologies. We further\ninvestigate advanced strategies such as AI-driven resource allocation,\nfederated learning for privacy-preserving analytics, and decentralized security\nframeworks using blockchain. Additionally, we analyze sustainable practices,\nemphasizing energy harvesting and integrating green technologies to reduce\nenvironmental impact. Through extensive comparative analysis, this study\nidentifies critical innovations and architectural adaptations required to\nsupport efficient, resilient, and scalable MIoT deployments. Key insights\ninclude the role of network slicing and intelligent resource management for\nscalability, adaptive protocols for real-time data handling, and lightweight AI\nmodels suited to the constraints of MIoT devices. This research ultimately\ncontributes to a deeper understanding of how MIoT systems can evolve to meet\nthe growing demand for seamless, reliable connectivity while prioritizing\nsustainability, security, and performance across diverse applications. Our\nfindings serve as a roadmap for future advancements, underscoring the potential\nof MIoT to support a globally interconnected, intelligent infrastructure.",
+          "arxiv_id": "2505.03036v1"
+        },
+        {
+          "title": "Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions",
+          "year": "2024-07",
+          "abstract": "Integrated satellite, aerial, and terrestrial networks (ISATNs) represent a\nsophisticated convergence of diverse communication technologies to ensure\nseamless connectivity across different altitudes and platforms. This paper\nexplores the transformative potential of integrating Large Language Models\n(LLMs) into ISATNs, leveraging advanced Artificial Intelligence (AI) and\nMachine Learning (ML) capabilities to enhance these networks. We outline the\ncurrent architecture of ISATNs and highlight the significant role LLMs can play\nin optimizing data flow, signal processing, and network management to advance\n5G/6G communication technologies through advanced predictive algorithms and\nreal-time decision-making. A comprehensive analysis of ISATN components is\nconducted, assessing how LLMs can effectively address traditional data\ntransmission and processing bottlenecks. The paper delves into the network\nmanagement challenges within ISATNs, emphasizing the necessity for\nsophisticated resource allocation strategies, traffic routing, and security\nmanagement to ensure seamless connectivity and optimal performance under\nvarying conditions. Furthermore, we examine the technical challenges and\nlimitations associated with integrating LLMs into ISATNs, such as data\nintegration for LLM processing, scalability issues, latency in decision-making\nprocesses, and the design of robust, fault-tolerant systems. The study also\nidentifies key future research directions for fully harnessing LLM capabilities\nin ISATNs, which is crucial for enhancing network reliability, optimizing\nperformance, and achieving a truly interconnected and intelligent global\nnetwork system.",
+          "arxiv_id": "2407.04581v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "In-Memory Resistive RAM Implementation of Binarized Neural Networks for Medical Applications",
+          "year": "2020-06",
+          "abstract": "The advent of deep learning has considerably accelerated machine learning\ndevelopment. The deployment of deep neural networks at the edge is however\nlimited by their high memory and energy consumption requirements. With new\nmemory technology available, emerging Binarized Neural Networks (BNNs) are\npromising to reduce the energy impact of the forthcoming machine learning\nhardware generation, enabling machine learning on the edge devices and avoiding\ndata transfer over the network. In this work, after presenting our\nimplementation employing a hybrid CMOS - hafnium oxide resistive memory\ntechnology, we suggest strategies to apply BNNs to biomedical signals such as\nelectrocardiography and electroencephalography, keeping accuracy level and\nreducing memory requirements. We investigate the memory-accuracy trade-off when\nbinarizing whole network and binarizing solely the classifier part. We also\ndiscuss how these results translate to the edge-oriented Mobilenet~V1 neural\nnetwork on the Imagenet task. The final goal of this research is to enable\nsmart autonomous healthcare devices.",
+          "arxiv_id": "2006.11595v1"
+        },
+        {
+          "title": "Counting Cards: Exploiting Variance and Data Distributions for Robust Compute In-Memory",
+          "year": "2020-06",
+          "abstract": "Compute in-memory (CIM) is a promising technique that minimizes data\ntransport, the primary performance bottleneck and energy cost of most data\nintensive applications. This has found wide-spread adoption in accelerating\nneural networks for machine learning applications. Utilizing a crossbar\narchitecture with emerging non-volatile memories (eNVM) such as dense resistive\nrandom access memory (RRAM) or phase change random access memory (PCRAM),\nvarious forms of neural networks can be implemented to greatly reduce power and\nincrease on chip memory capacity. However, compute in-memory faces its own\nlimitations at both the circuit and the device levels. In this work, we explore\nthe impact of device variation and peripheral circuit design constraints.\nFurthermore, we propose a new algorithm based on device variance and neural\nnetwork weight distributions to increase both performance and accuracy for\ncompute-in memory based designs. We demonstrate a 27% power improvement and 23%\nperformance improvement for low and high variance eNVM, while satisfying a\nprogrammable threshold for a target error tolerance, which depends on the\napplication.",
+          "arxiv_id": "2006.03117v2"
+        },
+        {
+          "title": "Hybrid In-memory Computing Architecture for the Training of Deep Neural Networks",
+          "year": "2021-02",
+          "abstract": "The cost involved in training deep neural networks (DNNs) on von-Neumann\narchitectures has motivated the development of novel solutions for efficient\nDNN training accelerators. We propose a hybrid in-memory computing (HIC)\narchitecture for the training of DNNs on hardware accelerators that results in\nmemory-efficient inference and outperforms baseline software accuracy in\nbenchmark tasks. We introduce a weight representation technique that exploits\nboth binary and multi-level phase-change memory (PCM) devices, and this leads\nto a memory-efficient inference accelerator. Unlike previous in-memory\ncomputing-based implementations, we use a low precision weight update\naccumulator that results in more memory savings. We trained the ResNet-32\nnetwork to classify CIFAR-10 images using HIC. For a comparable model size,\nHIC-based training outperforms baseline network, trained in floating-point\n32-bit (FP32) precision, by leveraging appropriate network width multiplier.\nFurthermore, we observe that HIC-based training results in about 50% less\ninference model size to achieve baseline comparable accuracy. We also show that\nthe temporal drift in PCM devices has a negligible effect on post-training\ninference accuracy for extended periods (year). Finally, our simulations\nindicate HIC-based training naturally ensures that the number of write-erase\ncycles seen by the devices is a small fraction of the endurance limit of PCM,\ndemonstrating the feasibility of this architecture for achieving hardware\nplatforms that can learn in the field.",
+          "arxiv_id": "2102.05271v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Accelerating Variational Quantum Algorithms Using Circuit Concurrency",
+          "year": "2021-09",
+          "abstract": "Variational quantum algorithms (VQAs) provide a promising approach to achieve\nquantum advantage in the noisy intermediate-scale quantum era. In this era,\nquantum computers experience high error rates and quantum error detection and\ncorrection is not feasible. VQAs can utilize noisy qubits in tandem with\nclassical optimization algorithms to solve hard problems. However, VQAs are\nstill slow relative to their classical counterparts. Hence, improving the\nperformance of VQAs will be necessary to make them competitive. While VQAs are\nexpected perform better as the problem sizes increase, increasing their\nperformance will make them a viable option sooner. In this work we show that\ncircuit-level concurrency provides a means to increase the performance of\nvariational quantum algorithms on noisy quantum computers. This involves\nmapping multiple instances of the same circuit (program) onto the quantum\ncomputer at the same time, which allows multiple samples in a variational\nquantum algorithm to be gathered in parallel for each training iteration. We\ndemonstrate that this technique provides a linear increase in training speed\nwhen increasing the number of concurrently running quantum circuits.\nFurthermore, even with pessimistic error rates concurrent quantum circuit\nsampling can speed up the quantum approximate optimization algorithm by up to\n20x with low mapping and run time overhead.",
+          "arxiv_id": "2109.01714v1"
+        },
+        {
+          "title": "A Novel Quantum Algorithm for Ant Colony Optimization",
+          "year": "2020-10",
+          "abstract": "Ant colony optimization (ACO) is a commonly used meta-heuristic to solve\ncomplex combinatorial optimization problems like traveling salesman problem\n(TSP), vehicle routing problem (VRP), etc. However, classical ACO algorithms\nprovide better optimal solutions but do not reduce computation time overhead to\na significant extent. Algorithmic speed-up can be achieved by using parallelism\noffered by quantum computing. Existing quantum algorithms to solve ACO are\neither quantum-inspired classical algorithms or hybrid quantum-classical\nalgorithms. Since all these algorithms need the intervention of classical\ncomputing, leveraging the true potential of quantum computing on real quantum\nhardware remains a challenge. This paper's main contribution is to propose a\nfully quantum algorithm to solve ACO, enhancing the quantum information\nprocessing toolbox in the fault-tolerant quantum computing (FTQC) era. We have\nSolved the Single Source Single Destination (SSSD) shortest-path problem using\nour proposed adaptive quantum circuit for representing dynamic pheromone\nupdating strategy in real IBMQ devices. Our quantum ACO technique can be\nfurther used as a quantum ORACLE to solve complex optimization problems in a\nfully quantum setup with significant speed up upon the availability of more\nqubits.",
+          "arxiv_id": "2010.07413v2"
+        },
+        {
+          "title": "QuBEC: Boosting Equivalence Checking for Quantum Circuits with QEC Embedding",
+          "year": "2023-09",
+          "abstract": "Quantum computing has proven to be capable of accelerating many algorithms by\nperforming tasks that classical computers cannot. Currently, Noisy Intermediate\nScale Quantum (NISQ) machines struggle from scalability and noise issues to\nrender a commercial quantum computer. However, the physical and software\nimprovements of a quantum computer can efficiently control quantum gate noise.\nAs the complexity of quantum algorithms and implementation increases, software\ncontrol of quantum circuits may lead to a more intricate design. Consequently,\nthe verification of quantum circuits becomes crucial in ensuring the\ncorrectness of the compilation, along with other processes, including quantum\nerror correction and assertions, that can increase the fidelity of quantum\ncircuits. In this paper, we propose a Decision Diagram-based quantum\nequivalence checking approach, QuBEC, that requires less latency compared to\nexisting techniques, while accounting for circuits with quantum error\ncorrection redundancy. Our proposed methodology reduces verification time on\ncertain benchmark circuits by up to $271.49 \\times$, while the number of\nDecision Diagram nodes required is reduced by up to $798.31 \\times$, compared\nto state-of-the-art strategies. The proposed QuBEC framework can contribute to\nthe advancement of quantum computing by enabling faster and more efficient\nverification of quantum circuits, paving the way for the development of larger\nand more complex quantum algorithms.",
+          "arxiv_id": "2309.10728v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "High speed and reconfigurable optronic neural network with digital nonlinear activation",
+          "year": "2021-03",
+          "abstract": "With its unique parallel processing capability, optical neural network has\nshown low-power consumption in image recognition and speech processing. At\npresent, the manufacturing technology of programmable photonic chip is not\nmature, and the realization of optical neural network in free-space is still a\nhot spot of intelligent optical computing. In this article, based on MNIST\ndatasets and 4f system, three-layer optical neural networks are constructed,\nwhose recognition accuracy can reach 93.66%. Our network is programmable, high\nspeed, reconfigurable and is better than the existing free-space optical neural\nnetwork in terms of spatial complexity.",
+          "arxiv_id": "2103.07862v2"
+        },
+        {
+          "title": "All-optical spiking neurosynaptic networks with self-learning capabilities",
+          "year": "2021-02",
+          "abstract": "Software-implementation, via neural networks, of brain-inspired computing\napproaches underlie many important modern-day computational tasks, from image\nprocessing to speech recognition, artificial intelligence and deep learning\napplications. Yet, differing from real neural tissue, traditional computing\narchitectures physically separate the core computing functions of memory and\nprocessing, making fast, efficient and low-energy brain-like computing\ndifficult to achieve. To overcome such limitations, an attractive and\nalternative goal is to design direct hardware mimics of brain neurons and\nsynapses which, when connected in appropriate networks (or neuromorphic\nsystems), process information in a way more fundamentally analogous to that of\nreal brains. Here we present an all-optical approach to achieving such a goal.\nSpecifically, we demonstrate an all-optical spiking neuron device and connect\nit, via an integrated photonics network, to photonic synapses to deliver a\nsmall-scale all-optical neurosynaptic system capable of supervised and\nunsupervised learning. Moreover, we exploit wavelength division multiplexing\ntechniques to implement a scalable circuit architecture for photonic neural\nnetworks, successfully demonstrating pattern recognition directly in the\noptical domain using a photonic system comprising 140 elements. Such optical\nimplementations of neurosynaptic networks promise access to the high speed and\nbandwidth inherent to optical systems, which would be very attractive for the\ndirect processing of telecommunication and visual data in the optical domain.",
+          "arxiv_id": "2102.09360v1"
+        },
+        {
+          "title": "Single-chip photonic deep neural network for instantaneous image classification",
+          "year": "2021-06",
+          "abstract": "Deep neural networks with applications from computer vision and image\nprocessing to medical diagnosis are commonly implemented using clock-based\nprocessors, where computation speed is limited by the clock frequency and the\nmemory access time. Advances in photonic integrated circuits have enabled\nresearch in photonic computation, where, despite excellent features such as\nfast linear computation, no integrated photonic deep network has been\ndemonstrated to date due to the lack of scalable nonlinear functionality and\nthe loss of photonic devices, making scalability to a large number of layers\nchallenging. Here we report the first integrated end-to-end photonic deep\nneural network (PDNN) that performs instantaneous image classification through\ndirect processing of optical waves. Images are formed on the input pixels and\noptical waves are coupled into nanophotonic waveguides and processed as the\nlight propagates through layers of neurons on-chip. Each neuron generates an\noptical output from input optical signals, where linear computation is\nperformed optically and the nonlinear activation function is realised\nopto-electronically. The output of a laser coupled into the chip is uniformly\ndistributed among all neurons within the network providing the same per-neuron\nsupply light. Thus, all neurons have the same optical output range enabling\nscalability to deep networks with large number of layers. The PDNN chip is used\nfor 2- and 4-class classification of handwritten letters achieving accuracies\nof higher than 93.7% and 90.3%, respectively, with a computation time less than\none clock cycle of state-of-the-art digital computation platforms. Direct\nclock-less processing of optical data eliminates photo-detection, A/D\nconversion, and the requirement for a large memory module, enabling\nsignificantly faster and more energy-efficient neural networks for the next\ngenerations of deep learning systems.",
+          "arxiv_id": "2106.11747v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Toward Practical Benchmarks of Ising Machines: A Case Study on the Quadratic Knapsack Problem",
+          "year": "2024-03",
+          "abstract": "Combinatorial optimization has wide applications from industry to natural\nscience. Ising machines bring an emerging computing paradigm for efficiently\nsolving a combinatorial optimization problem by searching a ground state of a\ngiven Ising model. Current cutting-edge Ising machines achieve fast sampling of\nnear-optimal solutions of the max-cut problem. However, for problems with\nadditional constraint conditions, their advantages have been hardly shown due\nto difficulties in handling the constraints. In this work, we focus on\nbenchmarks of Ising machines on the quadratic knapsack problem (QKP). To bring\nout their practical performance, we propose fast two-stage post-processing for\nIsing machines, which makes handling the constraint easier. Simulation based on\nsimulated annealing shows that the proposed method substantially improves the\nsolving performance of Ising machines and the improvement is robust to a choice\nof encoding of the constraint condition. Through evaluation using an Ising\nmachine called Amplify Annealing Engine, the proposed method is shown to\ndramatically improve its solving performance on the QKP. These results are a\ncrucial step toward showing advantages of Ising machines on practical problems\ninvolving various constraint conditions.",
+          "arxiv_id": "2403.19175v2"
+        },
+        {
+          "title": "HETRI: Heterogeneous Ising Multiprocessing",
+          "year": "2024-10",
+          "abstract": "Ising machines are effective solvers for complex combinatorial optimization\nproblems. The idea is mapping the optimal solution(s) to a combinatorial\noptimization problem to the minimum energy state(s) of a physical system, which\nnaturally converges to a minimum energy state upon perturbance. The underlying\nmathematical abstraction, the Ising model, can capture the dynamic behavior of\ndifferent physical systems by mapping each problem variable to a spin which can\ninteract with other spins. Ising model as a mathematical abstraction can be\nmapped to hardware using traditional devices. In this paper we instead focus on\nIsing machines which represent a network of physical spins directly implemented\nin hardware using, e.g., quantum bits or electronic oscillators. To eliminate\nthe scalability bottleneck due to the mismatch in problem vs. Ising machine\nsize and connectivity, in this paper we make the case for HETRI: Heterogeneous\nIsing Multiprocessing. HETRI organizes the maximum number of physical spins\nthat the underlying technology supports in Ising cores; and multiple\nindependent Ising cores, in Ising chips. Ising cores in a chip feature\ndifferent inter-spin connectivity or spin counts to match the problem\ncharacteristics. We provide a detailed design space exploration and quantify\nthe performance in terms of time or energy to solution and solution accuracy\nwith respect to homogeneous alternatives under the very same hardware budget\nand considering the very same spin technology.",
+          "arxiv_id": "2410.23517v2"
+        },
+        {
+          "title": "Efficient Optimization with Higher-Order Ising Machines",
+          "year": "2022-12",
+          "abstract": "A prominent approach to solving combinatorial optimization problems on\nparallel hardware is Ising machines, i.e., hardware implementations of networks\nof interacting binary spin variables. Most Ising machines leverage second-order\ninteractions although important classes of optimization problems, such as\nsatisfiability problems, map more seamlessly to Ising networks with\nhigher-order interactions. Here, we demonstrate that higher-order Ising\nmachines can solve satisfiability problems more resource-efficiently in terms\nof the number of spin variables and their connections when compared to\ntraditional second-order Ising machines. Further, our results show on a\nbenchmark dataset of Boolean \\textit{k}-satisfiability problems that\nhigher-order Ising machines implemented with coupled oscillators rapidly find\nsolutions that are better than second-order Ising machines, thus, improving the\ncurrent state-of-the-art for Ising machines.",
+          "arxiv_id": "2212.03426v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:55:23Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

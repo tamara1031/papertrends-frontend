@@ -1,0 +1,1472 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_oscillators_synchronization_Kuramoto_coupling",
+        "keywords": [
+          [
+            "oscillators",
+            0.03741379259274178
+          ],
+          [
+            "synchronization",
+            0.03444130449824094
+          ],
+          [
+            "Kuramoto",
+            0.02863595520688324
+          ],
+          [
+            "coupling",
+            0.026383770345276114
+          ],
+          [
+            "states",
+            0.025477826397653537
+          ],
+          [
+            "order",
+            0.024441558244466637
+          ],
+          [
+            "phase",
+            0.02317951517102735
+          ],
+          [
+            "chimera",
+            0.022507010339511784
+          ],
+          [
+            "networks",
+            0.02099856076344983
+          ],
+          [
+            "network",
+            0.01964299804584123
+          ]
+        ],
+        "count": 326
+      },
+      "1": {
+        "name": "1_self_model_active_collective",
+        "keywords": [
+          [
+            "self",
+            0.02062789906471124
+          ],
+          [
+            "model",
+            0.020072360797285447
+          ],
+          [
+            "active",
+            0.01930997618305197
+          ],
+          [
+            "collective",
+            0.019294260420001645
+          ],
+          [
+            "motion",
+            0.016319587625750073
+          ],
+          [
+            "particles",
+            0.01607000914672158
+          ],
+          [
+            "dynamics",
+            0.01587054182908527
+          ],
+          [
+            "systems",
+            0.015617905006039082
+          ],
+          [
+            "cell",
+            0.014668823955702208
+          ],
+          [
+            "behavior",
+            0.013886414078414067
+          ]
+        ],
+        "count": 292
+      },
+      "2": {
+        "name": "2_brain_neurons_dynamics_neural",
+        "keywords": [
+          [
+            "brain",
+            0.025228583903475876
+          ],
+          [
+            "neurons",
+            0.023131718497666303
+          ],
+          [
+            "dynamics",
+            0.019572923983913918
+          ],
+          [
+            "neural",
+            0.017419111381749137
+          ],
+          [
+            "phase",
+            0.017380509346975857
+          ],
+          [
+            "networks",
+            0.016621325036299414
+          ],
+          [
+            "network",
+            0.01625172212444525
+          ],
+          [
+            "model",
+            0.014500047645616302
+          ],
+          [
+            "oscillations",
+            0.014071230832966922
+          ],
+          [
+            "time",
+            0.013049479933994981
+          ]
+        ],
+        "count": 262
+      },
+      "3": {
+        "name": "3_cooperation_game_species_population",
+        "keywords": [
+          [
+            "cooperation",
+            0.04345518033630102
+          ],
+          [
+            "game",
+            0.03811197080122893
+          ],
+          [
+            "species",
+            0.028239364357175282
+          ],
+          [
+            "population",
+            0.024390721774369066
+          ],
+          [
+            "individuals",
+            0.024245717556175054
+          ],
+          [
+            "strategy",
+            0.023958711891261236
+          ],
+          [
+            "social",
+            0.02047359202709785
+          ],
+          [
+            "evolutionary",
+            0.020071505982660255
+          ],
+          [
+            "spatial",
+            0.018663734341113198
+          ],
+          [
+            "games",
+            0.018379377712603697
+          ]
+        ],
+        "count": 177
+      },
+      "4": {
+        "name": "4_networks_power_network_grid",
+        "keywords": [
+          [
+            "networks",
+            0.03957370081694982
+          ],
+          [
+            "power",
+            0.036489114215878624
+          ],
+          [
+            "network",
+            0.03524383759076888
+          ],
+          [
+            "grid",
+            0.02508553907254481
+          ],
+          [
+            "systems",
+            0.02123739862144181
+          ],
+          [
+            "nodes",
+            0.01764791825788122
+          ],
+          [
+            "complex",
+            0.01760557452617025
+          ],
+          [
+            "grids",
+            0.016602090554054538
+          ],
+          [
+            "power grid",
+            0.01593267207542785
+          ],
+          [
+            "dynamics",
+            0.0151952909787067
+          ]
+        ],
+        "count": 167
+      },
+      "5": {
+        "name": "5_systems_information_energy_life",
+        "keywords": [
+          [
+            "systems",
+            0.029281614747626306
+          ],
+          [
+            "information",
+            0.024356758455700078
+          ],
+          [
+            "energy",
+            0.015153879380376045
+          ],
+          [
+            "life",
+            0.014840640888160943
+          ],
+          [
+            "model",
+            0.014095619712518668
+          ],
+          [
+            "complex",
+            0.01395622185693717
+          ],
+          [
+            "chemical",
+            0.013719602137500085
+          ],
+          [
+            "dynamics",
+            0.012163807882958278
+          ],
+          [
+            "emergence",
+            0.012000963864106824
+          ],
+          [
+            "self",
+            0.011810944984823825
+          ]
+        ],
+        "count": 157
+      },
+      "6": {
+        "name": "6_reservoir_computing_systems_data",
+        "keywords": [
+          [
+            "reservoir",
+            0.03465588516890632
+          ],
+          [
+            "computing",
+            0.025816071570157105
+          ],
+          [
+            "systems",
+            0.02497813358591374
+          ],
+          [
+            "data",
+            0.02483697904469489
+          ],
+          [
+            "learning",
+            0.024168732843737845
+          ],
+          [
+            "time",
+            0.021940181939386964
+          ],
+          [
+            "dynamics",
+            0.021513359145353333
+          ],
+          [
+            "dynamical",
+            0.01871095803176864
+          ],
+          [
+            "neural",
+            0.0175731256416322
+          ],
+          [
+            "machine",
+            0.017270578140795734
+          ]
+        ],
+        "count": 113
+      },
+      "7": {
+        "name": "7_epidemic_model_disease_COVID",
+        "keywords": [
+          [
+            "epidemic",
+            0.054059508967242216
+          ],
+          [
+            "model",
+            0.034939296874135946
+          ],
+          [
+            "disease",
+            0.03421593534849095
+          ],
+          [
+            "COVID",
+            0.031950174273468586
+          ],
+          [
+            "infection",
+            0.031643051951814966
+          ],
+          [
+            "infected",
+            0.027315667402614097
+          ],
+          [
+            "pandemic",
+            0.023907849929785757
+          ],
+          [
+            "social",
+            0.02349997387855792
+          ],
+          [
+            "dynamics",
+            0.02169111872065141
+          ],
+          [
+            "transmission",
+            0.021385944561722225
+          ]
+        ],
+        "count": 83
+      },
+      "8": {
+        "name": "8_opinion_opinions_model_opinion dynamics",
+        "keywords": [
+          [
+            "opinion",
+            0.09290365756430917
+          ],
+          [
+            "opinions",
+            0.0506688542637719
+          ],
+          [
+            "model",
+            0.04058565748661522
+          ],
+          [
+            "opinion dynamics",
+            0.03596961318496731
+          ],
+          [
+            "social",
+            0.035070554146355286
+          ],
+          [
+            "dynamics",
+            0.03452460956040054
+          ],
+          [
+            "consensus",
+            0.030747340998583964
+          ],
+          [
+            "agents",
+            0.02660112754994094
+          ],
+          [
+            "polarization",
+            0.025600463736806738
+          ],
+          [
+            "network",
+            0.020175122835185466
+          ]
+        ],
+        "count": 77
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5713569168946047,
+        -0.5744790235974475,
+        -0.7207110583097615,
+        -0.5922100815487935,
+        -0.629273189779384,
+        -0.6424080488403086,
+        -0.7036130013700268,
+        -0.626820868341027
+      ],
+      [
+        -0.5713569168946047,
+        1.0,
+        -0.5475232268073611,
+        -0.6431016221563188,
+        -0.6285786445308577,
+        -0.6021253510065271,
+        -0.6159722304020347,
+        -0.5065581137702835,
+        -0.4518968978296146
+      ],
+      [
+        -0.5744790235974475,
+        -0.5475232268073611,
+        1.0,
+        -0.7026924681008988,
+        -0.6044219543413645,
+        -0.641242562038101,
+        -0.5965192415882842,
+        -0.6905938543846216,
+        -0.3119369922173828
+      ],
+      [
+        -0.7207110583097615,
+        -0.6431016221563188,
+        -0.7026924681008988,
+        1.0,
+        -0.7202315802564143,
+        -0.7157569185498278,
+        -0.7263322169680475,
+        -0.6892760226546075,
+        -0.669149719775942
+      ],
+      [
+        -0.5922100815487935,
+        -0.6285786445308577,
+        -0.6044219543413645,
+        -0.7202315802564143,
+        1.0,
+        -0.5422457676384416,
+        -0.5986675347316628,
+        -0.6793892557408845,
+        -0.6522638089137789
+      ],
+      [
+        -0.629273189779384,
+        -0.6021253510065271,
+        -0.641242562038101,
+        -0.7157569185498278,
+        -0.5422457676384416,
+        1.0,
+        -0.35744422677889415,
+        -0.7129566261112252,
+        -0.6678786887168495
+      ],
+      [
+        -0.6424080488403086,
+        -0.6159722304020347,
+        -0.5965192415882842,
+        -0.7263322169680475,
+        -0.5986675347316628,
+        -0.35744422677889415,
+        1.0,
+        -0.7083685843727661,
+        -0.6655738277170532
+      ],
+      [
+        -0.7036130013700268,
+        -0.5065581137702835,
+        -0.6905938543846216,
+        -0.6892760226546075,
+        -0.6793892557408845,
+        -0.7129566261112252,
+        -0.7083685843727661,
+        1.0,
+        -0.34342041880141905
+      ],
+      [
+        -0.626820868341027,
+        -0.4518968978296146,
+        -0.3119369922173828,
+        -0.669149719775942,
+        -0.6522638089137789,
+        -0.6678786887168495,
+        -0.6655738277170532,
+        -0.34342041880141905,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        10,
+        8,
+        2,
+        1,
+        6,
+        0,
+        4,
+        0,
+        2
+      ],
+      "2020-02": [
+        14,
+        7,
+        2,
+        4,
+        4,
+        2,
+        6,
+        0,
+        3
+      ],
+      "2020-03": [
+        16,
+        8,
+        2,
+        1,
+        7,
+        2,
+        5,
+        6,
+        4
+      ],
+      "2020-04": [
+        12,
+        1,
+        3,
+        3,
+        7,
+        5,
+        4,
+        5,
+        6
+      ],
+      "2020-05": [
+        12,
+        6,
+        2,
+        2,
+        7,
+        1,
+        3,
+        3,
+        4
+      ],
+      "2020-06": [
+        14,
+        9,
+        3,
+        4,
+        9,
+        0,
+        8,
+        1,
+        4
+      ],
+      "2020-07": [
+        19,
+        8,
+        1,
+        2,
+        11,
+        1,
+        2,
+        1,
+        6
+      ],
+      "2020-08": [
+        12,
+        3,
+        3,
+        2,
+        7,
+        4,
+        2,
+        1,
+        10
+      ],
+      "2020-09": [
+        21,
+        6,
+        4,
+        2,
+        8,
+        3,
+        6,
+        5,
+        8
+      ],
+      "2020-10": [
+        16,
+        6,
+        1,
+        4,
+        3,
+        3,
+        1,
+        3,
+        5
+      ],
+      "2020-11": [
+        12,
+        6,
+        2,
+        0,
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "2020-12": [
+        14,
+        4,
+        3,
+        2,
+        4,
+        2,
+        3,
+        4,
+        1
+      ],
+      "2021-01": [
+        12,
+        5,
+        1,
+        5,
+        4,
+        0,
+        2,
+        3,
+        2
+      ],
+      "2021-02": [
+        13,
+        5,
+        2,
+        3,
+        5,
+        3,
+        3,
+        3,
+        6
+      ],
+      "2021-03": [
+        14,
+        2,
+        3,
+        1,
+        11,
+        2,
+        3,
+        3,
+        2
+      ],
+      "2021-04": [
+        14,
+        5,
+        2,
+        2,
+        11,
+        1,
+        1,
+        3,
+        2
+      ],
+      "2021-05": [
+        22,
+        3,
+        0,
+        2,
+        7,
+        1,
+        1,
+        0,
+        7
+      ],
+      "2021-06": [
+        8,
+        4,
+        2,
+        0,
+        7,
+        2,
+        1,
+        2,
+        4
+      ],
+      "2021-07": [
+        11,
+        3,
+        0,
+        1,
+        6,
+        0,
+        3,
+        1,
+        3
+      ],
+      "2021-08": [
+        20,
+        3,
+        0,
+        1,
+        6,
+        1,
+        2,
+        1,
+        3
+      ],
+      "2021-09": [
+        7,
+        4,
+        2,
+        2,
+        5,
+        0,
+        3,
+        3,
+        2
+      ],
+      "2021-10": [
+        17,
+        3,
+        0,
+        1,
+        4,
+        1,
+        2,
+        3,
+        3
+      ],
+      "2021-11": [
+        11,
+        2,
+        2,
+        3,
+        10,
+        2,
+        1,
+        1,
+        1
+      ],
+      "2021-12": [
+        10,
+        5,
+        1,
+        1,
+        8,
+        1,
+        0,
+        2,
+        7
+      ],
+      "2022-01": [
+        15,
+        9,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        3
+      ],
+      "2022-02": [
+        6,
+        5,
+        0,
+        4,
+        6,
+        2,
+        1,
+        0,
+        0
+      ],
+      "2022-03": [
+        22,
+        5,
+        0,
+        3,
+        9,
+        1,
+        5,
+        1,
+        3
+      ],
+      "2022-04": [
+        13,
+        5,
+        1,
+        1,
+        4,
+        2,
+        5,
+        1,
+        1
+      ],
+      "2022-05": [
+        14,
+        7,
+        3,
+        4,
+        5,
+        3,
+        0,
+        0,
+        2
+      ],
+      "2022-06": [
+        16,
+        7,
+        2,
+        4,
+        7,
+        3,
+        3,
+        1,
+        6
+      ],
+      "2022-07": [
+        9,
+        5,
+        1,
+        1,
+        4,
+        0,
+        1,
+        0,
+        1
+      ],
+      "2022-08": [
+        10,
+        8,
+        1,
+        3,
+        4,
+        0,
+        2,
+        3,
+        5
+      ],
+      "2022-09": [
+        8,
+        4,
+        2,
+        5,
+        2,
+        2,
+        3,
+        0,
+        2
+      ],
+      "2022-10": [
+        10,
+        3,
+        0,
+        4,
+        4,
+        2,
+        6,
+        2,
+        4
+      ],
+      "2022-11": [
+        9,
+        1,
+        1,
+        3,
+        6,
+        5,
+        2,
+        1,
+        3
+      ],
+      "2022-12": [
+        12,
+        4,
+        3,
+        0,
+        2,
+        0,
+        0,
+        0,
+        6
+      ],
+      "2023-01": [
+        8,
+        5,
+        1,
+        6,
+        3,
+        0,
+        2,
+        0,
+        1
+      ],
+      "2023-02": [
+        13,
+        4,
+        2,
+        5,
+        2,
+        2,
+        5,
+        0,
+        3
+      ],
+      "2023-03": [
+        11,
+        6,
+        2,
+        3,
+        6,
+        3,
+        0,
+        0,
+        4
+      ],
+      "2023-04": [
+        5,
+        4,
+        3,
+        1,
+        6,
+        3,
+        0,
+        2,
+        6
+      ],
+      "2023-05": [
+        17,
+        5,
+        3,
+        6,
+        3,
+        2,
+        2,
+        1,
+        5
+      ],
+      "2023-06": [
+        17,
+        5,
+        2,
+        4,
+        3,
+        2,
+        4,
+        0,
+        5
+      ],
+      "2023-07": [
+        16,
+        5,
+        1,
+        2,
+        6,
+        3,
+        1,
+        4,
+        2
+      ],
+      "2023-08": [
+        7,
+        8,
+        1,
+        3,
+        2,
+        2,
+        1,
+        2,
+        6
+      ],
+      "2023-09": [
+        19,
+        2,
+        1,
+        4,
+        1,
+        2,
+        7,
+        1,
+        4
+      ],
+      "2023-10": [
+        18,
+        1,
+        2,
+        2,
+        6,
+        2,
+        1,
+        1,
+        7
+      ],
+      "2023-11": [
+        13,
+        6,
+        1,
+        3,
+        4,
+        2,
+        0,
+        0,
+        6
+      ],
+      "2023-12": [
+        11,
+        8,
+        2,
+        1,
+        6,
+        3,
+        8,
+        1,
+        4
+      ],
+      "2024-01": [
+        12,
+        5,
+        1,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1
+      ],
+      "2024-02": [
+        12,
+        5,
+        1,
+        1,
+        2,
+        1,
+        3,
+        0,
+        5
+      ],
+      "2024-03": [
+        10,
+        7,
+        0,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4
+      ],
+      "2024-04": [
+        21,
+        5,
+        0,
+        0,
+        3,
+        3,
+        2,
+        1,
+        0
+      ],
+      "2024-05": [
+        17,
+        4,
+        1,
+        5,
+        6,
+        0,
+        6,
+        0,
+        4
+      ],
+      "2024-06": [
+        11,
+        1,
+        1,
+        4,
+        4,
+        2,
+        1,
+        1,
+        3
+      ],
+      "2024-07": [
+        20,
+        4,
+        1,
+        6,
+        9,
+        5,
+        2,
+        3,
+        3
+      ],
+      "2024-08": [
+        7,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        1,
+        3
+      ],
+      "2024-09": [
+        14,
+        4,
+        2,
+        1,
+        4,
+        4,
+        0,
+        0,
+        3
+      ],
+      "2024-10": [
+        14,
+        6,
+        1,
+        5,
+        3,
+        2,
+        0,
+        2,
+        4
+      ],
+      "2024-11": [
+        10,
+        3,
+        2,
+        0,
+        7,
+        2,
+        0,
+        0,
+        6
+      ],
+      "2024-12": [
+        11,
+        4,
+        2,
+        3,
+        5,
+        2,
+        3,
+        1,
+        4
+      ],
+      "2025-01": [
+        12,
+        0,
+        1,
+        0,
+        2,
+        2,
+        4,
+        1,
+        4
+      ],
+      "2025-02": [
+        14,
+        5,
+        2,
+        4,
+        3,
+        0,
+        1,
+        1,
+        3
+      ],
+      "2025-03": [
+        9,
+        4,
+        2,
+        3,
+        3,
+        5,
+        5,
+        0,
+        5
+      ],
+      "2025-04": [
+        21,
+        11,
+        3,
+        3,
+        2,
+        6,
+        3,
+        2,
+        3
+      ],
+      "2025-05": [
+        12,
+        5,
+        3,
+        4,
+        7,
+        4,
+        3,
+        1,
+        2
+      ],
+      "2025-06": [
+        17,
+        8,
+        0,
+        4,
+        8,
+        2,
+        7,
+        1,
+        0
+      ],
+      "2025-07": [
+        21,
+        9,
+        2,
+        1,
+        4,
+        2,
+        3,
+        1,
+        8
+      ],
+      "2025-08": [
+        12,
+        9,
+        1,
+        5,
+        0,
+        2,
+        6,
+        2,
+        3
+      ],
+      "2025-09": [
+        11,
+        1,
+        0,
+        2,
+        0,
+        3,
+        3,
+        1,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Multistability in coupled oscillator systems with higher-order interactions and community structure",
+          "year": "2022-06",
+          "abstract": "We study synchronization dynamics in populations of coupled phase oscillators\nwith higher-order interactions and community structure. We find that the\ncombination of these two properties gives rise to a number of states\nunsupported by either higher-order interactions or community structure alone,\nincluding synchronized states with communities organized into clusters\nin-phase, anti-phase, and a novel skew-phase, as well as an\nincoherent-synchronized state. Moreover, the system displays a strong\nmultistability, with many of these states stable at the same time. We\ndemonstrate our findings by deriving the low dimensional dynamics of the system\nand examining the system's bifurcations using a stability analysis and\nperturbation theory.",
+          "arxiv_id": "2207.00070v2"
+        },
+        {
+          "title": "Phase chimera states on non-local hyperrings",
+          "year": "2023-10",
+          "abstract": "Chimera states are dynamical states where regions of synchronous trajectories\ncoexist with incoherent ones. A significant amount of research has been devoted\nto study chimera states in systems of identical oscillators, non-locally\ncoupled through pairwise interactions. Nevertheless, there is an increasing\nevidence, also supported by available data, that complex systems are composed\nby multiple units experiencing many-body interactions, that can be modeled by\nusing higher-order structures beyond the paradigm of classic pairwise networks.\nIn this work we investigate whether phase chimera states appear in this\nframework, by focusing on a novel topology solely involving many-body,\nnon-local and non-regular interactions, hereby named non-local d-hyperring,\nbeing (d+1) the order of the interactions. We present the theory by using the\nparadigmatic Stuart-Landau oscillators as node dynamics, and show that phase\nchimera states emerge in a variety of structures and with different coupling\nfunctions. For comparison, we show that, when higher-order interactions are\n\"flattened\" to pairwise ones, the chimera behavior is weaker and more elusive.",
+          "arxiv_id": "2310.15540v2"
+        },
+        {
+          "title": "Higher order interactions in Kuramoto oscillators with inertia",
+          "year": "2023-03",
+          "abstract": "How higher-order interactions influence the dynamics of second order phase\noscillators? We address this question using three coupled Kuramoto phase\noscillators with inertia under both pairwise and higher order interactions,\nfinding collective states, which are absent for pair-wise interactions. Chimera\nstates appear in an expanded parameter region of the 3-node network by\ncomparison to the network's response in the absence of the higher-order\ninteractions. %That attempt enables us to understand the emergence of chimera\nstates. This small network of three nodes is investigated for different sets of\nphase lags and over a range of negative to positive coupling strength of\npairwise as well as higher order or group interactions. It demonstrates how\nimportant are the choices of the phase lag and the sign of the coupling for the\nemergent dynamics of the system.",
+          "arxiv_id": "2303.08885v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Micellization in active matter of asymmetric self-propelled particles: Experiments",
+          "year": "2023-05",
+          "abstract": "Active matter composed of self-propelled particles features fascinating\nself-organization phenomena, spanning from motility-induced phase separation to\nphototaxis to topological excitations depending on the nature and parameters of\nthe system. In the present paper, we consider micelle formation by active\nparticles with a broken symmetry having a circular back and a sharpened nose\ntoward which the particles accelerate. As we demonstrate in experiments with\nrobotic swarms, such particles can either remain in the isotropic phase or form\nmicelles depending on the location of their center of inertia, in accordance\nwith a recent theoretical proposal [T. Kruglov and A. Borisov, Presentations\nand Videos to 7th Edition of the International Conference on Particle-based\nMethods (2021), Vol. CT07, p. 2]. Such a behavior is observed for both\nnonchiral particles moving linearly and placed in a parabolic potential and for\nchiral particles moving along circular trajectories on a flat surface. By\nperforming experiments with single robots and two-robot collisions, we unveil\nthat the observed emergence of micellization associated with shifting robots'\ncenter of inertia towards their noses is governed by at least two-particle\neffects, in particular, by a difference in the formation of stable two-robot\nclusters. Finally, we consider the dependence of micelle lifetime and formation\nprobability as well as two-robot collisions on friction between the lateral\nsurfaces of the robots. Crucially, the predicted micellization does not involve\nany solvation shells that give rise to the micellization of surfactants but is\ninstead driven by an interplay of activity and particle shape asymmetry.",
+          "arxiv_id": "2305.16659v3"
+        },
+        {
+          "title": "Emergent intelligence of buckling-driven elasto-active structures",
+          "year": "2024-04",
+          "abstract": "Active systems of self-propelled agents, e.g., birds, fish, and bacteria, can\norganize their collective motion into myriad autonomous behaviors. Ubiquitous\nin nature and across length scales, such phenomena are also amenable to\nartificial settings, e.g., where brainless self-propelled robots orchestrate\ntheir movements into spatio-temportal patterns via the application of external\ncues or when confined within flexible boundaries. Very much like their natural\ncounterparts, these approaches typically require many units to initiate\ncollective motion such that controlling the ensuing dynamics is challenging.\nHere, we demonstrate a novel yet simple mechanism that leverages nonlinear\nelasticity to tame near-diffusive motile particles in forming structures\ncapable of directed motion and other emergent intelligent behaviors. Our\nelasto-active system comprises two centimeter-sized self-propelled microbots\nconnected with elastic beams. These microbots exert forces that suffice to\nbuckle the beam and set the structure in motion. We first rationalize the\nphysics of the interaction between the beam and the microbots. Then we use\nreduced order models to predict the interactions of our elasto-active structure\nwith boundaries, e.g., walls and constrictions, and demonstrate how they can\nexhibit intelligent behaviors such as maze navigation. The findings are\nrelevant to designing intelligent materials or soft robots capable of\nautonomous space exploration, adaptation, and interaction with the surrounding\nenvironment.",
+          "arxiv_id": "2404.10614v1"
+        },
+        {
+          "title": "Collective behavior from surprise minimization",
+          "year": "2023-07",
+          "abstract": "Collective motion is ubiquitous in nature; groups of animals, such as fish,\nbirds, and ungulates appear to move as a whole, exhibiting a rich behavioral\nrepertoire that ranges from directed movement to milling to disordered\nswarming. Typically, such macroscopic patterns arise from decentralized, local\ninteractions among constituent components (e.g., individual fish in a school).\nPreeminent models of this process describe individuals as self-propelled\nparticles, subject to self-generated motion and 'social forces' such as\nshort-range repulsion and long-range attraction or alignment. However,\norganisms are not particles; they are probabilistic decision-makers. Here, we\nintroduce an approach to modelling collective behavior based on active\ninference. This cognitive framework casts behavior as the consequence of a\nsingle imperative: to minimize surprise. We demonstrate that many\nempirically-observed collective phenomena, including cohesion, milling and\ndirected motion, emerge naturally when considering behavior as driven by active\nBayesian inference -- without explicitly building behavioral rules or goals\ninto individual agents. Furthermore, we show that active inference can recover\nand generalize the classical notion of social forces as agents attempt to\nsuppress prediction errors that conflict with their expectations. By exploring\nthe parameter space of the belief-based model, we reveal non-trivial\nrelationships between the individual beliefs and group properties like\npolarization and the tendency to visit different collective states. We also\nexplore how individual beliefs about uncertainty determine collective\ndecision-making accuracy. Finally, we show how agents can update their\ngenerative model over time, resulting in groups that are collectively more\nsensitive to external fluctuations and encode information more robustly.",
+          "arxiv_id": "2307.14804v4"
+        }
+      ],
+      "2": [
+        {
+          "title": "Pulse shape and voltage-dependent synchronization in spiking neuron networks",
+          "year": "2023-04",
+          "abstract": "Pulse-coupled spiking neural networks are a powerful tool to gain mechanistic\ninsights into how neurons self-organize to produce coherent collective\nbehavior. These networks use simple spiking neuron models, such as the\n$\\theta$-neuron or the quadratic integrate-and-fire (QIF) neuron, that\nreplicate the essential features of real neural dynamics. Interactions between\nneurons are modeled with infinitely narrow pulses, or spikes, rather than the\nmore complex dynamics of real synapses. To make these networks biologically\nmore plausible, it has been proposed that they must also account for the finite\nwidth of the pulses, which can have a significant impact on the network\ndynamics. However, the derivation and interpretation of these pulses is\ncontradictory and the impact of the pulse shape on the network dynamics is\nlargely unexplored. Here, I take a comprehensive approach to pulse-coupling in\nnetworks of QIF and $\\theta$-neurons. I argue that narrow pulses activate\nvoltage-dependent synaptic conductances and show how to implement them in QIF\nneurons such that their effect can last through the phase after the spike.\nUsing an exact low-dimensional description for networks of globally coupled\nspiking neurons, I prove for instantaneous interactions that collective\noscillations emerge due to an effective coupling through the mean voltage. I\nanalyze the impact of the pulse shape by means of a family of smooth pulse\nfunctions with arbitrary finite width and symmetric or asymmetric shapes. For\nsymmetric pulses, the resulting voltage-coupling is not very effective in\nsynchronizing neurons, but pulses that are slightly skewed to the phase after\nthe spike readily generate collective oscillations. The results unveil a\nvoltage-dependent spike synchronization mechanism in neural networks, which is\nfacilitated by pulses of finite width and complementary to traditional synaptic\ntransmission.",
+          "arxiv_id": "2304.09813v2"
+        },
+        {
+          "title": "Emergence of mixed mode oscillations in random networks of diverse excitable neurons: the role of neighbors and electrical coupling",
+          "year": "2020-05",
+          "abstract": "In this paper, we focus on the emergence of diverse neuronal oscillations\narising in a mixed population of neurons with different excitability\nproperties. These properties produce mixed mode oscillations (MMOs)\ncharacterized by the combination of large amplitudes and alternate subthreshold\nor small amplitude oscillations. Considering the biophysically plausible,\nIzhikevich neuron model, we demonstrate that various MMOs, including MMBOs\n(mixed mode bursting oscillations) and synchronized tonic spiking appear in a\nrandomly connected network of neurons, where a fraction of them is in a\nquiescent (silent) state and the rest in self-oscillatory (firing) states. We\nshow that MMOs and other patterns of neural activity depend on the number of\noscillatory neighbors of quiescent nodes and on electrical coupling strengths.\nOur results are verified by constructing a reduced-order network model and\nsupported by systematic bifurcation diagrams as well as for a small-world\nnetwork. Our results suggest that, for weak couplings, MMOs appear due to the\nde-synchronization of a large number of quiescent neurons in the networks. The\nquiescent neurons together with the firing neurons produce high frequency\noscillations and bursting activity. The overarching goal is to uncover a\nfavorable network architecture and suitable parameter spaces where Izhikevich\nmodel neurons generate diverse responses ranging from MMOs to tonic spiking.",
+          "arxiv_id": "2005.02466v1"
+        },
+        {
+          "title": "Population spiking and bursting in next generation neural masses with spike-frequency adaptation",
+          "year": "2022-10",
+          "abstract": "Spike-frequency adaptation (SFA) is a fundamental neuronal mechanism taking\ninto account the fatigue due to spike emissions and the consequent reduction of\nthe firing activity. We have studied the effect of this adaptation mechanism on\nthe macroscopic dynamics of excitatory and inhibitory networks of quadratic\nintegrate-and-fire (QIF) neurons coupled via exponentially decaying\npost-synaptic potentials. In particular, we have studied the population\nactivities by employing an exact mean field reduction, which gives rise to next\ngeneration neural mass models. This low-dimensional reduction allows for the\nderivation of bifurcation diagrams and the identification of the possible\nmacroscopic regimes emerging both in a single and in two identically coupled\nneural masses. In single populations SFA favours the emergence of population\nbursts in excitatory networks, while it hinders tonic population spiking for\ninhibitory ones. The symmetric coupling of two neural masses, in absence of\nadaptation, leads to the emergence of macroscopic solutions with broken\nsymmetry: namely, chimera-like solutions in the inhibitory case and anti-phase\npopulation spikes in the excitatory one. The addition of SFA leads to new\ncollective dynamical regimes exhibiting cross-frequency coupling (CFC) among\nthe fast synaptic time scale and the slow adaptation one, ranging from\nanti-phase slow-fast nested oscillations to symmetric and asymmetric bursting\nphenomena. The analysis of these CFC rhythms in the $\\theta$-$\\gamma$ range has\nrevealed that a reduction of SFA leads to an increase of the $\\theta$ frequency\njoined to a decrease of the $\\gamma$ one. This is analogous to what reported\nexperimentally for the hippocampus and the olfactory cortex of rodents under\ncholinergic modulation, that is known to reduce SFA.",
+          "arxiv_id": "2210.04673v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Cooperation in Public Goods Games: Leveraging Other-Regarding Reinforcement Learning on Hypergraphs",
+          "year": "2024-10",
+          "abstract": "Cooperation as a self-organized collective behavior plays a significant role\nin the evolution of ecosystems and human society. Reinforcement learning (RL)\noffers a new perspective, distinct from imitation learning in evolutionary\ngames, for exploring the mechanisms underlying its emergence. However, most\nexisting studies with the public good game (PGG) employ a self-regarding setup\nor are on pairwise interaction networks. Players in the real world, however,\noptimize their policies based not only on their histories but also on the\nhistories of their co-players, and the game is played in a group manner. In the\nwork, we investigate the evolution of cooperation in the PGG under the\nother-regarding reinforcement learning evolutionary game (OR-RLEG) on\nhypergraph by combining the Q-learning algorithm and evolutionary game\nframework, where other players' action history is incorporated and the game is\nplayed on hypergraphs. Our results show that as the synergy factor increases,\nthe parameter interval is divided into three distinct regions, the absence of\ncooperation (AC), medium cooperation (MC), and high cooperation (HC),\naccompanied by two abrupt transitions in the cooperation level near two\ntransition points, respectively. Interestingly, we identify regular and\nanti-coordinated chessboard structures in the spatial pattern that positively\ncontribute to the first cooperation transition but adversely affect the second.\nFurthermore, we provide a theoretical treatment for the first transition with\nan approximated first transition point and reveal that players with a\nlong-sighted perspective and low exploration rate are more likely to\nreciprocate kindness with each other, thus facilitating the emergence of\ncooperation. Our findings contribute to understanding the evolution of human\ncooperation, where other-regarding information and group interactions are\ncommonplace.",
+          "arxiv_id": "2410.10921v1"
+        },
+        {
+          "title": "Adaptive movement strategy in rock-paper-scissors models",
+          "year": "2022-03",
+          "abstract": "Organisms may respond to local stimuli that benefit or threaten their\nfitness. The adaptive movement behaviour may allow individuals to adjust their\nspeed to maximise the chances of being in comfort zones, where death risk is\nminimal. We investigate spatial cyclic models where the rock-paper-scissors\ngame rules describe the nonhierarchical dominance. We assume that organisms of\none out of the species can control the mobility rate in response to the\ninformation obtained from scanning the environment. Running a series of\nstochastic simulations, we quantify the effects of the movement strategy on the\nspatial patterns and population dynamics. Our findings show that the ability to\nchange mobility to adapt to environmental clues is not reflected in an\nadvantage in cyclic spatial games. The adaptive movement provokes a delay in\nthe spatial domains occupied by the species in the spiral waves, making the\ngroup more vulnerable to the advance of the dominant species and less efficient\nin taking territory from the dominated species. Our outcomes also show that the\neffects of adaptive movement behaviour accentuate whether most individuals have\na long-range neighbourhood perception. Our results may be helpful for\nbiologists and data scientists to comprehend the dynamics of ecosystems where\nadaptive processes are fundamental.",
+          "arxiv_id": "2203.06531v2"
+        },
+        {
+          "title": "How multiple weak species jeopardise biodiversity in spatial rock-paper-scissors models",
+          "year": "2023-01",
+          "abstract": "We study generalised rock-paper-scissors models with an arbitrary odd number\nN \\geq 5 of species, among which n are weak, with 2 \\leq n \\leq (N-1)/2.\nBecause of the species' weakness, the probability of individuals conquering\nterritory in the cyclic spatial game is low. Running stochastic simulations, we\nstudy the role of unevenness in the rock-paper-scissors game in spatial\npatterns and population dynamics, considering diverse models where the weak\nspecies are in different positions in the cyclic game order. Studying systems\nwith five and seven species, we discover that the individuals' spatial\norganisation arising from the pattern formation process determines the\nstability of the cyclic game with multiple weak species. Our outcomes show that\nthe presence of species unbalances the spatial distribution of organisms of the\nsame species bringing consequences on territorial dominance, with the\npredominant species being determined by the position in the cyclic game order.\nOur simulations elucidate that, in general, the further apart the regions\ninhabited by different weak species are, the less the coexistence between the\nspecies is jeopardised. We show that if multiple weak species occupy adjacent\nspatial domains, the unevenness in the cyclic game is reinforced, maximising\nthe chances of biodiversity loss. Our discoveries may also be helpful to\nbiologists in comprehending systems where weak species unbalance biodiversity\nstability.",
+          "arxiv_id": "2301.06981v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Power-law distributions of dynamic cascade failures in power-grid models",
+          "year": "2020-05",
+          "abstract": "Power-law distributed cascade failures are well known in power-grid systems.\nUnderstanding this phenomena has been done by various DC threshold models,\nself-tuned at their critical point. Here we attempt to describe it using an AC\nthreshold model, with a second-order Kuramoto type equation of motion of the\npower-flow. We have focused on the exploration of network heterogeneity\neffects, starting from homogeneous 2D lattices to the US power-grid, possessing\nidentical nodes and links, to a realistic electric power-grid obtained from the\nHungarian electrical database. The last one exhibits node dependent parameters,\ntopologically marginally on the verge of robust networks. We show that too weak\nquenched heterogeneity, coming solely from the probabilistic self-frequencies\nof nodes (2D lattice) is not sufficient to find power-law distributed cascades.\nOn the other hand too strong heterogeneity destroys the synchronization of the\nsystem. We found agreement with the empirically observed power-law failure size\ndistributions on the US grid, as well as on the Hungarian networks near the\nsynchronization transition point. We have also investigated the consequence of\nreplacing the usual Gaussian self-frequencies to exponential distributed ones,\ndescribing renewable energy sources. We found a drop in the steady state\nsynchronization averages, but the cascade size distribution both for the US and\nHungarian systems remained insensitive and have kept the universal tails,\ncharacterized by the exponent $\\tau\\simeq 1.8$. We have also investigated the\neffect of an instantaneous feedback mechanism in case of the Hungarian\npower-grid.",
+          "arxiv_id": "2005.03458v3"
+        },
+        {
+          "title": "Finite-time Correlations Boost Large Voltage-Angle Fluctuations in Electric Power Grids",
+          "year": "2022-03",
+          "abstract": "Decarbonization in the energy sector has been accompanied by an increased\npenetration of new renewable energy sources in electric power systems. Such\nsources differ from traditional productions in that, first, they induce larger,\nundispatchable fluctuations in power generation and second, they lack inertia.\nTherefore, substituting new renewables for traditional generation induces\nstronger and more frequent disturbances and modifies the way disturbances\npropagate across AC electric power grids. Recent measurements have indeed\nreported long, non-Gaussian tails in the distribution of local grid-frequency\ndata. Large frequency deviations may induce grid instabilities, leading in\nworst-case scenarios to cascading failures and large-scale blackouts. In this\nmanuscript, we investigate how correlated noise disturbances, characterized by\nthe cumulants of their distribution, propagate through meshed, high-voltage\npower grids. We show that for a single source of fluctuations,\nnon-Gaussianities in the form of finite skewness and positive kurtosis of the\nnoise distribution propagate over the entire network when the noise correlation\ntime is larger than the network's intrinsic time scales, but that they vanish\nover short distances if the noise fluctuates rapidly. We furthermore show that\na Berry-Esseen theorem leads to the vanishing of non-Gaussianities as the\nnumber of uncorrelated noise sources increases. Our results show that the\npersistence of non-Gaussian fluctuations of feed-in power have a global impact\non power-grid dynamics when they fluctuate over time scales larger than the\nintrinsic time scales of the system, which, we argue, is the relevant regime in\nreal power grids. Our predictions are corroborated by numerical simulations on\nrealistic models of power grids.",
+          "arxiv_id": "2203.00590v1"
+        },
+        {
+          "title": "Improving power-grid systems via topological changes, or how self-organized criticality can help stability",
+          "year": "2023-10",
+          "abstract": "Cascade failures in power grids occur when the failure of one component or\nsubsystem causes a chain reaction of failures in other components or\nsubsystems, ultimately leading to a widespread blackout or outage. Controlling\ncascade failures on power grids is important for many reasons like economic\nimpact, national security, public safety and even rippled effects like\ntroubling transportation systems. Monitoring the networks on node level has\nbeen suggested by many, either controlling all nodes of a network or by\nsubsets. This study identifies sensitive graph elements of the weighted\nEuropean power-grids (from 2016, 2022) by two different methods. Bridges are\ndetermined between communities and \"weak\" nodes are selected by the lowest\nlocal synchronization of the swing equation. In the latter case we add bypasses\nof the same number as the bridges at weak nodes, and we compare the\nsynchronization, cascade failure behavior by the dynamical improvement with the\npurely topological changes. The results are also compared if bridges are\nremoved from networks, which results in a case similar to islanding, and with\nthe addition of links at randomly selected places. Bypassing was found to\nimprove synchronization the best, while the average cascade sizes are the\nlowest with bridge additions. However, for very large or small global couplings\nthese network changes do not help, they seem to be useful near the\nsynchronization transition region, where self-organization drives the\npower-grid. Thus, we provide a demonstration for the Braess' Paradox on\ncontinent-sized power grid simulations and uncover the limitations of this\nphenomenon. We also determine the cascade size distributions and justify the\npower-law tails near the transition point on these grids.",
+          "arxiv_id": "2310.09042v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "The free energy principle made simpler but not too simple",
+          "year": "2022-01",
+          "abstract": "This paper provides a concise description of the free energy principle,\nstarting from a formulation of random dynamical systems in terms of a Langevin\nequation and ending with a Bayesian mechanics that can be read as a physics of\nsentience. It rehearses the key steps using standard results from statistical\nphysics. These steps entail (i) establishing a particular partition of states\nbased upon conditional independencies that inherit from sparsely coupled\ndynamics, (ii) unpacking the implications of this partition in terms of\nBayesian inference and (iii) describing the paths of particular states with a\nvariational principle of least action. Teleologically, the free energy\nprinciple offers a normative account of self-organisation in terms of optimal\nBayesian design and decision-making, in the sense of maximising marginal\nlikelihood or Bayesian model evidence. In summary, starting from a description\nof the world in terms of random dynamical systems, we end up with a description\nof self-organisation as sentient behaviour that can be interpreted as\nself-evidencing; namely, self-assembly, autopoiesis or active inference.",
+          "arxiv_id": "2201.06387v3"
+        },
+        {
+          "title": "A framework for the use of generative modelling in non-equilibrium statistical mechanics",
+          "year": "2024-06",
+          "abstract": "We discuss an approach to mathematically modelling systems made of objects\nthat are coupled together, using generative models of the dependence\nrelationships between states (or trajectories) of the things comprising such\nsystems. This broad class includes open or non-equilibrium systems and is\nespecially relevant to self-organising systems. The ensuing variational free\nenergy principle (FEP) has certain advantages over using random dynamical\nsystems explicitly, notably, by being more tractable and offering a\nparsimonious explanation of why the joint system evolves in the way that it\ndoes, based on the properties of the coupling between system components. Using\nthe FEP allows us to model the dynamics of an object as if it were a process of\nvariational inference, because variational free energy (or surprisal) is a\nLyapunov function for its dynamics. In short, we argue that using generative\nmodels to represent and track relations among subsystems leads us to a\nparticular statistical theory of interacting systems. Conversely, this theory\nenables us to construct nested models that respect the known relations among\nsubsystems. We point out that the fact that a physical object conforms to the\nFEP does not necessarily imply that this object performs inference in the\nliteral sense; rather, it is a useful explanatory fiction which replaces the\n`explicit' dynamics of the object with an `implicit' flow on free energy\ngradients -- a fiction that may or may not be entertained by the object itself.",
+          "arxiv_id": "2406.11630v3"
+        },
+        {
+          "title": "Probabilistic Principles for Biophysics and Neuroscience: Entropy Production, Bayesian Mechanics & the Free-Energy Principle",
+          "year": "2024-10",
+          "abstract": "This thesis focuses on three fundamental aspects of biological systems;\nnamely, entropy production, Bayesian mechanics, and the free-energy principle.\nThe contributions are threefold: 1) We compute the entropy production for a\ngreater class of systems than before, including almost any stationary diffusion\nprocess, such as degenerate diffusions where the driving noise does not act on\nall coordinates of the system. Importantly, this class of systems encompasses\nMarkovian approximations of stochastic differential equations driven by colored\nnoise, which is significant since biological systems at the macro- and\nmeso-scale are generally subject to colored fluctuations. 2) We develop a\nBayesian mechanics for biological and physical entities that interact with\ntheir environment in which we give sufficient and necessary conditions for the\ninternal states of something to infer its external states, consistently with\nvariational Bayesian inference in statistics and theoretical neuroscience. 3)\nWe refine the constraints on Bayesian mechanics to obtain a description that is\nmore specific to biological systems, called the free-energy principle. This\nsays that active and internal states of biological systems unfold as minimising\na quantity known as free energy. The mathematical foundation to the free-energy\nprinciple, presented here, unlocks a first principles approach to modeling and\nsimulating behavior in neurobiology and artificial intelligence, by minimising\nfree energy given a generative model of external and sensory states.",
+          "arxiv_id": "2410.11735v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Anticipating synchronization with machine learning",
+          "year": "2021-03",
+          "abstract": "In applications of dynamical systems, situations can arise where it is\ndesired to predict the onset of synchronization as it can lead to\ncharacteristic and significant changes in the system performance and behaviors,\nfor better or worse. In experimental and real settings, the system equations\nare often unknown, raising the need to develop a prediction framework that is\nmodel free and fully data driven. We contemplate that this challenging problem\ncan be addressed with machine learning. In particular, exploiting reservoir\ncomputing or echo state networks, we devise a \"parameter-aware\" scheme to train\nthe neural machine using asynchronous time series, i.e., in the parameter\nregime prior to the onset of synchronization. A properly trained machine will\npossess the power to predict the synchronization transition in that, with a\ngiven amount of parameter drift, whether the system would remain asynchronous\nor exhibit synchronous dynamics can be accurately anticipated. We demonstrate\nthe machine-learning based framework using representative chaotic models and\nsmall network systems that exhibit continuous (second-order) or abrupt\n(first-order) transitions. A remarkable feature is that, for a network system\nexhibiting an explosive (first-order) transition and a hysteresis loop in\nsynchronization, the machine learning scheme is capable of accurately\npredicting these features, including the precise locations of the transition\npoints associated with the forward and backward transition paths.",
+          "arxiv_id": "2103.13358v1"
+        },
+        {
+          "title": "Next Generation Reservoir Computing",
+          "year": "2021-06",
+          "abstract": "Reservoir computing is a best-in-class machine learning algorithm for\nprocessing information generated by dynamical systems using observed\ntime-series data. Importantly, it requires very small training data sets, uses\nlinear optimization, and thus requires minimal computing resources. However,\nthe algorithm uses randomly sampled matrices to define the underlying recurrent\nneural network and has a multitude of metaparameters that must be optimized.\nRecent results demonstrate the equivalence of reservoir computing to nonlinear\nvector autoregression, which requires no random matrices, fewer metaparameters,\nand provides interpretable results. Here, we demonstrate that nonlinear vector\nautoregression excels at reservoir computing benchmark tasks and requires even\nshorter training data sets and training time, heralding the next generation of\nreservoir computing.",
+          "arxiv_id": "2106.07688v2"
+        },
+        {
+          "title": "Stochastic Reservoir Computers",
+          "year": "2024-05",
+          "abstract": "Reservoir computing is a form of machine learning that utilizes nonlinear\ndynamical systems to perform complex tasks in a cost-effective manner when\ncompared to typical neural networks. Many recent advancements in reservoir\ncomputing, in particular quantum reservoir computing, make use of reservoirs\nthat are inherently stochastic. However, the theoretical justification for\nusing these systems has not yet been well established. In this paper, we\ninvestigate the universality of stochastic reservoir computers, in which we use\na stochastic system for reservoir computing using the probabilities of each\nreservoir state as the readout instead of the states themselves. In stochastic\nreservoir computing, the number of distinct states of the entire reservoir\ncomputer can potentially scale exponentially with the size of the reservoir\nhardware, offering the advantage of compact device size. We prove that classes\nof stochastic echo state networks, and therefore the class of all stochastic\nreservoir computers, are universal approximating classes. We also investigate\nthe performance of two practical examples of stochastic reservoir computers in\nclassification and chaotic time series prediction. While shot noise is a\nlimiting factor in the performance of stochastic reservoir computing, we show\nsignificantly improved performance compared to a deterministic reservoir\ncomputer with similar hardware in cases where the effects of noise are small.",
+          "arxiv_id": "2405.12382v2"
+        }
+      ],
+      "7": [
+        {
+          "title": "Analysis of COVID-19 in India using vaccine epidemic model incorporating vaccine effectiveness and herd immunity",
+          "year": "2022-08",
+          "abstract": "COVID-19 will be a continuous threat to human population despite having a few\nvaccines at hand until we reach the endemic state through natural herd immunity\nand total immunization through universal vaccination. However, the vaccine acts\nas a practical tool for reducing the massive public health problem and the\nemerging economic consequences that the continuing COVID -19 epidemic is\ncausing worldwide, while the vaccine efficacy wanes. In this work, we propose\nand analyze an epidemic model of\nSusceptible-Exposed-Infected-Recovered-Vaccinated (SEIRV) population taking\ninto account the rate of vaccination and vaccine waning. The dynamics of the\nmodel has been investigated, and the condition for a disease-free endemic\nequilibrium state is obtained. Further, the analysis is extended to study the\nCOVID-19 spread in India by considering the availability of vaccines and the\nrelated critical parameters such as vaccination rate, vaccine efficacy and\nwaning of vaccine's impact on deciding the emerging fate of this epidemic. We\nhave also discussed the conditions for herd immunity due to vaccinated\nindividuals among the people. Our results highlight the importance of vaccines,\nthe effectiveness of booster vaccination in protecting people from infection,\nand their importance in epidemic and pandemic modelling.",
+          "arxiv_id": "2208.11998v1"
+        },
+        {
+          "title": "A data-driven epidemic model with social structure for understanding the COVID-19 infection on a heavily affected Italian Province",
+          "year": "2021-03",
+          "abstract": "In this work, using a detailed dataset furnished by National Health\nAuthorities concerning the Province of Pavia (Lombardy, Italy), we propose to\ndetermine the essential features of the ongoing COVID-19 pandemic in term of\ncontact dynamics. Our contribution is devoted to provide a possible planning of\nthe needs of medical infrastructures in the Pavia Province and to suggest\ndifferent scenarios about the vaccination campaign which possibly help in\nreducing the fatalities and/or reducing the number of infected in the\npopulation. The proposed research combines a new mathematical description of\nthe spread of an infectious diseases which takes into account both age and\naverage daily social contacts with a detailed analysis of the dataset of all\ntraced infected individuals in the Province of Pavia. These information are\nused to develop a data-driven model in which calibration and feeding of the\nmodel are extensively used. The epidemiological evolution is obtained by\nrelying on an approach based on statistical mechanics. This leads to study the\nevolution over time of a system of probability distributions characterizing the\nage and social contacts of the population. One of the main outcomes shows that,\nas expected, the spread of the disease is closely related to the mean number of\ncontacts of individuals. The model permits to forecast thanks to an uncertainty\nquantification approach and in the short time horizon, the average number and\nthe confidence bands of expected hospitalized classified by age and to test\ndifferent options for an effective vaccination campaign with age-decreasing\npriority.",
+          "arxiv_id": "2103.06027v2"
+        },
+        {
+          "title": "Kinetic models for epidemic dynamics with social heterogeneity",
+          "year": "2020-09",
+          "abstract": "We introduce a mathematical description of the impact of sociality in the\nspread of infectious diseases by integrating an epidemiological dynamics with a\nkinetic modeling of population-based contacts. The kinetic description leads to\nstudy the evolution over time of Boltzmann-type equations describing the number\ndensities of social contacts of susceptible, infected and recovered\nindividuals, whose proportions are driven by a classical SIR-type compartmental\nmodel in epidemiology. Explicit calculations show that the spread of the\ndisease is closely related to moments of the contact distribution. Furthermore,\nthe kinetic model allows to clarify how a selective control can be assumed to\nachieve a minimal lockdown strategy by only reducing individuals undergoing a\nvery large number of daily contacts. We conduct numerical simulations which\nconfirm the ability of the model to describe different phenomena characteristic\nof the rapid spread of an epidemic. Motivated by the COVID-19 pandemic, a last\npart is dedicated to fit numerical solutions of the proposed model with\ninfection data coming from different European countries.",
+          "arxiv_id": "2009.01140v2"
+        }
+      ],
+      "8": [
+        {
+          "title": "Bounded-Confidence Models of Opinion Dynamics with Neighborhood Effects",
+          "year": "2024-02",
+          "abstract": "We generalize bounded-confidence models (BCMs) of opinion dynamics by\nincorporating neighborhood effects. In a BCM, interacting agents influence each\nother through dyadic influence if their opinions are sufficiently similar to\neach other. In our \"neighborhood BCMs\" (NBCMs), interacting agents are\ninfluenced both by each other's opinions and by the opinions of the agents in\neach other's neighborhoods. Our NBCMs thus include both the usual dyadic\ninfluence between agents and a \"transitive influence\", which encodes the\ninfluence of an agent's neighbors, when determining whether or not an\ninteraction changes the opinions of agents. In this transitive influence, an\nindividual's opinion is influenced by a neighbor when, on average, the opinions\nof the neighbor's neighbors are sufficiently similar to its own opinion. We\nformulate both neighborhood Deffuant--Weisbuch (NDW) and neighborhood\nHegselmann--Krause (NHK) BCMs.\n  We build further on our NBCMs by introducing a neighborhood-based network\nadaptation in which a network coevolves with agent opinions by changing its\nstructure through \"transitive homophily\". In this network evolution, an agent\nbreaks a tie to one of its neighbors and then rewires that tie to a new agent,\nwith a preference for agents with a mean neighbor opinion that is closer to its\nown opinion. Using numerical simulations on a variety of types of networks, we\nexplore how the qualitative opinion dynamics and network properties of our\nadaptive NDW model change as we adjust the relative proportions of dyadic and\ntransitive influence. In our numerical experiments, we find that incorporating\nneighborhood effects into the opinion dynamics and the network-adaptation\nrewiring strategy tends to reduce the spectral gap and degree assortativity of\nnetworks.\n  (This is a shortened version of the paper's abstract.)",
+          "arxiv_id": "2402.05368v2"
+        },
+        {
+          "title": "Oscillatory and Excitable Dynamics in an Opinion Model with Group Opinions",
+          "year": "2024-08",
+          "abstract": "In traditional models of opinion dynamics, each agent in a network has an\nopinion and changes in opinions arise from pairwise (i.e., dyadic) interactions\nbetween agents. However, in many situations, groups of individuals possess a\ncollective opinion that can differ from the opinions of its constituent\nindividuals. In this paper, we study the effects of group opinions on opinion\ndynamics. We formulate a hypergraph model in which both individual agents and\ngroups of 3 agents have opinions, and we examine how opinions evolve through\nboth dyadic interactions and group memberships. In some parameter regimes, we\nfind that the presence of group opinions can lead to oscillatory and excitable\nopinion dynamics. In the oscillatory regime, the mean opinion of the agents in\na network has self-sustained oscillations. In the excitable regime, finite-size\neffects create large but short-lived opinion swings (as in social fads). We\ndevelop a mean-field approximation of our model and obtain good agreement with\ndirect numerical simulations. We also show -- both numerically and via our\nmean-field description -- that oscillatory dynamics occur only when the number\nof dyadic and polyadic interactions per agent are not completely correlated.\nOur results illustrate how polyadic structures, such as groups of agents, can\nhave important effects on collective opinion dynamics.",
+          "arxiv_id": "2408.13336v2"
+        },
+        {
+          "title": "Long-Time and Short-Time Dynamics in a Weighted-Median Opinion Model on Networks",
+          "year": "2024-06",
+          "abstract": "Social interactions influence people's opinions. In some situations, these\ninteractions eventually yield a consensus opinion; in others, they can lead to\nopinion fragmentation and the formation of different opinion groups in the form\nof ``echo chambers''. Consider a social network of individuals with\ncontinuous-valued scalar opinions, and suppose that they can change their\nopinions when they interact with each other. In many models of the opinion\ndynamics of individuals in a network, it is common for opinion updates to\ndepend on the mean opinion of interacting individuals. As an alternative, which\nmay be more realistic in some situations, we study an opinion model with an\nopinion-update rule that depends on the weighted median of the opinions of\ninteracting individuals. Through numerical simulations of our median-update\nopinion model, we investigate how the final opinion distribution depends on\nnetwork structure. For configuration-model networks, we also derive a\nmean-field approximation for the asymptotic dynamics of the opinion\ndistribution when there are infinitely many individuals. We numerically\ninvestigate its accuracy for short-time opinion dynamics on various networks.",
+          "arxiv_id": "2406.17552v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:58:55Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_manifolds_Lie_manifold_complex",
+        "keywords": [
+          [
+            "manifolds",
+            0.023293875160598315
+          ],
+          [
+            "Lie",
+            0.02160891194216423
+          ],
+          [
+            "manifold",
+            0.01895456209040293
+          ],
+          [
+            "complex",
+            0.018510708896569736
+          ],
+          [
+            "metric",
+            0.015428707801544497
+          ],
+          [
+            "structure",
+            0.01506723028193935
+          ],
+          [
+            "space",
+            0.015017746019029835
+          ],
+          [
+            "metrics",
+            0.014787709134545052
+          ],
+          [
+            "structures",
+            0.014540331441363224
+          ],
+          [
+            "compact",
+            0.013962621641939784
+          ]
+        ],
+        "count": 5404
+      },
+      "1": {
+        "name": "1_curvature_surfaces_space_manifolds",
+        "keywords": [
+          [
+            "curvature",
+            0.03547812257456464
+          ],
+          [
+            "surfaces",
+            0.01747670952276101
+          ],
+          [
+            "space",
+            0.01690908522560088
+          ],
+          [
+            "manifolds",
+            0.01640659292387452
+          ],
+          [
+            "Riemannian",
+            0.01592349457373159
+          ],
+          [
+            "Ricci",
+            0.015478560587748188
+          ],
+          [
+            "flow",
+            0.0153294860000476
+          ],
+          [
+            "boundary",
+            0.014899568438667318
+          ],
+          [
+            "mean",
+            0.014122775309645395
+          ],
+          [
+            "paper",
+            0.01370900910516097
+          ]
+        ],
+        "count": 5029
+      },
+      "2": {
+        "name": "2_spacetime_spacetimes_null_Einstein",
+        "keywords": [
+          [
+            "spacetime",
+            0.03085885485158303
+          ],
+          [
+            "spacetimes",
+            0.026556999022334906
+          ],
+          [
+            "null",
+            0.024369332637645253
+          ],
+          [
+            "Einstein",
+            0.02349238588651699
+          ],
+          [
+            "data",
+            0.022749395854225564
+          ],
+          [
+            "mass",
+            0.020931207073783452
+          ],
+          [
+            "initial",
+            0.020049409462344816
+          ],
+          [
+            "boundary",
+            0.018519283150071855
+          ],
+          [
+            "Lorentzian",
+            0.018304217640341045
+          ],
+          [
+            "vacuum",
+            0.01767176580879493
+          ]
+        ],
+        "count": 621
+      },
+      "3": {
+        "name": "3_Riemannian_data_manifold_geometry",
+        "keywords": [
+          [
+            "Riemannian",
+            0.02896198297199222
+          ],
+          [
+            "data",
+            0.02870543143687799
+          ],
+          [
+            "manifold",
+            0.02530645396405894
+          ],
+          [
+            "geometry",
+            0.02242683475261401
+          ],
+          [
+            "learning",
+            0.021112833364688104
+          ],
+          [
+            "space",
+            0.020513285129311037
+          ],
+          [
+            "shape",
+            0.017197458414372355
+          ],
+          [
+            "metric",
+            0.01623786959870517
+          ],
+          [
+            "geometric",
+            0.015834099976507105
+          ],
+          [
+            "manifolds",
+            0.01571991030187161
+          ]
+        ],
+        "count": 511
+      },
+      "4": {
+        "name": "4_systems_nonholonomic_Hamiltonian_Lie",
+        "keywords": [
+          [
+            "systems",
+            0.06744757901219967
+          ],
+          [
+            "nonholonomic",
+            0.035878550971721684
+          ],
+          [
+            "Hamiltonian",
+            0.03561590004973844
+          ],
+          [
+            "Lie",
+            0.030804693886735138
+          ],
+          [
+            "equations",
+            0.029865609420370535
+          ],
+          [
+            "reduction",
+            0.02398151093756468
+          ],
+          [
+            "geometric",
+            0.020771369948712922
+          ],
+          [
+            "dynamics",
+            0.020631439879417034
+          ],
+          [
+            "symmetries",
+            0.020415642685931934
+          ],
+          [
+            "Jacobi",
+            0.019817792782670554
+          ]
+        ],
+        "count": 203
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.0748744789695813,
+        -0.33644818840148416,
+        -0.3683612189407784,
+        -0.5463861564490334
+      ],
+      [
+        -0.0748744789695813,
+        1.0,
+        -0.3153338827803299,
+        -0.41254332253757153,
+        -0.5237760843445216
+      ],
+      [
+        -0.33644818840148416,
+        -0.3153338827803299,
+        1.0,
+        -0.5962004525928942,
+        -0.49231900111716476
+      ],
+      [
+        -0.3683612189407784,
+        -0.41254332253757153,
+        -0.5962004525928942,
+        1.0,
+        -0.6867402704752623
+      ],
+      [
+        -0.5463861564490334,
+        -0.5237760843445216,
+        -0.49231900111716476,
+        -0.6867402704752623,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        90,
+        80,
+        2,
+        17,
+        9
+      ],
+      "2020-02": [
+        101,
+        60,
+        2,
+        9,
+        6
+      ],
+      "2020-03": [
+        102,
+        81,
+        5,
+        12,
+        8
+      ],
+      "2020-04": [
+        101,
+        78,
+        5,
+        11,
+        5
+      ],
+      "2020-05": [
+        89,
+        80,
+        5,
+        9,
+        8
+      ],
+      "2020-06": [
+        102,
+        77,
+        4,
+        15,
+        7
+      ],
+      "2020-07": [
+        113,
+        104,
+        9,
+        16,
+        7
+      ],
+      "2020-08": [
+        90,
+        82,
+        6,
+        13,
+        6
+      ],
+      "2020-09": [
+        112,
+        82,
+        4,
+        14,
+        11
+      ],
+      "2020-10": [
+        109,
+        85,
+        5,
+        12,
+        8
+      ],
+      "2020-11": [
+        88,
+        79,
+        2,
+        8,
+        3
+      ],
+      "2020-12": [
+        109,
+        90,
+        1,
+        11,
+        14
+      ],
+      "2021-01": [
+        84,
+        78,
+        9,
+        12,
+        9
+      ],
+      "2021-02": [
+        73,
+        77,
+        6,
+        14,
+        3
+      ],
+      "2021-03": [
+        101,
+        81,
+        5,
+        14,
+        7
+      ],
+      "2021-04": [
+        74,
+        64,
+        6,
+        8,
+        14
+      ],
+      "2021-05": [
+        92,
+        90,
+        10,
+        14,
+        9
+      ],
+      "2021-06": [
+        87,
+        76,
+        8,
+        14,
+        4
+      ],
+      "2021-07": [
+        82,
+        85,
+        13,
+        11,
+        3
+      ],
+      "2021-08": [
+        96,
+        80,
+        5,
+        12,
+        5
+      ],
+      "2021-09": [
+        104,
+        85,
+        9,
+        11,
+        8
+      ],
+      "2021-10": [
+        90,
+        80,
+        3,
+        17,
+        17
+      ],
+      "2021-11": [
+        91,
+        83,
+        5,
+        15,
+        9
+      ],
+      "2021-12": [
+        87,
+        88,
+        7,
+        10,
+        8
+      ],
+      "2022-01": [
+        81,
+        71,
+        8,
+        12,
+        12
+      ],
+      "2022-02": [
+        92,
+        64,
+        3,
+        9,
+        8
+      ],
+      "2022-03": [
+        98,
+        98,
+        5,
+        6,
+        8
+      ],
+      "2022-04": [
+        110,
+        79,
+        8,
+        11,
+        5
+      ],
+      "2022-05": [
+        95,
+        74,
+        11,
+        14,
+        8
+      ],
+      "2022-06": [
+        100,
+        76,
+        8,
+        11,
+        9
+      ],
+      "2022-07": [
+        83,
+        77,
+        4,
+        10,
+        10
+      ],
+      "2022-08": [
+        94,
+        83,
+        5,
+        9,
+        8
+      ],
+      "2022-09": [
+        93,
+        75,
+        7,
+        8,
+        7
+      ],
+      "2022-10": [
+        101,
+        92,
+        4,
+        13,
+        9
+      ],
+      "2022-11": [
+        92,
+        78,
+        8,
+        14,
+        8
+      ],
+      "2022-12": [
+        98,
+        82,
+        7,
+        12,
+        13
+      ],
+      "2023-01": [
+        70,
+        68,
+        4,
+        12,
+        9
+      ],
+      "2023-02": [
+        79,
+        66,
+        6,
+        11,
+        12
+      ],
+      "2023-03": [
+        109,
+        85,
+        8,
+        20,
+        8
+      ],
+      "2023-04": [
+        92,
+        72,
+        5,
+        11,
+        6
+      ],
+      "2023-05": [
+        102,
+        96,
+        7,
+        16,
+        5
+      ],
+      "2023-06": [
+        109,
+        91,
+        6,
+        12,
+        8
+      ],
+      "2023-07": [
+        89,
+        86,
+        8,
+        15,
+        7
+      ],
+      "2023-08": [
+        89,
+        74,
+        6,
+        11,
+        8
+      ],
+      "2023-09": [
+        116,
+        104,
+        10,
+        15,
+        9
+      ],
+      "2023-10": [
+        122,
+        102,
+        6,
+        16,
+        7
+      ],
+      "2023-11": [
+        94,
+        80,
+        8,
+        13,
+        9
+      ],
+      "2023-12": [
+        105,
+        76,
+        5,
+        14,
+        10
+      ],
+      "2024-01": [
+        87,
+        95,
+        10,
+        19,
+        14
+      ],
+      "2024-02": [
+        95,
+        79,
+        8,
+        15,
+        6
+      ],
+      "2024-03": [
+        95,
+        96,
+        11,
+        12,
+        10
+      ],
+      "2024-04": [
+        97,
+        79,
+        7,
+        13,
+        20
+      ],
+      "2024-05": [
+        110,
+        94,
+        2,
+        21,
+        5
+      ],
+      "2024-06": [
+        91,
+        103,
+        7,
+        22,
+        5
+      ],
+      "2024-07": [
+        110,
+        88,
+        9,
+        13,
+        8
+      ],
+      "2024-08": [
+        93,
+        69,
+        8,
+        9,
+        14
+      ],
+      "2024-09": [
+        104,
+        77,
+        9,
+        13,
+        10
+      ],
+      "2024-10": [
+        113,
+        117,
+        8,
+        15,
+        11
+      ],
+      "2024-11": [
+        94,
+        83,
+        10,
+        11,
+        17
+      ],
+      "2024-12": [
+        110,
+        106,
+        8,
+        15,
+        11
+      ],
+      "2025-01": [
+        93,
+        85,
+        6,
+        15,
+        9
+      ],
+      "2025-02": [
+        98,
+        85,
+        8,
+        15,
+        8
+      ],
+      "2025-03": [
+        99,
+        104,
+        3,
+        16,
+        14
+      ],
+      "2025-04": [
+        94,
+        102,
+        10,
+        16,
+        19
+      ],
+      "2025-05": [
+        103,
+        98,
+        5,
+        13,
+        14
+      ],
+      "2025-06": [
+        102,
+        84,
+        8,
+        11,
+        9
+      ],
+      "2025-07": [
+        131,
+        115,
+        7,
+        23,
+        17
+      ],
+      "2025-08": [
+        121,
+        77,
+        10,
+        8,
+        5
+      ],
+      "2025-09": [
+        62,
+        51,
+        4,
+        5,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Deformations of Dolbeault cohomology classes for Lie algebra with complex structures",
+          "year": "2021-09",
+          "abstract": "In this paper, we study deformations of complex structures on Lie algebras\nand its associated deformations of Dolbeault cohomology classes. A complete\ndeformation of complex structures is constructed in a way similar to the\nKuranishi family. The extension isomorphism is shown to be valid in this case.\nAs an application, we prove that given a family of left invariant deformations\n$\\{M_t\\}_{t\\in B}$ of a compact complex manifold $M=(\\Gamma\\setminus G, J)$\nwhere $G$ is a Lie group, $\\Gamma$ a sublattice and $J$ a left invariant\ncomplex structure, the set of all $t\\in B$ such that the Dolbeault cohomology\non $M_t$ may be computed by left invariant tensor fields is an analytic open\nsubset of $B$.",
+          "arxiv_id": "2109.00689v1"
+        },
+        {
+          "title": "Einstein-type metrics and generalized Ricci solitons on weak $f$-K-contact manifolds",
+          "year": "2023-06",
+          "abstract": "A weak metric $f$-structure $(f,Q,\\xi_i,\\eta^i,g)\\ (i=1,\\ldots,s)$,\ngeneralizes the metric $f$-structure on a smooth manifold, i.e., the complex\nstructure on the contact distribution is replaced with a nonsingular\nskew-symmetric tensor. We study geometry of a weak $f$-K-contact structure,\nwhich is a weak $f$-contact structure, whose characteristic vector fields are\nKilling. We show that $\\ker f$ of a weak $f$-contact manifold defines a\n$\\mathfrak{g}$-foliation with an abelian Lie algebra. Then we characterize weak\n$f$-K-contact manifolds among all weak metric $f$-manifolds by the property\nknown for $f$-K-contact manifolds, and find when a Riemannian manifold endowed\nwith a set of orthonormal Killing vector fields is a weak $f$-K-contact\nmanifold. We show that for $s>1$, an Einstein weak $f$-K-contact manifold is\nRicci flat, then find sufficient conditions for a weak $f$-K-contact manifold\nwith parallel Ricci tensor or with a generalized gradient Ricci soliton\nstructure to be Ricci flat or a quasi Einstein manifold. We prove positive\ndefiniteness of the Jacobi operators in the characteristic directions and use\nthis to deform a weak $f$-K-contact structure to an $f$-K-contact structure. We\ndefine an $\\eta$-Ricci soliton and $\\eta$-Einstein structures on a weak metric\n$f$-manifold (which for $s=1$, give the well-known structures on contact metric\nmanifolds) and find sufficient conditions for a compact weak $f$-K-contact\nmanifold with an $\\eta$-Ricci soliton structure of constant scalar curvature to\nbe $\\eta$-Einstein.",
+          "arxiv_id": "2306.07102v2"
+        },
+        {
+          "title": "Feix-Kaledin metric on the total spaces of cotangent bundles to Kähler quotients",
+          "year": "2020-07",
+          "abstract": "In this paper we study the geometry of the total space $Y$ of a cotangent\nbundle to a K\\\"ahler manifold $N$ where $N$ is obtained as a K\\\"ahler reduction\nfrom $\\mathbb C^n$. Using the hyperk\\\"ahler reduction we construct a\nhyperk\\\"ahler metric on $Y$ and prove that it coincides with the canonical\nFeix-Kaledin metric. This metric is in general non-complete. We show that the\nmetric completion $\\tilde Y$ of the space $Y$ is equipped with a structure of a\nstratified hyperk\\\"ahler space. We give a necessary condition for the\nFeix-Kaledin metric to be complete using an observation of R.Bielawski. Pick a\ncomplex structure $J$ on $\\tilde Y$ induced from quaternions. Suppose that\n$J\\ne\\pm I$ where $I$ is the complex structure whose restriction to $Y = T^*N$\nis induced by the complex structure on $N$. We prove that the space\n$\\tilde{Y}_J$ admits an algebraic structure and is an affine variety.",
+          "arxiv_id": "2007.05773v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Geometry of three-dimensional manifolds with positive scalar curvature",
+          "year": "2022-01",
+          "abstract": "The purpose of this paper is to derive volume and other geometric information\nfor three-dimensional complete manifolds with positive scalar curvature. In the\ncase that the Ricci curvature is nonnegative, it is shown that the volume of\nthe manifold must be of linear growth when the scalar curvature is bounded from\nbelow by a positive constant. This answers a question of Gromov in the\naffirmative for dimension three. Volume growth estimates are also obtained for\nthe case when scalar curvature decays to zero. In fact, results of similar\nnature are established for the more general case that the Ricci curvature is\nasymptotically nonnegative.",
+          "arxiv_id": "2201.05595v3"
+        },
+        {
+          "title": "Surfaces with prescribed mean curvature in $\\mathbb{H}^2\\times\\mathbb{R}$",
+          "year": "2020-12",
+          "abstract": "In this paper we study rotational surfaces in the space\n$\\mathbb{H}^2\\times\\mathbb{R}$ whose mean curvature is given as a prescribed\nfunction of their angle function. These surfaces generalize, among others, the\nones of constant mean curvature and the translating solitons of the mean\ncurvature flow. Using a phase plane analysis we construct entire rotational\ngraphs, catenoid-type surfaces, and exhibit a classification result when the\nprescribed function is linear.",
+          "arxiv_id": "2012.03795v1"
+        },
+        {
+          "title": "Mean curvature type flow and sharp Micheal-Simon inequalities",
+          "year": "2021-10",
+          "abstract": "In this paper, we first investigate a new locally constrained mean curvature\nflow (1.5) and prove that if the initial hypersurface is of smoothly compact\nstarshaped, then the solution of the flow (1.5) exists for all time and\nconverges to a sphere in smooth topology. Following this flow argument, not\nonly do we achieve a new proof of the celebrated sharp Michael-Simon inequality\nfor mean curvature in (n+1) dimensional Euclidean space, but we also get the\nnecessary and sufficient condition for the establishment of the equality. In\nthe second part of this paper, we study a mean curvature type flow (1.7) of\nstatic convex hypersurfaces in (n+1) dimensional Euclidean space, and prove\nthat the flow (1.7) has a unique smooth solution for all time t>0, and the\nstatic convexity of the hypersurface is preserved along the flow (1.7).\nMoreover, The solution of the flow (1.7) converges exponentially to a sphere of\nradius R in smooth topology as time tends to infinity. By exploiting the\nproperties of this flow, we develop and present a new sharp Michael-Simon\ninequality for kth mean curvature.",
+          "arxiv_id": "2111.00938v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Microlocal analysis near null infinity in asymptotically flat spacetimes",
+          "year": "2023-02",
+          "abstract": "We present a novel approach to the analysis of regularity and decay for\nsolutions of wave equations in a neighborhood of null infinity in\nasymptotically flat spacetimes of any dimension. The classes of metrics and\nwave type operators we consider near null infinity include those arising in\nnonlinear stability problems for Einstein's field equations in $1+3$\ndimensions. In a neighborhood of null infinity, in an appropriate\ncompactification of the spacetime to a manifold with corners, the wave\noperators are of edge type at null infinity and totally characteristic at\nspacelike and future timelike infinity. On a corresponding scale of Sobolev\nspaces, we demonstrate how microlocal regularity propagates across or into null\ninfinity via a sequence of radial sets. As an application, inspired by work of\nthe second author with Baskin and Wunsch, we prove regularity and decay\nestimates for forward solutions of wave type equations on asymptotically flat\nspacetimes which are asymptotically homogeneous with respect to scaling in the\nforward timelike cone and have an appropriate structure at null infinity. These\nestimates are new even for the wave operator on Minkowski space.\n  The results obtained here are also used as black boxes in a global theory of\nwave type equations on asymptotically flat and asymptotically stationary\nspacetimes developed by the first author.",
+          "arxiv_id": "2302.14613v1"
+        },
+        {
+          "title": "Multi-localized time-symmetric initial data for the Einstein vacuum equations",
+          "year": "2023-01",
+          "abstract": "We construct a class of time-symmetric initial data sets for the Einstein\nvacuum equation modeling elementary configurations of multiple ``almost\nisolated\" systems. Each such initial data set consists of a collection of\nseveral localized sources of gravitational radiation, and lies in a family of\ndata sets which is closed under scaling out the distances between the systems\nby arbitrarily large amounts. This class contains data sets which are not\nasymptotically flat, but to which nonetheless a finite ADM mass can be\nascribed. The construction proceeds by a gluing scheme using the\nBrill--Lindquist metric as a template. Such initial data are motivated in part\nby a desire to understand the dynamical interaction of distant systems in the\ncontext of general relativity. As a by-product of the construction, we produce\ncomplete, scalar-flat initial data with trivial topology and infinitely many\nminimal spheres, as well as initial data with infinitely many Einstein--Rosen\nbridges.",
+          "arxiv_id": "2301.08238v1"
+        },
+        {
+          "title": "On Kerr black hole formation with complete apparent horizon and a new approach toward Penrose inequality",
+          "year": "2025-05",
+          "abstract": "Arising from admissible extended scale-critical short-pulse initial data, we\nshow that 3+1 dimensional Einstein vacuum equations admit dynamical Kerr black\nhole formation solutions. Our hyperbolic arguments combine the scale-critical\ngravitational-collapse result by An--Luk with the recent breakthrough by\nKlainerman--Szeftel on proving nonlinear Kerr stability with small angular\nmomentum, which requires us to perform various specific coordinate changes and\nframe transformations. Furthermore, allowing large spacetime angular momentum,\nwith new elliptic arguments and precise leading order calculations, we also\nsolve the apparent horizon in Kerr black hole formation spacetimes (including\nKlainerman--Szeftel's Kerr stability spacetimes) and conduct an exploration,\ndetailing the emergence, evolution, asymptotics and final state of the apparent\nhorizon. Building on our analysis, without time symmetric assumption, we then\nput forward a new mathematical framework and prove both the dynamical Penrose\ninequality and the spacetime Penrose inequality in our black-hole formation\nspacetimes and in the perturbative regime of subextremal Kerr black holes.\nCollectively, without assuming any symmetry, we extend Christodoulou's\ncelebrated trapped surface formation theorem to a black hole formation result.",
+          "arxiv_id": "2505.11399v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Pullback Flow Matching on Data Manifolds",
+          "year": "2024-10",
+          "abstract": "We propose Pullback Flow Matching (PFM), a novel framework for generative\nmodeling on data manifolds. Unlike existing methods that assume or learn\nrestrictive closed-form manifold mappings for training Riemannian Flow Matching\n(RFM) models, PFM leverages pullback geometry and isometric learning to\npreserve the underlying manifold's geometry while enabling efficient generation\nand precise interpolation in latent space. This approach not only facilitates\nclosed-form mappings on the data manifold but also allows for designable latent\nspaces, using assumed metrics on both data and latent manifolds. By enhancing\nisometric learning through Neural ODEs and proposing a scalable training\nobjective, we achieve a latent space more suitable for interpolation, leading\nto improved manifold learning and generative performance. We demonstrate PFM's\neffectiveness through applications in synthetic data, protein dynamics and\nprotein sequence data, generating novel proteins with specific properties. This\nmethod shows strong potential for drug discovery and materials science, where\ngenerating novel samples with specific properties is of great interest.",
+          "arxiv_id": "2410.04543v2"
+        },
+        {
+          "title": "Riemannian geometry for efficient analysis of protein dynamics data",
+          "year": "2023-08",
+          "abstract": "An increasingly common viewpoint is that protein dynamics data sets reside in\na non-linear subspace of low conformational energy. Ideal data analysis tools\nfor such data sets should therefore account for such non-linear geometry. The\nRiemannian geometry setting can be suitable for a variety of reasons. First, it\ncomes with a rich structure to account for a wide range of geometries that can\nbe modelled after an energy landscape. Second, many standard data analysis\ntools initially developed for data in Euclidean space can also be generalised\nto data on a Riemannian manifold. In the context of protein dynamics, a\nconceptual challenge comes from the lack of a suitable smooth manifold and the\nlack of guidelines for constructing a smooth Riemannian structure based on an\nenergy landscape. In addition, computational feasibility in computing geodesics\nand related mappings poses a major challenge. This work considers these\nchallenges. The first part of the paper develops a novel local approximation\ntechnique for computing geodesics and related mappings on Riemannian manifolds\nin a computationally feasible manner. The second part constructs a smooth\nmanifold of point clouds modulo rigid body group actions and a Riemannian\nstructure that is based on an energy landscape for protein conformations. The\nresulting Riemannian geometry is tested on several data analysis tasks relevant\nfor protein dynamics data. It performs exceptionally well on coarse-grained\nmolecular dynamics simulated data. In particular, the geodesics with given\nstart- and end-points approximately recover corresponding molecular dynamics\ntrajectories for proteins that undergo relatively ordered transitions with\nmedium sized deformations. The Riemannian protein geometry also gives\nphysically realistic summary statistics and retrieves the underlying dimension\neven for large-sized deformations within seconds on a laptop.",
+          "arxiv_id": "2308.07818v2"
+        },
+        {
+          "title": "Riemannian Metric Learning: Closer to You than You Imagine",
+          "year": "2025-03",
+          "abstract": "Riemannian metric learning is an emerging field in machine learning,\nunlocking new ways to encode complex data structures beyond traditional\ndistance metric learning. While classical approaches rely on global distances\nin Euclidean space, they often fall short in capturing intrinsic data geometry.\nEnter Riemannian metric learning: a powerful generalization that leverages\ndifferential geometry to model the data according to their underlying\nRiemannian manifold. This approach has demonstrated remarkable success across\ndiverse domains, from causal inference and optimal transport to generative\nmodeling and representation learning. In this review, we bridge the gap between\nclassical metric learning and Riemannian geometry, providing a structured and\naccessible overview of key methods, applications, and recent advances. We argue\nthat Riemannian metric learning is not merely a technical refinement but a\nfundamental shift in how we think about data representations. Thus, this review\nshould serve as a valuable resource for researchers and practitioners\ninterested in exploring Riemannian metric learning and convince them that it is\ncloser to them than they might imagine-both in theory and in practice.",
+          "arxiv_id": "2503.05321v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Geometric Reductions, Dynamics and Controls for Hamiltonian System with Symmetry",
+          "year": "2022-08",
+          "abstract": "This is a survey article, from the viewpoint of the completeness of the\nMarsden- Weinstein reduction, to introduce briefly some recent developments of\nthe symmetric reductions and Hamilton-Jacobi theory of the regular controlled\nHamiltonian systems, the nonholonomic controlled Hamiltonian systems and the\ncontrolled magnetic Hamiltonian systems. These research reveal the deeply\ninternal relationships of the geometrical structures of phase spaces, the\nnonholonomic constraint, the dynamical vector fields and the controls of these\nsystems.",
+          "arxiv_id": "2208.12465v1"
+        },
+        {
+          "title": "Nonholonomic Controlled Hamiltonian System: Symmetric Reduction and Hamilton-Jacobi Equations",
+          "year": "2022-05",
+          "abstract": "In order to describe the impact of nonholonomic constraints for the dynamics\nof a regular controlled Hamiltonian (RCH) system, in this paper, for an RCH\nsystem with nonholonomic constraint, we first derive its distributional RCH\nsystem, by analyzing carefully the structure of dynamical vector field of the\nnonholonomic RCH system. Secondly, we derive precisely the geometric constraint\nconditions of the induced distributional two-form for the dynamical vector\nfield of the distributional RCH system, which are called the Type I and Type II\nof Hamilton-Jacobi equations. Thirdly, we generalize the above results for the\nnonholonomic reducible RCH system with symmetry, and prove two types of\nHamilton-Jacobi theorems for the nonholonomic reduced distributional RCH\nsystem. Moreover, we consider the nonholonomic reducible RCH system with\nmomentum map, by combining with the regular point and regular orbit reduction\ntheory and the analysis of dynamics of RCH system, we give the geometric\nformulations of the nonholonomic regular point reduced and orbit reduced\ndistributional RCH systems, and prove two types of Hamilton-Jacobi theorems for\nthese reduced distributional RCH systems. These researches reveal the deeply\ninternal relationships of the nonholonomic constraints, the induced (resp.\nreduced) distributional two-forms, the dynamical vector fields and controls of\nthe nonholonomic RCH system and its (reduced) distributional RCH systems.",
+          "arxiv_id": "2205.01998v1"
+        },
+        {
+          "title": "Lagrangian reduction of nonholonomic discrete mechanical systems by stages",
+          "year": "2020-09",
+          "abstract": "In this work we introduce a category $LDP_d$ of discrete-time dynamical\nsystems, that we call discrete Lagrange--D'Alembert--Poincar\\'e systems, and\nstudy some of its elementary properties. Examples of objects of $LDP_d$ are\nnonholonomic discrete mechanical systems as well as their lagrangian reductions\nand, also, discrete Lagrange-Poincar\\'e systems. We also introduce a notion of\nsymmetry group for objects of $LDP_d$ and a process of reduction when\nsymmetries are present. This reduction process extends the reduction process of\ndiscrete Lagrange--Poincar\\'e systems as well as the one defined for\nnonholonomic discrete mechanical systems. In addition, we prove that, under\nsome conditions, the two-stage reduction process (first by a closed and normal\nsubgroup of the symmetry group and, then, by the residual symmetry group)\nproduces a system that is isomorphic in $LDP_d$ to the system obtained by a\none-stage reduction by the full symmetry group.",
+          "arxiv_id": "2009.09582v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:53:21Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

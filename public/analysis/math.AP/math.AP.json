@@ -1,0 +1,1946 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_equation_solutions_problem_boundary",
+        "keywords": [
+          [
+            "equation",
+            0.01824920808410191
+          ],
+          [
+            "solutions",
+            0.01588505016031837
+          ],
+          [
+            "problem",
+            0.015123651453570664
+          ],
+          [
+            "boundary",
+            0.01261447269336311
+          ],
+          [
+            "equations",
+            0.011685491107382075
+          ],
+          [
+            "results",
+            0.01101412261797117
+          ],
+          [
+            "paper",
+            0.010499243524604119
+          ],
+          [
+            "nonlinear",
+            0.010066544346130994
+          ],
+          [
+            "type",
+            0.010034581279400738
+          ],
+          [
+            "existence",
+            0.009744290724595647
+          ]
+        ],
+        "count": 14986
+      },
+      "1": {
+        "name": "1_Stokes_Navier_equations_solutions",
+        "keywords": [
+          [
+            "Stokes",
+            0.025848141396543057
+          ],
+          [
+            "Navier",
+            0.025587775903433894
+          ],
+          [
+            "equations",
+            0.024479631631567546
+          ],
+          [
+            "solutions",
+            0.023155986994245308
+          ],
+          [
+            "Euler",
+            0.01788769358819003
+          ],
+          [
+            "initial",
+            0.01682520731587134
+          ],
+          [
+            "time",
+            0.016412035483936972
+          ],
+          [
+            "Stokes equations",
+            0.016375622320715048
+          ],
+          [
+            "compressible",
+            0.015349174949730107
+          ],
+          [
+            "boundary",
+            0.014573360825003254
+          ]
+        ],
+        "count": 2922
+      },
+      "2": {
+        "name": "2_diffusion_model_reaction_population",
+        "keywords": [
+          [
+            "diffusion",
+            0.031222039023846314
+          ],
+          [
+            "model",
+            0.030210230849653116
+          ],
+          [
+            "reaction",
+            0.020727335835125354
+          ],
+          [
+            "population",
+            0.017281490522781846
+          ],
+          [
+            "solutions",
+            0.016888928548159484
+          ],
+          [
+            "chemotaxis",
+            0.015647031629967632
+          ],
+          [
+            "time",
+            0.015601956597787962
+          ],
+          [
+            "reaction diffusion",
+            0.015601758067138736
+          ],
+          [
+            "existence",
+            0.011708707340722237
+          ],
+          [
+            "species",
+            0.011676642563683197
+          ]
+        ],
+        "count": 1468
+      },
+      "3": {
+        "name": "3_homogenization_energy_model_convergence",
+        "keywords": [
+          [
+            "homogenization",
+            0.02940674875017549
+          ],
+          [
+            "energy",
+            0.02201540654606419
+          ],
+          [
+            "model",
+            0.020349547750527833
+          ],
+          [
+            "convergence",
+            0.01647666705863829
+          ],
+          [
+            "elastic",
+            0.01599866326511449
+          ],
+          [
+            "limit",
+            0.0141388474996847
+          ],
+          [
+            "periodic",
+            0.013468410018677518
+          ],
+          [
+            "scale",
+            0.01186913881842809
+          ],
+          [
+            "problem",
+            0.011310381080816343
+          ],
+          [
+            "order",
+            0.011028899594901123
+          ]
+        ],
+        "count": 986
+      },
+      "4": {
+        "name": "4_Boltzmann_Vlasov_equation_Landau",
+        "keywords": [
+          [
+            "Boltzmann",
+            0.053676242696827976
+          ],
+          [
+            "Vlasov",
+            0.031988852781255656
+          ],
+          [
+            "equation",
+            0.02951372833537801
+          ],
+          [
+            "Landau",
+            0.024410926147374886
+          ],
+          [
+            "Poisson",
+            0.021771423789965536
+          ],
+          [
+            "time",
+            0.01748112986296314
+          ],
+          [
+            "collision",
+            0.017332167082475904
+          ],
+          [
+            "solutions",
+            0.016301475691179172
+          ],
+          [
+            "cutoff",
+            0.014965499067815342
+          ],
+          [
+            "limit",
+            0.014814086003507676
+          ]
+        ],
+        "count": 649
+      },
+      "5": {
+        "name": "5_Einstein_wave_spacetime_null",
+        "keywords": [
+          [
+            "Einstein",
+            0.034575239909620185
+          ],
+          [
+            "wave",
+            0.027349324423591264
+          ],
+          [
+            "spacetime",
+            0.02734445843152789
+          ],
+          [
+            "null",
+            0.026922073962903432
+          ],
+          [
+            "spacetimes",
+            0.02560755999449791
+          ],
+          [
+            "Kerr",
+            0.02376935336816825
+          ],
+          [
+            "equations",
+            0.023365100815920022
+          ],
+          [
+            "black",
+            0.02285102414922473
+          ],
+          [
+            "data",
+            0.022688912948658185
+          ],
+          [
+            "solutions",
+            0.01901627321937213
+          ]
+        ],
+        "count": 635
+      },
+      "6": {
+        "name": "6_mean field_mean_games_field",
+        "keywords": [
+          [
+            "mean field",
+            0.04365561109306249
+          ],
+          [
+            "mean",
+            0.03703734340767744
+          ],
+          [
+            "games",
+            0.03473209019376467
+          ],
+          [
+            "field",
+            0.03409674987048005
+          ],
+          [
+            "control",
+            0.030466514409626905
+          ],
+          [
+            "field games",
+            0.026660300970078345
+          ],
+          [
+            "mean field games",
+            0.025828444032836666
+          ],
+          [
+            "Mean",
+            0.02532931014100651
+          ],
+          [
+            "game",
+            0.0250323426723852
+          ],
+          [
+            "Field",
+            0.02399875143349684
+          ]
+        ],
+        "count": 366
+      },
+      "7": {
+        "name": "7_waves_water_water waves_wave",
+        "keywords": [
+          [
+            "waves",
+            0.07051494236570313
+          ],
+          [
+            "water",
+            0.06838395842254064
+          ],
+          [
+            "water waves",
+            0.03650575373313225
+          ],
+          [
+            "wave",
+            0.03196547411689514
+          ],
+          [
+            "gravity",
+            0.03184593198941288
+          ],
+          [
+            "surface",
+            0.02695058708232342
+          ],
+          [
+            "shallow",
+            0.021595596884173195
+          ],
+          [
+            "shallow water",
+            0.02063798185289736
+          ],
+          [
+            "depth",
+            0.019927332470541546
+          ],
+          [
+            "vorticity",
+            0.018029226919550626
+          ]
+        ],
+        "count": 342
+      },
+      "8": {
+        "name": "8_stochastic_noise_Navier_Stokes",
+        "keywords": [
+          [
+            "stochastic",
+            0.058915130654824226
+          ],
+          [
+            "noise",
+            0.04248414663243032
+          ],
+          [
+            "Navier",
+            0.03738676642709041
+          ],
+          [
+            "Stokes",
+            0.036318005363279914
+          ],
+          [
+            "equations",
+            0.03219908431814775
+          ],
+          [
+            "Stokes equations",
+            0.024791782888109865
+          ],
+          [
+            "solutions",
+            0.02202143241033744
+          ],
+          [
+            "stochastic Navier",
+            0.0170370505138653
+          ],
+          [
+            "solution",
+            0.016570396895889336
+          ],
+          [
+            "deterministic",
+            0.016301186554331333
+          ]
+        ],
+        "count": 249
+      },
+      "9": {
+        "name": "9_transport_optimal transport_optimal_Wasserstein",
+        "keywords": [
+          [
+            "transport",
+            0.039360331862758315
+          ],
+          [
+            "optimal transport",
+            0.035280231391049084
+          ],
+          [
+            "optimal",
+            0.03503864550239264
+          ],
+          [
+            "Wasserstein",
+            0.035004514831085465
+          ],
+          [
+            "cost",
+            0.027375318485744923
+          ],
+          [
+            "measures",
+            0.021861310708362534
+          ],
+          [
+            "gradient",
+            0.020337662433433663
+          ],
+          [
+            "learning",
+            0.01870622903157716
+          ],
+          [
+            "graph",
+            0.017153306277487533
+          ],
+          [
+            "convergence",
+            0.01714179505501091
+          ]
+        ],
+        "count": 238
+      },
+      "10": {
+        "name": "10_stochastic_noise_equations_solutions",
+        "keywords": [
+          [
+            "stochastic",
+            0.05249953054559908
+          ],
+          [
+            "noise",
+            0.03619372932598996
+          ],
+          [
+            "equations",
+            0.026243732892862734
+          ],
+          [
+            "solutions",
+            0.017621379775985897
+          ],
+          [
+            "time",
+            0.01672848937047497
+          ],
+          [
+            "equation",
+            0.01629676640245331
+          ],
+          [
+            "differential",
+            0.01575449979091746
+          ],
+          [
+            "existence",
+            0.015612420489023856
+          ],
+          [
+            "solution",
+            0.015491955585284947
+          ],
+          [
+            "weak",
+            0.014928632164735871
+          ]
+        ],
+        "count": 186
+      },
+      "11": {
+        "name": "11_neural_PDEs_learning_networks",
+        "keywords": [
+          [
+            "neural",
+            0.04375992118040585
+          ],
+          [
+            "PDEs",
+            0.03363977140872733
+          ],
+          [
+            "learning",
+            0.03233326296764032
+          ],
+          [
+            "networks",
+            0.028462226158000172
+          ],
+          [
+            "neural networks",
+            0.028062690195534687
+          ],
+          [
+            "PINNs",
+            0.026712892819408637
+          ],
+          [
+            "PDE",
+            0.022917931254695056
+          ],
+          [
+            "Neural",
+            0.021395412036723196
+          ],
+          [
+            "deep",
+            0.021134113125553883
+          ],
+          [
+            "training",
+            0.01995694615631423
+          ]
+        ],
+        "count": 184
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.318428888143938,
+        -0.39618612590390967,
+        -0.18265371575158432,
+        -0.5083768134113539,
+        -0.556684929291943,
+        -0.6925679266815464,
+        -0.6934943352951881,
+        -0.663318471673737,
+        -0.6667825159731056,
+        -0.6533897526681021,
+        -0.7181895884585123
+      ],
+      [
+        -0.318428888143938,
+        1.0,
+        -0.4253883298984119,
+        -0.5822655836959225,
+        -0.6355869411470579,
+        -0.4631981808031175,
+        -0.711469440873632,
+        -0.7024837322787061,
+        -0.229320227826038,
+        -0.6933421632617196,
+        -0.5946480843298001,
+        -0.7149701148436878
+      ],
+      [
+        -0.39618612590390967,
+        -0.4253883298984119,
+        1.0,
+        -0.5109779663514699,
+        -0.6781300277998259,
+        -0.6650645498056583,
+        -0.7082585653189791,
+        -0.7021832972778778,
+        -0.6923670128890391,
+        -0.6817866464155281,
+        -0.6570941421622792,
+        -0.7131260050353059
+      ],
+      [
+        -0.18265371575158432,
+        -0.5822655836959225,
+        -0.5109779663514699,
+        1.0,
+        -0.6421351142008378,
+        -0.5811686338780593,
+        -0.6930750071418093,
+        -0.6945680943417734,
+        -0.6637985131696409,
+        -0.6638941460057322,
+        -0.6499327743109122,
+        -0.7271766748162396
+      ],
+      [
+        -0.5083768134113539,
+        -0.6355869411470579,
+        -0.6781300277998259,
+        -0.6421351142008378,
+        1.0,
+        -0.6587125518123047,
+        -0.7193487871646429,
+        -0.7236369229154679,
+        -0.7117959657100703,
+        -0.6882923347926988,
+        -0.6761709786318428,
+        -0.745733541713471
+      ],
+      [
+        -0.556684929291943,
+        -0.4631981808031175,
+        -0.6650645498056583,
+        -0.5811686338780593,
+        -0.6587125518123047,
+        1.0,
+        -0.7288188865443067,
+        -0.6741538969946471,
+        -0.6233717385290718,
+        -0.7004243895730826,
+        -0.5892158998401167,
+        -0.7337085106902348
+      ],
+      [
+        -0.6925679266815464,
+        -0.711469440873632,
+        -0.7082585653189791,
+        -0.6930750071418093,
+        -0.7193487871646429,
+        -0.7288188865443067,
+        1.0,
+        -0.7522361998126242,
+        -0.7133156652137841,
+        -0.6889707648884531,
+        -0.689263503612523,
+        -0.7146057463976689
+      ],
+      [
+        -0.6934943352951881,
+        -0.7024837322787061,
+        -0.7021832972778778,
+        -0.6945680943417734,
+        -0.7236369229154679,
+        -0.6741538969946471,
+        -0.7522361998126242,
+        1.0,
+        -0.7297950538662372,
+        -0.7503867355701564,
+        -0.7352175285430296,
+        -0.7442215803425115
+      ],
+      [
+        -0.663318471673737,
+        -0.229320227826038,
+        -0.6923670128890391,
+        -0.6637985131696409,
+        -0.7117959657100703,
+        -0.6233717385290718,
+        -0.7133156652137841,
+        -0.7297950538662372,
+        1.0,
+        -0.7243092582326245,
+        -0.15269923023474596,
+        -0.7079715566520255
+      ],
+      [
+        -0.6667825159731056,
+        -0.6933421632617196,
+        -0.6817866464155281,
+        -0.6638941460057322,
+        -0.6882923347926988,
+        -0.7004243895730826,
+        -0.6889707648884531,
+        -0.7503867355701564,
+        -0.7243092582326245,
+        1.0,
+        -0.6775961655736493,
+        -0.7237087966039661
+      ],
+      [
+        -0.6533897526681021,
+        -0.5946480843298001,
+        -0.6570941421622792,
+        -0.6499327743109122,
+        -0.6761709786318428,
+        -0.5892158998401167,
+        -0.689263503612523,
+        -0.7352175285430296,
+        -0.15269923023474596,
+        -0.6775961655736493,
+        1.0,
+        -0.4150073554598565
+      ],
+      [
+        -0.7181895884585123,
+        -0.7149701148436878,
+        -0.7131260050353059,
+        -0.7271766748162396,
+        -0.745733541713471,
+        -0.7337085106902348,
+        -0.7146057463976689,
+        -0.7442215803425115,
+        -0.7079715566520255,
+        -0.7237087966039661,
+        -0.4150073554598565,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        187,
+        64,
+        18,
+        13,
+        14,
+        16,
+        14,
+        17,
+        10,
+        2,
+        9,
+        6
+      ],
+      "2020-02": [
+        166,
+        42,
+        18,
+        12,
+        8,
+        22,
+        15,
+        15,
+        20,
+        18,
+        13,
+        8
+      ],
+      "2020-03": [
+        231,
+        61,
+        27,
+        9,
+        20,
+        21,
+        18,
+        18,
+        14,
+        9,
+        17,
+        10
+      ],
+      "2020-04": [
+        213,
+        54,
+        36,
+        16,
+        13,
+        24,
+        13,
+        16,
+        16,
+        6,
+        11,
+        11
+      ],
+      "2020-05": [
+        211,
+        76,
+        33,
+        18,
+        21,
+        22,
+        25,
+        15,
+        10,
+        8,
+        16,
+        12
+      ],
+      "2020-06": [
+        228,
+        78,
+        27,
+        13,
+        14,
+        20,
+        16,
+        21,
+        14,
+        10,
+        13,
+        15
+      ],
+      "2020-07": [
+        209,
+        58,
+        28,
+        25,
+        13,
+        22,
+        16,
+        20,
+        17,
+        15,
+        8,
+        7
+      ],
+      "2020-08": [
+        177,
+        56,
+        19,
+        11,
+        13,
+        26,
+        12,
+        20,
+        16,
+        7,
+        6,
+        6
+      ],
+      "2020-09": [
+        208,
+        55,
+        27,
+        16,
+        13,
+        17,
+        14,
+        19,
+        16,
+        10,
+        10,
+        4
+      ],
+      "2020-10": [
+        198,
+        60,
+        27,
+        15,
+        18,
+        33,
+        22,
+        27,
+        10,
+        14,
+        12,
+        6
+      ],
+      "2020-11": [
+        178,
+        61,
+        26,
+        22,
+        7,
+        19,
+        16,
+        23,
+        17,
+        10,
+        12,
+        8
+      ],
+      "2020-12": [
+        205,
+        67,
+        29,
+        14,
+        16,
+        21,
+        15,
+        15,
+        14,
+        14,
+        19,
+        9
+      ],
+      "2021-01": [
+        169,
+        44,
+        32,
+        13,
+        7,
+        20,
+        17,
+        15,
+        17,
+        12,
+        12,
+        7
+      ],
+      "2021-02": [
+        190,
+        59,
+        18,
+        14,
+        10,
+        18,
+        8,
+        26,
+        10,
+        13,
+        9,
+        4
+      ],
+      "2021-03": [
+        226,
+        59,
+        29,
+        12,
+        19,
+        23,
+        7,
+        39,
+        10,
+        9,
+        9,
+        7
+      ],
+      "2021-04": [
+        191,
+        50,
+        23,
+        18,
+        22,
+        27,
+        20,
+        19,
+        14,
+        17,
+        11,
+        10
+      ],
+      "2021-05": [
+        173,
+        64,
+        27,
+        11,
+        20,
+        23,
+        14,
+        18,
+        19,
+        14,
+        13,
+        7
+      ],
+      "2021-06": [
+        212,
+        57,
+        22,
+        20,
+        17,
+        21,
+        12,
+        15,
+        14,
+        13,
+        9,
+        10
+      ],
+      "2021-07": [
+        226,
+        78,
+        26,
+        14,
+        11,
+        21,
+        25,
+        18,
+        12,
+        14,
+        10,
+        9
+      ],
+      "2021-08": [
+        197,
+        55,
+        21,
+        10,
+        5,
+        22,
+        18,
+        17,
+        13,
+        10,
+        12,
+        10
+      ],
+      "2021-09": [
+        197,
+        72,
+        22,
+        10,
+        13,
+        21,
+        13,
+        24,
+        20,
+        7,
+        12,
+        8
+      ],
+      "2021-10": [
+        179,
+        61,
+        24,
+        16,
+        15,
+        18,
+        6,
+        26,
+        17,
+        16,
+        12,
+        4
+      ],
+      "2021-11": [
+        191,
+        71,
+        21,
+        13,
+        24,
+        22,
+        15,
+        20,
+        23,
+        12,
+        16,
+        19
+      ],
+      "2021-12": [
+        213,
+        60,
+        20,
+        24,
+        14,
+        30,
+        14,
+        15,
+        15,
+        10,
+        9,
+        11
+      ],
+      "2022-01": [
+        212,
+        63,
+        22,
+        19,
+        18,
+        26,
+        16,
+        27,
+        18,
+        6,
+        5,
+        8
+      ],
+      "2022-02": [
+        183,
+        56,
+        23,
+        13,
+        10,
+        22,
+        12,
+        20,
+        11,
+        13,
+        12,
+        4
+      ],
+      "2022-03": [
+        238,
+        68,
+        18,
+        12,
+        17,
+        38,
+        19,
+        19,
+        17,
+        5,
+        17,
+        6
+      ],
+      "2022-04": [
+        212,
+        69,
+        22,
+        10,
+        13,
+        24,
+        16,
+        17,
+        13,
+        14,
+        9,
+        14
+      ],
+      "2022-05": [
+        175,
+        61,
+        21,
+        22,
+        22,
+        22,
+        18,
+        12,
+        12,
+        9,
+        12,
+        8
+      ],
+      "2022-06": [
+        194,
+        70,
+        18,
+        11,
+        18,
+        18,
+        9,
+        11,
+        12,
+        11,
+        11,
+        14
+      ],
+      "2022-07": [
+        211,
+        63,
+        22,
+        15,
+        19,
+        14,
+        16,
+        13,
+        21,
+        9,
+        14,
+        10
+      ],
+      "2022-08": [
+        202,
+        57,
+        14,
+        8,
+        16,
+        15,
+        7,
+        13,
+        14,
+        7,
+        9,
+        12
+      ],
+      "2022-09": [
+        192,
+        53,
+        17,
+        17,
+        11,
+        20,
+        10,
+        16,
+        17,
+        11,
+        11,
+        9
+      ],
+      "2022-10": [
+        240,
+        70,
+        18,
+        14,
+        27,
+        23,
+        15,
+        24,
+        12,
+        11,
+        10,
+        5
+      ],
+      "2022-11": [
+        218,
+        60,
+        19,
+        9,
+        17,
+        26,
+        14,
+        15,
+        12,
+        10,
+        11,
+        10
+      ],
+      "2022-12": [
+        173,
+        74,
+        23,
+        15,
+        20,
+        27,
+        15,
+        21,
+        16,
+        11,
+        9,
+        9
+      ],
+      "2023-01": [
+        186,
+        59,
+        25,
+        16,
+        13,
+        17,
+        18,
+        12,
+        14,
+        10,
+        11,
+        9
+      ],
+      "2023-02": [
+        173,
+        50,
+        23,
+        13,
+        10,
+        28,
+        21,
+        10,
+        9,
+        16,
+        8,
+        10
+      ],
+      "2023-03": [
+        204,
+        64,
+        27,
+        16,
+        20,
+        27,
+        15,
+        18,
+        18,
+        15,
+        10,
+        10
+      ],
+      "2023-04": [
+        226,
+        53,
+        22,
+        11,
+        22,
+        20,
+        20,
+        24,
+        13,
+        14,
+        12,
+        11
+      ],
+      "2023-05": [
+        228,
+        75,
+        19,
+        16,
+        20,
+        19,
+        16,
+        24,
+        18,
+        9,
+        14,
+        14
+      ],
+      "2023-06": [
+        215,
+        67,
+        20,
+        17,
+        15,
+        22,
+        10,
+        23,
+        14,
+        12,
+        8,
+        8
+      ],
+      "2023-07": [
+        186,
+        64,
+        29,
+        9,
+        19,
+        17,
+        16,
+        20,
+        16,
+        19,
+        7,
+        13
+      ],
+      "2023-08": [
+        200,
+        75,
+        19,
+        12,
+        19,
+        20,
+        14,
+        16,
+        15,
+        16,
+        13,
+        9
+      ],
+      "2023-09": [
+        212,
+        61,
+        21,
+        9,
+        18,
+        20,
+        22,
+        23,
+        9,
+        18,
+        12,
+        12
+      ],
+      "2023-10": [
+        262,
+        77,
+        22,
+        12,
+        17,
+        19,
+        34,
+        24,
+        14,
+        10,
+        16,
+        20
+      ],
+      "2023-11": [
+        233,
+        72,
+        21,
+        15,
+        16,
+        14,
+        17,
+        19,
+        17,
+        11,
+        13,
+        8
+      ],
+      "2023-12": [
+        203,
+        65,
+        21,
+        10,
+        13,
+        25,
+        15,
+        30,
+        13,
+        8,
+        11,
+        7
+      ],
+      "2024-01": [
+        200,
+        78,
+        24,
+        13,
+        16,
+        26,
+        20,
+        32,
+        17,
+        15,
+        14,
+        22
+      ],
+      "2024-02": [
+        198,
+        57,
+        21,
+        21,
+        19,
+        29,
+        26,
+        30,
+        26,
+        13,
+        16,
+        11
+      ],
+      "2024-03": [
+        230,
+        59,
+        35,
+        19,
+        12,
+        18,
+        21,
+        26,
+        11,
+        11,
+        14,
+        12
+      ],
+      "2024-04": [
+        204,
+        79,
+        20,
+        13,
+        7,
+        13,
+        15,
+        19,
+        12,
+        12,
+        13,
+        7
+      ],
+      "2024-05": [
+        249,
+        66,
+        28,
+        15,
+        15,
+        15,
+        27,
+        25,
+        16,
+        15,
+        11,
+        9
+      ],
+      "2024-06": [
+        200,
+        71,
+        27,
+        17,
+        16,
+        16,
+        15,
+        31,
+        13,
+        7,
+        17,
+        12
+      ],
+      "2024-07": [
+        255,
+        92,
+        23,
+        12,
+        13,
+        32,
+        18,
+        10,
+        32,
+        11,
+        12,
+        10
+      ],
+      "2024-08": [
+        191,
+        60,
+        28,
+        13,
+        20,
+        25,
+        13,
+        21,
+        20,
+        14,
+        11,
+        11
+      ],
+      "2024-09": [
+        206,
+        80,
+        36,
+        10,
+        18,
+        24,
+        22,
+        29,
+        23,
+        14,
+        12,
+        12
+      ],
+      "2024-10": [
+        223,
+        78,
+        26,
+        14,
+        14,
+        24,
+        16,
+        24,
+        22,
+        15,
+        22,
+        10
+      ],
+      "2024-11": [
+        234,
+        90,
+        28,
+        14,
+        13,
+        21,
+        19,
+        20,
+        24,
+        11,
+        14,
+        11
+      ],
+      "2024-12": [
+        246,
+        71,
+        30,
+        15,
+        15,
+        28,
+        23,
+        23,
+        22,
+        15,
+        14,
+        17
+      ],
+      "2025-01": [
+        232,
+        54,
+        28,
+        13,
+        22,
+        32,
+        14,
+        22,
+        22,
+        17,
+        11,
+        17
+      ],
+      "2025-02": [
+        230,
+        69,
+        24,
+        17,
+        15,
+        26,
+        13,
+        33,
+        12,
+        9,
+        9,
+        9
+      ],
+      "2025-03": [
+        218,
+        79,
+        26,
+        15,
+        15,
+        25,
+        14,
+        26,
+        19,
+        14,
+        12,
+        15
+      ],
+      "2025-04": [
+        218,
+        76,
+        34,
+        13,
+        22,
+        26,
+        16,
+        20,
+        19,
+        18,
+        13,
+        14
+      ],
+      "2025-05": [
+        255,
+        73,
+        19,
+        14,
+        22,
+        28,
+        22,
+        20,
+        16,
+        16,
+        11,
+        18
+      ],
+      "2025-06": [
+        217,
+        70,
+        21,
+        15,
+        17,
+        20,
+        16,
+        17,
+        15,
+        13,
+        6,
+        17
+      ],
+      "2025-07": [
+        284,
+        90,
+        34,
+        20,
+        12,
+        28,
+        17,
+        11,
+        27,
+        15,
+        12,
+        16
+      ],
+      "2025-08": [
+        211,
+        66,
+        18,
+        13,
+        15,
+        26,
+        20,
+        14,
+        23,
+        15,
+        6,
+        9
+      ],
+      "2025-09": [
+        139,
+        34,
+        17,
+        6,
+        10,
+        16,
+        10,
+        12,
+        8,
+        7,
+        10,
+        10
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Global existence and scattering for the inhomogeneous nonlinear Schrödinger equation",
+          "year": "2021-08",
+          "abstract": "In this paper we consider the inhomogeneous nonlinear Schr\\\"odinger equation\n$i\\partial_t u +\\Delta u=K(x)|u|^\\alpha u,\\, u(0)=u_0\\in H^s({\\mathbb R}^N),\\,\ns=0,\\,1,$ $N\\geq 1,$ $|K(x)|+|x|^s|\\nabla^sK(x)|\\lesssim |x|^{-b},$\n$0<b<\\min(2,N-2s),$ $0<\\alpha<{(4-2b)/(N-2s)}$. We obtain novel results of\nglobal existence for oscillating initial data and scattering theory in a\nweighted $L^2$-space for a new range $\\alpha_0(b)<\\alpha<(4-2b)/N$. The value\n$\\alpha_0(b)$ is the positive root of $N\\alpha^2+(N-2+2b)\\alpha-4+2b=0,$ which\nextends the Strauss exponent known for $b=0$. Our results improve the known\nones for $K(x)=\\mu|x|^{-b}$, $\\mu\\in \\mathbb{C}$ and apply for more general\npotentials. In particular, we show the impact of the behavior of the potential\nat the origin and infinity on the allowed range of $\\alpha$. Some decay\nestimates are also established for the defocusing case. To prove the scattering\nresults, we give a new criterion taking into account the potential $K$.",
+          "arxiv_id": "2108.02583v1"
+        },
+        {
+          "title": "Scattering theory for the defocusing 3d NLS in the exterior of a strictly convex obstacle",
+          "year": "2024-12",
+          "abstract": "In this paper, we investigate the global well-posedness and scattering theory\nfor the defocusing nonlinear Schr\\\"odinger equation $iu_t + \\Delta_\\Omega u =\n|u|^\\alpha u$ in the exterior domain $\\Omega$ of a smooth, compact and strictly\nconvex obstacle in $\\mathbb{R}^3$. It is conjectured that in Euclidean space,\nif the solution has a prior bound in the critical Sobolev space, that is, $u\n\\in L_t^\\infty(I; \\dot{H}_x^{s_c}(\\mathbb{R}^3))$ with $s_c := \\frac{3}{2} -\n\\frac{2}{\\alpha} \\in (0, \\frac{3}{2})$, then $u$ is global and scatters. In\nthis paper, assuming that this conjecture holds, we prove that if $u$ is a\nsolution to the nonlinear Schr\\\"odinger equation in exterior domain $\\Omega$\nwith Dirichlet boundary condition and satisfies $u \\in L_t^\\infty(I;\n\\dot{H}^{s_c}_D(\\Omega))$ with $s_c \\in \\left[\\frac{1}{2}, \\frac{3}{2}\\right)$,\nthen $u$ is global and scatters.\n  The proof of the main results relies on the\nconcentration-compactness/rigidity argument of Kenig and Merle [Invent. Math.\n{\\bf 166} (2006)]. The main difficulty is to construct minimal counterexamples\nwhen the scaling and translation invariance breakdown on $\\Omega$. To achieve\nthis, two key ingredients are required. First, we adopt the approach of Killip,\nVisan, and Zhang [Amer. J. Math. {\\bf 138} (2016)] to derive the linear profile\ndecomposition for the linear propagator $e^{it\\Delta_\\Omega}$ in\n$\\dot{H}^{s_c}(\\Omega)$. The second ingredient is the embedding of the\nnonlinear profiles. More precisely, we need to demonstrate that nonlinear\nsolutions in the limiting geometries, which exhibit global spacetime bounds,\ncan be embedded back into $\\Omega$. Finally, to rule out the minimal\ncounterexamples, we will establish long-time Strichartz estimates for the\nexterior domain NLS, along with spatially localized and frequency-localized\nMorawetz estimates.",
+          "arxiv_id": "2412.13215v3"
+        },
+        {
+          "title": "Elliptic theory in domains with boundaries of mixed dimension",
+          "year": "2020-03",
+          "abstract": "Take an open domain $\\Omega \\subset \\mathbb R^n$ whose boundary may be\ncomposed of pieces of different dimensions. For instance, $\\Omega$ can be a\nball on $\\mathbb R^3$, minus one of its diameters $D$, or $\\Omega \\subset\n\\mathbb R^3$ could be a so-called saw-tooth domain, with a boundary consisting\nof pieces of 1-dimensional curves intercepted by 2-dimensional spheres. Under\nappropriate geometric assumptions, such as the existence of doubling measures\non $\\Omega$ and $\\partial \\Omega$ with appropriate size conditions, we\nconstruct a class of degenerate elliptic operators $L$ adapted to the geometry,\nand establish key estimates of elliptic theory associated to those operators.\nThis includes boundary Poincar\\'e and Harnack inequalities, maximum principle,\nand H\\\"older continuity of solutions at the boundary. We introduce Hilbert\nspaces naturally associated to the geometry, construct appropriate trace and\nextension operators, and use them to define weak solutions to $Lu=0$. Then we\nprove De Giorgi-Nash-Moser estimates inside $\\Omega$ and on the boundary, solve\nthe Dirichlet problem and thus construct an elliptic measure $\\omega_L$\nassociated to $L$. At last, we introduce Green functions, and use them to prove\na comparison principle. Since our theory emphasizes measures, rather than the\ngeometry per se, the results are new even in the classical setting of a\nhalf-plane $\\mathbb R^2_+$ when the boundary $\\partial \\mathbb R^2_+= \\mathbb\nR$ is equipped with a doubling measure $\\mu$ singular with respect to the\nLebesgue measure on $\\mathbb R$. Finally, the present paper provides a\ngeneralization of the celebrated Caffarelli-Sylvestre extension operator from\nits classical setting of $\\mathbb R^{n+1}_+$ to general open sets, and hence,\nan extension of the concept of fractional Laplacian to Ahlfors regular\nboundaries and beyond.",
+          "arxiv_id": "2003.09037v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Global existence theorem for the three-dimensional isentropic compressible Navier-Stokes flow in the exterior of a rotating obstacle",
+          "year": "2021-12",
+          "abstract": "In this paper, we consider the initial-boundary value problem of\nthree-dimensional isentropic compressible Navier-Stokes equations with rotating\neffect terms in an exterior domain with Navier-slip boundary condition and with\nfar-field vacuum. This problem is related to the motion of the compressible\nviscous flow past a rotating obstacle. We establish the global existence and\nuniqueness of classical solutions, provided that the initial mass is small. The\ninitial data and the angular velocity of the obstacle are allowed to have large\noscillations.",
+          "arxiv_id": "2112.07920v1"
+        },
+        {
+          "title": "Navier-Stokes equations in a curved thin domain, Part III: thin-film limit",
+          "year": "2020-02",
+          "abstract": "We consider the Navier-Stokes equations with Navier's slip boundary\nconditions in a three-dimensional curved thin domain around a given closed\nsurface. Under suitable assumptions we show that the average in the thin\ndirection of a strong solution to the bulk Navier-Stokes equations converges\nweakly in appropriate function spaces on the limit surface as the thickness of\nthe thin domain tends to zero. Moreover, we characterize the limit as a weak\nsolution to limit equations, which are the damped and weighted Navier-Stokes\nequations on the limit surface. We also prove the strong convergence of the\naverage of a strong solution to the bulk equations towards a weak solution to\nthe limit equations by showing estimates for the difference between them. In\nsome special case our limit equations agree with the Navier-Stokes equations on\na Riemannian manifold in which the viscous term contains the Ricci curvature.\nThis is the first result on a rigorous derivation of the surface Navier-Stokes\nequations on a general closed surface by the thin-film limit.",
+          "arxiv_id": "2002.06350v2"
+        },
+        {
+          "title": "Vanishing Viscosity Limit of the Three-Dimensional Barotropic Compressible Navier-Stokes Equations with Degenerate Viscosities and Far-Field Vacuum",
+          "year": "2020-02",
+          "abstract": "We are concerned with the inviscid limit of the Navier-Stokes equations to\nthe Euler equations for barotropic compressible fluids in $\\mathbb{R}^3$. When\nthe viscosity coefficients obey a lower power-law of the density (i.e.,\n$\\rho^\\delta$ with $0<\\delta<1$), we identify a quasi-symmetric\nhyperbolic--singular elliptic coupled structure of the Navier-Stokes equations\nto control the behavior of the velocity of the fluids near the vacuum. Then\nthis structure is employed to prove that there exists a unique regular solution\nto the corresponding Cauchy problem with arbitrarily large initial data and\nfar-field vacuum, whose life span is uniformly positive in the vanishing\nviscosity limit. Some uniform estimates on both the local sound speed and the\nvelocity in $H^3(\\mathbb{R}^3)$ with respect to the viscosity coefficients are\nalso obtained, which lead to the strong convergence of the regular solutions of\nthe Navier-Stokes equations with finite mass and energy to the corresponding\nregular solutions of the Euler equations in $L^{\\infty}([0, T]; H^{s}_{\\rm\nloc}(\\mathbb{R}^3))$ for any $s\\in [2, 3)$. As a consequence, we show that, for\nboth viscous and inviscid flows, it is impossible that the $L^\\infty$ norm of\nany global regular solution with vacuum decays to zero asymptotically, as $t$\ntends to infinity. Our framework developed here is applicable to the same\nproblem for the other physical dimensions via some minor modifications.",
+          "arxiv_id": "2002.06293v3"
+        }
+      ],
+      "2": [
+        {
+          "title": "Mathematical treatment of PDE model describing chemotactic E. coli colonies",
+          "year": "2020-03",
+          "abstract": "We consider an initial-boundary value problem describing the formation of\ncolony patterns of bacteria Escherichia coli. This model consists of\nreaction-diffusion equations coupled with the Keller-Segel system from the\nchemotaxis theory in a bounded domain, supplemented with zero-flux boundary\nconditions and with non-negative initial data. We answer questions on the\nglobal in time existence of solutions as well as on their large time behaviour.\nMoreover, we show that solutions of a related model may blow up in a finite\ntime.",
+          "arxiv_id": "2003.06010v2"
+        },
+        {
+          "title": "Reaction-diffusion systems from kinetic models for bacterial communities on a leaf surface",
+          "year": "2025-01",
+          "abstract": "Many mathematical models for biological phenomena, such as the spread of\ndiseases, are based on reaction-diffusion equations for densities of\ninteracting cell populations. We present a consistent derivation of\nreaction-diffusion equations from systems of suitably rescaled kinetic\nBoltzmann equations for distribution functions of cell populations interacting\nin a host medium. We show at first that the classical diffusive limit of\nkinetic equations leads to linear diffusion terms only. Then, we show possible\nstrategies in order to obtain, from the kinetic level, macroscopic systems with\nnonlinear diffusion and also with cross-diffusion effects. The derivation from\na kinetic description has the advantage of relating reaction and diffusion\ncoefficients to the microscopic parameters of the interactions. We present an\napplication of our approach to the study of the evolution of different\nbacterial populations on a leaf surface. Turing instability properties of the\nrelevant macroscopic systems are investigated by analytical methods and\nnumerical tools, with particular emphasis on pattern formation for varying\nparameters in two-dimensional space domains.",
+          "arxiv_id": "2501.17192v1"
+        },
+        {
+          "title": "How reaction-diffusion PDEs approximate the large-population limit of stochastic particle models",
+          "year": "2020-09",
+          "abstract": "Reaction-diffusion PDEs and particle-based stochastic reaction-diffusion\n(PBSRD) models are commonly-used approaches for modeling the spatial dynamics\nof chemical and biological systems. Standard reaction-diffusion PDE models\nignore the underlying stochasticity of spatial transport and reactions, and are\noften described as appropriate in regimes where there are large numbers of\nparticles in a system. Recent studies have proven the rigorous large-population\nlimit of PBSRD models, showing the resulting mean-field models (MFM) correspond\nto non-local systems of partial-integro differential equations. In this work we\nexplore the rigorous relationship between standard reaction-diffusion PDE\nmodels and the derived MFM. We prove that the former can be interpreted as an\nasymptotic approximation to the later in the limit that bimolecular reaction\nkernels are short-range and averaging. As the reactive interaction length scale\napproaches zero, we prove the MFMs converge at second order to standard\nreaction-diffusion PDE models. In proving this result we also establish local\nwell-posedness of the MFM model in time for general systems, and global\nwell-posedness for specific reaction systems and kernels. Finally, we\nillustrate the agreement and disagreement between the MFM, SM and the\nunderlying particle model for several numerical examples.",
+          "arxiv_id": "2009.01392v3"
+        }
+      ],
+      "3": [
+        {
+          "title": "A closure theorem for $Γ$-convergence and H-convergence with applications to non-periodic homogenization",
+          "year": "2024-02",
+          "abstract": "In this work we examine the stability of some classes of integrals, and in\nparticular with respect to homogenization. The prototypical case is the\nhomogenization of quadratic energies with periodic coefficients perturbed by a\nterm vanishing at infinity, which has been recently examined in the framework\nof elliptic PDE. We use localization techniques and higher-integrability\nMeyers-type results to provide a closure theorem by $\\Gamma$-convergence within\na large class of integral functionals. From such result we derive stability\ntheorems in homogenization which comprise the case of perturbations with zero\naverage on the whole space. The results are also extended to the stochastic\ncase, and specialized to the $G$-convergence of operators corresponding to\nquadratic forms. A corresponding analysis is also carried on for non-symmetric\noperators using the localization properties of $H$-convergence. Finally, we\ntreat the case of perforated domains with Neumann boundary condition, and their\nstability.",
+          "arxiv_id": "2402.19031v2"
+        },
+        {
+          "title": "Extension operators and Korn inequality for variable coefficients in perforated domains with applications to homogenization of viscoelastic non-simple materials",
+          "year": "2023-08",
+          "abstract": "In this paper we present the homogenization for nonlinear viscoelastic\nsecond-grade non-simple perforated materials at large strain in the quasistatic\nsetting. The reference domain $\\Omega_{\\varepsilon}$ is periodically perforated\nand is depending on the scaling parameter $\\varepsilon$ which describes the\nratio between the size of the whole domain and the small periodic perforations.\nThe mechanical energy depends on the gradient and also the second gradient of\nthe deformation, and also respects positivity of the determinant of the\ndeformation gradient. For the viscous stresses we assume dynamic frame\nindifference and is therefore depending of the rate of the Cauchy-stress\ntensor. For the derivation of the homogenized model for $\\varepsilon \\to 0$ we\nuse the method of two-scale convergence. For this uniform a priori estimates\nwith respect to $\\varepsilon$ are necessary. The most crucial part is to\nestimate the rate of the deformation gradient. Due to the time-dependent frame\nindifference of the viscous term, we only get coercivity with respect to the\nrate of the Cauchy-stress tensor. To overcome this problem we derive a Korn\ninequality for non-constant coefficients on the perforated domain. The crucial\npoint is to verify that the constant in this inequality, which is usually\ndepending on the domain, can be chosen independently of the parameter\n$\\varepsilon$. Further, we construct an extension operator for second order\nSobolev spaces on perforated domains with operator norm independent of\n$\\varepsilon$.",
+          "arxiv_id": "2308.15155v2"
+        },
+        {
+          "title": "Linearization and Homogenization of nonlinear elasticity close to stress-free joints",
+          "year": "2024-06",
+          "abstract": "In this paper, we study a hyperelastic composite material with a periodic\nmicrostructure and a prestrain close to a stress-free joint. We consider two\nlimits associated with linearization and homogenization. Unlike previous\nstudies that focus on composites with a stress-free reference configuration,\nthe minimizers of the elastic energy functional in the prestrained case are not\nexplicitly known. Consequently, it is initially unclear at which deformation to\nperform the linearization. Our main result shows that both the consecutive and\nsimultaneous limits converge to a single homogenized model of linearized\nelasticity. This model features a homogenized prestrain and provides\nfirst-order information about the minimizers of the original nonlinear model.\nWe find that the homogenization of the material and the homogenization of the\nprestrain are generally coupled and cannot be considered separately.\nAdditionally, we establish an asymptotic quadratic expansion of the homogenized\nstored energy function and present a detailed analysis of the effective model\nfor laminate composite materials. A key analytical contribution of our paper is\na new mixed-growth version of the geometric rigidity estimate for Jones\ndomains. The proof of this result relies on the construction of an extension\noperator for Jones domains adapted to geometric rigidity.",
+          "arxiv_id": "2406.04831v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "The Non-cutoff Vlasov-Poisson-Boltzmann and Vlasov-Poisson-Landau Systems in Union of Cubes",
+          "year": "2021-12",
+          "abstract": "This work concerns the Vlasov-Poisson-Boltzmann system without angular cutoff\nand Vlasov-Poisson-Landau system including Coulomb interaction in bounded\ndomain, namely union of cubes. We establish the global stability, exponential\nlarge-time decay with specular-reflection boundary condition when an initial\ndatum is near Maxwellian equilibrium. We provide the compatible specular\nboundary condition for high-order derivatives and a velocity weighted energy\nestimate.",
+          "arxiv_id": "2112.02315v2"
+        },
+        {
+          "title": "Global existence for an isotropic modification of the Boltzmann equation",
+          "year": "2023-04",
+          "abstract": "Motivated by the open problem of large-data global existence for the\nnon-cutoff Boltzmann equation, we introduce a model equation that in some sense\ndisregards the anisotropy of the Boltzmann collision kernel. We refer to this\nmodel equation as isotropic Boltzmann, by analogy with the isotropic Landau\nequation introduced by Krieger and Strain [Comm. Partial Differential Equations\n37(4), 2012, 647--689]. The collision operator of our isotropic Boltzmann model\nconverges to the isotropic Landau collision operator under a scaling limit that\nis analogous to the grazing collisions limit connecting (true) Boltzmann with\n(true) Landau.\n  Our main result is global existence for the isotropic Boltzmann equation in\nthe space homogeneous case, for certain parts of the \"very soft potentials\"\nregime in which global existence is unknown for the space homogeneous Boltzmann\nequation. The proof strategy is inspired by the work of Gualdani-Guillen [J.\nFunct. Anal. 283(6), 2022, Paper No. 109559] on isotropic Landau, and makes use\nof recent progress on weighted fractional Hardy inequalities.",
+          "arxiv_id": "2304.12353v2"
+        },
+        {
+          "title": "Diffusive Limit of the Vlasov-Poisson-Boltzmann System for the Full Range of Cutoff Potentials",
+          "year": "2023-07",
+          "abstract": "Diffusive limit of the Vlasov-Poisson-Boltzmann system with cutoff soft\npotentials $-3<\\gamma<0$ in the perturbative framework around global Maxwellian\nstill remains open. By introducing a new weighted $H_{x,v}^2$-$W_{x,v}^{2,\n\\infty}$ approach with time decay, we solve this problem for the full range of\ncutoff potentials $-3<\\gamma\\leq 1$. The core of this approach lies in the\ninterplay between the velocity weighted $H_{x,v}^2$ energy estimate with time\ndecay and the time-velocity weighted $W_{x,v}^{2,\\infty}$ estimate with time\ndecay for the Vlasov-Poisson-Boltzmann system, which leads to the uniform\nestimate with respect to the Knudsen number $\\varepsilon\\in (0,1]$ globally in\ntime. As a result, global strong solution is constructed and incompressible\nNavier-Stokes-Fourier-Poisson limit is rigorously justified for both hard and\nsoft potentials. Meanwhile, this uniform estimate with respect to\n$\\varepsilon\\in (0,1]$ also yields optimal $L^2$ time decay rate and $L^\\infty$\ntime decay rate for the Vlasov-Poisson-Boltzmann system and its incompressible\nNavier-Stokes-Fourier-Poisson limit. This newly introduced weighted\n$H_{x,v}^2$-$W_{x,v}^{2, \\infty}$ approach with time decay is flexible and\nrobust, as it can deal with both optimal time decay problems and hydrodynamic\nlimit problems in a unified framework for the Boltzmann equation as well as the\nVlasov-Poisson-Boltzmann system for the full range of cutoff potentials. It is\nalso expected to shed some light on the more challenging hydrodynamic limit of\nthe Landau equation and the Vlasov-Poisson-Landau system.",
+          "arxiv_id": "2307.14088v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Microlocal analysis near null infinity in asymptotically flat spacetimes",
+          "year": "2023-02",
+          "abstract": "We present a novel approach to the analysis of regularity and decay for\nsolutions of wave equations in a neighborhood of null infinity in\nasymptotically flat spacetimes of any dimension. The classes of metrics and\nwave type operators we consider near null infinity include those arising in\nnonlinear stability problems for Einstein's field equations in $1+3$\ndimensions. In a neighborhood of null infinity, in an appropriate\ncompactification of the spacetime to a manifold with corners, the wave\noperators are of edge type at null infinity and totally characteristic at\nspacelike and future timelike infinity. On a corresponding scale of Sobolev\nspaces, we demonstrate how microlocal regularity propagates across or into null\ninfinity via a sequence of radial sets. As an application, inspired by work of\nthe second author with Baskin and Wunsch, we prove regularity and decay\nestimates for forward solutions of wave type equations on asymptotically flat\nspacetimes which are asymptotically homogeneous with respect to scaling in the\nforward timelike cone and have an appropriate structure at null infinity. These\nestimates are new even for the wave operator on Minkowski space.\n  The results obtained here are also used as black boxes in a global theory of\nwave type equations on asymptotically flat and asymptotically stationary\nspacetimes developed by the first author.",
+          "arxiv_id": "2302.14613v1"
+        },
+        {
+          "title": "The Euclidean-hyperboloidal foliation method. Application to f(R) modified gravity",
+          "year": "2023-12",
+          "abstract": "This paper is a part of a series devoted to the Euclidean-hyperboloidal\nfoliation method introduced by the authors for investigating the global\nexistence problem associated with nonlinear systems of coupled\nwave-Klein-Gordon equations with small data. This method was developed\nespecially for investigating the initial value problem for the Einstein-massive\nfield system in wave gauge. Here, we study the (fourth-order) field equations\nof f(R) modified gravity and investigate the global dynamical behavior of the\ngravitational field in the near-Minkowski regime. We establish the existence of\na globally hyperbolic Cauchy development approaching Minkowski spacetime (in\nspacelike, null, and timelike directions), when the initial data set is\nsufficiently close to an asymptotically Euclidean and spacelike hypersurface in\nMinkowski spacetime. We cast the (fourth-order) f(R)-field equations in the\nform of a second-order wave-Klein-Gordon system, which has an analogous\nstructure to the Einstein-massive field system but, in addition, involves a\n(possibly small) effective mass parameter. We establish the nonlinear stability\nof the Minkowski spacetime in the context of f(R) gravity, when the integrand\nf(R) in the action functional can be taken to be arbitrarily close to the\nintegrand R of the standard Hilbert-Einstein action.",
+          "arxiv_id": "2312.17712v3"
+        },
+        {
+          "title": "Mass inflation from rough initial data for the spherically symmetric Einstein-Maxwell-scalar field system with $Λ$",
+          "year": "2025-06",
+          "abstract": "Recent rigorous results on black hole interiors clearly suggest that the\nstrong cosmic censorship conjecture fails in its most fundamental, i.e. weak,\nformulation: violations are expected for a class of spherically symmetric\ncharged black holes in the presence of a positive cosmological constant near\nextremality. These results require sufficiently regular solutions. Conversely,\nwhen non-smooth, finite-energy initial data are prescribed for linear waves\npropagating on a fixed black hole background belonging to the aforementioned\nfamily, it was shown that the local energy of these linear waves blows up at\nthe Cauchy horizon, hence hinting that non-smooth initial data may suppress the\npossible violations of the $H^1$ formulation of strong cosmic censorship. In\nline with this intuition, we prove that rough initial data can also trigger an\ninstability at the Cauchy horizon in the non-linear setting, via mass\ninflation. In particular, we analyse a characteristic initial value problem for\nthe spherically symmetric Einstein-Maxwell-real scalar field system describing\nthe interior of a black hole. Our results show that, when prescribing 1)\ninitial data asymptotically approaching those of a sub-extremal\nReissner-Nordstr\\\"om-de Sitter solution, and 2) initial data belonging to\n$W^{1, 2}\\setminus W^{1, q}$, for every $q > 2$, along the initial ingoing\ncompact segment; then the Hawking mass diverges at the Cauchy horizon of the\nblack hole solution we construct, for every parameter choice of the reference\nblack hole. In this larger family of configurations, we prove that the smooth\ndata suggesting violations of strong cosmic censorship are non-generic in a\n``positive co-dimension'' sense, conditionally to the validity of the expected\nPrice law bounds. Moreover, we illustrate the transition between smooth and\nrough initial data.",
+          "arxiv_id": "2506.08075v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Mean Field Games of Controls: Propagation of Monotonicities",
+          "year": "2022-05",
+          "abstract": "The theory of Mean Field Game of Controls considers a class of mean field\ngames where the interaction is through the joint distribution of the state and\ncontrol. It is well known that, for standard mean field games, certain\nmonotonicity condition is crucial to guarantee the uniqueness of mean field\nequilibria and then the global wellposedness for master equations. In the\nliterature, the monotonicity condition could be the Lasry-Lions monotonicity,\nthe displacement monotonicity, or the anti-monotonicity conditions. In this\npaper, we investigate all these three types of monotonicity conditions for Mean\nField Games of Controls and show their propagation along the solutions to the\nmaster equations with common noises. In particular, we extend the displacement\nmonotonicity to semi-monotonicity, whose propagation result is new even for\nstandard mean field games. This is the first step towards the global\nwellposedness theory for master equations of Mean Field Games of Controls.",
+          "arxiv_id": "2205.13403v2"
+        },
+        {
+          "title": "Master equations for finite state mean field games with nonlinear activations",
+          "year": "2022-12",
+          "abstract": "We formulate a class of mean field games on a finite state space with\nvariational principles resembling those in continuous-state mean field games.\nWe construct a controlled continuity equation featuring a nonlinear activation\nfunction on graphs induced by finite-state reversible continuous time Markov\nchains. In these graphs, each edge is weighted by the transition probability\nand invariant measure of the original process. Using these controlled dynamics\non the graph and the dynamic programming principle for the value function, we\nderive several key components: the mean field game systems, the functional\nHamilton-Jacobi equations, and the master equations on a finite probability\nspace for potential mean field games. The existence and uniqueness of solutions\nto the potential mean field game system are ensured through a convex\noptimization reformulation in terms of the density-flux pair. We also derive\nvariational principles for the master equations of both non-potential games and\nmixed games on a continuous state space. Finally, we offer several concrete\nexamples of discrete mean field game dynamics on a two-point space, complete\nwith closed-formula solutions. These examples include discrete Wasserstein\ndistances, mean field planning, and potential mean field games.",
+          "arxiv_id": "2212.05675v2"
+        },
+        {
+          "title": "Linear-Quadratic Mean Field Games of Controls with Non-Monotone Data",
+          "year": "2022-06",
+          "abstract": "In this paper, we study a class of linear-quadratic (LQ) mean field games of\ncontrols with common noises and their corresponding $N$-player games. The\ntheory of mean field game of controls considers a class of mean field games\nwhere the interaction is via the joint law of both the state and control. By\nthe stochastic maximum principle, we first analyze the limiting behavior of the\nrepresentative player and obtain his/her optimal control in a feedback form\nwith the given distributional flow of the population and its control. The mean\nfield equilibrium is determined by the Nash certainty equivalence (NCE) system.\nThanks to the common noise, we do not require any monotonicity conditions for\nthe solvability of the NCE system. We also study the master equation arising\nfrom LQ mean field games of controls, which is a finite-dimensional\nsecond-order parabolic equation. It can be shown that the master equation\nadmits a unique classical solution over an arbitrary time horizon without any\nmonotonicity conditions. Beyond that, we can solve the $N$-player games\ndirectly by further assuming the non-degeneracy of the idiosyncratic noises. As\nbyproducts, we prove the quantitative convergence results from the $N$-player\ngame to the mean field game and the propagation of chaos property for the\nrelated optimal trajectories.",
+          "arxiv_id": "2206.01732v2"
+        }
+      ],
+      "7": [
+        {
+          "title": "Recovery of traveling water waves with smooth vorticity from the horizontal velocity on a line of symmetry for various wave regimes",
+          "year": "2023-08",
+          "abstract": "In the general context of rotational water waves with a smooth vorticity it\nis shown that the wave profile can be recovered from the horizontal component\nof the velocity field on a line of symmetry. The method, which applies to waves\nof finite and infinite depth, uses only the values of the horizontal velocity\nof particles located on the line of symmetry that are close to the wave\nsurface. In fact, together with the wave surface we recover also the velocity\nfield in a suitable surface layer. The explicit recovery formula is valid under\nthe assumption that there are no stagnation points in the fluid for both\nperiodic and solitary waves in each of the three regimes of gravity,\ncapillary-gravity, and capillary waves. The efficiency of this method is\nillustrated in the context of the explicit solutions provided by Crapper for\nperiodic capillary waves and Gerstner for periodic gravity waves.",
+          "arxiv_id": "2308.02244v1"
+        },
+        {
+          "title": "Nonlinear modulational instabililty of the Stokes waves in 2d full water waves",
+          "year": "2020-12",
+          "abstract": "The well-known Stokes waves refer to periodic traveling waves under the\ngravity at the free surface of a two dimensional full water wave system. In\nthis paper, we prove that small-amplitude Stokes waves with infinite depth are\nnonlinearly unstable under long-wave perturbations. Our approach is based on\nthe modulational approximation of the water wave system and the instability\nmechanism of the focusing cubic nonlinear Schr\\\"odinger equation.",
+          "arxiv_id": "2012.15071v1"
+        },
+        {
+          "title": "Global bifurcation and highest waves on water of finite depth",
+          "year": "2020-10",
+          "abstract": "We consider the two-dimensional problem for steady water waves with vorticity\non water of finite depth. While neglecting the effects of surface tension we\nconstruct connected families of large amplitude periodic waves approaching the\nlimiting wave, which is either a solitary wave, the highest solitary wave, the\nhighest Stokes wave or a Stokes wave with a breaking profile. In particular,\nwhen the vorticity is nonnegative we prove the existence of highest Stokes\nwaves with an included angle of 120 degrees. In contrast to previous studies we\nfix the Bernoulli constant and consider the wavelength as a bifurcation\nparameter, which guarantees that the limiting wave has a finite depth. In fact,\nthis is the first rigorous proof of the existence of extreme Stokes waves with\nvorticity on water of finite depth. Beside the existence of highest waves we\nprovide a new result about the regularity of Stokes waves of arbitrary\namplitude (including extreme waves). Furthermore, we prove several new facts\nabout steady waves, such as a lower bound for the wavelength of Stokes waves,\nwhile also eliminate a possibility of the wave breaking for waves with\nnon-negative vorticity.",
+          "arxiv_id": "2010.14156v2"
+        }
+      ],
+      "8": [
+        {
+          "title": "Numerical analysis of 2D Navier--Stokes equations with additive stochastic forcing",
+          "year": "2021-10",
+          "abstract": "We propose and study a temporal, and spatio-temporal discretisation of the 2D\nstochastic Navier--Stokes equations in bounded domains supplemented with\nno-slip boundary conditions. Considering additive noise, we base its\nconstruction on the related nonlinear random PDE, which is solved by a\ntransform of the solution of the stochastic Navier--Stokes equations. We show\nstrong rate (up to) $1$ in probability for a corresponding discretisation in\nspace and time (and space-time). Convergence of order (up to) 1 in time was\npreviously only known for linear SPDEs.",
+          "arxiv_id": "2110.05894v2"
+        },
+        {
+          "title": "Ergodicity of 2D singular stochastic Navier-Stokes equations",
+          "year": "2024-11",
+          "abstract": "We consider the 2D stochastic Navier-Stokes equations driven by noise that\nhas the regularity of space-time white noise but doesn't exactly coincide with\nit. We show that, provided that the intensity of the noise is sufficiently weak\nat high frequencies, this systems admits uniform bounds in time, so that it has\nan invariant measure, for which we obtain stretched exponential tail bounds.",
+          "arxiv_id": "2411.03482v3"
+        },
+        {
+          "title": "Stochastic Navier--Stokes equations on a 3D thin domain",
+          "year": "2020-08",
+          "abstract": "Stochastic Navier--Stokes equations in a thin three-dimensional domain are\nconsidered, driven by additive noise. The convergence of martingale solution of\nthe stochastic Navier--Stokes equations in a thin three-dimensional domain to\nthe unique martingale solution of the 2D stochastic Navier--Stokes equations,\nas the thickness of the film vanishes, is established. Hence, we justify the\napproximation of 3D Navier--Stokes equations driven by random forcing by its\ncorresponding two-dimensional setting in applications.",
+          "arxiv_id": "2008.07394v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Variational approach to regularity of optimal transport maps: general cost functions",
+          "year": "2020-07",
+          "abstract": "We extend the variational approach to regularity for optimal transport maps\ninitiated by Goldman and the first author to the case of general cost\nfunctions. Our main result is an $\\epsilon$-regularity result for optimal\ntransport maps between H\\\"older continuous densities slightly more quantitative\nthan the result by De Philippis-Figalli. One of the new contributions is the\nuse of almost-minimality: if the cost is quantitatively close to the Euclidean\ncost function, a minimizer for the optimal transport problem with general cost\nis an almost-minimizer for the one with quadratic cost. This further highlights\nthe connection between our variational approach and De Giorgi's strategy for\n$\\epsilon$-regularity of minimal surfaces.",
+          "arxiv_id": "2007.11549v3"
+        },
+        {
+          "title": "Projected Langevin dynamics and a gradient flow for entropic optimal transport",
+          "year": "2023-09",
+          "abstract": "The classical (overdamped) Langevin dynamics provide a natural algorithm for\nsampling from its invariant measure, which uniquely minimizes an energy\nfunctional over the space of probability measures, and which concentrates\naround the minimizer(s) of the associated potential when the noise parameter is\nsmall. We introduce analogous diffusion dynamics that sample from an\nentropy-regularized optimal transport, which uniquely minimizes the same energy\nfunctional but constrained to the set $\\Pi(\\mu,\\nu)$ of couplings of two given\nmarginal probability measures $\\mu$ and $\\nu$ on $\\mathbb{R}^d$, and which\nconcentrates around the optimal transport coupling(s) for small regularization\nparameter. More specifically, our process satisfies two key properties: First,\nthe law of the solution at each time stays in $\\Pi(\\mu,\\nu)$ if it is\ninitialized there. Second, the long-time limit is the unique solution of an\nentropic optimal transport problem. In addition, we show by means of a new\nlog-Sobolev-type inequality that the convergence holds exponentially fast, for\nsufficiently large regularization parameter and for a class of marginals which\nstrictly includes all strongly log-concave measures. By studying the induced\nWasserstein geometry of the submanifold $\\Pi(\\mu,\\nu)$, we argue that the SDE\ncan be viewed as a Wasserstein gradient flow on this space of couplings, at\nleast when $d=1$, and we identify a conjectural gradient flow for $d \\ge 2$.\nThe main technical difficulties stems from the appearance of conditional\nexpectation terms which serve to constrain the dynamics to $\\Pi(\\mu,\\nu)$.",
+          "arxiv_id": "2309.08598v1"
+        },
+        {
+          "title": "Displacement smoothness of entropic optimal transport",
+          "year": "2022-10",
+          "abstract": "The function that maps a family of probability measures to the solution of\nthe dual entropic optimal transport problem is known as the Schr\\\"odinger map.\nWe prove that when the cost function is $\\mathcal{C}^{k+1}$ with $k\\in\n\\mathbb{N}^*$ then this map is Lipschitz continuous from the $L^2$-Wasserstein\nspace to the space of $\\mathcal{C}^k$ functions. Our result holds on compact\ndomains and covers the multi-marginal case. We also include regularity results\nunder negative Sobolev metrics weaker than Wasserstein under stronger\nsmoothness assumptions on the cost. As applications, we prove displacement\nsmoothness of the entropic optimal transport cost and the well-posedness of\ncertain Wasserstein gradient flows involving this functional, including the\nSinkhorn divergence and a multi-species system.",
+          "arxiv_id": "2210.00225v2"
+        }
+      ],
+      "10": [
+        {
+          "title": "Weak uniqueness for singular stochastic equations",
+          "year": "2024-05",
+          "abstract": "We put forward a new method for proving weak uniqueness of stochastic\nequations with singular drifts driven by a non-Markov or infinite-dimensional\nnoise. We apply our method to study stochastic heat equation (SHE) driven by\nGaussian space-time white noise $$ \\frac{\\partial}{\\partial t} u_t(x)=\\frac12\n\\frac{\\partial^2}{\\partial x^2}u_t(x)+b(u_t(x))+\\dot{W}_{t}(x), \\quad t>0,\\,\nx\\in D\\subset\\mathbb{R}, $$ and multidimensional stochastic differential\nequation (SDE) driven by fractional Brownian motion with the Hurst index\n$H\\in(0,1/2)$ $$ d X_t=b(X_t) dt +d B_t^H,\\quad t>0. $$ In both cases $b$ is a\ngeneralized function in the Besov space $\\mathcal{B}^\\alpha_{\\infty,\\infty}$,\n$\\alpha<0$. Well-known pathwise uniqueness results for these equations do not\ncover the entire range of the parameter $\\alpha$, for which weak existence\nholds. What happens in the range where weak existence holds but pathwise\nuniqueness is unknown has been an open problem. We settle this problem and show\nthat for SHE weak uniqueness holds for $\\alpha>-3/2$, and for SDE it holds for\n$\\alpha>1/2-1/(2H)$; thus, in both cases, it holds in the entire desired range\nof values of $\\alpha$. This extends seminal results of Catellier and Gubinelli\n(2016) and Gy\\\"ongy and Pardoux (1993) to the weak well-posedness setting. To\nestablish these results, we develop a new strategy, combining ideas from\nergodic theory (generalized couplings of Hairer-Mattingly-Kulik-Scheutzow) with\nstochastic sewing of L\\^e.",
+          "arxiv_id": "2405.13780v2"
+        },
+        {
+          "title": "Stochastic Partial Differential Equations, Space-time White Noise and Random Fields",
+          "year": "2024-02",
+          "abstract": "This book is an introduction to the theory of stochastic partial differential\nequations (SPDEs), using the random field approach pioneered by J.B. Walsh\n(1986). It consists of two blocks: the core matter (Chapters 1 to 6) and the\nappendices (A to C). Chapter 1 introduces the subject, with a discussion of\nisonormal Gaussian processes, space-time white noise, and motivating examples\nof SPDEs. Chapter 2 presents a theory of stochastic integration with respect to\nspace-time white noise. Chapter 3 deals with SPDEs with additive noise. In\nChapter 4, we study a general class of SPDEs, in which additive and\nmultiplicative nonlinearities appear. Chapter 5 discusses asymptotic properties\nof the solution to the stochastic heat equation such as existence of invariant\nand reversible measures, convergence in law to the invariant distribution,\nmixing and irreducibility. In Chapter 6, we prove a theorem on existence and\nuniqueness of solutions in the weak sense. Then we present a selection of\nimportant topics in the theory of SPDEs: the Markov field property, asymptotic\nbounds on moments of solutions that are useful for studying long-time behavior\nof the solutions, a comparison theorem for the stochastic heat equation, an\nintroduction to potential theory for SPDEs, and a study of SPDEs with rough\ninitial conditions.\n  Appendix A summarises the main results from the theory of stochastic\nprocesses and stochastic analysis that are used throughout the book. Appendix B\nis devoted to a systematic presentation of properties of fundamental solutions\nand Green's functions associated to the classical linear differential operators\n(heat, fractional heat and wave operators). Appendix C is a toolbox section.\nEach chapter is followed by a \"Notes\" section, which gives historically\nimportant references, original sources and points towards other related\nimportant contributions.",
+          "arxiv_id": "2402.02119v5"
+        },
+        {
+          "title": "Stochastic Quantization of Laser Propagation Models",
+          "year": "2022-12",
+          "abstract": "This paper identifies certain interesting mathematical problems of stochastic\nquantization type in the modeling of Laser propagation through turbulent media.\nIn some of the typical physical contexts the problem reduces to stochastic\nSchrodinger equation with space-time white noise of Gaussian, Poisson and Levy\ntype. We identify their mathematical resolution via stochastic quantization.\nNonlinear phenomena such as Kerr effect can be modeled by stochastic nonlinear\nSchrodinger equation in the focusing case with space-time white noise. A\ntreatment of stochastic transport equation, the Korteweg-de Vries Equation as\nwell as a number of other nonlinear wave equations with space-time white noise\nis also given. Main technique is the S-transform (we will actually use closely\nrelated Hermite transform) which converts the stochastic partial differential\nequation with space time white noise to a deterministic partial differential\nequation defined on the Hida-Kondratiev white noise distribution space. We then\nutlize the inverse S-transform/Hermite transform known as the characterization\ntheorem combined with the infinite dimensional implicit function theorem for\nanalytic maps to establish local existence and uniqueness theorems for pathwise\nsolutions of these class of problems. The particular focus of this paper on\nsingular white noise distributions is motivated by practical situations where\nthe refractive index fluctuations in propagation medium in space and time are\nintense due to turbulence, ionospheric plasma turbulence, marine-layer\nfluctuations, etc. Since a large class of partial differential equations that\narise in nonlinear wave propagation have polynomial type nonlinearities, white\nnoise distribution theory is an effective tool in studying these problems\nsubject to different types of white noises.",
+          "arxiv_id": "2301.00300v1"
+        }
+      ],
+      "11": [
+        {
+          "title": "Spectrally Adapted Physics-Informed Neural Networks for Solving Unbounded Domain Problems",
+          "year": "2022-02",
+          "abstract": "Solving analytically intractable partial differential equations (PDEs) that\ninvolve at least one variable defined on an unbounded domain arises in numerous\nphysical applications. Accurately solving unbounded domain PDEs requires\nefficient numerical methods that can resolve the dependence of the PDE on the\nunbounded variable over at least several orders of magnitude. We propose a\nsolution to such problems by combining two classes of numerical methods: (i)\nadaptive spectral methods and (ii) physics-informed neural networks (PINNs).\nThe numerical approach that we develop takes advantage of the ability of\nphysics-informed neural networks to easily implement high-order numerical\nschemes to efficiently solve PDEs and extrapolate numerical solutions at any\npoint in space and time. We then show how recently introduced adaptive\ntechniques for spectral methods can be integrated into PINN-based PDE solvers\nto obtain numerical solutions of unbounded domain problems that cannot be\nefficiently approximated by standard PINNs. Through a number of examples, we\ndemonstrate the advantages of the proposed spectrally adapted PINNs in solving\nPDEs and estimating model parameters from noisy observations in unbounded\ndomains.",
+          "arxiv_id": "2202.02710v2"
+        },
+        {
+          "title": "A physics-informed neural network framework for modeling obstacle-related equations",
+          "year": "2023-04",
+          "abstract": "Deep learning has been highly successful in some applications. Nevertheless,\nits use for solving partial differential equations (PDEs) has only been of\nrecent interest with current state-of-the-art machine learning libraries, e.g.,\nTensorFlow or PyTorch. Physics-informed neural networks (PINNs) are an\nattractive tool for solving partial differential equations based on sparse and\nnoisy data. Here extend PINNs to solve obstacle-related PDEs which present a\ngreat computational challenge because they necessitate numerical methods that\ncan yield an accurate approximation of the solution that lies above a given\nobstacle. The performance of the proposed PINNs is demonstrated in multiple\nscenarios for linear and nonlinear PDEs subject to regular and irregular\nobstacles.",
+          "arxiv_id": "2304.03552v2"
+        },
+        {
+          "title": "Scalable algorithms for physics-informed neural and graph networks",
+          "year": "2022-05",
+          "abstract": "Physics-informed machine learning (PIML) has emerged as a promising new\napproach for simulating complex physical and biological systems that are\ngoverned by complex multiscale processes for which some data are also\navailable. In some instances, the objective is to discover part of the hidden\nphysics from the available data, and PIML has been shown to be particularly\neffective for such problems for which conventional methods may fail. Unlike\ncommercial machine learning where training of deep neural networks requires big\ndata, in PIML big data are not available. Instead, we can train such networks\nfrom additional information obtained by employing the physical laws and\nevaluating them at random points in the space-time domain. Such\nphysics-informed machine learning integrates multimodality and multifidelity\ndata with mathematical models, and implements them using neural networks or\ngraph networks. Here, we review some of the prevailing trends in embedding\nphysics into machine learning, using physics-informed neural networks (PINNs)\nbased primarily on feed-forward neural networks and automatic differentiation.\nFor more complex systems or systems of systems and unstructured data, graph\nneural networks (GNNs) present some distinct advantages, and here we review how\nphysics-informed learning can be accomplished with GNNs based on graph exterior\ncalculus to construct differential operators; we refer to these architectures\nas physics-informed graph networks (PIGNs). We present representative examples\nfor both forward and inverse problems and discuss what advances are needed to\nscale up PINNs, PIGNs and more broadly GNNs for large-scale engineering\nproblems.",
+          "arxiv_id": "2205.08332v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:52:09Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

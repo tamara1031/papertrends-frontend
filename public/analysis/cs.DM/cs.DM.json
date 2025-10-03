@@ -1,0 +1,1166 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_codes_words_number_functions",
+        "keywords": [
+          [
+            "codes",
+            0.018743264382787114
+          ],
+          [
+            "words",
+            0.016057710398561763
+          ],
+          [
+            "number",
+            0.013713175721737988
+          ],
+          [
+            "functions",
+            0.01341770120502089
+          ],
+          [
+            "word",
+            0.0133751378416729
+          ],
+          [
+            "finite",
+            0.012426524946905602
+          ],
+          [
+            "paper",
+            0.012349038432982816
+          ],
+          [
+            "sequences",
+            0.011658044461371683
+          ],
+          [
+            "set",
+            0.01143794062637092
+          ],
+          [
+            "Boolean",
+            0.011434297773208148
+          ]
+        ],
+        "count": 1195
+      },
+      "1": {
+        "name": "1_graphs_graph_free_number",
+        "keywords": [
+          [
+            "graphs",
+            0.045752568524999995
+          ],
+          [
+            "graph",
+            0.043340078376407146
+          ],
+          [
+            "free",
+            0.020772315521233452
+          ],
+          [
+            "number",
+            0.020030709522775556
+          ],
+          [
+            "vertex",
+            0.019860278338372075
+          ],
+          [
+            "problem",
+            0.01917982347077518
+          ],
+          [
+            "vertices",
+            0.0188292064381526
+          ],
+          [
+            "coloring",
+            0.01597937487928472
+          ],
+          [
+            "time",
+            0.015257668825419712
+          ],
+          [
+            "edge",
+            0.014605426218782105
+          ]
+        ],
+        "count": 918
+      },
+      "2": {
+        "name": "2_random_graph_graphs_model",
+        "keywords": [
+          [
+            "random",
+            0.030693587393136424
+          ],
+          [
+            "graph",
+            0.025179141374553828
+          ],
+          [
+            "graphs",
+            0.0228065977977338
+          ],
+          [
+            "model",
+            0.020061112800175564
+          ],
+          [
+            "networks",
+            0.019324015489635263
+          ],
+          [
+            "network",
+            0.016377818053523237
+          ],
+          [
+            "degree",
+            0.014961046767344591
+          ],
+          [
+            "time",
+            0.014294379217260044
+          ],
+          [
+            "mixing",
+            0.013261987769221483
+          ],
+          [
+            "probability",
+            0.013164577093556198
+          ]
+        ],
+        "count": 587
+      },
+      "3": {
+        "name": "3_problem_algorithm_time_problems",
+        "keywords": [
+          [
+            "problem",
+            0.034167161559509336
+          ],
+          [
+            "algorithm",
+            0.02283076697619784
+          ],
+          [
+            "time",
+            0.02025885558764286
+          ],
+          [
+            "problems",
+            0.017581080922414963
+          ],
+          [
+            "solution",
+            0.014867074441392833
+          ],
+          [
+            "instances",
+            0.014684366712121427
+          ],
+          [
+            "optimization",
+            0.014452441127639255
+          ],
+          [
+            "optimal",
+            0.012903701597146126
+          ],
+          [
+            "algorithms",
+            0.012713035071458805
+          ],
+          [
+            "scheduling",
+            0.011703430660396719
+          ]
+        ],
+        "count": 570
+      },
+      "4": {
+        "name": "4_planar_drawing_drawings_graphs",
+        "keywords": [
+          [
+            "planar",
+            0.050463835121425014
+          ],
+          [
+            "drawing",
+            0.03441590418922407
+          ],
+          [
+            "drawings",
+            0.03203368325074509
+          ],
+          [
+            "graphs",
+            0.03186594056748694
+          ],
+          [
+            "plane",
+            0.03183499993583912
+          ],
+          [
+            "graph",
+            0.029442933475378193
+          ],
+          [
+            "crossing",
+            0.027707328729070026
+          ],
+          [
+            "edges",
+            0.026515781952542897
+          ],
+          [
+            "number",
+            0.026148102333189305
+          ],
+          [
+            "planar graphs",
+            0.025025900201410062
+          ]
+        ],
+        "count": 195
+      },
+      "5": {
+        "name": "5_classes_bounded_width_graph",
+        "keywords": [
+          [
+            "classes",
+            0.033022886513954484
+          ],
+          [
+            "bounded",
+            0.0317860426321608
+          ],
+          [
+            "width",
+            0.027207629858032028
+          ],
+          [
+            "graph",
+            0.02698543999438818
+          ],
+          [
+            "graphs",
+            0.022786093033858236
+          ],
+          [
+            "class",
+            0.021417943825391323
+          ],
+          [
+            "logic",
+            0.020343906217863222
+          ],
+          [
+            "order",
+            0.018902047591315797
+          ],
+          [
+            "problem",
+            0.015665433731003788
+          ],
+          [
+            "graph classes",
+            0.013891170225672758
+          ]
+        ],
+        "count": 166
+      },
+      "6": {
+        "name": "6_robber_game_number_cops",
+        "keywords": [
+          [
+            "robber",
+            0.0553209617131478
+          ],
+          [
+            "game",
+            0.05338301860365725
+          ],
+          [
+            "number",
+            0.04843544206461769
+          ],
+          [
+            "cops",
+            0.04798015187006156
+          ],
+          [
+            "cop",
+            0.04792742290082861
+          ],
+          [
+            "graphs",
+            0.03783665521287935
+          ],
+          [
+            "graph",
+            0.034324019790593234
+          ],
+          [
+            "Cops",
+            0.030232176810755646
+          ],
+          [
+            "cop number",
+            0.025316509746540553
+          ],
+          [
+            "vertex",
+            0.02526255140080293
+          ]
+        ],
+        "count": 123
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4457063179734923,
+        -0.39601474781719015,
+        -0.35304755910545094,
+        -0.4184446918591718,
+        -0.4598722334189592,
+        -0.4495971539156888
+      ],
+      [
+        -0.4457063179734923,
+        1.0,
+        -0.13198941338738954,
+        -0.41706648080863723,
+        -0.09231122064796232,
+        0.006863194554177186,
+        -0.14456255318267636
+      ],
+      [
+        -0.39601474781719015,
+        -0.13198941338738954,
+        1.0,
+        -0.40297229792551126,
+        -0.22246149601650977,
+        -0.16531297442563084,
+        -0.23918280757755955
+      ],
+      [
+        -0.35304755910545094,
+        -0.41706648080863723,
+        -0.40297229792551126,
+        1.0,
+        -0.4467216612700086,
+        -0.4577202899583676,
+        -0.4435577458342794
+      ],
+      [
+        -0.4184446918591718,
+        -0.09231122064796232,
+        -0.22246149601650977,
+        -0.4467216612700086,
+        1.0,
+        -0.17622470170426904,
+        0.11007757603305848
+      ],
+      [
+        -0.4598722334189592,
+        0.006863194554177186,
+        -0.16531297442563084,
+        -0.4577202899583676,
+        -0.17622470170426904,
+        1.0,
+        -0.20743925123801846
+      ],
+      [
+        -0.4495971539156888,
+        -0.14456255318267636,
+        -0.23918280757755955,
+        -0.4435577458342794,
+        0.11007757603305848,
+        -0.20743925123801846,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        25,
+        9,
+        1,
+        13,
+        7,
+        1,
+        11
+      ],
+      "2020-02": [
+        29,
+        25,
+        4,
+        20,
+        7,
+        0,
+        9
+      ],
+      "2020-03": [
+        27,
+        27,
+        6,
+        7,
+        8,
+        3,
+        8
+      ],
+      "2020-04": [
+        40,
+        22,
+        5,
+        15,
+        5,
+        3,
+        12
+      ],
+      "2020-05": [
+        23,
+        20,
+        5,
+        12,
+        8,
+        2,
+        12
+      ],
+      "2020-06": [
+        35,
+        25,
+        5,
+        10,
+        6,
+        6,
+        10
+      ],
+      "2020-07": [
+        35,
+        19,
+        5,
+        22,
+        10,
+        6,
+        16
+      ],
+      "2020-08": [
+        18,
+        24,
+        3,
+        14,
+        17,
+        2,
+        14
+      ],
+      "2020-09": [
+        25,
+        21,
+        5,
+        11,
+        4,
+        1,
+        6
+      ],
+      "2020-10": [
+        28,
+        15,
+        3,
+        13,
+        2,
+        4,
+        10
+      ],
+      "2020-11": [
+        30,
+        13,
+        7,
+        12,
+        5,
+        3,
+        8
+      ],
+      "2020-12": [
+        29,
+        12,
+        6,
+        8,
+        6,
+        4,
+        10
+      ],
+      "2021-01": [
+        32,
+        16,
+        8,
+        11,
+        0,
+        4,
+        8
+      ],
+      "2021-02": [
+        33,
+        13,
+        6,
+        23,
+        4,
+        5,
+        12
+      ],
+      "2021-03": [
+        28,
+        22,
+        7,
+        9,
+        9,
+        3,
+        8
+      ],
+      "2021-04": [
+        30,
+        17,
+        3,
+        13,
+        4,
+        2,
+        6
+      ],
+      "2021-05": [
+        36,
+        23,
+        10,
+        8,
+        4,
+        3,
+        14
+      ],
+      "2021-06": [
+        32,
+        17,
+        8,
+        11,
+        9,
+        3,
+        9
+      ],
+      "2021-07": [
+        32,
+        18,
+        7,
+        26,
+        6,
+        6,
+        13
+      ],
+      "2021-08": [
+        33,
+        12,
+        5,
+        15,
+        10,
+        1,
+        7
+      ],
+      "2021-09": [
+        17,
+        15,
+        3,
+        10,
+        6,
+        0,
+        10
+      ],
+      "2021-10": [
+        18,
+        14,
+        2,
+        9,
+        4,
+        4,
+        14
+      ],
+      "2021-11": [
+        36,
+        22,
+        3,
+        18,
+        13,
+        3,
+        10
+      ],
+      "2021-12": [
+        25,
+        16,
+        4,
+        18,
+        6,
+        3,
+        6
+      ],
+      "2022-01": [
+        29,
+        13,
+        4,
+        14,
+        7,
+        5,
+        9
+      ],
+      "2022-02": [
+        29,
+        23,
+        4,
+        16,
+        8,
+        6,
+        11
+      ],
+      "2022-03": [
+        34,
+        18,
+        3,
+        18,
+        3,
+        9,
+        9
+      ],
+      "2022-04": [
+        26,
+        12,
+        6,
+        15,
+        7,
+        5,
+        11
+      ],
+      "2022-05": [
+        30,
+        10,
+        5,
+        11,
+        7,
+        6,
+        13
+      ],
+      "2022-06": [
+        28,
+        21,
+        4,
+        17,
+        9,
+        7,
+        8
+      ],
+      "2022-07": [
+        27,
+        8,
+        6,
+        13,
+        4,
+        4,
+        8
+      ],
+      "2022-08": [
+        32,
+        19,
+        8,
+        12,
+        9,
+        3,
+        8
+      ],
+      "2022-09": [
+        34,
+        15,
+        7,
+        7,
+        8,
+        6,
+        11
+      ],
+      "2022-10": [
+        32,
+        17,
+        4,
+        9,
+        8,
+        1,
+        5
+      ],
+      "2022-11": [
+        29,
+        29,
+        2,
+        26,
+        11,
+        2,
+        8
+      ],
+      "2022-12": [
+        27,
+        13,
+        5,
+        3,
+        5,
+        2,
+        8
+      ],
+      "2023-01": [
+        26,
+        12,
+        5,
+        14,
+        4,
+        3,
+        15
+      ],
+      "2023-02": [
+        28,
+        16,
+        9,
+        11,
+        10,
+        5,
+        11
+      ],
+      "2023-03": [
+        30,
+        17,
+        3,
+        10,
+        8,
+        5,
+        15
+      ],
+      "2023-04": [
+        26,
+        23,
+        4,
+        12,
+        8,
+        4,
+        11
+      ],
+      "2023-05": [
+        39,
+        22,
+        11,
+        12,
+        7,
+        3,
+        11
+      ],
+      "2023-06": [
+        22,
+        24,
+        6,
+        11,
+        8,
+        3,
+        4
+      ],
+      "2023-07": [
+        33,
+        28,
+        2,
+        18,
+        9,
+        8,
+        10
+      ],
+      "2023-08": [
+        30,
+        20,
+        4,
+        19,
+        9,
+        3,
+        10
+      ],
+      "2023-09": [
+        31,
+        12,
+        5,
+        8,
+        8,
+        3,
+        11
+      ],
+      "2023-10": [
+        31,
+        17,
+        2,
+        10,
+        4,
+        3,
+        8
+      ],
+      "2023-11": [
+        35,
+        15,
+        6,
+        19,
+        8,
+        6,
+        2
+      ],
+      "2023-12": [
+        37,
+        17,
+        2,
+        11,
+        12,
+        8,
+        8
+      ],
+      "2024-01": [
+        37,
+        10,
+        2,
+        9,
+        9,
+        4,
+        8
+      ],
+      "2024-02": [
+        37,
+        32,
+        4,
+        15,
+        11,
+        5,
+        14
+      ],
+      "2024-03": [
+        20,
+        29,
+        5,
+        11,
+        7,
+        7,
+        5
+      ],
+      "2024-04": [
+        26,
+        17,
+        5,
+        14,
+        4,
+        4,
+        11
+      ],
+      "2024-05": [
+        44,
+        23,
+        5,
+        15,
+        3,
+        5,
+        11
+      ],
+      "2024-06": [
+        48,
+        18,
+        9,
+        13,
+        5,
+        4,
+        9
+      ],
+      "2024-07": [
+        25,
+        22,
+        8,
+        11,
+        12,
+        2,
+        6
+      ],
+      "2024-08": [
+        28,
+        13,
+        2,
+        14,
+        4,
+        0,
+        11
+      ],
+      "2024-09": [
+        35,
+        15,
+        4,
+        15,
+        13,
+        4,
+        13
+      ],
+      "2024-10": [
+        34,
+        19,
+        9,
+        14,
+        7,
+        2,
+        11
+      ],
+      "2024-11": [
+        50,
+        12,
+        4,
+        18,
+        4,
+        7,
+        5
+      ],
+      "2024-12": [
+        33,
+        15,
+        5,
+        13,
+        6,
+        0,
+        15
+      ],
+      "2025-01": [
+        30,
+        20,
+        2,
+        14,
+        3,
+        10,
+        5
+      ],
+      "2025-02": [
+        33,
+        23,
+        8,
+        14,
+        6,
+        5,
+        12
+      ],
+      "2025-03": [
+        28,
+        18,
+        6,
+        21,
+        2,
+        3,
+        10
+      ],
+      "2025-04": [
+        41,
+        25,
+        1,
+        15,
+        4,
+        8,
+        16
+      ],
+      "2025-05": [
+        37,
+        24,
+        6,
+        9,
+        6,
+        5,
+        14
+      ],
+      "2025-06": [
+        30,
+        22,
+        3,
+        19,
+        10,
+        4,
+        12
+      ],
+      "2025-07": [
+        37,
+        21,
+        7,
+        12,
+        15,
+        3,
+        12
+      ],
+      "2025-08": [
+        23,
+        19,
+        6,
+        21,
+        9,
+        3,
+        8
+      ],
+      "2025-09": [
+        15,
+        11,
+        6,
+        9,
+        4,
+        2,
+        9
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Additive word complexity and Walnut",
+          "year": "2024-10",
+          "abstract": "In combinatorics on words, a classical topic of study is the number of\nspecific patterns appearing in infinite sequences. For instance, many works\nhave been dedicated to studying the so-called factor complexity of infinite\nsequences, which gives the number of different factors (contiguous subblocks of\ntheir symbols), as well as abelian complexity, which counts factors up to a\npermutation of letters. In this paper, we consider the relatively unexplored\nconcept of additive complexity, which counts the number of factors up to\nadditive equivalence. We say that two words are additively equivalent if they\nhave the same length and the total weight of their letters is equal. Our\ncontribution is to expand the general knowledge of additive complexity from a\ntheoretical point of view and consider various famous examples. We show a\nparticular case of an analog of the long-standing conjecture on the regularity\nof the abelian complexity of an automatic sequence. In particular, we use the\nformalism of logic, and the software Walnut, to decide related properties of\nautomatic sequences. We compare the behaviors of additive and abelian\ncomplexities, and we also consider the notion of abelian and additive powers.\nAlong the way, we present some open questions and conjectures for future work.",
+          "arxiv_id": "2410.02409v1"
+        },
+        {
+          "title": "Periodicity and local complexity of Delone sets",
+          "year": "2025-04",
+          "abstract": "We study complexity and periodicity of Delone sets by applying an algebraic\napproach to multidimensional symbolic dynamics. In this algebraic approach,\n$\\mathbb{Z}^d$-configurations $c: \\mathbb{Z}^d \\to \\mathcal{A}$ for a finite\nset $\\mathcal{A} \\subseteq \\mathbb{C}$ and finite $\\mathbb{Z}^d$-patterns are\nregarded as formal power series and Laurent polynomials, respectively. In this\npaper we study also functions $c: \\mathbb{R}^d \\to \\mathcal{A}$ where\n$\\mathcal{A}$ is as above. These functions are called\n$\\mathbb{R}^d$-configurations. Any Delone set may be regarded as an\n$\\mathbb{R}^d$-configuration by simply presenting it as its indicator function.\nConversely, any $\\mathbb{R}^d$-configuration whose support (that is, the set of\ncells for which the configuration gets non-zero values) is a Delone set can be\nseen as a colored Delone set. We generalize the concept of annihilators and\nperiodizers of $\\mathbb{Z}^d$-configurations for $\\mathbb{R}^d$-configurations.\nWe show that if an $\\mathbb{R}^d$-configuration has a non-trivial annihilator,\nthat is, if a linear combination of some finitely many of its translations is\nthe zero function, then it has an annihilator of a particular form. Moreover,\nwe show that $\\mathbb{R}^d$-configurations with integer coefficients that have\nnon-trivial annihilators are sums of finitely many periodic functions\n$c_1,\\ldots,c_m: \\mathbb{R}^d \\to \\mathbb{Z}$. Also, $\\mathbb{R}^d$-pattern\ncomplexity is studied alongside with the classical patch-complexity of Delone\nsets. We point out the fact that sufficiently low $\\mathbb{R}^d$-pattern\ncomplexity of an $\\mathbb{R}^d$-configuration implies the existence of\nnon-trivial annihilators. Moreover, it is shown that if a Meyer set has\nsufficiently slow patch-complexity growth, then it has a non-trivial\nannihilator. Finally, a condition for forced periodicity of colored Delone sets\nof finite local complexity is provided.",
+          "arxiv_id": "2504.20709v1"
+        },
+        {
+          "title": "q-Parikh Matrices and q-deformed binomial coefficients of words",
+          "year": "2024-02",
+          "abstract": "We have introduced a q-deformation, i.e., a polynomial in q with natural\ncoefficients, of the binomial coefficient of two finite words u and v counting\nthe number of occurrences of v as a subword of u. In this paper, we examine the\nq-deformation of Parikh matrices as introduced by E\\u{g}ecio\\u{g}lu in 2004.\n  Many classical results concerning Parikh matrices generalize to this new\nframework: Our first important observation is that the elements of such a\nmatrix are in fact q-deformations of binomial coefficients of words. We also\nstudy their inverses and as an application, we obtain new identities about\nq-binomials.\n  For a finite word z and for the sequence $(p_n)_{n\\ge 0}$ of prefixes of an\ninfinite word, we show that the polynomial sequence $\\binom{p_n}{z}_q$\nconverges to a formal series. We present links with additive number theory and\nk-regular sequences. In the case of a periodic word $u^\\omega$, we generalize a\nresult of Salomaa: the sequence $\\binom{u^n}{z}_q$ satisfies a linear\nrecurrence relation with polynomial coefficients. Related to the theory of\ninteger partition, we describe the growth and the zero set of the coefficients\nof the series associated with $u^\\omega$.\n  Finally, we show that the minors of a q-Parikh matrix are polynomials with\nnatural coefficients and consider a generalization of Cauchy's inequality. We\nalso compare q-Parikh matrices associated with an arbitrary word with those\nassociated with a canonical word $12\\cdots k$ made of pairwise distinct\nsymbols.",
+          "arxiv_id": "2402.05657v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Open Packing in Graphs: Bounds and Complexity",
+          "year": "2024-06",
+          "abstract": "Given a graph $G(V,E)$, a vertex subset $S$ of $G$ is called an open packing\nin $G$ if no pair of distinct vertices in $S$ have a common neighbour in $G$.\nThe size of a largest open packing in $G$ is called the open packing number,\n$\\rho^o(G)$, of $G$. It would be interesting to note that the open packing\nnumber is a lower bound for the total domination number in graphs with no\nisolated vertices [Henning and Slater, 1999]. Given a graph $G$ and a positive\ninteger $k$, the decision problem OPEN PACKING tests whether $G$ has an open\npacking of size at least $k$. The optimization problem MAX-OPEN PACKING takes a\ngraph $G$ as input and finds the open packing number of $G$. It is known that\nOPEN PACKING is NP-complete on split graphs (i.e., $\\{2K_2,C_4,C_5\\}$-free\ngraphs) [Ramos et al., 2014]. In this work, we complete the study on the\ncomplexity (P vs NPC) of OPEN PACKING on $H$-free graphs for every graph $H$\nwith at least three vertices by proving that OPEN PACKING is (i) NP-complete on\n$K_{1,3}$-free graphs and (ii) polynomial time solvable on $(P_4\\cup\nrK_1)$-free graphs for every $r\\geq 1$. In the course of proving (ii), we show\nthat for every $t\\in {2,3,4}$ and $r\\geq 1$, if G is a $(P_t\\cup rK_1)$-free\ngraph, then $\\rho^o(G)$ is bounded above by a linear function of $r$. Moreover,\nwe show that OPEN PACKING parameterized by solution size is W[1]-complete on\n$K_{1,3}$-free graphs and MAX-OPEN PACKING is hard to approximate within a\nfactor of $n^{(\\frac{1}{2}-\\delta)}$ for any $\\delta>0$ on $K_{1,3}$-free\ngraphs unless P=NP. Further, we prove that OPEN PACKING is (a) NP-complete on\n$K_{1,4}$-free split graphs and (b) polynomial time solvable on $K_{1,3}$-free\nsplit graphs. We prove a similar dichotomy result on split graphs with degree\nrestrictions on the vertices in the independent set of the clique-independent\nset partition of the split graphs.",
+          "arxiv_id": "2406.06982v2"
+        },
+        {
+          "title": "Colouring Probe $H$-Free Graphs",
+          "year": "2025-05",
+          "abstract": "The NP-complete problems Colouring and k-Colouring $(k\\geq 3$) are well\nstudied on $H$-free graphs, i.e., graphs that do not contain some fixed graph\n$H$ as an induced subgraph. We research to what extent the known\npolynomial-time algorithms for $H$-free graphs can be generalized if we only\nknow some of the edges of the input graph. We do this by considering the\nclassical probe graph model introduced in the early nineties. For a graph $H$,\na partitioned probe $H$-free graph $(G,P,N)$ consists of a graph $G=(V,E)$,\ntogether with a set $P\\subseteq V$ of probes and an independent set\n$N=V\\setminus P$ of non-probes, such that $G+F$ is $H$-free for some edge set\n$F\\subseteq \\binom{N}{2}$. We first fully classify the complexity of Colouring\non partitioned probe $H$-free graphs and show that this dichotomy is different\nfrom the known dichotomy of Colouring for $H$-free graphs. Our main result is a\ndichotomy of $3$-Colouring for partitioned probe $P_t$-free graphs: we prove\nthat the problem is polynomial-time solvable if $t\\leq 5$ but NP-complete if\n$t\\geq 6$. In contrast, $3$-Colouring on $P_t$-free graphs is known to be\npolynomial-time solvable if $t\\leq 7$ and quasi polynomial-time solvable for\n$t\\geq 8$.",
+          "arxiv_id": "2505.20784v1"
+        },
+        {
+          "title": "Some Results on $k$-Critical $P_5$-Free Graphs",
+          "year": "2021-08",
+          "abstract": "A graph $G$ is $k$-vertex-critical if $G$ has chromatic number $k$ but every\nproper induced subgraph of $G$ has chromatic number less than $k$. The study of\n$k$-vertex-critical graphs for graph classes is an important topic in\nalgorithmic graph theory because if the number of such graphs that are in a\ngiven hereditary graph class is finite, then there is a polynomial-time\nalgorithm to decide if a graph in the class is $(k-1)$-colorable.\n  In this paper, we prove that for every fixed integer $k\\ge 1$, there are only\nfinitely many $k$-vertex-critical ($P_5$,gem)-free graphs and\n$(P_5,\\overline{P_3+P_2})$-free graphs. To prove the results we use a known\nstructure theorem for ($P_5$,gem)-free graphs combined with properties of\n$k$-vertex-critical graphs.\n  Moreover, we characterize all $k$-vertex-critical ($P_5$,gem)-free graphs and\n$(P_5,\\overline{P_3+P_2})$-free graphs for $k \\in \\{4,5\\}$ using a computer\ngeneration algorithm.",
+          "arxiv_id": "2108.05492v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Metastability of the Potts ferromagnet on random regular graphs",
+          "year": "2022-02",
+          "abstract": "We study the performance of Markov chains for the $q$-state ferromagnetic\nPotts model on random regular graphs. It is conjectured that their performance\nis dictated by metastability phenomena, i.e., the presence of \"phases\"\n(clusters) in the sample space where Markov chains with local update rules,\nsuch as the Glauber dynamics, are bound to take exponential time to escape. The\nphases that are believed to drive these metastability phenomena in the case of\nthe Potts model emerge as local, rather than global, maxima of the so-called\nBethe functional, and previous approaches of analysing these phases based on\noptimisation arguments fall short of the task.\n  Our first contribution is to detail the emergence of the metastable phases\nfor the $q$-state Potts model on the $d$-regular random graph for all integers\n$q,d\\geq 3$, and establish that for an interval of temperatures, which is\ndelineated by the uniqueness and a broadcasting threshold on the $d$-regular\ntree, the two phases coexist. The proofs are based on a conceptual connection\nbetween spatial properties and the structure of the Potts distribution on the\nrandom regular graph, rather than complicated moment calculations.\n  Based on this new structural understanding of the model, we obtain various\nalgorithmic consequences. We first complement recent fast mixing results for\nGlauber dynamics by Blanca and Gheissari below the uniqueness threshold,\nshowing an exponential lower bound on the mixing time above the uniqueness\nthreshold. Then, we obtain tight results even for the non-local Swendsen-Wang\nchain, where we establish slow mixing/metastability for the whole interval of\ntemperatures where the chain is conjectured to mix slowly on the random regular\ngraph. The key is to bound the conductance of the chains using a random graph\n\"planting\" argument combined with delicate bounds on random-graph percolation.",
+          "arxiv_id": "2202.05777v3"
+        },
+        {
+          "title": "The Critical Mean-field Chayes-Machta Dynamics",
+          "year": "2021-02",
+          "abstract": "The random-cluster model is a unifying framework for studying random graphs,\nspin systems and electrical networks that plays a fundamental role in designing\nefficient Markov Chain Monte Carlo (MCMC) sampling algorithms for the classical\nferromagnetic Ising and Potts models. In this paper, we study a natural\nnon-local Markov chain known as the Chayes-Machta dynamics for the mean-field\ncase of the random-cluster model, where the underlying graph is the complete\ngraph on $n$ vertices. The random-cluster model is parametrized by an edge\nprobability $p$ and a cluster weight $q$. Our focus is on the critical regime:\n$p = p_c(q)$ and $q \\in (1,2)$, where $p_c(q)$ is the threshold corresponding\nto the order-disorder phase transition of the model. We show that the mixing\ntime of the Chayes-Machta dynamics is $O(\\log n \\cdot \\log \\log n)$ in this\nparameter regime, which reveals that the dynamics does not undergo an\nexponential slowdown at criticality, a surprising fact that had been predicted\n(but not proved) by statistical physicists. This also provides a nearly optimal\nbound (up to the $\\log\\log n$ factor) for the mixing time of the mean-field\nChayes-Machta dynamics in the only regime of parameters where no non-trivial\nbound was previously known. Our proof consists of a multi-phased coupling\nargument that combines several key ingredients, including a new local limit\ntheorem, a precise bound on the maximum of symmetric random walks with varying\nstep sizes, and tailored estimates for critical random graphs. In addition, we\nderive an improved comparison inequality between the mixing time of the\nChayes-Machta dynamics and that of the local Glauber dynamics on general\ngraphs; this results in better mixing time bounds for the local dynamics in the\nmean-field setting.",
+          "arxiv_id": "2102.03004v3"
+        },
+        {
+          "title": "Sampling from Potts on random graphs of unbounded degree via random-cluster dynamics",
+          "year": "2021-07",
+          "abstract": "We consider the problem of sampling from the ferromagnetic Potts and\nrandom-cluster models on a general family of random graphs via the Glauber\ndynamics for the random-cluster model. The random-cluster model is parametrized\nby an edge probability $p \\in (0,1)$ and a cluster weight $q > 0$. We establish\nthat for every $q\\ge 1$, the random-cluster Glauber dynamics mixes in optimal\n$\\Theta(n\\log n)$ steps on $n$-vertex random graphs having a prescribed degree\nsequence with bounded average branching $\\gamma$ throughout the full\nhigh-temperature uniqueness regime $p<p_u(q,\\gamma)$.\n  The family of random graph models we consider includes the Erd\\H{o}s--R\\'enyi\nrandom graph $G(n,\\gamma/n)$, and so we provide the first polynomial-time\nsampling algorithm for the ferromagnetic Potts model on Erd\\H{o}s--R\\'enyi\nrandom graphs for the full tree uniqueness regime. We accompany our results\nwith mixing time lower bounds (exponential in the largest degree) for the Potts\nGlauber dynamics, in the same settings where our $\\Theta(n \\log n)$ bounds for\nthe random-cluster Glauber dynamics apply. This reveals a novel and significant\ncomputational advantage of random-cluster based algorithms for sampling from\nthe Potts model at high temperatures.",
+          "arxiv_id": "2107.10246v3"
+        }
+      ],
+      "3": [
+        {
+          "title": "Scheduling on identical machines with conflicts to minimize the mean flow time",
+          "year": "2025-07",
+          "abstract": "This paper addresses the problem of scheduling jobs on identical machines\nwith conflict constraints, where certain jobs cannot be scheduled\nsimultaneously on different machines. We focus on the case where conflicts can\nbe represented by a simple undirected graph, and the objective is to minimize\nthe mean flow time. We show that the problem is NP-hard even on two machines\nand two distinct processing times. For unit-time jobs, the problem becomes\nNP-hard when the number of machines increases to three. We also identify\npolynomial-time solvable cases for specific classes of conflict graphs. For the\ngeneral problem, we propose mathematical models, lower bounds, and a genetic\nalgorithm. We evaluate their performance through computational experiments on a\nwide range of instances derived from well-known benchmark instances in the\nliterature.",
+          "arxiv_id": "2507.01759v1"
+        },
+        {
+          "title": "A scaleable projection-based branch-and-cut algorithm for the $p$-center problem",
+          "year": "2021-08",
+          "abstract": "The $p$-center problem (pCP) is a fundamental problem in location science,\nwhere we are given customer demand points and possible facility locations, and\nwe want to choose $p$ of these locations to open a facility such that the\nmaximum distance of any customer demand point to its closest open facility is\nminimized. State-of-the-art solution approaches of pCP use its connection to\nthe set cover problem to solve pCP in an iterative fashion by repeatedly\nsolving set cover problems. The classical textbook integer programming (IP)\nformulation of pCP is usually dismissed due to its size and bad linear\nprogramming (LP)-relaxation bounds.\n  We present a novel solution approach that works on a new IP formulation that\ncan be obtained by a projection from the classical formulation. The formulation\nis solved by means of branch-and-cut, where cuts for demand points are\niteratively generated. Moreover, the formulation can be strengthened with\ncombinatorial information to obtain a much tighter LP-relaxation. In\nparticular, we present a novel way to use lower bound information to obtain\nstronger cuts. We show that the LP-relaxation bound of our strengthened\nformulation has the same strength as the best known bound in literature, which\nis based on a semi-relaxation.\n  Finally, we also present a computational study on instances from the\nliterature with up to more than 700000 customers and locations. Our solution\nalgorithm is competitive with highly sophisticated set-cover-based solution\nalgorithms, which depend on various components and parameters.",
+          "arxiv_id": "2108.07045v2"
+        },
+        {
+          "title": "Compact formulations and valid inequalities for parallel machine scheduling with conflicts",
+          "year": "2023-12",
+          "abstract": "The problem of scheduling conflicting jobs on parallel machines consists in\nassigning a set of jobs to a set of machines so that no two conflicting jobs\nare allocated to the same machine, and the maximum processing time among all\nmachines is minimized. We propose a new compact mixed integer linear\nformulation based on the representatives model for the vertex coloring problem,\nwhich overcomes a number of issues inherent in the natural assignment model. We\npresent a polyhedral study of the associated polytope, and describe classes of\nvalid inequalities inherited from the stable set polytope. We describe\nbranch-and-cut algorithms for the problem, and report on computational\nexperiments with benchmark instances. Our computational results on the hardest\ninstances of the benchmark set show that the proposed algorithms are superior\n(either in running time or quality of the solutions) to the current\nstate-of-the-art methods. We find that our new method performs better than the\nexisting ones especially when the gap between the optimal value and the trivial\nlower bound (i.e., the sum of all processing times divided by the number of\nmachines) increases.",
+          "arxiv_id": "2312.14777v3"
+        }
+      ],
+      "4": [
+        {
+          "title": "On Optimal Beyond-Planar Graphs",
+          "year": "2022-01",
+          "abstract": "A graph is beyond-planar if it can be drawn in the plane with a specific\nrestriction on crossings. Several types of beyond-planar graphs have been\ninvestigated, such as k-planar if every edge is crossed at most k times and RAC\nif edges can cross only at a right angle in a straight-line drawing. A graph is\noptimal if the number of edges coincides with the density for its type. Optimal\ngraphs are special and are known only for some types of beyond-planar graphs,\nincluding 1-planar, 2-planar, and RAC graphs. For all types of beyond-planar\ngraphs for which optimal graphs are known, we compute the range for optimal\ngraphs, establish combinatorial properties, and show that every graph is a\ntopological minor of an optimal graph. Note that the minor property is\nwell-known for general beyond-planar graphs.",
+          "arxiv_id": "2201.00783v1"
+        },
+        {
+          "title": "Note on Min-k-Planar Drawings of Graphs",
+          "year": "2024-01",
+          "abstract": "The k-planar graphs, which are (usually with small values of k such as 1, 2,\n3) subject to recent intense research, admit a drawing in which edges are\nallowed to cross, but each one edge is allowed to carry at most k crossings. In\nrecently introduced [Binucci et al., GD 2023] min-k-planar drawings of graphs,\nedges may possibly carry more than k crossings, but in any two crossing edges,\nat least one of the two must have at most k crossings. In both concepts, one\nmay consider general drawings or a popular restricted concept of drawings\ncalled simple. In a simple drawing, every two edges are allowed to cross at\nmost once, and any two edges which share a vertex are forbidden to cross.\nWhile, regarding the former concept, it is for k<=3 known (but perhaps not\nwidely known) that every general k-planar graph admits a simple k-planar\ndrawing and this ceases to be true for any k>=4, the difference between general\nand simple drawings in the latter concept is more striking. We prove that there\nexist graphs with a min-2-planar drawing, or with a min-3-planar drawing\navoiding crossings of adjacent edges, which have no simple min-k-planar\ndrawings for arbitrarily large fixed k.",
+          "arxiv_id": "2401.11610v5"
+        },
+        {
+          "title": "Linear Size Universal Point Sets for Classes of Planar Graphs",
+          "year": "2023-02",
+          "abstract": "A finite set $P$ of points in the plane is $n$-universal with respect to a\nclass $\\mathcal{C}$ of planar graphs if every $n$-vertex graph in $\\mathcal{C}$\nadmits a crossing-free straight-line drawing with vertices at points of $P$.\nFor the class of all planar graphs the best known upper bound on the size of a\nuniversal point set is quadratic and the best known lower bound is linear in\n$n$. Some classes of planar graphs are known to admit universal point sets of\nnear linear size, however, there are no truly linear bounds for interesting\nclasses beyond outerplanar graphs.\n  In this paper, we show that there is a universal point set of size $2n-2$ for\nthe class of bipartite planar graphs with $n$ vertices. The same point set is\nalso universal for the class of $n$-vertex planar graphs of maximum degree $3$.\nThe point set used for the results is what we call an exploding double chain,\nand we prove that this point set allows planar straight-line embeddings of many\nmore planar graphs, namely of all subgraphs of planar graphs admitting a\none-sided Hamiltonian cycle. The result for bipartite graphs also implies that\nevery $n$-vertex plane graph has a $1$-bend drawing all whose bends and\nvertices are contained in a specific point set of size $4n-6$, this improves a\nbound of $6n-10$ for the same problem by L\\\"offler and T\\'oth.",
+          "arxiv_id": "2303.00109v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Flip-width: Cops and Robber on dense graphs",
+          "year": "2023-02",
+          "abstract": "We define new graph parameters, called flip-width, that generalize treewidth,\ndegeneracy, and generalized coloring numbers for sparse graphs, and\nclique-width and twin-width for dense graphs. The flip-width parameters are\ndefined using variants of the Cops and Robber game, in which the robber has\nspeed bounded by a fixed constant $r\\in\\mathbb N\\cup\\{\\infty\\}$, and the cops\nperform flips (or perturbations) of the considered graph. We then propose a new\nnotion of tameness of a graph class, called bounded flip-width, which is a\ndense counterpart of classes of bounded expansion of Ne\\v{s}etril and Ossona de\nMendez, and includes classes of bounded twin-width of Bonnet, Kim,\nThomass{\\'e}, and Watrigant. This unifies Sparsity Theory and Twin-width\nTheory, providing a common language for studying the central notions of the two\ntheories, such as weak coloring numbers and twin-width -- corresponding to\nwinning strategies of one player -- or dense shallow minors, rich divisions, or\nwell-linked sets, corresponding to winning strategies of the other player. We\nprove that boundedness of flip-width is preserved by first-order\ninterpretations, or transductions, generalizing previous results concerning\nclasses of bounded expansion and bounded twin-width. We provide an algorithm\napproximating the flip-width of a given graph, which runs in slicewise\npolynomial time (XP) in the size of the graph. Finally, we propose a more\ngeneral notion of tameness, called almost bounded flip-width, which is a dense\ncounterpart of nowhere dense classes. We conjecture, and provide evidence, that\nclasses with almost bounded flip-width coincide with monadically dependent (or\nmonadically NIP) classes, introduced by Shelah in model theory. We also provide\nevidence that classes of almost bounded flip-width characterise the hereditary\ngraph classes for which the model-checking problem is fixed-parameter\ntractable.",
+          "arxiv_id": "2302.00352v3"
+        },
+        {
+          "title": "On classes of bounded tree rank, their interpretations, and efficient sparsification",
+          "year": "2024-04",
+          "abstract": "Graph classes of bounded tree rank were introduced recently in the context of\nthe model checking problem for first-order logic of graphs. These graph classes\nare a common generalization of graph classes of bounded degree and bounded\ntreedepth, and they are a special case of graph classes of bounded expansion.\nWe introduce a notion of decomposition for these classes and show that these\ndecompositions can be efficiently computed. Also, a natural extension of our\ndecomposition leads to a new characterization and decomposition for graph\nclasses of bounded expansion (and an efficient algorithm computing this\ndecomposition).\n  We then focus on interpretations of graph classes of bounded tree rank. We\ngive a characterization of graph classes interpretable in graph classes of tree\nrank $2$. Importantly, our characterization leads to an efficient\nsparsification procedure: For any graph class $C$ interpretable in a\nefficiently bounded graph class of tree rank at most $2$, there is a polynomial\ntime algorithm that to any $G \\in C$ computes a (sparse) graph $H$ from a fixed\ngraph class of tree rank at most $2$ such that $G = I(H)$ for a fixed\ninterpretation $I$. To the best of our knowledge, this is the first efficient\n\"interpretation reversal\" result that generalizes the result of Gajarsk\\'y et\nal. [LICS 2016], who showed an analogous result for graph classes interpretable\nin classes of graphs of bounded degree.",
+          "arxiv_id": "2404.18904v1"
+        },
+        {
+          "title": "Flip-Breakability: A Combinatorial Dichotomy for Monadically Dependent Graph Classes",
+          "year": "2024-03",
+          "abstract": "A conjecture in algorithmic model theory predicts that the model-checking\nproblem for first-order logic is fixed-parameter tractable on a hereditary\ngraph class if and only if the class is monadically dependent. Originating in\nmodel theory, this notion is defined in terms of logic, and encompasses nowhere\ndense classes, monadically stable classes, and classes of bounded twin-width.\nWorking towards this conjecture, we provide the first two combinatorial\ncharacterizations of monadically dependent graph classes. This yields the\nfollowing dichotomy.\n  On the structure side, we characterize monadic dependence by a\nRamsey-theoretic property called flip-breakability. This notion generalizes the\nnotions of uniform quasi-wideness, flip-flatness, and bounded grid rank, which\ncharacterize nowhere denseness, monadic stability, and bounded twin-width,\nrespectively, and played a key role in their respective model checking\nalgorithms. Natural restrictions of flip-breakability additionally characterize\nbounded treewidth and cliquewidth and bounded treedepth and shrubdepth.\n  On the non-structure side, we characterize monadic dependence by explicitly\nlisting few families of forbidden induced subgraphs. This result is analogous\nto the characterization of nowhere denseness via forbidden subdivided cliques,\nand allows us to resolve one half of the motivating conjecture: First-order\nmodel checking is AW[$*$]-hard on every hereditary graph class that is\nmonadically independent. The result moreover implies that hereditary graph\nclasses which are small, have almost bounded twin-width, or have almost bounded\nflip-width, are monadically dependent.\n  Lastly, we lift our result to also obtain a combinatorial dichotomy in the\nmore general setting of monadically dependent classes of binary structures.",
+          "arxiv_id": "2403.15201v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "On 1-Planar Graphs with Bounded Cop-Number",
+          "year": "2024-09",
+          "abstract": "Cops and Robbers is a type of pursuit-evasion game played on a graph where a\nset of cops try to capture a single robber. The cops first choose their initial\nvertex positions, and later the robber chooses a vertex. The cops and robbers\nmake their moves in alternate turns: in the cops' turn, every cop can either\nchoose to move to an adjacent vertex or stay on the same vertex, and likewise\nthe robber in his turn. If the cops can capture the robber in a finite number\nof rounds, the cops win, otherwise the robber wins. The cop-number of a graph\nis the minimum number of cops required to catch a robber in the graph. It has\nlong been known that graphs embedded on surfaces (such as planar graphs and\ntoroidal graphs) have a small cop-number. Recently, Durocher et al. [Graph\nDrawing, 2023] investigated the problem of cop-number for the class of\n$1$-planar graphs, which are graphs that can be embedded in the plane such that\neach edge is crossed at most once. They showed that unlike planar graphs which\nrequire just three cops, 1-planar graphs have an unbounded cop-number. On the\npositive side, they showed that maximal 1-planar graphs require only three cops\nby crucially using the fact that the endpoints of every crossing in an embedded\nmaximal 1-planar graph induce a $K_4$. In this paper, we show that the\ncop-number remains bounded even under the relaxed condition that the endpoints\ninduce at least three edges. More precisely, let an $\\times$-crossing of an\nembedded 1-planar graph be a crossing whose endpoints induce a matching; i.e.,\nthere is no edge connecting the endpoints apart from the crossing edges\nthemselves. We show that any 1-planar graph that can be embedded without\n$\\times$-crossings has cop-number at most 21. Moreover, any 1-planar graph that\ncan be embedded with at most $\\gamma$ $\\times$-crossings has cop-number at most\n$\\gamma + 21$.",
+          "arxiv_id": "2409.16279v1"
+        },
+        {
+          "title": "$k$-Hyperopic Cops and Robber",
+          "year": "2024-10",
+          "abstract": "A generalization of hyperopic cops and robber, analogous to the\n$k$-visibility cops and robber, is introduced in this paper. For a positive\ninteger $k$ the $k$-hyperopic game of cops and robber is defined similarly as\nthe usual cops and robber game, but with the robber being omniscient and\ninvisible to the cops that are at distance at most $k$ away from the robber.\nThe cops win the game if, after a finite number of rounds, a cop occupies the\nsame vertex as robber. Otherwise, robber wins. The minimum number of cops\nneeded to win the game on a graph $G$ is the $k$-hyperopic cop number\n$c_{H,k}(G)$ of $G$.\n  In addition to basic properties of the new invariant, cop-win graphs are\ncharacterized and a general upper bound in terms of the matching number of the\ngraph is given. The invariant is also studied on trees where the upper bounds\nmostly depend on the relation between $k$ and the diameter of the tree. It is\nalso proven that the 2-hyperopic cop number of outerplanar graphs is at most 2\nand an upper bound in terms of the number of vertices of the graph is presented\nfor $k \\geq 3$.",
+          "arxiv_id": "2410.17678v1"
+        },
+        {
+          "title": "Cops and Robbers for Graphs on Surfaces with Crossings",
+          "year": "2025-04",
+          "abstract": "Cops and Robbers is a game played on a graph where a set of cops attempt to\ncapture a single robber. The game proceeds in rounds, where each round first\nconsists of the cops' turn, followed by the robber's turn. In the cops' turn,\nevery cop can choose to either stay on the same vertex or move to an adjacent\nvertex, and likewise the robber in his turn. The robber is considered to be\ncaptured if, at any point in time, there is some cop on the same vertex as the\nrobber. A natural question in this game concerns the cop-number of a graph --\nthe minimum number of cops needed to capture the robber. It has long been known\nthat graphs embeddable (without crossings) on surfaces of bounded genus have\nbounded cop-number. In contrast, the class of 1-planar graphs -- graphs that\ncan be drawn on the plane with at most one crossing per edge -- does not have\nbounded cop-number. This paper initiates an investigation into how distance\nbetween crossing pairs of edges influences a graph's cop number. In particular,\nwe look at Distance $d$ Cops and Robbers, a variant of the classical game,\nwhere the robber is considered to be captured if there is a cop within distance\n$d$ of the robber. Let $c_d(G)$ denote the minimum number of cops required in\nthe graph $G$ to capture a robber within distance $d$. We look at various\nclasses of graphs, such as 1-plane graphs, $k$-plane graphs (graphs where each\nedge is crossed at most $k$ times), and even general graph drawings, and show\nthat if every crossing pair of edges can be connected by a path of small\nlength, then $c_d(G)$ is bounded, for small values of $d$.",
+          "arxiv_id": "2504.13813v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:54:55Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

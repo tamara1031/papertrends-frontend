@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_model_seismic_models",
+        "keywords": [
+          [
+            "data",
+            0.02798580476353999
+          ],
+          [
+            "model",
+            0.02568442110823922
+          ],
+          [
+            "seismic",
+            0.019845666368197578
+          ],
+          [
+            "models",
+            0.017419059073010376
+          ],
+          [
+            "time",
+            0.015799280091095554
+          ],
+          [
+            "method",
+            0.015363885644154248
+          ],
+          [
+            "learning",
+            0.013058379596306529
+          ],
+          [
+            "results",
+            0.011947943966559961
+          ],
+          [
+            "earthquake",
+            0.011274670992995891
+          ],
+          [
+            "approach",
+            0.011009048150311715
+          ]
+        ],
+        "count": 2600
+      },
+      "1": {
+        "name": "1_Earth_mantle_formation_core",
+        "keywords": [
+          [
+            "Earth",
+            0.028914293575323546
+          ],
+          [
+            "mantle",
+            0.02129689810315592
+          ],
+          [
+            "formation",
+            0.01966085854015991
+          ],
+          [
+            "core",
+            0.01659634779846717
+          ],
+          [
+            "water",
+            0.01638119177088669
+          ],
+          [
+            "Fe",
+            0.016295342369917892
+          ],
+          [
+            "surface",
+            0.016121551292620655
+          ],
+          [
+            "planets",
+            0.01564729874259992
+          ],
+          [
+            "iron",
+            0.01515374562575366
+          ],
+          [
+            "composition",
+            0.014746684275036807
+          ]
+        ],
+        "count": 478
+      },
+      "2": {
+        "name": "2_magnetic_waves_core_convection",
+        "keywords": [
+          [
+            "magnetic",
+            0.02902486086218545
+          ],
+          [
+            "waves",
+            0.028384208935502957
+          ],
+          [
+            "core",
+            0.02707638222931115
+          ],
+          [
+            "convection",
+            0.02315848285667301
+          ],
+          [
+            "rotating",
+            0.021620400289433784
+          ],
+          [
+            "field",
+            0.0208789064519327
+          ],
+          [
+            "flow",
+            0.018437480218551
+          ],
+          [
+            "Earth",
+            0.01734737842552369
+          ],
+          [
+            "energy",
+            0.017312130096063777
+          ],
+          [
+            "boundary",
+            0.017224940165453555
+          ]
+        ],
+        "count": 279
+      },
+      "3": {
+        "name": "3_geomagnetic_field_solar_ionospheric",
+        "keywords": [
+          [
+            "geomagnetic",
+            0.052492349398534775
+          ],
+          [
+            "field",
+            0.04114613662529492
+          ],
+          [
+            "solar",
+            0.037129807358878116
+          ],
+          [
+            "ionospheric",
+            0.036535842037913914
+          ],
+          [
+            "magnetic",
+            0.035401926574664504
+          ],
+          [
+            "storm",
+            0.022563463066752932
+          ],
+          [
+            "time",
+            0.020874200067653805
+          ],
+          [
+            "variations",
+            0.020623379072906203
+          ],
+          [
+            "geomagnetic field",
+            0.019202861571117977
+          ],
+          [
+            "magnetic field",
+            0.018739239809461412
+          ]
+        ],
+        "count": 125
+      },
+      "4": {
+        "name": "4_gravity_satellite_GNSS_Earth",
+        "keywords": [
+          [
+            "gravity",
+            0.031078179971215435
+          ],
+          [
+            "satellite",
+            0.030002821934197395
+          ],
+          [
+            "GNSS",
+            0.027942840160036498
+          ],
+          [
+            "Earth",
+            0.022358538679802396
+          ],
+          [
+            "clocks",
+            0.02227265676350806
+          ],
+          [
+            "VLBI",
+            0.020642418522384964
+          ],
+          [
+            "data",
+            0.019940331218795057
+          ],
+          [
+            "noise",
+            0.019082719670328218
+          ],
+          [
+            "time",
+            0.01884455174957906
+          ],
+          [
+            "geodetic",
+            0.01837495796732467
+          ]
+        ],
+        "count": 107
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4170945562279379,
+        -0.5990064155398,
+        -0.6085793182506525,
+        -0.5891925293655008
+      ],
+      [
+        -0.4170945562279379,
+        1.0,
+        -0.5266289408273365,
+        -0.5983206300930693,
+        -0.5566528229242291
+      ],
+      [
+        -0.5990064155398,
+        -0.5266289408273365,
+        1.0,
+        -0.454671792219062,
+        -0.5434681628399225
+      ],
+      [
+        -0.6085793182506525,
+        -0.5983206300930693,
+        -0.454671792219062,
+        1.0,
+        -0.5903195471672953
+      ],
+      [
+        -0.5891925293655008,
+        -0.5566528229242291,
+        -0.5434681628399225,
+        -0.5903195471672953,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        21,
+        5,
+        2,
+        1,
+        3
+      ],
+      "2020-02": [
+        17,
+        2,
+        3,
+        8,
+        1
+      ],
+      "2020-03": [
+        45,
+        2,
+        4,
+        3,
+        2
+      ],
+      "2020-04": [
+        29,
+        8,
+        9,
+        6,
+        5
+      ],
+      "2020-05": [
+        35,
+        4,
+        1,
+        5,
+        0
+      ],
+      "2020-06": [
+        46,
+        5,
+        2,
+        1,
+        2
+      ],
+      "2020-07": [
+        32,
+        8,
+        6,
+        6,
+        2
+      ],
+      "2020-08": [
+        31,
+        2,
+        1,
+        8,
+        4
+      ],
+      "2020-09": [
+        35,
+        6,
+        1,
+        7,
+        1
+      ],
+      "2020-10": [
+        32,
+        12,
+        3,
+        6,
+        1
+      ],
+      "2020-11": [
+        41,
+        9,
+        6,
+        4,
+        1
+      ],
+      "2020-12": [
+        36,
+        3,
+        3,
+        6,
+        1
+      ],
+      "2021-01": [
+        41,
+        3,
+        1,
+        8,
+        1
+      ],
+      "2021-02": [
+        30,
+        3,
+        3,
+        6,
+        0
+      ],
+      "2021-03": [
+        41,
+        4,
+        4,
+        6,
+        1
+      ],
+      "2021-04": [
+        52,
+        9,
+        2,
+        5,
+        0
+      ],
+      "2021-05": [
+        38,
+        9,
+        4,
+        4,
+        0
+      ],
+      "2021-06": [
+        31,
+        4,
+        4,
+        5,
+        0
+      ],
+      "2021-07": [
+        36,
+        1,
+        4,
+        4,
+        0
+      ],
+      "2021-08": [
+        35,
+        7,
+        5,
+        6,
+        1
+      ],
+      "2021-09": [
+        38,
+        10,
+        5,
+        4,
+        0
+      ],
+      "2021-10": [
+        43,
+        3,
+        4,
+        4,
+        1
+      ],
+      "2021-11": [
+        42,
+        7,
+        1,
+        5,
+        1
+      ],
+      "2021-12": [
+        42,
+        6,
+        3,
+        7,
+        3
+      ],
+      "2022-01": [
+        34,
+        4,
+        6,
+        7,
+        2
+      ],
+      "2022-02": [
+        33,
+        5,
+        5,
+        3,
+        0
+      ],
+      "2022-03": [
+        35,
+        8,
+        1,
+        5,
+        4
+      ],
+      "2022-04": [
+        46,
+        9,
+        2,
+        6,
+        0
+      ],
+      "2022-05": [
+        39,
+        10,
+        2,
+        2,
+        1
+      ],
+      "2022-06": [
+        37,
+        6,
+        1,
+        6,
+        0
+      ],
+      "2022-07": [
+        37,
+        6,
+        2,
+        3,
+        1
+      ],
+      "2022-08": [
+        28,
+        9,
+        3,
+        5,
+        2
+      ],
+      "2022-09": [
+        34,
+        13,
+        1,
+        7,
+        0
+      ],
+      "2022-10": [
+        39,
+        5,
+        2,
+        4,
+        0
+      ],
+      "2022-11": [
+        31,
+        7,
+        1,
+        12,
+        2
+      ],
+      "2022-12": [
+        49,
+        10,
+        4,
+        4,
+        2
+      ],
+      "2023-01": [
+        49,
+        14,
+        2,
+        5,
+        1
+      ],
+      "2023-02": [
+        44,
+        6,
+        1,
+        12,
+        1
+      ],
+      "2023-03": [
+        37,
+        7,
+        3,
+        9,
+        0
+      ],
+      "2023-04": [
+        53,
+        4,
+        4,
+        2,
+        2
+      ],
+      "2023-05": [
+        45,
+        4,
+        5,
+        1,
+        2
+      ],
+      "2023-06": [
+        30,
+        6,
+        2,
+        4,
+        3
+      ],
+      "2023-07": [
+        38,
+        8,
+        1,
+        10,
+        1
+      ],
+      "2023-08": [
+        41,
+        6,
+        2,
+        4,
+        1
+      ],
+      "2023-09": [
+        46,
+        9,
+        4,
+        3,
+        1
+      ],
+      "2023-10": [
+        54,
+        6,
+        1,
+        6,
+        1
+      ],
+      "2023-11": [
+        37,
+        4,
+        7,
+        2,
+        2
+      ],
+      "2023-12": [
+        35,
+        4,
+        4,
+        2,
+        1
+      ],
+      "2024-01": [
+        42,
+        2,
+        1,
+        7,
+        0
+      ],
+      "2024-02": [
+        43,
+        3,
+        3,
+        9,
+        0
+      ],
+      "2024-03": [
+        48,
+        3,
+        1,
+        4,
+        1
+      ],
+      "2024-04": [
+        43,
+        11,
+        1,
+        8,
+        1
+      ],
+      "2024-05": [
+        35,
+        8,
+        3,
+        3,
+        2
+      ],
+      "2024-06": [
+        44,
+        5,
+        4,
+        7,
+        0
+      ],
+      "2024-07": [
+        58,
+        9,
+        2,
+        3,
+        0
+      ],
+      "2024-08": [
+        46,
+        9,
+        4,
+        4,
+        1
+      ],
+      "2024-09": [
+        56,
+        0,
+        6,
+        2,
+        0
+      ],
+      "2024-10": [
+        59,
+        5,
+        8,
+        11,
+        2
+      ],
+      "2024-11": [
+        48,
+        6,
+        2,
+        6,
+        1
+      ],
+      "2024-12": [
+        46,
+        5,
+        2,
+        7,
+        2
+      ],
+      "2025-01": [
+        42,
+        6,
+        3,
+        5,
+        3
+      ],
+      "2025-02": [
+        58,
+        3,
+        3,
+        2,
+        1
+      ],
+      "2025-03": [
+        49,
+        7,
+        1,
+        3,
+        1
+      ],
+      "2025-04": [
+        56,
+        6,
+        2,
+        6,
+        1
+      ],
+      "2025-05": [
+        48,
+        5,
+        4,
+        7,
+        1
+      ],
+      "2025-06": [
+        59,
+        13,
+        2,
+        6,
+        2
+      ],
+      "2025-07": [
+        44,
+        7,
+        5,
+        6,
+        1
+      ],
+      "2025-08": [
+        34,
+        2,
+        5,
+        7,
+        1
+      ],
+      "2025-09": [
+        21,
+        2,
+        3,
+        1,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Transformer For Low-frequency Extrapolating of Seismic Data",
+          "year": "2024-04",
+          "abstract": "Full waveform inversion (FWI) is used to reconstruct the physical properties\nof subsurface media which plays an important role in seismic exploration.\nHowever, the precision of FWI is seriously affected by the absence or\ninaccuracy of low-frequency information. Therefore, reconstructing the\nlow-frequency signals accurately is highly significant in seismic data\nprocessing. Low-frequency extrapolation of seismic records can be approached as\na deep learning regression problem. Thus, to obtain low-frequency information\nfrom band-limited seismic records, a novel network structure called\nlow-frequency extrapolation transformer (LFET) is proposed to construct the\nnonlinear mapping relationship between the data missing low-frequency and\nlow-frequency data in a supervised learning approach, which is inspired by the\ntransformer model widely used in natural language processing (NLP). We apply\nmulti-head self-attention (MSA) modules to model the remote dependencies of\nseismic data. Based on this, we introduce a shifted window partitioning\napproach to reduce the calculating amount. Due to the field data are not\nsuitable for supervised learning, we generate synthetic seismic records using\nsubmodels selected from the benchmark Marmousi model as training data whose\ncharacteristics are similar to that of the field data. A single trace of\nsynthetic band-limited seismic data in the time domain is used as the input\ndata, and the parameters of LFET are updated based on the errors between the\npredicted trace and the corresponding label. The experimental results on the\ndata generated by different models, different wavelets, and different kinds of\nfield marine data demonstrate the feasibility and generalization of the\nproposed method. Furthermore, the proposed method achieves higher accuracy with\nlower computational expense than the traditional CNN method.",
+          "arxiv_id": "2404.17437v1"
+        },
+        {
+          "title": "Deep Learning to Estimate Permeability using Geophysical Data",
+          "year": "2021-10",
+          "abstract": "Time-lapse electrical resistivity tomography (ERT) is a popular geophysical\nmethod to estimate three-dimensional (3D) permeability fields from electrical\npotential difference measurements. Traditional inversion and data assimilation\nmethods are used to ingest this ERT data into hydrogeophysical models to\nestimate permeability. Due to ill-posedness and the curse of dimensionality,\nexisting inversion strategies provide poor estimates and low resolution of the\n3D permeability field. Recent advances in deep learning provide us with\npowerful algorithms to overcome this challenge. This paper presents a deep\nlearning (DL) framework to estimate the 3D subsurface permeability from\ntime-lapse ERT data. To test the feasibility of the proposed framework, we\ntrain DL-enabled inverse models on simulation data. Subsurface process models\nbased on hydrogeophysics are used to generate this synthetic data for deep\nlearning analyses. Results show that proposed weak supervised learning can\ncapture salient spatial features in the 3D permeability field. Quantitatively,\nthe average mean squared error (in terms of the natural log) on the strongly\nlabeled training, validation, and test datasets is less than 0.5. The R2-score\n(global metric) is greater than 0.75, and the percent error in each cell (local\nmetric) is less than 10%. Finally, an added benefit in terms of computational\ncost is that the proposed DL-based inverse model is at least O(104) times\nfaster than running a forward model. Note that traditional inversion may\nrequire multiple forward model simulations (e.g., in the order of 10 to 1000),\nwhich are very expensive. This computational savings (O(105) - O(107)) makes\nthe proposed DL-based inverse model attractive for subsurface imaging and\nreal-time ERT monitoring applications due to fast and yet reasonably accurate\nestimations of the permeability field.",
+          "arxiv_id": "2110.10077v2"
+        },
+        {
+          "title": "DiffusionInv: Prior-enhanced Bayesian Full Waveform Inversion using Diffusion models",
+          "year": "2025-05",
+          "abstract": "Full waveform inversion (FWI) is an advanced seismic inversion technique for\nquantitatively estimating subsurface properties. However, with FWI, it is hard\nto converge to a geologically-realistic subsurface model. Thus, we propose a\nDiffusionInv approach by integrating a pretrained diffusion model\nrepresentation of the velocity into FWI within a Bayesian framework. We first\ntrain the diffusion model on realistic and expected velocity model samples,\npreferably prepared based on our geological knowledge of the subsurface, to\nlearn their prior distribution. Once this pretraining is complete, we fine-tune\nthe neural network parameters of the diffusion model by using an L2 norm of\ndata misfit between simulated and observed seismic data as a loss function.\nThis process enables the model to elegantly learn the posterior distribution of\nvelocity models given seismic observations starting from the previously learned\nprior distribution. The approximate representation of the posterior probability\ndistribution provides valuable insights into the inversion uncertainty for\nphysics-constrained FWI given the seismic data and prior model information.\nCompared to regularized FWI methods, the diffusion model under a probabilistic\nframework allows for a more adaptable integration of prior information into\nFWI, thus mitigating the multi-solution issue and enhancing the reliability of\nthe inversion result. Compared to data-driven FWI methods, the integration of\nphysical constraints in DiffusionInv enhances its ability to generalize across\ndiverse seismic scenarios. The test results in the Hess and Otway examples\ndemonstrate that the DiffusionInv method is capable of recovering the velocity\nmodel with high resolution by incorporating the prior model information. The\nestimated posterior probability distribution helps us understand the inversion\nuncertainty.",
+          "arxiv_id": "2505.03138v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Super-Earths and Earth-like Exoplanets",
+          "year": "2024-05",
+          "abstract": "In the last few years astronomical surveys have expanded the reach of\nplanetary science into the realm of small and dense extrasolar worlds. These\nshare a number of characteristics with the terrestrial and icy planetary\nobjects of the Solar System, but keep stretching previous understanding of the\nknown limits of planetary thermodynamics, material properties, and climate\nregimes. Improved compositional and thermal constraints on exoplanets below\n$\\sim$2 Earth radii suggest efficient accretion of atmosphere-forming volatile\nelements in a fraction of planetary systems, pointing to rapid formation,\nplanet-scale melting, and chemical equilibration between the core, mantle, and\natmosphere of rocky and volatile-rich exoplanets. Meaningful interpretation of\nnovel observational data from these worlds necessitates cross-disciplinary\nexpansion of known material properties under extreme thermodynamic, non-solar\nconditions, and accounting for dynamic feedbacks between interior and\natmospheric processes. Exploration of the atmosphere and surface composition of\nindividual, short-period super-Earths in the next few years will enable key\ninferences on magma ocean dynamics, the redox state of rocky planetary mantles,\nand mixing between volatile and refractory phases in planetary regimes that are\nabsent from the present-day Solar System, and reminiscent of the conditions of\nthe prebiotic Earth. The atmospheric characterization of climate diversity and\nthe statistical search for biosignatures on terrestrial exoplanets on temperate\norbits will require space-based direct imaging surveys, capable of resolving\nemission features of major and trace gases in both shortwave and mid-infrared\nwavelengths.",
+          "arxiv_id": "2405.04057v1"
+        },
+        {
+          "title": "Earth shaped by primordial H$_2$ atmospheres",
+          "year": "2023-04",
+          "abstract": "Earth's water, intrinsic oxidation state, and metal core density are\nfundamental chemical features of our planet. Studies of exoplanets provide a\nuseful context for elucidating the source of these chemical traits. Planet\nformation and evolution models demonstrate that rocky exoplanets commonly\nformed with hydrogen-rich envelopes that were lost over time. These findings\nsuggest that Earth may also have formed from bodies with H$_2$-rich primary\natmospheres. Here we use a self-consistent thermodynamic model to show that\nEarth's water, core density, and overall oxidation state can all be sourced to\nequilibrium between H$_2$-rich primary atmospheres and underlying magma oceans\nin its progenitor planetary embryos. Water is produced from dry starting\nmaterials resembling enstatite chondrites as oxygen from magma oceans reacts\nwith hydrogen. Hydrogen derived from the atmosphere enters the magma ocean and\neventually the metal core at equilibrium, causing metal density deficits\nmatching that of Earth. Oxidation of the silicate rocks from solar-like to\nEarth-like oxygen fugacities also ensues as Si, along with H and O, alloys with\nFe in the cores. Reaction with hydrogen atmospheres and metal-silicate\nequilibrium thus provides a simple explanation for fundamental features of\nEarth's geochemistry that is consistent with rocky planet formation across the\ngalaxy.",
+          "arxiv_id": "2304.07845v1"
+        },
+        {
+          "title": "Earth and Mars -- distinct inner Solar System products",
+          "year": "2020-06",
+          "abstract": "Composition of terrestrial planets records planetary accretion, core-mantle\nand crust-mantle differentiation, and surface processes. Here we compare the\ncompositional models of Earth and Mars to reveal their characteristics and\nformation processes. Earth and Mars are equally enriched in refractory elements\n(1.9 $\\times$ CI), although Earth is more volatile-depleted and less oxidized\nthan Mars. Their chemical compositions were established by nebular\nfractionation, with negligible contributions from post-accretionary losses of\nmoderately volatile elements. The degree of planetary volatile element\ndepletion might correlate with the abundances of chondrules in the accreted\nmaterials, planetary size, and their accretion timescale, which provides\ninsights into composition and origin of Mercury, Venus, the Moon-forming giant\nimpactor, and the proto-Earth. During its formation before and after the\nnebular disk's lifetime, the Earth likely accreted more chondrules and less\nmatrix-like materials than Mars and chondritic asteroids, establishing its\nmarked volatile depletion. A giant impact of an oxidized, differentiated\nMars-like (i.e., composition and mass) body into a volatile-depleted, reduced\nproto-Earth produced a Moon-forming debris ring with mostly a proto-Earth's\nmantle composition. Chalcophile and some siderophile elements in the silicate\nEarth added by the Mars-like impactor were extracted into the core by a sulfide\nmelt. In contrast, the composition of Mars indicates its rapid accretion of\nlesser amounts of chondrules under nearly uniform oxidizing conditions. Mars'\nrapid cooling and early loss of its dynamo likely led to the absence of plate\ntectonics and surface water, and the present-day low surface heat flux. These\nsimilarities and differences between the Earth and Mars made the former\nhabitable and the other inhospitable to uninhabitable.",
+          "arxiv_id": "2006.11051v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Effects of kinematic and magnetic boundary conditions on the dynamics of convection-driven plane layer dynamos",
+          "year": "2022-02",
+          "abstract": "Rapidly rotating convection-driven dynamos are investigated under different\nkinematic and magnetic boundary conditions using DNS. At a fixed rotation rate,\nrepresented by the Ekman number $E=5\\times10^{-7}$, the thermal forcing is\nvaried from 2 to 20 times its value at the onset of convection\n($\\mathcal{R}=Ra/Ra_c=2-20$), keeping the fluid properties constant\n($Pr=Pr_m=1$). The statistical behavior, force balance and heat transport\ncharacteristics of the dynamos depend on boundary conditions that dictate both\nboundary layer and the interior dynamics. At a fixed thermal forcing\n($\\mathcal{R}=3$), the Ekman plumes in the presence of viscous boundary layers\nlead to energetic vortices that result in higher enstrophy and kinetic helicity\nwith no-slip boundaries compared to free-slip boundaries. The structure and\nstrength of the magnetic field are also dictated by the boundary conditions.\nThough the leading order force balance remains geostrophic, Lorentz force\ndominates inside the thermal boundary layer with no-slip, electrically\nconducting walls. Here, the Lorentz work term in the turbulent kinetic energy\nbudget is found to have components that exchange energy from the velocity field\nto the magnetic field, and vice-versa. However, with no-slip, insulated walls,\nall Lorentz work components perform unidirectional energy transfer to produce\nmagnetic energy from the kinetic energy of the fluid. The heat transfer\nenhancement in dynamos, compared to non-magnetic rotating convection, exhibits\na peak in the range $\\mathcal{R}=3-5$. For free-slip conditions, dynamo action\nmay alter the heat transport by suppressing the formation of large-scale\nvortices. However, the highest heat transfer enhancement occurs when the\nboundaries are no-slip, electrically conducting walls.",
+          "arxiv_id": "2202.03235v1"
+        },
+        {
+          "title": "Asymptotic behaviour of rotating convection-driven dynamos in the plane layer geometry",
+          "year": "2022-02",
+          "abstract": "Dynamos driven by rotating convection in the plane layer geometry are\ninvestigated numerically for a range of Ekman number ($E$), magnetic Prandtl\nnumber ($Pm$) and Rayleigh number ($Ra$). The primary purpose of the\ninvestigation is to compare results of the simulations with previously\ndeveloped asymptotic theory that is applicable in the limit of rapid rotation.\nWe find that all of the simulations are in the quasi-geostrophic regime in\nwhich the Coriolis and pressure gradient forces are approximately balanced at\nleading order, whereas all other forces, including the Lorentz force, act as\nperturbations. Agreement between simulation output and asymptotic scalings for\nthe energetics, flow speeds, magnetic field amplitude and length scales is\nfound. The transition from large scale dynamos to small scale dynamos is well\ndescribed by the magnetic Reynolds number based on the small convective length\nscale, $\\widetilde{Rm}$, with large scale dynamos preferred when\n$\\widetilde{Rm} \\lesssim O(1)$. The magnitude of the large scale magnetic field\nis observed to saturate and become approximately constant with increasing\nRayleigh number. Energy spectra show that all length scales present in the flow\nfield and the small-scale magnetic field are consistent with a scaling of\n$E^{1/3}$, even in the turbulent regime. For a fixed value of $E$, we find that\nthe viscous dissipation length scale is approximately constant over a broad\nrange of $Ra$; the ohmic dissipation length scale is approximately constant\nwithin the large scale dynamo regime, but transitions to a\n$\\widetilde{Rm}^{-1/2}$ scaling in the small scale dynamo regime.",
+          "arxiv_id": "2202.01382v2"
+        },
+        {
+          "title": "The role of magnetic waves in tangent cylinder convection",
+          "year": "2023-10",
+          "abstract": "The secular variation of the geomagnetic field suggests that there are\nanticyclonic polar vortices in the Earth's core. Under the influence of a\nmagnetic field, the polar azimuthal flow is thought to be produced by one or\nmore coherent upwellings within the tangent cylinder, offset from the rotation\naxis. In this study, convection within the tangent cylinder in rapidly rotating\ndynamos is investigated through the analysis of forced magnetic waves. The\nfirst part of the study investigates the evolution of an isolated buoyancy\ndisturbance in an unstably stratified rotating fluid subjected to an axial\nmagnetic field. It is shown that the axial flow intensity of the slow\nMagnetic-Archimedean-Coriolis (MAC) waves becomes comparable to that of the\nfast MAC waves when $|\\omega_M/\\omega_C| \\sim 0.1$, where $\\omega_M$ and\n$\\omega_C$ are the Alfv\\'en wave and inertial wave frequencies respectively. In\nspherical shell dynamo simulations, the isolated upwellings within the tangent\ncylinder are shown to originate from the localized excitation of slow MAC waves\nin the dipole-dominated regime. Axial flow measurements in turn reveal the\napproximate parity between the slow and fast wave intensities in this regime,\nwhich corresponds to the existence of strong polar vortices in the Earth's\ncore. To obtain the observed peak azimuthal motions of\n$0.6$--$0.9^\\circ$yr$^{-1}$, the Rayleigh number in the low-inertia geodynamo\nmust be $\\sim 10^3$ times the Rayleigh number for the onset of nonmagnetic\nconvection. However, if the forcing is so strong as to cause polarity\nreversals, the field within the tangent cylinder decays away, and the\nconvection takes the form of an ensemble of plumes supported entirely by the\nfast waves of frequency $\\omega \\sim \\omega_C$. The resulting weak polar\ncirculation is comparable to that obtained in nonmagnetic convection.",
+          "arxiv_id": "2310.06487v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Dependence of great geomagnetic storm intensity ($Δ$SYM-H$\\le$-200 nT) on associated solar wind parameters",
+          "year": "2020-09",
+          "abstract": "We use $\\Delta$SYM-H to capture the variation in the SYM-H index during the\nmain phase of a geomagnetic storm. We define great geomagnetic storms as those\nwith $\\Delta$SYM-H $\\le$ -200 nT. After analyzing the data that were not\nobscured by solar winds, we determined that 11 such storms occurred during\nsolar cycle 23. We calculated time integrals for the southward interplanetary\nmagnetic field component I(B$_s$), the solar wind electric field I(E$_y$), and\na combination of E$_y$ and the solar wind dynamic pressure I(Q) during the main\nphase of a great geomagnetic storm. The strength of the correlation coefficient\n(CC) between $\\Delta$SYM-H and each of the three integrals I(B$_s$) (CC =\n0.74), I(E$_y$) (CC = 0.85), and I(Q) (CC = 0.94) suggests that Q, which\nencompasses both the solar wind electric field and the solar wind dynamic\npressure, is the main driving factor that determines the intensity of a great\ngeomagnetic storm. The results also suggest that the impact of B$_s$ on the\ngreat geomagnetic storm intensity is much more significant than that of the\nsolar wind speed and the dynamic pressure during the main phase of associated\ngreat geomagnetic storm. How to estimate the intensity of an extreme\ngeomagnetic storm based on solar wind parameters is also discussed.",
+          "arxiv_id": "2009.05971v2"
+        },
+        {
+          "title": "Polar ionospheric currents and high temporal resolution geomagnetic field models",
+          "year": "2023-09",
+          "abstract": "Estimating high resolution models of the Earth's core magnetic field and its\ntime variation in the polar regions requires that one can adequately account\nfor magnetic signals produced by polar ionospheric currents, which vary on a\nwide range of time and length scales. Limitations of existing ionospheric field\nmodels in the challenging polar regions can adversely affect core field models,\nwhich in turn has important implications for studies of the core flow dynamics\nin those regions. Here we implement a new approach to co-estimate a\nclimatological model of the ionospheric field together with a model of the\ninternal and magnetospheric fields within the CHAOS geomagnetic field modelling\nframework. The parametrization of the ionospheric field exploits non-orthogonal\nmagnetic coordinates and scales linearly with external driving parameters\nrelated to the solar wind and the interplanetary magnetic field. Using this\napproach we derive a new geomagnetic field model from measurements of the\nmagnetic field collected by low Earth orbit satellites, which in addition to\nthe internal field provides estimates of the typical current system in the\npolar ionosphere. We find that the time derivative of the estimated internal\nfield is less contaminated by the polar currents, which is mostly visible in\nthe zonal and near-zonal terms at high spherical harmonic degrees. Distinctive\npatches of strong secular variation at the core-mantle boundary, which have\nimportant implications for core dynamics, persist. Relaxing the temporal\nregularisation reveals annual oscillations, which could indicate remaining\nionospheric field or related induced signals in the internal field model. Using\nprincipal component analysis we find that the annual oscillations mostly affect\nthe zonal low-degree spherical harmonics of the internal field.",
+          "arxiv_id": "2309.04286v1"
+        },
+        {
+          "title": "Datasets of the solar quiet (Sq) and solar disturbed (SD) variations of the geomagnetic field from the mid latitudinal Magnetic Observatory of Coimbra (Portugal) obtained by different methods",
+          "year": "2021-03",
+          "abstract": "Here we present datasets of daily variation obtained from the geomagnetic\nfield raw observations recorded at the Coimbra Magnetic Observatory (COI,\nPortugal) in 2007-2017, covering almost the entire solar cycle 24. Two methods\nwere used to extract daily variability from the raw geomagnetic hourly data.\nThe first method uses the so-called geomagnetically quiet days to calculate\nS-type variations as daily means resulting in the data sub-set named IQD Sq and\nSD. The second method uses the principal component analysis (PCA) to decompose\nthe original series into main variability modes. The first three modes produced\nby PCA and explaining up to 98 per cent of the variability of the raw data are\nin the data sub-set named PCA modes. Both methods allow to extract regular\ngeomagnetic field variations related to daily variations (S-type variations) in\nthe ionospheric dynamo region and some magnetospheric currents. The COI\nlocation near the mean latitude of the ionospheric Sq current vortex focus\nallows studying its variability using the S-type regular variations of the\ngeomagnetic field measured near the ground. The S-type variations for the X and\nY components of the geomagnetic field obtained at the COI observatory can also\nbe re-scaled and used to analyze field variations obtained at other European\ngeomagnetic observatories at close latitudes. The S-type variations for the Z\ncomponent of the geomagnetic field obtained at the COI observatory can be\ncompared to similar variations observed at more continental regions to study\nthe so-called coastal effect in the geomagnetic field variations. The dataset\ndescribed in this paper is analyzed in a companion paper Comparison of the\nsolar variations of the geomagnetic field at the Coimbra Magnetic Observatory\n(COI) obtained by different methods: effect of the solar and geomagnetic\nactivity by A. Morozova and R. Rebbah submitted to ASR.",
+          "arxiv_id": "2103.13899v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "GipsyX/RTGx, A New Tool Set for Space Geodetic Operations and Research",
+          "year": "2020-04",
+          "abstract": "GipsyX/RTGx is the Jet Propulsion Laboratory's (JPL) next generation software\npackage for positioning, navigation, timing, and Earth science using\nmeasurements from three geodetic techniques: Global Navigation Satellite\nSystems (GNSS), Satellite Laser Ranging (SLR), and Doppler Orbitography and\nRadiopositioning Integrated by Satellite (DORIS); with Very Long Baseline\nInterferometry (VLBI) under development. The software facilitates combined\nestimation of geodetic and geophysical parameters using a Kalman filter\napproach on real or simulated data in both post-processing and in real-time.\nThe estimated parameters include station coordinates and velocities, satellite\norbits and clocks, Earth orientation, ionospheric and tropospheric delays. The\nsoftware is also capable of full realization of a dynamic terrestrial reference\nthrough analysis and combination of time series of ground station coordinates.\n  We present some key aspects of its new architecture, and describe some of its\nmajor applications, including Real-time orbit determination and ephemeris\npredictions in the U.S. Air Force Next Generation GPS Operational Control\nSegment (OCX), as well as in JPL's Global Differential GPS (GDGPS) System,\nsupporting User Range Error (URE) of $<$ 5 cm RMS; precision post-processing\nGNSS orbit determination, including JPL's contributions to the International\nGNSS Service (IGS) with URE in the 2 cm RMS range; Precise point positioning\n(PPP) with ambiguity resolution, both statically and kinematically, for\ngeodetic applications with 2 mm horizontal, and 6.5 mm vertical repeatability\nfor static positioning; Operational orbit and clock determination for Low Earth\nOrbiting (LEO) satellites, such as NASA's Gravity Recovery and Climate\nExperiment (GRACE) mission with GRACE relative clock alignment at the 20 ps\nlevel.",
+          "arxiv_id": "2004.13124v1"
+        },
+        {
+          "title": "Potential and scientific requirements of optical clock networks for validating satellite gravity missions",
+          "year": "2020-12",
+          "abstract": "The GRACE and GRACE-FO missions have provided an unprecedented quantification\nof large-scale changes in the water cycle. However, it is still an open problem\nof how these missions' data sets can be referenced to a ground truth.\nMeanwhile, stationary optical clocks show fractional instabilities below\n$10^{-18}$ when averaged over an hour, and continue to be improved in terms of\nprecision and accuracy, uptime, and transportability. The frequency of a clock\nis affected by the gravitational redshift, and thus depends on the local\ngeopotential; a relative frequency change of $10^{-18}$ corresponds to a geoid\nheight change of about $1$ cm. Here we suggest that this effect could be\nfurther exploited for sensing large-scale temporal geopotential changes via a\nnetwork of clocks distributed at the Earth's surface. In fact, several projects\nhave already proposed to create an ensemble of optical clocks connected across\nEurope via optical fibre links. Our hypothesis is that a clock network with\ncollocated GNSS receivers spread over Europe - for which the physical\ninfrastructure is already partly in place - would enable us to determine\ntemporal variations of the Earth's gravity field at time scales of days and\nbeyond, and thus provide a new means for validating satellite missions such as\nGRACE-FO or a future gravity mission. Here, we show through simulations how\nice, hydrology and atmosphere variations over Europe could be observed with\nclock comparisons in a future network that follows current design concepts in\nthe metrology community. We assume different scenarios for clock and GNSS\nuncertainties and find that even under conservative assumptions - a clock error\nof $10^{-18}$ and vertical height control error of $1.4$ mm for daily\nmeasurements - hydrological signals at the annual time scale and atmospheric\nsignals down to the weekly time scale could be observed.",
+          "arxiv_id": "2012.02618v1"
+        },
+        {
+          "title": "Determining the gravity potential with the CVSTT technique using two hydrogen clocks",
+          "year": "2022-01",
+          "abstract": "According to general relativity theory (GRT), by comparing the frequencies\nbetween two precise clocks at two different stations, the gravity potential\n(geopotential) difference between the two stations can be determined due to the\ngravity frequency shift effect. Here, we provide experimental results of\ngeopotential difference determination based on frequency comparisons between\ntwo remote hydrogen atomic clocks, with the help of common-view satellite time\ntransfer (CVSTT) technique. For the first time we apply the ensemble empirical\nmode decomposition (EEMD) technique to the CVSTT observations for effectively\ndetermining the geopotential-related signals. Based on the net frequency shift\nbetween the two clocks in two different periods, the geopotential difference\nbetween stations of the Beijing 203 Institute Laboratory (BIL) and Luojiashan\nTime--Frequency Station (LTS) is determined. Comparisons show that the\northometric height (OH) of LTS determined by the clock comparison is deviated\nfrom that determined by the Earth gravity model EGM2008 by (38.5$\\pm$45.7)~m.\nThe results are consistent with the frequency stabilities of the hydrogen\nclocks (at the level of $10^{-15}$~day$^{-1}$) used in the experiment. Using\nmore precise atomic or optical clocks, the CVSTT method for geopotential\ndetermination could be applied effectively and extensively in geodesy in the\nfuture.",
+          "arxiv_id": "2201.06287v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:02:20Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

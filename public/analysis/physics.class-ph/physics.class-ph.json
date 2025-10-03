@@ -1,0 +1,1166 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_field_classical_equations_electromagnetic",
+        "keywords": [
+          [
+            "field",
+            0.02883241127701115
+          ],
+          [
+            "classical",
+            0.023031343013405314
+          ],
+          [
+            "equations",
+            0.021669573882152904
+          ],
+          [
+            "electromagnetic",
+            0.020249090762639255
+          ],
+          [
+            "charge",
+            0.019135141749089497
+          ],
+          [
+            "energy",
+            0.015863371754186235
+          ],
+          [
+            "electric",
+            0.01575227936185305
+          ],
+          [
+            "Maxwell",
+            0.015537502981459679
+          ],
+          [
+            "momentum",
+            0.015207786469148157
+          ],
+          [
+            "fields",
+            0.015204334893510259
+          ]
+        ],
+        "count": 521
+      },
+      "1": {
+        "name": "1_elastic_stress_model_strain",
+        "keywords": [
+          [
+            "elastic",
+            0.02716190695590712
+          ],
+          [
+            "stress",
+            0.025880807381116335
+          ],
+          [
+            "model",
+            0.019746344369564107
+          ],
+          [
+            "strain",
+            0.01710986985464253
+          ],
+          [
+            "materials",
+            0.015635886573306158
+          ],
+          [
+            "shear",
+            0.015500552077053309
+          ],
+          [
+            "material",
+            0.015165182149264388
+          ],
+          [
+            "elasticity",
+            0.015137561205435763
+          ],
+          [
+            "contact",
+            0.014184275824145843
+          ],
+          [
+            "surface",
+            0.01342650439314345
+          ]
+        ],
+        "count": 337
+      },
+      "2": {
+        "name": "2_wave_waves_frequency_scattering",
+        "keywords": [
+          [
+            "wave",
+            0.02191634367209983
+          ],
+          [
+            "waves",
+            0.02087463151696292
+          ],
+          [
+            "frequency",
+            0.01801150712529986
+          ],
+          [
+            "scattering",
+            0.017494505477506615
+          ],
+          [
+            "acoustic",
+            0.016100415523245974
+          ],
+          [
+            "modes",
+            0.01563407474070542
+          ],
+          [
+            "field",
+            0.014853552801456357
+          ],
+          [
+            "surface",
+            0.014842409895778902
+          ],
+          [
+            "electromagnetic",
+            0.014473050642846087
+          ],
+          [
+            "design",
+            0.013934964355064704
+          ]
+        ],
+        "count": 285
+      },
+      "3": {
+        "name": "3_entropy_temperature_heat_thermodynamics",
+        "keywords": [
+          [
+            "entropy",
+            0.03385248605413996
+          ],
+          [
+            "temperature",
+            0.02655824365019786
+          ],
+          [
+            "heat",
+            0.02550054023790993
+          ],
+          [
+            "thermodynamics",
+            0.023569022505968318
+          ],
+          [
+            "equilibrium",
+            0.02334205208760748
+          ],
+          [
+            "thermodynamic",
+            0.022664474254624267
+          ],
+          [
+            "energy",
+            0.0195639695339519
+          ],
+          [
+            "dynamics",
+            0.018690765755088587
+          ],
+          [
+            "law",
+            0.0174195807729376
+          ],
+          [
+            "time",
+            0.01741712558464023
+          ]
+        ],
+        "count": 193
+      },
+      "4": {
+        "name": "4_topological_Hermitian_non_systems",
+        "keywords": [
+          [
+            "topological",
+            0.04583072795758234
+          ],
+          [
+            "Hermitian",
+            0.03690765722380459
+          ],
+          [
+            "non",
+            0.03496901717622668
+          ],
+          [
+            "systems",
+            0.025060210905334647
+          ],
+          [
+            "states",
+            0.023850906258780558
+          ],
+          [
+            "modes",
+            0.017357491326271682
+          ],
+          [
+            "phase",
+            0.016959399412057895
+          ],
+          [
+            "symmetry",
+            0.01691260258085372
+          ],
+          [
+            "quantum",
+            0.015590882188262788
+          ],
+          [
+            "exceptional",
+            0.015203441453292749
+          ]
+        ],
+        "count": 143
+      },
+      "5": {
+        "name": "5_orbits_body_gravitational_problem",
+        "keywords": [
+          [
+            "orbits",
+            0.03318118333541207
+          ],
+          [
+            "body",
+            0.029361991220614017
+          ],
+          [
+            "gravitational",
+            0.02541722390663122
+          ],
+          [
+            "problem",
+            0.025367991806687668
+          ],
+          [
+            "motion",
+            0.023968019744695042
+          ],
+          [
+            "orbit",
+            0.02142820321955414
+          ],
+          [
+            "Newton",
+            0.02052590989847291
+          ],
+          [
+            "mass",
+            0.019993902778006455
+          ],
+          [
+            "Kepler",
+            0.01984465982582125
+          ],
+          [
+            "solutions",
+            0.01758224370238403
+          ]
+        ],
+        "count": 111
+      },
+      "6": {
+        "name": "6_friction_motion_rolling_ball",
+        "keywords": [
+          [
+            "friction",
+            0.03993242674816256
+          ],
+          [
+            "motion",
+            0.03916405239164384
+          ],
+          [
+            "rolling",
+            0.03585241111800043
+          ],
+          [
+            "ball",
+            0.024553801814288612
+          ],
+          [
+            "model",
+            0.023479746025808126
+          ],
+          [
+            "chain",
+            0.021824331866707763
+          ],
+          [
+            "force",
+            0.02135510316635813
+          ],
+          [
+            "bottle",
+            0.020661517208114225
+          ],
+          [
+            "velocity",
+            0.020064392558792558
+          ],
+          [
+            "floor",
+            0.019026389453153058
+          ]
+        ],
+        "count": 58
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5853453855911938,
+        -0.6243612117206521,
+        -0.584209300821311,
+        -0.6905213346754717,
+        -0.5597945833980652,
+        -0.6144970358549805
+      ],
+      [
+        -0.5853453855911938,
+        1.0,
+        -0.5920191650697619,
+        -0.5434418554289311,
+        -0.728935153804529,
+        -0.5356918130711854,
+        -0.6067445165825497
+      ],
+      [
+        -0.6243612117206521,
+        -0.5920191650697619,
+        1.0,
+        -0.6571050290656243,
+        -0.700168954139444,
+        -0.6238156535782987,
+        -0.6641598192738618
+      ],
+      [
+        -0.584209300821311,
+        -0.5434418554289311,
+        -0.6571050290656243,
+        1.0,
+        -0.7099154429953727,
+        -0.5662541062890852,
+        -0.6260117086002712
+      ],
+      [
+        -0.6905213346754717,
+        -0.728935153804529,
+        -0.700168954139444,
+        -0.7099154429953727,
+        1.0,
+        -0.7243810811947913,
+        -0.735548392744183
+      ],
+      [
+        -0.5597945833980652,
+        -0.5356918130711854,
+        -0.6238156535782987,
+        -0.5662541062890852,
+        -0.7243810811947913,
+        1.0,
+        -0.5742886215695193
+      ],
+      [
+        -0.6144970358549805,
+        -0.6067445165825497,
+        -0.6641598192738618,
+        -0.6260117086002712,
+        -0.735548392744183,
+        -0.5742886215695193,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        17,
+        2,
+        3,
+        3,
+        2,
+        8,
+        4
+      ],
+      "2020-02": [
+        23,
+        1,
+        0,
+        0,
+        4,
+        2,
+        2
+      ],
+      "2020-03": [
+        29,
+        1,
+        2,
+        0,
+        1,
+        3,
+        4
+      ],
+      "2020-04": [
+        23,
+        2,
+        0,
+        6,
+        4,
+        2,
+        0
+      ],
+      "2020-05": [
+        25,
+        3,
+        5,
+        0,
+        1,
+        4,
+        3
+      ],
+      "2020-06": [
+        32,
+        1,
+        0,
+        2,
+        2,
+        5,
+        2
+      ],
+      "2020-07": [
+        35,
+        3,
+        0,
+        5,
+        2,
+        5,
+        2
+      ],
+      "2020-08": [
+        28,
+        3,
+        5,
+        1,
+        2,
+        4,
+        4
+      ],
+      "2020-09": [
+        18,
+        0,
+        1,
+        6,
+        3,
+        5,
+        4
+      ],
+      "2020-10": [
+        22,
+        0,
+        0,
+        3,
+        4,
+        5,
+        1
+      ],
+      "2020-11": [
+        19,
+        1,
+        1,
+        0,
+        1,
+        4,
+        1
+      ],
+      "2020-12": [
+        28,
+        3,
+        2,
+        4,
+        6,
+        2,
+        5
+      ],
+      "2021-01": [
+        27,
+        1,
+        1,
+        3,
+        4,
+        4,
+        2
+      ],
+      "2021-02": [
+        21,
+        2,
+        4,
+        2,
+        4,
+        3,
+        1
+      ],
+      "2021-03": [
+        22,
+        3,
+        3,
+        7,
+        2,
+        4,
+        5
+      ],
+      "2021-04": [
+        22,
+        2,
+        3,
+        5,
+        1,
+        4,
+        3
+      ],
+      "2021-05": [
+        28,
+        1,
+        3,
+        4,
+        2,
+        6,
+        2
+      ],
+      "2021-06": [
+        24,
+        2,
+        1,
+        4,
+        2,
+        5,
+        5
+      ],
+      "2021-07": [
+        30,
+        3,
+        4,
+        2,
+        5,
+        8,
+        4
+      ],
+      "2021-08": [
+        32,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "2021-09": [
+        19,
+        0,
+        0,
+        0,
+        2,
+        5,
+        2
+      ],
+      "2021-10": [
+        29,
+        1,
+        3,
+        1,
+        3,
+        9,
+        3
+      ],
+      "2021-11": [
+        21,
+        2,
+        2,
+        6,
+        5,
+        3,
+        2
+      ],
+      "2021-12": [
+        22,
+        0,
+        4,
+        4,
+        5,
+        9,
+        7
+      ],
+      "2022-01": [
+        17,
+        4,
+        0,
+        3,
+        2,
+        0,
+        0
+      ],
+      "2022-02": [
+        22,
+        1,
+        2,
+        1,
+        3,
+        3,
+        0
+      ],
+      "2022-03": [
+        24,
+        1,
+        1,
+        3,
+        3,
+        3,
+        4
+      ],
+      "2022-04": [
+        22,
+        1,
+        2,
+        2,
+        2,
+        6,
+        1
+      ],
+      "2022-05": [
+        18,
+        0,
+        5,
+        5,
+        4,
+        4,
+        4
+      ],
+      "2022-06": [
+        27,
+        2,
+        2,
+        1,
+        2,
+        5,
+        1
+      ],
+      "2022-07": [
+        20,
+        5,
+        0,
+        3,
+        5,
+        5,
+        4
+      ],
+      "2022-08": [
+        31,
+        6,
+        0,
+        3,
+        1,
+        5,
+        4
+      ],
+      "2022-09": [
+        14,
+        3,
+        3,
+        1,
+        5,
+        4,
+        3
+      ],
+      "2022-10": [
+        21,
+        2,
+        4,
+        1,
+        6,
+        4,
+        2
+      ],
+      "2022-11": [
+        28,
+        4,
+        4,
+        4,
+        5,
+        1,
+        1
+      ],
+      "2022-12": [
+        18,
+        2,
+        0,
+        2,
+        4,
+        5,
+        3
+      ],
+      "2023-01": [
+        22,
+        2,
+        3,
+        2,
+        5,
+        2,
+        3
+      ],
+      "2023-02": [
+        30,
+        1,
+        0,
+        3,
+        5,
+        3,
+        1
+      ],
+      "2023-03": [
+        25,
+        1,
+        2,
+        1,
+        4,
+        5,
+        3
+      ],
+      "2023-04": [
+        14,
+        1,
+        2,
+        2,
+        6,
+        4,
+        1
+      ],
+      "2023-05": [
+        30,
+        1,
+        0,
+        0,
+        3,
+        3,
+        2
+      ],
+      "2023-06": [
+        18,
+        1,
+        1,
+        4,
+        4,
+        5,
+        3
+      ],
+      "2023-07": [
+        21,
+        0,
+        3,
+        4,
+        5,
+        3,
+        1
+      ],
+      "2023-08": [
+        30,
+        2,
+        6,
+        4,
+        2,
+        4,
+        1
+      ],
+      "2023-09": [
+        17,
+        2,
+        3,
+        2,
+        2,
+        3,
+        1
+      ],
+      "2023-10": [
+        28,
+        1,
+        0,
+        0,
+        2,
+        3,
+        1
+      ],
+      "2023-11": [
+        17,
+        4,
+        1,
+        2,
+        1,
+        3,
+        0
+      ],
+      "2023-12": [
+        18,
+        1,
+        1,
+        3,
+        4,
+        3,
+        3
+      ],
+      "2024-01": [
+        24,
+        1,
+        2,
+        2,
+        4,
+        5,
+        3
+      ],
+      "2024-02": [
+        22,
+        0,
+        2,
+        4,
+        5,
+        7,
+        2
+      ],
+      "2024-03": [
+        17,
+        4,
+        2,
+        2,
+        3,
+        3,
+        1
+      ],
+      "2024-04": [
+        21,
+        3,
+        1,
+        1,
+        0,
+        3,
+        0
+      ],
+      "2024-05": [
+        21,
+        1,
+        2,
+        0,
+        2,
+        4,
+        1
+      ],
+      "2024-06": [
+        20,
+        3,
+        3,
+        1,
+        3,
+        5,
+        2
+      ],
+      "2024-07": [
+        18,
+        5,
+        5,
+        4,
+        4,
+        1,
+        5
+      ],
+      "2024-08": [
+        23,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "2024-09": [
+        20,
+        5,
+        1,
+        2,
+        4,
+        7,
+        1
+      ],
+      "2024-10": [
+        26,
+        1,
+        4,
+        3,
+        3,
+        4,
+        2
+      ],
+      "2024-11": [
+        22,
+        1,
+        1,
+        4,
+        2,
+        4,
+        2
+      ],
+      "2024-12": [
+        22,
+        0,
+        0,
+        4,
+        6,
+        4,
+        3
+      ],
+      "2025-01": [
+        23,
+        6,
+        1,
+        3,
+        3,
+        5,
+        5
+      ],
+      "2025-02": [
+        14,
+        1,
+        0,
+        3,
+        1,
+        5,
+        3
+      ],
+      "2025-03": [
+        23,
+        4,
+        2,
+        3,
+        7,
+        8,
+        2
+      ],
+      "2025-04": [
+        21,
+        1,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "2025-05": [
+        25,
+        3,
+        0,
+        0,
+        4,
+        3,
+        4
+      ],
+      "2025-06": [
+        19,
+        1,
+        0,
+        0,
+        4,
+        11,
+        3
+      ],
+      "2025-07": [
+        22,
+        3,
+        0,
+        5,
+        4,
+        7,
+        3
+      ],
+      "2025-08": [
+        21,
+        2,
+        2,
+        1,
+        0,
+        3,
+        1
+      ],
+      "2025-09": [
+        15,
+        1,
+        0,
+        0,
+        1,
+        2,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Hints of the Photonic Nature of the Electromagnetic fields in Classical Electrodynamics and its connection to the electronic charge and vacuum energy density",
+          "year": "2022-11",
+          "abstract": "The electromagnetic fields of a long dipole working without dispersive and\ndissipative losses are analyzed in the frequency domains. The dipole produces\nradiation in bursts of duration T/2 where T is the period of oscillation. The\nparameter studied in this paper is the energy, U, dissipated in a single burst\nof radiation of duration T/2. We have studied how U vary as a function of the\ncharge associated with the current in the dipole and the ratio of the length of\nthe dipole and its radius. We have observed a remarkable result when this ratio\nis equal to the ratio of the radius of the universe to the Bohr radius. Our\nresults, based purely on the classical electrodynamics and general relativity,\nshow that, as the magnitude of the oscillating charge (as defined by the root\nmean square) reduces to the electronic charge, the energy dissipated in a\nsingle burst of radiation reduces to hv, where v is the frequency of\noscillation and h is the Planck constant. The importance of this finding is\ndiscussed. In particular, the results show that the existence of a minimum free\ncharge in nature, i.e., electronic charge, is a direct consequence of the\nphotonic nature of the electromagnetic fields. Furthermore, the presented\nfindings allow to derive for the first time an expression for the vacuum energy\ndensity of the universe in terms of the other fundamental constants in nature,\nthe prediction of which is consistent with experimental observations. This\nequation, which combines the vacuum energy, electronic charge and mass, speed\nof light, gravitational constant and Planck constant, creates a link between\nclassical field theories (i.e., classical electrodynamics and general\nrelativity) and quantum mechanics.",
+          "arxiv_id": "2211.01850v1"
+        },
+        {
+          "title": "A gauge-symmetrization method for energy-momentum tensors in high-order electromagnetic field theories",
+          "year": "2021-03",
+          "abstract": "For electromagnetic field theories, canonical energy-momentum conservation\nlaws can be derived from the underpinning spacetime translation symmetry\naccording to the Noether procedure. However, the canonical Energy-Momentum\nTensors (EMTs) are neither symmetric nor gauge-symmetric (gauge invariant). The\nBelinfante-Rosenfeld (BR) method is a well-known procedure to symmetrize the\nEMTs, which also renders them gauge symmetric for first-order field theories.\nHigh-order electromagnetic field theories appear in the study of gyrokinetic\nsystems for magnetized plasmas and the Podolsky system for the radiation\nreaction of classical charged particles. For these high-order field theories,\ngauge-symmetric EMTs are not necessarily symmetric and vice versa. In the\npresent study, we develop a new gauge-symmetrization method for EMTs in\nhigh-order electromagnetic field theories. The Noether procedure is carried out\nusing the Faraday tensor F, instead of the 4-potential A, to derive a canonical\nEMT T_N. We show that the gauge-dependent part of T_N can be removed using the\ndisplacement-potential tensor \\mathcal{F}=\\mathcal{D}*A/4\\pi, where \\mathcal{D}\nis the anti-symmetric electric displacement tensor. This method\ngauge-symmetrize the EMT without necessarily making it symmetric, which is\nadequate for applications not involving general relativity. For first-order\nelectromagnetic field theories, such as the standard Maxwell system,\n\\mathcal{F} reduces to the familiar BR super-potential \\mathcal{S}, and the\nmethod developed can be used as a simpler procedure to calculate \\mathcal{S}\nwithout employing the angular momentum tensor in 4D spacetime. When the\nelectromagnetic system is coupled to classical charged particles, the\ngauge-symmetrization method for EMTs is shown to be effective as well.",
+          "arxiv_id": "2103.14241v1"
+        },
+        {
+          "title": "Towards nonlinear electrodynamics without renormalization",
+          "year": "2021-10",
+          "abstract": "In this paper is considered nonlinear electrodynamics (NE) which does not\nsatisfy the linear superposition principle (LSP). Since the presentation of the\nspecial theory of relativity, it has been commonly accepted that a famous\nformula E = mc^2 = m_0c^2 /(1-v^2/c^2)^(1/2) expresses the energy of a free\nparticle only. However, while studying the experiment for the annihilation of\nparticle and antiparticle and the production of the photon in terms of the law\nof energy conservation of particle and field, we obtain a conclusion that E\nincludes not only the energy of a free particle but also the energy of its self\n-fields (electromagnetic field and gravitational field). Hence, a formula for\nthe energy in the special theory of relativity comes to have a more inclusive\nmeaning than Einstein had thought of it. Based upon such an idea and the\ncorrespondence principle, through introducing a new non-Euclidean\nfour-dimensional space, so-called KR space in which the metric is the function\nof coordinates and 4-velocity, we reformulate the action function to be a\nfunction defined in the nonlinear version and from it find equation system for\na charge and the field with a modified version, which is reduced to that in the\nMaxwell theory under the weak field condition: here, weak field condition is\ngiven by |U/m_0c^2|<<1, U; interactional energy. With the equation system, we\nshow that the divergence problem arising from the Maxwell theory, without\ninvoking renormalization, is very naturally solved by sensible mathematics and\nthen demonstrate that the total energy of a free charge and its field equals\nmc^2 and so the energy of an electrostatic field leads to the finite. In this\ncourse are derived the modified version of Coulomb potential and of radiation\nreaction without renormalization which contains an interference effect (a\nnonlinear effect that does not obey LSP).",
+          "arxiv_id": "2110.09002v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Displacement and Stress Analysis of an Elastic Hollow Disk: Comparison with Strength of Materials' Prediction",
+          "year": "2025-05",
+          "abstract": "This paper analyzes the stress distribution in a two-dimensional elastic disk\nunder diametric loading, with a focus on enhancing the understanding of\nconcrete and rock materials' mechanical behavior. The study revisits the\nBrazilian test and addresses its high shear stress issue near loading points by\nexploring the ring test, which introduces a central hole in the disk. Using\ndynamic elasticity theory, we derive stress distributions over time and extend\nthe analysis to static conditions. This approach distinguishes between\nlongitudinal and transverse wave effects, providing a detailed stress field\nanalysis. By drawing parallels with curved beam theories, we demonstrate the\napplicability of dynamic elasticity theory to complex stress problems, offering\nimproved insights into the stress behavior in elastic disks.",
+          "arxiv_id": "2505.03282v1"
+        },
+        {
+          "title": "Grain boundary stresses in elastic materials",
+          "year": "2022-07",
+          "abstract": "A simple analytical model of intergranular normal stresses is proposed for a\ngeneral elastic polycrystalline material with arbitrary shaped and randomly\noriented grains under uniform loading. The model provides algebraic expressions\nfor the local grain-boundary-normal stress and the corresponding uncertainties,\nas a function of the grain-boundary type, its inclination with respect to the\ndirection of external loading and material-elasticity parameters. The knowledge\nof intergranular normal stresses is a necessary prerequisite in any local\ndamage modeling approach, e.g., to predict the intergranular stress-corrosion\ncracking, grain-boundary sliding or fatigue-crack-initiation sites in\nstructural materials.\n  The model is derived in a perturbative manner, starting with the exact\nsolution of a simple setup and later successively refining it to account for\nhigher order complexities of realistic polycrystalline materials. In the\nsimplest scenario, a bicrystal model is embedded in an isotropic elastic medium\nand solved for uniaxial loading conditions, assuming 1D Reuss and Voigt\napproximations on different length scales. In the final iteration, the grain\nboundary becomes a part of a 3D structure consisting of five 1D chains with\narbitrary number of grains and surrounded by an anisotropic elastic medium.\nConstitutive equations can be solved for arbitrary uniform loading, for any\ngrain-boundary type and choice of elastic polycrystalline material. At each\niteration, the algebraic expressions for the local grain-boundary-normal\nstress, along with the corresponding statistical distributions, are derived and\ntheir accuracy systematically verified and validated against the finite element\nsimulation results of different Voronoi microstructures.",
+          "arxiv_id": "2207.11060v1"
+        },
+        {
+          "title": "A way to hypo-elastic artificial materials without a strain potential and displaying flutter instability",
+          "year": "2021-07",
+          "abstract": "Cauchy-elastic solids include hyper-elasticity and a subset of elastic\nmaterials for which the stress does not follow from a scalar strain potential.\nMore in general, hypo-elastic materials are only defined incrementally and\ncomprise Cauchy-elasticity. Infringement of the hyper-elastic 'dogma' is so far\nunattempted and normally believed to be impossible, as it apparently violates\nthermodynamics, because energy may be produced in closed strain cycles.\nContrary to this belief, we show that non-hyper-elastic behavior is possible\nand we indicate the way to a practical realization of this new concept. In\nparticular, a design paradigm is established for artificial materials where\nfollower forces, so far ignored in homogenization schemes, are introduced as\nloads prestressing an elastic two-dimensional grid made up of linear elastic\nrods (reacting to elongation, flexure and shear). A rigorous application of\nFloquet-Bloch wave asymptotics yields an unsymmetric acoustic tensor governing\nthe \\textit{incremental} dynamics of the effective material. The latter is\ntherefore the incremental response of a hypo-elastic solid, which does not\nfollow from a strain potential and thus does not belong to hyper-elasticity.\nThrough the externally applied follower forces (which could be originated via\ninteraction with a fluid, or gas, or by application of Coulomb friction, or\nnon-holonomic constraints), the artificial material may adsorb/release energy\nfrom/to the environment and therefore produce energy in a closed strain loop,\nwithout violating any rule of thermodynamics. The solid is also shown to\ndisplay flutter, a material instability corresponding to a Hopf bifurcation,\nwhich was advocated as possible in plastic solids, but never experimentally\nfound and so far believed to be impossible in elasticity.",
+          "arxiv_id": "2107.12951v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Excitation of forward and backward surface waves in a negative-index metamaterial",
+          "year": "2021-02",
+          "abstract": "We study beam transmission and refection resulting from the resonant\nexcitation of forward and backward surface waves in a metamaterial. We predict\nthat exciting these waves at an interface this medium and free space led to\ntransmitted and reflected beams with high amplitudes. The FDTD simulated\nresults demonstrate clearly propagation of these waves and their\nenergy-trapping ability as described by theory. The resonant coupling of the\nrefracted waves and reflected waves at the first interface led to the\nexcitation of the backward surface waves. The forward surface waves transfer\nincoming energy in the direction of incidence and the backward surface transfer\nincoming energy in a direction opposite to the direction of incidence (i.e.\nnegative direction). More also, the parameters used in these simulations were\ncarefully chosen to minimize the effects of interference between the incident\nand the reflected beams earlier reported. In overall, these numerically\nsimulated results clearly demonstrate the propagation of these waves and may\nserve as numerical approximations to what might be observed in experimental\nsetups. Putting this simply, they may find applications in optical and photonic\ndevices involving enhancing beam transmission and reflection using\nnegative-index metamaterial.",
+          "arxiv_id": "2102.06208v1"
+        },
+        {
+          "title": "A new method to identify elastic wave propagation mode and polarized bandgaps in periodic solid media",
+          "year": "2023-01",
+          "abstract": "We present a new computational method for the accurate identification of the\npropagation modes and polarizations of elastic waves propagating in periodic\nsolid structures and metamaterials. The method uses the eigenvectors calculated\nat each propagating wave solution eigenfrequency to identify the contribution\nof each translational and rotational component of the total mass in motion. We\nuse this information to identify the dominant wave propagation mode by defining\na relative effective modal mass vector. Further, we associate each wave\nsolution with its correct polarization by defining a new polarization factor\nthat quantifies the relative orientation between the wave propagation and\nlattice motion directions and provides a positive numerical value between 0\n(pure S-wave) and 1 (pure P-wave). Further, we suggest a graphical\nrepresentational scheme for an easier visualization of the wave polarization\nwithin traditional dispersion plots. The method is validated by comparing our\npredictions against previously published results for various elastodynamic\nproblems. Finally, we use the proposed method to analyze the effect of various\nlattice and structural parameter perturbations on the elastic wave propagation\nand bandgap behavior of a square planar beam lattice and show the emergence of\npreviously unobserved dynamic characteristics, including various polarized\nbandgaps, fluid-like behavior, and ultralow-frequency SH- and SV-bandgaps that\nextend to 0 Hz. The proposed method provides an alternative computational\napproach to the typically employed visual mode inspection technique and\nprovides a robust technique for analyzing the elastic wave response of periodic\nsolid media.",
+          "arxiv_id": "2301.11347v1"
+        },
+        {
+          "title": "Analysis and design of two-dimensional compound metallic metagratings using an analytical method",
+          "year": "2021-10",
+          "abstract": "The recently proposed concept of metagrating enables wavefront manipulation\nof electromagnetic (EM) waves with unitary efficiency and relatively simple\nfabrication requirements. Herein, two-dimensional (2D) metagratings composed of\na 2D periodic array of rectangular holes in a metallic medium are proposed for\ndiffraction pattern control. We first present an analytical method for\ndiffraction analysis of 2D compound metallic metagrating (a periodic metallic\nstructure with more than one rectangular hole in each period). Closed-form and\nanalytical expressions are presented for the reflection coefficients of\ndiffracted orders for the first time. Next, we verify the proposed method's\nresults against full-wave simulations and demonstrate their excellent\nagreement. As a proof of principle, two applications are presented using the\nproposed analytical method. The first application is a perfect out-of-plane\nreflector that transfers a normal transverse-magnetic (TM) polarized plane wave\nto an oblique transverse-electric (TE) polarized plane wave in the $y-z$ plane.\nThe second one is a five-channel beam splitter with an arbitrary power\ndistribution between channels. Using the proposed analytical method, we\ndesigned these metagratings without requiring even a single optimization in a\nfull-wave solver. The performance of the designed metagratings is better than\npreviously reported structures in terms of power efficiency and relative\ndistribution error. Our analytical results reveals that 2D metagratings can be\nused for manipulating EM waves in the plane and out of the plane of incidence\nwith very high efficiency, thereby leading to extensive applications in a wide\nrange of frequencies from microwave to terahertz (THz) regimes.",
+          "arxiv_id": "2110.13912v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Foundations of a Finite Non-Equilibrium Statistical Thermodynamics: Extrinsic Quantities",
+          "year": "2022-01",
+          "abstract": "Statistical thermodynamics is valuable as a conceptual structure that shapes\nour thinking about equilibrium thermodynamic states. A cloud of unresolved\nquestions surrounding the foundations of the theory could lead an impartial\nobserver to conclude that statistical thermodynamics is in a state of crisis\nthough. Indeed, the discussion about the microscopic origins of irreversibility\nhas continued in the scientific community for more than a hundred years. This\npaper considers these questions while beginning to develop a statistical\nthermodynamics for finite non-equilibrium systems. Definitions are proposed for\nall of the extrinsic variables of the fundamental thermodynamic relation that\nare consistent with existing results in the equilibrium thermodynamic limit.\nThe probability density function on the phase space is interpreted as a\nsubjective uncertainty about the microstate, and the Gibbs entropy formula is\nmodified to allow for entropy creation without introducing additional physics\nor modifying the phase space dynamics. Resolutions are proposed to the mixing\nparadox, Gibbs' paradox, Loschmidt's paradox, and Maxwell's demon thought\nexperiment. Finally, the extrinsic variables of the fundamental thermodynamic\nrelation are evaluated as functions of time and space for a diffusing ideal\ngas, and the initial and final values are shown to coincide with the expected\nequilibrium values when interpreted in a classical context.",
+          "arxiv_id": "2201.02777v1"
+        },
+        {
+          "title": "Residual Entropy of Glasses and the Third Law Expression",
+          "year": "2022-07",
+          "abstract": "The third law of thermodynamics dictates that the entropy of materials\nbecomes zero as temperature ($T$) approaches zero. Contrarily, glass and other\nsimilar materials exhibit nonzero entropy at $T=0$, which contradicts the third\nlaw. For over a century, it has been a common practice to evade this problem by\nregarding glass as nonequilibrium. However, this treatment causes many\ninconsistencies in thermodynamics theory. This paper provides resolutions to\nthese inconsistencies and provides a rigorous expression of the third law\nwithout any exception. To seek the entropy origin, the anthropomorphic feature\nof entropy must be resolved. Because entropy can be uniquely determined only\nwhen thermodynamic coordinates (TCs) are specified, we have to know which are\nTCs. This requires the reconsideration of the definition of equilibrium for\nsolids in an unambiguous way, which does not depend on the solid structure. On\nthis basis, it is deduced that TCs of solids are the equilibrium positions of\natoms. TCs comprise a thermodynamic space, on which a unique value can be\nassigned to the entropy. For solids, equilibrium states are specified by\ndiscrete points in the thermodynamic space, which define atom configurations.\nAmong various atom configurations, only one is thermally activated at\nsufficiently low temperatures, and others are called frozen configuration,\nwhich do not contribute to the temperature dependence of entropy in that\nregion. The rigorous statement of the third law has been established by\nexpressing that the entropy associated with the active configuration vanishes\nat $T=0$. Residual entropy arises when the entropy is evaluated on an extended\nspace including the frozen configurations, which were previously active at high\ntemperatures. The reconciliation of the two different views is explained\nthrough several debates on the glass transition.",
+          "arxiv_id": "2207.11421v4"
+        },
+        {
+          "title": "On the second law of thermodynamics: An ideal-gas flow spontaneously induced by a locally nonchaotic energy barrier",
+          "year": "2022-06",
+          "abstract": "People are well aware that, inherently, certain small-scale nonchaotic\nparticle movements are not governed by thermodynamics. Usually, such phenomena\nare studied by kinetic theory and their energy properties are considered\n\"trivial\". In current research, we show that, beyond the boundary of the second\nlaw of thermodynamics where Boltzmann's H-theorem does not apply, there are\nalso large-sized systems of nontrivial energy properties: when the system is\nisolated, entropy can decrease; from a single thermal reservoir, the system can\nabsorb heat and produce useful work without any other effect. The key concept\nis local nonchaoticity, demonstrated by using a narrow energy barrier. The\nbarrier width is much less than the nominal particle mean free path, so that\ninside the barrier, the particle-particle collisions are sparse and the\nparticle trajectories tend to be locally nonchaotic. Across the barrier, the\nsteady-state particle flux ratio is intrinsically in a non-Boltzmann form. With\na step-ramp structure, the nonequilibrium effect spreads to the entire system,\nand a global flow is generated spontaneously from the random thermal motion.\nThe deviation from thermodynamic equilibrium is steady and significant, and\ncompatible with the basic principle of maximum entropy. These theoretical and\nnumerical analyses may shed light on the fundamentals of thermodynamics and\nstatistical mechanics.",
+          "arxiv_id": "2206.12736v7"
+        }
+      ],
+      "4": [
+        {
+          "title": "Measuring the Adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators",
+          "year": "2022-05",
+          "abstract": "The geometrical Berry phase is key to understanding the behaviour of quantum\nstates under cyclic adiabatic evolution. When generalised to non-Hermitian\nsystems with gain and loss, the Berry phase can become complex, and should\nmodify not only the phase but also the amplitude of the state. Here, we perform\nthe first experimental measurements of the adiabatic non-Hermitian Berry phase,\nexploring a minimal two-site $\\mathcal{PT}$-symmetric Hamiltonian that is\ninspired by the Hatano-Nelson model. We realise this non-Hermitian model\nexperimentally by mapping its dynamics to that of a pair of classical\noscillators coupled by real-time measurement-based feedback. As we verify\nexperimentally, the adiabatic non-Hermitian Berry phase is a purely geometrical\neffect that leads to significant amplification and damping of the amplitude\nalso for non-cyclical paths within the parameter space even when all\neigenenergies are real. We further observe a non-Hermitian analog of the\nAharonov--Bohm solenoid effect, observing amplification and attenuation when\nencircling a region of broken $\\mathcal{PT}$ symmetry that serves as a source\nof imaginary flux. This experiment demonstrates the importance of geometrical\neffects that are unique to non-Hermitian systems and paves the way towards the\nfurther studies of non-Hermitian and topological physics in synthetic\nmetamaterials.",
+          "arxiv_id": "2205.02700v1"
+        },
+        {
+          "title": "Observation of hybrid higher-order skin-topological effect in non-Hermitian topolectrical circuits",
+          "year": "2021-04",
+          "abstract": "Robust boundary states epitomize how deep physics can give rise to concrete\nexperimental signatures with technological promise. Of late, much attention has\nfocused on two distinct mechanisms for boundary robustness - topological\nprotection, as well as the non-Hermitian skin effect. In this work, we report\nthe first experimental realizations of hybrid higher-order skin-topological\neffect, in which the skin effect selectively acts only on the topological\nboundary modes, not the bulk modes. Our experiments, which are performed on\nspecially designed non-reciprocal 2D and 3D topolectrical circuit lattices,\nshowcases how non-reciprocal pumping and topological localization dynamically\ninterplays to form various novel states like 2D skin-topological, 3D\nskin-topological-topological hybrid states, as well as 2D and 3D higher-order\nnon-Hermitian skin states. Realized through our highly versatile and scalable\ncircuit platform, theses states have no Hermitian nor lower-dimensional analog,\nand pave the way for new applications in topological switching and sensing\nthrough the simultaneous non-trivial interplay of skin and topological boundary\nlocalizations.",
+          "arxiv_id": "2104.11260v1"
+        },
+        {
+          "title": "Exceptional Classifications of Non-Hermitian Systems",
+          "year": "2023-06",
+          "abstract": "Eigenstate coalescence in non-Hermitian systems is widely observed in diverse\nscientific domains encompassing optics and open quantum systems. Recent\ninvestigations have revealed that adiabatic encircling of exceptional points\n(EPs) leads to a nontrivial Berry phase in addition to an exchange of\neigenstates. Based on these phenomena, we propose in this work an exhaustive\nclassification framework for EPs in non-Hermitian physical systems. In contrast\nto previous classifications that only incorporate the eigenstate exchange\neffect, our proposed classification gives rise to finer $\\mathbb{Z}_2$\nclassifications depending on the presence of a $\\pi$ Berry phase after the\nencircling of the EPs. Moreover, by mapping arbitrary one-dimensional systems\nto the adiabatic encircling of EPs, we can classify one-dimensional\nnon-Hermitian systems characterized by topological phase transitions involving\nEPs. Applying our exceptional classification to various one-dimensional models,\nsuch as the non-reciprocal Su--Schrieffer--Heeger (SSH) model, we exhibit the\npotential for enhancing the understanding of topological phases in\nnon-Hermitian systems. Additionally, we address exceptional bulk-boundary\ncorrespondence and the emergence of distinct topological boundary modes in\nnon-Hermitian systems.",
+          "arxiv_id": "2306.06967v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Natural dynamical reduction of the three-body problem",
+          "year": "2021-07",
+          "abstract": "The three-body problem is a fundamental long-standing open problem, with\napplications in all branches of physics, including astrophysics, nuclear\nphysics and particle physics. In general, conserved quantities allow to reduce\nthe formulation of a mechanical problem to fewer degrees of freedom, a process\nknown as dynamical reduction. However, extant reductions are either\nnon-general, or hide the problem's symmetry or include unexplained definitions.\nThis paper presents a dynamical reduction that avoids these issues, and hence\nis general and natural. Any three-body configuration defines a triangle, and\nits orientation in space. Accordingly, we decompose the dynamical variables\ninto the geometry (shape + size) and orientation of the triangle. The geometry\nvariables are shown to describe the motion of an abstract point in a curved 3d\nspace, subject to a potential-derived force and a magnetic-like force with a\nmonopole charge. The orientation variables are shown to obey a dynamics\nanalogous to the Euler equations for a rotating rigid body, only here the\nmoments of inertia depend on the geometry variables, rather than being\nconstant. The reduction rests on a novel symmetric solution to the center of\nmass constraint inspired by Lagrange's solution to the cubic. The formulation\nof the orientation variables is novel and rests on a little known\ngeneralization of the Euler-Lagrange equations to non-coordinate velocities.\nApplications to global features, to the statistical solution and to special\nexact solutions are presented. A generalization to the four-body problem is\npresented.",
+          "arxiv_id": "2107.12372v3"
+        },
+        {
+          "title": "Improved numerical plotting of elliptical orbits using radial action coordinates -- has the symmetry of Leibniz radial theory based on inertia versus gravity been ignored?",
+          "year": "2023-02",
+          "abstract": "We that show two body gravitational orbits may be plotted using a radial\nreference frame rather than the customary Newtonian rectilinear inertial frame.\nInfinitesimal calculus cofounder and continental contemporary of Newton,\nLeibniz claimed that the second radial derivative could be found by taking the\ndifference between an inertial force varying inversely, with the cubed radius\nand the gravitational force varying with an inversed squared radius. His radial\nmethod was severely criticised by Newton and supporters, who preferred the\nrectilinear inertial frame, also claiming Leibniz failed to satisfy Newton's\nthird law of gravity. We show that these two approaches are equivalent if the\ncentral body is much larger than that in orbit. Furthermore we justify the\nLeibniz least action approach using the semi-latus rectum of the orbit,\ncharacteristic of the eccentricity to calculate the Newtonian centripetal\nacceleration opposed by the inertial acceleration, with the net radial\nacceleration controlling radius also allowing estimation of angular\ndisplacement and the action for each interval. Numerically, our Leibniz model\ncan be more accurate since it requires no assumption that linear vectors\nadequately simulate a curvilinear trajectory. Our review of the Newton\ngravitational equation using centre of mass coordinates concludes that the\nthird law is satisfied for symmetry if the gravitational and inertial masses\nare taken separately as equating force expressions for gravity and radial\ninertia, directed to the centre of mass for radial inertia. This symmetry\nvalidates centre of mass radial coordinates for more accurate plotting of\norbits including dual stars, possibly applicable for better understanding of\nEinstein relativity. An advantage of radial coordinates is that orbiting\ncouples can also accept perturbations from other nearby bodies acting\ncentripetally, but not inertially.",
+          "arxiv_id": "2302.01768v1"
+        },
+        {
+          "title": "Approximating Orbits in a Rotating Gravity Field with Oblateness and Ellipticity Perturbations",
+          "year": "2021-08",
+          "abstract": "This paper explores the problem of analytically approximating the orbital\nstate for a subset of orbits in a rotating potential with oblateness and\nellipticity perturbations. This is done by isolating approximate differential\nequations for the orbit radius and other elements. The conservation of the\nJacobi integral is used to make the problem solvable to first-order in the\nperturbations. The solutions are characterized as small deviations from an\nunperturbed circular orbit. The approximations are developed for near-circular\norbits with initial mean motion $n_{0}$ around a body with rotation rate $c$.\nThe approximations are shown to be valid for values of angular rate ratio\n$\\Gamma = c/n_{0} > 1$, with accuracy decreasing as $\\Gamma \\rightarrow 1$, and\nsingularities at and near $\\Gamma = 1$. Extensions of the methodology to\neccentric orbits are discussed, with commentary on the challenges of obtaining\ngenerally valid solutions for both near-circular and eccentric orbits.",
+          "arxiv_id": "2108.09607v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "The geometric phase and the dry friction of sleeping tops on inclined planes",
+          "year": "2021-06",
+          "abstract": "We report on the motion of a spinning sleeping top on an inclined plane.\nBelow a critical inclination angle the sleeping tops are force free. The\ntrajectory of a sleeping top on weakly inclined planes in the adiabatic limit\nis invariant of the angular frequency of the top and thus invariant under a\nrescaling of the time, however not invariant under time reversal. The\nstationary trajectory of the sleeping top is characterized by its angle to the\nin plane horizontal direction. At larger inclinations of the plane the\nstationary motion of the top becomes unstable and the top accelerates downhill.\nThe behavior points towards a complex law of dry friction of the contact point\nbetween the top tip and the material of the inclined plane that depends on a\nslip parameter. We propose a phenomenological law of dry friction that can\nexplain the relaxation of the top into the sleeping position, the geometric\nbehavior of the top trajectories, and the instability of the stationary motion\nat larger inclination angles.",
+          "arxiv_id": "2106.11742v1"
+        },
+        {
+          "title": "Dynamic Stabilization of Water Bottles",
+          "year": "2021-12",
+          "abstract": "The motion of water filled bottles is studied when it is thrown into the air\nand falls back to the floor, including the possibilities of an upright landing\nor rolling down before it finally reaches static state. When dealing with the\nprocess after throwing a water bottle, the free falling (bottle falls without\ninitial angular velocity) and flipping (bottle falls with initial angular\nvelocity) are considered. In theory, the physical principles behind the motion\nare analyzed. In addition, the impacts of initial angle, linear velocity,\nangular velocity and the water amount on the uprightness of the bottle are\ndiscussed. In experiment of throwing bottle, we changed the water amount,\nangular velocity, and releasing height, and examined the impacts of these\nfactors. The results suggest that a certain amount of water and spinning result\nin higher possibility of upright landing. When dealing with rolling bottle,\ntheoretically we build the bottle-and-bead model to describe the coupled motion\nof water and the bottle. Analytical solutions are obtained for small amplitude\nand the numerical solution can be done in a general situation. In the\nexperiment of rolling bottle, we firstly verified the theoretical model, and\nthen addressed the impact of initial conditions and water amount on the motion\npatterns of the bottle.",
+          "arxiv_id": "2112.10585v1"
+        },
+        {
+          "title": "Analysis of Rotational Motion based on Rolling Friction Torque",
+          "year": "2021-11",
+          "abstract": "In the problem of cylinder rolling without slipping on a horizontal floor,\nboth the cylinder and floor are generally treated as rigid bodies in normal\ntextbooks. When the air resistance is ignored, the equation of motion has a\nsolution with a constant velocity. However, in the real world, permanent motion\ndoes not occur. The difficulty cannot be solved only by the horizontal force,\nbecause a horizontal force opposite the translational direction increases the\nangular velocity of rotation around the center. Therefore other mechanisms need\nto be examined. There are two main reasons for this result. 1) Both a cylinder\nand a floor are not perfect circle and perfect plane, but have uneven surfaces.\nThe micro bumps on the surface yield small collisions in the direction\nperpendicular to the floor. The collisions generate a rolling friction torque\naround the center. 2) A strong force acts on the contact part which is\ndeformed. The high-speed deformation produces a history effect on the\nrelationship between stress and strain, because the compressed wave in the\ncontact part diffuses to the outside at the speed of sound. Therefore a rolling\nfriction torque is also generated. Both torques are caused by forces\nperpendicular to the floor. The rolling friction torque eliminates the\ndiscrepancy between the textbook results and reality by solving the\nsimultaneous differential equations of rotation and translation. This method is\nuseful for studying rolling systems such as trains and cars.",
+          "arxiv_id": "2111.06258v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:01:11Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

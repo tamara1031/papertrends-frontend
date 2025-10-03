@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_disorder_model_quantum_phase",
+        "keywords": [
+          [
+            "disorder",
+            0.019950064296840823
+          ],
+          [
+            "model",
+            0.019800549949188537
+          ],
+          [
+            "quantum",
+            0.019797527090562907
+          ],
+          [
+            "phase",
+            0.01907889340545729
+          ],
+          [
+            "systems",
+            0.01773002740155244
+          ],
+          [
+            "transition",
+            0.01683480149311326
+          ],
+          [
+            "localization",
+            0.015875524338800073
+          ],
+          [
+            "non",
+            0.015870335283709715
+          ],
+          [
+            "spin",
+            0.01489362278929563
+          ],
+          [
+            "states",
+            0.014489859938020674
+          ]
+        ],
+        "count": 4576
+      },
+      "1": {
+        "name": "1_networks_network_model_dynamics",
+        "keywords": [
+          [
+            "networks",
+            0.04057326908465442
+          ],
+          [
+            "network",
+            0.03188527328589587
+          ],
+          [
+            "model",
+            0.021597834296040428
+          ],
+          [
+            "dynamics",
+            0.019377696071647868
+          ],
+          [
+            "neural",
+            0.01638833951036502
+          ],
+          [
+            "random",
+            0.01552508570685489
+          ],
+          [
+            "systems",
+            0.01472180685535542
+          ],
+          [
+            "brain",
+            0.014455659811197695
+          ],
+          [
+            "complex",
+            0.01342288845869454
+          ],
+          [
+            "interactions",
+            0.013195180365977338
+          ]
+        ],
+        "count": 844
+      },
+      "2": {
+        "name": "2_quantum_neural_learning_problems",
+        "keywords": [
+          [
+            "quantum",
+            0.04738286529587126
+          ],
+          [
+            "neural",
+            0.023799836666071314
+          ],
+          [
+            "learning",
+            0.020969052978404158
+          ],
+          [
+            "problems",
+            0.016735446189785865
+          ],
+          [
+            "network",
+            0.016571015220636004
+          ],
+          [
+            "model",
+            0.01594368695463106
+          ],
+          [
+            "optimization",
+            0.015605133965065125
+          ],
+          [
+            "machine",
+            0.015542144419109323
+          ],
+          [
+            "state",
+            0.01516452523372415
+          ],
+          [
+            "systems",
+            0.014513131064271798
+          ]
+        ],
+        "count": 800
+      },
+      "3": {
+        "name": "3_learning_networks_neural_training",
+        "keywords": [
+          [
+            "learning",
+            0.045294797045612865
+          ],
+          [
+            "networks",
+            0.03154015120966792
+          ],
+          [
+            "neural",
+            0.03139014688911525
+          ],
+          [
+            "training",
+            0.03029750370594231
+          ],
+          [
+            "data",
+            0.027800491525108183
+          ],
+          [
+            "neural networks",
+            0.023833125463817835
+          ],
+          [
+            "deep",
+            0.02252162035487819
+          ],
+          [
+            "models",
+            0.018891756416790077
+          ],
+          [
+            "network",
+            0.018541182151753724
+          ],
+          [
+            "model",
+            0.01817500409631445
+          ]
+        ],
+        "count": 443
+      },
+      "4": {
+        "name": "4_neuromorphic_computing_networks_neural",
+        "keywords": [
+          [
+            "neuromorphic",
+            0.03360745981604926
+          ],
+          [
+            "computing",
+            0.03235690775468424
+          ],
+          [
+            "networks",
+            0.027538734242578106
+          ],
+          [
+            "neural",
+            0.025653260780307312
+          ],
+          [
+            "network",
+            0.023847383048666456
+          ],
+          [
+            "learning",
+            0.023672352663117704
+          ],
+          [
+            "devices",
+            0.02109241585022294
+          ],
+          [
+            "physical",
+            0.020765442902192868
+          ],
+          [
+            "hardware",
+            0.020371884266684664
+          ],
+          [
+            "device",
+            0.016643832088020005
+          ]
+        ],
+        "count": 170
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.29882368452179864,
+        -0.4101516134352474,
+        -0.513698561003588,
+        -0.7110988401568983
+      ],
+      [
+        -0.29882368452179864,
+        1.0,
+        -0.39272317840186394,
+        -0.19860724440193878,
+        -0.4177971244920101
+      ],
+      [
+        -0.4101516134352474,
+        -0.39272317840186394,
+        1.0,
+        -0.30948901478780366,
+        -0.5566999574435716
+      ],
+      [
+        -0.513698561003588,
+        -0.19860724440193878,
+        -0.30948901478780366,
+        1.0,
+        -0.3306289471028843
+      ],
+      [
+        -0.7110988401568983,
+        -0.4177971244920101,
+        -0.5566999574435716,
+        -0.3306289471028843,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        58,
+        18,
+        11,
+        14,
+        1
+      ],
+      "2020-02": [
+        46,
+        14,
+        13,
+        11,
+        3
+      ],
+      "2020-03": [
+        50,
+        15,
+        16,
+        5,
+        5
+      ],
+      "2020-04": [
+        48,
+        8,
+        16,
+        10,
+        3
+      ],
+      "2020-05": [
+        61,
+        16,
+        16,
+        16,
+        4
+      ],
+      "2020-06": [
+        56,
+        17,
+        9,
+        25,
+        1
+      ],
+      "2020-07": [
+        59,
+        17,
+        17,
+        11,
+        1
+      ],
+      "2020-08": [
+        70,
+        17,
+        14,
+        6,
+        0
+      ],
+      "2020-09": [
+        66,
+        17,
+        20,
+        15,
+        0
+      ],
+      "2020-10": [
+        58,
+        18,
+        12,
+        10,
+        3
+      ],
+      "2020-11": [
+        55,
+        10,
+        20,
+        15,
+        2
+      ],
+      "2020-12": [
+        74,
+        9,
+        28,
+        8,
+        3
+      ],
+      "2021-01": [
+        56,
+        19,
+        14,
+        8,
+        3
+      ],
+      "2021-02": [
+        58,
+        5,
+        20,
+        17,
+        1
+      ],
+      "2021-03": [
+        50,
+        12,
+        14,
+        21,
+        1
+      ],
+      "2021-04": [
+        48,
+        10,
+        17,
+        9,
+        1
+      ],
+      "2021-05": [
+        72,
+        10,
+        14,
+        16,
+        3
+      ],
+      "2021-06": [
+        61,
+        13,
+        14,
+        13,
+        1
+      ],
+      "2021-07": [
+        51,
+        17,
+        18,
+        11,
+        5
+      ],
+      "2021-08": [
+        56,
+        14,
+        18,
+        12,
+        4
+      ],
+      "2021-09": [
+        58,
+        15,
+        15,
+        7,
+        1
+      ],
+      "2021-10": [
+        61,
+        16,
+        14,
+        8,
+        3
+      ],
+      "2021-11": [
+        54,
+        19,
+        22,
+        16,
+        1
+      ],
+      "2021-12": [
+        62,
+        14,
+        11,
+        13,
+        1
+      ],
+      "2022-01": [
+        54,
+        12,
+        17,
+        10,
+        1
+      ],
+      "2022-02": [
+        57,
+        19,
+        15,
+        18,
+        1
+      ],
+      "2022-03": [
+        58,
+        5,
+        31,
+        20,
+        4
+      ],
+      "2022-04": [
+        48,
+        8,
+        17,
+        10,
+        0
+      ],
+      "2022-05": [
+        65,
+        12,
+        18,
+        15,
+        5
+      ],
+      "2022-06": [
+        54,
+        10,
+        16,
+        14,
+        1
+      ],
+      "2022-07": [
+        58,
+        15,
+        22,
+        12,
+        2
+      ],
+      "2022-08": [
+        77,
+        10,
+        17,
+        5,
+        3
+      ],
+      "2022-09": [
+        58,
+        11,
+        18,
+        8,
+        1
+      ],
+      "2022-10": [
+        59,
+        10,
+        23,
+        12,
+        0
+      ],
+      "2022-11": [
+        44,
+        12,
+        18,
+        11,
+        3
+      ],
+      "2022-12": [
+        56,
+        12,
+        19,
+        9,
+        2
+      ],
+      "2023-01": [
+        61,
+        6,
+        14,
+        8,
+        2
+      ],
+      "2023-02": [
+        48,
+        12,
+        23,
+        21,
+        0
+      ],
+      "2023-03": [
+        51,
+        14,
+        21,
+        19,
+        1
+      ],
+      "2023-04": [
+        49,
+        10,
+        12,
+        18,
+        3
+      ],
+      "2023-05": [
+        58,
+        15,
+        16,
+        18,
+        2
+      ],
+      "2023-06": [
+        75,
+        16,
+        21,
+        19,
+        1
+      ],
+      "2023-07": [
+        47,
+        14,
+        23,
+        18,
+        6
+      ],
+      "2023-08": [
+        55,
+        7,
+        22,
+        11,
+        2
+      ],
+      "2023-09": [
+        66,
+        11,
+        18,
+        18,
+        3
+      ],
+      "2023-10": [
+        67,
+        16,
+        14,
+        18,
+        2
+      ],
+      "2023-11": [
+        66,
+        15,
+        20,
+        16,
+        1
+      ],
+      "2023-12": [
+        66,
+        18,
+        14,
+        11,
+        5
+      ],
+      "2024-01": [
+        60,
+        9,
+        9,
+        14,
+        2
+      ],
+      "2024-02": [
+        48,
+        11,
+        15,
+        19,
+        2
+      ],
+      "2024-03": [
+        52,
+        17,
+        25,
+        11,
+        0
+      ],
+      "2024-04": [
+        53,
+        10,
+        24,
+        18,
+        2
+      ],
+      "2024-05": [
+        55,
+        11,
+        21,
+        26,
+        3
+      ],
+      "2024-06": [
+        58,
+        16,
+        25,
+        16,
+        0
+      ],
+      "2024-07": [
+        48,
+        14,
+        17,
+        14,
+        2
+      ],
+      "2024-08": [
+        60,
+        11,
+        23,
+        16,
+        1
+      ],
+      "2024-09": [
+        66,
+        18,
+        13,
+        19,
+        2
+      ],
+      "2024-10": [
+        77,
+        14,
+        25,
+        23,
+        3
+      ],
+      "2024-11": [
+        82,
+        10,
+        24,
+        16,
+        2
+      ],
+      "2024-12": [
+        59,
+        14,
+        22,
+        22,
+        6
+      ],
+      "2025-01": [
+        56,
+        16,
+        21,
+        20,
+        1
+      ],
+      "2025-02": [
+        45,
+        13,
+        21,
+        22,
+        0
+      ],
+      "2025-03": [
+        55,
+        16,
+        20,
+        18,
+        3
+      ],
+      "2025-04": [
+        47,
+        14,
+        24,
+        12,
+        4
+      ],
+      "2025-05": [
+        69,
+        14,
+        25,
+        25,
+        4
+      ],
+      "2025-06": [
+        68,
+        11,
+        35,
+        17,
+        2
+      ],
+      "2025-07": [
+        90,
+        21,
+        33,
+        20,
+        1
+      ],
+      "2025-08": [
+        34,
+        11,
+        22,
+        13,
+        4
+      ],
+      "2025-09": [
+        21,
+        6,
+        10,
+        10,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Nematic order in topological SYK models",
+          "year": "2023-08",
+          "abstract": "We study a class of multi-orbital models based on those proposed by\nVenderbos, Hu, and Kane which exhibit an interplay of topology, interactions,\nand fermion incoherence. In the non-interacting limit, these models exhibit\ntrivial and Chern insulator phases with Chern number $C \\geq 1$ bands as\ndetermined by the relative angular momentum of the participating orbitals.\nThese quantum anomalous Hall insulator phases are separated by topological\ntransitions protected by crystalline rotation symmetry, featuring Dirac or\nquadratic band-touching points. Here we study the impact of Sachdev-Ye-Kitaev\n(SYK) type interactions on these lattice models. Given the random interactions,\nthese models display `average symmetries' upon disorder averaging, including a\ncharge conjugation symmetry, so they behave as interacting models in\ntopological class $\\mathbf{D}$ enriched by crystalline rotation symmetry. The\nphase diagram of this model features a non-Fermi liquid at high temperature and\nan `exciton condensate' with nematic transport at low temperature. We present\nresults from the free-energy, spectral functions, and the anomalous Hall\nresistivity as a function of temperature and tuning parameters. Our results are\nbroadly relevant to correlated topological matter in multiorbital systems, and\nmay also be viewed, with a suitable particle hole transformation, as an\nexploration of strong interaction effects on mean-field topological\nsuperconductors.",
+          "arxiv_id": "2308.13601v2"
+        },
+        {
+          "title": "Dynamical conductivity of disordered quantum chains",
+          "year": "2022-05",
+          "abstract": "We study the transport properties of a one dimensional quantum system with\ndisorder. We numerically compute the frequency dependence of the conductivity\nof a fermionic chain with nearest neighbor interaction and a random chemical\npotential by using the Chebyshev matrix product state (CheMPS) method. As a\nbenchmark, we investigate the noninteracting case first. Comparison with exact\ndiagonalization and analytical solutions demonstrates that the results of\nCheMPS are reliable over a wide range of frequencies. We then calculate the\ndynamical conductivity spectra of the interacting system for various values of\nthe interaction and disorder strengths. In the high frequency regime, the\nconductivity decays as a power law, with an interaction dependent exponent.\nThis behavior is qualitatively consistent with the bosonized field theory\npredictions, although the numerical evaluation of the exponent shows deviations\nfrom the analytically expected values. We also compute the characteristic\npinning frequency at which a peak in the conductivity appears. We confirm that\nit is directly related to the inverse of the localization length, even in the\ninteracting case. We demonstrate that the localization length follows a power\nlaw of the disorder strength with an exponent dependent on the interaction, and\nfind good quantitative agreement with the field theory predictions. In the low\nfrequency regime, we find a behavior consistent with the one of the\nnoninteracting system $\\omega^{2}(\\ln\\omega)^{2}$ independently of the\ninteraction. We discuss the consequences of our finding for experiments in cold\natomic gases.",
+          "arxiv_id": "2206.00023v2"
+        },
+        {
+          "title": "Statics and Dynamics of non-Hermitian Many-Body Localization",
+          "year": "2023-01",
+          "abstract": "Many-body localized phases retain memory of their initial conditions in\ndisordered interacting systems with unitary dynamics. The stability of the\nlocalized phase due to the breakdown of unitarity is of relevance to experiment\nin the presence of dissipation. Here we investigate the impact of non-Hermitian\nperturbations on many-body localization. We focus on the interacting\nHatano-Nelson model which breaks unitarity via asymmetric hopping. We explore\nthe phase diagram for the mid-spectrum eigenstates as a function of the\ninteraction strength and the non-Hermiticity. In contrast to the\nnon-interacting case, our findings are consistent with a two-step approach to\nthe localized regime. We also study the dynamics of the particle imbalance. We\nshow that the distribution of relaxation time scales differs qualitatively\nbetween the localized and ergodic phases. Our findings suggest the possibility\nof an intermediate dynamical regime in disordered open systems.",
+          "arxiv_id": "2301.01763v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Temporal Complexity of a Hopfield-Type Neural Model in Random and Scale-Free Graphs",
+          "year": "2024-06",
+          "abstract": "The Hopfield network model and its generalizations were introduced as a model\nof associative, or content-addressable, memory. They were widely investigated\nboth as an unsupervised learning method in artificial intelligence and as a\nmodel of biological neural dynamics in computational neuroscience. The\ncomplexity features of biological neural networks have attracted the scientific\ncommunity's interest for the last two decades. More recently, concepts and\ntools borrowed from complex network theory were applied to artificial neural\nnetworks and learning, thus focusing on the topological aspects. However, the\ntemporal structure is also a crucial property displayed by biological neural\nnetworks and investigated in the framework of systems displaying complex\nintermittency. The Intermittency-Driven Complexity (IDC) approach indeed\nfocuses on the metastability of self-organized states, whose signature is a\npower-decay in the inter-event time distribution or a scaling behaviour in the\nrelated event-driven diffusion processes. The investigation of IDC in neural\ndynamics and its relationship with network topology is still in its early\nstages. In this work, we present the preliminary results of an IDC analysis\ncarried out on a bio-inspired Hopfield-type neural network comparing two\ndifferent connectivities, i.e., scale-free vs. random network topology. We\nfound that random networks can trigger complexity features similar to that of\nscale-free networks, even if with some differences and for different parameter\nvalues, in particular for different noise levels",
+          "arxiv_id": "2406.12895v3"
+        },
+        {
+          "title": "Prevalence and scalable control of localized networks",
+          "year": "2022-08",
+          "abstract": "The ability to control network dynamics is essential for ensuring desirable\nfunctionality of many technological, biological, and social systems. Such\nsystems often consist of a large number of network elements, and controlling\nlarge-scale networks remains challenging because the computation and\ncommunication requirements increase prohibitively fast with network size. Here,\nwe introduce a notion of network locality that can be exploited to make the\ncontrol of networks scalable even when the dynamics are nonlinear. We show that\nnetwork locality is captured by an information metric and is almost universally\nobserved across real and model networks. In localized networks, the optimal\ncontrol actions and system responses are both shown to be necessarily\nconcentrated in small neighborhoods induced by the information metric. This\nallows us to develop localized algorithms for determining network\ncontrollability and optimizing the placement of driver nodes. This also allows\nus to develop a localized algorithm for designing local feedback controllers\nthat approach the performance of the corresponding best global controllers\nwhile incurring a computational cost orders-of-magnitude lower. We validate the\nlocality, performance, and efficiency of the algorithms in Kuramoto oscillator\nnetworks as well as three large empirical networks: synchronization dynamics in\nthe Eastern U.S. power grid, epidemic spreading mediated by the global air\ntransportation network, and Alzheimer's disease dynamics in a human brain\nnetwork. Taken together, our results establish that large networks can be\ncontrolled with computation and communication costs comparable to those for\nsmall networks.",
+          "arxiv_id": "2208.05980v1"
+        },
+        {
+          "title": "The dynamic nature of percolation on networks with triadic interactions",
+          "year": "2022-04",
+          "abstract": "Percolation establishes the connectivity of complex networks and is one of\nthe most fundamental critical phenomena for the study of complex systems. On\nsimple networks, percolation displays a second-order phase transition; on\nmultiplex networks, the percolation transition can become discontinuous.\nHowever, little is known about percolation in networks with higher-order\ninteractions. Here, we show that percolation can be turned into a fully-fledged\ndynamical process when higher-order interactions are taken into account. By\nintroducing signed triadic interactions, in which a node can regulate the\ninteractions between two other nodes, we define triadic percolation. We uncover\nthat in this paradigmatic model the connectivity of the network changes in time\nand that the order parameter undergoes a period-doubling and a route to chaos.\nWe provide a general theory for triadic percolation which accurately predicts\nthe full phase diagram on random graphs as confirmed by extensive numerical\nsimulations. We find that triadic percolation on real network topologies\nreveals a similar phenomenology. These results radically change our\nunderstanding of percolation and may be used to study complex systems in which\nthe functional connectivity is changing in time dynamically and in a\nnon-trivial way, such as in neural and climate networks.",
+          "arxiv_id": "2204.13067v3"
+        }
+      ],
+      "2": [
+        {
+          "title": "Entanglement transition in deep neural quantum states",
+          "year": "2023-12",
+          "abstract": "Despite the huge theoretical potential of neural quantum states, their use in\ndescribing generic, highly-correlated quantum many-body systems still often\nposes practical difficulties. Customized network architectures are under active\ninvestigation to address these issues. For a guided search of suited network\narchitectures a deepened understanding of the link between neural network\nproperties and attributes of the physical system one is trying to describe, is\nimperative. Drawing inspiration from the field of machine learning, in this\nwork we show how information propagation in deep neural networks impacts the\nphysical entanglement properties of deep neural quantum states. In fact, we\nlink a previously identified information propagation phase transition of a\nneural network to a similar transition of entanglement in neural quantum\nstates. With this bridge we can identify optimal neural quantum state\nhyperparameter regimes for representing area as well as volume law entangled\nstates. The former are easily accessed by alternative methods, such as tensor\nnetwork representations, at least in low physical dimensions, while the latter\nare challenging to describe generally due to their extensive quantum\nentanglement. This advance of our understanding of network configurations for\naccurate quantum state representation helps to develop effective\nrepresentations to deal with volume-law quantum states, and we apply these\nfindings to describe the ground state (area law state) vs. the excited state\n(volume law state) properties of the prototypical next-nearest neighbor\nspin-1/2 Heisenberg model.",
+          "arxiv_id": "2312.11941v1"
+        },
+        {
+          "title": "VSQL: Variational Shadow Quantum Learning for Classification",
+          "year": "2020-12",
+          "abstract": "Classification of quantum data is essential for quantum machine learning and\nnear-term quantum technologies. In this paper, we propose a new hybrid\nquantum-classical framework for supervised quantum learning, which we call\nVariational Shadow Quantum Learning (VSQL). Our method in particular utilizes\nthe classical shadows of quantum data, which fundamentally represent the side\ninformation of quantum data with respect to certain physical observables.\nSpecifically, we first use variational shadow quantum circuits to extract\nclassical features in a convolution way and then utilize a fully-connected\nneural network to complete the classification task. We show that this method\ncould sharply reduce the number of parameters and thus better facilitate\nquantum circuit training. Simultaneously, less noise will be introduced since\nfewer quantum gates are employed in such shadow circuits. Moreover, we show\nthat the Barren Plateau issue, a significant gradient vanishing problem in\nquantum machine learning, could be avoided in VSQL. Finally, we demonstrate the\nefficiency of VSQL in quantum classification via numerical experiments on the\nclassification of quantum states and the recognition of multi-labeled\nhandwritten digits. In particular, our VSQL approach outperforms existing\nvariational quantum classifiers in the test accuracy in the binary case of\nhandwritten digit recognition and notably requires much fewer parameters.",
+          "arxiv_id": "2012.08288v1"
+        },
+        {
+          "title": "Empowering deep neural quantum states through efficient optimization",
+          "year": "2023-02",
+          "abstract": "Computing the ground state of interacting quantum matter is a long-standing\nchallenge, especially for complex two-dimensional systems. Recent developments\nhave highlighted the potential of neural quantum states to solve the quantum\nmany-body problem by encoding the many-body wavefunction into artificial neural\nnetworks. However, this method has faced the critical limitation that existing\noptimization algorithms are not suitable for training modern large-scale deep\nnetwork architectures. Here, we introduce a minimum-step\nstochastic-reconfiguration optimization algorithm, which allows us to train\ndeep neural quantum states with up to $10^6$ parameters. We demonstrate our\nmethod for paradigmatic frustrated spin-1/2 models on square and triangular\nlattices, for which our trained deep networks approach machine precision and\nyield improved variational energies compared to existing results. Equipped with\nour optimization algorithm, we find numerical evidence for gapless\nquantum-spin-liquid phases in the considered models, an open question to date.\nWe present a method that captures the emergent complexity in quantum many-body\nproblems through the expressive power of large-scale artificial neural\nnetworks.",
+          "arxiv_id": "2302.01941v3"
+        }
+      ],
+      "3": [
+        {
+          "title": "Grokking as the Transition from Lazy to Rich Training Dynamics",
+          "year": "2023-10",
+          "abstract": "We propose that the grokking phenomenon, where the train loss of a neural\nnetwork decreases much earlier than its test loss, can arise due to a neural\nnetwork transitioning from lazy training dynamics to a rich, feature learning\nregime. To illustrate this mechanism, we study the simple setting of vanilla\ngradient descent on a polynomial regression problem with a two layer neural\nnetwork which exhibits grokking without regularization in a way that cannot be\nexplained by existing theories. We identify sufficient statistics for the test\nloss of such a network, and tracking these over training reveals that grokking\narises in this setting when the network first attempts to fit a kernel\nregression solution with its initial features, followed by late-time feature\nlearning where a generalizing solution is identified after train loss is\nalready low. We find that the key determinants of grokking are the rate of\nfeature learning -- which can be controlled precisely by parameters that scale\nthe network output -- and the alignment of the initial features with the target\nfunction $y(x)$. We argue this delayed generalization arises when (1) the top\neigenvectors of the initial neural tangent kernel and the task labels $y(x)$\nare misaligned, but (2) the dataset size is large enough so that it is possible\nfor the network to generalize eventually, but not so large that train loss\nperfectly tracks test loss at all epochs, and (3) the network begins training\nin the lazy regime so does not learn features immediately. We conclude with\nevidence that this transition from lazy (linear model) to rich training\n(feature learning) can control grokking in more general settings, like on\nMNIST, one-layer Transformers, and student-teacher networks.",
+          "arxiv_id": "2310.06110v3"
+        },
+        {
+          "title": "Statistical mechanics of extensive-width Bayesian neural networks near interpolation",
+          "year": "2025-05",
+          "abstract": "For three decades statistical mechanics has been providing a framework to\nanalyse neural networks. However, the theoretically tractable models, e.g.,\nperceptrons, random features models and kernel machines, or multi-index models\nand committee machines with few neurons, remained simple compared to those used\nin applications. In this paper we help reducing the gap between practical\nnetworks and their theoretical understanding through a statistical physics\nanalysis of the supervised learning of a two-layer fully connected network with\ngeneric weight distribution and activation function, whose hidden layer is\nlarge but remains proportional to the inputs dimension. This makes it more\nrealistic than infinitely wide networks where no feature learning occurs, but\nalso more expressive than narrow ones or with fixed inner weights. We focus on\nthe Bayes-optimal learning in the teacher-student scenario, i.e., with a\ndataset generated by another network with the same architecture. We operate\naround interpolation, where the number of trainable parameters and of data are\ncomparable and feature learning emerges. Our analysis uncovers a rich\nphenomenology with various learning transitions as the number of data\nincreases. In particular, the more strongly the features (i.e., hidden neurons\nof the target) contribute to the observed responses, the less data is needed to\nlearn them. Moreover, when the data is scarce, the model only learns non-linear\ncombinations of the teacher weights, rather than \"specialising\" by aligning its\nweights with the teacher's. Specialisation occurs only when enough data becomes\navailable, but it can be hard to find for practical training algorithms,\npossibly due to statistical-to-computational~gaps.",
+          "arxiv_id": "2505.24849v1"
+        },
+        {
+          "title": "Spectral Bias and Task-Model Alignment Explain Generalization in Kernel Regression and Infinitely Wide Neural Networks",
+          "year": "2020-06",
+          "abstract": "Generalization beyond a training dataset is a main goal of machine learning,\nbut theoretical understanding of generalization remains an open problem for\nmany models. The need for a new theory is exacerbated by recent observations in\ndeep neural networks where overparameterization leads to better performance,\ncontradicting the conventional wisdom from classical statistics. In this paper,\nwe investigate generalization error for kernel regression, which, besides being\na popular machine learning method, also includes infinitely overparameterized\nneural networks trained with gradient descent. We use techniques from\nstatistical mechanics to derive an analytical expression for generalization\nerror applicable to any kernel or data distribution. We present applications of\nour theory to real and synthetic datasets, and for many kernels including those\nthat arise from training deep neural networks in the infinite-width limit. We\nelucidate an inductive bias of kernel regression to explain data with \"simple\nfunctions\", which are identified by solving a kernel eigenfunction problem on\nthe data distribution. This notion of simplicity allows us to characterize\nwhether a kernel is compatible with a learning task, facilitating good\ngeneralization performance from a small number of training examples. We show\nthat more data may impair generalization when noisy or not expressible by the\nkernel, leading to non-monotonic learning curves with possibly many peaks. To\nfurther understand these phenomena, we turn to the broad class of rotation\ninvariant kernels, which is relevant to training deep neural networks in the\ninfinite-width limit, and present a detailed mathematical analysis of them when\ndata is drawn from a spherically symmetric distribution and the number of input\ndimensions is large.",
+          "arxiv_id": "2006.13198v6"
+        }
+      ],
+      "4": [
+        {
+          "title": "Metaplastic and Energy-Efficient Biocompatible Graphene Artificial Synaptic Transistors for Enhanced Accuracy Neuromorphic Computing",
+          "year": "2022-03",
+          "abstract": "CMOS-based computing systems that employ the von Neumann architecture are\nrelatively limited when it comes to parallel data storage and processing. In\ncontrast, the human brain is a living computational signal processing unit that\noperates with extreme parallelism and energy efficiency. Although numerous\nneuromorphic electronic devices have emerged in the last decade, most of them\nare rigid or contain materials that are toxic to biological systems. In this\nwork, we report on biocompatible bilayer graphene-based artificial synaptic\ntransistors (BLAST) capable of mimicking synaptic behavior. The BLAST devices\nleverage a dry ion-selective membrane, enabling long-term potentiation, with\n~50 aJ/m^2 switching energy efficiency, at least an order of magnitude lower\nthan previous reports on two-dimensional material-based artificial synapses.\nThe devices show unique metaplasticity, a useful feature for generalizable deep\nneural networks, and we demonstrate that metaplastic BLASTs outperform ideal\nlinear synapses in classic image classification tasks. With switching energy\nwell below the 1 fJ energy estimated per biological synapse, the proposed\ndevices are powerful candidates for bio-interfaced online learning, bridging\nthe gap between artificial and biological neural networks.",
+          "arxiv_id": "2203.04389v1"
+        },
+        {
+          "title": "Solving classification tasks by a receptron based on nonlinear optical speckle fields",
+          "year": "2022-11",
+          "abstract": "Among several approaches to tackle the problem of energy consumption in\nmodern computing systems, two solutions are currently investigated: one\nconsists of artificial neural networks (ANNs) based on photonic technologies,\nthe other is a different paradigm compared to ANNs and it is based on random\nnetworks of nonlinear nanoscale junctions resulting from the assembling of\nnanoparticles or nanowires as substrates for neuromorphic computing. These\nnetworks show the presence of emergent complexity and collective phenomena in\nanalogy with biological neural networks characterized by self-organization,\nredundancy, non-linearity. Starting from this background, we propose and\nformalize a generalization of the perceptron model to describe a classification\ndevice based on a network of interacting units where the input weights are\nnonlinearly dependent. We show that this model, called \"receptron\", provides\nsubstantial advantages compared to the perceptron as, for example, the solution\nof non-linearly separable Boolean functions with a single device. The receptron\nmodel is used as a starting point for the implementation of an all-optical\ndevice that exploits the non-linearity of optical speckle fields produced by a\nsolid scatterer. By encoding these speckle fields we generated a large variety\nof target Boolean functions without the need for time-consuming machine\nlearning algorithms. We demonstrate that by properly setting the model\nparameters, different classes of functions with different multiplicity can be\nsolved efficiently. The optical implementation of the receptron scheme opens\nthe way for the fabrication of a completely new class of optical devices for\nneuromorphic data processing based on a very simple hardware.",
+          "arxiv_id": "2211.01161v1"
+        },
+        {
+          "title": "Graphene oxide based synaptic memristor device for neuromorphic computing",
+          "year": "2020-12",
+          "abstract": "Brain-inspired neuromorphic computing which consist neurons and synapses,\nwith an ability to perform complex information processing has unfolded a new\nparadigm of computing to overcome the von Neumann bottleneck. Electronic\nsynaptic memristor devices which can compete with the biological synapses are\nindeed significant for neuromorphic computing. In this work, we demonstrate our\nefforts to develop and realize the graphene oxide (GO) based memristor device\nas a synaptic device, which mimic as a biological synapse. Indeed, this device\nexhibits the essential synaptic learning behavior including analog memory\ncharacteristics, potentiation and depression. Furthermore,\nspike-timing-dependent-plasticity learning rule is mimicked by engineering the\npre- and post-synaptic spikes. In addition, non-volatile properties such as\nendurance, retentivity, multilevel switching of the device are explored. These\nresults suggest that Ag/GO/FTO memristor device would indeed be a potential\ncandidate for future neuromorphic computing applications.\n  Keywords: RRAM, Graphene oxide, neuromorphic computing, synaptic device,\npotentiation, depression",
+          "arxiv_id": "2012.13556v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:37:49Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_group_groups_manifolds_hyperbolic",
+        "keywords": [
+          [
+            "group",
+            0.03240386274392569
+          ],
+          [
+            "groups",
+            0.027635252472416248
+          ],
+          [
+            "manifolds",
+            0.026075281087416937
+          ],
+          [
+            "hyperbolic",
+            0.021855373946620186
+          ],
+          [
+            "prove",
+            0.021652909734271707
+          ],
+          [
+            "knot",
+            0.021585835036894277
+          ],
+          [
+            "space",
+            0.02158337623878149
+          ],
+          [
+            "knots",
+            0.021211788611729867
+          ],
+          [
+            "surfaces",
+            0.02116412151059362
+          ],
+          [
+            "surface",
+            0.02044423293434049
+          ]
+        ],
+        "count": 7307
+      },
+      "1": {
+        "name": "1_data_persistent_neural_learning",
+        "keywords": [
+          [
+            "data",
+            0.04900575728949951
+          ],
+          [
+            "persistent",
+            0.04148812994861691
+          ],
+          [
+            "neural",
+            0.04124765870199836
+          ],
+          [
+            "learning",
+            0.0365031664308212
+          ],
+          [
+            "topological",
+            0.03143407424155699
+          ],
+          [
+            "networks",
+            0.031224748365554895
+          ],
+          [
+            "network",
+            0.03070065834688825
+          ],
+          [
+            "persistent homology",
+            0.029734895226571356
+          ],
+          [
+            "homology",
+            0.027120137728947166
+          ],
+          [
+            "space",
+            0.024507208889560712
+          ]
+        ],
+        "count": 95
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.2677093722492649
+      ],
+      [
+        -0.2677093722492649,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        88,
+        2
+      ],
+      "2020-02": [
+        112,
+        3
+      ],
+      "2020-03": [
+        102,
+        2
+      ],
+      "2020-04": [
+        113,
+        0
+      ],
+      "2020-05": [
+        117,
+        0
+      ],
+      "2020-06": [
+        119,
+        0
+      ],
+      "2020-07": [
+        108,
+        2
+      ],
+      "2020-08": [
+        120,
+        1
+      ],
+      "2020-09": [
+        130,
+        0
+      ],
+      "2020-10": [
+        142,
+        2
+      ],
+      "2020-11": [
+        106,
+        1
+      ],
+      "2020-12": [
+        125,
+        3
+      ],
+      "2021-01": [
+        99,
+        2
+      ],
+      "2021-02": [
+        72,
+        2
+      ],
+      "2021-03": [
+        117,
+        2
+      ],
+      "2021-04": [
+        101,
+        3
+      ],
+      "2021-05": [
+        106,
+        1
+      ],
+      "2021-06": [
+        94,
+        2
+      ],
+      "2021-07": [
+        96,
+        1
+      ],
+      "2021-08": [
+        103,
+        5
+      ],
+      "2021-09": [
+        106,
+        4
+      ],
+      "2021-10": [
+        103,
+        4
+      ],
+      "2021-11": [
+        107,
+        5
+      ],
+      "2021-12": [
+        94,
+        1
+      ],
+      "2022-01": [
+        79,
+        2
+      ],
+      "2022-02": [
+        106,
+        2
+      ],
+      "2022-03": [
+        94,
+        2
+      ],
+      "2022-04": [
+        89,
+        2
+      ],
+      "2022-05": [
+        108,
+        0
+      ],
+      "2022-06": [
+        109,
+        3
+      ],
+      "2022-07": [
+        110,
+        5
+      ],
+      "2022-08": [
+        111,
+        1
+      ],
+      "2022-09": [
+        112,
+        1
+      ],
+      "2022-10": [
+        113,
+        4
+      ],
+      "2022-11": [
+        99,
+        4
+      ],
+      "2022-12": [
+        123,
+        1
+      ],
+      "2023-01": [
+        82,
+        2
+      ],
+      "2023-02": [
+        78,
+        2
+      ],
+      "2023-03": [
+        137,
+        1
+      ],
+      "2023-04": [
+        93,
+        4
+      ],
+      "2023-05": [
+        100,
+        4
+      ],
+      "2023-06": [
+        116,
+        4
+      ],
+      "2023-07": [
+        119,
+        5
+      ],
+      "2023-08": [
+        132,
+        2
+      ],
+      "2023-09": [
+        126,
+        3
+      ],
+      "2023-10": [
+        143,
+        2
+      ],
+      "2023-11": [
+        112,
+        4
+      ],
+      "2023-12": [
+        115,
+        1
+      ],
+      "2024-01": [
+        119,
+        1
+      ],
+      "2024-02": [
+        120,
+        2
+      ],
+      "2024-03": [
+        114,
+        1
+      ],
+      "2024-04": [
+        95,
+        3
+      ],
+      "2024-05": [
+        105,
+        4
+      ],
+      "2024-06": [
+        100,
+        3
+      ],
+      "2024-07": [
+        103,
+        2
+      ],
+      "2024-08": [
+        92,
+        4
+      ],
+      "2024-09": [
+        127,
+        6
+      ],
+      "2024-10": [
+        148,
+        1
+      ],
+      "2024-11": [
+        104,
+        4
+      ],
+      "2024-12": [
+        132,
+        2
+      ],
+      "2025-01": [
+        105,
+        3
+      ],
+      "2025-02": [
+        95,
+        3
+      ],
+      "2025-03": [
+        109,
+        3
+      ],
+      "2025-04": [
+        135,
+        4
+      ],
+      "2025-05": [
+        120,
+        5
+      ],
+      "2025-06": [
+        110,
+        3
+      ],
+      "2025-07": [
+        127,
+        2
+      ],
+      "2025-08": [
+        132,
+        1
+      ],
+      "2025-09": [
+        71,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Equivariant Seiberg-Witten theory",
+          "year": "2024-06",
+          "abstract": "We introduce and study equivariant Seiberg-Witten invariants for\n$4$-manifolds equipped with a smooth action of a finite group $G$. Our\ninvariants come in two types: cohomological, valued in the group cohomology of\n$G$ and $K$-theoretic, valued in the representation ring of $G$. We establish\nbasic properties of the invariants such as wall-crossing and vanishing of the\ninvariants for $G$-invariant positive scalar curvature metrics. We establish a\nrelation between the equivariant Seiberg-Witten invariants and families\nSeiberg-Witten invariants. Sufficient conditions are found under which\nequivariant transversality can be achieved leading to smooth moduli spaces on\nwhich $G$ acts. In the zero-dimensional case this yields a further invariant of\nthe $G$-action valued in a refinement of the Burnside ring of $G$. We prove\nlocalisation formulas in cohomology and $K$-theory, relating the equivariant\nSeiberg-Witten invariants to moduli spaces of $G$-invariant solutions. We give\nan explicit formula for the invariants for holomorphic group actions on\nK\\\"ahler surfaces. We also prove a gluing formula for the invariants of\nequivariant connected sums. Various applications and consequences of the theory\nare considered.",
+          "arxiv_id": "2406.00642v1"
+        },
+        {
+          "title": "The monodromy diffeomorphism of weighted singularities and Seiberg--Witten theory",
+          "year": "2024-11",
+          "abstract": "We prove that the monodromy diffeomorphism of a complex 2-dimensional\nisolated hypersurface singularity of weighted-homogeneous type has infinite\norder in the smooth mapping class group of the Milnor fiber, provided the\nsingularity is not a rational double point. This is a consequence of our main\nresult: the boundary Dehn twist diffeomorphism of an indefinite symplectic\nfilling of the canonical contact structure on a negatively-oriented\nSeifert-fibered rational homology 3-sphere has infinite order in the smooth\nmapping class group. Our techniques make essential use of analogues of the\ncontact invariant in the setting of $\\mathbb{Z}/p$-equivariant\nSeiberg--Witten--Floer homology of 3-manifolds.",
+          "arxiv_id": "2411.12202v1"
+        },
+        {
+          "title": "Instantons, special cycles, and knot concordance",
+          "year": "2022-09",
+          "abstract": "We introduce a framework for defining concordance invariants of knots using\nequivariant singular instanton Floer theory with Chern-Simons filtration. It is\ndemonstrated that many of the concordance invariants defined using instantons\nin recent years can be recovered from our framework. This relationship allows\nus to compute Kronheimer and Mrowka's $s^\\sharp$-invariant and fractional ideal\ninvariants for two-bridge knots, and more. In particular, we prove a\nquasi-additivity property of $s^\\sharp$, answering a question of Gong. We also\nintroduce invariants that are formally similar to the Heegaard Floer\n$\\tau$-invariant of Oszv\\'ath and Szab\\'o and the $\\varepsilon$-invariant of\nHom. We provide evidence for a precise relationship between these latter two\ninvariants and the $s^\\sharp$-invariant.\n  Some new topological applications that follow from our techniques are as\nfollows. First, we produce a wide class of patterns whose induced satellite\nmaps on the concordance group have the property that their images have infinite\nrank, giving a partial answer to a conjecture of Hedden and Pinz\\'on-Caicedo.\nSecond, we produce infinitely many two-bridge knots $K$ which are torsion in\nthe algebraic concordance group and yet have the property that the set of\npositive $1/n$-surgeries on $K$ is a linearly independent set in the homology\ncobordism group. Finally, for a knot which is quasi-positive and not slice, we\nprove that any concordance from the knot admits an irreducible\n$SU(2)$-representation on the fundamental group of the concordance complement.\n  While much of the paper focuses on constructions using singular instanton\ntheory with the traceless meridional holonomy condition, we also develop an\nanalogous framework for concordance invariants in the case of arbitrary\nholonomy parameters, and some applications are given in this setting.",
+          "arxiv_id": "2209.05400v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Geometric and Topological Inference for Deep Representations of Complex Networks",
+          "year": "2022-03",
+          "abstract": "Understanding the deep representations of complex networks is an important\nstep of building interpretable and trustworthy machine learning applications in\nthe age of internet. Global surrogate models that approximate the predictions\nof a black box model (e.g. an artificial or biological neural net) are usually\nused to provide valuable theoretical insights for the model interpretability.\nIn order to evaluate how well a surrogate model can account for the\nrepresentation in another model, we need to develop inference methods for model\ncomparison. Previous studies have compared models and brains in terms of their\nrepresentational geometries (characterized by the matrix of distances between\nrepresentations of the input patterns in a model layer or cortical area). In\nthis study, we propose to explore these summary statistical descriptions of\nrepresentations in models and brains as part of a broader class of statistics\nthat emphasize the topology as well as the geometry of representations. The\ntopological summary statistics build on topological data analysis (TDA) and\nother graph-based methods. We evaluate these statistics in terms of the\nsensitivity and specificity that they afford when used for model selection,\nwith the goal to relate different neural network models to each other and to\nmake inferences about the computational mechanism that might best account for a\nblack box representation. These new methods enable brain and computer\nscientists to visualize the dynamic representational transformations learned by\nbrains and models, and to perform model-comparative statistical inference.",
+          "arxiv_id": "2203.05488v2"
+        },
+        {
+          "title": "Knot data analysis using multiscale Gauss link integral",
+          "year": "2023-10",
+          "abstract": "In the past decade, topological data analysis (TDA) has emerged as a powerful\napproach in data science. The main technique in TDA is persistent homology,\nwhich tracks topological invariants over the filtration of point cloud data\nusing algebraic topology. Although knot theory and related subjects are a focus\nof study in mathematics, their success in practical applications is quite\nlimited due to the lack of localization and quantization. We address these\nchallenges by introducing knot data analysis (KDA), a new paradigm that\nincorporating curve segmentation and multiscale analysis into the Gauss link\nintegral. The resulting multiscale Gauss link integral (mGLI) recovers the\nglobal topological properties of knots and links at an appropriate scale but\noffers multiscale feature vectors to capture the local structures and\nconnectivities of each curve segment at various scales. The proposed mGLI\nsignificantly outperforms other state-of-the-art methods in benchmark protein\nflexibility analysis, including earlier persistent homology-based methods. Our\napproach enables the integration of artificial intelligence (AI) and KDA for\ngeneral curve-like objects and data.",
+          "arxiv_id": "2311.12834v1"
+        },
+        {
+          "title": "Topological Data Analysis and Topological Deep Learning Beyond Persistent Homology -- A Review",
+          "year": "2025-07",
+          "abstract": "Topological data analysis (TDA) is a rapidly evolving field in applied\nmathematics and data science that leverages tools from topology to uncover\nrobust, shape-driven insights in complex datasets. The main workhorse is\npersistent homology, a technique rooted in algebraic topology. Paired with\ntopological deep learning (TDL) or topological machine learning, persistent\nhomology has achieved tremendous success in a wide variety of applications in\nscience, engineering, medicine, and industry. However, persistent homology has\nmany limitations due to its high-level abstraction, insensitivity to\nnon-topological changes, and reliance on point cloud data. This paper presents\na comprehensive review of TDA and TDL beyond persistent homology. It analyzes\nhow persistent topological Laplacians and Dirac operators provide spectral\nrepresentations to capture both topological invariants and homotopic evolution.\nOther formulations are presented in terms of sheaf theory, Mayer topology, and\ninteraction topology. For data on differentiable manifolds, techniques rooted\nin differential topology, such as persistent de Rham cohomology, persistent\nHodge Laplacian, and Hodge decomposition, are reviewed. For one-dimensional\n(1D) curves embedded in 3-space, approaches from geometric topology are\ndiscussed, including multiscale Gauss-link integrals, persistent Jones\npolynomials, and persistent Khovanov homology. This paper further discusses the\nappropriate selection of topological tools for different input data, such as\npoint clouds, sequential data, data on manifolds, curves embedded in 3-space,\nand data with additional non-geometric information. A review is also given of\nvarious topological representations, software packages, and machine learning\nvectorizations. Finally, this review ends with concluding remarks.",
+          "arxiv_id": "2507.19504v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:54:14Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

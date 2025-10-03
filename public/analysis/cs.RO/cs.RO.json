@@ -1,0 +1,578 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_robot_learning_real_control",
+        "keywords": [
+          [
+            "robot",
+            0.02582359198508172
+          ],
+          [
+            "learning",
+            0.018506623494206353
+          ],
+          [
+            "real",
+            0.016834121438136146
+          ],
+          [
+            "control",
+            0.0165023949938029
+          ],
+          [
+            "model",
+            0.016181630027459995
+          ],
+          [
+            "robots",
+            0.015931651215349014
+          ],
+          [
+            "method",
+            0.015862667611197024
+          ],
+          [
+            "approach",
+            0.015620594475125005
+          ],
+          [
+            "data",
+            0.015016899057373901
+          ],
+          [
+            "tasks",
+            0.014942580138955766
+          ]
+        ],
+        "count": 31850
+      },
+      "1": {
+        "name": "1_driving_autonomous_vehicle_vehicles",
+        "keywords": [
+          [
+            "driving",
+            0.05633200512301555
+          ],
+          [
+            "autonomous",
+            0.03595915142401599
+          ],
+          [
+            "vehicle",
+            0.03195093789613874
+          ],
+          [
+            "vehicles",
+            0.027225543404611977
+          ],
+          [
+            "traffic",
+            0.02712539963292777
+          ],
+          [
+            "safety",
+            0.02460083346851042
+          ],
+          [
+            "model",
+            0.023501428640640004
+          ],
+          [
+            "scenarios",
+            0.02315611130994106
+          ],
+          [
+            "autonomous driving",
+            0.02191065116569636
+          ],
+          [
+            "prediction",
+            0.020689932142560662
+          ]
+        ],
+        "count": 3430
+      },
+      "2": {
+        "name": "2_agricultural_crop_plant_field",
+        "keywords": [
+          [
+            "agricultural",
+            0.03465060357514025
+          ],
+          [
+            "crop",
+            0.02889901523167108
+          ],
+          [
+            "plant",
+            0.02429174982820829
+          ],
+          [
+            "field",
+            0.021079390253931695
+          ],
+          [
+            "robotic",
+            0.02004143768233477
+          ],
+          [
+            "data",
+            0.018477581630694743
+          ],
+          [
+            "agriculture",
+            0.018192558816523277
+          ],
+          [
+            "robot",
+            0.016648997555324126
+          ],
+          [
+            "detection",
+            0.015370249149211061
+          ],
+          [
+            "plants",
+            0.014720236537695297
+          ]
+        ],
+        "count": 393
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6528899061819822,
+        -0.41024841561324754
+      ],
+      [
+        -0.6528899061819822,
+        1.0,
+        -0.6826891820255474
+      ],
+      [
+        -0.41024841561324754,
+        -0.6826891820255474,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        148,
+        46,
+        13
+      ],
+      "2020-02": [
+        224,
+        41,
+        8
+      ],
+      "2020-03": [
+        316,
+        84,
+        20
+      ],
+      "2020-04": [
+        193,
+        50,
+        12
+      ],
+      "2020-05": [
+        203,
+        62,
+        11
+      ],
+      "2020-06": [
+        229,
+        57,
+        16
+      ],
+      "2020-07": [
+        259,
+        51,
+        24
+      ],
+      "2020-08": [
+        233,
+        54,
+        16
+      ],
+      "2020-09": [
+        185,
+        40,
+        12
+      ],
+      "2020-10": [
+        339,
+        52,
+        33
+      ],
+      "2020-11": [
+        462,
+        80,
+        29
+      ],
+      "2020-12": [
+        287,
+        58,
+        24
+      ],
+      "2021-01": [
+        188,
+        70,
+        12
+      ],
+      "2021-02": [
+        239,
+        55,
+        20
+      ],
+      "2021-03": [
+        496,
+        111,
+        37
+      ],
+      "2021-04": [
+        262,
+        89,
+        27
+      ],
+      "2021-05": [
+        277,
+        53,
+        16
+      ],
+      "2021-06": [
+        237,
+        62,
+        28
+      ],
+      "2021-07": [
+        311,
+        64,
+        27
+      ],
+      "2021-08": [
+        263,
+        66,
+        23
+      ],
+      "2021-09": [
+        441,
+        114,
+        38
+      ],
+      "2021-10": [
+        342,
+        72,
+        23
+      ],
+      "2021-11": [
+        252,
+        63,
+        21
+      ],
+      "2021-12": [
+        196,
+        60,
+        22
+      ],
+      "2022-01": [
+        212,
+        37,
+        16
+      ],
+      "2022-02": [
+        279,
+        67,
+        24
+      ],
+      "2022-03": [
+        500,
+        77,
+        34
+      ],
+      "2022-04": [
+        258,
+        55,
+        23
+      ],
+      "2022-05": [
+        298,
+        73,
+        18
+      ],
+      "2022-06": [
+        309,
+        76,
+        20
+      ],
+      "2022-07": [
+        329,
+        78,
+        28
+      ],
+      "2022-08": [
+        239,
+        53,
+        29
+      ],
+      "2022-09": [
+        506,
+        113,
+        44
+      ],
+      "2022-10": [
+        500,
+        97,
+        31
+      ],
+      "2022-11": [
+        322,
+        80,
+        23
+      ],
+      "2022-12": [
+        274,
+        71,
+        23
+      ],
+      "2023-01": [
+        248,
+        61,
+        25
+      ],
+      "2023-02": [
+        308,
+        84,
+        22
+      ],
+      "2023-03": [
+        606,
+        125,
+        50
+      ],
+      "2023-04": [
+        357,
+        98,
+        27
+      ],
+      "2023-05": [
+        372,
+        102,
+        30
+      ],
+      "2023-06": [
+        377,
+        121,
+        35
+      ],
+      "2023-07": [
+        400,
+        77,
+        32
+      ],
+      "2023-08": [
+        357,
+        106,
+        31
+      ],
+      "2023-09": [
+        680,
+        146,
+        54
+      ],
+      "2023-10": [
+        544,
+        123,
+        49
+      ],
+      "2023-11": [
+        402,
+        101,
+        37
+      ],
+      "2023-12": [
+        403,
+        97,
+        35
+      ],
+      "2024-01": [
+        350,
+        84,
+        28
+      ],
+      "2024-02": [
+        434,
+        118,
+        30
+      ],
+      "2024-03": [
+        756,
+        173,
+        63
+      ],
+      "2024-04": [
+        448,
+        127,
+        40
+      ],
+      "2024-05": [
+        506,
+        143,
+        39
+      ],
+      "2024-06": [
+        446,
+        110,
+        30
+      ],
+      "2024-07": [
+        497,
+        133,
+        54
+      ],
+      "2024-08": [
+        385,
+        96,
+        37
+      ],
+      "2024-09": [
+        832,
+        178,
+        64
+      ],
+      "2024-10": [
+        750,
+        133,
+        62
+      ],
+      "2024-11": [
+        571,
+        135,
+        44
+      ],
+      "2024-12": [
+        494,
+        115,
+        41
+      ],
+      "2025-01": [
+        382,
+        88,
+        28
+      ],
+      "2025-02": [
+        563,
+        126,
+        33
+      ],
+      "2025-03": [
+        859,
+        211,
+        57
+      ],
+      "2025-04": [
+        601,
+        142,
+        54
+      ],
+      "2025-05": [
+        749,
+        195,
+        63
+      ],
+      "2025-06": [
+        652,
+        162,
+        40
+      ],
+      "2025-07": [
+        593,
+        146,
+        58
+      ],
+      "2025-08": [
+        620,
+        117,
+        47
+      ],
+      "2025-09": [
+        363,
+        66,
+        25
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Learning Skill-based Industrial Robot Tasks with User Priors",
+          "year": "2022-08",
+          "abstract": "Robot skills systems are meant to reduce robot setup time for new\nmanufacturing tasks. Yet, for dexterous, contact-rich tasks, it is often\ndifficult to find the right skill parameters. One strategy is to learn these\nparameters by allowing the robot system to learn directly on the task. For a\nlearning problem, a robot operator can typically specify the type and range of\nvalues of the parameters. Nevertheless, given their prior experience, robot\noperators should be able to help the learning process further by providing\neducated guesses about where in the parameter space potential optimal solutions\ncould be found. Interestingly, such prior knowledge is not exploited in current\nrobot learning frameworks. We introduce an approach that combines user priors\nand Bayesian optimization to allow fast optimization of robot industrial tasks\nat robot deployment time. We evaluate our method on three tasks that are\nlearned in simulation as well as on two tasks that are learned directly on a\nreal robot system. Additionally, we transfer knowledge from the corresponding\nsimulation tasks by automatically constructing priors from well-performing\nconfigurations for learning on the real system. To handle potentially\ncontradicting task objectives, the tasks are modeled as multi-objective\nproblems. Our results show that operator priors, both user-specified and\ntransferred, vastly accelerate the discovery of rich Pareto fronts, and\ntypically produce final performance far superior to proposed baselines.",
+          "arxiv_id": "2208.01605v1"
+        },
+        {
+          "title": "CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills using Large Language Models",
+          "year": "2024-09",
+          "abstract": "Curriculum learning is a training mechanism in reinforcement learning (RL)\nthat facilitates the achievement of complex policies by progressively\nincreasing the task difficulty during training. However, designing effective\ncurricula for a specific task often requires extensive domain knowledge and\nhuman intervention, which limits its applicability across various domains. Our\ncore idea is that large language models (LLMs), with their extensive training\non diverse language data and ability to encapsulate world knowledge, present\nsignificant potential for efficiently breaking down tasks and decomposing\nskills across various robotics environments. Additionally, the demonstrated\nsuccess of LLMs in translating natural language into executable code for RL\nagents strengthens their role in generating task curricula. In this work, we\npropose CurricuLLM, which leverages the high-level planning and programming\ncapabilities of LLMs for curriculum design, thereby enhancing the efficient\nlearning of complex target tasks. CurricuLLM consists of: (Step 1) Generating\nsequence of subtasks that aid target task learning in natural language form,\n(Step 2) Translating natural language description of subtasks in executable\ntask code, including the reward code and goal distribution code, and (Step 3)\nEvaluating trained policies based on trajectory rollout and subtask\ndescription. We evaluate CurricuLLM in various robotics simulation\nenvironments, ranging from manipulation, navigation, and locomotion, to show\nthat CurricuLLM can aid learning complex robot control tasks. In addition, we\nvalidate humanoid locomotion policy learned through CurricuLLM in real-world.\nProject website is https://iconlab.negarmehr.com/CurricuLLM/",
+          "arxiv_id": "2409.18382v2"
+        },
+        {
+          "title": "Learning to bag with a simulation-free reinforcement learning framework for robots",
+          "year": "2023-10",
+          "abstract": "Bagging is an essential skill that humans perform in their daily activities.\nHowever, deformable objects, such as bags, are complex for robots to\nmanipulate. This paper presents an efficient learning-based framework that\nenables robots to learn bagging. The novelty of this framework is its ability\nto perform bagging without relying on simulations. The learning process is\naccomplished through a reinforcement learning algorithm introduced in this\nwork, designed to find the best grasping points of the bag based on a set of\ncompact state representations. The framework utilizes a set of primitive\nactions and represents the task in five states. In our experiments, the\nframework reaches a 60 % and 80 % of success rate after around three hours of\ntraining in the real world when starting the bagging task from folded and\nunfolded, respectively. Finally, we test the trained model with two more bags\nof different sizes to evaluate its generalizability.",
+          "arxiv_id": "2310.14398v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Quantifying and Modeling Driving Styles in Trajectory Forecasting",
+          "year": "2025-03",
+          "abstract": "Trajectory forecasting has become a popular deep learning task due to its\nrelevance for scenario simulation for autonomous driving. Specifically,\ntrajectory forecasting predicts the trajectory of a short-horizon future for\nspecific human drivers in a particular traffic scenario. Robust and accurate\nfuture predictions can enable autonomous driving planners to optimize for\nlow-risk and predictable outcomes for human drivers around them. Although some\nwork has been done to model driving style in planning and personalized\nautonomous polices, a gap exists in explicitly modeling human driving styles\nfor trajectory forecasting of human behavior. Human driving style is most\ncertainly a correlating factor to decision making, especially in edge-case\nscenarios where risk is nontrivial, as justified by the large amount of traffic\npsychology literature on risky driving. So far, the current real-world datasets\nfor trajectory forecasting lack insight on the variety of represented driving\nstyles. While the datasets may represent real-world distributions of driving\nstyles, we posit that fringe driving style types may also be correlated with\nedge-case safety scenarios. In this work, we conduct analyses on existing\nreal-world trajectory datasets for driving and dissect these works from the\nlens of driving styles, which is often intangible and non-standardized.",
+          "arxiv_id": "2503.04994v1"
+        },
+        {
+          "title": "Machine Learning-Based Vehicle Intention Trajectory Recognition and Prediction for Autonomous Driving",
+          "year": "2024-02",
+          "abstract": "In recent years, the expansion of internet technology and advancements in\nautomation have brought significant attention to autonomous driving technology.\nMajor automobile manufacturers, including Volvo, Mercedes-Benz, and Tesla, have\nprogressively introduced products ranging from assisted-driving vehicles to\nsemi-autonomous vehicles. However, this period has also witnessed several\ntraffic safety incidents involving self-driving vehicles. For instance, in\nMarch 2016, a Google self-driving car was involved in a minor collision with a\nbus. At the time of the accident, the autonomous vehicle was attempting to\nmerge into the right lane but failed to dynamically respond to the real-time\nenvironmental information during the lane change. It incorrectly assumed that\nthe approaching bus would slow down to avoid it, leading to a low-speed\ncollision with the bus. This incident highlights the current technological\nshortcomings and safety concerns associated with autonomous lane-changing\nbehavior, despite the rapid advancements in autonomous driving technology.\nLane-changing is among the most common and hazardous behaviors in highway\ndriving, significantly impacting traffic safety and flow. Therefore,\nlane-changing is crucial for traffic safety, and accurately predicting drivers'\nlane change intentions can markedly enhance driving safety. This paper\nintroduces a deep learning-based prediction method for autonomous driving lane\nchange behavior, aiming to facilitate safe lane changes and thereby improve\nroad safety.",
+          "arxiv_id": "2402.16036v1"
+        },
+        {
+          "title": "Automatic driving lane change safety prediction model based on LSTM",
+          "year": "2024-02",
+          "abstract": "Autonomous driving technology can improve traffic safety and reduce traffic\naccidents. In addition, it improves traffic flow, reduces congestion, saves\nenergy and increases travel efficiency. In the relatively mature automatic\ndriving technology, the automatic driving function is divided into several\nmodules: perception, decision-making, planning and control, and a reasonable\ndivision of labor can improve the stability of the system. Therefore,\nautonomous vehicles need to have the ability to predict the trajectory of\nsurrounding vehicles in order to make reasonable decision planning and safety\nmeasures to improve driving safety. By using deep learning method, a\nsafety-sensitive deep learning model based on short term memory (LSTM) network\nis proposed. This model can alleviate the shortcomings of current automatic\ndriving trajectory planning, and the output trajectory not only ensures high\naccuracy but also improves safety. The cell state simulation algorithm\nsimulates the trackability of the trajectory generated by this model. The\nresearch results show that compared with the traditional model-based method,\nthe trajectory prediction method based on LSTM network has obvious advantages\nin predicting the trajectory in the long time domain. The intention recognition\nmodule considering interactive information has higher prediction and accuracy,\nand the algorithm results show that the trajectory is very smooth based on the\npremise of safe prediction and efficient lane change. And autonomous vehicles\ncan efficiently and safely complete lane changes.",
+          "arxiv_id": "2403.06993v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Vision based Crop Row Navigation under Varying Field Conditions in Arable Fields",
+          "year": "2022-09",
+          "abstract": "Accurate crop row detection is often challenged by the varying field\nconditions present in real-world arable fields. Traditional colour based\nsegmentation is unable to cater for all such variations. The lack of\ncomprehensive datasets in agricultural environments limits the researchers from\ndeveloping robust segmentation models to detect crop rows. We present a dataset\nfor crop row detection with 11 field variations from Sugar Beet and Maize\ncrops. We also present a novel crop row detection algorithm for visual servoing\nin crop row fields. Our algorithm can detect crop rows against varying field\nconditions such as curved crop rows, weed presence, discontinuities, growth\nstages, tramlines, shadows and light levels. Our method only uses RGB images\nfrom a front-mounted camera on a Husky robot to predict crop rows. Our method\noutperformed the classic colour based crop row detection baseline. Dense weed\npresence within inter-row space and discontinuities in crop rows were the most\nchallenging field conditions for our crop row detection algorithm. Our method\ncan detect the end of the crop row and navigate the robot towards the headland\narea when it reaches the end of the crop row.",
+          "arxiv_id": "2209.14003v1"
+        },
+        {
+          "title": "A Low-cost Robot with Autonomous Recharge and Navigation for Weed Control in Fields with Narrow Row Spacing",
+          "year": "2021-12",
+          "abstract": "Modern herbicide application in agricultural settings typically relies on\neither large scale sprayers that dispense herbicide over crops and weeds alike\nor portable sprayers that require labor intensive manual operation. The former\nmethod results in overuse of herbicide and reduction in crop yield while the\nlatter is often untenable in large scale operations. This paper presents the\nfirst fully autonomous robot for weed management for row crops capable of\ncomputer vision based navigation, weed detection, complete field coverage, and\nautomatic recharge for under \\$400. The target application is autonomous\ninter-row weed control in crop fields, e.g. flax and canola, where the spacing\nbetween croplines is as small as one foot. The proposed robot is small enough\nto pass between croplines at all stages of plant growth while detecting weeds\nand spraying herbicide. A recharging system incorporates newly designed robotic\nhardware, a ramp, a robotic charging arm, and a mobile charging station. An\nintegrated vision algorithm is employed to assist with charger alignment\neffectively. Combined, they enable the robot to work continuously in the field\nwithout access to electricity. In addition, a color-based contour algorithm\ncombined with preprocessing techniques is applied for robust navigation relying\non the input from the onboard monocular camera. Incorporating such compact\nrobots into farms could help automate weed control, even during late stages of\ngrowth, and reduce herbicide use by targeting weeds with precision. The robotic\nplatform is field-tested in the flaxseed fields of North Dakota.",
+          "arxiv_id": "2112.02162v1"
+        },
+        {
+          "title": "Deep learning-based Crop Row Detection for Infield Navigation of Agri-Robots",
+          "year": "2022-09",
+          "abstract": "Autonomous navigation in agricultural environments is challenged by varying\nfield conditions that arise in arable fields. State-of-the-art solutions for\nautonomous navigation in such environments require expensive hardware such as\nRTK-GNSS. This paper presents a robust crop row detection algorithm that\nwithstands such field variations using inexpensive cameras. Existing datasets\nfor crop row detection does not represent all the possible field variations. A\ndataset of sugar beet images was created representing 11 field variations\ncomprised of multiple grow stages, light levels, varying weed densities, curved\ncrop rows and discontinuous crop rows. The proposed pipeline segments the crop\nrows using a deep learning-based method and employs the predicted segmentation\nmask for extraction of the central crop using a novel central crop row\nselection algorithm. The novel crop row detection algorithm was tested for crop\nrow detection performance and the capability of visual servoing along a crop\nrow. The visual servoing-based navigation was tested on a realistic simulation\nscenario with the real ground and plant textures. Our algorithm demonstrated\nrobust vision-based crop row detection in challenging field conditions\noutperforming the baseline.",
+          "arxiv_id": "2209.04278v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:42:59Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

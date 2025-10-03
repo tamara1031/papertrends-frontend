@@ -1,0 +1,1472 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_complexity_NP_problem_time",
+        "keywords": [
+          [
+            "complexity",
+            0.021560677997851076
+          ],
+          [
+            "NP",
+            0.01766177333642137
+          ],
+          [
+            "problem",
+            0.016112020140933554
+          ],
+          [
+            "time",
+            0.01580797674871912
+          ],
+          [
+            "problems",
+            0.014848659776616695
+          ],
+          [
+            "proof",
+            0.014765346688427137
+          ],
+          [
+            "finite",
+            0.013605914817472392
+          ],
+          [
+            "complete",
+            0.01333488385041535
+          ],
+          [
+            "automata",
+            0.012309688648952426
+          ],
+          [
+            "paper",
+            0.012121032395419533
+          ]
+        ],
+        "count": 796
+      },
+      "1": {
+        "name": "1_quantum_classical_Quantum_state",
+        "keywords": [
+          [
+            "quantum",
+            0.07889324998106752
+          ],
+          [
+            "classical",
+            0.02798128612873491
+          ],
+          [
+            "Quantum",
+            0.02048228217358259
+          ],
+          [
+            "state",
+            0.01934127206970089
+          ],
+          [
+            "complexity",
+            0.018962488499819543
+          ],
+          [
+            "states",
+            0.01892974572506662
+          ],
+          [
+            "algorithm",
+            0.015710839514134836
+          ],
+          [
+            "circuits",
+            0.015557255599918607
+          ],
+          [
+            "problem",
+            0.014239437476505704
+          ],
+          [
+            "circuit",
+            0.012497035975418213
+          ]
+        ],
+        "count": 705
+      },
+      "2": {
+        "name": "2_graphs_graph_problem_time",
+        "keywords": [
+          [
+            "graphs",
+            0.043041737301941246
+          ],
+          [
+            "graph",
+            0.0409414755589871
+          ],
+          [
+            "problem",
+            0.032923647116015115
+          ],
+          [
+            "time",
+            0.022459094893800154
+          ],
+          [
+            "vertex",
+            0.019564180907342636
+          ],
+          [
+            "algorithm",
+            0.017423731916351912
+          ],
+          [
+            "NP",
+            0.017405622530271836
+          ],
+          [
+            "number",
+            0.017140193408969783
+          ],
+          [
+            "vertices",
+            0.016445734185538758
+          ],
+          [
+            "problems",
+            0.0162120050090828
+          ]
+        ],
+        "count": 694
+      },
+      "3": {
+        "name": "3_complexity_function_lower_problem",
+        "keywords": [
+          [
+            "complexity",
+            0.017828406630820012
+          ],
+          [
+            "function",
+            0.017184147155594146
+          ],
+          [
+            "lower",
+            0.01508654244011995
+          ],
+          [
+            "problem",
+            0.014635886065164172
+          ],
+          [
+            "log",
+            0.014341227562097266
+          ],
+          [
+            "learning",
+            0.01417270655249947
+          ],
+          [
+            "functions",
+            0.01395955204598547
+          ],
+          [
+            "bounds",
+            0.013797051682054681
+          ],
+          [
+            "bound",
+            0.012626486708686182
+          ],
+          [
+            "algorithms",
+            0.012538315616196812
+          ]
+        ],
+        "count": 525
+      },
+      "4": {
+        "name": "4_polynomial_rank_polynomials_groups",
+        "keywords": [
+          [
+            "polynomial",
+            0.029376098173507913
+          ],
+          [
+            "rank",
+            0.025525130015687555
+          ],
+          [
+            "polynomials",
+            0.0234969728696867
+          ],
+          [
+            "groups",
+            0.021209142508691683
+          ],
+          [
+            "problem",
+            0.02017473040774349
+          ],
+          [
+            "tensor",
+            0.019597125161469272
+          ],
+          [
+            "complexity",
+            0.018506848882471925
+          ],
+          [
+            "group",
+            0.017985245884797413
+          ],
+          [
+            "algorithm",
+            0.017918610554322326
+          ],
+          [
+            "tensors",
+            0.017589709812371273
+          ]
+        ],
+        "count": 372
+      },
+      "5": {
+        "name": "5_neural_networks_models_complexity",
+        "keywords": [
+          [
+            "neural",
+            0.031330129484871974
+          ],
+          [
+            "networks",
+            0.026840674346799005
+          ],
+          [
+            "models",
+            0.025414346594953566
+          ],
+          [
+            "complexity",
+            0.023549842029222227
+          ],
+          [
+            "neural networks",
+            0.02097919624015172
+          ],
+          [
+            "network",
+            0.017363326663628047
+          ],
+          [
+            "model",
+            0.0165539338634521
+          ],
+          [
+            "reasoning",
+            0.016439777840570966
+          ],
+          [
+            "attention",
+            0.016385270242044142
+          ],
+          [
+            "Neural",
+            0.01422613335497619
+          ]
+        ],
+        "count": 229
+      },
+      "6": {
+        "name": "6_games_agents_equilibrium_problem",
+        "keywords": [
+          [
+            "games",
+            0.032305223429720385
+          ],
+          [
+            "agents",
+            0.026330615599666617
+          ],
+          [
+            "equilibrium",
+            0.02587621715485957
+          ],
+          [
+            "problem",
+            0.025649685497023435
+          ],
+          [
+            "Nash",
+            0.025041635334941678
+          ],
+          [
+            "complexity",
+            0.020132858256957542
+          ],
+          [
+            "equilibria",
+            0.018294870603117092
+          ],
+          [
+            "agent",
+            0.017753370662389804
+          ],
+          [
+            "PPAD",
+            0.01771983675418868
+          ],
+          [
+            "game",
+            0.017285222714637387
+          ]
+        ],
+        "count": 170
+      },
+      "7": {
+        "name": "7_game_puzzle_PSPACE_complete",
+        "keywords": [
+          [
+            "game",
+            0.041266817537093214
+          ],
+          [
+            "puzzle",
+            0.03659764388224991
+          ],
+          [
+            "PSPACE",
+            0.03650030781132458
+          ],
+          [
+            "complete",
+            0.033069139346045495
+          ],
+          [
+            "NP",
+            0.02977373576827927
+          ],
+          [
+            "problem",
+            0.02738085966199723
+          ],
+          [
+            "player",
+            0.02548191329324406
+          ],
+          [
+            "games",
+            0.02308483048207242
+          ],
+          [
+            "puzzles",
+            0.018629320612761777
+          ],
+          [
+            "grid",
+            0.018604462203809128
+          ]
+        ],
+        "count": 126
+      },
+      "8": {
+        "name": "8_codes_code_list_decoding",
+        "keywords": [
+          [
+            "codes",
+            0.09073890400732448
+          ],
+          [
+            "code",
+            0.04497589323247274
+          ],
+          [
+            "list",
+            0.038380728775513934
+          ],
+          [
+            "decoding",
+            0.02850549633472538
+          ],
+          [
+            "rate",
+            0.02836180349042931
+          ],
+          [
+            "distance",
+            0.023579845831663875
+          ],
+          [
+            "Reed",
+            0.021068819644817854
+          ],
+          [
+            "Codes",
+            0.020532119026074082
+          ],
+          [
+            "linear",
+            0.018914076023786405
+          ],
+          [
+            "constant",
+            0.016524876331732535
+          ]
+        ],
+        "count": 81
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.525203778899576,
+        -0.2728174449491917,
+        -0.20519578893047663,
+        -0.32258374300947135,
+        -0.48445014692420185,
+        -0.28032068763534407,
+        -0.1598190647053803,
+        -0.721219996349328
+      ],
+      [
+        -0.525203778899576,
+        1.0,
+        -0.5614775581922097,
+        -0.5037797520834707,
+        -0.5405315882832742,
+        -0.6837652940540058,
+        -0.5058120804988481,
+        -0.532754040884311,
+        -0.7209984780290046
+      ],
+      [
+        -0.2728174449491917,
+        -0.5614775581922097,
+        1.0,
+        -0.3947900775616201,
+        -0.32991375130849626,
+        -0.6054432753853491,
+        -0.03037938464947624,
+        -0.0300381121994312,
+        -0.7212351509307151
+      ],
+      [
+        -0.20519578893047663,
+        -0.5037797520834707,
+        -0.3947900775616201,
+        1.0,
+        -0.394775822605826,
+        -0.4982735274296054,
+        -0.283270500280267,
+        -0.3148849665419736,
+        -0.7069517017394338
+      ],
+      [
+        -0.32258374300947135,
+        -0.5405315882832742,
+        -0.32991375130849626,
+        -0.394775822605826,
+        1.0,
+        -0.655984049257518,
+        -0.3728280564471552,
+        -0.38969787231943165,
+        -0.7194559542797117
+      ],
+      [
+        -0.48445014692420185,
+        -0.6837652940540058,
+        -0.6054432753853491,
+        -0.4982735274296054,
+        -0.655984049257518,
+        1.0,
+        -0.5957946304044945,
+        -0.5967148445417032,
+        -0.7459112595615132
+      ],
+      [
+        -0.28032068763534407,
+        -0.5058120804988481,
+        -0.03037938464947624,
+        -0.283270500280267,
+        -0.3728280564471552,
+        -0.5957946304044945,
+        1.0,
+        0.06463080263961084,
+        -0.7272745381487278
+      ],
+      [
+        -0.1598190647053803,
+        -0.532754040884311,
+        -0.0300381121994312,
+        -0.3148849665419736,
+        -0.38969787231943165,
+        -0.5967148445417032,
+        0.06463080263961084,
+        1.0,
+        -0.7230267370300275
+      ],
+      [
+        -0.721219996349328,
+        -0.7209984780290046,
+        -0.7212351509307151,
+        -0.7069517017394338,
+        -0.7194559542797117,
+        -0.7459112595615132,
+        -0.7272745381487278,
+        -0.7230267370300275,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        12,
+        8,
+        13,
+        4,
+        2,
+        2,
+        2,
+        5,
+        0
+      ],
+      "2020-02": [
+        16,
+        9,
+        27,
+        6,
+        9,
+        2,
+        5,
+        14,
+        1
+      ],
+      "2020-03": [
+        11,
+        3,
+        14,
+        1,
+        4,
+        2,
+        3,
+        9,
+        0
+      ],
+      "2020-04": [
+        10,
+        7,
+        24,
+        5,
+        5,
+        3,
+        0,
+        9,
+        1
+      ],
+      "2020-05": [
+        19,
+        9,
+        20,
+        4,
+        5,
+        7,
+        3,
+        9,
+        2
+      ],
+      "2020-06": [
+        12,
+        11,
+        12,
+        2,
+        7,
+        8,
+        2,
+        8,
+        1
+      ],
+      "2020-07": [
+        19,
+        10,
+        19,
+        4,
+        3,
+        2,
+        6,
+        11,
+        2
+      ],
+      "2020-08": [
+        15,
+        12,
+        19,
+        2,
+        4,
+        2,
+        4,
+        5,
+        0
+      ],
+      "2020-09": [
+        17,
+        6,
+        14,
+        4,
+        4,
+        3,
+        1,
+        12,
+        4
+      ],
+      "2020-10": [
+        20,
+        5,
+        21,
+        2,
+        4,
+        4,
+        4,
+        7,
+        1
+      ],
+      "2020-11": [
+        23,
+        9,
+        18,
+        3,
+        4,
+        3,
+        5,
+        9,
+        3
+      ],
+      "2020-12": [
+        14,
+        10,
+        7,
+        9,
+        5,
+        1,
+        3,
+        15,
+        3
+      ],
+      "2021-01": [
+        17,
+        5,
+        14,
+        3,
+        3,
+        5,
+        0,
+        8,
+        0
+      ],
+      "2021-02": [
+        10,
+        7,
+        23,
+        6,
+        4,
+        4,
+        1,
+        6,
+        1
+      ],
+      "2021-03": [
+        11,
+        8,
+        18,
+        5,
+        6,
+        1,
+        6,
+        5,
+        0
+      ],
+      "2021-04": [
+        19,
+        6,
+        10,
+        1,
+        5,
+        2,
+        2,
+        13,
+        0
+      ],
+      "2021-05": [
+        18,
+        11,
+        20,
+        4,
+        3,
+        4,
+        2,
+        2,
+        3
+      ],
+      "2021-06": [
+        18,
+        6,
+        13,
+        4,
+        6,
+        2,
+        3,
+        13,
+        0
+      ],
+      "2021-07": [
+        17,
+        6,
+        24,
+        7,
+        7,
+        6,
+        1,
+        9,
+        3
+      ],
+      "2021-08": [
+        19,
+        7,
+        11,
+        3,
+        2,
+        4,
+        2,
+        6,
+        3
+      ],
+      "2021-09": [
+        21,
+        7,
+        16,
+        2,
+        3,
+        0,
+        3,
+        5,
+        2
+      ],
+      "2021-10": [
+        13,
+        13,
+        19,
+        2,
+        3,
+        4,
+        3,
+        7,
+        2
+      ],
+      "2021-11": [
+        22,
+        15,
+        21,
+        7,
+        1,
+        1,
+        6,
+        10,
+        6
+      ],
+      "2021-12": [
+        14,
+        9,
+        13,
+        2,
+        5,
+        1,
+        4,
+        7,
+        3
+      ],
+      "2022-01": [
+        22,
+        8,
+        13,
+        4,
+        6,
+        3,
+        1,
+        3,
+        1
+      ],
+      "2022-02": [
+        17,
+        6,
+        20,
+        4,
+        5,
+        4,
+        4,
+        16,
+        4
+      ],
+      "2022-03": [
+        18,
+        8,
+        8,
+        7,
+        8,
+        3,
+        4,
+        11,
+        0
+      ],
+      "2022-04": [
+        9,
+        12,
+        14,
+        1,
+        3,
+        2,
+        1,
+        6,
+        1
+      ],
+      "2022-05": [
+        28,
+        5,
+        17,
+        4,
+        7,
+        2,
+        0,
+        8,
+        3
+      ],
+      "2022-06": [
+        12,
+        13,
+        18,
+        3,
+        2,
+        4,
+        1,
+        8,
+        3
+      ],
+      "2022-07": [
+        15,
+        10,
+        11,
+        3,
+        5,
+        2,
+        4,
+        7,
+        1
+      ],
+      "2022-08": [
+        10,
+        3,
+        18,
+        5,
+        2,
+        3,
+        0,
+        6,
+        2
+      ],
+      "2022-09": [
+        15,
+        13,
+        12,
+        5,
+        7,
+        3,
+        3,
+        11,
+        1
+      ],
+      "2022-10": [
+        9,
+        9,
+        15,
+        3,
+        4,
+        3,
+        1,
+        6,
+        3
+      ],
+      "2022-11": [
+        24,
+        13,
+        21,
+        9,
+        10,
+        3,
+        7,
+        11,
+        2
+      ],
+      "2022-12": [
+        10,
+        8,
+        11,
+        3,
+        8,
+        3,
+        0,
+        8,
+        0
+      ],
+      "2023-01": [
+        12,
+        13,
+        14,
+        4,
+        4,
+        1,
+        5,
+        6,
+        0
+      ],
+      "2023-02": [
+        17,
+        12,
+        16,
+        5,
+        4,
+        9,
+        3,
+        10,
+        3
+      ],
+      "2023-03": [
+        12,
+        12,
+        14,
+        4,
+        4,
+        5,
+        1,
+        4,
+        1
+      ],
+      "2023-04": [
+        16,
+        7,
+        24,
+        9,
+        2,
+        1,
+        1,
+        7,
+        1
+      ],
+      "2023-05": [
+        27,
+        10,
+        20,
+        2,
+        6,
+        6,
+        6,
+        8,
+        1
+      ],
+      "2023-06": [
+        19,
+        19,
+        22,
+        4,
+        3,
+        2,
+        5,
+        10,
+        2
+      ],
+      "2023-07": [
+        17,
+        6,
+        16,
+        3,
+        4,
+        5,
+        2,
+        9,
+        0
+      ],
+      "2023-08": [
+        8,
+        11,
+        9,
+        2,
+        3,
+        4,
+        2,
+        4,
+        3
+      ],
+      "2023-09": [
+        22,
+        13,
+        15,
+        6,
+        3,
+        4,
+        5,
+        12,
+        3
+      ],
+      "2023-10": [
+        19,
+        9,
+        11,
+        4,
+        4,
+        1,
+        0,
+        7,
+        5
+      ],
+      "2023-11": [
+        18,
+        13,
+        11,
+        6,
+        8,
+        1,
+        4,
+        7,
+        2
+      ],
+      "2023-12": [
+        19,
+        12,
+        26,
+        2,
+        6,
+        3,
+        2,
+        8,
+        1
+      ],
+      "2024-01": [
+        15,
+        12,
+        14,
+        2,
+        5,
+        4,
+        1,
+        7,
+        2
+      ],
+      "2024-02": [
+        18,
+        14,
+        24,
+        9,
+        8,
+        6,
+        5,
+        9,
+        4
+      ],
+      "2024-03": [
+        14,
+        14,
+        17,
+        4,
+        2,
+        4,
+        3,
+        8,
+        6
+      ],
+      "2024-04": [
+        19,
+        8,
+        18,
+        4,
+        11,
+        3,
+        6,
+        13,
+        6
+      ],
+      "2024-05": [
+        22,
+        11,
+        24,
+        3,
+        3,
+        6,
+        3,
+        12,
+        4
+      ],
+      "2024-06": [
+        8,
+        4,
+        19,
+        0,
+        2,
+        7,
+        9,
+        5,
+        1
+      ],
+      "2024-07": [
+        13,
+        15,
+        16,
+        3,
+        3,
+        2,
+        2,
+        13,
+        3
+      ],
+      "2024-08": [
+        19,
+        16,
+        6,
+        2,
+        5,
+        5,
+        2,
+        4,
+        0
+      ],
+      "2024-09": [
+        26,
+        10,
+        18,
+        2,
+        7,
+        3,
+        2,
+        4,
+        3
+      ],
+      "2024-10": [
+        8,
+        34,
+        21,
+        5,
+        6,
+        10,
+        4,
+        11,
+        5
+      ],
+      "2024-11": [
+        22,
+        29,
+        27,
+        10,
+        11,
+        6,
+        4,
+        13,
+        5
+      ],
+      "2024-12": [
+        20,
+        8,
+        15,
+        4,
+        4,
+        5,
+        4,
+        7,
+        3
+      ],
+      "2025-01": [
+        13,
+        8,
+        15,
+        2,
+        2,
+        4,
+        5,
+        8,
+        3
+      ],
+      "2025-02": [
+        19,
+        6,
+        28,
+        7,
+        4,
+        5,
+        6,
+        13,
+        3
+      ],
+      "2025-03": [
+        6,
+        10,
+        20,
+        5,
+        4,
+        7,
+        1,
+        9,
+        3
+      ],
+      "2025-04": [
+        30,
+        11,
+        22,
+        7,
+        7,
+        7,
+        4,
+        10,
+        7
+      ],
+      "2025-05": [
+        11,
+        7,
+        16,
+        6,
+        7,
+        3,
+        2,
+        12,
+        2
+      ],
+      "2025-06": [
+        24,
+        15,
+        21,
+        6,
+        7,
+        5,
+        2,
+        7,
+        3
+      ],
+      "2025-07": [
+        28,
+        16,
+        24,
+        6,
+        5,
+        2,
+        4,
+        11,
+        1
+      ],
+      "2025-08": [
+        6,
+        13,
+        11,
+        2,
+        4,
+        3,
+        2,
+        13,
+        0
+      ],
+      "2025-09": [
+        7,
+        9,
+        6,
+        2,
+        8,
+        0,
+        1,
+        4,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Rice-like complexity lower bounds for Boolean and uniform automata networks",
+          "year": "2024-09",
+          "abstract": "Automata networks are a versatile model of finite discrete dynamical systems\ncomposed of interacting entities (the automata), able to embed any directed\ngraph as a dynamics on its space of configurations (the set of vertices,\nrepresenting all the assignments of a state to each entity). In this world,\nvirtually any question is decidable by a simple exhaustive search. We lever the\nRice-like complexity lower bound, stating that any non-trivial monadic second\norder logic question on the graph of its dynamics is NP-hard or coNP-hard\n(given the automata network description), to bounded alphabets (including the\nBoolean case). This restriction is particularly meaningful for applications to\n\"complex systems\", where each entity has a restricted set of possible states\n(its alphabet). For the non-deterministic case, trivial questions are solvable\nin constant time, hence there is a sharp gap in complexity for the algorithmic\nsolving of concrete problems on them. For the non-deterministic case,\nnon-triviality is defined at bounded treewidth, which offers a structure to\nestablish metatheorems of complexity lower bounds.",
+          "arxiv_id": "2409.08762v1"
+        },
+        {
+          "title": "Metamathematics of Resolution Lower Bounds: A TFNP Perspective",
+          "year": "2024-11",
+          "abstract": "This paper studies the *refuter* problems, a family of decision-tree\n$\\mathsf{TFNP}$ problems capturing the metamathematical difficulty of proving\nproof complexity lower bounds. Suppose $\\varphi$ is a hard tautology that does\nnot admit any length-$s$ proof in some proof system $P$. In the corresponding\nrefuter problem, we are given (query access to) a purported length-$s$ proof\n$\\pi$ in $P$ that claims to have proved $\\varphi$, and our goal is to find an\ninvalid derivation inside $\\pi$. As suggested by witnessing theorems in bounded\narithmetic, the *computational complexity* of these refuter problems is closely\ntied to the *metamathematics* of the underlying proof complexity lower bounds.\n  We focus on refuter problems corresponding to lower bounds for *resolution*,\nwhich is arguably the single most studied system in proof complexity. We\nintroduce a new class $\\mathrm{rwPHP}(\\mathsf{PLS})$ in decision-tree\n$\\mathsf{TFNP}$, which can be seen as a randomized version of $\\mathsf{PLS}$,\nand argue that this class effectively captures the metamathematics of proving\nresolution lower bounds.\n  We view these results as a contribution to the *bounded reverse mathematics*\nof complexity lower bounds: when interpreted in relativized bounded arithmetic,\nour results show that the theory $\\mathsf{T}^1_2(\\alpha) +\n\\mathrm{dwPHP}(\\mathsf{PV}(\\alpha))$ characterizes the \"reasoning power\"\nrequired to prove (the \"easiest\") resolution lower bounds. An intriguing\ncorollary of our results is that the combinatorial principle, \"the pigeonhole\nprinciple requires exponential-size resolution proofs\", captures the class of\n$\\mathsf{TFNP}$ problems whose totality is provable in $\\mathsf{T}^1_2 +\n\\mathrm{dwPHP}(\\mathsf{PV})$.",
+          "arxiv_id": "2411.15515v1"
+        },
+        {
+          "title": "A Complexity Dichotomy for Semilinear Target Sets in Automata with One Counter",
+          "year": "2025-05",
+          "abstract": "In many kinds of infinite-state systems, the coverability problem has\nsignificantly lower complexity than the reachability problem. In order to\ndelineate the border of computational hardness between coverability and\nreachability, we propose to place these problems in a more general context,\nwhich makes it possible to prove complexity dichotomies.\n  The more general setting arises as follows. We note that for coverability, we\nare given a vector $t$ and are asked if there is a reachable vector $x$\nsatisfying the relation $x\\ge t$. For reachability, we want to satisfy the\nrelation $x=t$. In the more general setting, there is a Presburger formula\n$\\varphi(t,x)$, and we are given $t$ and are asked if there is a reachable $x$\nwith $\\varphi(t,x)$.\n  We study this setting for systems with one counter and binary updates: (i)\ninteger VASS, (ii) Parikh automata, and (i) standard (non-negative) VASS. In\neach of these cases, reachability is NP-complete, but coverability is known to\nbe in polynomial time. Our main results are three dichotomy theorems, one for\neach of the cases (i)--(iii). In each case, we show that for every $\\varphi$,\nthe problem is either NP-complete or belongs to $\\mathsf{AC}^1$, a circuit\ncomplexity class within polynomial time. We also show that it is decidable on\nwhich side of the dichotomy a given formula falls.",
+          "arxiv_id": "2505.13749v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Quantum Oracle Separations from Complex but Easily Specified States",
+          "year": "2021-04",
+          "abstract": "A foundational question in quantum computational complexity asks how much\nmore useful a quantum state can be in a given task than a comparable, classical\nstring. Aaronson and Kuperberg showed such a separation in the presence of a\nquantum oracle, a black box unitary callable during quantum computation. Their\nquantum oracle responds to a random, marked, quantum state, which is\nintractable to specify classically. We constrain the marked state in ways that\nmake it easy to specify classically while retaining separations in task\ncomplexity. Our method replaces query by state complexity. Furthermore,\nassuming a widely believed separation between the difficulty of creating a\nrandom, complex state and creating a specified state, we propose an\nexperimental demonstration of quantum witness advantage on near-term,\ndistributed quantum computers. Finally, using the fact that a standard,\nclassically defined oracle may enable a quantum algorithm to prepare an\notherwise hard state in polynomial steps, we observe quantum-classical oracle\nseparation in heavy output sampling.",
+          "arxiv_id": "2104.07247v1"
+        },
+        {
+          "title": "Wasserstein Complexity of Quantum Circuits",
+          "year": "2022-08",
+          "abstract": "Given a unitary transformation, what is the size of the smallest quantum\ncircuit that implements it? This quantity, known as the quantum circuit\ncomplexity, is a fundamental property of quantum evolutions that has widespread\napplications in many fields, including quantum computation, quantum field\ntheory, and black hole physics. In this letter, we obtain a new lower bound for\nthe quantum circuit complexity in terms of a novel complexity measure that we\npropose for quantum circuits, which we call the quantum Wasserstein complexity.\nOur proposed measure is based on the quantum Wasserstein distance of order one\n(also called the quantum earth mover's distance), a metric on the space of\nquantum states. We also prove several fundamental and important properties of\nour new complexity measure, which stand to be of independent interest. Finally,\nwe show that our new measure also provides a lower bound for the experimental\ncost of implementing quantum circuits, which implies a quantum limit on\nconverting quantum resources to computational resources. Our results provide\nnovel applications of the quantum Wasserstein distance and pave the way for a\ndeeper understanding of the resources needed to implement a quantum\ncomputation.",
+          "arxiv_id": "2208.06306v1"
+        },
+        {
+          "title": "Quantum commitments and signatures without one-way functions",
+          "year": "2021-12",
+          "abstract": "In the classical world, the existence of commitments is equivalent to the\nexistence of one-way functions. In the quantum setting, on the other hand,\ncommitments are not known to imply one-way functions, but all known\nconstructions of quantum commitments use at least one-way functions. Are\none-way functions really necessary for commitments in the quantum world? In\nthis work, we show that non-interactive quantum commitments (for classical\nmessages) with computational hiding and statistical binding exist if\npseudorandom quantum states exist. Pseudorandom quantum states are sets of\nquantum states that are efficiently generated but their polynomially many\ncopies are computationally indistinguishable from the same number of copies of\nHaar random states [Ji, Liu, and Song, CRYPTO 2018]. It is known that\npseudorandom quantum states exist even if $\\BQP=\\QMA$ (relative to a quantum\noracle) [Kretschmer, TQC 2021], which means that pseudorandom quantum states\ncan exist even if no quantum-secure classical cryptographic primitive exists.\nOur result therefore shows that quantum commitments can exist even if no\nquantum-secure classical cryptographic primitive exists. In particular, quantum\ncommitments can exist even if no quantum-secure one-way function exists. In\nthis work, we also consider digital signatures, which are other fundamental\nprimitives in cryptography. We show that one-time secure digital signatures\nwith quantum public keys exist if pseudorandom quantum states exist. In the\nclassical setting, the existence of digital signatures is equivalent to the\nexistence of one-way functions. Our result, on the other hand, shows that\nquantum signatures can exist even if no quantum-secure classical cryptographic\nprimitive (including quantum-secure one-way functions) exists.",
+          "arxiv_id": "2112.06369v3"
+        }
+      ],
+      "2": [
+        {
+          "title": "List Locally Surjective Homomorphisms in Hereditary Graph Classes",
+          "year": "2022-02",
+          "abstract": "A locally surjective homomorphism from a graph $G$ to a graph $H$ is an\nedge-preserving mapping from $V(G)$ to $V(H)$ that is surjective in the\nneighborhood of each vertex in $G$. In the list locally surjective homomorphism\nproblem, denoted by LLSHom($H$), the graph $H$ is fixed and the instance\nconsists of a graph $G$ whose every vertex is equipped with a subset of $V(H)$,\ncalled list. We ask for the existence of a locally surjective homomorphism from\n$G$ to $H$, where every vertex of $G$ is mapped to a vertex from its list. In\nthis paper, we study the complexity of the LLSHom($H$) problem in $F$-free\ngraphs, i.e., graphs that exclude a fixed graph $F$ as an induced subgraph. We\naim to understand for which pairs $(H,F)$ the problem can be solved in\nsubexponential time.\n  We show that for all graphs $H$, for which the problem is NP-hard in general\ngraphs, it cannot be solved in subexponential time in $F$-free graphs unless\n$F$ is a bounded-degree forest or the ETH fails. The initial study reveals that\na natural subfamily of bounded-degree forests $F$ that might lead to some\ntractability results is the family $\\mathcal S$ consisting of forests whose\nevery component has at most three leaves. In this case, we exhibit the\nfollowing dichotomy theorem: besides the cases that are polynomial-time\nsolvable in general graphs, the graphs $H \\in \\{P_3,C_4\\}$ are the only\nconnected ones that allow for a subexponential-time algorithm in $F$-free\ngraphs for every $F \\in \\mathcal S$ (unless the ETH fails).",
+          "arxiv_id": "2202.12438v1"
+        },
+        {
+          "title": "The Parameterized Complexity of Computing the Linear Vertex Arboricity",
+          "year": "2025-05",
+          "abstract": "The \\emph{linear vertex arboricity} of a graph is the smallest number of sets\ninto which the vertices of a graph can be partitioned so that each of these\nsets induces a linear forest. Chaplick et al. [JoCG 2020] showed that, somewhat\nsurprisingly, the linear vertex arboricity of a graph is the same as the\n\\emph{3D weak line cover number} of the graph, that is, the minimum number of\nstraight lines necessary to cover the vertices of a crossing-free straight-line\ndrawing of the graph in $\\mathbb{R}^3$. Chaplick et al. [JGAA 2023] showed that\ndeciding whether a given graph has linear vertex arboricity 2 is NP-hard.\n  In this paper, we investigate the parameterized complexity of computing the\nlinear vertex arboricity. We show that the problem is para-NP-hard with respect\nto the parameter maximum degree. Our result is tight in the following sense.\nAll graphs of maximum degree 4 (except for $K_4$) have linear vertex arboricity\nat most 2, whereas we show that it is NP-hard to decide, given a graph of\nmaximum degree 5, whether its linear vertex arboricity is 2. Moreover, we show\nthat, for planar graphs, the same question is NP-hard for graphs of maximum\ndegree 6, leaving open the maximum-degree-5 case. Finally, we prove that, for\nany $k \\ge 1$, deciding whether the linear vertex arboricity of a graph is at\nmost $k$ is fixed-parameter tractable with respect to the treewidth of the\ngiven graph.",
+          "arxiv_id": "2505.18885v1"
+        },
+        {
+          "title": "Full complexity classification of the list homomorphism problem for bounded-treewidth graphs",
+          "year": "2020-06",
+          "abstract": "A homomorphism from a graph $G$ to a graph $H$ is an edge-preserving mapping\nfrom $V(G)$ to $V(H)$. Let $H$ be a fixed graph with possible loops. In the\nlist homomorphism problem, denoted by LHom($H$), we are given a graph $G$,\nwhose every vertex $v$ is assigned with a list $L(v)$ of vertices of $H$. We\nask whether there exists a homomorphism $h$ from $G$ to $H$, which respects\nlists $L$, i.e., for every $v \\in V(G)$ it holds that $h(v) \\in L(v)$.\n  The complexity dichotomy for LHom($H$) was proven by Feder, Hell, and Huang\n[JGT 2003]. We are interested in the complexity of the problem, parameterized\nby the treewidth of the input graph. This problem was investigated by Egri,\nMarx, and Rz\\k{a}\\.zewski [STACS 2018], who obtained tight complexity bounds\nfor the special case of reflexive graphs $H$.\n  In this paper we extend and generalize their results for \\emph{all} relevant\ngraphs $H$, i.e., those, for which the LHom{H} problem is NP-hard. For every\nsuch $H$ we find a constant $k = k(H)$, such that LHom($H$) on instances with\n$n$ vertices and treewidth $t$\n  * can be solved in time $k^{t} \\cdot n^{\\mathcal{O}(1)}$, provided that the\ninput graph is given along with a tree decomposition of width $t$,\n  * cannot be solved in time $(k-\\varepsilon)^{t} \\cdot n^{\\mathcal{O}(1)}$,\nfor any $\\varepsilon >0$, unless the SETH fails.\n  For some graphs $H$ the value of $k(H)$ is much smaller than the trivial\nupper bound, i.e., $|V(H)|$.\n  Obtaining matching upper and lower bounds shows that the set of algorithmic\ntools we have discovered cannot be extended in order to obtain faster\nalgorithms for LHom($H$) in bounded-treewidth graphs. Furthermore, neither the\nalgorithm, nor the proof of the lower bound, is very specific to treewidth. We\nbelieve that they can be used for other variants of LHom($H$), e.g. with\ndifferent parameterizations.",
+          "arxiv_id": "2006.11155v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Streaming Complexity of SVMs",
+          "year": "2020-07",
+          "abstract": "We study the space complexity of solving the bias-regularized SVM problem in\nthe streaming model. This is a classic supervised learning problem that has\ndrawn lots of attention, including for developing fast algorithms for solving\nthe problem approximately. One of the most widely used algorithms for\napproximately optimizing the SVM objective is Stochastic Gradient Descent\n(SGD), which requires only $O(\\frac{1}{\\lambda\\epsilon})$ random samples, and\nwhich immediately yields a streaming algorithm that uses\n$O(\\frac{d}{\\lambda\\epsilon})$ space. For related problems, better streaming\nalgorithms are only known for smooth functions, unlike the SVM objective that\nwe focus on in this work. We initiate an investigation of the space complexity\nfor both finding an approximate optimum of this objective, and for the related\n``point estimation'' problem of sketching the data set to evaluate the function\nvalue $F_\\lambda$ on any query $(\\theta, b)$. We show that, for both problems,\nfor dimensions $d=1,2$, one can obtain streaming algorithms with space\npolynomially smaller than $\\frac{1}{\\lambda\\epsilon}$, which is the complexity\nof SGD for strongly convex functions like the bias-regularized SVM, and which\nis known to be tight in general, even for $d=1$. We also prove polynomial lower\nbounds for both point estimation and optimization. In particular, for point\nestimation we obtain a tight bound of $\\Theta(1/\\sqrt{\\epsilon})$ for $d=1$ and\na nearly tight lower bound of $\\widetilde{\\Omega}(d/{\\epsilon}^2)$ for $d =\n\\Omega( \\log(1/\\epsilon))$. Finally, for optimization, we prove a\n$\\Omega(1/\\sqrt{\\epsilon})$ lower bound for $d = \\Omega( \\log(1/\\epsilon))$,\nand show similar bounds when $d$ is constant.",
+          "arxiv_id": "2007.03633v1"
+        },
+        {
+          "title": "Sum-of-Squares Lower Bounds for Sparse Independent Set",
+          "year": "2021-11",
+          "abstract": "The Sum-of-Squares (SoS) hierarchy of semidefinite programs is a powerful\nalgorithmic paradigm which captures state-of-the-art algorithmic guarantees for\na wide array of problems. In the average case setting, SoS lower bounds provide\nstrong evidence of algorithmic hardness or information-computation gaps. Prior\nto this work, SoS lower bounds have been obtained for problems in the \"dense\"\ninput regime, where the input is a collection of independent Rademacher or\nGaussian random variables, while the sparse regime has remained out of reach.\nWe make the first progress in this direction by obtaining strong SoS lower\nbounds for the problem of Independent Set on sparse random graphs. We prove\nthat with high probability over an Erdos-Renyi random graph $G\\sim\nG_{n,\\frac{d}{n}}$ with average degree $d>\\log^2 n$, degree-$D_{SoS}$ SoS fails\nto refute the existence of an independent set of size $k =\n\\Omega\\left(\\frac{n}{\\sqrt{d}(\\log n)(D_{SoS})^{c_0}} \\right)$ in $G$ (where\n$c_0$ is an absolute constant), whereas the true size of the largest\nindependent set in $G$ is $O\\left(\\frac{n\\log d}{d}\\right)$.\n  Our proof involves several significant extensions of the techniques used for\nproving SoS lower bounds in the dense setting. Previous lower bounds are based\non the pseudo-calibration heuristic of Barak et al [FOCS 2016] which produces a\ncandidate SoS solution using a planted distribution indistinguishable from the\ninput distribution via low-degree tests. In the sparse case the natural planted\ndistribution does admit low-degree distinguishers, and we show how to adapt the\npseudo-calibration heuristic to overcome this.\n  Another notorious technical challenge for the sparse regime is the quest for\nmatrix norm bounds. In this paper, we obtain new norm bounds for graph matrices\nin the sparse setting.",
+          "arxiv_id": "2111.09250v1"
+        },
+        {
+          "title": "Superpolynomial Lower Bounds for Decision Tree Learning and Testing",
+          "year": "2022-10",
+          "abstract": "We establish new hardness results for decision tree optimization problems,\nadding to a line of work that dates back to Hyafil and Rivest in 1976. We\nprove, under randomized ETH, superpolynomial lower bounds for two basic\nproblems: given an explicit representation of a function $f$ and a generator\nfor a distribution $\\mathcal{D}$, construct a small decision tree approximator\nfor $f$ under $\\mathcal{D}$, and decide if there is a small decision tree\napproximator for $f$ under $\\mathcal{D}$.\n  Our results imply new lower bounds for distribution-free PAC learning and\ntesting of decision trees, settings in which the algorithm only has restricted\naccess to $f$ and $\\mathcal{D}$. Specifically, we show: $n$-variable size-$s$\ndecision trees cannot be properly PAC learned in time $n^{\\tilde{O}(\\log\\log\ns)}$, and depth-$d$ decision trees cannot be tested in time $\\exp(d^{\\,O(1)})$.\nFor learning, the previous best lower bound only ruled out\n$\\text{poly}(n)$-time algorithms (Alekhnovich, Braverman, Feldman, Klivans, and\nPitassi, 2009). For testing, recent work gives similar though incomparable\nbounds in the setting where $f$ is random and $\\mathcal{D}$ is nonexplicit\n(Blais, Ferreira Pinto Jr., and Harms, 2021). Assuming a plausible conjecture\non the hardness of Set-Cover, we show our lower bound for learning decision\ntrees can be improved to $n^{\\Omega(\\log s)}$, matching the best known upper\nbound of $n^{O(\\log s)}$ due to Ehrenfeucht and Haussler (1989).\n  We obtain our results within a unified framework that leverages recent\nprogress in two lines of work: the inapproximability of Set-Cover and XOR\nlemmas for query complexity. Our framework is versatile and yields results for\nrelated concept classes such as juntas and DNF formulas.",
+          "arxiv_id": "2210.06375v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Fixed-parameter debordering of Waring rank",
+          "year": "2024-01",
+          "abstract": "Border complexity measures are defined via limits (or topological closures),\nso that any function which can approximated arbitrarily closely by low\ncomplexity functions itself has low border complexity. Debordering is the task\nof proving an upper bound on some non-border complexity measure in terms of a\nborder complexity measure, thus getting rid of limits.\n  Debordering is at the heart of understanding the difference between Valiant's\ndeterminant vs permanent conjecture, and Mulmuley and Sohoni's variation which\nuses border determinantal complexity. The debordering of matrix multiplication\ntensors by Bini played a pivotal role in the development of efficient matrix\nmultiplication algorithms. Consequently, debordering finds applications in both\nestablishing computational complexity lower bounds and facilitating algorithm\ndesign. Currently, very few debordering results are known.\n  In this work, we study the question of debordering the border Waring rank of\npolynomials. Waring and border Waring rank are very well studied measures in\nthe context of invariant theory, algebraic geometry, and matrix multiplication\nalgorithms. For the first time, we obtain a Waring rank upper bound that is\nexponential in the border Waring rank and only linear in the degree. All\nprevious known results were exponential in the degree. For polynomials with\nconstant border Waring rank, our results imply an upper bound on the Waring\nrank linear in degree, which previously was only known for polynomials with\nborder Waring rank at most 5.",
+          "arxiv_id": "2401.07631v1"
+        },
+        {
+          "title": "Asymptotic tensor rank is characterized by polynomials",
+          "year": "2024-11",
+          "abstract": "Asymptotic tensor rank is notoriously difficult to determine. Indeed,\ndetermining its value for the $2\\times 2$ matrix multiplication tensor would\ndetermine the matrix multiplication exponent, a long-standing open problem. On\nthe other hand, Strassen's asymptotic rank conjecture makes the bold claim that\nasymptotic tensor rank equals the largest dimension of the tensor and is thus\nas easy to compute as matrix rank. Despite tremendous interest, much is still\nunknown about the structural and computational properties of asymptotic rank;\nfor instance whether it is computable.\n  We prove that asymptotic tensor rank is \"computable from above\", that is, for\nany real number $r$ there is an (efficient) algorithm that determines, given a\ntensor $T$, if the asymptotic tensor rank of $T$ is at most $r$. The algorithm\nhas a simple structure; it consists of evaluating a finite list of polynomials\non the tensor. Indeed, we prove that the sublevel sets of asymptotic rank are\nZariski-closed (just like matrix rank). While we do not exhibit these\npolynomials explicitly, their mere existence has strong implications on the\nstructure of asymptotic rank.\n  As one such implication, we find that the values that asymptotic tensor rank\ntakes, on all tensors, is a well-ordered set. In other words, any\nnon-increasing sequence of asymptotic ranks stabilizes (\"discreteness from\nabove\"). In particular, for the matrix multiplication exponent (which is an\nasymptotic rank) there is no sequence of exponents of bilinear maps that\napproximates it arbitrarily closely from above without being eventually\nconstant. In other words, any upper bound on the matrix multiplication exponent\nthat is close enough, will \"snap\" to it. Previously such discreteness results\nwere only known for finite fields or for other tensor parameters (e.g.,\nasymptotic slice rank). We obtain them for infinite fields like the complex\nnumbers.",
+          "arxiv_id": "2411.15789v1"
+        },
+        {
+          "title": "Reconstruction Algorithms for Low-Rank Tensors and Depth-3 Multilinear Circuits",
+          "year": "2021-05",
+          "abstract": "We give new and efficient black-box reconstruction algorithms for some\nclasses of depth-$3$ arithmetic circuits. As a consequence, we obtain the first\nefficient algorithm for computing the tensor rank and for finding the optimal\ntensor decomposition as a sum of rank-one tensors when then input is a\nconstant-rank tensor. More specifically, we provide efficient learning\nalgorithms that run in randomized polynomial time over general fields and in\ndeterministic polynomial time over the reals and the complex numbers for the\nfollowing classes:\n  (1) Set-multilinear depth-$3$ circuits of constant top fan-in\n$\\Sigma\\Pi\\Sigma\\{\\sqcup_j X_j\\}(k)$ circuits). As a consequence of our\nalgorithm, we obtain the first polynomial time algorithm for tensor rank\ncomputation and optimal tensor decomposition of constant-rank tensors. This\nresult holds for $d$ dimensional tensors for any $d$, but is interesting even\nfor $d=3$.\n  (2) Sums of powers of constantly many linear forms ($\\Sigma\\wedge\\Sigma$\ncircuits). As a consequence we obtain the first polynomial-time algorithm for\ntensor rank computation and optimal tensor decomposition of constant-rank\nsymmetric tensors.\n  (3) Multilinear depth-3 circuits of constant top fan-in (multilinear\n$\\Sigma\\Pi\\Sigma(k)$ circuits). Our algorithm works over all fields of\ncharacteristic 0 or large enough characteristic. Prior to our work the only\nefficient algorithms known were over polynomially-sized finite fields (see.\nKarnin-Shpilka 09').\n  Prior to our work, the only polynomial-time or even subexponential-time\nalgorithms known (deterministic or randomized) for subclasses of\n$\\Sigma\\Pi\\Sigma(k)$ circuits that also work over large/infinite fields were\nfor the setting when the top fan-in $k$ is at most $2$ (see Sinha 16' and Sinha\n20').",
+          "arxiv_id": "2105.01751v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Neural Spectrahedra and Semidefinite Lifts: Global Convex Optimization of Polynomial Activation Neural Networks in Fully Polynomial-Time",
+          "year": "2021-01",
+          "abstract": "The training of two-layer neural networks with nonlinear activation functions\nis an important non-convex optimization problem with numerous applications and\npromising performance in layerwise deep learning. In this paper, we develop\nexact convex optimization formulations for two-layer neural networks with\nsecond degree polynomial activations based on semidefinite programming.\nRemarkably, we show that semidefinite lifting is always exact and therefore\ncomputational complexity for global optimization is polynomial in the input\ndimension and sample size for all input data. The developed convex formulations\nare proven to achieve the same global optimal solution set as their non-convex\ncounterparts. More specifically, the globally optimal two-layer neural network\nwith polynomial activations can be found by solving a semidefinite program\n(SDP) and decomposing the solution using a procedure we call Neural\nDecomposition. Moreover, the choice of regularizers plays a crucial role in the\ncomputational tractability of neural network training. We show that the\nstandard weight decay regularization formulation is NP-hard, whereas other\nsimple convex penalties render the problem tractable in polynomial time via\nconvex programming. We extend the results beyond the fully connected\narchitecture to different neural network architectures including networks with\nvector outputs and convolutional architectures with pooling. We provide\nextensive numerical simulations showing that the standard backpropagation\napproach often fails to achieve the global optimum of the training loss. The\nproposed approach is significantly faster to obtain better test accuracy\ncompared to the standard backpropagation procedure.",
+          "arxiv_id": "2101.02429v1"
+        },
+        {
+          "title": "Information contraction in noisy binary neural networks and its implications",
+          "year": "2021-01",
+          "abstract": "Neural networks have gained importance as the machine learning models that\nachieve state-of-the-art performance on large-scale image classification,\nobject detection and natural language processing tasks. In this paper, we\nconsider noisy binary neural networks, where each neuron has a non-zero\nprobability of producing an incorrect output. These noisy models may arise from\nbiological, physical and electronic contexts and constitute an important class\nof models that are relevant to the physical world. Intuitively, the number of\nneurons in such systems has to grow to compensate for the noise while\nmaintaining the same level of expressive power and computation reliability. Our\nkey finding is a lower bound for the required number of neurons in noisy neural\nnetworks, which is first of its kind. To prove this lower bound, we take an\ninformation theoretic approach and obtain a novel strong data processing\ninequality (SDPI), which not only generalizes the Evans-Schulman results for\nbinary symmetric channels to general channels, but also improves the tightness\ndrastically when applied to estimate end-to-end information contraction in\nnetworks. Our SDPI can be applied to various information processing systems,\nincluding neural networks and cellular automata. Applying the SDPI in noisy\nbinary neural networks, we obtain our key lower bound and investigate its\nimplications on network depth-width trade-offs, our results suggest a\ndepth-width trade-off for noisy neural networks that is very different from the\nestablished understanding regarding noiseless neural networks. Furthermore, we\napply the SDPI to study fault-tolerant cellular automata and obtain bounds on\nthe error correction overheads and the relaxation time. This paper offers new\nunderstanding of noisy information processing systems through the lens of\ninformation theory.",
+          "arxiv_id": "2101.11750v2"
+        },
+        {
+          "title": "Descriptive complexity for neural networks via Boolean networks",
+          "year": "2023-08",
+          "abstract": "We investigate the expressive power of neural networks from the point of view\nof descriptive complexity. We study neural networks that use floating-point\nnumbers and piecewise polynomial activation functions from two perspectives: 1)\nthe general scenario where neural networks run for an unlimited number of\nrounds and have unrestricted topologies, and 2) classical feedforward neural\nnetworks that have the topology of layered acyclic graphs and run for only a\nconstant number of rounds. We characterize these neural networks via Boolean\nnetworks formalized via a recursive rule-based logic. In particular, we show\nthat the sizes of the neural networks and the corresponding Boolean rule\nformulae are polynomially related. In fact, in the direction from Boolean rules\nto neural networks, the blow-up is only linear. Our translations result in a\ntime delay, which is the number of rounds that it takes to simulate a single\ncomputation step. In the translation from neural networks to Boolean rules, the\ntime delay of the resulting formula is polylogarithmic in the size of the\nneural network. In the converse translation, the time delay of the neural\nnetwork is linear in the formula size. Ultimately, we obtain translations\nbetween neural networks, Boolean networks, the diamond-free fragment of modal\nsubstitution calculus, and a class of recursive Boolean circuits. Our\ntranslations offer a method, for almost any activation function F, of\ntranslating any neural network in our setting into an equivalent neural network\nthat uses F at each node. This even includes linear activation functions, which\nis possible due to using floats rather than actual reals!",
+          "arxiv_id": "2308.06277v4"
+        }
+      ],
+      "6": [
+        {
+          "title": "Reducing the complexity of computing the values of a Nash equilibrium",
+          "year": "2025-07",
+          "abstract": "The Colonel Blotto game, formulated by Emile Borel, involves players\nallocating limited resources to multiple battlefields simultaneously, with the\nwinner being the one who allocates more resources to each battlefield.\nComputation of the Nash equilibrium, including of two person, zero sum, mixed\nstrategy Colonel Blotto games have encountered issues of scalability and\ncomplexity owing to their PPAD completeness. This paper proposes an algorithm\nthat computes the same value as the Nash equilibrium but cannot be\ncharacterized by the Fixed point Theorems of Tarski, Kakutani and Brouwer. The\nreduced complexity of the proposed algorithm is based on dispensing with the\nneed for computing both players Nash strategies in Colonel Blotto games. The\nsame algorithm can, therefore, be extended to all two person, zero sum games to\ncompute the value of the Nash equilibrium. The theoretical superiority of the\nproposed algorithm over both LP solvers and another method that computes the\nsame value of the game as its Nash equilibrium by a random assignment of\nprobabilities to the active strategy set of the defending player, is also\nproposed.",
+          "arxiv_id": "2507.22819v1"
+        },
+        {
+          "title": "On the Computational Complexity of Decision Problems about Multi-Player Nash Equilibria",
+          "year": "2020-01",
+          "abstract": "We study the computational complexity of decision problems about Nash\nequilibria in $m$-player games. Several such problems have recently been shown\nto be computationally equivalent to the decision problem for the existential\ntheory of the reals, or stated in terms of complexity classes,\n$\\exists\\mathbb{R}$-complete, when $m\\geq 3$. We show that, unless they turn\ninto trivial problems, they are $\\exists\\mathbb{R}$-hard even for 3-player\nzero-sum games.\n  We also obtain new results about several other decision problems. We show\nthat when $m\\geq 3$ the problems of deciding if a game has a Pareto optimal\nNash equilibrium or deciding if a game has a strong Nash equilibrium are\n$\\exists\\mathbb{R}$-complete. The latter result rectifies a previous claim of\nNP-completeness in the literature. We show that deciding if a game has an\nirrational valued Nash equilibrium is $\\exists\\mathbb{R}$-hard, answering a\nquestion of Bil\\`o and Mavronicolas, and address also the computational\ncomplexity of deciding if a game has a rational valued Nash equilibrium. These\nresults also hold for 3-player zero-sum games.\n  Our proof methodology applies to corresponding decision problems about\nsymmetric Nash equilibria in symmetric games as well, and in particular our new\nresults carry over to the symmetric setting. Finally we show that deciding\nwhether a symmetric $m$-player games has a non-symmetric Nash equilibrium is\n$\\exists\\mathbb{R}$-complete when $m\\geq 3$, answering a question of Garg,\nMehta, Vazirani, and Yazdanbod.",
+          "arxiv_id": "2001.05196v1"
+        },
+        {
+          "title": "Simultaneous Contests with Equal Sharing Allocation of Prizes: Computational Complexity and Price of Anarchy",
+          "year": "2022-07",
+          "abstract": "We study a general scenario of simultaneous contests that allocate prizes\nbased on equal sharing: each contest awards its prize to all players who\nsatisfy some contest-specific criterion, and the value of this prize to a\nwinner decreases as the number of winners increases. The players produce\noutputs for a set of activities, and the winning criteria of the contests are\nbased on these outputs. We consider two variations of the model: (i) players\nhave costs for producing outputs; (ii) players do not have costs but have\ngeneralized budget constraints. We observe that these games are exact potential\ngames and hence always have a pure-strategy Nash equilibrium. The price of\nanarchy is $2$ for the budget model, but can be unbounded for the cost model.\nOur main results are for the computational complexity of these games. We prove\nthat for general versions of the model exactly or approximately computing a\nbest response is NP-hard. For natural restricted versions where best response\nis easy to compute, we show that finding a pure-strategy Nash equilibrium is\nPLS-complete, and finding a mixed-strategy Nash equilibrium is\n(PPAD$\\cap$PLS)-complete. On the other hand, an approximate pure-strategy Nash\nequilibrium can be found in pseudo-polynomial time. These games are a strict\nbut natural subclass of explicit congestion games, but they still have the same\nequilibrium hardness results.",
+          "arxiv_id": "2207.08151v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Pushing Blocks via Checkable Gadgets: PSPACE-completeness of Push-1F and Block/Box Dude",
+          "year": "2024-12",
+          "abstract": "We prove PSPACE-completeness of the well-studied pushing-block puzzle\nPush-1F, a theoretical abstraction of many video games (introduced in 1999).\nThe proof also extends to Push-$k$ for any $k \\ge 2$. We also prove\nPSPACE-completeness of two versions of the recently studied block-moving puzzle\ngame with gravity, Block Dude - a video game dating back to 1994 - featuring\neither liftable blocks or pushable blocks. Two of our reductions are built on a\nnew framework for \"checkable\" gadgets, extending the\nmotion-planning-through-gadgets framework to support gadgets that can be\nmisused, provided those misuses can be detected later.",
+          "arxiv_id": "2412.20079v1"
+        },
+        {
+          "title": "The Legend of Zelda: The Complexity of Mechanics",
+          "year": "2022-03",
+          "abstract": "We analyze some of the many game mechanics available to Link in the classic\nLegend of Zelda series of video games. In each case, we prove that the\ngeneralized game with that mechanic is polynomial, NP-complete, NP-hard and in\nPSPACE, or PSPACE-complete. In the process we give an overview of many of the\nhardness proof techniques developed for video games over the past decade: the\nmotion-planning-through-gadgets framework, the planar doors framework, the\ndoors-and-buttons framework, the \"Nintendo\" platform game / SAT framework, and\nthe collectible tokens and toll roads / Hamiltonicity framework.",
+          "arxiv_id": "2203.17167v1"
+        },
+        {
+          "title": "PSPACE-Completeness of Reversible Deterministic Systems",
+          "year": "2022-07",
+          "abstract": "We prove PSPACE-completeness of several reversible, fully deterministic\nsystems. At the core, we develop a framework for such proofs (building on a\nresult of Tsukiji and Hagiwara and a framework for motion planning through\ngadgets), showing that any system that can implement three basic gadgets is\nPSPACE-complete. We then apply this framework to four different systems,\nshowing its versatility. First, we prove that Deterministic Constraint Logic is\nPSPACE-complete, fixing an error in a previous argument from 2008. Second, we\ngive a new PSPACE-hardness proof for the reversible `billiard ball' model of\nFredkin and Toffoli from 40 years ago, newly establishing hardness when only\ntwo balls move at once. Third, we prove PSPACE-completeness of zero-player\nmotion planning with any reversible deterministic interacting $k$-tunnel gadget\nand a `rotate clockwise' gadget (a zero-player analog of branching hallways).\nFourth, we give simpler proofs that zero-player motion planning is\nPSPACE-complete with just a single gadget, the 3-spinner. These results should\nin turn make it even easier to prove PSPACE-hardness of other reversible\ndeterministic systems.",
+          "arxiv_id": "2207.07229v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "Improved List Size for Folded Reed-Solomon Codes",
+          "year": "2024-10",
+          "abstract": "Folded Reed-Solomon (FRS) codes are variants of Reed-Solomon codes, known for\ntheir optimal list decoding radius. We show explicit FRS codes with rate $R$\nthat can be list decoded up to radius $1-R-\\epsilon$ with lists of size\n$\\mathcal{O}(1/ \\epsilon^2)$. This improves the best known list size among\nexplicit list decoding capacity achieving codes.\n  We also show a more general result that for any $k\\geq 1$, there are explicit\nFRS codes with rate $R$ and distance $1-R$ that can be list decoded arbitrarily\nclose to radius $\\frac{k}{k+1}(1-R)$ with lists of size $(k-1)^2+1$.\n  Our results are based on a new and simple combinatorial viewpoint of the\nintersections between Hamming balls and affine subspaces that recovers\npreviously known parameters. We then use folded Wronskian determinants to carry\nout an inductive proof that yields sharper bounds.",
+          "arxiv_id": "2410.09031v1"
+        },
+        {
+          "title": "Explicit Codes approaching Generalized Singleton Bound using Expanders",
+          "year": "2025-02",
+          "abstract": "We construct a new family of explicit codes that are list decodable to\ncapacity and achieve an optimal list size of $O(\\frac{1}{\\epsilon})$. In\ncontrast to existing explicit constructions of codes achieving list decoding\ncapacity, our arguments do not rely on algebraic structure but utilize simple\ncombinatorial properties of expander graphs.\n  Our construction is based on a celebrated distance amplification procedure\ndue to Alon, Edmonds, and Luby [FOCS'95], which transforms any high-rate code\ninto one with near-optimal rate-distance tradeoff. We generalize it to show\nthat the same procedure can be used to transform any high-rate code into one\nthat achieves list decoding capacity. Our proof can be interpreted as a\n\"local-to-global\" phenomenon for (a slight strengthening of) the generalized\nSingleton bound. Using this construction, for every $R, \\epsilon \\in (0,1)$ and\n$k \\in \\mathbb{N}^+$, we obtain an \\emph{explicit} family of codes $\\mathcal{C}\n\\subseteq \\Sigma^n$, with rate $R$ such that,\n  - They achieve the $\\epsilon$-relaxed generalized Singleton bound: for any $g\n\\in \\Sigma^n$ and any list $\\mathcal{H}$ of at most $k$ codewords, we have, \\[\n\\underset{h \\in \\mathcal{H}}{\\mathbb{E}} [\\Delta(g,h)] ~\\geq~\n\\frac{|\\mathcal{H}|-1}{|\\mathcal{H}|} \\cdot (1 - R - \\epsilon). \\]\n  - The alphabet size is a constant depending only on $\\epsilon$ and $k$.\n  - They can be list decoded up to radius $\\frac{k-1}{k}(1-R-\\epsilon)$, in\ntime $n^{O_{k,\\epsilon}(1)}$.\n  As a corollary of our result, we also obtain the first explicit construction\nof LDPC codes achieving list decoding capacity, and in fact arbitrarily close\nto the generalized Singleton bound.",
+          "arxiv_id": "2502.07308v1"
+        },
+        {
+          "title": "New Codes on High Dimensional Expanders",
+          "year": "2023-08",
+          "abstract": "We describe a new parameterized family of symmetric error-correcting codes\nwith low-density parity-check matrices (LDPC).\n  Our codes can be described in two seemingly different ways. First, in\nrelation to Reed-Muller codes: our codes are functions on a subset of\n$\\mathbb{F}^n$ whose restrictions to a prescribed set of affine lines has low\ndegree. Alternatively, they are Tanner codes on high dimensional expanders,\nwhere the coordinates of the codeword correspond to triangles of a\n$2$-dimensional expander, such that around every edge the local view forms a\nReed-Solomon codeword.\n  For some range of parameters our codes are provably locally testable, and\ntheir dimension is some fixed power of the block length. For another range of\nparameters our codes have distance and dimension that are both linear in the\nblock length, but we do not know if they are locally testable. The codes also\nhave the multiplication property: the coordinate-wise product of two codewords\nis a codeword in a related code.\n  The definition of the codes relies on the construction of a specific family\nof simplicial complexes which is a slight variant on the coset complexes of\nKaufman and Oppenheim. We show a novel way to embed the triangles of these\ncomplexes into $\\mathbb{F}^n$, with the property that links of edges embed as\naffine lines in $\\mathbb{F}^n$.\n  We rely on this embedding to lower bound the rate of these codes in a way\nthat avoids constraint-counting and thereby achieves non-trivial rate even when\nthe local codes themselves have arbitrarily small rate, and in particular below\n$1/2$.",
+          "arxiv_id": "2308.15563v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:45:53Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

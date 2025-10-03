@@ -1,0 +1,1166 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_mirror_category_Fukaya_mirror symmetry",
+        "keywords": [
+          [
+            "mirror",
+            0.03549782126675497
+          ],
+          [
+            "category",
+            0.028594666558328066
+          ],
+          [
+            "Fukaya",
+            0.025733141848730802
+          ],
+          [
+            "mirror symmetry",
+            0.02135662899577713
+          ],
+          [
+            "invariants",
+            0.021308046596196055
+          ],
+          [
+            "symmetry",
+            0.021048637761055075
+          ],
+          [
+            "theory",
+            0.018720784906187893
+          ],
+          [
+            "categories",
+            0.016298045947493154
+          ],
+          [
+            "Witten",
+            0.01615773023083662
+          ],
+          [
+            "Gromov",
+            0.014423376933789011
+          ]
+        ],
+        "count": 446
+      },
+      "1": {
+        "name": "1_Poisson_Lie_symplectic_structures",
+        "keywords": [
+          [
+            "Poisson",
+            0.048670580727568406
+          ],
+          [
+            "Lie",
+            0.03618980914583809
+          ],
+          [
+            "symplectic",
+            0.030860922024839046
+          ],
+          [
+            "structures",
+            0.024289308728739824
+          ],
+          [
+            "structure",
+            0.0193421079884313
+          ],
+          [
+            "manifolds",
+            0.018761309379440056
+          ],
+          [
+            "quantization",
+            0.018397804345856222
+          ],
+          [
+            "algebras",
+            0.017458065937756385
+          ],
+          [
+            "group",
+            0.01707041379365336
+          ],
+          [
+            "algebra",
+            0.01680031479157756
+          ]
+        ],
+        "count": 429
+      },
+      "2": {
+        "name": "2_symplectic_Hofer_Hamiltonian_convex",
+        "keywords": [
+          [
+            "symplectic",
+            0.03847439093949957
+          ],
+          [
+            "Hofer",
+            0.026560074889612796
+          ],
+          [
+            "Hamiltonian",
+            0.02654432991167276
+          ],
+          [
+            "convex",
+            0.023936587040203038
+          ],
+          [
+            "diffeomorphisms",
+            0.02284762678561821
+          ],
+          [
+            "Lagrangian",
+            0.021697247170449147
+          ],
+          [
+            "capacities",
+            0.021670494255962697
+          ],
+          [
+            "domains",
+            0.021497130054086207
+          ],
+          [
+            "area",
+            0.020455024970377184
+          ],
+          [
+            "spectral",
+            0.019447476187891603
+          ]
+        ],
+        "count": 220
+      },
+      "3": {
+        "name": "3_systems_Hamiltonian_problem_symplectic",
+        "keywords": [
+          [
+            "systems",
+            0.04688125228706011
+          ],
+          [
+            "Hamiltonian",
+            0.03257287069279431
+          ],
+          [
+            "problem",
+            0.02631453351407684
+          ],
+          [
+            "symplectic",
+            0.024371922366430352
+          ],
+          [
+            "dynamics",
+            0.023953153247865587
+          ],
+          [
+            "energy",
+            0.022673420929885297
+          ],
+          [
+            "space",
+            0.022144124200766314
+          ],
+          [
+            "geometric",
+            0.02157895257682279
+          ],
+          [
+            "orbits",
+            0.02047444203859877
+          ],
+          [
+            "reduction",
+            0.01804054757893677
+          ]
+        ],
+        "count": 175
+      },
+      "4": {
+        "name": "4_contact_manifolds_fillings_contact structures",
+        "keywords": [
+          [
+            "contact",
+            0.11093086042343485
+          ],
+          [
+            "manifolds",
+            0.032802612931020984
+          ],
+          [
+            "fillings",
+            0.031044619030126553
+          ],
+          [
+            "contact structures",
+            0.029614626342411236
+          ],
+          [
+            "contact manifolds",
+            0.02760593931623088
+          ],
+          [
+            "tight",
+            0.0260303801529777
+          ],
+          [
+            "structures",
+            0.024362604895327458
+          ],
+          [
+            "contact structure",
+            0.022505527903201445
+          ],
+          [
+            "Legendrian",
+            0.021195414056773155
+          ],
+          [
+            "overtwisted",
+            0.020863617460155325
+          ]
+        ],
+        "count": 154
+      },
+      "5": {
+        "name": "5_Legendrian_Lagrangian_fillings_links",
+        "keywords": [
+          [
+            "Legendrian",
+            0.13060240170148787
+          ],
+          [
+            "Lagrangian",
+            0.05311283376761558
+          ],
+          [
+            "fillings",
+            0.03970461241696825
+          ],
+          [
+            "links",
+            0.03808044637961837
+          ],
+          [
+            "knots",
+            0.03805655707787266
+          ],
+          [
+            "Lagrangian fillings",
+            0.03594289545241573
+          ],
+          [
+            "knot",
+            0.02808978150903235
+          ],
+          [
+            "exact",
+            0.02605992699393999
+          ],
+          [
+            "Legendrian links",
+            0.025417583187099666
+          ],
+          [
+            "cluster",
+            0.024269179602343094
+          ]
+        ],
+        "count": 102
+      },
+      "6": {
+        "name": "6_Reeb_contact_orbits_vector",
+        "keywords": [
+          [
+            "Reeb",
+            0.09744067087435866
+          ],
+          [
+            "contact",
+            0.07305061796652929
+          ],
+          [
+            "orbits",
+            0.04888682288139108
+          ],
+          [
+            "vector",
+            0.030887489479480897
+          ],
+          [
+            "closed",
+            0.02909982962593625
+          ],
+          [
+            "manifolds",
+            0.02725646709188332
+          ],
+          [
+            "orbit",
+            0.027247315537440954
+          ],
+          [
+            "vector field",
+            0.026248702601598152
+          ],
+          [
+            "flows",
+            0.026159111817735083
+          ],
+          [
+            "periodic",
+            0.025860517398864677
+          ]
+        ],
+        "count": 67
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.43009878379185673,
+        -0.27187750031884006,
+        -0.6469406429569533,
+        -0.6193232344966546,
+        -0.632921551890111,
+        -0.7037120726876454
+      ],
+      [
+        -0.43009878379185673,
+        1.0,
+        -0.22733018888576423,
+        -0.5850007652738262,
+        -0.5981771158951068,
+        -0.6679055380654139,
+        -0.6887840513389939
+      ],
+      [
+        -0.27187750031884006,
+        -0.22733018888576423,
+        1.0,
+        -0.535214568224905,
+        -0.5560614821082944,
+        -0.6186313464766326,
+        -0.6470782440612974
+      ],
+      [
+        -0.6469406429569533,
+        -0.5850007652738262,
+        -0.535214568224905,
+        1.0,
+        -0.6437924845213636,
+        -0.6746535089701651,
+        -0.643040804353419
+      ],
+      [
+        -0.6193232344966546,
+        -0.5981771158951068,
+        -0.5560614821082944,
+        -0.6437924845213636,
+        1.0,
+        -0.5141961010299769,
+        -0.24241040637787742
+      ],
+      [
+        -0.632921551890111,
+        -0.6679055380654139,
+        -0.6186313464766326,
+        -0.6746535089701651,
+        -0.5141961010299769,
+        1.0,
+        -0.6686900228810013
+      ],
+      [
+        -0.7037120726876454,
+        -0.6887840513389939,
+        -0.6470782440612974,
+        -0.643040804353419,
+        -0.24241040637787742,
+        -0.6686900228810013,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        12,
+        8,
+        2,
+        3,
+        7,
+        2,
+        5
+      ],
+      "2020-02": [
+        18,
+        4,
+        4,
+        4,
+        7,
+        2,
+        1
+      ],
+      "2020-03": [
+        21,
+        6,
+        7,
+        2,
+        6,
+        0,
+        3
+      ],
+      "2020-04": [
+        19,
+        9,
+        4,
+        2,
+        6,
+        3,
+        3
+      ],
+      "2020-05": [
+        16,
+        5,
+        7,
+        0,
+        2,
+        3,
+        2
+      ],
+      "2020-06": [
+        15,
+        2,
+        4,
+        5,
+        12,
+        3,
+        3
+      ],
+      "2020-07": [
+        13,
+        3,
+        3,
+        0,
+        4,
+        2,
+        0
+      ],
+      "2020-08": [
+        19,
+        6,
+        6,
+        0,
+        3,
+        3,
+        2
+      ],
+      "2020-09": [
+        13,
+        4,
+        6,
+        4,
+        4,
+        5,
+        1
+      ],
+      "2020-10": [
+        17,
+        8,
+        14,
+        1,
+        6,
+        2,
+        3
+      ],
+      "2020-11": [
+        14,
+        7,
+        5,
+        2,
+        9,
+        0,
+        4
+      ],
+      "2020-12": [
+        12,
+        6,
+        5,
+        4,
+        4,
+        8,
+        3
+      ],
+      "2021-01": [
+        8,
+        3,
+        6,
+        2,
+        2,
+        5,
+        0
+      ],
+      "2021-02": [
+        13,
+        8,
+        15,
+        2,
+        3,
+        2,
+        8
+      ],
+      "2021-03": [
+        12,
+        8,
+        2,
+        1,
+        6,
+        3,
+        3
+      ],
+      "2021-04": [
+        12,
+        6,
+        2,
+        4,
+        11,
+        3,
+        2
+      ],
+      "2021-05": [
+        10,
+        7,
+        6,
+        2,
+        3,
+        5,
+        2
+      ],
+      "2021-06": [
+        8,
+        12,
+        8,
+        2,
+        3,
+        1,
+        3
+      ],
+      "2021-07": [
+        15,
+        4,
+        2,
+        4,
+        3,
+        2,
+        2
+      ],
+      "2021-08": [
+        15,
+        7,
+        4,
+        2,
+        5,
+        3,
+        1
+      ],
+      "2021-09": [
+        15,
+        9,
+        8,
+        3,
+        4,
+        3,
+        2
+      ],
+      "2021-10": [
+        20,
+        6,
+        9,
+        3,
+        7,
+        1,
+        2
+      ],
+      "2021-11": [
+        15,
+        2,
+        6,
+        2,
+        6,
+        3,
+        1
+      ],
+      "2021-12": [
+        16,
+        6,
+        7,
+        6,
+        2,
+        5,
+        0
+      ],
+      "2022-01": [
+        9,
+        1,
+        8,
+        1,
+        3,
+        4,
+        3
+      ],
+      "2022-02": [
+        14,
+        5,
+        5,
+        5,
+        6,
+        1,
+        2
+      ],
+      "2022-03": [
+        10,
+        6,
+        8,
+        5,
+        4,
+        1,
+        0
+      ],
+      "2022-04": [
+        8,
+        3,
+        5,
+        1,
+        4,
+        2,
+        6
+      ],
+      "2022-05": [
+        12,
+        7,
+        9,
+        7,
+        12,
+        1,
+        3
+      ],
+      "2022-06": [
+        17,
+        8,
+        6,
+        3,
+        7,
+        1,
+        5
+      ],
+      "2022-07": [
+        8,
+        10,
+        6,
+        2,
+        8,
+        5,
+        1
+      ],
+      "2022-08": [
+        13,
+        3,
+        4,
+        4,
+        4,
+        2,
+        1
+      ],
+      "2022-09": [
+        15,
+        7,
+        2,
+        5,
+        6,
+        2,
+        1
+      ],
+      "2022-10": [
+        14,
+        8,
+        8,
+        3,
+        2,
+        4,
+        0
+      ],
+      "2022-11": [
+        20,
+        9,
+        13,
+        2,
+        8,
+        3,
+        1
+      ],
+      "2022-12": [
+        19,
+        8,
+        9,
+        5,
+        6,
+        3,
+        1
+      ],
+      "2023-01": [
+        10,
+        3,
+        6,
+        7,
+        4,
+        3,
+        1
+      ],
+      "2023-02": [
+        12,
+        8,
+        6,
+        4,
+        5,
+        4,
+        2
+      ],
+      "2023-03": [
+        9,
+        7,
+        8,
+        5,
+        6,
+        4,
+        1
+      ],
+      "2023-04": [
+        14,
+        6,
+        6,
+        3,
+        3,
+        4,
+        3
+      ],
+      "2023-05": [
+        17,
+        6,
+        3,
+        1,
+        4,
+        3,
+        6
+      ],
+      "2023-06": [
+        10,
+        3,
+        6,
+        3,
+        3,
+        2,
+        3
+      ],
+      "2023-07": [
+        20,
+        4,
+        9,
+        7,
+        8,
+        3,
+        3
+      ],
+      "2023-08": [
+        16,
+        5,
+        7,
+        3,
+        4,
+        9,
+        3
+      ],
+      "2023-09": [
+        21,
+        7,
+        5,
+        6,
+        3,
+        3,
+        3
+      ],
+      "2023-10": [
+        16,
+        6,
+        5,
+        4,
+        5,
+        4,
+        3
+      ],
+      "2023-11": [
+        21,
+        3,
+        8,
+        3,
+        7,
+        5,
+        2
+      ],
+      "2023-12": [
+        22,
+        8,
+        7,
+        4,
+        4,
+        3,
+        0
+      ],
+      "2024-01": [
+        17,
+        6,
+        6,
+        5,
+        6,
+        2,
+        3
+      ],
+      "2024-02": [
+        14,
+        3,
+        6,
+        3,
+        2,
+        2,
+        5
+      ],
+      "2024-03": [
+        11,
+        8,
+        8,
+        0,
+        4,
+        3,
+        2
+      ],
+      "2024-04": [
+        15,
+        5,
+        12,
+        3,
+        9,
+        1,
+        2
+      ],
+      "2024-05": [
+        22,
+        8,
+        8,
+        5,
+        5,
+        3,
+        1
+      ],
+      "2024-06": [
+        19,
+        3,
+        6,
+        5,
+        3,
+        8,
+        2
+      ],
+      "2024-07": [
+        20,
+        4,
+        3,
+        2,
+        4,
+        2,
+        0
+      ],
+      "2024-08": [
+        15,
+        2,
+        4,
+        3,
+        4,
+        7,
+        2
+      ],
+      "2024-09": [
+        19,
+        4,
+        5,
+        5,
+        2,
+        6,
+        4
+      ],
+      "2024-10": [
+        20,
+        12,
+        8,
+        8,
+        6,
+        5,
+        5
+      ],
+      "2024-11": [
+        15,
+        12,
+        7,
+        4,
+        6,
+        3,
+        1
+      ],
+      "2024-12": [
+        27,
+        2,
+        10,
+        8,
+        7,
+        5,
+        2
+      ],
+      "2025-01": [
+        14,
+        6,
+        4,
+        4,
+        8,
+        0,
+        3
+      ],
+      "2025-02": [
+        14,
+        5,
+        3,
+        2,
+        7,
+        0,
+        0
+      ],
+      "2025-03": [
+        19,
+        7,
+        8,
+        8,
+        7,
+        1,
+        5
+      ],
+      "2025-04": [
+        14,
+        4,
+        7,
+        4,
+        10,
+        2,
+        2
+      ],
+      "2025-05": [
+        26,
+        4,
+        7,
+        3,
+        4,
+        4,
+        1
+      ],
+      "2025-06": [
+        13,
+        7,
+        3,
+        2,
+        4,
+        1,
+        3
+      ],
+      "2025-07": [
+        18,
+        14,
+        12,
+        6,
+        4,
+        6,
+        3
+      ],
+      "2025-08": [
+        12,
+        2,
+        9,
+        0,
+        4,
+        2,
+        0
+      ],
+      "2025-09": [
+        8,
+        4,
+        5,
+        0,
+        2,
+        4,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Homological mirror symmetry for hypersurfaces in $(\\mathbb{C}^*)^n$",
+          "year": "2021-11",
+          "abstract": "We prove a homological mirror symmetry result for maximally degenerating\nfamilies of hypersurfaces in $(\\mathbb{C}^*)^n$ (B-model) and their mirror\ntoric Landau-Ginzburg A-models. The main technical ingredient of our\nconstruction is a \"fiberwise wrapped\" version of the Fukaya category of a toric\nLandau-Ginzburg model. With the definition in hand, we construct a fibered\nadmissible Lagrangian submanifold whose fiberwise wrapped Floer cohomology is\nisomorphic to the ring of regular functions of the hypersurface. It follows\nthat the derived category of coherent sheaves of the hypersurface quasi-embeds\ninto the fiberwise wrapped Fukaya category of the mirror. We also discuss an\nextension to complete intersections.",
+          "arxiv_id": "2111.06543v2"
+        },
+        {
+          "title": "Homological mirror symmetry of $\\mathbb{C}P^n$ and their products via Morse homotopy",
+          "year": "2020-08",
+          "abstract": "We propose a way of understanding homological mirror symmetry when a complex\nmanifold is a smooth compact toric manifold. So far, in many example, the\nderived category $D^b(coh(X))$ of coherent sheaves on a toric manifold $X$ is\ncompared with the Fukaya-Seidel category of the Milnor fiber of the\ncorresponding Landau-Ginzburg potential. We instead consider the dual torus\nfibration $\\pi:M \\to B$ of the complement of the toric divisors in $X$, where\n$\\bar{B}$ is the dual polytope of the toric manifold $X$. A natural formulation\nof homological mirror symmetry in this set-up is to define $Fuk(\\bar{M})$ a\nvariant of the Fukaya category and show the equivalence $D^b(coh(X)) \\simeq\nD^b(Fuk(\\bar{M}))$. As an intermediate step, we construct the category $Mo(P)$\nof weighted Morse homotopy on $P:=\\bar{B}$ as a natural generalization of the\nweighted Fukaya-Oh category proposed by Kontsevich-Soibelman. We then show a\nfull subcategory $Mo_{\\mathcal{E}}(P)$ of $Mo(P)$ generates $D^b(coh(X))$ for\nthe cases $X$ is a complex projective space and their products.",
+          "arxiv_id": "2008.13462v2"
+        },
+        {
+          "title": "Noncommutative homological mirror symmetry of elliptic curves",
+          "year": "2020-04",
+          "abstract": "We prove an equivalence of two A-infinity functors, via Orlov's\nLandau-Ginzburg/Calabi-Yau correspondence. One is the Polishchuk-Zaslow's\nmirror symmetry functor of elliptic curves, and the other is a localized mirror\nfunctor from the Fukaya category of the 2-torus to a category of noncommutative\nmatrix factorizations. As a corollary we prove that the noncommutative mirror\nfunctor realizes homological mirror symmetry for any translation parameter $t$.",
+          "arxiv_id": "2004.09145v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Homotopy Poisson algebras, Maurer-Cartan elements and Dirac structures of CLWX 2-algebroids",
+          "year": "2020-01",
+          "abstract": "In this paper, we construct a homotopy Poisson algebra of degree 3 associated\nto a split Lie 2-algebroid, by which we give a new approach to characterize a\nsplit Lie 2-bialgebroid. We develop the differential calculus associated to a\nsplit Lie 2-algebroid and establish the Manin triple theory for split Lie\n2-algebroids. More precisely, we give the notion of a strict Dirac structure\nand define a Manin triple for split Lie 2-algebroids to be a CLWX 2-algebroid\nwith two transversal strict Dirac structures. We show that there is a\none-to-one correspondence between Manin triples for split Lie 2-algebroids and\nsplit Lie 2-bialgebroids. We further introduce the notion of a weak Dirac\nstructure of a CLWX 2-algebroid and show that the graph of a Maurer-Cartan\nelement of the homotopy Poisson algebra of degree 3 associated to a split Lie\n2-bialgebroid is a weak Dirac structure. Various examples including the string\nLie 2-algebra, split Lie 2-algebroids constructed from integrable distributions\nand left-symmetric algebroids are given.",
+          "arxiv_id": "2001.01355v1"
+        },
+        {
+          "title": "Integrable systems from Poisson reductions of generalized Hamiltonian torus actions",
+          "year": "2025-07",
+          "abstract": "We develop a set of sufficient conditions for guaranteeing that an integrable\nsystem with a symmetry group $K$ on a manifold $M$ descends to an integrable\nsystem on a dense open subset of the quotient Poisson space $M/K$. The higher\ndimensional phase space $M$ carries a bivector $P_M$ yielding a bracket on\n$C^\\infty(M)$ such that $C^\\infty(M)^K$ is a Poisson algebra. The unreduced\nsystem on $M$ is supposed to possess `action variables' that generate a proper,\neffective action of a group of the form $\\mathrm{U}(1)^{\\ell_1} \\times\n\\mathbb{R}^{\\ell_2}$ and descend to action variables of the reduced system. In\nview of the form of the group and since $P_M$ could be a quasi-Poisson\nbivector, we say that we work with a generalized Hamiltonian torus action. The\nreduced systems are in general superintegrable owing to the large set of\ninvariants of the proper Hamiltonian action of $\\mathrm{U}(1)^{\\ell_1} \\times\n\\mathbb{R}^{\\ell_2}$. We present several examples and apply our construction\nfor solving open problems regarding the integrability of systems obtained\npreviously by reductions of master systems on doubles of compact Lie groups:\nthe cotangent bundle, the Heisenberg double and the quasi-Poisson double.\nFurthermore, we offer numerous applications to integrable systems living on\nmoduli spaces of flat connections, using the quasi-Poisson approach.",
+          "arxiv_id": "2507.12051v1"
+        },
+        {
+          "title": "Group valued moment maps for even and odd simple $G$-modules",
+          "year": "2025-07",
+          "abstract": "Let $G$ be a simple Lie group, and $\\mathfrak{g}$ its Lie algebra. It is well\nknown that a $G$-module $V$ carrying an invariant symplectic form or an\ninvariant scalar product gives rise to a Hamiltonian Poisson space with a\nquadratic moment maps $\\mu$. We show that under condition ${\\rm\nHom}_{\\mathfrak{g}}(\\wedge^3 V, S^3V)=0$ this space can be viewed as a\nquasi-Poisson space with the same bivector, and with the group valued moment\nmap $\\Phi = \\exp \\circ \\mu$. Furthermore, we show that by modifying the\nbivector by the standard $r$-matrix for $\\mathfrak{g}$ one obtains a space with\na Poisson action of the Poisson-Lie group $G$, and with the moment map in the\nsense of Lu taking values in the dual Poisson-Lie group $G^\\ast$.",
+          "arxiv_id": "2507.19434v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Equivariant symplectic homology, linearized contact homology and the Lagrangian capacity",
+          "year": "2022-05",
+          "abstract": "We establish computational results concerning the Lagrangian capacity from\n\"Cieliebak and Mohnke - Punctured holomorphic curves and Lagrangian\nembeddings\". More precisely, we show that the Lagrangian capacity of a\n4-dimensional convex toric domain is equal to its diagonal. The proof involves\ncomparisons between the Lagrangian capacity, the McDuff-Siegel capacities from\n\"McDuff and Siegel - Symplectic capacities, unperturbed curves, and convex\ntoric domains\", and the Gutt-Hutchings capacities from \"Gutt and Hutchings -\nSymplectic capacities from positive S1-equivariant symplectic homology\".\nWorking under the assumption that there is a suitable virtual perturbation\nscheme which defines the curve counts of linearized contact homology, we extend\nthe previous result to toric domains which are convex or concave and of any\ndimension. For this, we use the higher symplectic capacities from \"Siegel -\nHigher symplectic capacities\". The key step is showing that moduli spaces of\nasymptotically cylindrical holomorphic curves in ellipsoids are transversely\ncut out.",
+          "arxiv_id": "2205.13381v1"
+        },
+        {
+          "title": "Characterizing symplectic capacities on ellipsoids",
+          "year": "2023-12",
+          "abstract": "It is a long-standing conjecture that all symplectic capacities which are\nequal to the Gromov width for ellipsoids coincide on a class of convex domains\nin $\\mathbb{R}^{2n}$. It is known that they coincide for monotone toric domains\nin all dimensions. In this paper, we study whether requiring a capacity to be\nequal to the $k^{th}$ Ekeland-Hofer capacity for all ellipsoids can\ncharacterize it on a class of domains. We prove that for $k=n=2$, this holds\nfor convex toric domains, but not for all monotone toric domains. We also prove\nthat for $k=n\\ge 3$, this does not hold even for convex toric domains.",
+          "arxiv_id": "2312.06476v2"
+        },
+        {
+          "title": "Examples around the strong Viterbo conjecture",
+          "year": "2020-03",
+          "abstract": "A strong version of a conjecture of Viterbo asserts that all normalized\nsymplectic capacities agree on convex domains. We review known results showing\nthat certain specific normalized symplectic capacities agree on convex domains.\nWe also review why all normalized symplectic capacities agree on\n$S^1$-invariant convex domains. We introduce a new class of examples called\n\"monotone toric domains\", which are not necessarily convex, and which include\nall dynamically convex toric domains in four dimensions. We prove that for\nmonotone toric domains in four dimensions, all normalized symplectic capacities\nagree. For monotone toric domains in arbitrary dimension, we prove that the\nGromov width agrees with the first equivariant capacity. We also study a family\nof examples of non-monotone toric domains and determine when the conclusion of\nthe strong Viterbo conjecture holds for these examples. Along the way we\ncompute the cylindrical capacity of a large class of \"weakly convex toric\ndomains\" in four dimensions.",
+          "arxiv_id": "2003.10854v3"
+        }
+      ],
+      "3": [
+        {
+          "title": "Symplectic methods in the numerical search of orbits in real-life planetary systems",
+          "year": "2022-06",
+          "abstract": "The intention of this article is to illustrate the use of methods from\nsymplectic geometry for practical purposes. Our intended audience is scientists\ninterested in orbits of Hamiltonian systems (e.g. the three-body problem). The\nmain directions pursued in this article are: (1) given two periodic orbits,\ndecide when they can be connected by a regular family; (2) use numerical\ninvariants from Floer theory which help predict the existence of orbits in the\npresence of a bifurcation; (3) attach a sign +/- to each elliptic or hyperbolic\nFloquet multiplier of a closed symmetric orbit, generalizing the classical\nKrein--Moser sign to also include the hyperbolic case; and (4) do all of the\nabove in a visual, easily implementable and resource-efficient way. The\nmathematical framework is provided by the first and third authors, where the\n``Broucke stability diagram'' was rediscovered, but further refined with the\nabove signs, and algebraically reformulated in terms of GIT quotients of the\nsymplectic group. The advantage of the above framework is that it applies to\nthe study of closed orbits of an arbitrary Hamiltonian system. Moreover, in the\ncase where the system admits symmetries in the form of ``reflections'', i.e.\nanti-symplectic involutions, which is the case for many systems of interest,\nthe information provided for orbits which are symmetric is richer, and one may\ndistinguish more symmetric orbits. This is the case for several well-known\nfamilies in the space mission design industry, such as the Halo orbits, which\nare ubiquitous in real-life space missions. We will carry out numerical work\nbased on the cell-mapping method, for the Jupiter-Europa and the\nSaturn-Enceladus systems. These are currently systems of interest, falling in\nthe agenda of space agencies like NASA, as these icy moons are considered\ncandidates for harbouring conditions suitable for extraterrestrial life.",
+          "arxiv_id": "2206.00627v2"
+        },
+        {
+          "title": "Invariant manifolds in Hamiltonian systems with applications to the Earth-Moon system",
+          "year": "2021-05",
+          "abstract": "Invariant manifolds are the skeleton of the chaotic dynamics in Hamiltonian\nsystems. In Celestial Mechanics, for instance, these geometrical structures are\napplied to a multitude of physical and practical problems, such as to the\ndescription of the natural transport of asteroids and to the construction of\ntrajectories for artificial satellites. In this work, we use efficient\nnumerical methods to visually illustrate the influence of invariant manifolds,\nwhich are associated with specific equilibrium points and unstable periodic\norbits, in the dynamical properties of Hamiltonian systems. First, we\ninvestigate an area-preserving version of the two-dimensional H\\'enon map.\nLater, we focus our investigation on the motion of a body with negligible mass\nthat moves due to the gravitational attraction of both the Earth and the Moon.\nAs a model, we adopt the planar circular restricted three-body problem, a\nnear-integrable Hamiltonian system with two degrees of freedom. For both\nsystems, we show how the selected invariant manifolds and the structure of the\nphase space evolve alongside each other. Our results contribute to the\nunderstanding of the connection between dynamics and geometry in Hamiltonian\nsystems.",
+          "arxiv_id": "2105.07016v1"
+        },
+        {
+          "title": "The geometry of Rayleigh dissipation",
+          "year": "2021-07",
+          "abstract": "Geometric mechanics is a branch of mathematical physics that studies\nclassical mechanics of particles and fields from the point of view of geometry.\nIn a geometric language, symmetries can be expressed in a natural manner as\nvector fields that generate the corresponding symmetry group. Moreover, with\nthe geometric machinery, the phase space of a mechanical system with symmetries\ncan be reduced to a space with less dimensions. As it is well-known,\nnon-conservative forces cannot be written as the gradient of a potential, so\nthey cannot be absorbed in the Lagrangian or Hamiltonian. The description of a\nmechanical system subject to a non-conservative force requires an external\nforce together with the Lagrangian or Hamiltonian function. In addition,\nexternal forces emerge for the description of certain systems with\nnon-holonomic constraints.\n  In this master's thesis, autonomous Hamiltonian and Lagrangian systems are\nstudied in the framework of symplectic geometry. After introducing the\ngeometric tools that will be employed, several results regarding symmetries and\nconstants of the motion are reviewed. The method of symplectic reduction for\nsystems with symmetry is also presented. In a second part, non-conservative\nsystems are presented in a geometric language. A Noether's theorem for\nLagrangian systems subject to external forces is obtained. Other results\nregarding symmetries and constants of the motion are derived as well.\nFurthermore, a theory for the reduction of forced Lagrangian systems invariant\nunder the action of a Lie group is presented. These results are particularized\nfor the so-called Rayleigh dissipation, that is, external forces that can be\nwritten as the derivative of a \"potential\" with respect to the velocities.",
+          "arxiv_id": "2107.03780v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "The contact Banach-Mazur distance and large scale geometry of overtwisted contact forms",
+          "year": "2020-09",
+          "abstract": "In the symplectic realm, a distance between open starshaped domains in\nLiouville manifolds was recently defined. This is the symplectic Banach-Mazur\ndistance. It was proposed by Ostrover and Polterovich and developed by\nOstrover, Polterovich, Usher, Gutt, Zhang and Stojisavljevi\\'c. The natural\nquestion is, can an analogous distance in the contact realm be defined? One\nidea is to define the distance on contact hypersurfaces of Liouville manifolds\nand another one on contact forms supporting isomorphic contact structures.\nRosen and Zhang recently defined such a distance working with manifolds that\nare prequantizations of Liouville manifolds. They also considered a distance on\ncontact forms supporting the same contact structure on a contact manifold $Y$.\nThis allowed them to view the space of contact forms supporting isomorphic\ncontact structures on a manifold $Y$ as a pseudometric space, study its\nproperties, and derive interesting results. In this work, we do something\nsimilar, yet the distance we define is less restrictive. Moreover, viewing\ncontact homology algebra as a persistence module, focusing purely on the\novertwisted case and exploiting the fact that the contact homology of\novertwisted contact structures vanishes, allows us to bi-Lipschitz embed part\nof the 2-dimensional Euclidean space into the space of overtwisted contact\nforms supporting a given contact structure on a smooth closed manifold $Y$.",
+          "arxiv_id": "2009.07369v1"
+        },
+        {
+          "title": "Contact surgery numbers of Sigma(2,3,11) and L(4m+3,4)",
+          "year": "2024-04",
+          "abstract": "We classify all contact structures with contact surgery number one on the\nBrieskorn sphere Sigma(2,3,11) with both orientations. We conclude that there\nexist infinitely many non-isotopic contact structures on each of the above\nmanifolds which cannot be obtained by a single rational contact surgery from\nthe standard tight contact 3-sphere. We further prove similar results for some\nlens spaces: We classify all contact structures with contact surgery number one\non lens spaces of the form L(4m+3,4). Along the way, we present an algorithm\nand a formula for computing the Euler class of a contact structure from a\ngeneral rational contact surgery description and classify which rational\nsurgeries along Legendrian unknots are tight and which ones are overtwisted.",
+          "arxiv_id": "2404.18177v1"
+        },
+        {
+          "title": "Contact surgery numbers",
+          "year": "2022-01",
+          "abstract": "It is known that any contact 3-manifold can be obtained by rational contact\nDehn surgery along a Legendrian link L in the standard tight contact 3-sphere.\nWe define and study various versions of contact surgery numbers, the minimal\nnumber of components of a surgery link L describing a given contact 3-manifold\nunder consideration. In the first part of the paper, we relate contact surgery\nnumbers to other invariants in terms of various inequalities. In particular, we\nshow that the contact surgery number of a contact manifold is bounded from\nabove by the topological surgery number of the underlying topological manifold\nplus three. In the second part, we compute contact surgery numbers of all\ncontact structures on the 3-sphere. Moreover, we completely classify the\ncontact structures with contact surgery number one on $S^1\\times S^2$, the\nPoincar\\'e homology sphere, and the Brieskorn sphere $\\Sigma(2,3,7)$. We\nconclude that there exist infinitely many non-isotopic contact structures on\neach of the above manifolds which cannot be obtained by a single rational\ncontact surgery from the standard tight contact $3$-sphere. We further obtain\nresults for the 3-torus and lens spaces. As one ingredient of the proofs of the\nabove results we generalize computations of the homotopical invariants of\ncontact structures to contact surgeries with more general surgery coefficients\nwhich might be of independent interest.",
+          "arxiv_id": "2201.00157v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Legendrian loops and cluster modular groups",
+          "year": "2024-03",
+          "abstract": "This work studies Legendrian loop actions on exact Lagrangian fillings of\nLegendrian links in $(\\R^3, \\xi_{\\st})$. By identifying the induced action of\nLegendrian loops as generators of cluster modular groups, we establish the\nexistence of faithful group actions on the exact Lagrangian fillings of several\nfamilies of Legendrian positive braid closures, including all positive torus\nlinks. In addition, we leverage a Nielsen-Thurston-like classification of\ncluster automorphisms to provide new combinatorial and algebraic tools for\nproving that a Legendrian loop action has infinite order.",
+          "arxiv_id": "2403.12951v1"
+        },
+        {
+          "title": "Augmentations, Fillings, and Clusters",
+          "year": "2020-08",
+          "abstract": "We investigate positive braid Legendrian links via a Floer-theoretic approach\nand prove that their augmentation varieties are cluster K2 (aka. A-) varieties.\nUsing the exact Lagrangian cobordisms of Legendrian links in [EHK16], we prove\nthat a large family of exact Lagrangian fillings of positive braid Legendrian\nlinks correspond to cluster seeds of their augmentation varieties. We solve the\ninfinite-filling problem for positive braid Legendrian links; i.e., whenever a\npositive braid Legendrian link is not of type ADE, it admits infinitely many\nexact Lagrangian fillings up to Hamiltonian isotopy.",
+          "arxiv_id": "2008.10793v2"
+        },
+        {
+          "title": "Braid Loops with infinite monodromy on the Legendrian contact DGA",
+          "year": "2021-01",
+          "abstract": "We present the first examples of elements in the fundamental group of the\nspace of Legendrian links in the standard contact 3-sphere whose action on the\nLegendrian contact DGA is of infinite order. This allows us to construct the\nfirst families of Legendrian links that can be shown to admit infinitely many\nLagrangian fillings by Floer-theoretic techniques. These families include the\nfirst known Legendrian links with infinitely many fillings that are not rainbow\nclosures of positive braids, and the smallest Legendrian link with infinitely\nmany fillings known to date. We discuss how to use our examples to construct\nother links with infinitely many fillings, in particular giving the first\nFloer-theoretic proof that Legendrian (n,m) torus links have infinitely many\nLagrangian fillings, if n is greater than 3 and m greater than 6, or\n(n,m)=(4,4),(4,5). In addition, for any given higher genus, we construct a\nWeinstein 4-manifold homotopic to the 2-sphere whose wrapped Fukaya category\ncan distinguish infinitely many exact closed Lagrangian surfaces of that genus.\nA key technical ingredient behind our results is a new combinatorial formula\nfor decomposable cobordism maps between Legendrian contact DGAs with integer\n(group ring) coefficients.",
+          "arxiv_id": "2101.02318v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "The singular Weinstein conjecture",
+          "year": "2020-05",
+          "abstract": "In this article, we investigate Reeb dynamics on $b^m$-contact manifolds,\npreviously introduced in [MiO], which are contact away from a hypersurface $Z$\nbut satisfy certain transversality conditions on $Z$. The study of these\ncontact structures is motivated by that of contact manifolds with boundary. The\nsearch of periodic Reeb orbits on those manifolds thereby starts with a\ngeneralization of the well-known Weinstein conjecture. Contrary to the initial\nexpectations, examples of compact $b^m$-contact manifolds without periodic Reeb\norbits outside $Z$ are provided. Furthermore, we prove that in dimension $3$,\nthere are always infinitely many periodic orbits on the critical set if it is\ncompact. We prove that traps for the $b^m$-Reeb flow exist in any dimension.\nThis investigation goes hand-in-hand with the Weinstein conjecture on\nnon-compact manifolds having compact ends of convex type. In particular, we\nextend Hofer's arguments to open overtwisted contact manifolds that are\n$\\mathbb R^+$-invariant in the open ends, obtaining as a corollary the\nexistence of periodic $b^m$-Reeb orbits away from the critical set. The study\nof $b^m$-Reeb dynamics is motivated by well-known problems in fluid dynamics\nand celestial mechanics, where those geometric structures naturally appear. In\nparticular, we prove that the dynamics on positive energy level-sets in the\nrestricted planar circular three-body problem are described by the Reeb vector\nfield of a $b^3$-contact form that admits an infinite number of periodic orbits\nat the critical set.",
+          "arxiv_id": "2005.09568v3"
+        },
+        {
+          "title": "Homoclinic orbits, Reeb chords and nice Birkhoff sections for Reeb flows in 3D",
+          "year": "2025-01",
+          "abstract": "We prove that for a $C^\\infty$-generic contact form defining a given\nco-oriented contact structure on a closed $3$-manifold, every hyperbolic\nperiodic Reeb orbit admits a transverse homoclinic connection in each of the\nbranches of its stable and unstable manifolds. We exploit this result to prove\nthat for a $C^\\infty$-generic contact form defining a given co-oriented contact\nstructure, given any finite collection $\\Gamma$ of periodic Reeb orbits and any\nLegendrian link $L$, there exists a global surface of section (embedded\nBirkhoff section) for the Reeb flow that contains $\\Gamma$ in its boundary, and\nthat contains in its interior a Legendrian link that is Legendrian isotopic to\n$L$ by a $C^0$-small isotopy. Finally we prove that if the Reeb vector field\nadmits a $\\partial$-strong Birkhoff section then every Legendrian knot has\ninfinitely many geometrically distinct Reeb chords, except possibly when the\nambient manifold is a lens space or the sphere and the Reeb flow has exactly\ntwo periodic orbits. In particular, $C^\\infty$-generically on the contact form\nthere are infinitely many geometrically distinct Reeb chords for every\nLegendrian knot. In the case of geodesic flows, every Legendrian knot has\ninfinitely many disjoint chords, without any further assumptions.",
+          "arxiv_id": "2501.11725v1"
+        },
+        {
+          "title": "Contact three-manifolds with exactly two simple Reeb orbits",
+          "year": "2021-02",
+          "abstract": "It is known that every contact form on a closed three-manifold has at least\ntwo simple Reeb orbits, and a generic contact form has infinitely many. We show\nthat if there are exactly two simple Reeb orbits, then the contact form is\nnondegenerate. Combined with a previous result, this implies that the\nthree-manifold is diffeomorphic to the three-sphere or a lens space, and the\ntwo simple Reeb orbits are the core circles of a genus one Heegaard splitting.\nWe also obtain further information about the Reeb dynamics and the contact\nstructure. For example the Reeb flow has a disk-like global surface of section\nand so its dynamics are described by a pseudorotation; the contact struture is\nuniversally tight; and in the case of the three-sphere, the contact volume and\nthe periods and rotation numbers of the simple Reeb orbits satisfy the same\nrelations as for an irrational ellipsoid.",
+          "arxiv_id": "2102.04970v4"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:57:58Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

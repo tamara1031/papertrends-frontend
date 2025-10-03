@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_groups_group_finite_subgroups",
+        "keywords": [
+          [
+            "groups",
+            0.08290227443167593
+          ],
+          [
+            "group",
+            0.07742683113139587
+          ],
+          [
+            "finite",
+            0.04760306100631706
+          ],
+          [
+            "subgroups",
+            0.0270401542019166
+          ],
+          [
+            "subgroup",
+            0.02580887569431547
+          ],
+          [
+            "non",
+            0.025467718435513705
+          ],
+          [
+            "free",
+            0.0252656763010328
+          ],
+          [
+            "paper",
+            0.024483896481928044
+          ],
+          [
+            "class",
+            0.021604249525632186
+          ],
+          [
+            "results",
+            0.02082887368477311
+          ]
+        ],
+        "count": 8501
+      },
+      "1": {
+        "name": "1_Baxter_solutions_Rota_Yang",
+        "keywords": [
+          [
+            "Baxter",
+            0.16361581573407538
+          ],
+          [
+            "solutions",
+            0.10130554646455046
+          ],
+          [
+            "Rota",
+            0.0948020627255858
+          ],
+          [
+            "Yang",
+            0.08658300449476838
+          ],
+          [
+            "equation",
+            0.07950033459054912
+          ],
+          [
+            "skew",
+            0.06410759281064322
+          ],
+          [
+            "braces",
+            0.05426700108672917
+          ],
+          [
+            "operators",
+            0.04141439925300634
+          ],
+          [
+            "left",
+            0.0350222366939212
+          ],
+          [
+            "solution",
+            0.034949240918986504
+          ]
+        ],
+        "count": 97
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.7127571915044852
+      ],
+      [
+        -0.7127571915044852,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        97,
+        3
+      ],
+      "2020-02": [
+        134,
+        2
+      ],
+      "2020-03": [
+        116,
+        3
+      ],
+      "2020-04": [
+        136,
+        1
+      ],
+      "2020-05": [
+        116,
+        2
+      ],
+      "2020-06": [
+        139,
+        1
+      ],
+      "2020-07": [
+        116,
+        2
+      ],
+      "2020-08": [
+        111,
+        4
+      ],
+      "2020-09": [
+        125,
+        2
+      ],
+      "2020-10": [
+        141,
+        2
+      ],
+      "2020-11": [
+        106,
+        2
+      ],
+      "2020-12": [
+        112,
+        2
+      ],
+      "2021-01": [
+        106,
+        1
+      ],
+      "2021-02": [
+        106,
+        5
+      ],
+      "2021-03": [
+        120,
+        1
+      ],
+      "2021-04": [
+        82,
+        3
+      ],
+      "2021-05": [
+        112,
+        3
+      ],
+      "2021-06": [
+        119,
+        1
+      ],
+      "2021-07": [
+        121,
+        2
+      ],
+      "2021-08": [
+        82,
+        0
+      ],
+      "2021-09": [
+        98,
+        2
+      ],
+      "2021-10": [
+        105,
+        2
+      ],
+      "2021-11": [
+        103,
+        0
+      ],
+      "2021-12": [
+        127,
+        1
+      ],
+      "2022-01": [
+        111,
+        1
+      ],
+      "2022-02": [
+        121,
+        3
+      ],
+      "2022-03": [
+        117,
+        4
+      ],
+      "2022-04": [
+        122,
+        1
+      ],
+      "2022-05": [
+        112,
+        3
+      ],
+      "2022-06": [
+        132,
+        4
+      ],
+      "2022-07": [
+        117,
+        1
+      ],
+      "2022-08": [
+        125,
+        2
+      ],
+      "2022-09": [
+        127,
+        3
+      ],
+      "2022-10": [
+        129,
+        2
+      ],
+      "2022-11": [
+        113,
+        1
+      ],
+      "2022-12": [
+        123,
+        3
+      ],
+      "2023-01": [
+        110,
+        3
+      ],
+      "2023-02": [
+        102,
+        4
+      ],
+      "2023-03": [
+        143,
+        7
+      ],
+      "2023-04": [
+        134,
+        2
+      ],
+      "2023-05": [
+        139,
+        3
+      ],
+      "2023-06": [
+        102,
+        3
+      ],
+      "2023-07": [
+        122,
+        1
+      ],
+      "2023-08": [
+        132,
+        0
+      ],
+      "2023-09": [
+        129,
+        2
+      ],
+      "2023-10": [
+        132,
+        2
+      ],
+      "2023-11": [
+        111,
+        5
+      ],
+      "2023-12": [
+        130,
+        4
+      ],
+      "2024-01": [
+        139,
+        3
+      ],
+      "2024-02": [
+        135,
+        3
+      ],
+      "2024-03": [
+        136,
+        1
+      ],
+      "2024-04": [
+        105,
+        3
+      ],
+      "2024-05": [
+        142,
+        9
+      ],
+      "2024-06": [
+        113,
+        1
+      ],
+      "2024-07": [
+        140,
+        2
+      ],
+      "2024-08": [
+        118,
+        2
+      ],
+      "2024-09": [
+        137,
+        2
+      ],
+      "2024-10": [
+        169,
+        4
+      ],
+      "2024-11": [
+        126,
+        2
+      ],
+      "2024-12": [
+        145,
+        5
+      ],
+      "2025-01": [
+        104,
+        3
+      ],
+      "2025-02": [
+        119,
+        2
+      ],
+      "2025-03": [
+        138,
+        2
+      ],
+      "2025-04": [
+        170,
+        2
+      ],
+      "2025-05": [
+        138,
+        3
+      ],
+      "2025-06": [
+        128,
+        6
+      ],
+      "2025-07": [
+        158,
+        2
+      ],
+      "2025-08": [
+        127,
+        6
+      ],
+      "2025-09": [
+        82,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "CLT-groups with cyclic or abelian subgroups",
+          "year": "2022-07",
+          "abstract": "A finite group is called a CLT-group if it contains a subgroup corresponding\nto every divisor of the order of the group. It is said to be a Cyclic (Abelian)\nCLT group if it contains a cyclic (abelian) subgroup corresponding to every\nproper divisor of the order of the group. A natural number is said to be a CCLT\n(ACLT) number if every group of that order is a cyclic (abelian) CLT group. In\nthis work, we classify all CCLT and ACLT numbers and study various properties\nof Cyclic (Abelian) CLT groups. We also show that the classes of CCLT and ACLT\ngroups are contained in the class of supersolvable groups. Moreover, we\nintroduce the function CCLT-degree on the set of non-cyclic finite groups and\nstudy the properties of this function.",
+          "arxiv_id": "2208.01415v2"
+        },
+        {
+          "title": "Prescribed graphon symmetries and flavors of rigidity",
+          "year": "2022-06",
+          "abstract": "We prove that an arbitrary compact metrizable group can be realized as the\nautomorphism group of a graphing; this is a continuous analogue to Frucht's\ntheorem recovering arbitrary finite groups are automorphism groups of finite\ngraphs.\n  The paper also contains a number of results the persistence of transitivity\nof a compact-group action upon passing to a limit of graphons. Call a compact\ngroup $\\mathbb{G}$ graphon-rigid if, whenever it acts transitively on each\nmember $\\Gamma_n$ of a convergent sequence of graphons, it also acts\ntransitively on the limit $\\lim_n \\Gamma$. We show that for a compact Lie group\n$\\mathbb{G}$ graphon rigidity is equivalent to the identity component\n$\\mathbb{G}_0$ being semisimple; as a partial converse to a result of\nLov\\'{a}sz and Szegedy, this is also equivalent to weak randomness: the\nproperty that the group have only finitely many irreducible representations in\neach dimension. Similarly, call a compact group $\\mathbb{G}$ image-rigid if for\nevery compact Lie group $\\mathbb{H}$ the images of morphisms $\\mathbb{G}\\to\n\\mathbb{H}$ form a closed set (of closed subgroups, in the natural topology).\nWe prove that graphon rigidity implies image rigidity for compact groups that\nare either connected or profinite, and the two conditions are equivalent (and\nalso equivalent to being torsion) for profinite abelian groups.",
+          "arxiv_id": "2206.11997v1"
+        },
+        {
+          "title": "Finite Germ Extensions",
+          "year": "2024-07",
+          "abstract": "We prove finiteness properties for groups of homeomorphisms that have\nfinitely many \"singular points\", and we describe the normal structure of such\ngroups. As an application, we prove that every countable abelian group can be\nembedded into a finitely presented simple group, verifying the Boone-Higman\nconjecture for countable abelian groups. Indeed, we describe a specific\n2-generated, $\\mathrm{F}_\\infty$ simple group $V\\mathcal{A}$ of homeomorphisms\nof the Cantor set that contains every countable abelian group. As a second\napplication, we prove that if $G$ is a bounded automata group then the\nassociated R\\\"over-Nekrashevych groups $V_{d,r}G$ have type\n$\\mathrm{F}_\\infty$, verifying a conjecture of Nekrashevych for a large class\nof contracting self-similar groups. Among others, this result applies to\nR\\\"{o}ver-Nekrashevych groups associated to Gupta-Sidki groups and the basilica\ngroup.",
+          "arxiv_id": "2407.03149v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Soluble skew left braces and soluble solutions of the Yang-Baxter equation",
+          "year": "2023-04",
+          "abstract": "The study of non-degenerate set-theoretic solutions of the Yang-Baxter\nequation calls for a deep understanding of the algebraic structure of a skew\nleft brace. In this paper, the skew brace theoretical property of solubility is\nintroduced and studied. It leads naturally to the notion of solubility of\nsolutions of the Yang-Baxter equation. It turns out that soluble non-degenerate\nset-theoretic solutions are characterised by soluble skew left braces. The rich\nideal structure of soluble skew left braces is also shown. A worked example\nshowing the relevance of the brace theoretical property of solubility is also\npresented.",
+          "arxiv_id": "2304.13475v3"
+        },
+        {
+          "title": "Relative Rota-Baxter operators of weight 0 on groups, pre-groups, braces, the Yang-Baxter equation and $T$-structures",
+          "year": "2023-12",
+          "abstract": "In this paper, we study relative Rota-Baxter operators of weight $0$ on\ngroups and give various examples. In particular, we propose different\napproaches to study Rota-Baxter operators of weight $0$ on groups and Lie\ngroups. We establish various explicit relations among relative Rota-Baxter\noperators of weight $0$ on groups, pre-groups, braces, set-theoretic solutions\nof the Yang-Baxter equation and $T$-structures.",
+          "arxiv_id": "2312.01337v1"
+        },
+        {
+          "title": "Indecomposable involutive set-theoretical solutions to the Yang-Baxter equation of size $p^2$",
+          "year": "2024-03",
+          "abstract": "The quantum Yang-Baxter equation is a braiding condition on vector spaces\nwhich is of high relevance in several fields of mathematics, such as knot\ntheory and quantum group theory. Their combinatorial counterpart are\nset-theoretic solutions to the Yang--Baxter equation, whose investigation is\nstrongly driven by the study of algebraic objects called (skew) braces. In this\narticle, we focus on indecomposable involutive non-degenerate set-theoretic\nsolutions to the Yang-Baxter equation. More specifically, through a thorough\nanalysis of their associated braces, we give a full classification of those\nwhich are of size $p^2$, for $p$ a prime.",
+          "arxiv_id": "2403.18653v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:54:06Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

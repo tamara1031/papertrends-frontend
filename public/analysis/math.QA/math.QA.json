@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_quantum_algebra_algebras_category",
+        "keywords": [
+          [
+            "quantum",
+            0.045832688935058624
+          ],
+          [
+            "algebra",
+            0.04542694205912574
+          ],
+          [
+            "algebras",
+            0.04362442494378442
+          ],
+          [
+            "category",
+            0.02608555103585469
+          ],
+          [
+            "group",
+            0.02548808557618026
+          ],
+          [
+            "theory",
+            0.02513446915668707
+          ],
+          [
+            "modules",
+            0.02251603071629748
+          ],
+          [
+            "categories",
+            0.02089267511555808
+          ],
+          [
+            "type",
+            0.020396195018944165
+          ],
+          [
+            "finite",
+            0.01983302396923483
+          ]
+        ],
+        "count": 4294
+      },
+      "1": {
+        "name": "1_Baxter_solutions_Yang_algebras",
+        "keywords": [
+          [
+            "Baxter",
+            0.10308998480741868
+          ],
+          [
+            "solutions",
+            0.06862207707907975
+          ],
+          [
+            "Yang",
+            0.0653661941712138
+          ],
+          [
+            "algebras",
+            0.06317765503541571
+          ],
+          [
+            "Lie",
+            0.056917438207716525
+          ],
+          [
+            "equation",
+            0.056047722384307865
+          ],
+          [
+            "Rota",
+            0.04735479817308527
+          ],
+          [
+            "operators",
+            0.032185128051693206
+          ],
+          [
+            "Lie algebras",
+            0.03061964024486846
+          ],
+          [
+            "algebra",
+            0.030217950754603234
+          ]
+        ],
+        "count": 245
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.44156374930120723
+      ],
+      [
+        -0.44156374930120723,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        55,
+        2
+      ],
+      "2020-02": [
+        47,
+        10
+      ],
+      "2020-03": [
+        61,
+        7
+      ],
+      "2020-04": [
+        64,
+        6
+      ],
+      "2020-05": [
+        70,
+        3
+      ],
+      "2020-06": [
+        43,
+        2
+      ],
+      "2020-07": [
+        51,
+        8
+      ],
+      "2020-08": [
+        60,
+        9
+      ],
+      "2020-09": [
+        59,
+        12
+      ],
+      "2020-10": [
+        53,
+        8
+      ],
+      "2020-11": [
+        58,
+        3
+      ],
+      "2020-12": [
+        60,
+        8
+      ],
+      "2021-01": [
+        45,
+        5
+      ],
+      "2021-02": [
+        34,
+        7
+      ],
+      "2021-03": [
+        62,
+        5
+      ],
+      "2021-04": [
+        53,
+        2
+      ],
+      "2021-05": [
+        51,
+        4
+      ],
+      "2021-06": [
+        55,
+        8
+      ],
+      "2021-07": [
+        67,
+        9
+      ],
+      "2021-08": [
+        46,
+        3
+      ],
+      "2021-09": [
+        56,
+        6
+      ],
+      "2021-10": [
+        48,
+        6
+      ],
+      "2021-11": [
+        58,
+        1
+      ],
+      "2021-12": [
+        70,
+        8
+      ],
+      "2022-01": [
+        42,
+        4
+      ],
+      "2022-02": [
+        53,
+        4
+      ],
+      "2022-03": [
+        68,
+        5
+      ],
+      "2022-04": [
+        52,
+        5
+      ],
+      "2022-05": [
+        48,
+        9
+      ],
+      "2022-06": [
+        49,
+        7
+      ],
+      "2022-07": [
+        60,
+        5
+      ],
+      "2022-08": [
+        58,
+        4
+      ],
+      "2022-09": [
+        62,
+        6
+      ],
+      "2022-10": [
+        57,
+        6
+      ],
+      "2022-11": [
+        77,
+        8
+      ],
+      "2022-12": [
+        65,
+        8
+      ],
+      "2023-01": [
+        55,
+        4
+      ],
+      "2023-02": [
+        61,
+        5
+      ],
+      "2023-03": [
+        61,
+        12
+      ],
+      "2023-04": [
+        61,
+        7
+      ],
+      "2023-05": [
+        72,
+        9
+      ],
+      "2023-06": [
+        65,
+        6
+      ],
+      "2023-07": [
+        69,
+        5
+      ],
+      "2023-08": [
+        63,
+        8
+      ],
+      "2023-09": [
+        56,
+        11
+      ],
+      "2023-10": [
+        40,
+        10
+      ],
+      "2023-11": [
+        65,
+        8
+      ],
+      "2023-12": [
+        87,
+        10
+      ],
+      "2024-01": [
+        52,
+        7
+      ],
+      "2024-02": [
+        72,
+        5
+      ],
+      "2024-03": [
+        74,
+        7
+      ],
+      "2024-04": [
+        55,
+        7
+      ],
+      "2024-05": [
+        59,
+        8
+      ],
+      "2024-06": [
+        75,
+        7
+      ],
+      "2024-07": [
+        64,
+        6
+      ],
+      "2024-08": [
+        69,
+        7
+      ],
+      "2024-09": [
+        56,
+        9
+      ],
+      "2024-10": [
+        80,
+        7
+      ],
+      "2024-11": [
+        66,
+        5
+      ],
+      "2024-12": [
+        94,
+        5
+      ],
+      "2025-01": [
+        58,
+        8
+      ],
+      "2025-02": [
+        59,
+        5
+      ],
+      "2025-03": [
+        67,
+        14
+      ],
+      "2025-04": [
+        65,
+        12
+      ],
+      "2025-05": [
+        68,
+        6
+      ],
+      "2025-06": [
+        64,
+        9
+      ],
+      "2025-07": [
+        71,
+        3
+      ],
+      "2025-08": [
+        72,
+        7
+      ],
+      "2025-09": [
+        39,
+        3
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Commutative algebras in Grothendieck-Verdier categories, rigidity, and vertex operator algebras",
+          "year": "2024-09",
+          "abstract": "Let $A$ be a commutative algebra in a braided monoidal category\n$\\mathcal{C}$; e.g., $A$ could be an extension of a vertex operator algebra\n(VOA) $V$ in a category $\\mathcal{C}$ of $V$-modules. We study when the\ncategory $\\mathcal{C}_A$ of $A$-modules in $\\mathcal{C}$ and its subcategory\n$\\mathcal{C}_A^{\\text{loc}}$ of local modules inherit rigidity from\n$\\mathcal{C}$, and then we find conditions for $\\mathcal{C}$ and\n$\\mathcal{C}_A$ to inherit rigidity from $\\mathcal{C}_A^{\\text{loc}}$. First,\nwe assume $\\mathcal{C}$ is a braided finite tensor category and prove rigidity\nof $\\mathcal{C}_A$ and $\\mathcal{C}_A^{\\text{loc}}$ under conditions based on\ncriteria of Etingof-Ostrik for $A$ to be an exact algebra in $\\mathcal{C}$. As\na corollary, we show that if $A$ is a simple $\\mathbb{Z}_{\\geq 0}$-graded VOA\nwith a strongly rational vertex operator subalgebra $V$, then $A$ is strongly\nrational, without requiring the categorical dimension of $A$ as a $V$-module to\nbe non-zero. Next, we assume $\\mathcal{C}$ is a Grothendieck-Verdier category,\ni.e., $\\mathcal{C}$ admits a weaker duality structure than rigidity. We first\nprove $\\mathcal{C}_A$ is also a Grothendieck-Verdier category. Using this, we\nprove that if $\\mathcal{C}_A^{\\text{loc}}$ is rigid, then so is $\\mathcal{C}$\nunder conditions such as a mild non-degeneracy assumption on $\\mathcal{C}$, an\nassumption that every simple object of $\\mathcal{C}_A$ is local, and that\ninduction from $\\mathcal{C}$ to $\\mathcal{C}_A$ commutes with duality. These\nconditions are motivated by free field-like VOA extensions $V\\subseteq A$ where\n$A$ is often an indecomposable $V$-module, so our result will make it more\nfeasible to prove rigidity for many vertex algebraic monoidal categories. In a\nfollow-up work, our result will be used to prove rigidity of the category of\nweight modules for the simple affine VOA of $\\mathfrak{sl}_2$ at any admissible\nlevel.",
+          "arxiv_id": "2409.14618v1"
+        },
+        {
+          "title": "A QFT for non-semisimple TQFT",
+          "year": "2021-12",
+          "abstract": "We construct a family of 3d quantum field theories $\\mathcal T_{n,k}^A$ that\nconjecturally provide a physical realization -- and derived generalization --\nof non-semisimple mathematical TQFT's based on the modules for the quantum\ngroup $U_q(\\mathfrak{sl}_n)$ at an even root of unity $q=\\text{exp}(i\\pi/k)$.\nThe theories $\\mathcal T_{n,k}^A$ are defined as topological twists of certain\n3d $\\mathcal N=4$ Chern-Simons-matter theories, which also admit\nstring/M-theory realizations. They may be thought of as $SU(n)_{k-n}$\nChern-Simons theories, coupled to a twisted $\\mathcal N=4$ matter sector (the\nsource of non-semisimplicity). We show that $\\mathcal T_{n,k}^A$ admits\nholomorphic boundary conditions supporting two different logarithmic vertex\noperator algebras, one of which is an $\\mathfrak{sl}_n$-type Feigin-Tipunin\nalgebra; and we conjecture that these two vertex operator algebras are related\nby a novel logarithmic level-rank duality. (We perform detailed computations to\nsupport the conjecture.) We thus relate the category of line operators in\n$\\mathcal T_{n,k}^A$ to the derived category of modules for a boundary\nFeigin-Tipunin algebra, and -- using a logarithmic Kazhdan-Lusztig-like\ncorrespondence that has been established for $n=2$ and expected for general $n$\n-- to the derived category of $U_q(\\mathfrak{sl}_n)$ modules. We analyze many\nother key features of $\\mathcal T_{n,k}^A$ and match them from quantum-group\nand VOA perspectives, including deformations by flat $PSL(n,\\mathbb C)$\nconnections, one-form symmetries, and indices of (derived) genus-$g$ state\nspaces.",
+          "arxiv_id": "2112.01559v1"
+        },
+        {
+          "title": "Vertex algebras with big center and a Kazhdan-Lusztig Correspondence",
+          "year": "2022-10",
+          "abstract": "Certain deformable families of vertex algebras acquire at a limit of the\ndeformation parameter a large center, similar to affine Lie algebras at\ncritical level. Then the vertex algebra and its representation category become\na bundle over the variety defined by this large center. The zero-fibre becomes\na vertex algebra, the other fibres become twisted modules over this vertex\nalgebra.\n  We explore these ideas and a conjectural correspondence in a class of vertex\nalgebras $A^{(p)}[\\mathfrak{g},\\kappa]$ associated to a choice of a\nfinite-dimensional semisimple Lie algebra and an integer $(\\mathfrak{g},p)$ and\na level $\\kappa$, and some related algebras. These algebras were introduced\nunder the name quantum geometric Langlands kernels and have an interpretation\nin 4-dimensional quantum field theory. In the limit $\\kappa\\to \\infty$, they\nacquire a large central subalgebra identified with the ring of functions on the\nspace of $\\mathfrak{g}$-connections. The zero fibre is expected to be the\nFeigin-Tipunin algebra $W_p(\\mathfrak{g})$, whose category of representations\nis expected to be equivalent to the small quantum group by the logarithmic\nKazhdan Lusztig conjecture.\n  Our rigorous results focus on the cases $(\\mathfrak{g},1)$ and\n$(\\mathfrak{sl}_2,2)$. In the first part of the paper, which might be of\nindependent interest, we discuss the twisted modules (including twists by\nunipotent elements) of the affine Lie algebra and of the triplet algebra\n$W_2(\\mathfrak{sl}_2)$, and introduce a method of twisted free field\nrealization to obtain twisted modules for arbitrary $(\\mathfrak{g},p)$. We also\nmatch our findings to the respective quantum group with big center. In the\nsecond part of the paper we match the results to the vertex algebra bundle we\ncompute from the limit of $A^{(p)}[\\mathfrak{g},\\kappa]$, which in our cases\nhave realizations as GKO coset resp. N=4 superconformal algebras.",
+          "arxiv_id": "2210.13337v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Indecomposable involutive set-theoretical solutions to the Yang-Baxter equation of size $p^2$",
+          "year": "2024-03",
+          "abstract": "The quantum Yang-Baxter equation is a braiding condition on vector spaces\nwhich is of high relevance in several fields of mathematics, such as knot\ntheory and quantum group theory. Their combinatorial counterpart are\nset-theoretic solutions to the Yang--Baxter equation, whose investigation is\nstrongly driven by the study of algebraic objects called (skew) braces. In this\narticle, we focus on indecomposable involutive non-degenerate set-theoretic\nsolutions to the Yang-Baxter equation. More specifically, through a thorough\nanalysis of their associated braces, we give a full classification of those\nwhich are of size $p^2$, for $p$ a prime.",
+          "arxiv_id": "2403.18653v3"
+        },
+        {
+          "title": "Operator forms of nonhomogeneous associative classical Yang-Baxter equation",
+          "year": "2020-07",
+          "abstract": "This paper studies operator forms of the nonhomogeneous associative classical\nYang-Baxter equation (nhacYBe), extending and generalizing such studies for the\nclassical Yang-Baxter equation and associative Yang-Baxter equation that can be\ntracked back to the works of Semonov-Tian-Shansky and Kupershmidt on\nRota-Baxter Lie algebras and $\\mathcal{O}$-operators. In general, solutions of\nthe nhacYBe are characterized in terms of generalized $\\mathcal{O}$-operators.\nThe characterization can be given by the classical $\\mathcal{O}$-operators\nprecisely when the solutions satisfy an invariant condition. When the invariant\ncondition is compatible with a Frobenius algebra, such solutions have close\nrelationships with Rota-Baxter operators on the Frobenius algebra. In general,\nsolutions of the nhacYBe can be produced from Rota-Baxter operators, and then\nfrom $\\mathcal{O}$-operators when the solutions are taken in semi-direct\nproduct algebras. In the other direction, Rota-Baxter operators can be obtained\nfrom solutions of the nhacYBe in unitizations of algebras. Finally a\nclassifications of solutions of the nhacYBe satisfying the mentioned invariant\ncondition in all unital complex algebras of dimensions two and three are\nobtained. All these solutions are shown to come from Rota-Baxter operators.",
+          "arxiv_id": "2007.10939v2"
+        },
+        {
+          "title": "Rota-Baxter operators, differential operators, pre- and Novikov structures on groups and Lie algebras",
+          "year": "2024-08",
+          "abstract": "Rota-Baxter operators on various structures have found important applications\nin diverse areas, from renormalization of quantum field theory to Yang-Baxter\nequations. Relative Rota-Baxter operators on Lie algebras are closely related\nto pre-Lie algebras and post-Lie algebras. Some of their group counterparts\nhave been introduced to study post-groups, skew left braces and set-theoretic\nsolutions of Yang-Baxter equations, but searching suitable notions of relative\nRota-Baxter operators on groups with weight zero and pre-groups has been\nchallenging and has been the focus of recent studies, by provisionally imposing\nan abelian condition.\n  Arising from the works of Balinsky-Novikov and Gelfand-Dorfman, Novikov\nalgebras and their constructions from differential commutative algebras have\nled to broad applications. Finding their suitable counterparts for groups and\nLie algebras has also attracted quite much recent attention.\n  This paper uses one-sided-inverse pairs of maps to give a perturbative\napproach to a general notion of relative Rota-Baxter operators and differential\noperators on a group and a Lie algebra with limit-weight. With the extra\ncondition of limit-abelianess on the group or Lie algebra, we give an\ninterpretation of relative Rota-Baxter and differential operators with weight\nzero. These operators motivate us to define pre-groups and Novikov groups\nrespectively as the induced structures. The tangent maps of these operators are\nshown to give Rota-Baxter and differential operators with weight zero on Lie\nalgebras. The tangent spaces of the pre-Lie and Novikov Lie groups are pre-Lie\nalgebras and Novikov Lie algebras, fulfilling the expected property.\nFurthermore, limit-weight relative Rota-Baxter operators on groups give rise to\nskew left braces and then set-theoretic solutions of the Yang-Baxter equation.",
+          "arxiv_id": "2408.06096v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:57:37Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

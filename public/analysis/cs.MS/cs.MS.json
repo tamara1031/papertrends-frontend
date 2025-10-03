@@ -1,0 +1,1318 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_performance_finite_element_methods",
+        "keywords": [
+          [
+            "performance",
+            0.020299572148803274
+          ],
+          [
+            "finite",
+            0.02004764352431846
+          ],
+          [
+            "element",
+            0.019880414790417824
+          ],
+          [
+            "methods",
+            0.01713003840463897
+          ],
+          [
+            "GPU",
+            0.016847034830227817
+          ],
+          [
+            "finite element",
+            0.016763920895492484
+          ],
+          [
+            "method",
+            0.016545460652435676
+          ],
+          [
+            "mesh",
+            0.016205987207530144
+          ],
+          [
+            "high",
+            0.016163278473055476
+          ],
+          [
+            "time",
+            0.015976722954903218
+          ]
+        ],
+        "count": 235
+      },
+      "1": {
+        "name": "1_rounding_precision_functions_mathematical",
+        "keywords": [
+          [
+            "rounding",
+            0.023397667924681398
+          ],
+          [
+            "precision",
+            0.02260563794013892
+          ],
+          [
+            "functions",
+            0.0224856295129345
+          ],
+          [
+            "mathematical",
+            0.021289442828400538
+          ],
+          [
+            "library",
+            0.02063271102072994
+          ],
+          [
+            "arithmetic",
+            0.01930663043892477
+          ],
+          [
+            "rounded",
+            0.018697232623717728
+          ],
+          [
+            "point",
+            0.018435027474782078
+          ],
+          [
+            "algorithm",
+            0.01755280110974076
+          ],
+          [
+            "results",
+            0.016407630472352042
+          ]
+        ],
+        "count": 100
+      },
+      "2": {
+        "name": "2_optimization_problems_problem_objective",
+        "keywords": [
+          [
+            "optimization",
+            0.056390699834391315
+          ],
+          [
+            "problems",
+            0.03691411007353047
+          ],
+          [
+            "problem",
+            0.022706269604492874
+          ],
+          [
+            "objective",
+            0.020340498700234553
+          ],
+          [
+            "algorithm",
+            0.019254175706018593
+          ],
+          [
+            "optimization problems",
+            0.017527232390760414
+          ],
+          [
+            "algorithms",
+            0.016716347158856056
+          ],
+          [
+            "solvers",
+            0.016714532028380868
+          ],
+          [
+            "method",
+            0.016577452384802134
+          ],
+          [
+            "Optimization",
+            0.01585380694872146
+          ]
+        ],
+        "count": 92
+      },
+      "3": {
+        "name": "3_data_Riemannian_learning_graph",
+        "keywords": [
+          [
+            "data",
+            0.031023705934983062
+          ],
+          [
+            "Riemannian",
+            0.025588278511129898
+          ],
+          [
+            "learning",
+            0.02521862359949594
+          ],
+          [
+            "graph",
+            0.025210576480751427
+          ],
+          [
+            "manifolds",
+            0.021092704581169353
+          ],
+          [
+            "framework",
+            0.016844200010678816
+          ],
+          [
+            "algorithms",
+            0.016208259108121226
+          ],
+          [
+            "machine",
+            0.015469095243350184
+          ],
+          [
+            "library",
+            0.015310260580555044
+          ],
+          [
+            "PyTorch",
+            0.014951959256486748
+          ]
+        ],
+        "count": 71
+      },
+      "4": {
+        "name": "4_matrices_matrix_rank_algorithm",
+        "keywords": [
+          [
+            "matrices",
+            0.03701276632225822
+          ],
+          [
+            "matrix",
+            0.035393818546660905
+          ],
+          [
+            "rank",
+            0.03321703206784049
+          ],
+          [
+            "algorithm",
+            0.03237571009632421
+          ],
+          [
+            "SVD",
+            0.0242769828461243
+          ],
+          [
+            "QR",
+            0.02306419515053541
+          ],
+          [
+            "factorization",
+            0.0217244211527567
+          ],
+          [
+            "singular",
+            0.021526582140499715
+          ],
+          [
+            "data",
+            0.019700284403345193
+          ],
+          [
+            "low rank",
+            0.019694735653202344
+          ]
+        ],
+        "count": 56
+      },
+      "5": {
+        "name": "5_package_data_Python_causal",
+        "keywords": [
+          [
+            "package",
+            0.05177774505331018
+          ],
+          [
+            "data",
+            0.04240409405542277
+          ],
+          [
+            "Python",
+            0.03772335470470466
+          ],
+          [
+            "causal",
+            0.03330819849084889
+          ],
+          [
+            "models",
+            0.030098118043447898
+          ],
+          [
+            "model",
+            0.026146027771610868
+          ],
+          [
+            "inference",
+            0.024733135074790254
+          ],
+          [
+            "packages",
+            0.022898642917508687
+          ],
+          [
+            "analysis",
+            0.020210685224642547
+          ],
+          [
+            "statistical",
+            0.020036874912981385
+          ]
+        ],
+        "count": 50
+      },
+      "6": {
+        "name": "6_tensor_sparse_performance_algebra",
+        "keywords": [
+          [
+            "tensor",
+            0.042416997604116796
+          ],
+          [
+            "sparse",
+            0.037093271392143426
+          ],
+          [
+            "performance",
+            0.03526584827427168
+          ],
+          [
+            "algebra",
+            0.03178537225229478
+          ],
+          [
+            "matrix",
+            0.026569402753360345
+          ],
+          [
+            "tensors",
+            0.02505125751355505
+          ],
+          [
+            "operations",
+            0.024728847594762286
+          ],
+          [
+            "data",
+            0.02339905728947201
+          ],
+          [
+            "Tensor",
+            0.021744338629043635
+          ],
+          [
+            "code",
+            0.020459352284768237
+          ]
+        ],
+        "count": 35
+      },
+      "7": {
+        "name": "7_Bayesian_Monte_Carlo_sampling",
+        "keywords": [
+          [
+            "Bayesian",
+            0.0404846187362491
+          ],
+          [
+            "Monte",
+            0.03463253758067978
+          ],
+          [
+            "Carlo",
+            0.03463253758067978
+          ],
+          [
+            "sampling",
+            0.03258342717571564
+          ],
+          [
+            "UQ",
+            0.0320321450661687
+          ],
+          [
+            "uncertainty",
+            0.02559394224053194
+          ],
+          [
+            "inference",
+            0.02305418439273794
+          ],
+          [
+            "Python",
+            0.022835297134175918
+          ],
+          [
+            "method",
+            0.01983147319584079
+          ],
+          [
+            "modeling",
+            0.01725585485464089
+          ]
+        ],
+        "count": 32
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.574152831668368,
+        -0.6354140059258986,
+        -0.6570545472141596,
+        -0.6517536861889016,
+        -0.6566296140854708,
+        -0.5763027521083772,
+        -0.7321684598700429
+      ],
+      [
+        -0.574152831668368,
+        1.0,
+        -0.6596145425967451,
+        -0.44926152176350864,
+        -0.6030006606238237,
+        -0.601211852853732,
+        -0.6105096242726505,
+        -0.7250145099742002
+      ],
+      [
+        -0.6354140059258986,
+        -0.6596145425967451,
+        1.0,
+        -0.6299671069242393,
+        -0.6806485887221909,
+        -0.6595413553305833,
+        -0.6633773654495918,
+        -0.7013700353454054
+      ],
+      [
+        -0.6570545472141596,
+        -0.44926152176350864,
+        -0.6299671069242393,
+        1.0,
+        -0.610636535479993,
+        -0.404030891494411,
+        -0.6311061769960331,
+        -0.6957105087436155
+      ],
+      [
+        -0.6517536861889016,
+        -0.6030006606238237,
+        -0.6806485887221909,
+        -0.610636535479993,
+        1.0,
+        -0.6598024780195482,
+        -0.5858682438393205,
+        -0.7360879163830839
+      ],
+      [
+        -0.6566296140854708,
+        -0.601211852853732,
+        -0.6595413553305833,
+        -0.404030891494411,
+        -0.6598024780195482,
+        1.0,
+        -0.6691628124948524,
+        -0.6626157185058412
+      ],
+      [
+        -0.5763027521083772,
+        -0.6105096242726505,
+        -0.6633773654495918,
+        -0.6311061769960331,
+        -0.5858682438393205,
+        -0.6691628124948524,
+        1.0,
+        -0.750138542256684
+      ],
+      [
+        -0.7321684598700429,
+        -0.7250145099742002,
+        -0.7013700353454054,
+        -0.6957105087436155,
+        -0.7360879163830839,
+        -0.6626157185058412,
+        -0.750138542256684,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        4,
+        3,
+        1,
+        0,
+        0,
+        2,
+        2,
+        1
+      ],
+      "2020-02": [
+        3,
+        0,
+        2,
+        0,
+        3,
+        3,
+        0,
+        0
+      ],
+      "2020-03": [
+        1,
+        8,
+        3,
+        0,
+        4,
+        3,
+        0,
+        0
+      ],
+      "2020-04": [
+        2,
+        3,
+        1,
+        1,
+        0,
+        2,
+        1,
+        0
+      ],
+      "2020-05": [
+        3,
+        1,
+        2,
+        0,
+        2,
+        3,
+        1,
+        1
+      ],
+      "2020-06": [
+        7,
+        0,
+        1,
+        0,
+        0,
+        2,
+        4,
+        0
+      ],
+      "2020-07": [
+        2,
+        3,
+        2,
+        2,
+        5,
+        4,
+        4,
+        0
+      ],
+      "2020-08": [
+        1,
+        0,
+        1,
+        0,
+        4,
+        4,
+        2,
+        0
+      ],
+      "2020-09": [
+        3,
+        3,
+        4,
+        1,
+        4,
+        3,
+        1,
+        2
+      ],
+      "2020-10": [
+        1,
+        6,
+        1,
+        1,
+        1,
+        5,
+        2,
+        2
+      ],
+      "2020-11": [
+        3,
+        6,
+        2,
+        1,
+        3,
+        5,
+        2,
+        1
+      ],
+      "2020-12": [
+        3,
+        1,
+        3,
+        1,
+        0,
+        4,
+        3,
+        0
+      ],
+      "2021-01": [
+        2,
+        3,
+        1,
+        2,
+        1,
+        4,
+        3,
+        0
+      ],
+      "2021-02": [
+        4,
+        1,
+        1,
+        1,
+        2,
+        7,
+        1,
+        1
+      ],
+      "2021-03": [
+        8,
+        1,
+        2,
+        6,
+        1,
+        1,
+        5,
+        0
+      ],
+      "2021-04": [
+        6,
+        1,
+        3,
+        1,
+        4,
+        5,
+        3,
+        1
+      ],
+      "2021-05": [
+        4,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "2021-06": [
+        1,
+        1,
+        2,
+        1,
+        4,
+        2,
+        1,
+        0
+      ],
+      "2021-07": [
+        5,
+        4,
+        2,
+        0,
+        3,
+        4,
+        3,
+        1
+      ],
+      "2021-08": [
+        5,
+        4,
+        2,
+        0,
+        5,
+        0,
+        1,
+        0
+      ],
+      "2021-09": [
+        6,
+        0,
+        1,
+        0,
+        1,
+        5,
+        5,
+        0
+      ],
+      "2021-10": [
+        3,
+        3,
+        0,
+        0,
+        0,
+        1,
+        5,
+        1
+      ],
+      "2021-11": [
+        7,
+        2,
+        4,
+        1,
+        1,
+        4,
+        3,
+        2
+      ],
+      "2021-12": [
+        5,
+        1,
+        1,
+        2,
+        2,
+        5,
+        3,
+        2
+      ],
+      "2022-01": [
+        4,
+        2,
+        2,
+        1,
+        4,
+        4,
+        0,
+        0
+      ],
+      "2022-02": [
+        2,
+        3,
+        1,
+        1,
+        2,
+        4,
+        4,
+        1
+      ],
+      "2022-03": [
+        3,
+        1,
+        3,
+        0,
+        2,
+        2,
+        3,
+        1
+      ],
+      "2022-04": [
+        2,
+        2,
+        5,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "2022-05": [
+        5,
+        1,
+        2,
+        0,
+        2,
+        6,
+        1,
+        0
+      ],
+      "2022-06": [
+        4,
+        1,
+        2,
+        1,
+        3,
+        2,
+        1,
+        0
+      ],
+      "2022-07": [
+        5,
+        4,
+        2,
+        1,
+        3,
+        2,
+        1,
+        1
+      ],
+      "2022-08": [
+        2,
+        0,
+        5,
+        0,
+        1,
+        3,
+        2,
+        0
+      ],
+      "2022-09": [
+        1,
+        6,
+        1,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "2022-10": [
+        5,
+        1,
+        2,
+        2,
+        0,
+        2,
+        0,
+        0
+      ],
+      "2022-11": [
+        1,
+        0,
+        3,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "2022-12": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "2023-01": [
+        1,
+        0,
+        4,
+        0,
+        1,
+        3,
+        2,
+        1
+      ],
+      "2023-02": [
+        2,
+        3,
+        1,
+        1,
+        2,
+        4,
+        2,
+        0
+      ],
+      "2023-03": [
+        2,
+        1,
+        3,
+        1,
+        1,
+        7,
+        3,
+        1
+      ],
+      "2023-04": [
+        5,
+        6,
+        1,
+        2,
+        1,
+        4,
+        2,
+        0
+      ],
+      "2023-05": [
+        4,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        3
+      ],
+      "2023-06": [
+        3,
+        3,
+        4,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "2023-07": [
+        0,
+        3,
+        5,
+        1,
+        0,
+        4,
+        2,
+        0
+      ],
+      "2023-08": [
+        2,
+        4,
+        3,
+        2,
+        1,
+        3,
+        1,
+        0
+      ],
+      "2023-09": [
+        6,
+        2,
+        1,
+        1,
+        1,
+        5,
+        0,
+        0
+      ],
+      "2023-10": [
+        1,
+        2,
+        2,
+        0,
+        1,
+        4,
+        0,
+        1
+      ],
+      "2023-11": [
+        4,
+        2,
+        3,
+        0,
+        2,
+        1,
+        2,
+        0
+      ],
+      "2023-12": [
+        3,
+        1,
+        5,
+        1,
+        1,
+        0,
+        2,
+        0
+      ],
+      "2024-01": [
+        5,
+        3,
+        0,
+        2,
+        0,
+        3,
+        1,
+        0
+      ],
+      "2024-02": [
+        3,
+        5,
+        2,
+        1,
+        0,
+        1,
+        0,
+        2
+      ],
+      "2024-03": [
+        2,
+        4,
+        2,
+        2,
+        3,
+        3,
+        0,
+        0
+      ],
+      "2024-04": [
+        5,
+        0,
+        0,
+        0,
+        2,
+        7,
+        1,
+        0
+      ],
+      "2024-05": [
+        5,
+        1,
+        4,
+        0,
+        5,
+        4,
+        4,
+        0
+      ],
+      "2024-06": [
+        4,
+        3,
+        3,
+        4,
+        0,
+        2,
+        1,
+        0
+      ],
+      "2024-07": [
+        4,
+        0,
+        2,
+        1,
+        0,
+        2,
+        1,
+        0
+      ],
+      "2024-08": [
+        4,
+        2,
+        1,
+        0,
+        0,
+        4,
+        2,
+        0
+      ],
+      "2024-09": [
+        2,
+        3,
+        5,
+        1,
+        3,
+        2,
+        3,
+        0
+      ],
+      "2024-10": [
+        6,
+        0,
+        4,
+        1,
+        3,
+        5,
+        1,
+        1
+      ],
+      "2024-11": [
+        2,
+        0,
+        2,
+        2,
+        1,
+        0,
+        2,
+        1
+      ],
+      "2024-12": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        3,
+        3,
+        1
+      ],
+      "2025-01": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        3,
+        2,
+        0
+      ],
+      "2025-02": [
+        3,
+        2,
+        3,
+        0,
+        1,
+        2,
+        1,
+        1
+      ],
+      "2025-03": [
+        3,
+        0,
+        1,
+        0,
+        2,
+        5,
+        1,
+        0
+      ],
+      "2025-04": [
+        6,
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "2025-05": [
+        1,
+        3,
+        7,
+        1,
+        0,
+        5,
+        1,
+        0
+      ],
+      "2025-06": [
+        3,
+        5,
+        2,
+        2,
+        3,
+        2,
+        3,
+        1
+      ],
+      "2025-07": [
+        3,
+        0,
+        4,
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "2025-08": [
+        7,
+        1,
+        1,
+        0,
+        1,
+        2,
+        5,
+        2
+      ],
+      "2025-09": [
+        3,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The aggregated unfitted finite element method on parallel tree-based adaptive meshes",
+          "year": "2020-06",
+          "abstract": "In this work, we present an adaptive unfitted finite element scheme that\ncombines the aggregated finite element method with parallel adaptive mesh\nrefinement. We introduce a novel scalable distributed-memory implementation of\nthe resulting scheme on locally-adapted Cartesian forest-of-trees meshes. We\npropose a two-step algorithm to construct the finite element space at hand by\nmeans of a discrete extension operator that carefully mixes aggregation\nconstraints of problematic degrees of freedom, which get rid of the small cut\ncell problem, and standard hanging degree of freedom constraints, which ensure\ntrace continuity on non-conforming meshes. Following this approach, we derive a\nfinite element space that can be expressed as the original one plus\nwell-defined linear constraints. Moreover, it requires minimum parallelization\neffort, using standard functionality available in existing large-scale finite\nelement codes. Numerical experiments demonstrate its optimal mesh adaptation\ncapability, robustness to cut location and parallel efficiency, on classical\nPoisson $hp$-adaptivity benchmarks. Our work opens the path to functional and\ngeometrical error-driven dynamic mesh adaptation with the aggregated finite\nelement method in large-scale realistic scenarios. Likewise, it can offer\nguidance for bridging other scalable unfitted methods and parallel adaptive\nmesh refinement.",
+          "arxiv_id": "2006.05373v2"
+        },
+        {
+          "title": "Robust and scalable h-adaptive aggregated unfitted finite elements for interface elliptic problems",
+          "year": "2020-06",
+          "abstract": "This work introduces a novel, fully robust and highly-scalable, $h$-adaptive\naggregated unfitted finite element method for large-scale interface elliptic\nproblems. The new method is based on a recent distributed-memory implementation\nof the aggregated finite element method atop a highly-scalable Cartesian\nforest-of-trees mesh engine. It follows the classical approach of weakly\ncoupling nonmatching discretisations at the interface to model internal\ndiscontinuities at the interface. We propose a natural extension of a\nsingle-domain parallel cell aggregation scheme to problems with a finite number\nof interfaces; it straightforwardly leads to aggregated finite element spaces\nthat have the structure of a Cartesian product. We demonstrate, through\nstandard numerical analysis and exhaustive numerical experimentation on several\ncomplex Poisson and linear elasticity benchmarks, that the new technique enjoys\nthe following properties: well-posedness, robustness with respect to cut\nlocation and material contrast, optimal ($h$-adaptive) approximation\nproperties, high scalability and easy implementation in large-scale finite\nelement codes. As a result, the method offers great potential as a useful\nfinite element solver for large-scale interface problems modelled by partial\ndifferential equations.",
+          "arxiv_id": "2006.11042v2"
+        },
+        {
+          "title": "Accelerating High-Order Mesh Optimization Using Finite Element Partial Assembly on GPUs",
+          "year": "2022-05",
+          "abstract": "In this paper we present a new GPU-oriented mesh optimization method based on\nhigh-order finite elements. Our approach relies on node movement with fixed\ntopology, through the Target-Matrix Optimization Paradigm (TMOP) and uses a\nglobal nonlinear solve over the whole computational mesh, i.e., all mesh nodes\nare moved together. A key property of the method is that the mesh optimization\nprocess is recast in terms of finite element operations, which allows us to\nutilize recent advances in the field of GPU-accelerated high-order finite\nelement algorithms. For example, we reduce data motion by using tensor\nfactorization and matrix-free methods, which have superior performance\ncharacteristics compared to traditional full finite element matrix assembly and\noffer advantages for GPU-based HPC hardware. We describe the major mathematical\ncomponents of the method along with their efficient GPU-oriented\nimplementation. In addition, we propose an easily reproducible mesh\noptimization test that can serve as a performance benchmark for the mesh\noptimization community.",
+          "arxiv_id": "2205.12721v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "A Novel Approach to Generate Correctly Rounded Math Libraries for New Floating Point Representations",
+          "year": "2020-07",
+          "abstract": "Given the importance of floating-point~(FP) performance in numerous domains,\nseveral new variants of FP and its alternatives have been proposed (e.g.,\nBfloat16, TensorFloat32, and Posits). These representations do not have\ncorrectly rounded math libraries. Further, the use of existing FP libraries for\nthese new representations can produce incorrect results. This paper proposes a\nnovel approach for generating polynomial approximations that can be used to\nimplement correctly rounded math libraries. Existing methods generate\npolynomials that approximate the real value of an elementary function $f(x)$\nand produce wrong results due to approximation errors and rounding errors in\nthe implementation. In contrast, our approach generates polynomials that\napproximate the correctly rounded value of $f(x)$ (i.e., the value of $f(x)$\nrounded to the target representation). It provides more margin to identify\nefficient polynomials that produce correctly rounded results for all inputs. We\nframe the problem of generating efficient polynomials that produce correctly\nrounded results as a linear programming problem. Our approach guarantees that\nwe produce the correct result even with range reduction techniques. Using our\napproach, we have developed correctly rounded, yet faster, implementations of\nelementary functions for multiple target representations.",
+          "arxiv_id": "2007.05344v3"
+        },
+        {
+          "title": "Accuracy of Mathematical Functions in Julia",
+          "year": "2025-09",
+          "abstract": "Basic computer arithmetic operations, such as $+$, $\\times$, or $\\div$ are\ncorrectly rounded, whilst mathematical functions such as $e^x$, $\\ln(x)$, or\n$\\sin(x)$ in general are not, meaning that separate implementations may provide\ndifferent results when presented with an exact same input, and that their\naccuracy may differ. We present a methodology and a software tool that is\nsuited for exhaustive and non-exhaustive testing of mathematical functions of\nJulia in various floating-point formats. The software tool is useful to the\nusers of Julia, to quantise the level of accuracy of the mathematical functions\nand interpret possible effects of errors on their scientific computation codes\nthat depend on these functions. It is also useful to the developers and\nmaintainers of the functions in Julia Base, to test the modifications to\nexisting functions and to test the accuracy of new functions. The software (a\ntest bench) is designed to be easy to set up for running the accuracy tests in\nautomatic regression testing. Our focus is to provide software that is user\nfriendly and allows to avoid the need for specialised knowledge of\nfloating-point arithmetic or the workings of mathematical functions; users only\nneed to supply a list of formats, choose the rounding modes, and specify the\ninput space search strategies based on how long they can afford the testing to\nrun. We have utilized the test bench to determine the errors of a subset of\nmathematical functions in the latest version of Julia, for binary16, binary32,\nand binary64 IEEE 754 floating-point formats, and found $0.49$ to $0.51$ULPs in\nbinary16, and $0.5$ to $2.4$ULPs of error in binary32 and binary64. The\nfunctions that may be correctly rounded (error of $0.5$ULP) in all the three\nformats are sqrt and cbrt. The following functions may be correctly rounded\nonly for binary16: sinh, asin, cospi, sinpi, atanh, log2, tanh.",
+          "arxiv_id": "2509.05666v1"
+        },
+        {
+          "title": "RLIBM-ALL: A Novel Polynomial Approximation Method to Produce Correctly Rounded Results for Multiple Representations and Rounding Modes",
+          "year": "2021-08",
+          "abstract": "Mainstream math libraries for floating point (FP) do not produce correctly\nrounded results for all inputs. In contrast, CR-LIBM and RLIBM provide\ncorrectly rounded implementations for a specific FP representation with one\nrounding mode. Using such libraries for a representation with a new rounding\nmode or with different precision will result in wrong results due to double\nrounding. This paper proposes a novel method to generate a single polynomial\napproximation that produces correctly rounded results for all inputs for\nmultiple rounding modes and multiple precision configurations. To generate a\ncorrectly rounded library for $n$-bits, our key idea is to generate such a\npolynomial approximation for a representation with $n+2$-bits using the\n\\emph{round-to-odd} mode. We prove that the resulting polynomial approximation\nwill produce correctly rounded results for all five rounding modes in the\nstandard and for multiple representations with $k$-bits such that $|E| +1 < k\n\\leq n$, where $|E|$ is the number of exponent bits in the representation.\nBuilding on our prior work in the RLIBM project, we also approximate the\ncorrectly rounded result when we generate the library with $n+2$-bits using the\nround-to-odd mode. We also generate polynomial approximations by structuring it\nas a linear programming problem but propose enhancements to polynomial\ngeneration to handle the round-to-odd mode. Our prototype is the first 32-bit\nfloat library that produces correctly rounded results with all rounding modes\nin the IEEE standard for all inputs with a single polynomial approximation. It\nalso produces correctly rounded results for any FP configuration ranging from\n10-bits to 32-bits while also being faster than mainstream libraries.",
+          "arxiv_id": "2108.06756v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "A New Challenging Curve Fitting Benchmark Test Set for Global Optimization",
+          "year": "2023-12",
+          "abstract": "Benchmark sets are extremely important for evaluating and developing global\noptimization algorithms and related solvers. A new test set named PCC benchmark\nis proposed especially for optimization problems of nonlinear curve fitting for\nthe first time, with the aspiration of helping developers to investigate and\ncompare the performance of different global optimization solvers, as well as\nmore effective optimization algorithms could be developed. Compared with the\nwell-known classical nonlinear curve fitting benchmark set given by the\nNational Institute of Standards and Technology (NIST) of USA, the most\ndistinguishable features of the PCC benchmark are small problem dimensions,\nunconstrained with free search domain and high level of difficulty for\nobtaining global optimization solutions, which make the PCC benchmark be not\nonly suitable for validating the effectiveness of different global optimization\nalgorithms, but also more ideal for verifying and comparing various related\nsolvers. Seven of the world's leading global optimization solvers, including\nBaron, Antigone, Couenne, Lingo, Scip, Matlab-GA and 1stOpt, are employed to\ntest NIST and PCC benchmark thoroughly in terms of both effectiveness and\nefficiency. The results showed that the NIST benchmark is relatively simple and\nnot suitable for global optimization testing, meanwhile the PCC benchmark is a\nunique, challenging and effective test dataset for global optimization.",
+          "arxiv_id": "2312.01709v4"
+        },
+        {
+          "title": "GPSAF: A Generalized Probabilistic Surrogate-Assisted Framework for Constrained Single- and Multi-objective Optimization",
+          "year": "2022-04",
+          "abstract": "Significant effort has been made to solve computationally expensive\noptimization problems in the past two decades, and various optimization methods\nincorporating surrogates into optimization have been proposed. Most research\nfocuses on either exploiting the surrogate by defining a utility optimization\nproblem or customizing an existing optimization method to use one or multiple\napproximation models. However, only a little attention has been paid to generic\nconcepts applicable to different types of algorithms and optimization problems\nsimultaneously. Thus this paper proposes a generalized probabilistic\nsurrogate-assisted framework (GPSAF), applicable to a broad category of\nunconstrained and constrained, single- and multi-objective optimization\nalgorithms. The idea is based on a surrogate assisting an existing optimization\nmethod. The assistance is based on two distinct phases, one facilitating\nexploration and another exploiting the surrogates. The exploration and\nexploitation of surrogates are automatically balanced by performing a\nprobabilistic knockout tournament among different clusters of solutions. A\nstudy of multiple well-known population-based optimization algorithms is\nconducted with and without the proposed surrogate assistance on single- and\nmulti-objective optimization problems with a maximum solution evaluation budget\nof 300 or less. The results indicate the effectiveness of applying GPSAF to an\noptimization algorithm and the competitiveness with other surrogate-assisted\nalgorithms.",
+          "arxiv_id": "2204.04054v1"
+        },
+        {
+          "title": "An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem",
+          "year": "2024-05",
+          "abstract": "Continuous p-dispersion problems with and without boundary constraints are\nNP-hard optimization problems with numerous real-world applications, notably in\nfacility location and circle packing, which are widely studied in mathematics\nand operations research. In this work, we concentrate on general cases with a\nnon-convex multiply-connected region that are rarely studied in the literature\ndue to their intractability and the absence of an efficient optimization model.\nUsing the penalty function approach, we design a unified and almost everywhere\ndifferentiable optimization model for these complex problems and propose a tabu\nsearch-based global optimization (TSGO) algorithm for solving them.\nComputational results over a variety of benchmark instances show that the\nproposed model works very well, allowing popular local optimization methods\n(e.g., the quasi-Newton methods and the conjugate gradient methods) to reach\nhigh-precision solutions due to the differentiability of the model. These\nresults further demonstrate that the proposed TSGO algorithm is very efficient\nand significantly outperforms several popular global optimization algorithms in\nthe literature, improving the best-known solutions for several existing\ninstances in a short computational time. Experimental analyses are conducted to\nshow the influence of several key ingredients of the algorithm on computational\nperformance.",
+          "arxiv_id": "2405.16618v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Geomstats: A Python Package for Riemannian Geometry in Machine Learning",
+          "year": "2020-04",
+          "abstract": "We introduce Geomstats, an open-source Python toolbox for computations and\nstatistics on nonlinear manifolds, such as hyperbolic spaces, spaces of\nsymmetric positive definite matrices, Lie groups of transformations, and many\nmore. We provide object-oriented and extensively unit-tested implementations.\nAmong others, manifolds come equipped with families of Riemannian metrics, with\nassociated exponential and logarithmic maps, geodesics and parallel transport.\nStatistics and learning algorithms provide methods for estimation, clustering\nand dimension reduction on manifolds. All associated operations are vectorized\nfor batch computation and provide support for different execution backends,\nnamely NumPy, PyTorch and TensorFlow, enabling GPU acceleration. This paper\npresents the package, compares it with related libraries and provides relevant\ncode examples. We show that Geomstats provides reliable building blocks to\nfoster research in differential geometry and statistics, and to democratize the\nuse of Riemannian geometry in machine learning applications. The source code is\nfreely available under the MIT license at \\url{geomstats.ai}.",
+          "arxiv_id": "2004.04667v1"
+        },
+        {
+          "title": "tf.data: A Machine Learning Data Processing Framework",
+          "year": "2021-01",
+          "abstract": "Training machine learning models requires feeding input data for models to\ningest. Input pipelines for machine learning jobs are often challenging to\nimplement efficiently as they require reading large volumes of data, applying\ncomplex transformations, and transferring data to hardware accelerators while\noverlapping computation and communication to achieve optimal performance. We\npresent tf.data, a framework for building and executing efficient input\npipelines for machine learning jobs. The tf.data API provides operators which\ncan be parameterized with user-defined computation, composed, and reused across\ndifferent machine learning domains. These abstractions allow users to focus on\nthe application logic of data processing, while tf.data's runtime ensures that\npipelines run efficiently.\n  We demonstrate that input pipeline performance is critical to the end-to-end\ntraining time of state-of-the-art machine learning models. tf.data delivers the\nhigh performance required, while avoiding the need for manual tuning of\nperformance knobs. We show that tf.data features, such as parallelism, caching,\nstatic optimizations, and non-deterministic execution are essential for high\nperformance. Finally, we characterize machine learning input pipelines for\nmillions of jobs that ran in Google's fleet, showing that input data processing\nis highly diverse and consumes a significant fraction of job resources. Our\nanalysis motivates future research directions, such as sharing computation\nacross jobs and pushing data projection to the storage layer.",
+          "arxiv_id": "2101.12127v2"
+        },
+        {
+          "title": "PlasmoData.jl -- A Julia Framework for Modeling and Analyzing Complex Data as Graphs",
+          "year": "2024-01",
+          "abstract": "Datasets encountered in scientific and engineering applications appear in\ncomplex formats (e.g., images, multivariate time series, molecules, video, text\nstrings, networks). Graph theory provides a unifying framework to model such\ndatasets and enables the use of powerful tools that can help analyze,\nvisualize, and extract value from data. In this work, we present\nPlasmoData$.$jl, an open-source, Julia framework that uses concepts of graph\ntheory to facilitate the modeling and analysis of complex datasets. The core of\nour framework is a general data modeling abstraction, which we call a\nDataGraph. We show how the abstraction and software implementation can be used\nto represent diverse data objects as graphs and to enable the use of tools from\ntopology, graph theory, and machine learning (e.g., graph neural networks) to\nconduct a variety of tasks. We illustrate the versatility of the framework by\nusing real datasets: i) an image classification problem using topological data\nanalysis to extract features from the graph model to train machine learning\nmodels; ii) a disease outbreak problem where we model multivariate time series\nas graphs to detect abnormal events; and iii) a technology pathway analysis\nproblem where we highlight how we can use graphs to navigate connectivity. Our\ndiscussion also highlights how PlasmoData$.$jl leverages native Julia\ncapabilities to enable compact syntax, scalable computations, and interfaces\nwith diverse packages.",
+          "arxiv_id": "2401.11404v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Randomized Projection for Rank-Revealing Matrix Factorizations and Low-Rank Approximations",
+          "year": "2020-08",
+          "abstract": "Rank-revealing matrix decompositions provide an essential tool in spectral\nanalysis of matrices, including the Singular Value Decomposition (SVD) and\nrelated low-rank approximation techniques. QR with Column Pivoting (QRCP) is\nusually suitable for these purposes, but it can be much slower than the\nunpivoted QR algorithm. For large matrices, the difference in performance is\ndue to increased communication between the processor and slow memory, which\nQRCP needs in order to choose pivots during decomposition. Our main algorithm,\nRandomized QR with Column Pivoting (RQRCP), uses randomized projection to make\npivot decisions from a much smaller sample matrix, which we can construct to\nreside in a faster level of memory than the original matrix. This technique may\nbe understood as trading vastly reduced communication for a controlled increase\nin uncertainty during the decision process. For rank-revealing purposes, the\nselection mechanism in RQRCP produces results that are the same quality as the\nstandard algorithm, but with performance near that of unpivoted QR (often an\norder of magnitude faster for large matrices). We also propose two formulas\nthat facilitate further performance improvements. The first efficiently updates\nsample matrices to avoid computing new randomized projections. The second\navoids large trailing updates during the decomposition in truncated low-rank\napproximations. Our truncated version of RQRCP also provides a key initial step\nin our truncated SVD approximation, TUXV. These advances open up a new\nperformance domain for large matrix factorizations that will support efficient\nproblem-solving techniques for challenging applications in science,\nengineering, and data analysis.",
+          "arxiv_id": "2008.04447v1"
+        },
+        {
+          "title": "Computing rank-revealing factorizations of matrices stored out-of-core",
+          "year": "2020-02",
+          "abstract": "This paper describes efficient algorithms for computing rank-revealing\nfactorizations of matrices that are too large to fit in RAM, and must instead\nbe stored on slow external memory devices such as solid-state or spinning disk\nhard drives (out-of-core or out-of-memory). Traditional algorithms for\ncomputing rank revealing factorizations, such as the column pivoted QR\nfactorization, or techniques for computing a full singular value decomposition\nof a matrix, are very communication intensive. They are naturally expressed as\na sequence of matrix-vector operations, which become prohibitively expensive\nwhen data is not available in main memory. Randomization allows these methods\nto be reformulated so that large contiguous blocks of the matrix can be\nprocessed in bulk. The paper describes two distinct methods. The first is a\nblocked version of column pivoted Householder QR, organized as a \"left-looking\"\nmethod to minimize the number of write operations (which are more expensive\nthan read operations on a spinning disk drive). The second method results in a\nso called UTV factorization which expresses a matrix $A$ as $A = U T V^*$ where\n$U$ and $V$ are unitary, and $T$ is triangular. This method is organized as an\nalgorithm-by-blocks, in which floating point operations overlap read and write\noperations. The second method incorporates power iterations, and is\nexceptionally good at revealing the numerical rank; it can often be used as a\nsubstitute for a full singular value decomposition. Numerical experiments\ndemonstrate that the new algorithms are almost as fast when processing data\nstored on a hard drive as traditional algorithms are for data stored in main\nmemory. To be precise, the computational time for fully factorizing an $n\\times\nn$ matrix scales as $cn^{3}$, with a scaling constant $c$ that is only\nmarginally larger when the matrix is stored out of core.",
+          "arxiv_id": "2002.06960v2"
+        },
+        {
+          "title": "Efficient algorithms for computing a rank-revealing UTV factorization on parallel computing architectures",
+          "year": "2021-04",
+          "abstract": "The randomized singular value decomposition (RSVD) is by now a well\nestablished technique for efficiently computing an approximate singular value\ndecomposition of a matrix. Building on the ideas that underpin the RSVD, the\nrecently proposed algorithm \"randUTV\" computes a FULL factorization of a given\nmatrix that provides low-rank approximations with near-optimal error. Because\nthe bulk of randUTV is cast in terms of communication-efficient operations like\nmatrix-matrix multiplication and unpivoted QR factorizations, it is faster than\ncompeting rank-revealing factorization methods like column pivoted QR in most\nhigh performance computational settings. In this article, optimized randUTV\nimplementations are presented for both shared memory and distributed memory\ncomputing environments. For shared memory, randUTV is redesigned in terms of an\n\"algorithm-by-blocks\" that, together with a runtime task scheduler, eliminates\nbottlenecks from data synchronization points to achieve acceleration over the\nstandard \"blocked algorithm\", based on a purely fork-join approach. The\ndistributed memory implementation is based on the ScaLAPACK library. The\nperformances of our new codes compare favorably with competing factorizations\navailable on both shared memory and distributed memory architectures.",
+          "arxiv_id": "2104.05782v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "pymdp: A Python library for active inference in discrete state spaces",
+          "year": "2022-01",
+          "abstract": "Active inference is an account of cognition and behavior in complex systems\nwhich brings together action, perception, and learning under the theoretical\nmantle of Bayesian inference. Active inference has seen growing applications in\nacademic research, especially in fields that seek to model human or animal\nbehavior. While in recent years, some of the code arising from the active\ninference literature has been written in open source languages like Python and\nJulia, to-date, the most popular software for simulating active inference\nagents is the DEM toolbox of SPM, a MATLAB library originally developed for the\nstatistical analysis and modelling of neuroimaging data. Increasing interest in\nactive inference, manifested both in terms of sheer number as well as\ndiversifying applications across scientific disciplines, has thus created a\nneed for generic, widely-available, and user-friendly code for simulating\nactive inference in open-source scientific computing languages like Python. The\nPython package we present here, pymdp (see\nhttps://github.com/infer-actively/pymdp), represents a significant step in this\ndirection: namely, we provide the first open-source package for simulating\nactive inference with partially-observable Markov Decision Processes or POMDPs.\nWe review the package's structure and explain its advantages like modular\ndesign and customizability, while providing in-text code blocks along the way\nto demonstrate how it can be used to build and run active inference processes\nwith ease. We developed pymdp to increase the accessibility and exposure of the\nactive inference framework to researchers, engineers, and developers with\ndiverse disciplinary backgrounds. In the spirit of open-source software, we\nalso hope that it spurs new innovation, development, and collaboration in the\ngrowing active inference community.",
+          "arxiv_id": "2201.03904v2"
+        },
+        {
+          "title": "CausalGPS: An R Package for Causal Inference With Continuous Exposures",
+          "year": "2023-10",
+          "abstract": "Quantifying the causal effects of continuous exposures on outcomes of\ninterest is critical for social, economic, health, and medical research.\nHowever, most existing software packages focus on binary exposures. We develop\nthe CausalGPS R package that implements a collection of algorithms to provide\nalgorithmic solutions for causal inference with continuous exposures. CausalGPS\nimplements a causal inference workflow, with algorithms based on generalized\npropensity scores (GPS) as the core, extending propensity scores (the\nprobability of a unit being exposed given pre-exposure covariates) from binary\nto continuous exposures. As the first step, the package implements efficient\nand flexible estimations of the GPS, allowing multiple user-specified modeling\noptions. As the second step, the package provides two ways to adjust for\nconfounding: weighting and matching, generating weighted and matched data sets,\nrespectively. Lastly, the package provides built-in functions to fit flexible\nparametric, semi-parametric, or non-parametric regression models on the\nweighted or matched data to estimate the exposure-response function relating\nthe outcome with the exposures. The computationally intensive tasks are\nimplemented in C++, and efficient shared-memory parallelization is achieved by\nOpenMP API. This paper outlines the main components of the CausalGPS R package\nand demonstrates its application to assess the effect of long-term exposure to\nPM2.5 on educational attainment using zip code-level data from the contiguous\nUnited States from 2000-2016.",
+          "arxiv_id": "2310.00561v1"
+        },
+        {
+          "title": "An R package for parametric estimation of causal effects",
+          "year": "2023-07",
+          "abstract": "This article explains the usage of R package CausalModels, which is publicly\navailable on the Comprehensive R Archive Network. While packages are available\nfor sufficiently estimating causal effects, there lacks a package that provides\na collection of structural models using the conventional statistical approach\ndeveloped by Hernan and Robins (2020). CausalModels addresses this deficiency\nof software in R concerning causal inference by offering tools for methods that\naccount for biases in observational data without requiring extensive\nstatistical knowledge. These methods should not be ignored and may be more\nappropriate or efficient in solving particular problems. While implementations\nof these statistical models are distributed among a number of causal packages,\nCausalModels introduces a simple and accessible framework for a consistent\nmodeling pipeline among a variety of statistical methods for estimating causal\neffects in a single R package. It consists of common methods including\nstandardization, IP weighting, G-estimation, outcome regression, instrumental\nvariables and propensity matching.",
+          "arxiv_id": "2307.08686v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Compressing Structured Tensor Algebra",
+          "year": "2024-07",
+          "abstract": "Tensor algebra is a crucial component for data-intensive workloads such as\nmachine learning and scientific computing. As the complexity of data grows,\nscientists often encounter a dilemma between the highly specialized dense\ntensor algebra and efficient structure-aware algorithms provided by sparse\ntensor algebra. In this paper, we introduce DASTAC, a framework to propagate\nthe tensors's captured high-level structure down to low-level code generation\nby incorporating techniques such as automatic data layout compression,\npolyhedral analysis, and affine code generation. Our methodology reduces memory\nfootprint by automatically detecting the best data layout, heavily benefits\nfrom polyhedral optimizations, leverages further optimizations, and enables\nparallelization through MLIR. Through extensive experimentation, we show that\nDASTAC achieves 1 to 2 orders of magnitude speedup over TACO, a\nstate-of-the-art sparse tensor compiler, and StructTensor, a state-of-the-art\nstructured tensor algebra compiler, with a significantly lower memory\nfootprint.",
+          "arxiv_id": "2407.13726v1"
+        },
+        {
+          "title": "Dynamic Sparse Tensor Algebra Compilation",
+          "year": "2021-12",
+          "abstract": "This paper shows how to generate efficient tensor algebra code that compute\non dynamic sparse tensors, which have sparsity structures that evolve over\ntime. We propose a language for precisely specifying recursive, pointer-based\ndata structures, and we show how this language can express a wide range of\ndynamic data structures that support efficient modification, such as linked\nlists, binary search trees, and B-trees. We then describe how, given high-level\nspecifications of such data structures, a compiler can generate code to\nefficiently iterate over and compute with dynamic sparse tensors that are\nstored in the aforementioned data structures. Furthermore, we define an\nabstract interface that captures how nonzeros can be inserted into dynamic data\nstructures, and we show how this abstraction guides a compiler to emit\nefficient code that store the results of sparse tensor algebra computations in\ndynamic data structures.\n  We evaluate our technique and find that it generates efficient dynamic sparse\ntensor algebra kernels. Code that our technique emits to compute the main\nkernel of the PageRank algorithm is 1.05$\\times$ as fast as Aspen, a\nstate-of-the-art dynamic graph processing framework. Furthermore, our technique\noutperforms PAM, a parallel ordered (key-value) maps library, by 7.40$\\times$\nwhen used to implement element-wise addition of a dynamic sparse matrix to a\nstatic sparse matrix.",
+          "arxiv_id": "2112.01394v1"
+        },
+        {
+          "title": "Automatic Generation of Efficient Sparse Tensor Format Conversion Routines",
+          "year": "2020-01",
+          "abstract": "This paper shows how to generate code that efficiently converts sparse\ntensors between disparate storage formats (data layouts) such as CSR, DIA, ELL,\nand many others. We decompose sparse tensor conversion into three logical\nphases: coordinate remapping, analysis, and assembly. We then develop a\nlanguage that precisely describes how different formats group together and\norder a tensor's nonzeros in memory. This lets a compiler emit code that\nperforms complex remappings of nonzeros when converting between formats. We\nalso develop a query language that can extract statistics about sparse tensors,\nand we show how to emit efficient analysis code that computes such queries.\nFinally, we define an abstract interface that captures how data structures for\nstoring a tensor can be efficiently assembled given specific statistics about\nthe tensor. Disparate formats can implement this common interface, thus letting\na compiler emit optimized sparse tensor conversion code for arbitrary\ncombinations of many formats without hard-coding for any specific combination.\n  Our evaluation shows that the technique generates sparse tensor conversion\nroutines with performance between 1.00 and 2.01$\\times$ that of hand-optimized\nversions in SPARSKIT and Intel MKL, two popular sparse linear algebra\nlibraries. And by emitting code that avoids materializing temporaries, which\nboth libraries need for many combinations of source and target formats, our\ntechnique outperforms those libraries by 1.78 to 4.01$\\times$ for CSC/COO to\nDIA/ELL conversion.",
+          "arxiv_id": "2001.02609v3"
+        }
+      ],
+      "7": [
+        {
+          "title": "High Performance Uncertainty Quantification with Parallelized Multilevel Markov Chain Monte Carlo",
+          "year": "2021-07",
+          "abstract": "Numerical models of complex real-world phenomena often necessitate High\nPerformance Computing (HPC). Uncertainties increase problem dimensionality\nfurther and pose even greater challenges.\n  We present a parallelization strategy for multilevel Markov chain Monte\nCarlo, a state-of-the-art, algorithmically scalable Uncertainty Quantification\n(UQ) algorithm for Bayesian inverse problems, and a new software framework\nallowing for large-scale parallelism across forward model evaluations and the\nUQ algorithms themselves. The main scalability challenge presents itself in the\nform of strong data dependencies introduced by the MLMCMC method, prohibiting\ntrivial parallelization.\n  Our software is released as part of the modular and open-source MIT UQ\nLibrary (MUQ), and can easily be coupled with arbitrary user codes. We\ndemonstrate it using the DUNE and the ExaHyPE Engine. The latter provides a\nrealistic, large-scale tsunami model in which identify the source of a tsunami\nfrom buoy-elevation data.",
+          "arxiv_id": "2107.14552v1"
+        },
+        {
+          "title": "ParaMonte: A high-performance serial/parallel Monte Carlo simulation library for C, C++, Fortran",
+          "year": "2020-09",
+          "abstract": "ParaMonte (standing for Parallel Monte Carlo) is a serial and\nMPI/Coarray-parallelized library of Monte Carlo routines for sampling\nmathematical objective functions of arbitrary-dimensions, in particular, the\nposterior distributions of Bayesian models in data science, Machine Learning,\nand scientific inference. The ParaMonte library has been developed with the\ndesign goal of unifying the **automation**, **accessibility**,\n**high-performance**, **scalability**, and **reproducibility** of Monte Carlo\nsimulations. The current implementation of the library includes **ParaDRAM**, a\n**Para**llel **D**elyaed-**R**ejection **A**daptive **M**etropolis Markov Chain\nMonte Carlo sampler, accessible from a wide range of programming languages\nincluding C, C++, Fortran, with a unified Application Programming Interface and\nsimulation environment across all supported programming languages. The\nParaMonte library is MIT-licensed and is permanently located and maintained at\n[https://github.com/cdslaborg/paramonte](https://github.com/cdslaborg/paramonte).",
+          "arxiv_id": "2009.14229v1"
+        },
+        {
+          "title": "Fast fully-reproducible serial/parallel Monte Carlo and MCMC simulations and visualizations via ParaMonte::Python library",
+          "year": "2020-10",
+          "abstract": "ParaMonte::Python (standing for Parallel Monte Carlo in Python) is a serial\nand MPI-parallelized library of (Markov Chain) Monte Carlo (MCMC) routines for\nsampling mathematical objective functions, in particular, the posterior\ndistributions of parameters in Bayesian modeling and analysis in data science,\nMachine Learning, and scientific inference in general. In addition to providing\naccess to fast high-performance serial/parallel Monte Carlo and MCMC sampling\nroutines, the ParaMonte::Python library provides extensive post-processing and\nvisualization tools that aim to automate and streamline the process of model\ncalibration and uncertainty quantification in Bayesian data analysis.\nFurthermore, the automatically-enabled restart functionality of\nParaMonte::Python samplers ensure seamless fully-deterministic into-the-future\nrestart of Monte Carlo simulations, should any interruptions happen. The\nParaMonte::Python library is MIT-licensed and is permanently maintained on\nGitHub at\nhttps://github.com/cdslaborg/paramonte/tree/master/src/interface/Python.",
+          "arxiv_id": "2010.00724v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:40:43Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

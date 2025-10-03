@@ -1,0 +1,578 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_model_time_method",
+        "keywords": [
+          [
+            "data",
+            0.0346984452719218
+          ],
+          [
+            "model",
+            0.02493959671281964
+          ],
+          [
+            "time",
+            0.02148223384837409
+          ],
+          [
+            "method",
+            0.019201464889201967
+          ],
+          [
+            "learning",
+            0.018007193223516755
+          ],
+          [
+            "models",
+            0.0174693566037682
+          ],
+          [
+            "analysis",
+            0.017312251166460773
+          ],
+          [
+            "approach",
+            0.016068373416847734
+          ],
+          [
+            "networks",
+            0.015609771171493366
+          ],
+          [
+            "network",
+            0.015401819674659607
+          ]
+        ],
+        "count": 3716
+      },
+      "1": {
+        "name": "1_data_model_parameters_method",
+        "keywords": [
+          [
+            "data",
+            0.03028184966201074
+          ],
+          [
+            "model",
+            0.015402108936675048
+          ],
+          [
+            "parameters",
+            0.014501087902317767
+          ],
+          [
+            "method",
+            0.013661002939653845
+          ],
+          [
+            "cosmological",
+            0.012181633088366998
+          ],
+          [
+            "spectra",
+            0.011830747407738228
+          ],
+          [
+            "mass",
+            0.01178606501415317
+          ],
+          [
+            "models",
+            0.011539419773166875
+          ],
+          [
+            "galaxies",
+            0.010830964203541231
+          ],
+          [
+            "observations",
+            0.010631658990771736
+          ]
+        ],
+        "count": 232
+      },
+      "2": {
+        "name": "2_gravitational_gravitational wave_wave_noise",
+        "keywords": [
+          [
+            "gravitational",
+            0.08316458834113913
+          ],
+          [
+            "gravitational wave",
+            0.06384096664082048
+          ],
+          [
+            "wave",
+            0.0609986044729806
+          ],
+          [
+            "noise",
+            0.044587921880295596
+          ],
+          [
+            "data",
+            0.0441657990972982
+          ],
+          [
+            "signals",
+            0.04108160056750903
+          ],
+          [
+            "LISA",
+            0.03341426100071739
+          ],
+          [
+            "LIGO",
+            0.026543973131449957
+          ],
+          [
+            "frequency",
+            0.022973524467591253
+          ],
+          [
+            "detection",
+            0.0216490460383559
+          ]
+        ],
+        "count": 70
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        0.06758500663579074,
+        -0.4485061076965654
+      ],
+      [
+        0.06758500663579074,
+        1.0,
+        -0.3809854231319964
+      ],
+      [
+        -0.4485061076965654,
+        -0.3809854231319964,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        43,
+        12,
+        6
+      ],
+      "2020-02": [
+        39,
+        10,
+        1
+      ],
+      "2020-03": [
+        47,
+        17,
+        2
+      ],
+      "2020-04": [
+        46,
+        7,
+        7
+      ],
+      "2020-05": [
+        35,
+        7,
+        6
+      ],
+      "2020-06": [
+        36,
+        12,
+        4
+      ],
+      "2020-07": [
+        34,
+        8,
+        5
+      ],
+      "2020-08": [
+        36,
+        16,
+        6
+      ],
+      "2020-09": [
+        33,
+        7,
+        7
+      ],
+      "2020-10": [
+        52,
+        12,
+        5
+      ],
+      "2020-11": [
+        60,
+        8,
+        6
+      ],
+      "2020-12": [
+        54,
+        16,
+        3
+      ],
+      "2021-01": [
+        44,
+        13,
+        1
+      ],
+      "2021-02": [
+        44,
+        5,
+        3
+      ],
+      "2021-03": [
+        43,
+        14,
+        6
+      ],
+      "2021-04": [
+        42,
+        8,
+        1
+      ],
+      "2021-05": [
+        51,
+        10,
+        4
+      ],
+      "2021-06": [
+        43,
+        17,
+        3
+      ],
+      "2021-07": [
+        50,
+        12,
+        8
+      ],
+      "2021-08": [
+        42,
+        8,
+        6
+      ],
+      "2021-09": [
+        48,
+        10,
+        2
+      ],
+      "2021-10": [
+        46,
+        5,
+        5
+      ],
+      "2021-11": [
+        37,
+        13,
+        5
+      ],
+      "2021-12": [
+        38,
+        9,
+        2
+      ],
+      "2022-01": [
+        41,
+        10,
+        5
+      ],
+      "2022-02": [
+        46,
+        10,
+        5
+      ],
+      "2022-03": [
+        62,
+        12,
+        5
+      ],
+      "2022-04": [
+        46,
+        11,
+        8
+      ],
+      "2022-05": [
+        31,
+        12,
+        5
+      ],
+      "2022-06": [
+        43,
+        13,
+        3
+      ],
+      "2022-07": [
+        53,
+        14,
+        7
+      ],
+      "2022-08": [
+        39,
+        11,
+        2
+      ],
+      "2022-09": [
+        36,
+        7,
+        6
+      ],
+      "2022-10": [
+        45,
+        11,
+        7
+      ],
+      "2022-11": [
+        43,
+        7,
+        3
+      ],
+      "2022-12": [
+        34,
+        9,
+        1
+      ],
+      "2023-01": [
+        44,
+        17,
+        4
+      ],
+      "2023-02": [
+        33,
+        5,
+        5
+      ],
+      "2023-03": [
+        52,
+        9,
+        3
+      ],
+      "2023-04": [
+        40,
+        8,
+        7
+      ],
+      "2023-05": [
+        51,
+        7,
+        4
+      ],
+      "2023-06": [
+        47,
+        11,
+        2
+      ],
+      "2023-07": [
+        52,
+        14,
+        1
+      ],
+      "2023-08": [
+        43,
+        9,
+        4
+      ],
+      "2023-09": [
+        49,
+        12,
+        4
+      ],
+      "2023-10": [
+        61,
+        9,
+        8
+      ],
+      "2023-11": [
+        43,
+        6,
+        4
+      ],
+      "2023-12": [
+        43,
+        12,
+        2
+      ],
+      "2024-01": [
+        43,
+        7,
+        3
+      ],
+      "2024-02": [
+        44,
+        10,
+        6
+      ],
+      "2024-03": [
+        42,
+        5,
+        2
+      ],
+      "2024-04": [
+        43,
+        13,
+        4
+      ],
+      "2024-05": [
+        42,
+        15,
+        4
+      ],
+      "2024-06": [
+        50,
+        13,
+        7
+      ],
+      "2024-07": [
+        54,
+        11,
+        5
+      ],
+      "2024-08": [
+        38,
+        9,
+        1
+      ],
+      "2024-09": [
+        46,
+        8,
+        4
+      ],
+      "2024-10": [
+        55,
+        9,
+        9
+      ],
+      "2024-11": [
+        34,
+        12,
+        7
+      ],
+      "2024-12": [
+        54,
+        5,
+        3
+      ],
+      "2025-01": [
+        48,
+        12,
+        6
+      ],
+      "2025-02": [
+        42,
+        9,
+        5
+      ],
+      "2025-03": [
+        45,
+        10,
+        3
+      ],
+      "2025-04": [
+        41,
+        10,
+        4
+      ],
+      "2025-05": [
+        53,
+        17,
+        9
+      ],
+      "2025-06": [
+        43,
+        16,
+        3
+      ],
+      "2025-07": [
+        59,
+        12,
+        5
+      ],
+      "2025-08": [
+        45,
+        7,
+        2
+      ],
+      "2025-09": [
+        24,
+        6,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Multifidelity uncertainty quantification with models based on dissimilar parameters",
+          "year": "2023-04",
+          "abstract": "Multifidelity uncertainty quantification (MF UQ) sampling approaches have\nbeen shown to significantly reduce the variance of statistical estimators while\npreserving the bias of the highest-fidelity model, provided that the\nlow-fidelity models are well correlated. However, maintaining a high level of\ncorrelation can be challenging, especially when models depend on different\ninput uncertain parameters, which drastically reduces the correlation. Existing\nMF UQ approaches do not adequately address this issue. In this work, we propose\na new sampling strategy that exploits a shared space to improve the correlation\namong models with dissimilar parametrization. We achieve this by transforming\nthe original coordinates onto an auxiliary manifold using the adaptive basis\n(AB) method~\\cite{Tipireddy2014}. The AB method has two main benefits: (1) it\nprovides an effective tool to identify the low-dimensional manifold on which\neach model can be represented, and (2) it enables easy transformation of\npolynomial chaos representations from high- to low-dimensional spaces. This\nlatter feature is used to identify a shared manifold among models without\nrequiring additional evaluations. We present two algorithmic flavors of the new\nestimator to cover different analysis scenarios, including those with legacy\nand non-legacy high-fidelity data. We provide numerical results for analytical\nexamples, a direct field acoustic test, and a finite element model of a nuclear\nfuel assembly. For all examples, we compare the proposed strategy against both\nsingle-fidelity and MF estimators based on the original model parametrization.",
+          "arxiv_id": "2304.08644v1"
+        },
+        {
+          "title": "Active Importance Sampling for Variational Objectives Dominated by Rare Events: Consequences for Optimization and Generalization",
+          "year": "2020-08",
+          "abstract": "Deep neural networks, when optimized with sufficient data, provide accurate\nrepresentations of high-dimensional functions; in contrast, function\napproximation techniques that have predominated in scientific computing do not\nscale well with dimensionality. As a result, many high-dimensional sampling and\napproximation problems once thought intractable are being revisited through the\nlens of machine learning. While the promise of unparalleled accuracy may\nsuggest a renaissance for applications that require parameterizing\nrepresentations of complex systems, in many applications gathering sufficient\ndata to develop such a representation remains a significant challenge. Here we\nintroduce an approach that combines rare events sampling techniques with neural\nnetwork optimization to optimize objective functions that are dominated by rare\nevents. We show that importance sampling reduces the asymptotic variance of the\nsolution to a learning problem, suggesting benefits for generalization. We\nstudy our algorithm in the context of learning dynamical transition pathways\nbetween two states of a system, a problem with applications in statistical\nphysics and implications in machine learning theory. Our numerical experiments\ndemonstrate that we can successfully learn even with the compounding\ndifficulties of high-dimension and rare data.",
+          "arxiv_id": "2008.06334v2"
+        },
+        {
+          "title": "Information FOMO: The unhealthy fear of missing out on information. A method for removing misleading data for healthier models",
+          "year": "2022-08",
+          "abstract": "Misleading or unnecessary data can have out-sized impacts on the health or\naccuracy of Machine Learning (ML) models. We present a Bayesian sequential\nselection method, akin to Bayesian experimental design, that identifies\ncritically important information within a dataset, while ignoring data that is\neither misleading or brings unnecessary complexity to the surrogate model of\nchoice. Our method improves sample-wise error convergence and eliminates\ninstances where more data leads to worse performance and instabilities of the\nsurrogate model, often termed sample-wise ``double descent''. We find these\ninstabilities are a result of the complexity of the underlying map and linked\nto extreme events and heavy tails.\n  Our approach has two key features. First, the selection algorithm dynamically\ncouples the chosen model and data. Data is chosen based on its merits towards\nimproving the selected model, rather than being compared strictly against other\ndata. Second, a natural convergence of the method removes the need for dividing\nthe data into training, testing, and validation sets. Instead, the selection\nmetric inherently assesses testing and validation error through global\nstatistics of the model. This ensures that key information is never wasted in\ntesting or validation. The method is applied using both Gaussian process\nregression and deep neural network surrogate models.",
+          "arxiv_id": "2208.13080v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "GalaxyNet: Connecting galaxies and dark matter haloes with deep neural networks and reinforcement learning in large volumes",
+          "year": "2020-05",
+          "abstract": "We present the novel wide & deep neural network GalaxyNet, which connects the\nproperties of galaxies and dark matter haloes, and is directly trained on\nobserved galaxy statistics using reinforcement learning. The most important\nhalo properties to predict stellar mass and star formation rate (SFR) are halo\nmass, growth rate, and scale factor at the time the mass peaks, which results\nfrom a feature importance analysis with random forests. We train different\nmodels with supervised learning to find the optimal network architecture.\nGalaxyNet is then trained with a reinforcement learning approach: for a fixed\nset of weights and biases, we compute the galaxy properties for all haloes and\nthen derive mock statistics (stellar mass functions, cosmic and specific SFRs,\nquenched fractions, and clustering). Comparing these statistics to observations\nwe get the model loss, which is minimised with particle swarm optimisation.\nGalaxyNet reproduces the observed data very accurately\n($\\chi_\\mathrm{red}=1.05$), and predicts a stellar-to-halo mass relation with a\nlower normalisation and shallower low-mass slope at high redshift than\nempirical models. We find that at low mass, the galaxies with the highest SFRs\nare satellites, although most satellites are quenched. The normalisation of the\ninstantaneous conversion efficiency increases with redshift, but stays constant\nabove $z\\gtrsim0.7$. Finally, we use GalaxyNet to populate a cosmic volume of\n$(5.9~\\mathrm{Gpc})^3$ with galaxies and predict the BAO signal, the bias, and\nthe clustering of active and passive galaxies up to $z=4$, which can be tested\nwith next-generation surveys, such as LSST and Euclid.",
+          "arxiv_id": "2005.12276v1"
+        },
+        {
+          "title": "Predicting resolved galaxy properties from photometric images using convolutional neural networks",
+          "year": "2021-11",
+          "abstract": "Multi-band images of galaxies reveal a huge amount of information about their\nmorphology and structure. However, inferring properties of the underlying\nstellar populations such as age, metallicity or kinematics from those images is\nnotoriously difficult. Traditionally such information is best extracted from\nexpensive spectroscopic observations. Here we present the $Painting\\,\nIntrinsiC\\, Attributes\\, onto\\, SDSS\\, Objects$ (PICASSSO) project and test the\ninformation content of photometric multi-band images of galaxies. We train a\nconvolutional neural network on 27,558 galaxy image pairs to establish a\nconnection between broad-band images and the underlying physical stellar and\ngaseous galaxy property maps. We test our machine learning (ML) algorithm with\nSDSS $ugriz$ mock images for which uncertainties and systematics are exactly\nknown. We show that multi-band galaxy images contain enough information to\nreconstruct 2d maps of stellar mass, metallicity, age and gas mass, metallicity\nas well as star formation rate. We recover the true stellar properties on a\npixel by pixel basis with only little scatter, $\\lesssim20\\%$ compared to\n$\\sim50\\%$ statistical uncertainty from traditional mass-to-light-ratio based\nmethods. We further test for any systematics of our algorithm with image\nresolution, training sample size or wavelength coverage. We find that galaxy\nmorphology alone constrains stellar properties to better than $\\sim20\\%$ thus\nhighlighting the benefits of including morphology into the parameter\nestimation. The machine learning approach can predict maps of high resolution,\nonly limited by the resolution of the input bands, thus achieving higher\nresolution than IFU observations. The network architecture and all code is\npublicly available on GitHub.",
+          "arxiv_id": "2111.01154v1"
+        },
+        {
+          "title": "LyAl-Net: A high-efficiency Lyman-$α$ forest simulation with a neural network",
+          "year": "2023-03",
+          "abstract": "The inference of cosmological quantities requires accurate and large\nhydrodynamical cosmological simulations. Unfortunately, their computational\ntime can take millions of CPU hours for a modest coverage in cosmological\nscales ($\\approx (100 {h^{-1}}\\,\\text{Mpc})^3)$). The possibility to generate\nlarge quantities of mock Lyman-$\\alpha$ observations opens up the possibility\nof much better control on covariance matrices estimate for cosmological\nparameters inference, and on the impact of systematics due to baryonic effects.\nWe present a machine learning approach to emulate the hydrodynamical simulation\nof intergalactic medium physics for the Lyman-$\\alpha$ forest called LyAl-Net.\nThe main goal of this work is to provide highly efficient and cheap simulations\nretaining interpretation abilities about the gas field level, and as a tool for\nother cosmological exploration. We use a neural network based on the U-net\narchitecture, a variant of convolutional neural networks, to predict the\nneutral hydrogen physical properties, density, and temperature. We train the\nLyAl-Net model with the Horizon-noAGN simulation, though using only 9% of the\nvolume. We also explore the resilience of the model through tests of a transfer\nlearning framework using cosmological simulations containing different baryonic\nfeedback. We test our results by analysing one and two-point statistics of\nemulated fields in different scenarios, as well as their stochastic properties.\nThe ensemble average of the emulated Lyman-$\\alpha$ forest absorption as a\nfunction of redshift lies within 2.5% of one derived from the full\nhydrodynamical simulation. The computation of individual fields from the dark\nmatter density agrees well with regular physical regimes of cosmological\nfields. The results tested on IllustrisTNG100 showed a drastic improvement in\nthe Lyman-$\\alpha$ forest flux without arbitrary rescaling.",
+          "arxiv_id": "2303.17939v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "The stochastic gravitational-wave background exists permanently and demonstrates time-domain asymmetry",
+          "year": "2022-12",
+          "abstract": "Analyzing the records of Advanced LIGO and Virgo gravitational observatories,\nwe found a permanent time-domain asymmetry inherent only to the signals of\ntheir gravitational detectors. Experiments with different periodic signals,\nGaussian and non-Gaussian noises, made it possible to conclude that the noise\nof gravitational detectors is an unusual mixture of signals. We also developed\na specialized Pearson correlation analyzer to detect gravitational-wave (GW)\nevents. It turned out that the LIGO and Virgo detectors' output signals contain\na significant (-6dB) component demonstrating the properties of records of\nconfirmed resolved GW events. It allows us to argue that the gravitational\nbackground is largely due to the processes of stellar masses merging. Since the\nspecific signal is registered by the detectors continuously, we can consider\nthe sub-kilohertz band gravitational background field as discovered. Our\nanalysis method also allows us to estimate the contribution of the\ngravitational background component to the total signal energy. With its help,\nit will be possible not only to provide the radio-frequency estimation of the\nmagnitude of gravitational disturbances but also to obtain the GW background\nsky map.",
+          "arxiv_id": "2212.05851v1"
+        },
+        {
+          "title": "Noise Reduction in Gravitational-wave Data via Deep Learning",
+          "year": "2020-05",
+          "abstract": "With the advent of gravitational wave astronomy, techniques to extend the\nreach of gravitational wave detectors are desired. In addition to the\nstellar-mass black hole and neutron star mergers already detected, many more\nare below the surface of the noise, available for detection if the noise is\nreduced enough. Our method (DeepClean) applies machine learning algorithms to\ngravitational wave detector data and data from on-site sensors monitoring the\ninstrument to reduce the noise in the time-series due to instrumental artifacts\nand environmental contamination. This framework is generic enough to subtract\nlinear, non-linear, and non-stationary coupling mechanisms. It may also provide\nhandles in learning about the mechanisms which are not currently understood to\nbe limiting detector sensitivities. The robustness of the noise reduction\ntechnique in its ability to efficiently remove noise with no unintended effects\non gravitational-wave signals is also addressed through software signal\ninjection and parameter estimation of the recovered signal. It is shown that\nthe optimal SNR ratio of the injected signal is enhanced by $\\sim 21.6\\%$ and\nthe recovered parameters are consistent with the injected set. We present the\nperformance of this algorithm on linear and non-linear noise sources and\ndiscuss its impact on astrophysical searches by gravitational wave detectors.",
+          "arxiv_id": "2005.06534v1"
+        },
+        {
+          "title": "Scalable data-analysis framework for long-duration gravitational waves from compact binaries using short Fourier transforms",
+          "year": "2025-02",
+          "abstract": "We introduce a framework based on short Fourier transforms (SFTs) to analyze\nlong-duration gravitational wave signals from compact binaries. Targeted\nsystems include binary neutron stars observed by third-generation ground-based\ndetectors and massive black hole binaries observed by the LISA space mission.\nIn short, ours is an extremely fast, scalable, and parallelizable\nimplementation of the gravitational wave inner product, a core operation of\ngravitational wave matched filtering. By operating on disjoint data segments,\nSFTs allow for efficient handling of noise nonstationarities, data gaps, and\ndetector-induced signal modulations. We present a pilot application to early\nwarning problems in both ground- and space-based next-generation detectors.\nOverall, SFTs reduce the computing cost of evaluating an inner product by three\nto five orders of magnitude, depending on the specific application, with\nrespect to a nonoptimized approach. We release public tools to operate using\nthe SFT framework, including a vectorized and hardware-accelerated\nreimplementation of a time-domain waveform. The inner product is the key\nbuilding block of all gravitational wave data treatments; by speeding up this\nlow-level element so massively, SFTs provide an extremely promising solution\nfor current and future gravitational wave data-analysis problems.",
+          "arxiv_id": "2502.11823v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:01:38Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

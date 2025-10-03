@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_systems_approach_time",
+        "keywords": [
+          [
+            "model",
+            0.025358017980571353
+          ],
+          [
+            "systems",
+            0.023067483380389088
+          ],
+          [
+            "approach",
+            0.018245521115026704
+          ],
+          [
+            "time",
+            0.017109332887596147
+          ],
+          [
+            "models",
+            0.01668365743308687
+          ],
+          [
+            "problem",
+            0.016300514270436505
+          ],
+          [
+            "verification",
+            0.01589431209298779
+          ],
+          [
+            "paper",
+            0.015240518906644516
+          ],
+          [
+            "specification",
+            0.01452247138023051
+          ],
+          [
+            "safety",
+            0.01404215011025268
+          ]
+        ],
+        "count": 719
+      },
+      "1": {
+        "name": "1_automata_languages_deterministic_finite",
+        "keywords": [
+          [
+            "automata",
+            0.05089469840278733
+          ],
+          [
+            "languages",
+            0.034441338718106146
+          ],
+          [
+            "deterministic",
+            0.027206904729830707
+          ],
+          [
+            "finite",
+            0.025433859015690567
+          ],
+          [
+            "regular",
+            0.023405947799694883
+          ],
+          [
+            "automaton",
+            0.021620466887950218
+          ],
+          [
+            "language",
+            0.02150731074640716
+          ],
+          [
+            "problem",
+            0.018655964587679565
+          ],
+          [
+            "words",
+            0.018637754805347323
+          ],
+          [
+            "class",
+            0.016555449314075425
+          ]
+        ],
+        "count": 451
+      },
+      "2": {
+        "name": "2_words_word_sequences_sequence",
+        "keywords": [
+          [
+            "words",
+            0.05191773107434315
+          ],
+          [
+            "word",
+            0.05061487456805843
+          ],
+          [
+            "sequences",
+            0.03764358109513573
+          ],
+          [
+            "sequence",
+            0.0312257644737168
+          ],
+          [
+            "groups",
+            0.029708329278152198
+          ],
+          [
+            "free",
+            0.02617392382075386
+          ],
+          [
+            "automatic",
+            0.0242971415098425
+          ],
+          [
+            "finite",
+            0.023884688235672268
+          ],
+          [
+            "group",
+            0.023323297668154108
+          ],
+          [
+            "number",
+            0.02302050556628939
+          ]
+        ],
+        "count": 287
+      },
+      "3": {
+        "name": "3_learning_grammars_algorithm_languages",
+        "keywords": [
+          [
+            "learning",
+            0.03773714876191649
+          ],
+          [
+            "grammars",
+            0.029677247588572275
+          ],
+          [
+            "algorithm",
+            0.026110669147055933
+          ],
+          [
+            "languages",
+            0.02475836811757349
+          ],
+          [
+            "language",
+            0.023899291123229444
+          ],
+          [
+            "grammar",
+            0.017968931942473804
+          ],
+          [
+            "automata",
+            0.017786408523082074
+          ],
+          [
+            "context",
+            0.01765068706937137
+          ],
+          [
+            "data",
+            0.01584910785315871
+          ],
+          [
+            "free",
+            0.015819670072905
+          ]
+        ],
+        "count": 286
+      },
+      "4": {
+        "name": "4_automata_cellular_quantum_cellular automata",
+        "keywords": [
+          [
+            "automata",
+            0.046273033690655455
+          ],
+          [
+            "cellular",
+            0.041492573959096384
+          ],
+          [
+            "quantum",
+            0.04001857978685553
+          ],
+          [
+            "cellular automata",
+            0.0318013067710124
+          ],
+          [
+            "states",
+            0.028588158405092517
+          ],
+          [
+            "synchronizing",
+            0.028464267397722013
+          ],
+          [
+            "automaton",
+            0.02752917370316543
+          ],
+          [
+            "finite",
+            0.020402806144956268
+          ],
+          [
+            "set",
+            0.019042906378439407
+          ],
+          [
+            "Automata",
+            0.018482954164346248
+          ]
+        ],
+        "count": 160
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4715253824642509,
+        -0.44579572860947037,
+        -0.4336935192334281,
+        -0.5052130622880759
+      ],
+      [
+        -0.4715253824642509,
+        1.0,
+        -0.306995171198775,
+        -0.3031009662913927,
+        -0.1443608844503803
+      ],
+      [
+        -0.44579572860947037,
+        -0.306995171198775,
+        1.0,
+        -0.4035282428221571,
+        -0.4621370124988733
+      ],
+      [
+        -0.4336935192334281,
+        -0.3031009662913927,
+        -0.4035282428221571,
+        1.0,
+        -0.48191922721421154
+      ],
+      [
+        -0.5052130622880759,
+        -0.1443608844503803,
+        -0.4621370124988733,
+        -0.48191922721421154,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        11,
+        5,
+        9,
+        5,
+        3
+      ],
+      "2020-02": [
+        10,
+        16,
+        10,
+        3,
+        4
+      ],
+      "2020-03": [
+        8,
+        4,
+        7,
+        2,
+        1
+      ],
+      "2020-04": [
+        11,
+        8,
+        8,
+        3,
+        9
+      ],
+      "2020-05": [
+        14,
+        14,
+        10,
+        2,
+        5
+      ],
+      "2020-06": [
+        7,
+        8,
+        13,
+        5,
+        0
+      ],
+      "2020-07": [
+        14,
+        12,
+        14,
+        2,
+        7
+      ],
+      "2020-08": [
+        9,
+        12,
+        13,
+        2,
+        0
+      ],
+      "2020-09": [
+        13,
+        8,
+        9,
+        3,
+        4
+      ],
+      "2020-10": [
+        14,
+        10,
+        4,
+        13,
+        0
+      ],
+      "2020-11": [
+        13,
+        8,
+        8,
+        3,
+        6
+      ],
+      "2020-12": [
+        10,
+        5,
+        5,
+        9,
+        2
+      ],
+      "2021-01": [
+        15,
+        6,
+        12,
+        3,
+        2
+      ],
+      "2021-02": [
+        14,
+        14,
+        9,
+        5,
+        2
+      ],
+      "2021-03": [
+        9,
+        14,
+        9,
+        4,
+        0
+      ],
+      "2021-04": [
+        18,
+        11,
+        4,
+        4,
+        2
+      ],
+      "2021-05": [
+        25,
+        9,
+        13,
+        7,
+        7
+      ],
+      "2021-06": [
+        11,
+        11,
+        12,
+        1,
+        5
+      ],
+      "2021-07": [
+        12,
+        8,
+        6,
+        2,
+        2
+      ],
+      "2021-08": [
+        10,
+        9,
+        6,
+        2,
+        3
+      ],
+      "2021-09": [
+        13,
+        6,
+        6,
+        3,
+        3
+      ],
+      "2021-10": [
+        18,
+        9,
+        5,
+        7,
+        1
+      ],
+      "2021-11": [
+        15,
+        9,
+        7,
+        3,
+        3
+      ],
+      "2021-12": [
+        15,
+        4,
+        4,
+        5,
+        0
+      ],
+      "2022-01": [
+        6,
+        6,
+        13,
+        4,
+        1
+      ],
+      "2022-02": [
+        1,
+        7,
+        12,
+        2,
+        3
+      ],
+      "2022-03": [
+        13,
+        7,
+        8,
+        3,
+        4
+      ],
+      "2022-04": [
+        8,
+        4,
+        3,
+        5,
+        5
+      ],
+      "2022-05": [
+        17,
+        11,
+        11,
+        4,
+        2
+      ],
+      "2022-06": [
+        15,
+        11,
+        5,
+        8,
+        4
+      ],
+      "2022-07": [
+        13,
+        7,
+        8,
+        7,
+        4
+      ],
+      "2022-08": [
+        9,
+        7,
+        13,
+        3,
+        4
+      ],
+      "2022-09": [
+        16,
+        13,
+        9,
+        6,
+        1
+      ],
+      "2022-10": [
+        11,
+        8,
+        7,
+        5,
+        2
+      ],
+      "2022-11": [
+        12,
+        2,
+        6,
+        4,
+        4
+      ],
+      "2022-12": [
+        7,
+        13,
+        9,
+        8,
+        0
+      ],
+      "2023-01": [
+        9,
+        11,
+        5,
+        6,
+        7
+      ],
+      "2023-02": [
+        13,
+        9,
+        10,
+        10,
+        2
+      ],
+      "2023-03": [
+        6,
+        7,
+        8,
+        4,
+        0
+      ],
+      "2023-04": [
+        12,
+        9,
+        7,
+        5,
+        2
+      ],
+      "2023-05": [
+        13,
+        21,
+        8,
+        2,
+        2
+      ],
+      "2023-06": [
+        14,
+        3,
+        8,
+        10,
+        5
+      ],
+      "2023-07": [
+        8,
+        18,
+        9,
+        6,
+        4
+      ],
+      "2023-08": [
+        12,
+        7,
+        7,
+        4,
+        2
+      ],
+      "2023-09": [
+        18,
+        16,
+        8,
+        12,
+        3
+      ],
+      "2023-10": [
+        18,
+        13,
+        10,
+        6,
+        2
+      ],
+      "2023-11": [
+        11,
+        7,
+        9,
+        7,
+        2
+      ],
+      "2023-12": [
+        3,
+        7,
+        8,
+        2,
+        0
+      ],
+      "2024-01": [
+        7,
+        14,
+        8,
+        7,
+        1
+      ],
+      "2024-02": [
+        11,
+        7,
+        12,
+        3,
+        5
+      ],
+      "2024-03": [
+        6,
+        4,
+        3,
+        3,
+        0
+      ],
+      "2024-04": [
+        13,
+        10,
+        11,
+        8,
+        1
+      ],
+      "2024-05": [
+        11,
+        13,
+        13,
+        4,
+        4
+      ],
+      "2024-06": [
+        9,
+        12,
+        10,
+        9,
+        4
+      ],
+      "2024-07": [
+        13,
+        12,
+        5,
+        5,
+        2
+      ],
+      "2024-08": [
+        10,
+        6,
+        7,
+        5,
+        1
+      ],
+      "2024-09": [
+        19,
+        12,
+        14,
+        3,
+        4
+      ],
+      "2024-10": [
+        14,
+        16,
+        11,
+        9,
+        4
+      ],
+      "2024-11": [
+        12,
+        6,
+        5,
+        5,
+        3
+      ],
+      "2024-12": [
+        14,
+        4,
+        9,
+        3,
+        4
+      ],
+      "2025-01": [
+        11,
+        8,
+        8,
+        2,
+        4
+      ],
+      "2025-02": [
+        14,
+        9,
+        13,
+        3,
+        4
+      ],
+      "2025-03": [
+        15,
+        14,
+        9,
+        3,
+        5
+      ],
+      "2025-04": [
+        13,
+        21,
+        8,
+        10,
+        2
+      ],
+      "2025-05": [
+        12,
+        12,
+        10,
+        8,
+        1
+      ],
+      "2025-06": [
+        18,
+        6,
+        14,
+        5,
+        2
+      ],
+      "2025-07": [
+        13,
+        12,
+        9,
+        5,
+        2
+      ],
+      "2025-08": [
+        20,
+        10,
+        4,
+        9,
+        3
+      ],
+      "2025-09": [
+        5,
+        4,
+        4,
+        3,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Real-Time Model Checking for Closed-Loop Robot Reactive Planning",
+          "year": "2025-08",
+          "abstract": "We present a new application of model checking which achieves real-time\nmulti-step planning and obstacle avoidance on a real autonomous robot. We have\ndeveloped a small, purpose-built model checking algorithm which generates plans\nin situ based on \"core\" knowledge and attention as found in biological agents.\nThis is achieved in real-time using no pre-computed data on a low-powered\ndevice. Our approach is based on chaining temporary control systems which are\nspawned to counteract disturbances in the local environment that disrupt an\nautonomous agent from its preferred action (or resting state). A novel\ndiscretization of 2D LiDAR data sensitive to bounded variations in the local\nenvironment is used. Multi-step planning using model checking by forward\ndepth-first search is applied to cul-de-sac and playground scenarios. Both\nempirical results and informal proofs of two fundamental properties of our\napproach demonstrate that model checking can be used to create efficient\nmulti-step plans for local obstacle avoidance, improving on the performance of\na reactive agent which can only plan one step. Our approach is an instructional\ncase study for the development of safe, reliable and explainable planning in\nthe context of autonomous vehicles.",
+          "arxiv_id": "2508.19186v1"
+        },
+        {
+          "title": "Model Predictive Monitoring of Dynamical Systems for Signal Temporal Logic Specifications",
+          "year": "2022-09",
+          "abstract": "Online monitoring aims to evaluate or to predict, at runtime, whether or not\nthe behaviors of a system satisfy some desired specification. It plays a key\nrole in safety-critical cyber-physical systems. In this work, we propose a new\nmonitoring approach, called model predictive monitoring, for specifications\ndescribed by Signal Temporal Logic (STL) formulae. Specifically, we assume that\nthe observed state traces are generated by an underlying dynamical system whose\nmodel is known but the control law is unknown. The main idea is to use the\ndynamic of the system to predict future states when evaluating the satisfaction\nof the STL formulae. To this end, effective approaches for the computation of\nfeasible sets of STL formulae are provided. We show that, by explicitly\nutilizing the model information of the dynamical system, the proposed online\nmonitoring algorithm can falsify or certify of the specification in advance\ncompared with existing algorithms, where no model information is used. We also\ndemonstrate the proposed monitoring algorithm by several real world case\nstudies.",
+          "arxiv_id": "2209.12493v2"
+        },
+        {
+          "title": "Adversarial Robustness Verification and Attack Synthesis in Stochastic Systems",
+          "year": "2021-10",
+          "abstract": "Probabilistic model checking is a useful technique for specifying and\nverifying properties of stochastic systems including randomized protocols and\nreinforcement learning models. Existing methods rely on the assumed structure\nand probabilities of certain system transitions. These assumptions may be\nincorrect, and may even be violated by an adversary who gains control of system\ncomponents.\n  In this paper, we develop a formal framework for adversarial robustness in\nsystems modeled as discrete time Markov chains (DTMCs). We base our framework\non existing methods for verifying probabilistic temporal logic properties and\nextend it to include deterministic, memoryless policies acting in Markov\ndecision processes (MDPs). Our framework includes a flexible approach for\nspecifying structure-preserving and non structure-preserving adversarial\nmodels. We outline a class of threat models under which adversaries can perturb\nsystem transitions, constrained by an $\\varepsilon$ ball around the original\ntransition probabilities.\n  We define three main DTMC adversarial robustness problems: adversarial\nrobustness verification, maximal $\\delta$ synthesis, and worst case attack\nsynthesis. We present two optimization-based solutions to these three problems,\nleveraging traditional and parametric probabilistic model checking techniques.\nWe then evaluate our solutions on two stochastic protocols and a collection of\nGrid World case studies, which model an agent acting in an environment\ndescribed as an MDP. We find that the parametric solution results in fast\ncomputation for small parameter spaces. In the case of less restrictive\n(stronger) adversaries, the number of parameters increases, and directly\ncomputing property satisfaction probabilities is more scalable. We demonstrate\nthe usefulness of our definitions and solutions by comparing system outcomes\nover various properties, threat models, and case studies.",
+          "arxiv_id": "2110.02125v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Once-Marking and Always-Marking 1-Limited Automata",
+          "year": "2023-09",
+          "abstract": "Single-tape nondeterministic Turing machines that are allowed to replace the\nsymbol in each tape cell only when it is scanned for the first time are also\nknown as 1-limited automata. These devices characterize, exactly as finite\nautomata, the class of regular languages. However, they can be extremely more\nsuccinct. Indeed, in the worst case the size gap from 1-limited automata to\none-way deterministic finite automata is double exponential.\n  Here we introduce two restricted versions of 1-limited automata, once-marking\n1-limited automata and always-marking 1-limited automata, and study their\ndescriptional complexity. We prove that once-marking 1-limited automata still\nexhibit a double exponential size gap to one-way deterministic finite automata.\nHowever, their deterministic restriction is polynomially related in size to\ntwo-way deterministic finite automata, in contrast to deterministic 1-limited\nautomata, whose equivalent two-way deterministic finite automata in the worst\ncase are exponentially larger. For always-marking 1-limited automata, we prove\nthat the size gap to one-way deterministic finite automata is only a single\nexponential. The gap remains exponential even in the case the given machine is\ndeterministic.\n  We obtain other size relationships between different variants of these\nmachines and finite automata and we present some problems that deserve\ninvestigation.",
+          "arxiv_id": "2309.02763v1"
+        },
+        {
+          "title": "A Hierarchy of Nondeterminism",
+          "year": "2022-09",
+          "abstract": "We study three levels in a hierarchy of nondeterminism: A nondeterministic\nautomaton $\\mathcal{A}$ is determinizable by pruning (DBP) if we can obtain a\ndeterministic automaton equivalent to $\\mathcal{A}$ by removing some of its\ntransitions. Then, $\\mathcal{A}$ is history deterministic (HD) if its\nnondeterministic choices can be resolved in a way that only depends on the\npast. Finally, $\\mathcal{A}$ is semantically deterministic (SD) if different\nnondeterministic choices in $\\mathcal{A}$ lead to equivalent states. Some\napplications of automata in formal methods require deterministic automata, yet\nin fact can use automata with some level of nondeterminism. For example, DBP\nautomata are useful in the analysis of online algorithms, and HD automata are\nuseful in synthesis and control. For automata on finite words, the three levels\nin the hierarchy coincide. We study the hierarchy for B\\\"uchi, co-B\\\"uchi, and\nweak automata on infinite words. We show that the hierarchy is strict, study\nthe expressive power of the different levels in it, as well as the complexity\nof deciding the membership of a language in a given level. Finally, we describe\na probability-based analysis of the hierarchy, which relates the level of\nnondeterminism with the probability that a random run on a word in the language\nis accepting. We relate the latter to nondeterministic automata that can be\nused when reasoning about probabilistic systems.",
+          "arxiv_id": "2209.09866v5"
+        },
+        {
+          "title": "Forgetting 1-Limited Automata",
+          "year": "2023-07",
+          "abstract": "We introduce and investigate forgetting 1-limited automata, which are\nsingle-tape Turing machines that, when visiting a cell for the first time,\nreplace the input symbol in it by a fixed symbol, so forgetting the original\ncontents. These devices have the same computational power as finite automata,\nnamely they characterize the class of regular languages. We study the cost in\nsize of the conversions of forgetting 1-limited automata, in both\nnondeterministic and deterministic cases, into equivalent one-way\nnondeterministic and deterministic automata, providing optimal bounds in terms\nof exponential or superpolynomial functions. We also discuss the size\nrelationships with two-way finite automata. In this respect, we prove the\nexistence of a language for which forgetting 1-limited automata are\nexponentially larger than equivalent minimal deterministic two-way automata.",
+          "arxiv_id": "2307.16700v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "The reflection complexity of sequences over finite alphabets",
+          "year": "2024-06",
+          "abstract": "In combinatorics on words, the well-studied factor complexity function\n$\\rho_{\\infw{x}}$ of a sequence $\\infw{x}$ over a finite\n  alphabet counts, for every nonnegative integer $n$, the number of distinct\nlength-$n$ factors of $\\infw{x}$. In this paper, we\n  introduce the \\emph{reflection complexity} function $r_{\\infw{x}}$ to\nenumerate the factors occurring in a sequence $\\infw{x}$, up\n  to reversing the order of symbols in a word. We prove a number of results\nabout the growth properties of $r_{\\infw{x}}$\n  and its relationship with other complexity functions. We also prove a\nMorse--Hedlund-type result characterizing eventually periodic\n  sequences in terms of their reflection complexity, and we deduce a\ncharacterization of Sturmian sequences. We investigate\n  the reflection complexity of quasi-Sturmian, episturmian, $(s+1)$-dimensional\nbilliard, complementation-symmetric Rote, and rich\n  sequences. Furthermore, we prove that if $\\infw{x}$ is $k$-automatic, then\n$r_{\\infw{x}}$ is computably $k$-regular, and we use the\n  software \\texttt{Walnut} to evaluate the reflection complexity of some\nautomatic sequences, such as the Thue--Morse sequence. We\n  note that there are still many unanswered questions about this reflection\nmeasure.",
+          "arxiv_id": "2406.09302v4"
+        },
+        {
+          "title": "Some Remarks on Palindromic Periodicities",
+          "year": "2024-07",
+          "abstract": "We say a finite word $x$ is a palindromic periodicity if there exist two\npalindromes $p$ and $s$ such that $|x| \\geq |ps|$ and $x$ is a prefix of the\nword $(ps)^\\omega = pspsps\\cdots$. In this paper we examine the palindromic\nperiodicities occurring in some classical infinite words, such as Sturmian\nwords, episturmian words, the Thue-Morse word, the period-doubling word, the\nRudin-Shapiro word, the paperfolding word, and the Tribonacci word, and prove a\nnumber of results about them. We also prove results about words with the\nsmallest number of palindromic periodicities.",
+          "arxiv_id": "2407.10564v2"
+        },
+        {
+          "title": "On prefix palindromic length of automatic words",
+          "year": "2020-09",
+          "abstract": "The prefix palindromic length $\\mathrm{PPL}_{\\mathbf{u}}(n)$ of an infinite\nword $\\mathbf{u}$ is the minimal number of concatenated palindromes needed to\nexpress the prefix of length $n$ of $\\mathbf{u}$. Since 2013, it is still\nunknown if $\\mathrm{PPL}_{\\mathbf{u}}(n)$ is unbounded for every aperiodic\ninfinite word $\\mathbf{u}$, even though this has been proven for almost all\naperiodic words. At the same time, the only well-known nontrivial infinite word\nfor which the function $\\mathrm{PPL}_{\\mathbf{u}}(n)$ has been precisely\ncomputed is the Thue-Morse word $\\mathbf{t}$. This word is $2$-automatic and,\npredictably, its function $\\mathrm{PPL}_{\\mathbf{t}}(n)$ is $2$-regular, but is\nthis the case for all automatic words?\n  In this paper, we prove that this function is $k$-regular for every\n$k$-automatic word containing only a finite number of palindromes. For two such\nwords, namely the paperfolding word and the Rudin-Shapiro word, we derive a\nformula for this function. Our computational experiments suggest that generally\nthis is not true: for the period-doubling word, the prefix palindromic length\ndoes not look $2$-regular, and for the Fibonacci word, it does not look\nFibonacci-regular. If proven, these results would give rare (if not first)\nexamples of a natural function of an automatic word which is not regular.",
+          "arxiv_id": "2009.02934v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Passive Model Learning of Visibly Deterministic Context-free Grammars",
+          "year": "2025-08",
+          "abstract": "We present PAPNI, a passive automata learning algorithm capable of learning\ndeterministic context-free grammars, which are modeled with visibly\ndeterministic pushdown automata. PAPNI is a generalization of RPNI, a passive\nautomata learning algorithm capable of learning regular languages from positive\nand negative samples. PAPNI uses RPNI as its underlying learning algorithm\nwhile assuming a priori knowledge of the visibly deterministic input alphabet,\nthat is, the alphabet decomposition into symbols that push to the stack, pop\nfrom the stack, or do not affect the stack.\n  In this paper, we show how passive learning of deterministic pushdown\nautomata can be viewed as a preprocessing step of standard RPNI\nimplementations. We evaluate the proposed approach on various deterministic\ncontext-free grammars found in the literature and compare the predictive\naccuracy of learned models with RPNI.",
+          "arxiv_id": "2508.16305v1"
+        },
+        {
+          "title": "Example-Free Learning of Regular Languages with Prefix Queries",
+          "year": "2025-04",
+          "abstract": "Language learning refers to the problem of inferring a mathematical model\nwhich accurately represents a formal language. Many language learning\nalgorithms learn by asking certain types of queries about the language being\nmodeled. Language learning is of practical interest in the field of\ncybersecurity, where it is used to model the language accepted by a program's\ninput parser (also known as its input processor). In this setting, a learner\ncan only query a string of its choice by executing the parser on it, which\nlimits the language learning algorithms that can be used. Most practical\nparsers can indicate not only whether the string is valid or not, but also\nwhere the parsing failed. This extra information can be leveraged into\nproducing a type of query we call the prefix query. Notably, no existing\nlanguage learning algorithms make use of prefix queries, though some ask\nmembership queries i.e., they ask whether or not a given string is valid. When\nthese approaches are used to learn the language of a parser, the prefix\ninformation provided by the parser remains unused.\n  In this work, we present PL*, the first known language learning algorithm to\nmake use of the prefix query, and a novel modification of the classical L*\nalgorithm. We show both theoretically and empirically that PL* is able to learn\nmore efficiently than L* due to its ability to exploit the additional\ninformation given by prefix queries over membership queries. Furthermore, we\nshow how PL* can be used to learn the language of a parser, by adapting it to a\nmore practical setting in which prefix queries are the only source of\ninformation available to it; that is, it does not have access to any labelled\nexamples or any other types of queries. We demonstrate empirically that, even\nin this more constrained setting, PL* is still capable of accurately learning a\nrange of languages of practical interest.",
+          "arxiv_id": "2504.02170v1"
+        },
+        {
+          "title": "Learning of Structurally Unambiguous Probabilistic Grammars",
+          "year": "2020-11",
+          "abstract": "The problem of identifying a probabilistic context free grammar has two\naspects: the first is determining the grammar's topology (the rules of the\ngrammar) and the second is estimating probabilistic weights for each rule.\nGiven the hardness results for learning context-free grammars in general, and\nprobabilistic grammars in particular, most of the literature has concentrated\non the second problem. In this work we address the first problem. We restrict\nattention to structurally unambiguous weighted context-free grammars (SUWCFG)\nand provide a query learning algorithm for structurally unambiguous\nprobabilistic context-free grammars (SUPCFG). We show that SUWCFG can be\nrepresented using co-linear multiplicity tree automata (CMTA), and provide a\npolynomial learning algorithm that learns CMTAs. We show that the learned CMTA\ncan be converted into a probabilistic grammar, thus providing a complete\nalgorithm for learning a structurally unambiguous probabilistic context free\ngrammar (both the grammar topology and the probabilistic weights) using\nstructured membership queries and structured equivalence queries. We\ndemonstrate the usefulness of our algorithm in learning PCFGs over genomic\ndata.",
+          "arxiv_id": "2011.07472v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Effective Projections on Group Shifts to Decide Properties of Group Cellular Automata",
+          "year": "2023-01",
+          "abstract": "Many decision problems concerning cellular automata are known to be decidable\nin the case of algebraic cellular automata, that is, when the state set has an\nalgebraic structure and the automaton acts as a morphism. The most studied\ncases include finite fields, finite commutative rings and finite commutative\ngroups. In this paper, we provide methods to generalize these results to the\nbroader case of group cellular automata, that is, the case where the state set\nis a finite (possibly non-commutative) finite group. The configuration space is\nnot even necessarily the full shift but a subshift -- called a group shift --\nthat is a subgroup of the full shift on Z^d, for any number d of dimensions. We\nshow, in particular, that injectivity, surjectivity, equicontinuity,\nsensitivity and nilpotency are decidable for group cellular automata, and\nnon-transitivity is semi-decidable. Injectivity always implies surjectivity,\nand jointly periodic points are dense in the limit set. The Moore direction of\nthe Garden-of-Eden theorem holds for all group cellular automata, while the\nMyhill direction fails in some cases. The proofs are based on effective\nprojection operations on group shifts that are, in particular, applied on the\nset of valid space-time diagrams of group cellular automata. This allows one to\neffectively construct the traces and the limit sets of group cellular automata.\nA preliminary version of this work was presented at the conference Mathematical\nFoundations of Computer Science 2020.",
+          "arxiv_id": "2301.11133v1"
+        },
+        {
+          "title": "Random Expansion Method for the Generation of Complex Cellular Automata",
+          "year": "2020-09",
+          "abstract": "The emergence of complex behaviors in cellular automata is an area that has\nbeen widely developed in recent years with the intention to generate and\nanalyze automata that produce space-moving patterns or gliders that interact in\na periodic background. Frequently, this type of automata has been found through\neither an exhaustive search or a meticulous construction of the evolution rule.\nIn this study, the specification of cellular automata with complex behaviors\nwas obtained by utilizing randomly generated specimens. In particular, it\nproposed that a cellular automaton of $n$ states should be specified at random\nand then extended to another automaton with a higher number of states so that\nthe original automaton operates as a periodic background where the additional\nstates serve to define the gliders. Moreover, this study presented an\nexplanation of this method. Furthermore, the random way of defining complex\ncellular automata was studied by using mean-field approximations for various\nstates and local entropy measures. This specification was refined with a\ngenetic algorithm to obtain specimens with a higher degree of complexity. With\nthis methodology, it was possible to generate complex automata with hundreds of\nstates, demonstrating that randomly defined local interactions with multiple\nstates can construct complexity.",
+          "arxiv_id": "2009.09515v1"
+        },
+        {
+          "title": "Cellular Automata: Temporal Stochasticity and Computability",
+          "year": "2022-10",
+          "abstract": "In this dissertation, we study temporally stochasticity in cellular automata\nand the behavior of such cellular automata. The work also explores the\ncomputational ability of such cellular automaton that illustrates the\ncomputability of solving the affinity classification problem. In addition to\nthat, a cellular automaton, defined over Cayley tree, is shown as the classical\nsearching problem solver. The proposed temporally stochastic cellular automata\ndeals with two elementary cellular automata rules, say $f$ and $g$. The $f$ is\nthe default rule, however, $g$ is temporally applied to the overall system with\nsome probability $\\tau$ which acts as a noise in the system. After exploring\nthe dynamics of temporally stochastic cellular automata (TSCAs), we study the\ndynamical behavior of these temporally stochastic cellular automata (TSCAs) to\nidentify the TSCAs that converge to a fixed point from any seed. We apply each\nof the convergent TSCAs to some standard datasets and observe the effectiveness\nof each TSCA as a pattern classifier. It is observed that the proposed\nTSCA-based classifier shows competitive performance in comparison with existing\nclassifier algorithms. We use temporally stochastic cellular automata to solve\na new problem in the field of cellular automata, named as, affinity\nclassification problem which is a generalization of the density classification\nproblem . We show that this model can be used in several applications, like\nmodeling self-healing systems. Finally, we introduce a new model of computing\nunit developed around cellular automata to reduce the workload of the Central\nProcessing Unit (CPU) of a machine to compute. Each cell of the computing unit\nacts as a tiny processing element with attached memory. Such a CA is\nimplemented on the Cayley Tree to realize efficient solutions for diverse\ncomputational problems.",
+          "arxiv_id": "2210.13971v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:55:27Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

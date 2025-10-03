@@ -1,0 +1,2108 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_curves_surfaces_points_K3",
+        "keywords": [
+          [
+            "curves",
+            0.02158284644667326
+          ],
+          [
+            "surfaces",
+            0.020960619118693687
+          ],
+          [
+            "points",
+            0.013590009513235295
+          ],
+          [
+            "K3",
+            0.013302494899509321
+          ],
+          [
+            "curve",
+            0.013012125680119245
+          ],
+          [
+            "degree",
+            0.012814319947600036
+          ],
+          [
+            "surface",
+            0.012353130990627442
+          ],
+          [
+            "rational",
+            0.011514151722508971
+          ],
+          [
+            "Fano",
+            0.011361351147624267
+          ],
+          [
+            "smooth",
+            0.011219873236543134
+          ]
+        ],
+        "count": 2675
+      },
+      "1": {
+        "name": "1_category_categories_theory_cohomology",
+        "keywords": [
+          [
+            "category",
+            0.025758660773989944
+          ],
+          [
+            "categories",
+            0.01737870055074054
+          ],
+          [
+            "theory",
+            0.016127016337175348
+          ],
+          [
+            "cohomology",
+            0.014968398262290492
+          ],
+          [
+            "sheaves",
+            0.014187316554111304
+          ],
+          [
+            "motivic",
+            0.014175552303768496
+          ],
+          [
+            "schemes",
+            0.013932393311057212
+          ],
+          [
+            "scheme",
+            0.012206126512791068
+          ],
+          [
+            "group",
+            0.010920480091527442
+          ],
+          [
+            "modules",
+            0.010711330637307854
+          ]
+        ],
+        "count": 1946
+      },
+      "2": {
+        "name": "2_polynomial_polynomials_rank_algebraic",
+        "keywords": [
+          [
+            "polynomial",
+            0.021358851819629435
+          ],
+          [
+            "polynomials",
+            0.01860090232412463
+          ],
+          [
+            "rank",
+            0.01737216322964308
+          ],
+          [
+            "algebraic",
+            0.01512321797414433
+          ],
+          [
+            "tensors",
+            0.014408035428099791
+          ],
+          [
+            "tensor",
+            0.012973290227440095
+          ],
+          [
+            "problem",
+            0.012298279819622488
+          ],
+          [
+            "degree",
+            0.012212211898762421
+          ],
+          [
+            "real",
+            0.011704031749557097
+          ],
+          [
+            "equations",
+            0.011354381961656524
+          ]
+        ],
+        "count": 1120
+      },
+      "3": {
+        "name": "3_manifolds_symplectic_metrics_manifold",
+        "keywords": [
+          [
+            "manifolds",
+            0.032322246623125106
+          ],
+          [
+            "symplectic",
+            0.022823957276590687
+          ],
+          [
+            "metrics",
+            0.02255839816399882
+          ],
+          [
+            "manifold",
+            0.02111952774609963
+          ],
+          [
+            "compact",
+            0.020328903924006075
+          ],
+          [
+            "holomorphic",
+            0.017768454800931227
+          ],
+          [
+            "complex",
+            0.015488128027126829
+          ],
+          [
+            "curvature",
+            0.014666278581390241
+          ],
+          [
+            "metric",
+            0.013731770859003144
+          ],
+          [
+            "stability",
+            0.01357017234176574
+          ]
+        ],
+        "count": 695
+      },
+      "4": {
+        "name": "4_Shimura_varieties_period_Hodge",
+        "keywords": [
+          [
+            "Shimura",
+            0.05578473839724931
+          ],
+          [
+            "varieties",
+            0.02962403324843167
+          ],
+          [
+            "period",
+            0.0286938321318921
+          ],
+          [
+            "Hodge",
+            0.023734697733066332
+          ],
+          [
+            "conjecture",
+            0.01822502276829092
+          ],
+          [
+            "models",
+            0.01700350614853173
+          ],
+          [
+            "Rapoport",
+            0.016382249856297534
+          ],
+          [
+            "unitary",
+            0.015801614763157328
+          ],
+          [
+            "special",
+            0.01577287355094005
+          ],
+          [
+            "local",
+            0.015744103482993183
+          ]
+        ],
+        "count": 351
+      },
+      "5": {
+        "name": "5_tropical_curves_Tropical_tropicalization",
+        "keywords": [
+          [
+            "tropical",
+            0.12325765232925506
+          ],
+          [
+            "curves",
+            0.02444387731031932
+          ],
+          [
+            "Tropical",
+            0.020745944083504643
+          ],
+          [
+            "tropicalization",
+            0.018999782114791218
+          ],
+          [
+            "tropical curves",
+            0.018869806456096882
+          ],
+          [
+            "toric",
+            0.01568516791808979
+          ],
+          [
+            "geometry",
+            0.014268642996380011
+          ],
+          [
+            "space",
+            0.014261181375287901
+          ],
+          [
+            "tropical geometry",
+            0.011584140918182205
+          ],
+          [
+            "algebraic",
+            0.011245959119698484
+          ]
+        ],
+        "count": 331
+      },
+      "6": {
+        "name": "6_flag_Schubert_varieties_variety",
+        "keywords": [
+          [
+            "flag",
+            0.06719459398762406
+          ],
+          [
+            "Schubert",
+            0.049370478511109865
+          ],
+          [
+            "varieties",
+            0.04316364416291001
+          ],
+          [
+            "variety",
+            0.031161103473906562
+          ],
+          [
+            "flag varieties",
+            0.030963668064571674
+          ],
+          [
+            "Hessenberg",
+            0.029532065841264797
+          ],
+          [
+            "flag variety",
+            0.025526126789419856
+          ],
+          [
+            "quantum",
+            0.021609516260034788
+          ],
+          [
+            "cohomology",
+            0.02140384952856627
+          ],
+          [
+            "equivariant",
+            0.018372221868388383
+          ]
+        ],
+        "count": 279
+      },
+      "7": {
+        "name": "7_singularities_isolated_Milnor_singularity",
+        "keywords": [
+          [
+            "singularities",
+            0.04598319912484443
+          ],
+          [
+            "isolated",
+            0.029486684138856335
+          ],
+          [
+            "Milnor",
+            0.02413034373549424
+          ],
+          [
+            "singularity",
+            0.023267739909095066
+          ],
+          [
+            "germ",
+            0.018869245973630776
+          ],
+          [
+            "germs",
+            0.018574107734908977
+          ],
+          [
+            "hypersurface",
+            0.016896043641301914
+          ],
+          [
+            "complex",
+            0.015584110210787332
+          ],
+          [
+            "number",
+            0.01407746972217189
+          ],
+          [
+            "local",
+            0.013647318714878396
+          ]
+        ],
+        "count": 265
+      },
+      "8": {
+        "name": "8_mirror_Yau_Calabi_symmetry",
+        "keywords": [
+          [
+            "mirror",
+            0.07287708160003742
+          ],
+          [
+            "Yau",
+            0.04487060374467029
+          ],
+          [
+            "Calabi",
+            0.04358139240549671
+          ],
+          [
+            "symmetry",
+            0.03837580721915506
+          ],
+          [
+            "mirror symmetry",
+            0.037480840573437514
+          ],
+          [
+            "toric",
+            0.017105365074990674
+          ],
+          [
+            "Ginzburg",
+            0.015611229500867277
+          ],
+          [
+            "Landau",
+            0.015604202713027518
+          ],
+          [
+            "Mirror",
+            0.013173073211945108
+          ],
+          [
+            "threefolds",
+            0.013041637521411338
+          ]
+        ],
+        "count": 260
+      },
+      "9": {
+        "name": "9_theory_gauge_theories_Calabi",
+        "keywords": [
+          [
+            "theory",
+            0.033360896863996896
+          ],
+          [
+            "gauge",
+            0.029763966047549068
+          ],
+          [
+            "theories",
+            0.02684491572526898
+          ],
+          [
+            "Calabi",
+            0.025137776058256133
+          ],
+          [
+            "Yau",
+            0.02385628820978905
+          ],
+          [
+            "string",
+            0.022336447485131482
+          ],
+          [
+            "BPS",
+            0.01960288503883895
+          ],
+          [
+            "brane",
+            0.0147280002126277
+          ],
+          [
+            "space",
+            0.01388899861966054
+          ],
+          [
+            "partition",
+            0.01361725007522613
+          ]
+        ],
+        "count": 233
+      },
+      "10": {
+        "name": "10_log_canonical_pairs_klt",
+        "keywords": [
+          [
+            "log",
+            0.07770269306539866
+          ],
+          [
+            "canonical",
+            0.04988746619622015
+          ],
+          [
+            "pairs",
+            0.04703267609168601
+          ],
+          [
+            "klt",
+            0.040279415728133636
+          ],
+          [
+            "minimal",
+            0.03685239854335956
+          ],
+          [
+            "lc",
+            0.03206245658381783
+          ],
+          [
+            "singularities",
+            0.02510552222856221
+          ],
+          [
+            "prove",
+            0.024413735716404088
+          ],
+          [
+            "generalized",
+            0.02354923841544108
+          ],
+          [
+            "minimal log",
+            0.02171062307512378
+          ]
+        ],
+        "count": 211
+      },
+      "11": {
+        "name": "11_group_affine_algebraic_groups",
+        "keywords": [
+          [
+            "group",
+            0.059128309652157714
+          ],
+          [
+            "affine",
+            0.04154007872474494
+          ],
+          [
+            "algebraic",
+            0.03474628257226422
+          ],
+          [
+            "groups",
+            0.03409132611520097
+          ],
+          [
+            "automorphism",
+            0.033925931589755084
+          ],
+          [
+            "variety",
+            0.02870742837671485
+          ],
+          [
+            "varieties",
+            0.027866509893938775
+          ],
+          [
+            "subgroups",
+            0.026255426429417503
+          ],
+          [
+            "additive",
+            0.025373969129670743
+          ],
+          [
+            "action",
+            0.024812587165683225
+          ]
+        ],
+        "count": 158
+      },
+      "12": {
+        "name": "12_parabolic_moduli_bundles_moduli space",
+        "keywords": [
+          [
+            "parabolic",
+            0.05398926436815672
+          ],
+          [
+            "moduli",
+            0.053018601756313455
+          ],
+          [
+            "bundles",
+            0.0527599481213851
+          ],
+          [
+            "moduli space",
+            0.03607699845245386
+          ],
+          [
+            "space",
+            0.03493643554053725
+          ],
+          [
+            "Higgs",
+            0.03106119395842941
+          ],
+          [
+            "connections",
+            0.027186345442663445
+          ],
+          [
+            "bundle",
+            0.024149866092080988
+          ],
+          [
+            "curve",
+            0.021811424263568736
+          ],
+          [
+            "vector",
+            0.02059272353901304
+          ]
+        ],
+        "count": 133
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.3377097781867876,
+        -0.3618927213951133,
+        -0.3490043929157487,
+        -0.595297768847023,
+        -0.6898076012469543,
+        -0.6959627237902473,
+        -0.6045899034814358,
+        -0.7176165465109059,
+        -0.4638704126071993,
+        -0.5118292226884477,
+        -0.5950107572924844,
+        -0.6167073704502227
+      ],
+      [
+        -0.3377097781867876,
+        1.0,
+        -0.27436173395521046,
+        -0.22688554695128108,
+        -0.5613306262886569,
+        -0.6728649211299575,
+        -0.6912130673184886,
+        -0.5915731061820821,
+        -0.705631300007902,
+        -0.37398683248469666,
+        -0.44945456541565243,
+        -0.6067160183429439,
+        -0.6493735655501367
+      ],
+      [
+        -0.3618927213951133,
+        -0.27436173395521046,
+        1.0,
+        -0.30804873494745266,
+        -0.5708418570278584,
+        -0.6603093960666884,
+        -0.6985382491952814,
+        -0.5985471538680356,
+        -0.7242437202439853,
+        -0.33562169088543103,
+        -0.5766878496842346,
+        -0.6219248480972744,
+        -0.6609770669900151
+      ],
+      [
+        -0.3490043929157487,
+        -0.22688554695128108,
+        -0.30804873494745266,
+        1.0,
+        -0.5553391586976594,
+        -0.6750192471129657,
+        -0.6874039598314943,
+        -0.5952915418807743,
+        -0.695058793515982,
+        -0.3916746122037952,
+        -0.44030139209648755,
+        -0.6203444954777408,
+        -0.6359216436246453
+      ],
+      [
+        -0.595297768847023,
+        -0.5613306262886569,
+        -0.5708418570278584,
+        -0.5553391586976594,
+        1.0,
+        -0.6662625202825493,
+        -0.5476472646993673,
+        -0.5941021345591881,
+        -0.7368321260511483,
+        -0.6485078037442373,
+        -0.5717737849784847,
+        -0.5891295418625795,
+        -0.7069333808246973
+      ],
+      [
+        -0.6898076012469543,
+        -0.6728649211299575,
+        -0.6603093960666884,
+        -0.6750192471129657,
+        -0.6662625202825493,
+        1.0,
+        -0.7425084525158436,
+        -0.6857250958260281,
+        -0.7317526602389601,
+        -0.670112955128122,
+        -0.6876499878161002,
+        -0.7047633872711612,
+        -0.7294100602479165
+      ],
+      [
+        -0.6959627237902473,
+        -0.6912130673184886,
+        -0.6985382491952814,
+        -0.6874039598314943,
+        -0.5476472646993673,
+        -0.7425084525158436,
+        1.0,
+        -0.7302467799749459,
+        -0.7405441889189281,
+        -0.7019314570983156,
+        -0.7133855426106466,
+        -0.5442298620056751,
+        -0.7205965236683206
+      ],
+      [
+        -0.6045899034814358,
+        -0.5915731061820821,
+        -0.5985471538680356,
+        -0.5952915418807743,
+        -0.5941021345591881,
+        -0.6857250958260281,
+        -0.7302467799749459,
+        1.0,
+        -0.730686150842969,
+        -0.6510757819109304,
+        -0.5607580442693914,
+        -0.6799455746454761,
+        -0.7159652390230868
+      ],
+      [
+        -0.7176165465109059,
+        -0.705631300007902,
+        -0.7242437202439853,
+        -0.695058793515982,
+        -0.7368321260511483,
+        -0.7317526602389601,
+        -0.7405441889189281,
+        -0.730686150842969,
+        1.0,
+        -0.4149152165935086,
+        -0.6923186666146917,
+        -0.7381318953704481,
+        -0.7130365590367502
+      ],
+      [
+        -0.4638704126071993,
+        -0.37398683248469666,
+        -0.33562169088543103,
+        -0.3916746122037952,
+        -0.6485078037442373,
+        -0.670112955128122,
+        -0.7019314570983156,
+        -0.6510757819109304,
+        -0.4149152165935086,
+        1.0,
+        -0.6335051564180945,
+        -0.6387371511400163,
+        -0.6584930733812961
+      ],
+      [
+        -0.5118292226884477,
+        -0.44945456541565243,
+        -0.5766878496842346,
+        -0.44030139209648755,
+        -0.5717737849784847,
+        -0.6876499878161002,
+        -0.7133855426106466,
+        -0.5607580442693914,
+        -0.6923186666146917,
+        -0.6335051564180945,
+        1.0,
+        -0.6641661645103251,
+        -0.6845637578536043
+      ],
+      [
+        -0.5950107572924844,
+        -0.6067160183429439,
+        -0.6219248480972744,
+        -0.6203444954777408,
+        -0.5891295418625795,
+        -0.7047633872711612,
+        -0.5442298620056751,
+        -0.6799455746454761,
+        -0.7381318953704481,
+        -0.6387371511400163,
+        -0.6641661645103251,
+        1.0,
+        -0.6914460460353116
+      ],
+      [
+        -0.6167073704502227,
+        -0.6493735655501367,
+        -0.6609770669900151,
+        -0.6359216436246453,
+        -0.7069333808246973,
+        -0.7294100602479165,
+        -0.7205965236683206,
+        -0.7159652390230868,
+        -0.7130365590367502,
+        -0.6584930733812961,
+        -0.6845637578536043,
+        -0.6914460460353116,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        66,
+        18,
+        9,
+        13,
+        3,
+        4,
+        12,
+        10,
+        9,
+        3,
+        10,
+        12,
+        33
+      ],
+      "2020-02": [
+        110,
+        24,
+        11,
+        4,
+        6,
+        7,
+        10,
+        14,
+        8,
+        6,
+        6,
+        19,
+        36
+      ],
+      "2020-03": [
+        98,
+        15,
+        21,
+        15,
+        6,
+        10,
+        21,
+        11,
+        9,
+        5,
+        10,
+        22,
+        25
+      ],
+      "2020-04": [
+        80,
+        16,
+        15,
+        20,
+        6,
+        11,
+        4,
+        8,
+        10,
+        13,
+        13,
+        19,
+        32
+      ],
+      "2020-05": [
+        88,
+        17,
+        18,
+        8,
+        2,
+        6,
+        12,
+        9,
+        14,
+        2,
+        20,
+        19,
+        26
+      ],
+      "2020-06": [
+        96,
+        26,
+        18,
+        14,
+        10,
+        1,
+        10,
+        8,
+        16,
+        8,
+        11,
+        18,
+        36
+      ],
+      "2020-07": [
+        78,
+        15,
+        15,
+        17,
+        5,
+        8,
+        15,
+        14,
+        11,
+        6,
+        12,
+        25,
+        43
+      ],
+      "2020-08": [
+        82,
+        12,
+        11,
+        11,
+        3,
+        3,
+        18,
+        8,
+        13,
+        6,
+        6,
+        17,
+        36
+      ],
+      "2020-09": [
+        82,
+        15,
+        11,
+        8,
+        2,
+        10,
+        18,
+        7,
+        19,
+        8,
+        11,
+        21,
+        32
+      ],
+      "2020-10": [
+        93,
+        19,
+        18,
+        12,
+        10,
+        7,
+        15,
+        8,
+        17,
+        8,
+        11,
+        17,
+        33
+      ],
+      "2020-11": [
+        76,
+        18,
+        19,
+        12,
+        5,
+        3,
+        12,
+        4,
+        13,
+        10,
+        14,
+        27,
+        29
+      ],
+      "2020-12": [
+        90,
+        28,
+        20,
+        13,
+        6,
+        7,
+        11,
+        8,
+        19,
+        14,
+        16,
+        26,
+        39
+      ],
+      "2021-01": [
+        93,
+        18,
+        14,
+        10,
+        5,
+        5,
+        9,
+        7,
+        12,
+        10,
+        6,
+        16,
+        38
+      ],
+      "2021-02": [
+        84,
+        15,
+        11,
+        8,
+        9,
+        4,
+        5,
+        3,
+        15,
+        3,
+        9,
+        22,
+        30
+      ],
+      "2021-03": [
+        90,
+        28,
+        16,
+        11,
+        5,
+        1,
+        18,
+        9,
+        10,
+        8,
+        16,
+        22,
+        39
+      ],
+      "2021-04": [
+        69,
+        16,
+        16,
+        7,
+        8,
+        1,
+        16,
+        13,
+        7,
+        7,
+        8,
+        18,
+        21
+      ],
+      "2021-05": [
+        95,
+        12,
+        17,
+        3,
+        8,
+        4,
+        6,
+        9,
+        16,
+        8,
+        7,
+        24,
+        32
+      ],
+      "2021-06": [
+        90,
+        20,
+        16,
+        7,
+        7,
+        4,
+        12,
+        9,
+        10,
+        5,
+        10,
+        21,
+        33
+      ],
+      "2021-07": [
+        106,
+        23,
+        12,
+        11,
+        5,
+        7,
+        8,
+        10,
+        12,
+        9,
+        5,
+        27,
+        34
+      ],
+      "2021-08": [
+        89,
+        15,
+        16,
+        9,
+        3,
+        6,
+        7,
+        17,
+        17,
+        4,
+        15,
+        21,
+        36
+      ],
+      "2021-09": [
+        86,
+        12,
+        13,
+        9,
+        5,
+        5,
+        7,
+        8,
+        15,
+        10,
+        4,
+        11,
+        30
+      ],
+      "2021-10": [
+        94,
+        17,
+        12,
+        13,
+        4,
+        6,
+        14,
+        7,
+        14,
+        7,
+        8,
+        14,
+        28
+      ],
+      "2021-11": [
+        87,
+        14,
+        24,
+        7,
+        4,
+        10,
+        11,
+        9,
+        14,
+        13,
+        9,
+        21,
+        40
+      ],
+      "2021-12": [
+        96,
+        22,
+        19,
+        11,
+        5,
+        14,
+        18,
+        7,
+        24,
+        3,
+        14,
+        22,
+        37
+      ],
+      "2022-01": [
+        82,
+        13,
+        15,
+        17,
+        2,
+        7,
+        8,
+        5,
+        10,
+        6,
+        11,
+        14,
+        27
+      ],
+      "2022-02": [
+        75,
+        15,
+        20,
+        7,
+        4,
+        5,
+        9,
+        8,
+        8,
+        7,
+        14,
+        18,
+        27
+      ],
+      "2022-03": [
+        92,
+        18,
+        21,
+        13,
+        5,
+        4,
+        18,
+        7,
+        17,
+        6,
+        9,
+        25,
+        30
+      ],
+      "2022-04": [
+        70,
+        10,
+        6,
+        13,
+        9,
+        6,
+        8,
+        8,
+        20,
+        9,
+        9,
+        10,
+        23
+      ],
+      "2022-05": [
+        74,
+        15,
+        23,
+        11,
+        5,
+        6,
+        10,
+        8,
+        14,
+        5,
+        9,
+        21,
+        29
+      ],
+      "2022-06": [
+        88,
+        16,
+        15,
+        11,
+        2,
+        4,
+        17,
+        10,
+        13,
+        3,
+        9,
+        15,
+        25
+      ],
+      "2022-07": [
+        78,
+        23,
+        17,
+        9,
+        5,
+        4,
+        14,
+        12,
+        8,
+        11,
+        9,
+        28,
+        37
+      ],
+      "2022-08": [
+        84,
+        17,
+        24,
+        11,
+        9,
+        2,
+        12,
+        12,
+        8,
+        7,
+        12,
+        29,
+        33
+      ],
+      "2022-09": [
+        90,
+        12,
+        11,
+        14,
+        5,
+        6,
+        11,
+        5,
+        19,
+        10,
+        14,
+        25,
+        27
+      ],
+      "2022-10": [
+        89,
+        21,
+        8,
+        13,
+        3,
+        8,
+        16,
+        13,
+        16,
+        9,
+        10,
+        26,
+        38
+      ],
+      "2022-11": [
+        91,
+        24,
+        22,
+        15,
+        5,
+        3,
+        7,
+        9,
+        12,
+        5,
+        15,
+        33,
+        25
+      ],
+      "2022-12": [
+        88,
+        10,
+        15,
+        12,
+        4,
+        7,
+        11,
+        8,
+        11,
+        11,
+        16,
+        29,
+        25
+      ],
+      "2023-01": [
+        92,
+        18,
+        14,
+        8,
+        9,
+        4,
+        13,
+        11,
+        11,
+        8,
+        9,
+        20,
+        18
+      ],
+      "2023-02": [
+        79,
+        15,
+        16,
+        14,
+        4,
+        3,
+        15,
+        10,
+        20,
+        2,
+        16,
+        18,
+        21
+      ],
+      "2023-03": [
+        120,
+        26,
+        24,
+        10,
+        3,
+        7,
+        15,
+        5,
+        7,
+        10,
+        10,
+        26,
+        41
+      ],
+      "2023-04": [
+        76,
+        15,
+        12,
+        15,
+        4,
+        6,
+        17,
+        10,
+        7,
+        7,
+        12,
+        20,
+        23
+      ],
+      "2023-05": [
+        85,
+        16,
+        19,
+        11,
+        4,
+        4,
+        15,
+        11,
+        15,
+        8,
+        17,
+        23,
+        25
+      ],
+      "2023-06": [
+        106,
+        14,
+        16,
+        10,
+        4,
+        7,
+        14,
+        17,
+        12,
+        17,
+        15,
+        13,
+        32
+      ],
+      "2023-07": [
+        87,
+        20,
+        17,
+        14,
+        3,
+        7,
+        11,
+        10,
+        10,
+        10,
+        8,
+        10,
+        44
+      ],
+      "2023-08": [
+        89,
+        20,
+        17,
+        10,
+        4,
+        4,
+        9,
+        11,
+        15,
+        7,
+        19,
+        22,
+        23
+      ],
+      "2023-09": [
+        92,
+        22,
+        18,
+        14,
+        7,
+        11,
+        20,
+        10,
+        14,
+        5,
+        13,
+        24,
+        30
+      ],
+      "2023-10": [
+        113,
+        24,
+        16,
+        11,
+        8,
+        7,
+        21,
+        7,
+        17,
+        12,
+        9,
+        23,
+        45
+      ],
+      "2023-11": [
+        90,
+        16,
+        18,
+        12,
+        4,
+        6,
+        14,
+        7,
+        8,
+        12,
+        13,
+        21,
+        39
+      ],
+      "2023-12": [
+        117,
+        15,
+        25,
+        11,
+        2,
+        5,
+        14,
+        13,
+        24,
+        11,
+        17,
+        26,
+        28
+      ],
+      "2024-01": [
+        103,
+        20,
+        17,
+        7,
+        5,
+        2,
+        17,
+        14,
+        14,
+        12,
+        7,
+        20,
+        33
+      ],
+      "2024-02": [
+        92,
+        23,
+        18,
+        9,
+        8,
+        3,
+        12,
+        13,
+        10,
+        7,
+        7,
+        17,
+        34
+      ],
+      "2024-03": [
+        110,
+        23,
+        19,
+        4,
+        7,
+        6,
+        12,
+        13,
+        13,
+        11,
+        11,
+        30,
+        28
+      ],
+      "2024-04": [
+        79,
+        14,
+        12,
+        7,
+        3,
+        9,
+        14,
+        14,
+        15,
+        12,
+        15,
+        20,
+        28
+      ],
+      "2024-05": [
+        85,
+        19,
+        20,
+        10,
+        12,
+        13,
+        17,
+        19,
+        15,
+        6,
+        11,
+        30,
+        37
+      ],
+      "2024-06": [
+        108,
+        21,
+        15,
+        8,
+        3,
+        4,
+        12,
+        5,
+        11,
+        6,
+        9,
+        18,
+        33
+      ],
+      "2024-07": [
+        105,
+        26,
+        19,
+        14,
+        4,
+        3,
+        8,
+        9,
+        11,
+        4,
+        9,
+        21,
+        31
+      ],
+      "2024-08": [
+        76,
+        14,
+        17,
+        9,
+        2,
+        9,
+        15,
+        8,
+        13,
+        5,
+        12,
+        18,
+        36
+      ],
+      "2024-09": [
+        109,
+        26,
+        13,
+        11,
+        4,
+        2,
+        21,
+        10,
+        16,
+        6,
+        8,
+        20,
+        33
+      ],
+      "2024-10": [
+        118,
+        26,
+        17,
+        9,
+        7,
+        6,
+        18,
+        22,
+        17,
+        11,
+        14,
+        35,
+        35
+      ],
+      "2024-11": [
+        87,
+        17,
+        19,
+        14,
+        3,
+        5,
+        20,
+        17,
+        13,
+        6,
+        11,
+        26,
+        38
+      ],
+      "2024-12": [
+        119,
+        25,
+        17,
+        6,
+        5,
+        7,
+        17,
+        15,
+        21,
+        9,
+        19,
+        30,
+        36
+      ],
+      "2025-01": [
+        93,
+        21,
+        17,
+        17,
+        4,
+        8,
+        9,
+        16,
+        11,
+        6,
+        14,
+        17,
+        38
+      ],
+      "2025-02": [
+        88,
+        17,
+        17,
+        14,
+        4,
+        6,
+        16,
+        14,
+        16,
+        12,
+        9,
+        22,
+        26
+      ],
+      "2025-03": [
+        106,
+        27,
+        21,
+        9,
+        6,
+        11,
+        7,
+        12,
+        16,
+        11,
+        9,
+        20,
+        30
+      ],
+      "2025-04": [
+        99,
+        22,
+        18,
+        6,
+        7,
+        5,
+        13,
+        18,
+        20,
+        12,
+        11,
+        21,
+        35
+      ],
+      "2025-05": [
+        109,
+        22,
+        15,
+        10,
+        12,
+        4,
+        10,
+        15,
+        12,
+        9,
+        13,
+        27,
+        27
+      ],
+      "2025-06": [
+        98,
+        24,
+        22,
+        10,
+        7,
+        6,
+        18,
+        17,
+        8,
+        12,
+        11,
+        21,
+        30
+      ],
+      "2025-07": [
+        109,
+        21,
+        14,
+        10,
+        5,
+        8,
+        14,
+        16,
+        13,
+        10,
+        9,
+        29,
+        39
+      ],
+      "2025-08": [
+        91,
+        22,
+        18,
+        13,
+        2,
+        9,
+        13,
+        16,
+        9,
+        18,
+        11,
+        18,
+        36
+      ],
+      "2025-09": [
+        69,
+        10,
+        9,
+        9,
+        5,
+        4,
+        8,
+        8,
+        5,
+        0,
+        7,
+        12,
+        34
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The 2-divisibility of divisors on K3 surfaces in characteristic 2",
+          "year": "2024-10",
+          "abstract": "We show that K3 surfaces in characteristic 2 can admit sets of $n$ disjoint\nsmooth rational curves whose sum is divisible by 2 in the Picard group, for\neach $n=8,12,16,20$. More precisely, all values occur on supersingular K3\nsurfaces, with exceptions only at Artin invariants 1 and 10, while on K3\nsurfaces of finite height, only $n=8$ is possible.",
+          "arxiv_id": "2410.14085v1"
+        },
+        {
+          "title": "On strictly elliptic K3 surfaces and del Pezzo surfaces",
+          "year": "2023-12",
+          "abstract": "This article primarily aims at classifying, on certain K3 surfaces, the\nelliptic fibrations induced by conic bundles on smooth del Pezzo surfaces. The\nkey geometric tool employed is the Alexeev-Nikulin correspondence between del\nPezzo surfaces with log-terminal singularities of Gorenstein index two and K3\nsurfaces with non-symplectic involutions of elliptic type: the latter surfaces\nare realized as appropriate double covers obtained from the former ones. The\nmain application of this correspondence is in the study of linear systems that\ninduce elliptic fibrations on K3 surfaces admitting a strictly elliptic\nnon-symplectic involution, i.e., whose fixed locus consists of a single curve\nof genus $g\\geq 2$. The obtained results are similar to those achieved by\nGarbagnati and Salgado for jacobian elliptic fibrations.",
+          "arxiv_id": "2312.14722v2"
+        },
+        {
+          "title": "Density of rational points on a family of del Pezzo surfaces of degree one",
+          "year": "2021-02",
+          "abstract": "Let $k$ be an infinite field of characteristic 0, and $X$ a del Pezzo surface\nof degree $d$ with at least one $k$-rational point. Various methods from\nalgebraic geometry and arithmetic statistics have shown the Zariski density of\nthe set $X(k)$ of $k$-rational points in $X$ for $d\\geq2$ (under an extra\ncondition for $d=2$), but fail to work in generality when the degree of $X$ is\n1, leaving a large class of del Pezzo surfaces for which the question of\ndensity of rational points is still open. In this paper, we prove the Zariski\ndensity of $X(k)$ when $X$ has degree 1 and is represented in the weighted\nprojective space $\\mathbb{P}(2,3,1,1)$ with coordinates $x,y,z,w$ by an\nequation of the form $y^2=x^3+az^6+bz^3w^3+cw^6$ for $a,b,c\\in k$ with $a,c$\nnon-zero, under the condition that the elliptic surface obtained by blowing up\nthe base point of the anticanonical linear system $|-K_X|$ contains a smooth\nfiber above a point in $\\mathbb{P}^1\\setminus\\{(1:0),(0:1)\\}$ with positive\nrank over $k$. When $k$ is of finite type over $\\mathbb{Q}$, this condition is\nsufficient and necessary.",
+          "arxiv_id": "2102.05563v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Grothendieck enriched categories",
+          "year": "2021-05",
+          "abstract": "In this paper, we introduce the notion of Grothendieck enriched categories\nfor categories enriched over a sufficiently nice Grothendieck monoidal category\n$\\mathcal{V}$, generalizing the classical notion of Grothendieck categories.\nThen we establish the Gabriel-Popescu type theorem for Grothendieck enriched\ncategories. We also prove that the property of being Grothendieck enriched\ncategories is preserved under the change of the base monoidal categories by a\nmonoidal right adjoint functor. In particular, if we take as $\\mathcal{V}$ the\nmonoidal category of complexes of abelian groups, we obtain the notion of\nGrothendieck dg categories. As an application of the main results, we see that\nthe dg category of complexes of quasi-coherent sheaves on a quasi-compact and\nquasi-separated scheme is an example of Grothendieck dg categories.",
+          "arxiv_id": "2105.05108v3"
+        },
+        {
+          "title": "Bounded $t$-structures, finitistic dimensions, and singularity categories of triangulated categories",
+          "year": "2023-12",
+          "abstract": "Recently, Amnon Neeman settled a bold conjecture by Antieau, Gepner, and\nHeller regarding the relationship between the regularity of finite-dimensional\nnoetherian schemes and the existence of bounded $t$-structures on their derived\ncategories of perfect complexes.\n  In this paper, using different methods, we prove some very general results\nabout the existence of bounded $t$-structures on (not necessarily algebraic or\ntopological) triangulated categories and their invariance under completion. We\nshow that if the opposite category of an essentially small triangulated\ncategory has finite finitistic dimension in our sense, then the existence of a\nbounded t-structure on it forces it to be equal to its completion. We also\nprove a parallel result regarding the equivalence of all bounded t-structures\non any intermediate triangulated category between the starting category and its\ncompletion.\n  Our general treatment, when specialized to the case of schemes, immediately\ngives us Neeman's theorem as an application and significantly generalizes\nanother remarkable theorem by Neeman about the equivalence of bounded\n$t$-structures on the bounded derived categories of coherent sheaves. When\nspecialized to other cases like associative rings, nonpositive DG-rings,\nconnective $\\mathbb{E}_1$-rings, triangulated categories without models, etc.,\nwe get many other applications. Under mild finiteness assumptions, these\nresults not only give a categorical obstruction (the singularity category in\nour sense) to the existence of bounded $t$-structures on a triangulated\ncategory, but also provide plenty of triangulated categories on which all\nbounded $t$-structures are equivalent. The strategy used in our treatment is\nintroducing a new concept of finitistic dimension for triangulated categories\nand lifting $t$-structures along completions of triangulated categories.",
+          "arxiv_id": "2401.00130v2"
+        },
+        {
+          "title": "Coderived and contraderived categories of locally presentable abelian DG-categories",
+          "year": "2022-10",
+          "abstract": "The concept of an abelian DG-category, introduced by the first-named author\nin arXiv:2110.08237, unites the notions of abelian categories and (curved)\nDG-modules in a common framework. In this paper we consider coderived and\ncontraderived categories in the sense of Becker. Generalizing some\nconstructions and results from the preceding papers by Becker arXiv:1205.4473\nand by the present authors arXiv:2101.10797, we define the contraderived\ncategory of a locally presentable abelian DG-category $\\mathbf B$ with enough\nprojective objects and the coderived category of a Grothendieck abelian\nDG-category $\\mathbf A$. We construct the related abelian model category\nstructures and show that the resulting exotic derived categories are\nwell-generated. Then we specialize to the case of a locally coherent\nGrothendieck abelian DG-category $\\mathbf A$, and prove that its coderived\ncategory is compactly generated by the absolute derived category of finitely\npresentable objects of $\\mathbf A$, thus generalizing a result from the\nsecond-named author's preprint arXiv:1412.1615. In particular, the homotopy\ncategory of graded-injective left DG-modules over a DG-ring with a left\ncoherent underlying graded ring is compactly generated by the absolute derived\ncategory of DG-modules with finitely presentable underlying graded modules. We\nalso describe compact generators of the coderived categories of quasi-coherent\nmatrix factorizations over coherent schemes.",
+          "arxiv_id": "2210.08237v3"
+        }
+      ],
+      "2": [
+        {
+          "title": "Asymptotic tensor rank is characterized by polynomials",
+          "year": "2024-11",
+          "abstract": "Asymptotic tensor rank is notoriously difficult to determine. Indeed,\ndetermining its value for the $2\\times 2$ matrix multiplication tensor would\ndetermine the matrix multiplication exponent, a long-standing open problem. On\nthe other hand, Strassen's asymptotic rank conjecture makes the bold claim that\nasymptotic tensor rank equals the largest dimension of the tensor and is thus\nas easy to compute as matrix rank. Despite tremendous interest, much is still\nunknown about the structural and computational properties of asymptotic rank;\nfor instance whether it is computable.\n  We prove that asymptotic tensor rank is \"computable from above\", that is, for\nany real number $r$ there is an (efficient) algorithm that determines, given a\ntensor $T$, if the asymptotic tensor rank of $T$ is at most $r$. The algorithm\nhas a simple structure; it consists of evaluating a finite list of polynomials\non the tensor. Indeed, we prove that the sublevel sets of asymptotic rank are\nZariski-closed (just like matrix rank). While we do not exhibit these\npolynomials explicitly, their mere existence has strong implications on the\nstructure of asymptotic rank.\n  As one such implication, we find that the values that asymptotic tensor rank\ntakes, on all tensors, is a well-ordered set. In other words, any\nnon-increasing sequence of asymptotic ranks stabilizes (\"discreteness from\nabove\"). In particular, for the matrix multiplication exponent (which is an\nasymptotic rank) there is no sequence of exponents of bilinear maps that\napproximates it arbitrarily closely from above without being eventually\nconstant. In other words, any upper bound on the matrix multiplication exponent\nthat is close enough, will \"snap\" to it. Previously such discreteness results\nwere only known for finite fields or for other tensor parameters (e.g.,\nasymptotic slice rank). We obtain them for infinite fields like the complex\nnumbers.",
+          "arxiv_id": "2411.15789v1"
+        },
+        {
+          "title": "A Normal Form Algorithm for Tensor Rank Decomposition",
+          "year": "2021-03",
+          "abstract": "We propose a new numerical algorithm for computing the tensor rank\ndecomposition or canonical polyadic decomposition of higher-order tensors\nsubject to a rank and genericity constraint. Reformulating this computational\nproblem as a system of polynomial equations allows us to leverage recent\nnumerical linear algebra tools from computational algebraic geometry. We\ncharacterize the complexity of our algorithm in terms of an algebraic property\nof this polynomial system -- the multigraded regularity. We prove effective\nbounds for many tensor formats and ranks, which are of independent interest for\noverconstrained polynomial system solving. Moreover, we conjecture a general\nformula for the multigraded regularity, yielding a (parameterized) polynomial\ntime complexity for the tensor rank decomposition problem in the considered\nsetting. Our numerical experiments show that our algorithm can outperform\nstate-of-the-art numerical algorithms by an order of magnitude in terms of\naccuracy, computation time, and memory consumption.",
+          "arxiv_id": "2103.07411v2"
+        },
+        {
+          "title": "A new method for reducing algebraic programs to polynomial programs",
+          "year": "2025-02",
+          "abstract": "We consider a generalization of polynomial programs: algebraic programs,\nwhich are optimization or feasibility problems with algebraic objectives or\nconstraints. Algebraic functions are defined as zeros of multivariate\npolynomials. They are a rich set of functions that includes polynomials\nthemselves, but also ratios and radicals, and finite compositions thereof. When\nan algebraic program is given in terms of radical expressions, a\nstraightforward way of reformulating into a polynomial program is to introduce\na new variable for each distinct radical that appears. Hence, the rich theory\nand algorithms for polynomial programs, including satisfiability via\ncylindrical algebraic decomposition, infeasibility certificates via\nPositivstellensatz theorems, and optimization with sum-of-squares programming\ndirectly apply to algebraic programs. We propose a different reformulation,\nthat in many cases introduces significantly fewer new variables, and thus\nproduces polynomial programs that are easier to solve. First, we exhibit an\nalgorithm that finds a defining polynomial of an algebraic function given as a\nradical expression. As a polynomial does not in general define a unique\nalgebraic function, additional constraints need to be added that isolate the\nalgebraic function from others defined by the same polynomial. Using results\nfrom real algebraic geometry, we develop an algorithm that generates polynomial\ninequalities that isolate an algebraic function. This allows us to reformulate\nan algebraic program into a polynomial one, by introducing only a single new\nvariable for each algebraic function. On modified versions of classic\noptimization benchmarks with added algebraic terms, our formulation achieves\nspeedups of up to 50x compared to the straightforward reformulation.",
+          "arxiv_id": "2502.08210v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Extremal Kähler metrics on blowups",
+          "year": "2021-10",
+          "abstract": "Consider a compact K\\\"ahler manifold which either admits an extremal K\\\"ahler\nmetric, or is a small deformation of such a manifold. We show that the blowup\nof the manifold at a point admits an extremal K\\\"ahler metric in K\\\"ahler\nclasses making the exceptional divisor sufficiently small if and only if it is\nrelatively K-stable, as predicted by the Yau-Tian-Donaldson conjecture. We also\ngive a geometric interpretation of what relative K-stability means in this case\nin terms of finite dimensional geometric invariant theory. This gives a\ncomplete solution to a problem introduced and solved by Arezzo, Pacard, Singer\nand Sz\\'ekelyhidi for constant scalar curvature K\\\"ahler metrics in dimension\nat least three.",
+          "arxiv_id": "2110.13579v2"
+        },
+        {
+          "title": "On Hermitian manifolds with vanishing curvature",
+          "year": "2022-01",
+          "abstract": "We show that Hermitian metrics with vanishing holomorphic curvature on\ncompact complex manifolds with pseudoeffective canonical bundle are conformally\nbalanced. Pluriclosed metrics with vanishing holomorphic curvature on compact\nK\\\"ahler manifolds are shown to be K\\\"ahler and hence, are completely\nclassified. We prove that Hermitian metrics with vanishing real bisectional\ncurvature on complex manifolds in the Fujiki class C are K\\\"ahler and thus fall\nunder the same classification. Finally, we formalize the notion of `altered'\ncurvatures, which force distinguished metric structures when mandated to\ncoincide with their `standard' counterparts.",
+          "arxiv_id": "2201.03666v2"
+        },
+        {
+          "title": "Holomorphic GL(2)-geometry on compact complex manifolds",
+          "year": "2020-04",
+          "abstract": "We study holomorphic GL(2) and SL(2) geometries on compact complex manifolds.\nWe show that a compact K\\\"ahler manifold of complex even dimension higher than\ntwo admitting a holomorphic GL(2)-geometry is covered by a compact complex\ntorus. We classify compact K\\\"ahler-Einstein manifolds and Fano manifolds\nbearing holomorphic GL(2)-geometries. Among the compact K\\\"ahler-Einstein\nmanifolds we prove that the only examples bearing holomorphic GL(2)-geometry\nare those covered by compact complex tori, the three dimensional quadric and\nthose covered by the three dimensional Lie ball (the non compact dual of the\nquadric).",
+          "arxiv_id": "2004.02682v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "On a conjecture of Pappas and Rapoport",
+          "year": "2024-03",
+          "abstract": "We prove a conjecture of Pappas and Rapoport about the existence of\n''canonical'' integral models of Shimura varieties of Hodge type with\nquasi-parahoric level structure at a prime $p$. For these integral models, we\nmoreover show uniformization of isogeny classes by integral local Shimura\nvarieties, and prove a conjecture of Kisin and Pappas on local model diagrams.",
+          "arxiv_id": "2403.19771v2"
+        },
+        {
+          "title": "Characteristic $p$ analogues of the Mumford--Tate and André--Oort conjectures for products of ordinary GSpin Shimura varieties",
+          "year": "2023-08",
+          "abstract": "Let $p$ be an odd prime. We state characteristic $p$ analogues of the\nMumford--Tate conjecture and the Andr\\'e--Oort conjecture for ordinary strata\nof mod $p$ Shimura varieties. We prove the conjectures for arbitrary products\nof GSpin Shimura varieties (and their subvarieties). Important subvarieties of\nGSpin Shimura varieties include modular and Shimura curves, Hilbert modular\nsurfaces, $\\mathrm{U}(1,n)$ unitary Shimura varieties, and moduli spaces of\nprincipally polarized Abelian and K3 surfaces. The two conjectures are both\nrelated to a notion of linearity for mod $p$ Shimura varieties, about which\nChai has formulated the Tate-linear conjecture. Though seemingly different, the\nthree conjectures are intricately entangled. We will first solve the\nTate-linear conjecture for single GSpin Shimura varieties, above which we build\nthe proof of the Tate-linear conjecture and the characteristic $p$ analogue of\nthe Mumford--Tate conjecture for products of GSpin Shimura varieties. We then\nuse the Tate-linear and the characteristic $p$ analogue of the Mumford--Tate\nconjectures to prove the characteristic $p$ analogue of the Andr\\'e--Oort\nconjecture. Our proof uses Chai's results on monodromy of $p$-divisible groups\nand rigidity theorems for formal tori, as well as Crew's parabolicity\nconjecture which is recently proven by D'Addezio.",
+          "arxiv_id": "2308.06854v3"
+        },
+        {
+          "title": "Igusa Stacks and the Cohomology of Shimura Varieties",
+          "year": "2024-08",
+          "abstract": "We construct functorial Igusa stacks for all Hodge-type Shimura varieties,\nproving a conjecture of Scholze and extending earlier results of the\nfourth-named author for PEL-type Shimura varieties. Using the Igusa stack, we\nconstruct a sheaf on $\\mathrm{Bun}_G$ that controls the cohomology of the\ncorresponding Shimura variety. We use this sheaf and the spectral action of\nFargues-Scholze to prove a compatibility between the cohomology of Shimura\nvarieties of Hodge type and the semisimple local Langlands correspondence of\nFargues-Scholze, generalizing the Eichler-Shimura relation of Blasius-Rogawski\nto arbitrary level at $p$. When the given Shimura variety is proper, we show\nmoreover that the sheaf is perverse, which allows us to prove new torsion\nvanishing results for the cohomology of Shimura varieties.",
+          "arxiv_id": "2408.01348v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Tropical Normal Functions -- Higher Abel-Jacobi Invariants of Tropical cycles",
+          "year": "2020-12",
+          "abstract": "We consider the variation of tropical Hodge structure (TVHS) associated to\nfamilies of tropical varieties. The family of the tropical intermediate\nJacobians of the associated tropical Hodge structure defines a bundle of\ntropical Jacobians, whose sections we call the tropical normal functions. We\ndefine formal sequential derivatives of these functions on the base with\nrespect to the natural Gauss-Manin connection as the Hodge theoretic invariants\ndetecting tropical cycles in the fibers. The associated invariants which are\ndefined inductively are the higher Abel-Jacobi invariants in the tropical\ncategory. They naturally identify the tropical Bloch-Beilinson filtration on\nthe tropical Chow group. We examine this construction on the moduli of tropical\ncurves with marked points, in order to study the tropical tautological classes\nin the tautological ring of $\\mathcal{M}_{g,n}^{\\text{trop}}$. The expectation\nis the nontriviality of these cycles could be examined with less complexity in\nthe tropical category. The construction is compatible with the tropicalization\nfunctor on the category of schemes, and the aforementioned procedure will also\nprovide an alternative way to examine the relations in the tautological ring of\n$\\mathcal{M}_{g,n}$ in the schemes category.",
+          "arxiv_id": "2012.10379v2"
+        },
+        {
+          "title": "Cohomologically tropical varieties",
+          "year": "2023-07",
+          "abstract": "Given the tropicalization of a complex subvariety of the torus, we define a\nmorphism between the tropical cohomology and the rational cohomology of their\nrespective tropical compactifications. We say that the subvariety of the torus\nis cohomologically tropical if this map is an isomorphism for all closed strata\nof the tropical compactification.\n  We prove that a sch\\\"on subvariety of the torus is cohomologically tropical\nif and only if it is wundersch\\\"on and its tropicalization is a tropical\nhomology manifold. The former property means that the open strata in the\nboundary of a tropical compactification are all connected and the mixed Hodge\nstructures on their cohomology are pure of maximum possible weight; the latter\nproperty requires that, locally, the tropicalization verifies tropical\nPoincar\\'e duality.\n  We study other properties of cohomologically tropical and wundersch\\\"on\nvarieties, and show that in a semistable degeneration to an arrangement of\ncohomologically tropical varieties, the Hodge numbers of the smooth fibers are\ncaptured in the tropical cohomology of the tropicalization. This extends the\nresults of Itenberg, Katzarkov, Mikhalkin, and Zharkov.",
+          "arxiv_id": "2307.02945v2"
+        },
+        {
+          "title": "Homological smoothness and Deligne resolution for tropical fans",
+          "year": "2024-05",
+          "abstract": "We say that a tropical fan is homologically smooth if each of its open\nsubsets verify tropical Poincare duality. A tropical homology manifold is a\ntropical variety that is locally modelled by open subsets of homologically\nsmooth tropical fans.\n  We show that homological smoothness is a T-stable property in the category of\ntropical fans. This implies in particular that quasilinear fans are\nhomologically smooth, and tropical varieties locally modelled by them are\ntropical homology manifolds. Previously, this was known only for locally\nmatroidal tropical varieties.\n  In order to show the above results, we prove a tropical analogue of the\nDeligne weight spectral sequence for homologically smooth tropical fans. This\nallows to describe the cohomology of tropical modifications, and will be of\nimportance in our companion work which develops a Hodge theory in the tropical\nsetting.",
+          "arxiv_id": "2405.05718v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "The defining equations of a class of Richardson and flag varieties on Sp$_{2n}(k)$",
+          "year": "2020-03",
+          "abstract": "This paper aims to focus on Richardson varieties on symplectic groups,\nespecially their combinatorial characterization and defining equations.\nSchubert varieties and opposite Schubert varieties have profound significance\nin the study of generalized flag varieties which are not only research objects\nin algebraic geometry but also ones in representation theory. A more general\nresearch object is Richardson variety, which is obtained by the intersection of\na Schubert variety and an opposite Schubert variety. The structure of\nRichardson variety on Grassmannian and its combinatorial characterization are\nwell known, and there are also similar method on quotients of symplectic\ngroups. In the first part of this paper, we calculate the orbit of the\nsymplectic group action, and then rigorously give a method to describe the\ncorresponding quotient by using the nesting subspace sequence of the linear\nspace, i.e. flags. At the same time, the flag is used to describe the Schubert\nvariety and Richardson variety on quotient of symplectic group. The flag\nvarieties of Sp_{2n}(k)/P_d can be viewed as closed subvarieties of\nGrassmannian. Using the standard monomial theory, we obtain the generators of\nits ideal, i.e. its defining equations, in homogeneous coordinate ring of\nGrassmannian. Furthermore, we prove several properties of the type C standard\nmonomial on the symplectic group flag variety. Defining equations of Richardson\nvarieties on Sp_{2n}(k)/P_d are given as well.",
+          "arxiv_id": "2003.06246v1"
+        },
+        {
+          "title": "Positivity of minuscule quantum K-theory",
+          "year": "2022-05",
+          "abstract": "We prove that the Schubert structure constants of the quantum $K$-theory ring\nof any minuscule flag variety or quadric hypersurface have signs that alternate\nwith codimension. We also prove that the powers of the deformation parameter\n$q$ that occur in the product of two Schubert classes in the quantum cohomology\nor quantum $K$-theory ring of a cominuscule flag variety form an integer\ninterval. Our proofs are based on several new results, including an explicit\ndescription of the most general non-empty intersection of two Schubert\nvarieties in an arbitrary flag manifold, and a computation of the cohomology\ngroups of any negative line bundle restricted to a Richardson variety in a\ncominuscule flag variety. We also give a type-uniform proof of the\nquantum-to-classical theorem, which asserts that the (3-point, genus 0)\nGromov-Witten invariants of any cominuscule flag variety are classical\ntriple-intersection numbers on an associated flag variety. Finally, we prove\nseveral new results about the geometry and combinatorics related to this\ntheorem.",
+          "arxiv_id": "2205.08630v1"
+        },
+        {
+          "title": "Intersections of Schubert varieties and smooth $T$-stable subvarieties of flag varieties",
+          "year": "2025-06",
+          "abstract": "A smooth projective variety with an action of a torus admits a cell\ndecomposition, called the Bialynicki-Birula decomposition. Singularities of the\nclosures of these cells are not well-known. One of the examples of such\nclosures is a Schubert variety in a flag variety G/B, and there are several\ncriteria for the smoothness of Schubert varieties. In this paper, we focus on\nthe closures of Bialynicki-Birula cells in regular semisimple Hessenberg\nvarieties Hess(s,h), called Hessenberg Schubert varieties. We first consider\nthe intersection of the Schubert varieties with Hess(s,h) and investigate the\nirreducibility and the smoothness of this intersection, from which we get a\nsufficient condition for a Hessenberg Schubert variety to be smooth.",
+          "arxiv_id": "2506.21180v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "The spectral genus of an isolated hypersurface singularity and a conjecture relating to the Milnor number",
+          "year": "2024-05",
+          "abstract": "In this paper, we introduce the notion of spectral genus $\\widetilde{p}_{g}$\nof a germ of an isolated hypersurface singularity $(\\mathbb{C}^{n+1}, 0) \\to\n(\\mathbb{C}, 0)$, defined as a sum of small exponents of monodromy eigenvalues.\nThe number of these is equal to the geometric genus $p_{g}$, and hence\n$\\widetilde{p}_g$ can be considered as a secondary invariant to it. We then\nexplore a secondary version of the Durfee conjecture on $p_{g}$, and we predict\nan inequality between $\\widetilde{p}_{g}$ and the Milnor number $\\mu$, to the\neffect that $$\\widetilde{p}_g\\leq\\frac{\\mu-1}{(n+2)!}.$$ We provide evidence by\nconfirming our conjecture in several cases, including homogeneous singularities\nand singularities with large Newton polyhedra, and quasi-homogeneous or\nirreducible curve singularities. We also show that a weaker inequality follows\nfrom Durfee's conjecture, and hence holds for quasi-homogeneous singularities\nand curve singularities.\n  Our conjecture is shown to relate closely to the asymptotic behavior of the\nholomorphic analytic torsion of the sheaf of holomorphic functions on a\ndegeneration of projective varieties, potentially indicating deeper geometric\nand analytic connections.",
+          "arxiv_id": "2405.03450v3"
+        },
+        {
+          "title": "Higher Du Bois and higher rational singularities",
+          "year": "2022-05",
+          "abstract": "We prove that the higher direct images $R^qf_*\\Omega^p_{\\mathcal Y/S}$ of the\nsheaves of relative K\\\"ahler differentials are locally free and compatible with\narbitrary base change for flat proper families whose fibers have $k$-Du Bois\nlocal complete intersection singularities, for $p\\leq k$ and all $q\\geq 0$,\ngeneralizing a result of Du Bois (the case $k=0$). We then propose a definition\nof $k$-rational singularities extending the definition of rational\nsingularities, and show that, if $X$ is a $k$-rational variety with either\nisolated or local complete intersection singularities, then $X$ is $k$-Du Bois.\nAs applications, we discuss the behavior of Hodge numbers in families and the\nunobstructedness of deformations of singular Calabi-Yau varieties.\n  In an appendix, Morihiko Saito proves that, in the case of hypersurface\nsingularities, the $k$-rationality definition proposed here is equivalent to a\npreviously given numerical definition for $k$-rational singularities. As an\nimmediate consequence, it follows that for hypersurface singularities, $k$-Du\nBois singularities are $(k-1)$-rational. This statement has recently been\nproved for all local complete intersection singularities by\nChen-Dirks-Musta\\c{t}\\u{a}.",
+          "arxiv_id": "2205.04729v5"
+        },
+        {
+          "title": "The higher Du Bois and higher rational properties for isolated singularities",
+          "year": "2022-07",
+          "abstract": "Higher rational and higher Du Bois singularities have recently been\nintroduced as natural generalizations of the standard definitions of rational\nand Du Bois singularities. In this note, we discuss these properties for\nisolated singularities, especially in the locally complete intersection (lci)\ncase. First, we reprove the fact that a $k$-rational isolated singularity is\n$k$-Du Bois without any lci assumption. For isolated lci singularities, we give\na complete characterization of the $k$-Du Bois and $k$-rational singularities\nin terms of standard invariants of singularities. In particular, we show that\n$k$-Du Bois singularities are $(k-1)$-rational for isolated lci singularities.\nIn the course of the proof, we establish some new relations between invariants\nof isolated lci singularities and show that many of these vanish. The methods\nalso lead to a quick proof of an inversion of adjunction theorem in the\nisolated lci case. Finally, we discuss some results specific to the\nhypersurface case.",
+          "arxiv_id": "2207.07566v4"
+        }
+      ],
+      "8": [
+        {
+          "title": "Open enumerative mirror symmetry for lines in the mirror quintic",
+          "year": "2024-11",
+          "abstract": "Mirror symmetry gives predictions for the genus zero Gromov-Witten invariants\nof a closed Calabi--Yau variety in terms of period integrals on a mirror family\nof Calabi-Yau varieties. We deduce an analogous mirror theorem for the open\nGromov-Witten invariants of certain Lagrangian submanifolds of the quintic\nthreefold from homological mirror symmetry, assuming the existence of a\nnegative cyclic open-closed map. The Lagrangians we consider can be thought of\nas SYZ mirrors to lines, and their open Gromov-Witten (OGW) invariants coincide\nwith relative period integrals on the mirror quintic calculated by Walcher.\nTheir OGW invariants are irrational numbers contained in an algebraic extension\nof the rationals, and admit an expression similar to the Ooguri-Vafa multiple\ncover formula involving special values of a Dirichlet L-function. We achieve\nthese results by studying the Floer theory of a different immersed Lagrangian\nin the quintic that supports a one-dimensional family of objects in the Fukaya\ncategory homologically mirror to coherent sheaves supported on lines in the\nmirror quintic. The field in which the OGW invariants lie arises as the\ninvariant trace field of (the smooth locus of) a closely related hyperbolic\nLagrangian submanifold with conical singularities in the quintic. These results\nexplain some of the predictions on the existence of hyperbolic Lagrangian\nsubmanifolds in the quintic put forward by Jockers-Morrison-Walcher.",
+          "arxiv_id": "2411.07894v2"
+        },
+        {
+          "title": "Semi-stable degenerations of Calabi-Yau manifolds and mirror P=W conjecture",
+          "year": "2023-04",
+          "abstract": "Mirror symmetry for a semi-stable degeneration of a Calabi-Yau manifold was\nfirst investigated by Doran-Harder-Thompson when the degeneration fiber is a\nunion of two (quasi)-Fano manifolds. They propose a topological construction of\na mirror Calabi-Yau that is a gluing of two Landau-Ginzburg models mirror to\nthose Fano manifolds. We extend this construction to a general type semi-stable\ndegeneration. As each component in the degeneration fiber comes with the simple\nnormal crossing anti-canonical divisor, one needs the notion of a hybrid\nLandau-Ginzburg model, a multi-potential analogue of classical Landau-Ginzburg\nmodels. We show that these hybrid LG models can be glued to provide a\ntopological mirror candidate of the Calabi-Yau which is also equipped with the\nfibration over $\\mathbb{P}^N$. Furthermore, it is predicted that the perverse\nLeray filtration associated to this fibration is mirror to the monodromy weight\nfiltration on the degeneration side. We explain how this can be deduced from\nthe original mirror P=W conjecture.",
+          "arxiv_id": "2304.10625v1"
+        },
+        {
+          "title": "Topological Fukaya category and mirror symmetry for toric Calabi-Yau 3-orbifolds",
+          "year": "2022-04",
+          "abstract": "We prove a version of homological mirror symmetry statement for toric\nCalabi-Yau $3$-orbifolds, thus extending arXiv:1604.06448 to the case of\norbifolds under the mirror symmetry setting considered in arXiv:1604.07123. The\nB-model is the matrix factorization category for the toric Calabi-Yau\n$3$-orbifold with a superpotential; while the A-model is a topologically\ndefined Fukaya-type category on its mirror curve.",
+          "arxiv_id": "2204.12483v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Birational Transformations and 2d (0,2) Quiver Gauge Theories beyond Toric Fano 3-folds",
+          "year": "2025-02",
+          "abstract": "We show that a family of birational transformations that relate toric Fano\n3-folds defined by reflexive lattice polytopes can be identified with mass\ndeformations of corresponding 2d (0,2) supersymmetric quiver gauge theories.\nThese theories are realized by a Type IIA brane configuration known as brane\nbrick models. We further show that the same family of birational\ntransformations extends to more general toric Calabi-Yau 4-folds, including\nthose defined by non-reflexive toric diagrams. Under these birational\ntransformations, the mesonic moduli spaces of the associated abelian 2d (0,2)\nsupersymmetric gauge theories and brane brick models share the same number of\ngenerators and the same Hilbert series when refined only under the U(1)R\nsymmetry. Since these transformations categorize toric Calabi-Yau 4-folds and\ntheir corresponding 2d (0,2) supersymmetric gauge theories into non-trivial\nequivalence classes, we anticipate that our findings will pave the way for a\n`Minimal Model Program' for quiver gauge theories corresponding to toric\nCalabi-Yau manifolds.",
+          "arxiv_id": "2502.08741v2"
+        },
+        {
+          "title": "The Origin of Calabi-Yau Crystals in BPS States Counting",
+          "year": "2024-01",
+          "abstract": "We study the counting problem of BPS D-branes wrapping holomorphic cycles of\na general toric Calabi-Yau manifold. We evaluate the Jeffrey-Kirwan residues\nfor the flavoured Witten index for the supersymmetric quiver quantum mechanics\non the worldvolume of the D-branes, and find that BPS degeneracies are\ndescribed by a statistical mechanical model of crystal melting. For Calabi-Yau\nthreefolds, we reproduce the crystal melting models long known in the\nliterature. For Calabi-Yau fourfolds, however, we find that the crystal does\nnot contain the full information for the BPS degeneracy and we need to\nexplicitly evaluate non-trivial weights assigned to the crystal configurations.\nOur discussions treat Calabi-Yau threefolds and fourfolds on equal footing, and\ninclude discussions on elliptic and rational generalizations of the BPS states\ncounting, connections to the mathematical definition of generalized\nDonaldson-Thomas invariants, examples of wall crossings, and of trialities in\nquiver gauge theories.",
+          "arxiv_id": "2401.02792v4"
+        },
+        {
+          "title": "The twisted geometry of 6d F-theory vacua with discrete gauge symmetries",
+          "year": "2025-08",
+          "abstract": "We study the fate of discrete gauge groups and discrete charges of\ngravitational theories under twisted circle compactification. We then apply our\nresults to six-dimensional F-theory vacua with discrete gauge symmetries and\nrelate them to the geometry of the genus one fibered Calabi-Yau threefolds that\nunderlie the dual M-theory compactifications. This leads us to introduce a\nclass of geometries, which we call almost generic elliptic/genus one fibered\nCalabi-Yau threefolds, and to make detailed conjectures about their properties.\nA second twisted circle compactification relates these M-theory vacua to Type\nIIA compactifications with flat but topologically non-trivial B-fields along\nthe internal geometry. The A-model topological string partition function on\nsuch configurations is intimately tied to the twisted-twined elliptic genera of\nthe six-dimensional non-critical strings of the associated F-theory vacuum. The\nmodular properties of the twisted-twined elliptic genera imply new twisted\nderived equivalences. We thus recover and significantly extend earlier results\nfrom both the physical and the mathematical literature. An important outcome of\nour study is that if the discrete gauge symmetry is not cyclic, then no smooth\ngenus one fibration exists that represents the associated axio-dilaton profile.",
+          "arxiv_id": "2508.16500v1"
+        }
+      ],
+      "10": [
+        {
+          "title": "Semi-ampleness of NQC generalized log canonical pairs",
+          "year": "2022-10",
+          "abstract": "We establish a Koll\\'ar-type gluing theory for NQC generalized log canonical\npairs and use it to prove semi-ampleness results of NQC generalized pairs. As\nconsequences, we prove the existence of flips for any NQC generalized log\ncanonical pair, and show that NQC generalized log canonical singularities are\nDu Bois.",
+          "arxiv_id": "2210.01731v2"
+        },
+        {
+          "title": "On termination of minimal model program for log canonical pairs on complex analytic spaces",
+          "year": "2025-01",
+          "abstract": "We study the termination of minimal model programs for log canonical pairs in\nthe complex analytic setting. By using the termination, we prove a relation\nbetween the minimal model theory for projective log canonical pairs and that\nfor log canonical pairs in the complex analytic setting. The minimal model\nprograms for algebraic stacks and analytic stacks are also discussed.",
+          "arxiv_id": "2501.03531v1"
+        },
+        {
+          "title": "Finiteness of log abundant log canonical pairs in log minimal model program with scaling",
+          "year": "2020-05",
+          "abstract": "We study relations between the property of being log abundant for lc pairs\nand the termination of log MMP with scaling. We prove that any log MMP with\nscaling of an ample divisor starting with a projective dlt pair contains only\nfinitely many log abundant dlt pairs. We also discuss log MMP for slc pairs.",
+          "arxiv_id": "2005.12253v4"
+        }
+      ],
+      "11": [
+        {
+          "title": "Embeddings of automorphism groups of free groups into automorphism groups of affine algebraic varieties",
+          "year": "2022-07",
+          "abstract": "A new infinite series of rational affine algebraic varieties is constructed\nwhose automorphism group contains the automorphism group ${\\rm Aut}(F_n)$ of\nthe free group $F_n$ of rank $n$. The automorphism groups of such varieties are\nnonlinear and contain the braid group $B_n$ on $n$ strands for $n\\geqslant 3$,\nand are nonamenable for $n\\geqslant 2$. As an application, it is proved that\nfor $n\\geqslant 3$, every Cremona group of rank $\\geqslant 3n-1$ contains the\ngroups ${\\rm Aut}(F_n)$ and $B_n$. This bound is 1 better than the one\npublished earlier by the author; with respect to $B_n$ the order of its growth\nrate is one less than that of the bound following from the paper by D. Krammer.\nThe basis of the construction are triplets $(G, R, n)$, where $G$ is a\nconnected semisimple algebraic group and $R$ is a closed subgroup of its\nmaximal torus.",
+          "arxiv_id": "2207.13072v1"
+        },
+        {
+          "title": "Maximal commutative unipotent subgroups and a characterization of affine spherical varieties",
+          "year": "2021-12",
+          "abstract": "We describe maximal commutative unipotent subgroups of the automorphism group\n$\\mathrm{Aut}(X)$ of an irreducible affine variety $X$. Further we show that a\ngroup isomorphism $\\mathrm{Aut}(X) \\to \\mathrm{Aut}(Y)$ maps unipotent elements\nto unipotent elements, where $Y$ is irreducible and affine. Using this result,\nwe show that the automorphism group detects sphericity and the weight-monoid.\n  As an application, we show that an affine toric variety different from an\nalgebraic torus is determined by its automorphism group among normal\nirreducible affine varieties and we show that a smooth affine spherical variety\ndifferent from an algebraic torus is determined by its automorphism group (up\nto an automorphism of the base field) among smooth irreducible affine\nvarieties.",
+          "arxiv_id": "2112.04784v2"
+        },
+        {
+          "title": "When is the automorphism group of an affine variety linear?",
+          "year": "2022-05",
+          "abstract": "Let $Aut_{alg}(X)$ be the subgroup of the group of regular automorphisms\n$Aut(X)$ of an affine algebraic variety $X$ generated by all connected\nalgebraic subgroups. We prove that if $dim X \\ge 2$ and if $Aut_{alg}(X)$ is\nrich enough, $Aut_{alg}(X)$ is not linear, i.e., it cannot be embedded into\n$GL_n(K)$, where $K$ is an algebraically closed field of characteristic zero.\nMoreover, $Aut(X)$ is isomorphic to an algebraic group as an abstract group\nonly if the connected component of $Aut(X)$ is either the algebraic torus or a\ndirect limit of commutative unipotent groups. Finally, we prove that for an\nuncountable $K$ the group of birational transformations of $X$ cannot be\nisomorphic to the group of automorphisms of an affine variety if $X$ is endowed\nwith a rational action of a positive-dimensional linear algebraic group.",
+          "arxiv_id": "2205.14653v1"
+        }
+      ],
+      "12": [
+        {
+          "title": "On motives of parabolic Higgs bundles and parabolic connections",
+          "year": "2023-09",
+          "abstract": "Let $X$ be a compact Riemann surface of genus $g \\geq 2$ and let $D\\subset X$\nbe a fixed finite subset. We considered the moduli spaces of parabolic Higgs\nbundles and of parabolic connections over $X$ with the parabolic structure over\n$D$. For generic weights, we showed that these two moduli spaces have equal\nGrothendieck motivic classes and their $E$-polynomials are the same. We also\nshow that the Voevodsky and Chow motives of these two moduli spaces are also\nequal. We showed that the Grothendieck motivic classes and the $E$-polynomials\nof parabolic Higgs moduli and of parabolic Hodge moduli are closely related.\nFinally, we considered the moduli spaces with fixed determinants and showed\nthat the above results also hold for the fixed determinant case.",
+          "arxiv_id": "2309.06967v2"
+        },
+        {
+          "title": "Hitchin fibration on moduli of symplectic and orthogonal parabolic Higgs bundles",
+          "year": "2020-02",
+          "abstract": "Let $X$ be a compact Riemann surface of genus $g \\geq 2$, and let $D \\subset\nX$ be a fixed finite subset. Let $\\mathcal{M}(r,d,\\alpha)$ denote the moduli\nspace of stable parabolic $G$-bundles (where $G$ is a complex orthogonal or\nsymplectic group) of rank $r$, degree $d$ and weight type $\\alpha$ over $X$.\nHitchin discovered that the cotangent bundle of the moduli space of stable\nbundles on an algebraic curve is an algebraically completely integrable system\nfibered, over a space of invariant polynomials, either by a Jacobian or a Prym\nvariety of spectral curves. In this paper we study the Hitchin fibers for\n$\\mathcal{M}(r,d,\\alpha)$.",
+          "arxiv_id": "2002.10325v2"
+        },
+        {
+          "title": "Line bundles on the moduli space of parabolic connections over a compact Riemann surface",
+          "year": "2022-03",
+          "abstract": "Let $X$ be a compact Riemann surface of genus $g \\geq 3$ and $S$ a finite\nsubset of $X$. Let $\\xi$ be fixed a holomorphic line bundle over $X$ of degree\n$d$. Let $\\mathcal{M}_{pc}(r, d, \\alpha)$ (respectively, $\\mathcal{M}_{pc}(r,\n\\alpha, \\xi)$ ) denote the moduli space of parabolic connections of rank $r$,\ndegree $d$ and full flag rational generic weight system $\\alpha$,\n(respectively, with the fixed determinant $\\xi$) singular over the parabolic\npoints $S \\subset X$.\n  Let $\\mathcal{M}'_{pc}(r, d, \\alpha)$ (respectively, $\\mathcal{M}'_{pc}(r,\n\\alpha, \\xi)$) be the Zariski dense open subset of $\\mathcal{M}_{pc}(r, d,\n\\alpha)$ (respectively, $\\mathcal{M}_{pc}(r, \\alpha, \\xi)$ )parametrizing all\nparabolic connections such that the underlying parabolic bundle is stable. We\nshow that there is a natural compactification of the moduli spaces\n$\\mathcal{M}'_{pc}(r, d, \\alpha)$, and $\\mathcal{M}'_{pc}(r, \\alpha, \\xi)$ by\nsmooth divisors.\n  We describe the numerically effectiveness of these divisors at infinity. We\ndetermine the Picard group of the moduli spaces $\\mathcal{M}_{pc}(r, d,\n\\alpha)$, and $\\mathcal{M}_{pc}(r, \\alpha, \\xi)$. Let $\\mathcal{C}(L)$ denote\nthe space of holomorphic connections on an ample line bundle $L$ over the\nmoduli space $\\mathcal{M}(r, d, \\alpha)$ of parabolic bundles. We show that\n$\\mathcal{C}(L)$ does not admit any non-constant algebraic function.",
+          "arxiv_id": "2203.06854v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:51:39Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

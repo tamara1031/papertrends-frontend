@@ -1,0 +1,578 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_portfolio_risk_optimal_model",
+        "keywords": [
+          [
+            "portfolio",
+            0.042930442633466515
+          ],
+          [
+            "risk",
+            0.03078007462652836
+          ],
+          [
+            "optimal",
+            0.026178999638360765
+          ],
+          [
+            "model",
+            0.02471249438101956
+          ],
+          [
+            "market",
+            0.023604451240281512
+          ],
+          [
+            "problem",
+            0.02266859797960472
+          ],
+          [
+            "time",
+            0.01906665064388908
+          ],
+          [
+            "asset",
+            0.018843614446993805
+          ],
+          [
+            "optimization",
+            0.01847484033132518
+          ],
+          [
+            "investment",
+            0.018119704122458773
+          ]
+        ],
+        "count": 700
+      },
+      "1": {
+        "name": "1_learning_RL_portfolio_reinforcement",
+        "keywords": [
+          [
+            "learning",
+            0.04442507294709523
+          ],
+          [
+            "RL",
+            0.03349225482738829
+          ],
+          [
+            "portfolio",
+            0.03286493727080904
+          ],
+          [
+            "reinforcement",
+            0.031247160032585274
+          ],
+          [
+            "reinforcement learning",
+            0.03097733561210599
+          ],
+          [
+            "Reinforcement",
+            0.029124677895132452
+          ],
+          [
+            "Learning",
+            0.028894228219515376
+          ],
+          [
+            "market",
+            0.02503663205125344
+          ],
+          [
+            "Deep",
+            0.024320603184390836
+          ],
+          [
+            "agent",
+            0.024064089767404526
+          ]
+        ],
+        "count": 106
+      },
+      "2": {
+        "name": "2_ESG_portfolio_risk_financial",
+        "keywords": [
+          [
+            "ESG",
+            0.07221759040687716
+          ],
+          [
+            "portfolio",
+            0.03295388862501996
+          ],
+          [
+            "risk",
+            0.03178162625904675
+          ],
+          [
+            "financial",
+            0.029387750679629805
+          ],
+          [
+            "investors",
+            0.029339027252157913
+          ],
+          [
+            "investment",
+            0.024596770077393446
+          ],
+          [
+            "Social",
+            0.022877262562786552
+          ],
+          [
+            "energy",
+            0.022512884341129066
+          ],
+          [
+            "market",
+            0.02198150574382568
+          ],
+          [
+            "environmental",
+            0.021714731468717427
+          ]
+        ],
+        "count": 33
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4259722139755052,
+        -0.40237349385354004
+      ],
+      [
+        -0.4259722139755052,
+        1.0,
+        -0.6421142493095795
+      ],
+      [
+        -0.40237349385354004,
+        -0.6421142493095795,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        10,
+        0,
+        0
+      ],
+      "2020-02": [
+        5,
+        3,
+        1
+      ],
+      "2020-03": [
+        7,
+        1,
+        0
+      ],
+      "2020-04": [
+        12,
+        1,
+        1
+      ],
+      "2020-05": [
+        13,
+        1,
+        0
+      ],
+      "2020-06": [
+        14,
+        1,
+        1
+      ],
+      "2020-07": [
+        9,
+        2,
+        0
+      ],
+      "2020-08": [
+        12,
+        0,
+        0
+      ],
+      "2020-09": [
+        13,
+        4,
+        0
+      ],
+      "2020-10": [
+        8,
+        3,
+        0
+      ],
+      "2020-11": [
+        12,
+        2,
+        0
+      ],
+      "2020-12": [
+        12,
+        4,
+        0
+      ],
+      "2021-01": [
+        8,
+        1,
+        2
+      ],
+      "2021-02": [
+        6,
+        2,
+        0
+      ],
+      "2021-03": [
+        17,
+        3,
+        0
+      ],
+      "2021-04": [
+        12,
+        3,
+        0
+      ],
+      "2021-05": [
+        12,
+        1,
+        0
+      ],
+      "2021-06": [
+        20,
+        2,
+        0
+      ],
+      "2021-07": [
+        12,
+        1,
+        1
+      ],
+      "2021-08": [
+        9,
+        2,
+        0
+      ],
+      "2021-09": [
+        6,
+        1,
+        0
+      ],
+      "2021-10": [
+        11,
+        0,
+        0
+      ],
+      "2021-11": [
+        15,
+        4,
+        1
+      ],
+      "2021-12": [
+        10,
+        3,
+        0
+      ],
+      "2022-01": [
+        15,
+        1,
+        1
+      ],
+      "2022-02": [
+        18,
+        1,
+        0
+      ],
+      "2022-03": [
+        8,
+        0,
+        0
+      ],
+      "2022-04": [
+        5,
+        0,
+        0
+      ],
+      "2022-05": [
+        8,
+        1,
+        0
+      ],
+      "2022-06": [
+        13,
+        5,
+        2
+      ],
+      "2022-07": [
+        7,
+        1,
+        0
+      ],
+      "2022-08": [
+        14,
+        0,
+        0
+      ],
+      "2022-09": [
+        8,
+        2,
+        0
+      ],
+      "2022-10": [
+        16,
+        0,
+        0
+      ],
+      "2022-11": [
+        11,
+        0,
+        0
+      ],
+      "2022-12": [
+        7,
+        5,
+        1
+      ],
+      "2023-01": [
+        4,
+        2,
+        0
+      ],
+      "2023-02": [
+        15,
+        1,
+        1
+      ],
+      "2023-03": [
+        17,
+        0,
+        0
+      ],
+      "2023-04": [
+        12,
+        0,
+        0
+      ],
+      "2023-05": [
+        13,
+        3,
+        1
+      ],
+      "2023-06": [
+        13,
+        4,
+        1
+      ],
+      "2023-07": [
+        12,
+        6,
+        2
+      ],
+      "2023-08": [
+        14,
+        3,
+        0
+      ],
+      "2023-09": [
+        11,
+        3,
+        0
+      ],
+      "2023-10": [
+        15,
+        6,
+        1
+      ],
+      "2023-11": [
+        16,
+        4,
+        3
+      ],
+      "2023-12": [
+        14,
+        4,
+        1
+      ],
+      "2024-01": [
+        11,
+        0,
+        0
+      ],
+      "2024-02": [
+        13,
+        2,
+        1
+      ],
+      "2024-03": [
+        8,
+        3,
+        2
+      ],
+      "2024-04": [
+        11,
+        2,
+        1
+      ],
+      "2024-05": [
+        11,
+        2,
+        0
+      ],
+      "2024-06": [
+        17,
+        2,
+        0
+      ],
+      "2024-07": [
+        17,
+        3,
+        1
+      ],
+      "2024-08": [
+        11,
+        2,
+        0
+      ],
+      "2024-09": [
+        11,
+        4,
+        0
+      ],
+      "2024-10": [
+        21,
+        4,
+        0
+      ],
+      "2024-11": [
+        20,
+        1,
+        0
+      ],
+      "2024-12": [
+        18,
+        5,
+        0
+      ],
+      "2025-01": [
+        15,
+        4,
+        0
+      ],
+      "2025-02": [
+        9,
+        2,
+        1
+      ],
+      "2025-03": [
+        17,
+        3,
+        0
+      ],
+      "2025-04": [
+        13,
+        4,
+        0
+      ],
+      "2025-05": [
+        9,
+        3,
+        0
+      ],
+      "2025-06": [
+        11,
+        2,
+        0
+      ],
+      "2025-07": [
+        26,
+        3,
+        0
+      ],
+      "2025-08": [
+        11,
+        6,
+        3
+      ],
+      "2025-09": [
+        5,
+        4,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Exponential utility maximization in small/large financial markets",
+          "year": "2022-08",
+          "abstract": "Obtaining utility maximizing optimal portfolios in closed form is a\nchallenging issue when the return vector follows a more general distribution\nthan the normal one. In this note, we give closed form expressions, in markets\nbased on finitely many assets, for optimal portfolios that maximize the\nexpected exponential utility when the return vector follows normal\nmean-variance mixture models. We then consider large financial markets based on\nnormal mean-variance mixture models also and show that, under exponential\nutility, the optimal utilities based on small markets converge to the optimal\nutility in the large financial market. This result shows, in particular, that\nto reach optimal utility level investors need to diversify their portfolios to\ninclude infinitely many assets into their portfolio and with portfolios based\non any set of only finitely many assets, they never be able to reach optimum\nlevel of utility. In this paper, we also consider portfolio optimization\nproblems with more general class of utility functions and provide an\neasy-to-implement numerical procedure for locating optimal portfolios.\nEspecially, our approach in this part of the paper reduces a high dimensional\nproblem in locating optimal portfolio into a three dimensional problem for a\ngeneral class of utility functions.",
+          "arxiv_id": "2208.06549v4"
+        },
+        {
+          "title": "Schrödinger Risk Diversification Portfolio",
+          "year": "2022-02",
+          "abstract": "The mean-variance portfolio that considers the trade-off between expected\nreturn and risk has been widely used in the problem of asset allocation for\nmulti-asset portfolios. However, since it is difficult to estimate the expected\nreturn and the out-of-sample performance of the mean-variance portfolio is\npoor, risk-based portfolio construction methods focusing only on risk have been\nproposed, and are attracting attention mainly in practice. In terms of risk,\nasset fluctuations that make up the portfolio are thought to have common\nfactors behind them, and principal component analysis, which is a dimension\nreduction method, is applied to extract the factors. In this study, we propose\nthe Schr\\\"{o}dinger risk diversification portfolio as a factor risk\ndiversifying portfolio using Schr\\\"{o}dinger principal component analysis that\napplies the Schr\\\"{o}dinger equation in quantum mechanics. The Schr\\\"{o}dinger\nprincipal component analysis can accurately estimate the factors even if the\nsample points are unequally spaced or in a small number, thus we can make\nefficient risk diversification. The proposed method was verified to outperform\nthe conventional risk parity and other risk diversification portfolio\nconstructions.",
+          "arxiv_id": "2202.09939v1"
+        },
+        {
+          "title": "A Portfolio Choice Problem Under Risk Capacity Constraint",
+          "year": "2020-05",
+          "abstract": "This paper studies an optimal investing problem for a retiree facing\nlongevity risk and living standard risk. We formulate the investing problem as\na portfolio choice problem under a time-varying risk capacity constraint. We\nderive the optimal investment strategy under the specific condition on model\nparameters in terms of second-order ordinary differential equations. We\ndemonstrate an endogenous number that measures the expected value to sustain\nthe spending post-retirement. The optimal portfolio is nearly neutral to the\nstock market movement if the portfolio's value is higher than this number; but,\nif the portfolio is not worth enough to sustain the retirement spending, the\nretiree actively invests in the stock market for the higher expected return.\nBesides, we solve an optimal portfolio choice problem under a leverage\nconstraint and show that the optimal portfolio would lose significantly in\nstressed markets. This paper shows that the time-varying risk capacity\nconstraint has important implications for asset allocation in retirement.",
+          "arxiv_id": "2005.13741v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "A Deep Reinforcement Learning Framework for Dynamic Portfolio Optimization: Evidence from China's Stock Market",
+          "year": "2024-12",
+          "abstract": "Artificial intelligence is transforming financial investment decision-making\nframeworks, with deep reinforcement learning demonstrating substantial\npotential in robo-advisory applications. This paper addresses the limitations\nof traditional portfolio optimization methods in dynamic asset weight\nadjustment through the development of a deep reinforcement learning-based\ndynamic optimization model grounded in practical trading processes. The\nresearch advances two key innovations: first, the introduction of a novel\nSharpe ratio reward function engineered for Actor-Critic deep reinforcement\nlearning algorithms, which ensures stable convergence during training while\nconsistently achieving positive average Sharpe ratios; second, the development\nof an innovative comprehensive approach to portfolio optimization utilizing\ndeep reinforcement learning, which significantly enhances model optimization\ncapability through the integration of random sampling strategies during\ntraining with image-based deep neural network architectures for\nmulti-dimensional financial time series data processing, average Sharpe ratio\nreward functions, and deep reinforcement learning algorithms. The empirical\nanalysis validates the model using randomly selected constituent stocks from\nthe CSI 300 Index, benchmarking against established financial econometric\noptimization models. Backtesting results demonstrate the model's efficacy in\noptimizing portfolio allocation and mitigating investment risk, yielding\nsuperior comprehensive performance metrics.",
+          "arxiv_id": "2412.18563v3"
+        },
+        {
+          "title": "Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management",
+          "year": "2024-02",
+          "abstract": "Deep or reinforcement learning (RL) approaches have been adapted as reactive\nagents to quickly learn and respond with new investment strategies for\nportfolio management under the highly turbulent financial market environments\nin recent years. In many cases, due to the very complex correlations among\nvarious financial sectors, and the fluctuating trends in different financial\nmarkets, a deep or reinforcement learning based agent can be biased in\nmaximising the total returns of the newly formulated investment portfolio while\nneglecting its potential risks under the turmoil of various market conditions\nin the global or regional sectors. Accordingly, a multi-agent and self-adaptive\nframework namely the MASA is proposed in which a sophisticated multi-agent\nreinforcement learning (RL) approach is adopted through two cooperating and\nreactive agents to carefully and dynamically balance the trade-off between the\noverall portfolio returns and their potential risks. Besides, a very flexible\nand proactive agent as the market observer is integrated into the MASA\nframework to provide some additional information on the estimated market trends\nas valuable feedbacks for multi-agent RL approach to quickly adapt to the\never-changing market conditions. The obtained empirical results clearly reveal\nthe potential strengths of our proposed MASA framework based on the multi-agent\nRL approach against many well-known RL-based approaches on the challenging data\nsets of the CSI 300, Dow Jones Industrial Average and S&P 500 indexes over the\npast 10 years. More importantly, our proposed MASA framework shed lights on\nmany possible directions for future investigation.",
+          "arxiv_id": "2402.00515v4"
+        },
+        {
+          "title": "Deep Reinforcement Learning for Asset Allocation in US Equities",
+          "year": "2020-10",
+          "abstract": "Reinforcement learning is a machine learning approach concerned with solving\ndynamic optimization problems in an almost model-free way by maximizing a\nreward function in state and action spaces. This property makes it an exciting\narea of research for financial problems. Asset allocation, where the goal is to\nobtain the weights of the assets that maximize the rewards in a given state of\nthe market considering risk and transaction costs, is a problem easily framed\nusing a reinforcement learning framework. It is first a prediction problem for\nexpected returns and covariance matrix and then an optimization problem for\nreturns, risk, and market impact. Investors and financial researchers have been\nworking with approaches like mean-variance optimization, minimum variance, risk\nparity, and equally weighted and several methods to make expected returns and\ncovariance matrices' predictions more robust. This paper demonstrates the\napplication of reinforcement learning to create a financial model-free solution\nto the asset allocation problem, learning to solve the problem using time\nseries and deep neural networks. We demonstrate this on daily data for the top\n24 stocks in the US equities universe with daily rebalancing. We use a deep\nreinforcement model on US stocks using different architectures. We use Long\nShort Term Memory networks, Convolutional Neural Networks, and Recurrent Neural\nNetworks and compare them with more traditional portfolio management. The Deep\nReinforcement Learning approach shows better results than traditional\napproaches using a simple reward function and only being given the time series\nof stocks. In Finance, no training to test error generalization results come\nguaranteed. We can say that the modeling framework can deal with time series\nprediction and asset allocation, including transaction costs.",
+          "arxiv_id": "2010.04404v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Identifying Risk Variables From ESG Raw Data Using A Hierarchical Variable Selection Algorithm",
+          "year": "2025-08",
+          "abstract": "Environmental, Social, and Governance (ESG) factors aim to provide\nnon-financial insights into corporations. In this study, we investigate whether\nwe can extract relevant ESG variables to assess corporate risk, as measured by\nlogarithmic volatility. We propose a novel Hierarchical Variable Selection\n(HVS) algorithm to identify a parsimonious set of variables from raw data that\nare most relevant to risk. HVS is specifically designed for ESG datasets\ncharacterized by a tree structure with significantly more variables than\nobservations. Our findings demonstrate that HVS achieves significantly higher\nperformance than models using pre-aggregated ESG scores. Furthermore, when\ncompared with traditional variable selection methods, HVS achieves superior\nexplanatory power using a more parsimonious set of ESG variables. We illustrate\nthe methodology using company data from various sectors of the US economy.",
+          "arxiv_id": "2508.18679v1"
+        },
+        {
+          "title": "Navigating Uncertainty in ESG Investing",
+          "year": "2023-10",
+          "abstract": "The widespread confusion among investors regarding Environmental, Social, and\nGovernance (ESG) rankings assigned by rating agencies has underscored a\ncritical issue in sustainable investing. To address this uncertainty, our\nresearch has devised methods that not only recognize this ambiguity but also\noffer tailored investment strategies for different investor profiles. By\ndeveloping ESG ensemble strategies and integrating ESG scores into a\nReinforcement Learning (RL) model, we aim to optimize portfolios that cater to\nboth financial returns and ESG-focused outcomes. Additionally, by proposing the\nDouble-Mean-Variance model, we classify three types of investors based on their\nrisk preferences. We also introduce ESG-adjusted Capital Asset Pricing Models\n(CAPMs) to assess the performance of these optimized portfolios. Ultimately,\nour comprehensive approach provides investors with tools to navigate the\ninherent ambiguities of ESG ratings, facilitating more informed investment\ndecisions.",
+          "arxiv_id": "2310.02163v2"
+        },
+        {
+          "title": "Managing ESG Ratings Disagreement in Sustainable Portfolio Selection",
+          "year": "2023-12",
+          "abstract": "Sustainable Investing identifies the approach of investors whose aim is\ntwofold: on the one hand, they want to achieve the best compromise between\nportfolio risk and return, but they also want to take into account the\nsustainability of their investment, assessed through some Environmental,\nSocial, and Governance (ESG) criteria. The inclusion of sustainable goals in\nthe portfolio selection process may have an actual impact on financial\nportfolio performance. ESG indices provided by the rating agencies are\ngenerally considered good proxies for the performance in sustainability of an\ninvestment, as well as, appropriate measures for Socially Responsible\nInvestments (SRI) in the market. In this framework of analysis, the lack of\nalignment between ratings provided by different agencies is a crucial issue\nthat inevitably undermines the robustness and reliability of these evaluation\nmeasures. In fact, the ESG rating disagreement may produce conflicting\ninformation, implying a difficulty for the investor in the portfolio ESG\nevaluation. This may cause underestimation or overestimation of the market\nopportunities for a sustainable investment. In this paper, we deal with a\nmulti-criteria portfolio selection problem taking into account risk, return,\nand ESG criteria. For the ESG evaluation of the securities in the market, we\nconsider more than one agency and propose a new approach to overcome the\nproblem related to the disagreement between the ESG ratings by different\nagencies. We propose a nonlinear optimization model for our three-criteria\nportfolio selection problem. We show that it can be reformulated as an\nequivalent convex quadratic program by exploiting a technique known in the\nliterature as the k-sum optimization strategy. An extensive empirical analysis\nof the performance of this model is provided on real-world financial data sets.",
+          "arxiv_id": "2312.10739v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:05:11Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

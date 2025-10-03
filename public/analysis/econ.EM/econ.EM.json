@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_data_models_treatment",
+        "keywords": [
+          [
+            "model",
+            0.030098569780890903
+          ],
+          [
+            "data",
+            0.02938072463042826
+          ],
+          [
+            "models",
+            0.0261857194517726
+          ],
+          [
+            "treatment",
+            0.024149577061299707
+          ],
+          [
+            "effects",
+            0.019640670513318807
+          ],
+          [
+            "time",
+            0.019629289269992467
+          ],
+          [
+            "paper",
+            0.019487985351885416
+          ],
+          [
+            "estimation",
+            0.018567357805540925
+          ],
+          [
+            "estimator",
+            0.017701366186946073
+          ],
+          [
+            "method",
+            0.0174728458444398
+          ]
+        ],
+        "count": 3385
+      },
+      "1": {
+        "name": "1_network_effects_peer_networks",
+        "keywords": [
+          [
+            "network",
+            0.07447697923606497
+          ],
+          [
+            "effects",
+            0.031880231325164515
+          ],
+          [
+            "peer",
+            0.0306313619947
+          ],
+          [
+            "networks",
+            0.02989834880222154
+          ],
+          [
+            "model",
+            0.028761230013293827
+          ],
+          [
+            "estimator",
+            0.028163181815012005
+          ],
+          [
+            "data",
+            0.026104567316528965
+          ],
+          [
+            "formation",
+            0.02331460716747558
+          ],
+          [
+            "dyadic",
+            0.020108596356415997
+          ],
+          [
+            "peer effects",
+            0.019694600136908196
+          ]
+        ],
+        "count": 73
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.08875210486883808
+      ],
+      [
+        -0.08875210486883808,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        21,
+        3
+      ],
+      "2020-02": [
+        42,
+        4
+      ],
+      "2020-03": [
+        29,
+        0
+      ],
+      "2020-04": [
+        48,
+        5
+      ],
+      "2020-05": [
+        44,
+        6
+      ],
+      "2020-06": [
+        67,
+        5
+      ],
+      "2020-07": [
+        39,
+        6
+      ],
+      "2020-08": [
+        40,
+        0
+      ],
+      "2020-09": [
+        43,
+        4
+      ],
+      "2020-10": [
+        47,
+        9
+      ],
+      "2020-11": [
+        42,
+        4
+      ],
+      "2020-12": [
+        47,
+        4
+      ],
+      "2021-01": [
+        32,
+        6
+      ],
+      "2021-02": [
+        62,
+        3
+      ],
+      "2021-03": [
+        54,
+        5
+      ],
+      "2021-04": [
+        33,
+        4
+      ],
+      "2021-05": [
+        29,
+        11
+      ],
+      "2021-06": [
+        29,
+        4
+      ],
+      "2021-07": [
+        35,
+        3
+      ],
+      "2021-08": [
+        37,
+        3
+      ],
+      "2021-09": [
+        41,
+        9
+      ],
+      "2021-10": [
+        53,
+        3
+      ],
+      "2021-11": [
+        47,
+        3
+      ],
+      "2021-12": [
+        45,
+        5
+      ],
+      "2022-01": [
+        49,
+        4
+      ],
+      "2022-02": [
+        43,
+        4
+      ],
+      "2022-03": [
+        35,
+        4
+      ],
+      "2022-04": [
+        48,
+        3
+      ],
+      "2022-05": [
+        54,
+        8
+      ],
+      "2022-06": [
+        36,
+        5
+      ],
+      "2022-07": [
+        36,
+        2
+      ],
+      "2022-08": [
+        39,
+        3
+      ],
+      "2022-09": [
+        44,
+        4
+      ],
+      "2022-10": [
+        47,
+        5
+      ],
+      "2022-11": [
+        43,
+        6
+      ],
+      "2022-12": [
+        44,
+        4
+      ],
+      "2023-01": [
+        54,
+        2
+      ],
+      "2023-02": [
+        46,
+        3
+      ],
+      "2023-03": [
+        36,
+        5
+      ],
+      "2023-04": [
+        30,
+        5
+      ],
+      "2023-05": [
+        41,
+        4
+      ],
+      "2023-06": [
+        42,
+        7
+      ],
+      "2023-07": [
+        55,
+        6
+      ],
+      "2023-08": [
+        49,
+        4
+      ],
+      "2023-09": [
+        40,
+        9
+      ],
+      "2023-10": [
+        58,
+        5
+      ],
+      "2023-11": [
+        46,
+        6
+      ],
+      "2023-12": [
+        51,
+        4
+      ],
+      "2024-01": [
+        44,
+        7
+      ],
+      "2024-02": [
+        59,
+        6
+      ],
+      "2024-03": [
+        58,
+        6
+      ],
+      "2024-04": [
+        54,
+        3
+      ],
+      "2024-05": [
+        69,
+        8
+      ],
+      "2024-06": [
+        56,
+        3
+      ],
+      "2024-07": [
+        52,
+        4
+      ],
+      "2024-08": [
+        55,
+        7
+      ],
+      "2024-09": [
+        45,
+        7
+      ],
+      "2024-10": [
+        62,
+        11
+      ],
+      "2024-11": [
+        69,
+        3
+      ],
+      "2024-12": [
+        61,
+        4
+      ],
+      "2025-01": [
+        58,
+        7
+      ],
+      "2025-02": [
+        50,
+        10
+      ],
+      "2025-03": [
+        64,
+        4
+      ],
+      "2025-04": [
+        44,
+        3
+      ],
+      "2025-05": [
+        64,
+        10
+      ],
+      "2025-06": [
+        75,
+        9
+      ],
+      "2025-07": [
+        69,
+        8
+      ],
+      "2025-08": [
+        45,
+        4
+      ],
+      "2025-09": [
+        36,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Semiparametric Estimation of Treatment Effects in Randomized Experiments",
+          "year": "2021-09",
+          "abstract": "We develop new semiparametric methods for estimating treatment effects. We\nfocus on settings where the outcome distributions may be thick tailed, where\ntreatment effects may be small, where sample sizes are large and where\nassignment is completely random. This setting is of particular interest in\nrecent online experimentation. We propose using parametric models for the\ntreatment effects, leading to semiparametric models for the outcome\ndistributions. We derive the semiparametric efficiency bound for the treatment\neffects for this setting, and propose efficient estimators. In the leading case\nwith constant quantile treatment effects one of the proposed efficient\nestimators has an interesting interpretation as a weighted average of quantile\ntreatment effects, with the weights proportional to minus the second derivative\nof the log of the density of the potential outcomes. Our analysis also suggests\nan extension of Huber's model and trimmed mean to include asymmetry.",
+          "arxiv_id": "2109.02603v2"
+        },
+        {
+          "title": "The Identification Power of Combining Experimental and Observational Data for Distributional Treatment Effect Parameters",
+          "year": "2025-08",
+          "abstract": "This paper investigates the identification power gained by combining\nexperimental data, in which treatment is randomized, with observational data,\nin which treatment is self-selected, for distributional treatment effect (DTE)\nparameters. While experimental data identify average treatment effects, many\nDTE parameters, such as the distribution of individual treatment effects, are\nonly partially identified. We examine whether, and how, combining the two data\nsources tightens the identified set for these parameters. For broad classes of\nDTE parameters, we derive sharp bounds under the combined data and clarify the\nmechanism through which the data combination tightens the identified set\nrelative to using experimental data alone. Our analysis highlights that\nself-selection in the observational data is a key source of identification\npower. We also characterize necessary and sufficient conditions under which the\ncombined data shrink the identified set, showing that such shrinkage generally\noccurs unless selection-on-observables holds in the observational data. We also\npropose a linear programming approach to compute the sharp bounds, which can\naccommodate additional structural restrictions such as mutual stochastic\nmonotonicity of potential outcomes and the generalized Roy model. An empirical\napplication using data on negative campaign advertisements in a U.S.\npresidential election illustrates the practical relevance of the approach.",
+          "arxiv_id": "2508.12206v1"
+        },
+        {
+          "title": "A Causal Inference Framework for Data Rich Environments",
+          "year": "2025-04",
+          "abstract": "We propose a formal model for counterfactual estimation with unobserved\nconfounding in \"data-rich\" settings, i.e., where there are a large number of\nunits and a large number of measurements per unit. Our model provides a bridge\nbetween the structural causal model view of causal inference common in the\ngraphical models literature with that of the latent factor model view common in\nthe potential outcomes literature. We show how classic models for potential\noutcomes and treatment assignments fit within our framework. We provide an\nidentification argument for the average treatment effect, the average treatment\neffect on the treated, and the average treatment effect on the untreated. For\nany estimator that has a fast enough estimation error rate for a certain\nnuisance parameter, we establish it is consistent for these various causal\nparameters. We then show principal component regression is one such estimator\nthat leads to consistent estimation, and we analyze the minimal smoothness\nrequired of the potential outcomes function for consistency.",
+          "arxiv_id": "2504.01702v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "On the Estimation of Peer Effects for Sampled Networks",
+          "year": "2022-08",
+          "abstract": "This paper deals with the estimation of exogeneous peer effects for partially\nobserved networks under the new inferential paradigm of design identification,\nwhich characterizes the missing data challenge arising with sampled networks\nwith the central idea that two full data versions which are topologically\ncompatible with the observed data may give rise to two different probability\ndistributions. We show that peer effects cannot be identified by design when\nnetwork links between sampled and unsampled units are not observed. Under\nrealistic modeling conditions, and under the assumption that sampled units\nreport on the size of their network of contacts, the asymptotic bias arising\nfrom estimating peer effects with incomplete network data is characterized, and\na bias-corrected estimator is proposed. The finite sample performance of our\nmethodology is investigated via simulations.",
+          "arxiv_id": "2208.09102v1"
+        },
+        {
+          "title": "An optimal test for strategic interaction in social and economic network formation between heterogeneous agents",
+          "year": "2020-09",
+          "abstract": "Consider a setting where $N$ players, partitioned into $K$ observable types,\nform a directed network. Agents' preferences over the form of the network\nconsist of an arbitrary network benefit function (e.g., agents may have\npreferences over their network centrality) and a private component which is\nadditively separable in own links. This latter component allows for unobserved\nheterogeneity in the costs of sending and receiving links across agents\n(respectively out- and in- degree heterogeneity) as well as\nhomophily/heterophily across the $K$ types of agents. In contrast, the network\nbenefit function allows agents' preferences over links to vary with the\npresence or absence of links elsewhere in the network (and hence with the link\nformation behavior of their peers). In the null model which excludes the\nnetwork benefit function, links form independently across dyads in the manner\ndescribed by \\cite{Charbonneau_EJ17}. Under the alternative there is\ninterdependence across linking decisions (i.e., strategic interaction). We show\nhow to test the null with power optimized in specific directions. These\nalternative directions include many common models of strategic network\nformation (e.g., \"connections\" models, \"structural hole\" models etc.). Our\nrandom utility specification induces an exponential family structure under the\nnull which we exploit to construct a similar test which exactly controls size\n(despite the the null being a composite one with many nuisance parameters). We\nfurther show how to construct locally best tests for specific alternatives\nwithout making any assumptions about equilibrium selection. To make our tests\nfeasible we introduce a new MCMC algorithm for simulating the null\ndistributions of our test statistics.",
+          "arxiv_id": "2009.00212v2"
+        },
+        {
+          "title": "Estimating Peer Effects Using Partial Network Data",
+          "year": "2025-09",
+          "abstract": "We study the estimation of peer effects through social networks when\nresearchers do not observe the entire network structure. Special cases include\nsampled networks, censored networks, and misclassified links. We assume that\nresearchers can obtain a consistent estimator of the distribution of the\nnetwork. We show that this assumption is sufficient for estimating peer effects\nusing a linear-in-means model. We provide an empirical application to the study\nof peer effects on students' academic achievement using the widely used Add\nHealth database, and show that network data errors have a large downward bias\non estimated peer effects.",
+          "arxiv_id": "2509.08145v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:45:02Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

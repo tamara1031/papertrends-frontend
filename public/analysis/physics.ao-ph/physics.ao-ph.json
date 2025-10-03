@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_data_models_wave",
+        "keywords": [
+          [
+            "model",
+            0.02711311621606665
+          ],
+          [
+            "data",
+            0.023792480494172714
+          ],
+          [
+            "models",
+            0.021697954329319234
+          ],
+          [
+            "wave",
+            0.01698211494828114
+          ],
+          [
+            "weather",
+            0.016476845298557096
+          ],
+          [
+            "learning",
+            0.015968390602084232
+          ],
+          [
+            "climate",
+            0.01328533136488306
+          ],
+          [
+            "forecasting",
+            0.012744266309299115
+          ],
+          [
+            "resolution",
+            0.011934440429070804
+          ],
+          [
+            "ocean",
+            0.011623739002178203
+          ]
+        ],
+        "count": 1834
+      },
+      "1": {
+        "name": "1_climate_model_temperature_data",
+        "keywords": [
+          [
+            "climate",
+            0.026768257475635847
+          ],
+          [
+            "model",
+            0.017381744176769687
+          ],
+          [
+            "temperature",
+            0.01482129024731596
+          ],
+          [
+            "data",
+            0.013874960476370136
+          ],
+          [
+            "global",
+            0.013738489819606419
+          ],
+          [
+            "emissions",
+            0.013502648938119949
+          ],
+          [
+            "time",
+            0.013487144580124214
+          ],
+          [
+            "events",
+            0.012416391635204907
+          ],
+          [
+            "models",
+            0.01123336058277987
+          ],
+          [
+            "variability",
+            0.011080368331376572
+          ]
+        ],
+        "count": 813
+      },
+      "2": {
+        "name": "2_Earth_atmosphere_atmospheric_planets",
+        "keywords": [
+          [
+            "Earth",
+            0.03151136738012514
+          ],
+          [
+            "atmosphere",
+            0.030031170924310357
+          ],
+          [
+            "atmospheric",
+            0.024575614249142758
+          ],
+          [
+            "planets",
+            0.021118628959744933
+          ],
+          [
+            "atmospheres",
+            0.021053091637732554
+          ],
+          [
+            "planetary",
+            0.017351035593370475
+          ],
+          [
+            "model",
+            0.016420010717640408
+          ],
+          [
+            "surface",
+            0.016000128869909154
+          ],
+          [
+            "water",
+            0.015741944974948723
+          ],
+          [
+            "Mars",
+            0.01515672213207895
+          ]
+        ],
+        "count": 275
+      },
+      "3": {
+        "name": "3_lightning_ray_gamma_electric",
+        "keywords": [
+          [
+            "lightning",
+            0.038996587129057604
+          ],
+          [
+            "ray",
+            0.032383612276068376
+          ],
+          [
+            "gamma",
+            0.022388208215364996
+          ],
+          [
+            "electric",
+            0.02119568197776859
+          ],
+          [
+            "field",
+            0.020447179161538875
+          ],
+          [
+            "electron",
+            0.017803005767565824
+          ],
+          [
+            "atmospheric",
+            0.017671654410749516
+          ],
+          [
+            "cosmic",
+            0.017625218376989826
+          ],
+          [
+            "energy",
+            0.017103587811542566
+          ],
+          [
+            "events",
+            0.016477523394655705
+          ]
+        ],
+        "count": 164
+      },
+      "4": {
+        "name": "4_cloud_clouds_droplet_aerosol",
+        "keywords": [
+          [
+            "cloud",
+            0.048848226714938096
+          ],
+          [
+            "clouds",
+            0.026914162929394463
+          ],
+          [
+            "droplet",
+            0.025388748459632994
+          ],
+          [
+            "aerosol",
+            0.0233851794525125
+          ],
+          [
+            "size",
+            0.022002401270137573
+          ],
+          [
+            "droplets",
+            0.021796164484190333
+          ],
+          [
+            "simulations",
+            0.017994445587013564
+          ],
+          [
+            "model",
+            0.016659477687709232
+          ],
+          [
+            "surface",
+            0.01637548194570483
+          ],
+          [
+            "precipitation",
+            0.015268714918412665
+          ]
+        ],
+        "count": 128
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5286801071548946,
+        -0.5888145560085571,
+        -0.64697873114908,
+        -0.711187478481837
+      ],
+      [
+        -0.5286801071548946,
+        1.0,
+        -0.5825114601237296,
+        -0.6193047668861088,
+        -0.6989780030647844
+      ],
+      [
+        -0.5888145560085571,
+        -0.5825114601237296,
+        1.0,
+        -0.6230143238510194,
+        -0.6981808605644408
+      ],
+      [
+        -0.64697873114908,
+        -0.6193047668861088,
+        -0.6230143238510194,
+        1.0,
+        -0.7083943934536239
+      ],
+      [
+        -0.711187478481837,
+        -0.6989780030647844,
+        -0.6981808605644408,
+        -0.7083943934536239,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        24,
+        8,
+        4,
+        3,
+        2
+      ],
+      "2020-02": [
+        34,
+        6,
+        7,
+        1,
+        3
+      ],
+      "2020-03": [
+        33,
+        2,
+        7,
+        1,
+        1
+      ],
+      "2020-04": [
+        30,
+        5,
+        7,
+        4,
+        2
+      ],
+      "2020-05": [
+        30,
+        5,
+        8,
+        1,
+        3
+      ],
+      "2020-06": [
+        33,
+        9,
+        8,
+        0,
+        3
+      ],
+      "2020-07": [
+        30,
+        7,
+        9,
+        4,
+        2
+      ],
+      "2020-08": [
+        23,
+        7,
+        11,
+        1,
+        6
+      ],
+      "2020-09": [
+        21,
+        9,
+        11,
+        6,
+        1
+      ],
+      "2020-10": [
+        20,
+        14,
+        10,
+        1,
+        3
+      ],
+      "2020-11": [
+        35,
+        7,
+        7,
+        2,
+        7
+      ],
+      "2020-12": [
+        43,
+        13,
+        12,
+        0,
+        3
+      ],
+      "2021-01": [
+        23,
+        7,
+        9,
+        2,
+        4
+      ],
+      "2021-02": [
+        26,
+        8,
+        13,
+        1,
+        5
+      ],
+      "2021-03": [
+        28,
+        5,
+        12,
+        3,
+        1
+      ],
+      "2021-04": [
+        27,
+        6,
+        11,
+        3,
+        4
+      ],
+      "2021-05": [
+        22,
+        4,
+        9,
+        2,
+        0
+      ],
+      "2021-06": [
+        31,
+        6,
+        5,
+        0,
+        1
+      ],
+      "2021-07": [
+        30,
+        7,
+        7,
+        2,
+        3
+      ],
+      "2021-08": [
+        26,
+        4,
+        10,
+        2,
+        3
+      ],
+      "2021-09": [
+        23,
+        8,
+        5,
+        1,
+        2
+      ],
+      "2021-10": [
+        28,
+        6,
+        13,
+        4,
+        3
+      ],
+      "2021-11": [
+        27,
+        6,
+        10,
+        1,
+        2
+      ],
+      "2021-12": [
+        22,
+        2,
+        10,
+        4,
+        6
+      ],
+      "2022-01": [
+        17,
+        5,
+        10,
+        4,
+        0
+      ],
+      "2022-02": [
+        27,
+        4,
+        6,
+        2,
+        4
+      ],
+      "2022-03": [
+        31,
+        5,
+        5,
+        1,
+        1
+      ],
+      "2022-04": [
+        27,
+        7,
+        8,
+        2,
+        1
+      ],
+      "2022-05": [
+        22,
+        6,
+        9,
+        1,
+        4
+      ],
+      "2022-06": [
+        25,
+        6,
+        13,
+        1,
+        6
+      ],
+      "2022-07": [
+        22,
+        7,
+        11,
+        1,
+        6
+      ],
+      "2022-08": [
+        32,
+        4,
+        10,
+        1,
+        3
+      ],
+      "2022-09": [
+        22,
+        7,
+        8,
+        3,
+        5
+      ],
+      "2022-10": [
+        30,
+        7,
+        15,
+        3,
+        4
+      ],
+      "2022-11": [
+        33,
+        15,
+        10,
+        0,
+        8
+      ],
+      "2022-12": [
+        29,
+        8,
+        11,
+        0,
+        1
+      ],
+      "2023-01": [
+        20,
+        7,
+        7,
+        2,
+        4
+      ],
+      "2023-02": [
+        29,
+        4,
+        6,
+        1,
+        4
+      ],
+      "2023-03": [
+        23,
+        4,
+        8,
+        0,
+        6
+      ],
+      "2023-04": [
+        30,
+        13,
+        8,
+        1,
+        2
+      ],
+      "2023-05": [
+        22,
+        6,
+        10,
+        2,
+        6
+      ],
+      "2023-06": [
+        40,
+        5,
+        10,
+        1,
+        2
+      ],
+      "2023-07": [
+        36,
+        5,
+        4,
+        0,
+        3
+      ],
+      "2023-08": [
+        33,
+        6,
+        17,
+        2,
+        1
+      ],
+      "2023-09": [
+        36,
+        12,
+        12,
+        1,
+        7
+      ],
+      "2023-10": [
+        43,
+        14,
+        15,
+        8,
+        8
+      ],
+      "2023-11": [
+        54,
+        9,
+        14,
+        2,
+        4
+      ],
+      "2023-12": [
+        41,
+        15,
+        8,
+        0,
+        0
+      ],
+      "2024-01": [
+        50,
+        15,
+        4,
+        0,
+        3
+      ],
+      "2024-02": [
+        42,
+        9,
+        11,
+        1,
+        3
+      ],
+      "2024-03": [
+        27,
+        6,
+        7,
+        1,
+        2
+      ],
+      "2024-04": [
+        43,
+        6,
+        6,
+        3,
+        2
+      ],
+      "2024-05": [
+        43,
+        11,
+        11,
+        3,
+        9
+      ],
+      "2024-06": [
+        49,
+        17,
+        11,
+        4,
+        5
+      ],
+      "2024-07": [
+        49,
+        14,
+        10,
+        3,
+        0
+      ],
+      "2024-08": [
+        50,
+        14,
+        14,
+        1,
+        3
+      ],
+      "2024-09": [
+        57,
+        15,
+        13,
+        1,
+        3
+      ],
+      "2024-10": [
+        51,
+        10,
+        17,
+        1,
+        6
+      ],
+      "2024-11": [
+        42,
+        13,
+        6,
+        2,
+        3
+      ],
+      "2024-12": [
+        48,
+        8,
+        10,
+        2,
+        2
+      ],
+      "2025-01": [
+        42,
+        11,
+        4,
+        3,
+        2
+      ],
+      "2025-02": [
+        36,
+        4,
+        8,
+        1,
+        3
+      ],
+      "2025-03": [
+        50,
+        9,
+        9,
+        0,
+        0
+      ],
+      "2025-04": [
+        49,
+        9,
+        13,
+        4,
+        4
+      ],
+      "2025-05": [
+        47,
+        9,
+        13,
+        8,
+        2
+      ],
+      "2025-06": [
+        47,
+        4,
+        6,
+        2,
+        4
+      ],
+      "2025-07": [
+        43,
+        8,
+        4,
+        0,
+        4
+      ],
+      "2025-08": [
+        40,
+        5,
+        6,
+        4,
+        5
+      ],
+      "2025-09": [
+        31,
+        1,
+        5,
+        1,
+        3
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Physics-informed neural networks for phase-resolved data assimilation and prediction of nonlinear ocean waves",
+          "year": "2025-01",
+          "abstract": "The assimilation and prediction of phase-resolved surface gravity waves are\ncritical challenges in ocean science and engineering. Potential flow theory\n(PFT) has been widely employed to develop wave models and numerical techniques\nfor wave prediction. However, traditional wave prediction methods are often\nlimited. For example, most simplified wave models have a limited ability to\ncapture strong wave nonlinearity, while fully nonlinear PFT solvers often fail\nto meet the speed requirements of engineering applications. This computational\ninefficiency also hinders the development of effective data assimilation\ntechniques, which are required to reconstruct spatial wave information from\nsparse measurements to initialize the wave prediction. To address these\nchallenges, we propose a novel solver method that leverages physics-informed\nneural networks (PINNs) that parameterize PFT solutions as neural networks.\nThis provides a computationally inexpensive way to assimilate and predict wave\ndata. The proposed PINN framework is validated through comparisons with\nanalytical linear PFT solutions and experimental data collected in a laboratory\nwave flume. The results demonstrate that our approach accurately captures and\npredicts irregular, nonlinear, and dispersive wave surface dynamics. Moreover,\nthe PINN can infer the fully nonlinear velocity potential throughout the entire\nfluid volume solely from surface elevation measurements, enabling the\ncalculation of fluid velocities that are difficult to measure experimentally.",
+          "arxiv_id": "2501.08430v1"
+        },
+        {
+          "title": "Deep Learning Based Forecasting of Indian Summer Monsoon Rainfall",
+          "year": "2021-07",
+          "abstract": "Accurate short range weather forecasting has significant implications for\nvarious sectors. Machine learning based approaches, e.g., deep learning, have\ngained popularity in this domain where the existing numerical weather\nprediction (NWP) models still have modest skill after a few days. Here we use a\nConvLSTM network to develop a deep learning model for precipitation\nforecasting. The crux of the idea is to develop a forecasting model which\ninvolves convolution based feature selection and uses long term memory in the\nmeteorological fields in conjunction with gradient based learning algorithm.\nPrior to using the input data, we explore various techniques to overcome\ndataset difficulties. We follow a strategic approach to deal with missing\nvalues and discuss the models fidelity to capture realistic precipitation. The\nmodel resolution used is (25 km). A comparison between 5 years of predicted\ndata and corresponding observational records for 2 days lead time forecast show\ncorrelation coefficients of 0.67 and 0.42 for lead day 1 and 2 respectively.\nThe patterns indicate higher correlation over the Western Ghats and Monsoon\ntrough region (0.8 and 0.6 for lead day 1 and 2 respectively). Further, the\nmodel performance is evaluated based on skill scores, Mean Square Error,\ncorrelation coefficient and ROC curves. This study demonstrates that the\nadopted deep learning approach based only on a single precipitation variable,\nhas a reasonable skill in the short range. Incorporating multivariable based\ndeep learning has the potential to match or even better the short range\nprecipitation forecasts based on the state of the art NWP models.",
+          "arxiv_id": "2107.04270v2"
+        },
+        {
+          "title": "Emerging AI-based weather prediction models as downscaling tools",
+          "year": "2024-06",
+          "abstract": "The demand for high-resolution information on climate change is critical for\naccurate projections and decision-making. Presently, this need is addressed\nthrough high-resolution climate models or downscaling. High-resolution models\nare computationally demanding and creating ensemble simulations with them is\ntypically prohibitively expensive. Downscaling methods are more affordable but\nare typically limited to small regions. This study proposes the use of existing\nAI-based numerical weather prediction systems (AI-NWP) to perform global\ndownscaling of climate information from low-resolution climate models. Our\nresults demonstrate that AI-NWP initalized from low-resolution initial\nconditions can develop detailed forecasts closely resembling the resolution of\nthe training data using a one day lead time. We constructed year-long\natmospheric fields using AI-NWP forecasts initialized from smoothed ERA5 and\nlow-resolution CMIP6 models. Our analysis for 2-metre temperature indicates\nthat AI-NWP can generate high-quality, long-term datasets and potentially\nperform bias correction, bringing climate model outputs closer to observed\ndata. The study highlights the potential for off-the-shelf AI-NWP to enhance\nclimate data downscaling, offering a simple and computationally efficient\nalternative to traditional downscaling techniques. The downscaled data can be\nused either directly for localized climate information or as boundary\nconditions for further dynamical downscaling.",
+          "arxiv_id": "2406.17977v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Global to local impacts on atmospheric CO2 caused by COVID-19 lockdown",
+          "year": "2020-10",
+          "abstract": "The world-wide lockdown in response to the COVID-19 pandemic in year 2020 led\nto economic slowdown and large reduction of fossil fuel CO2 emissions, but it\nis unclear how much it would reduce atmospheric CO2 concentration, and whether\nit can be observed. We estimated that a 7.9% reduction in emissions for 4\nmonths would result in a 0.25 ppm decrease in the Northern Hemisphere CO2, an\nincrement that is within the capability of current CO2 analyzers, but is a few\ntimes smaller than natural CO2 variabilities caused by weather and the\nbiosphere such as El Nino. We used a state-of-the-art atmospheric transport\nmodel to simulate CO2, driven by a new daily fossil fuel emissions dataset and\nhourly biospheric fluxes from a carbon cycle model forced with observed climate\nvariability. Our results show a 0.13 ppm decrease in atmospheric column CO2\nanomaly averaged over 50S-50N for the period February-April 2020 relative to a\n10-year climatology. A similar decrease was observed by the carbon satellite\nGOSAT3. Using model sensitivity experiments, we further found that COVID, the\nbiosphere and weather contributed 54%, 23%, and 23% respectively. This\nseemingly small change stands out as the largest sub-annual anomaly in the last\n10 years. Measurements from global ground stations were analyzed. At city\nscale, on-road CO2 enhancement measured in Beijing shows reduction of 20-30\nppm, consistent with drastically reduced traffic during the lockdown. The\nability of our current carbon monitoring systems in detecting the small and\nshort-lasting COVID signal on the background of fossil fuel CO2 accumulated\nover the last two centuries is encouraging. The COVID-19 pandemic is an\nunintended experiment whose impact suggests that to keep atmospheric CO2 at a\nclimate-safe level will require sustained effort of similar magnitude and\nimproved accuracy and expanded spatiotemporal coverage of our monitoring\nsystems.",
+          "arxiv_id": "2010.13025v1"
+        },
+        {
+          "title": "Network-based Approach and Climate Change Benefits for Forecasting the Amount of Indian Monsoon Rainfall",
+          "year": "2020-04",
+          "abstract": "The Indian summer monsoon rainfall (ISMR) has a decisive influence on India's\nagricultural output and economy. Extreme deviations from the normal seasonal\namount of rainfall can cause severe droughts or floods, affecting Indian food\nproduction and security. Despite the development of sophisticated statistical\nand dynamical climate models, a long-term and reliable prediction of the ISMR\nhas remained a challenging problem. Towards achieving this goal, here we\nconstruct a series of dynamical and physical climate networks based on the\nglobal near surface air temperature field. We uncover that some characteristics\nof the directed and weighted climate networks can serve as efficient long-term\npredictors for ISMR forecasting. The developed prediction method produces a\nforecast skill of 0.5 with a 5-month lead-time in advance by using the previous\ncalendar year's data. The skill of our ISMR forecast, is comparable to the\ncurrent state-of-the-art models, however, with quite a short (i.e., within one\nmonth) lead-time. We discuss the underlying mechanism of our predictor and\nassociate it with network-delayed-ENSO and ENSO-monsoon connections. Moreover,\nour approach allows predicting the all India rainfall, as well as forecasting\nthe different Indian homogeneous regions' rainfall, which is crucial for\nagriculture in India. We reveal that global warming affects the climate network\nby enhancing cross-equatorial teleconnections between Southwest Atlantic,\nWestern part of the Indian Ocean, and North Asia-Pacific with significant\nimpacts on the precipitation in India. We find a hotspots area in the\nmid-latitude South Atlantic, which is the basis for our predictor. Remarkably,\nthe significant warming trend in this area yields an improvement of the\nprediction skill.",
+          "arxiv_id": "2004.06628v1"
+        },
+        {
+          "title": "Multiple regression analysis of anthropogenic and heliogenic climate drivers, and some cautious forecasts",
+          "year": "2021-01",
+          "abstract": "The two main drivers of climate change on sub-Milankovic time scales are\nre-assessed by means of a multiple regression analysis. Evaluating linear\ncombinations of the logarithm of carbon dioxide concentration and the\ngeomagnetic aa-index as a proxy for solar activity, we reproduce the sea\nsurface temperature (HadSST) since the middle of the 19th century with an\nadjusted $R^2$ value of around 87 per cent for a climate sensitivity (of TCR\ntype) in the range of 0.6 K until 1.6 K per doubling of CO$_2$. The solution of\nthe regression is quite sensitive: when including data from the last decade,\nthe simultaneous occurrence of a strong El Ni\\~no on one side and low aa-values\non the other side lead to a preponderance of solutions with relatively high\nclimate sensitivities around 1.6 K. If those later data are excluded, the\nregression leads to a significantly higher weight of the aa-index and a\ncorrespondingly lower climate sensitivity going down to 0.6 K. The plausibility\nof such low values is discussed in view of recent experimental and\nsatellite-borne measurements. We argue that a further decade of data collection\nwill be needed to allow for a reliable distinction between low and high\nsensitivity values. Based on recent ideas about a quasi-deterministic planetary\nsynchronization of the solar dynamo, we make a first attempt to predict the\naa-index and the resulting temperature anomaly for various typical CO$_2$\nscenarios. Even for the highest climate sensitivities, and an unabated linear\nCO$_2$ increase, we predict only a mild additional temperature rise of around 1\nK until the end of the century, while for the lower values an imminent\ntemperature drop in the near future, followed by a rather flat temperature\ncurve, is prognosticated.",
+          "arxiv_id": "2101.05183v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Day-night cloud asymmetry prevents early oceans on Venus but not on Earth",
+          "year": "2021-10",
+          "abstract": "Earth has had oceans for nearly four billion years and Mars had lakes and\nrivers 3.5-3.8 billion years ago. However, it is still unknown whether water\nhas ever condensed on the surface of Venus because the planet - now completely\ndry - has undergone global resurfacing events that obscure most of its history.\nThe conditions required for water to have initially condensed on the surface of\nSolar System terrestrial planets are highly uncertain, as they have so far only\nbeen studied with one-dimensional numerical climate models that cannot account\nfor the effects of atmospheric circulation and clouds, which are key climate\nstabilizers. Here we show using three-dimensional global climate model\nsimulations of early Venus and Earth that water clouds - which preferentially\nform on the nightside, owing to the strong subsolar water vapour absorption -\nhave a strong net warming effect that inhibits surface water condensation even\nat modest insolations (down to 325 W/m2, that is, 0.95 times the Earth solar\nconstant). This shows that water never condensed and that, consequently, oceans\nnever formed on the surface of Venus. Furthermore, this shows that the\nformation of Earth's oceans required much lower insolation than today, which\nwas made possible by the faint young Sun. This also implies the existence of\nanother stability state for present-day Earth: the 'Steam Earth', with all the\nwater from the oceans evaporated into the atmosphere.",
+          "arxiv_id": "2110.08801v1"
+        },
+        {
+          "title": "Survival of Terrestrial N2-O2 Atmospheres in Violent XUV Environments through Efficient Atomic Line Radiative Cooling",
+          "year": "2022-10",
+          "abstract": "Atmospheres play a crucial role in planetary habitability. Around M dwarfs\nand young Sun-like stars, planets receiving the same insolation as the\npresent-day Earth are exposed to intense stellar X-rays and extreme-ultraviolet\n(XUV) radiation. This study explores the fundamental question of whether the\natmosphere of present-day Earth could survive in such harsh XUV environments.\nPrevious theoretical studies suggest that stellar XUV irradiation is\nsufficiently intense to remove such atmospheres completely on short timescales.\nIn this study, we develop a new upper-atmospheric model and re-examine the\nthermal and hydrodynamic responses of the thermospheric structure of an\nEarth-like N2-O2 atmosphere, on an Earth-mass planet, to an increase in the XUV\nirradiation. Our model includes the effects of radiative cooling via electronic\ntransitions of atoms and ions, known as atomic line cooling, in addition to the\nprocesses accounted for by previous models. We demonstrate that atomic line\ncooling dominates over the hydrodynamic effect at XUV irradiation levels\ngreater than several times the present level of the Earth. Consequentially, the\natmosphere's structure is kept almost hydrostatic, and its escape remains\nsluggish even at XUV irradiation levels up to a thousand times that of the\nEarth at present. Our estimates for the Jeans escape rates of N2-O2 atmospheres\nsuggest that these 1 bar atmospheres survive in early active phases of Sun-like\nstars. Even around active late M dwarfs, N2-O2 atmospheres could escape\nsignificant thermal loss on timescales of gigayears. These results give new\ninsights into the habitability of terrestrial exoplanets and the Earth's\nclimate history.",
+          "arxiv_id": "2210.01460v1"
+        },
+        {
+          "title": "Redox evolution of the crystallizing terrestrial magma ocean and its influence on atmosphere outgassing",
+          "year": "2023-01",
+          "abstract": "Magma oceans are episodes of large-scale melting of the mantle of terrestrial\nplanets. The energy delivered by the Moon-forming impact induced a deep magma\nocean on the young Earth, corresponding to the last episode of core-mantle\nequilibration. The crystallization of this magma ocean led to the outgassing of\nvolatiles initially present in the Earth's mantle, resulting in the formation\nof a secondary atmosphere. During outgassing, the magma ocean acts as a\nchemical buffer for the atmosphere via the oxygen fugacity, set by the\nequilibrium between ferrous- and ferric-iron oxides in the silicate melts. By\ntracking the evolution of the oxygen fugacity during magma ocean\nsolidification, we model the evolving composition of a C-O-H atmosphere. We use\nthe atmosphere composition to calculate its thermal structure and radiative\nflux. This allows us to calculate the lifetime of the terrestrial magma ocean.\nWe find that, upon crystallizing, the magma ocean evolves from a mildly\nreducing to a highly oxidized redox state, thereby transiting from a CO- and\nH2-dominated atmosphere to a CO2- and H2O-dominated one. We find the overall\nduration of the magma ocean crystallization to depend mostly on the bulk H\ncontent of the mantle, and to remain below 1.5 millions years for up to 9\nEarth's water oceans' worth of H. Our model also suggests that reduced\natmospheres emit lower infrared radiation than oxidized ones, despite of the\nlower greenhouse effect of reduced species, resulting in a longer magma ocean\nlifetime in the former case. Although developed for a deep magma ocean on\nEarth, the framework applies to all terrestrial planet and exoplanet magma\noceans, depending on their volatile budgets.",
+          "arxiv_id": "2301.07505v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Thunderstorm Ground Enhancements: Multivariate analysis of 12 years of observations",
+          "year": "2022-09",
+          "abstract": "We present a survey of more than half a thousand thunderstorm ground\nenhancements, fluxes of electrons, and gamma rays associated with thunderstorms\nregistered from 2008 to 2022 at Aragats space environmental center. We analyze\ncorrelations between various measured parameters characterizing TGEs measured\non Aragats. Two special cases of TGE events are considered: one, terminated by\nnearby lightning flashes, and another one with a sufficiently large ratio of\nelectrons to gamma rays. On the basis of the analysis, we summarize the most\nimportant results obtained during 12 years of TGE study, which include: We show\nthe operation of the electron accelerators in the thunderous atmosphere by\ndirectly measuring the electron flux during thunderstorms; Quite frequently,\nTGEs occur prior to lightning flashes and are terminated by them. The energy\nspectra of avalanche electrons observed on Aragats indicate that the strong\nelectric field region can extend very low above the ground covering a large\narea on the ground. TGEs originated from multiple relativistic runaway electron\navalanches (RREAs) starting with seed electrons from the ambient population of\ncosmic rays, which enter an extended region of the electric field with strength\nexceeding the critical value.",
+          "arxiv_id": "2209.01385v1"
+        },
+        {
+          "title": "Analysis of Downward Terrestrial Gamma-ray Flashes Using a Large-Area Cosmic Ray Scintillation Detector",
+          "year": "2023-08",
+          "abstract": "The Telescope Array (TA) of central Utah was designed to detect\nultra-high-energy cosmic rays (UHECRs) and is the largest of its kind in the\nNorthern hemisphere. Its capabilities, however, are not limited to\nextra-terrestrial sources. Scintillation detectors (SDs) in the array are\ndesigned to measure energy deposit from charged cosmic ray secondaries, but\nhave recently caught bursts of electromagnetic radiation that do not match the\ntypical signature of cosmic ray air showers. After investigation, the bursts\nwere tied to individual lightning strikes. In an effort to better understand\nthe phenomenon, Langmuir Laboratory for Atmospheric Research at New Mexico Tech\nprovided specialized lightning detectors across the array, eventually\nconfirming the events as downward terrestrial gamma-ray flashes (TGFs) produced\nin the first few microseconds of lightning flashes. After 20 identified TGFs\nand 2 publications, the lightning instrumentation at Telescope Array was\nupgraded in the summer of 2018 with the addition of a broadband interferometer\n(INTF) for high-resolution lightning mapping. This unique variety of lightning\ndetectors has become one of the leading studies of downward TGFs. This\ndissertation is focused on the application of this method and resultson four\nevents from late 2018. The individual TGFs lasted <10 us and likely consisted\nof >10^12 gamma-rays, with evidence of some energies >2.6 MeV. I determined TGF\nsource times, plan locations, and altitudes with average uncertainties of 0.6\nus, 140 m, and 25 m, respectively. This high resolution showed that TGFs in all\nfour of these events occured during strong initial breakdown pulses and was\ndriven by streamer-based fast negative breakdown in the first couple\nmilliseconds of negative intracloud and cloud-to-ground lightning flashes.",
+          "arxiv_id": "2308.05662v1"
+        },
+        {
+          "title": "Direct Observations of X-Rays Produced by Upward Positive Lightning",
+          "year": "2023-10",
+          "abstract": "X-rays have been observed in natural downward cloud-to-ground lightning for\nover twenty years and in rocket-triggered lightning for slightly less. In both\ncases, this energetic radiation has been detected during the stepped and dart\nleader phases of downward negative flashes. More recently, X-rays have also\nbeen reported during the dart leader phase of upward negative flashes. In this\nstudy, we present the observations of four upward positive lightning flashes\nfrom the S\\\"antis Tower (2.5 km ASL) in Switzerland. These consist of the\nsimultaneous records of electric current passing through the tower, and\nelectric field strength and X-ray flux 20 meters from the tower base. One of\nthe flashes was captured by a high-speed camera operating at 24,000 frames per\nsecond, stills from which are also presented. We detected X-rays during the\ninitial phase of upward negative leader propagation, which can be associated\nwith the leader-stepping process from electric field and current waveforms. To\nthe best of our knowledge, this is the first time that such measurements are\nreported in the literature. The obtained time-synchronised data confirm that\nthe X-ray emissions detected are associated with the initial steps of the\nupward negative leader. The frequency and energy of X-ray pulses appear to\ndecrease as a function of time, with pulses disappearing altogether within the\nfirst millisecond of the leader initiation. The X-ray pulse energy appears to\nincrease with the maximum current-derivative and the electric field change of\nits associated leader step. These observations contribute to improving the\ncurrently lackluster understanding of upward lightning, which is a primary\nsource of damage to tall structures such as telecommunications towers and wind\nturbines, as well as airplanes during take-off and landing.",
+          "arxiv_id": "2310.04958v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "The Impact of Cumulus Clouds and CCNs Regeneration on Aerosol Vertical Distribution and Size",
+          "year": "2024-05",
+          "abstract": "This study employs a high-resolution (10m) System for Atmospheric Modeling\n(SAM) coupled with the Spectral Bin Microphysical (SBM) scheme to thoroughly\ninvestigate the processes governing the evolution of aerosol properties within\nand outside a shallow cumulus cloud. The model encompasses the complete life\ncycle of cloud droplets, starting from their formation through their evolution\nuntil their complete evaporation or sedimentation to the ground. Additionally,\nthe model tracks the aerosols' evolution both within droplets and in the air.\nAerosols are transported within the droplets, grow by droplet coalescence, and\nare released into the atmosphere after droplet evaporation (regeneration\nprocess). The aerosol concentration increases by droplet evaporation and\ndecreases along with falling drops. So, the effects of clouds on the\nsurrounding aerosols depend on the microphysical and dynamic processes, which\nin turn depend on the amount of background aerosols; here, we compare clean and\npolluted conditions. It is shown that clouds significantly impact the vertical\nprofile of aerosol concentration in the lower troposphere, as well as their\nsize distribution, and can serve as a source of large (giant) cloud\ncondensation nuclei. Furthermore, it is shown that both precipitating and\nnon-precipitating boundary layer clouds contribute to a substantial increase in\naerosol concentration within the inversion layer due to intense evaporation.",
+          "arxiv_id": "2405.17023v1"
+        },
+        {
+          "title": "Large-eddy simulations of marine boundary-layer clouds associated with cold air outbreak during the ACTIVATE campaign. Part II: aerosol-meteorology-cloud interaction",
+          "year": "2021-12",
+          "abstract": "Aerosol effects on micro-/macro-physical properties of marine stratocumulus\nclouds over the Western North Atlantic Ocean (WNAO) are investigated using\nin-situ measurements and large-eddy simulations (LES) for two cold air outbreak\n(CAO) cases (February 28 and March 1, 2020) during the Aerosol Cloud\nmeTeorology Interactions oVer the western ATlantic Experiment (ACTIVATE). The\nLES is able to reproduce the vertical profiles of liquid water content (LWC),\neffective radius r_eff and the cloud droplet number concentration Nc from fast\ncloud droplet probe (FCDP) in-situ measurements for both cases. Furthermore, we\nshow that aerosols affect cloud properties (Nc, r_eff, and LWC) via the\nprescribed bulk hygroscopicity of aerosols and aerosol size distributions\ncharacteristics. Nc, r_eff, and liquid water path (LWP) are positively\ncorrelated to the bulk hygroscopicity of aerosols and aerosol number\nconcentration (Na) while cloud fractional cover (CFC) is insensitive to the\nbulk hygroscopicity of aerosols and aerosol size distributions for the two\ncases. The changes to aerosol size distribution (number concentration, width,\nand the geometrical diameter) allow us to disentangle aerosol effects on cloud\nproperties from the meteorological effects. We also use the LES results to\nevaluate cloud properties from two reanalysis products, ERA5 and MERRA-2.\nComparing to LES, the ERA5 reanalysis is able to capture the time evolution of\nLWP and total cloud coverage within the study domain during both CAO cases\nwhile MERRA-2 underestimates them.",
+          "arxiv_id": "2112.04679v1"
+        },
+        {
+          "title": "Gibbs states and Brownian models for coexisting haze and cloud droplets",
+          "year": "2024-05",
+          "abstract": "Cloud microphysics studies include how tiny cloud droplets grow, and become\nrain. This is crucial for understanding cloud properties like size, lifespan,\nand impact on climate through radiative effects. Small, weak-updraft clouds\nnear the haze-to-cloud transition are especially difficult to measure and\nunderstand. They are abundant but hard to capture by satellites. K\\\"ohler's\ntheory explains initial droplet growth but struggles with large particle\ngroups. Here, we present a stochastic, analytical framework building on\nK\\\"ohler's theory to account for (monodisperse) aerosols and cloud droplets\ninteraction through competitive growth in a limited water vapor field. These\ninteractions are modeled by sink terms while fluctuations in supersaturation\naffecting droplet growth are modeled by nonlinear, white noise terms. Our\nresults identify hysteresis mechanisms in the droplet activation and\ndeactivation processes. Our approach allows for multimodal cloud's droplet size\ndistributions supported by lab experiments, offering a new perspective on\nhaze-to-cloud transition and small cloud formation.",
+          "arxiv_id": "2405.16556v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:59:58Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

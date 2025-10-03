@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_dark_matter_model_dark matter",
+        "keywords": [
+          [
+            "dark",
+            0.029360338226494705
+          ],
+          [
+            "matter",
+            0.023863973677589585
+          ],
+          [
+            "model",
+            0.021673269831869464
+          ],
+          [
+            "dark matter",
+            0.019107775498279692
+          ],
+          [
+            "gravitational",
+            0.018314999400971102
+          ],
+          [
+            "energy",
+            0.01828581926016525
+          ],
+          [
+            "cosmological",
+            0.016447629606296674
+          ],
+          [
+            "field",
+            0.01561944506368283
+          ],
+          [
+            "scalar",
+            0.015008310751916451
+          ],
+          [
+            "data",
+            0.014258395067721525
+          ]
+        ],
+        "count": 12632
+      },
+      "1": {
+        "name": "1_galaxy_galaxies_mass_data",
+        "keywords": [
+          [
+            "galaxy",
+            0.02469994321147747
+          ],
+          [
+            "galaxies",
+            0.02092082011198196
+          ],
+          [
+            "mass",
+            0.019364552087225182
+          ],
+          [
+            "data",
+            0.0158944769091949
+          ],
+          [
+            "redshift",
+            0.015065410104247765
+          ],
+          [
+            "model",
+            0.014964793637526265
+          ],
+          [
+            "simulations",
+            0.013662237166161982
+          ],
+          [
+            "power",
+            0.01313030263131106
+          ],
+          [
+            "cosmological",
+            0.012798135512284588
+          ],
+          [
+            "halo",
+            0.012215851724921185
+          ]
+        ],
+        "count": 10880
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.21879130855981238
+      ],
+      [
+        -0.21879130855981238,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        174,
+        64
+      ],
+      "2020-02": [
+        179,
+        80
+      ],
+      "2020-03": [
+        184,
+        61
+      ],
+      "2020-04": [
+        212,
+        87
+      ],
+      "2020-05": [
+        242,
+        77
+      ],
+      "2020-06": [
+        254,
+        102
+      ],
+      "2020-07": [
+        293,
+        122
+      ],
+      "2020-08": [
+        197,
+        62
+      ],
+      "2020-09": [
+        208,
+        69
+      ],
+      "2020-10": [
+        242,
+        82
+      ],
+      "2020-11": [
+        263,
+        110
+      ],
+      "2020-12": [
+        254,
+        85
+      ],
+      "2021-01": [
+        183,
+        85
+      ],
+      "2021-02": [
+        196,
+        70
+      ],
+      "2021-03": [
+        211,
+        90
+      ],
+      "2021-04": [
+        220,
+        64
+      ],
+      "2021-05": [
+        226,
+        83
+      ],
+      "2021-06": [
+        233,
+        88
+      ],
+      "2021-07": [
+        234,
+        93
+      ],
+      "2021-08": [
+        220,
+        69
+      ],
+      "2021-09": [
+        254,
+        103
+      ],
+      "2021-10": [
+        259,
+        107
+      ],
+      "2021-11": [
+        260,
+        101
+      ],
+      "2021-12": [
+        263,
+        93
+      ],
+      "2022-01": [
+        210,
+        91
+      ],
+      "2022-02": [
+        185,
+        70
+      ],
+      "2022-03": [
+        294,
+        103
+      ],
+      "2022-04": [
+        203,
+        100
+      ],
+      "2022-05": [
+        256,
+        96
+      ],
+      "2022-06": [
+        203,
+        106
+      ],
+      "2022-07": [
+        264,
+        104
+      ],
+      "2022-08": [
+        207,
+        85
+      ],
+      "2022-09": [
+        239,
+        90
+      ],
+      "2022-10": [
+        272,
+        99
+      ],
+      "2022-11": [
+        303,
+        78
+      ],
+      "2022-12": [
+        254,
+        87
+      ],
+      "2023-01": [
+        230,
+        90
+      ],
+      "2023-02": [
+        190,
+        76
+      ],
+      "2023-03": [
+        235,
+        78
+      ],
+      "2023-04": [
+        219,
+        90
+      ],
+      "2023-05": [
+        274,
+        110
+      ],
+      "2023-06": [
+        272,
+        111
+      ],
+      "2023-07": [
+        282,
+        108
+      ],
+      "2023-08": [
+        210,
+        66
+      ],
+      "2023-09": [
+        284,
+        113
+      ],
+      "2023-10": [
+        267,
+        116
+      ],
+      "2023-11": [
+        298,
+        88
+      ],
+      "2023-12": [
+        279,
+        92
+      ],
+      "2024-01": [
+        210,
+        91
+      ],
+      "2024-02": [
+        238,
+        87
+      ],
+      "2024-03": [
+        266,
+        88
+      ],
+      "2024-04": [
+        268,
+        105
+      ],
+      "2024-05": [
+        334,
+        112
+      ],
+      "2024-06": [
+        303,
+        113
+      ],
+      "2024-07": [
+        340,
+        88
+      ],
+      "2024-08": [
+        252,
+        77
+      ],
+      "2024-09": [
+        273,
+        122
+      ],
+      "2024-10": [
+        296,
+        125
+      ],
+      "2024-11": [
+        266,
+        94
+      ],
+      "2024-12": [
+        306,
+        89
+      ],
+      "2025-01": [
+        261,
+        67
+      ],
+      "2025-02": [
+        275,
+        97
+      ],
+      "2025-03": [
+        318,
+        120
+      ],
+      "2025-04": [
+        331,
+        109
+      ],
+      "2025-05": [
+        309,
+        89
+      ],
+      "2025-06": [
+        315,
+        111
+      ],
+      "2025-07": [
+        356,
+        131
+      ],
+      "2025-08": [
+        267,
+        73
+      ],
+      "2025-09": [
+        199,
+        63
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Dark Matter from a Conformal Dark Sector",
+          "year": "2022-07",
+          "abstract": "We consider theories in which a dark sector is described by a Conformal Field\nTheory (CFT) over a broad range of energy scales. A coupling of the dark sector\nto the Standard Model breaks conformal invariance. While weak at high energies,\nthe breaking grows in the infrared, and at a certain energy scale the theory\nenters a confined (hadronic) phase. One of the hadronic excitations can play\nthe role of dark matter. We study a \"Conformal Freeze-In\" cosmological\nscenario, in which the dark sector is populated through its interactions with\nthe SM at temperatures when it is conformal. In this scenario, the dark matter\nrelic density is determined by the CFT data, such as the dimension of the CFT\noperator coupled to the Standard Model. We show that this simple and highly\npredictive model of dark matter is phenomenologically viable. The observed\nrelic density is reproduced for a variety of SM operators (\"portals\") coupled\nto the CFT, and the resulting models are consistent with observational\nconstraints. The mass of the COFI dark matter candidate is predicted to be in\nthe keV-MeV range.",
+          "arxiv_id": "2207.10093v2"
+        },
+        {
+          "title": "Composite Dark Matter with Forbidden Annihilation",
+          "year": "2024-04",
+          "abstract": "A dark matter model based on QCD-like $SU(N_c)$ gauge theory with\nelectroweakly interacting dark quarks is discussed. Assuming the dark quark\nmass $m$ is smaller than the dynamical scale $\\Lambda_d \\sim 4\\pi f_d$, the\nmain component of the dark matter is the lightest $G$-parity odd dark pion\nassociated with chiral symmetry breaking in the dark sector. We show that\nnonzero dark quark mass induces the universal mass contribution to both\n$G$-parity odd and even pions, and their masses tend to be degenerate. As a\nresult, dark pion annihilation into heavier $G$-parity even dark pion also\naffects the dark matter relic abundance. Thus, our setup naturally accommodates\nforbidden dark matter scenario and realizes heavy dark matter whose mass is\n${\\cal O}(1$-$100)~{\\rm TeV}$, which is different from conventional\nelectroweakly interacting dark matter such as minimal dark matter. We also\ndiscuss CP-violation from $\\theta$-term in the dark gauge sector and find that\nthe predicted size of electron electric dipole moment can be as large as $\\sim\n10^{-32}~e~{\\rm cm}$.",
+          "arxiv_id": "2404.03963v2"
+        },
+        {
+          "title": "Cosmological Constraints on Thermal Friction of Axion Dark Matter",
+          "year": "2023-09",
+          "abstract": "In this paper, we investigate the process in which axion dark matter\nundergoes thermal friction, resulting in energy injection into dark radiation,\nwith the aim of mitigating the Hubble tension and large-scale structure\ntension. In the early universe, this scenario led to a rapid increase in the\nenergy density of dark radiation; in the late universe, the evolution of axion\ndark matter is similar to that of cold dark matter, with this scenario\nresembling decaying dark matter and serving to ease the large-scale structure\ntension. We employ cosmological observational data, including cosmic microwave\nbackground (CMB), baryon acoustic oscillation (BAO), supernova data (SNIa),\n$H_0$ measurement from SH0ES, and $S_8$ from the Dark Energy Survey Year-3\n(DES), to study and analyze this model. Our results indicate that the thermal\nfriction model offers partial alleviation of the large-scale structure tension,\nwhile its contribution on alleviating Hubble tension can be ignored. The new\nmodel yields the value of $S_8$ is $0.795\\pm 0.011$ at a 68% confidence level,\nwhile the $\\Lambda$CDM model yields a result of $0.8023\\pm 0.0085$. In\naddition, the new model exhibits a lower $\\chi^2_\\mathrm{tot}$ value, with a\ndifference of -2.60 compared to the $\\Lambda$CDM model. Additionally, we\nincorporate Lyman-$\\alpha$ data to re-constrain the new model and find a slight\nimprovement in the results, with the values of $H_0$ and $S_8$ being\n$68.76^{+0.39}_{-0.35}$ km/s/Mpc and $0.791\\pm 0.011$ at a 68% confidence\nlevel, respectively.",
+          "arxiv_id": "2309.02170v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "The FLAMINGO project: Baryon effects on the matter power spectrum",
+          "year": "2024-10",
+          "abstract": "The effect of baryon physics associated with galaxy formation onto the\nlarge-scale matter distribution of the Universe is a key uncertainty in the\ntheoretical modelling required for the interpretation of Stage IV surveys. We\nuse the FLAMINGO simulations to study the baryon response due to galaxy\nformation of the total matter power spectrum. We find that it is only well\nconverged for simulation volumes in excess of $200^3$ Mpc$^3$. We report\nresults for simulations of varying feedback intensity, which either match the\nX-ray inferred gas fractions in clusters and the $z=0$ stellar mass function,\nor shifted versions of the data, as well as for different implementations of\nAGN feedback. We package our results in the form of a Gaussian process emulator\nwhich can rapidly reproduce all the simulations' predictions to better than one\nper cent up to the comoving wavenumber $k = 10~h$ Mpc$^{-1}$ and up to $z=3$\nfor all the feedback models present in the FLAMINGO suite. We find that the\nresponse becomes stronger, the range of scales affected increases, and the\nposition of the minimum of the response moves to smaller scales as the redshift\ndecreases. We find that lower gas fractions in groups and clusters lead to a\nstronger response and that the use of collimated jets instead of thermally\ndriven winds for AGN feedback enhances the effect. Lowering the stellar masses\nat fixed cluster gas fractions also increases the magnitude of the response. We\nfind only a small (1% at $k<10~h$ Mpc$^{-1}$) dependence of our results on the\nbackground cosmology, but a wider range of cosmology variations will be needed\nto confirm this result. The response we obtain for our strongest feedback\nmodels is compatible with some of the recent analyses combining weak lensing\nwith external data. Such a response is, however, in strong tension with the\nX-ray inferred gas fractions in clusters used to calibrate the FLAMINGO model.",
+          "arxiv_id": "2410.17109v2"
+        },
+        {
+          "title": "The GOGREEN survey: the internal dynamics of clusters of galaxies at redshift 0.9-1.4",
+          "year": "2021-04",
+          "abstract": "We aim to determine the mass, velocity anisotropy, and pseudo phase-space\ndensity profiles (M(r), beta(r), and Q(r), respectively) of clusters of\ngalaxies at the highest redshifts investigated in detail so far. We combine the\nGOGREEN and GCLASS spectroscopic data-sets for 14 clusters with mass M200 >\n10^14 Msolar at redshifts 0.9 < z < 1.4. We stack these 14 clusters into an\nensemble cluster of 581 member galaxies with stellar mass > 10^9.5 M_solar. We\nuse the MAMPOSSt method and the inversion of the Jeans equation technique to\ndetermine M(r) and beta(r). We then combine the results of the M(r) and beta(r)\nanalysis to determine Q(r) for the ensemble cluster. The concentration c200 of\nthe ensemble cluster M(r) is in excellent agreement with predictions from\nLambdaCDM cosmological numerical simulations, and with previous determinations\nfor clusters of similar mass and at similar redshifts, obtained from\ngravitational lensing and X-ray data. We see no significant difference between\nthe total mass density and either the galaxy number density distributions or\nthe stellar mass distribution. Star-forming galaxies are spatially\nsignificantly less concentrated than quiescent galaxies. The orbits of cluster\ngalaxies are isotropic near the center and more radial outside. Star-forming\ngalaxies and galaxies of low stellar mass tend to move on more radially\nelongated orbits than quiescent galaxies and galaxies of high stellar mass.\nQ(r), determined either using the total mass or the number density profile, is\nvery close to the power-law behavior predicted by numerical simulations. The\ninternal dynamics of clusters at the highest redshift probed in detail so far\nare very similar to those of lower-redshift clusters, and in excellent\nagreement with predictions of numerical simulations. The clusters in our sample\nhave already reached a high degree of dynamical relaxation. (Abridged)",
+          "arxiv_id": "2104.01183v2"
+        },
+        {
+          "title": "THESAN-HR: Galaxies in the Epoch of Reionization in warm dark matter, fuzzy dark matter and interacting dark matter",
+          "year": "2023-04",
+          "abstract": "Using high-resolution cosmological radiation-hydrodynamic (RHD) simulations\n(THESAN-HR), we explore the impact of alternative dark matter (altDM) models on\ngalaxies during the Epoch of Reionization. The simulations adopt the\nIllustrisTNG galaxy formation model. We focus on altDM models that exhibit\nsmall-scale suppression of the matter power spectrum, namely warm dark matter\n(WDM), fuzzy dark matter (FDM), and interacting dark matter (IDM) with strong\ndark acoustic oscillations (sDAO). In altDM scenarios, both the halo mass\nfunctions and the UV luminosity functions at $z\\gtrsim 6$ are suppressed at the\nlow-mass/faint end, leading to delayed global star formation and reionization\nhistories. However, strong non-linear effects enable altDM models to \"catch up\"\nwith cold dark matter (CDM) in terms of star formation and reionization. The\nspecific star formation rates are enhanced in halos below the half-power mass\nin altDM models. This enhancement coincides with increased gas abundance,\nreduced gas depletion times, more compact galaxy sizes, and steeper metallicity\ngradients at the outskirts of the galaxies. These changes in galaxy properties\ncan help disentangle altDM signatures from a range of astrophysical\nuncertainties. Meanwhile, it is the first time that altDM models have been\nstudied in RHD simulations of galaxy formation. We uncover significant\nsystematic uncertainties in reionization assumptions on the faint-end\nluminosity function. This underscores the necessity of accurately modeling the\nsmall-scale morphology of reionization in making predictions for the low-mass\ngalaxy population. Upcoming James Webb Space Telescope (JWST) imaging surveys\nof deep, lensed fields hold potential for uncovering the faint, low-mass galaxy\npopulation, which could provide constraints on altDM models.",
+          "arxiv_id": "2304.06742v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:33:54Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

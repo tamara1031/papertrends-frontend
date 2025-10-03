@@ -1,0 +1,1946 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_spaces_operators_Hardy_weighted",
+        "keywords": [
+          [
+            "spaces",
+            0.038296229813099394
+          ],
+          [
+            "operators",
+            0.028788660791157737
+          ],
+          [
+            "Hardy",
+            0.022693100788815427
+          ],
+          [
+            "weighted",
+            0.0223205604766865
+          ],
+          [
+            "space",
+            0.01953758695636614
+          ],
+          [
+            "operator",
+            0.019149522671814787
+          ],
+          [
+            "type",
+            0.018702139218168264
+          ],
+          [
+            "maximal",
+            0.01600861799977524
+          ],
+          [
+            "boundedness",
+            0.015598040816549091
+          ],
+          [
+            "inequalities",
+            0.015553339814615312
+          ]
+        ],
+        "count": 928
+      },
+      "1": {
+        "name": "1_solutions_systems_equations_equation",
+        "keywords": [
+          [
+            "solutions",
+            0.027708344005821894
+          ],
+          [
+            "systems",
+            0.023013800967192927
+          ],
+          [
+            "equations",
+            0.02270580287558019
+          ],
+          [
+            "equation",
+            0.018404346467897792
+          ],
+          [
+            "differential",
+            0.017008772908077677
+          ],
+          [
+            "solution",
+            0.014728695734420021
+          ],
+          [
+            "periodic",
+            0.014539431482085028
+          ],
+          [
+            "problem",
+            0.014161855406001558
+          ],
+          [
+            "time",
+            0.013783778804884945
+          ],
+          [
+            "order",
+            0.01322829039736756
+          ]
+        ],
+        "count": 781
+      },
+      "2": {
+        "name": "2_functions_hypergeometric_function_series",
+        "keywords": [
+          [
+            "functions",
+            0.03741126144351651
+          ],
+          [
+            "hypergeometric",
+            0.03687839872799074
+          ],
+          [
+            "function",
+            0.03640630018644855
+          ],
+          [
+            "series",
+            0.030152346199181976
+          ],
+          [
+            "Bessel",
+            0.02151455260932984
+          ],
+          [
+            "integral",
+            0.021209226564636786
+          ],
+          [
+            "formula",
+            0.018736011640451872
+          ],
+          [
+            "zeta",
+            0.016693750198220773
+          ],
+          [
+            "integrals",
+            0.01576145906807983
+          ],
+          [
+            "formulas",
+            0.015159407279633262
+          ]
+        ],
+        "count": 542
+      },
+      "3": {
+        "name": "3_set_sets_dimension_Hausdorff",
+        "keywords": [
+          [
+            "set",
+            0.03227049704457503
+          ],
+          [
+            "sets",
+            0.03185531129474529
+          ],
+          [
+            "dimension",
+            0.03131833979921543
+          ],
+          [
+            "Hausdorff",
+            0.02034515976777837
+          ],
+          [
+            "Hausdorff dimension",
+            0.018364220425813274
+          ],
+          [
+            "subset",
+            0.016825761375527114
+          ],
+          [
+            "Kakeya",
+            0.01658000014129078
+          ],
+          [
+            "conjecture",
+            0.014848650924397406
+          ],
+          [
+            "restriction",
+            0.014316063365671906
+          ],
+          [
+            "estimates",
+            0.013720217616545136
+          ]
+        ],
+        "count": 397
+      },
+      "4": {
+        "name": "4_polynomials_orthogonal_orthogonal polynomials_Jacobi",
+        "keywords": [
+          [
+            "polynomials",
+            0.08805933134394399
+          ],
+          [
+            "orthogonal",
+            0.06545402934514413
+          ],
+          [
+            "orthogonal polynomials",
+            0.05720627609669859
+          ],
+          [
+            "Jacobi",
+            0.022996251157963384
+          ],
+          [
+            "recurrence",
+            0.020723936529789617
+          ],
+          [
+            "matrix",
+            0.020132253705549597
+          ],
+          [
+            "Laguerre",
+            0.019073805149507555
+          ],
+          [
+            "multiple",
+            0.01867808279600101
+          ],
+          [
+            "type",
+            0.01801845835179012
+          ],
+          [
+            "coefficients",
+            0.015924826013251243
+          ]
+        ],
+        "count": 365
+      },
+      "5": {
+        "name": "5_equation_equations_solutions_differential",
+        "keywords": [
+          [
+            "equation",
+            0.03334895461037889
+          ],
+          [
+            "equations",
+            0.03068930774267651
+          ],
+          [
+            "solutions",
+            0.02631855110837147
+          ],
+          [
+            "differential",
+            0.02477888869188152
+          ],
+          [
+            "monodromy",
+            0.016424432698761877
+          ],
+          [
+            "algebraic",
+            0.016375410173881468
+          ],
+          [
+            "singularities",
+            0.015556113076574287
+          ],
+          [
+            "Painlevé",
+            0.013801796813663418
+          ],
+          [
+            "Heun",
+            0.013046247058248382
+          ],
+          [
+            "differential equations",
+            0.012757484984505954
+          ]
+        ],
+        "count": 298
+      },
+      "6": {
+        "name": "6_transform_sampling_frames_frame",
+        "keywords": [
+          [
+            "transform",
+            0.025767243833764313
+          ],
+          [
+            "sampling",
+            0.025558295108779317
+          ],
+          [
+            "frames",
+            0.02354875211128051
+          ],
+          [
+            "frame",
+            0.022212980653682476
+          ],
+          [
+            "functions",
+            0.021697059592383463
+          ],
+          [
+            "Fourier",
+            0.015925423135491397
+          ],
+          [
+            "space",
+            0.014744170676210692
+          ],
+          [
+            "Gabor",
+            0.014686642414995631
+          ],
+          [
+            "results",
+            0.014137070523052332
+          ],
+          [
+            "transforms",
+            0.013380822392288612
+          ]
+        ],
+        "count": 196
+      },
+      "7": {
+        "name": "7_functions_convex_Bernstein_function",
+        "keywords": [
+          [
+            "functions",
+            0.0371919601356574
+          ],
+          [
+            "convex",
+            0.034561225271731104
+          ],
+          [
+            "Bernstein",
+            0.02451921165594807
+          ],
+          [
+            "function",
+            0.022941225262404948
+          ],
+          [
+            "inequalities",
+            0.02230064089785272
+          ],
+          [
+            "inequality",
+            0.02016815072657968
+          ],
+          [
+            "means",
+            0.017082958407123133
+          ],
+          [
+            "convexity",
+            0.015063429048189747
+          ],
+          [
+            "paper",
+            0.01453307482545682
+          ],
+          [
+            "theorem",
+            0.013721328908986074
+          ]
+        ],
+        "count": 186
+      },
+      "8": {
+        "name": "8_self_similar_dimension_measures",
+        "keywords": [
+          [
+            "self",
+            0.07727307912557915
+          ],
+          [
+            "similar",
+            0.047394490745798865
+          ],
+          [
+            "dimension",
+            0.047076902211464405
+          ],
+          [
+            "measures",
+            0.04430576758672674
+          ],
+          [
+            "Assouad",
+            0.03792998826043891
+          ],
+          [
+            "sets",
+            0.03745136439020126
+          ],
+          [
+            "affine",
+            0.03540790443468356
+          ],
+          [
+            "dimensions",
+            0.03401170867877338
+          ],
+          [
+            "self affine",
+            0.030536559650758854
+          ],
+          [
+            "similar measures",
+            0.024787816736081283
+          ]
+        ],
+        "count": 128
+      },
+      "9": {
+        "name": "9_maximal_spherical_estimates_maximal functions",
+        "keywords": [
+          [
+            "maximal",
+            0.0699366826811239
+          ],
+          [
+            "spherical",
+            0.0312938926554824
+          ],
+          [
+            "estimates",
+            0.027826949562854194
+          ],
+          [
+            "maximal functions",
+            0.026303733678533368
+          ],
+          [
+            "operator",
+            0.023843427642617508
+          ],
+          [
+            "maximal function",
+            0.023524705395715124
+          ],
+          [
+            "operators",
+            0.02324856392939941
+          ],
+          [
+            "bounds",
+            0.01970203129577185
+          ],
+          [
+            "boundedness",
+            0.019188350207823092
+          ],
+          [
+            "maximal operators",
+            0.01886432133032292
+          ]
+        ],
+        "count": 128
+      },
+      "10": {
+        "name": "10_estimates_Strichartz_Schrödinger_equation",
+        "keywords": [
+          [
+            "estimates",
+            0.04255923221073222
+          ],
+          [
+            "Strichartz",
+            0.03015444836668382
+          ],
+          [
+            "Schrödinger",
+            0.028913014659734365
+          ],
+          [
+            "equation",
+            0.026440954107205705
+          ],
+          [
+            "Strichartz estimates",
+            0.021426139761408256
+          ],
+          [
+            "operators",
+            0.020411685209119276
+          ],
+          [
+            "wave",
+            0.0193803342174892
+          ],
+          [
+            "equations",
+            0.019028755199818812
+          ],
+          [
+            "estimate",
+            0.017831127510141116
+          ],
+          [
+            "sharp",
+            0.01574716290840069
+          ]
+        ],
+        "count": 118
+      },
+      "11": {
+        "name": "11_fractional_derivatives_differential_fractional differential",
+        "keywords": [
+          [
+            "fractional",
+            0.12026096303434022
+          ],
+          [
+            "derivatives",
+            0.033966827863706
+          ],
+          [
+            "differential",
+            0.033550003833882514
+          ],
+          [
+            "fractional differential",
+            0.03317438086515217
+          ],
+          [
+            "equations",
+            0.03157419846907218
+          ],
+          [
+            "Caputo",
+            0.029206041818821925
+          ],
+          [
+            "calculus",
+            0.027322788071934483
+          ],
+          [
+            "differential equations",
+            0.026182716418797485
+          ],
+          [
+            "fractional derivatives",
+            0.02601875360721317
+          ],
+          [
+            "fractional calculus",
+            0.02221409698060957
+          ]
+        ],
+        "count": 104
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.48667847797632147,
+        -0.5468283957752539,
+        -0.4657159684954867,
+        -0.7110002505572101,
+        -0.6264983882328639,
+        -0.6271926158815899,
+        -0.4527727576600867,
+        -0.6858328347999001,
+        -0.38777161435460195,
+        -0.6623908537533532,
+        -0.6506713261290551
+      ],
+      [
+        -0.48667847797632147,
+        1.0,
+        -0.47843135818524024,
+        -0.4706627204749693,
+        -0.687361180173886,
+        0.075373108628937,
+        -0.4485116839532942,
+        -0.3512686121375913,
+        -0.6710559427296096,
+        -0.6438815225078279,
+        -0.6620089601422394,
+        -0.5428052448147164
+      ],
+      [
+        -0.5468283957752539,
+        -0.47843135818524024,
+        1.0,
+        -0.6402414235236754,
+        -0.6758058255818125,
+        -0.6274747044105493,
+        -0.5016753213654364,
+        -0.12548971909371004,
+        -0.7075608754151061,
+        -0.6634545514240298,
+        -0.7019590700493088,
+        -0.693787026203999
+      ],
+      [
+        -0.4657159684954867,
+        -0.4706627204749693,
+        -0.6402414235236754,
+        1.0,
+        -0.6849651343812846,
+        -0.4738248710559382,
+        -0.4642519790540384,
+        -0.520387899477208,
+        -0.4292320585124537,
+        -0.4525818300271568,
+        -0.6647725950644054,
+        -0.7222309269104332
+      ],
+      [
+        -0.7110002505572101,
+        -0.687361180173886,
+        -0.6758058255818125,
+        -0.6849651343812846,
+        1.0,
+        -0.6801073389605556,
+        -0.696159243910514,
+        -0.6852498748033315,
+        -0.7290342713023678,
+        -0.7297301408948316,
+        -0.7401683330488515,
+        -0.7388368998475163
+      ],
+      [
+        -0.6264983882328639,
+        0.075373108628937,
+        -0.6274747044105493,
+        -0.4738248710559382,
+        -0.6801073389605556,
+        1.0,
+        -0.44557920145443525,
+        -0.5434447455406398,
+        -0.68618301866799,
+        -0.6633944364863863,
+        -0.6640916692054954,
+        -0.5473414466244333
+      ],
+      [
+        -0.6271926158815899,
+        -0.4485116839532942,
+        -0.5016753213654364,
+        -0.4642519790540384,
+        -0.696159243910514,
+        -0.44557920145443525,
+        1.0,
+        -0.3912363053726353,
+        -0.673029428439649,
+        -0.631528702099948,
+        -0.6635392658713102,
+        -0.7137966118724979
+      ],
+      [
+        -0.4527727576600867,
+        -0.3512686121375913,
+        -0.12548971909371004,
+        -0.520387899477208,
+        -0.6852498748033315,
+        -0.5434447455406398,
+        -0.3912363053726353,
+        1.0,
+        -0.6803983273895424,
+        -0.6248909819255137,
+        -0.6749242737525127,
+        -0.6880894740193684
+      ],
+      [
+        -0.6858328347999001,
+        -0.6710559427296096,
+        -0.7075608754151061,
+        -0.4292320585124537,
+        -0.7290342713023678,
+        -0.68618301866799,
+        -0.673029428439649,
+        -0.6803983273895424,
+        1.0,
+        -0.699587137554827,
+        -0.7138731980713251,
+        -0.7372599727084496
+      ],
+      [
+        -0.38777161435460195,
+        -0.6438815225078279,
+        -0.6634545514240298,
+        -0.4525818300271568,
+        -0.7297301408948316,
+        -0.6633944364863863,
+        -0.631528702099948,
+        -0.6248909819255137,
+        -0.699587137554827,
+        1.0,
+        -0.5414497792045068,
+        -0.6874393589242576
+      ],
+      [
+        -0.6623908537533532,
+        -0.6620089601422394,
+        -0.7019590700493088,
+        -0.6647725950644054,
+        -0.7401683330488515,
+        -0.6640916692054954,
+        -0.6635392658713102,
+        -0.6749242737525127,
+        -0.7138731980713251,
+        -0.5414497792045068,
+        1.0,
+        -0.7008996785512329
+      ],
+      [
+        -0.6506713261290551,
+        -0.5428052448147164,
+        -0.693787026203999,
+        -0.7222309269104332,
+        -0.7388368998475163,
+        -0.5473414466244333,
+        -0.7137966118724979,
+        -0.6880894740193684,
+        -0.7372599727084496,
+        -0.6874393589242576,
+        -0.7008996785512329,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        26,
+        6,
+        15,
+        17,
+        11,
+        13,
+        5,
+        7,
+        5,
+        3,
+        4,
+        3
+      ],
+      "2020-02": [
+        21,
+        5,
+        12,
+        18,
+        13,
+        4,
+        5,
+        8,
+        8,
+        2,
+        5,
+        11
+      ],
+      "2020-03": [
+        36,
+        12,
+        12,
+        17,
+        5,
+        6,
+        1,
+        4,
+        1,
+        8,
+        1,
+        9
+      ],
+      "2020-04": [
+        24,
+        5,
+        5,
+        16,
+        14,
+        9,
+        2,
+        6,
+        9,
+        4,
+        5,
+        4
+      ],
+      "2020-05": [
+        28,
+        16,
+        18,
+        18,
+        10,
+        17,
+        5,
+        7,
+        7,
+        5,
+        5,
+        4
+      ],
+      "2020-06": [
+        25,
+        8,
+        17,
+        22,
+        22,
+        8,
+        3,
+        9,
+        7,
+        8,
+        7,
+        12
+      ],
+      "2020-07": [
+        25,
+        8,
+        12,
+        19,
+        12,
+        9,
+        6,
+        8,
+        7,
+        4,
+        1,
+        10
+      ],
+      "2020-08": [
+        19,
+        5,
+        15,
+        20,
+        17,
+        5,
+        4,
+        8,
+        4,
+        4,
+        6,
+        8
+      ],
+      "2020-09": [
+        23,
+        9,
+        11,
+        26,
+        15,
+        9,
+        4,
+        8,
+        4,
+        9,
+        1,
+        4
+      ],
+      "2020-10": [
+        26,
+        11,
+        8,
+        15,
+        11,
+        14,
+        1,
+        6,
+        2,
+        7,
+        8,
+        3
+      ],
+      "2020-11": [
+        34,
+        10,
+        13,
+        16,
+        15,
+        4,
+        1,
+        8,
+        5,
+        5,
+        5,
+        5
+      ],
+      "2020-12": [
+        24,
+        8,
+        14,
+        25,
+        17,
+        9,
+        3,
+        4,
+        7,
+        5,
+        8,
+        12
+      ],
+      "2021-01": [
+        27,
+        9,
+        18,
+        13,
+        14,
+        9,
+        1,
+        1,
+        4,
+        7,
+        2,
+        9
+      ],
+      "2021-02": [
+        15,
+        7,
+        10,
+        15,
+        2,
+        7,
+        0,
+        4,
+        6,
+        6,
+        8,
+        5
+      ],
+      "2021-03": [
+        28,
+        7,
+        8,
+        14,
+        12,
+        7,
+        4,
+        7,
+        6,
+        5,
+        6,
+        5
+      ],
+      "2021-04": [
+        26,
+        5,
+        16,
+        17,
+        15,
+        3,
+        0,
+        3,
+        4,
+        5,
+        2,
+        5
+      ],
+      "2021-05": [
+        18,
+        5,
+        27,
+        10,
+        11,
+        3,
+        1,
+        4,
+        6,
+        7,
+        3,
+        6
+      ],
+      "2021-06": [
+        21,
+        10,
+        7,
+        16,
+        14,
+        13,
+        3,
+        6,
+        3,
+        4,
+        5,
+        3
+      ],
+      "2021-07": [
+        27,
+        12,
+        11,
+        24,
+        18,
+        7,
+        4,
+        2,
+        6,
+        4,
+        3,
+        10
+      ],
+      "2021-08": [
+        14,
+        7,
+        15,
+        13,
+        13,
+        4,
+        4,
+        4,
+        5,
+        6,
+        4,
+        11
+      ],
+      "2021-09": [
+        32,
+        6,
+        8,
+        17,
+        9,
+        12,
+        2,
+        9,
+        11,
+        6,
+        5,
+        4
+      ],
+      "2021-10": [
+        19,
+        5,
+        13,
+        18,
+        10,
+        6,
+        1,
+        9,
+        2,
+        7,
+        6,
+        7
+      ],
+      "2021-11": [
+        16,
+        4,
+        13,
+        17,
+        8,
+        11,
+        3,
+        3,
+        4,
+        5,
+        4,
+        6
+      ],
+      "2021-12": [
+        22,
+        10,
+        15,
+        21,
+        15,
+        10,
+        3,
+        9,
+        5,
+        7,
+        5,
+        7
+      ],
+      "2022-01": [
+        24,
+        8,
+        13,
+        12,
+        8,
+        15,
+        1,
+        5,
+        2,
+        6,
+        4,
+        7
+      ],
+      "2022-02": [
+        27,
+        6,
+        14,
+        12,
+        12,
+        7,
+        4,
+        5,
+        2,
+        5,
+        5,
+        6
+      ],
+      "2022-03": [
+        36,
+        12,
+        15,
+        24,
+        14,
+        10,
+        3,
+        10,
+        7,
+        7,
+        3,
+        5
+      ],
+      "2022-04": [
+        31,
+        2,
+        13,
+        14,
+        9,
+        8,
+        3,
+        4,
+        2,
+        9,
+        3,
+        4
+      ],
+      "2022-05": [
+        27,
+        10,
+        12,
+        21,
+        5,
+        19,
+        2,
+        1,
+        3,
+        5,
+        7,
+        6
+      ],
+      "2022-06": [
+        22,
+        3,
+        7,
+        16,
+        12,
+        13,
+        2,
+        2,
+        8,
+        2,
+        1,
+        5
+      ],
+      "2022-07": [
+        21,
+        2,
+        16,
+        14,
+        7,
+        7,
+        1,
+        7,
+        4,
+        5,
+        4,
+        3
+      ],
+      "2022-08": [
+        21,
+        5,
+        13,
+        21,
+        10,
+        7,
+        4,
+        3,
+        3,
+        4,
+        4,
+        3
+      ],
+      "2022-09": [
+        29,
+        6,
+        10,
+        18,
+        21,
+        8,
+        2,
+        3,
+        9,
+        5,
+        4,
+        4
+      ],
+      "2022-10": [
+        24,
+        9,
+        11,
+        28,
+        19,
+        6,
+        0,
+        3,
+        8,
+        11,
+        5,
+        8
+      ],
+      "2022-11": [
+        23,
+        8,
+        11,
+        20,
+        10,
+        9,
+        3,
+        7,
+        6,
+        5,
+        5,
+        3
+      ],
+      "2022-12": [
+        18,
+        7,
+        10,
+        16,
+        11,
+        10,
+        1,
+        9,
+        2,
+        5,
+        5,
+        7
+      ],
+      "2023-01": [
+        17,
+        8,
+        8,
+        17,
+        12,
+        12,
+        7,
+        4,
+        6,
+        4,
+        4,
+        2
+      ],
+      "2023-02": [
+        20,
+        10,
+        10,
+        12,
+        14,
+        7,
+        1,
+        3,
+        3,
+        6,
+        4,
+        3
+      ],
+      "2023-03": [
+        16,
+        12,
+        16,
+        13,
+        11,
+        8,
+        0,
+        5,
+        4,
+        5,
+        5,
+        4
+      ],
+      "2023-04": [
+        22,
+        5,
+        14,
+        24,
+        8,
+        11,
+        1,
+        6,
+        3,
+        5,
+        5,
+        6
+      ],
+      "2023-05": [
+        19,
+        3,
+        10,
+        19,
+        14,
+        8,
+        1,
+        9,
+        6,
+        20,
+        1,
+        3
+      ],
+      "2023-06": [
+        36,
+        5,
+        14,
+        16,
+        8,
+        7,
+        3,
+        4,
+        2,
+        7,
+        8,
+        2
+      ],
+      "2023-07": [
+        29,
+        7,
+        13,
+        23,
+        18,
+        12,
+        0,
+        7,
+        3,
+        6,
+        4,
+        4
+      ],
+      "2023-08": [
+        21,
+        3,
+        10,
+        12,
+        15,
+        9,
+        4,
+        3,
+        8,
+        8,
+        3,
+        4
+      ],
+      "2023-09": [
+        30,
+        10,
+        10,
+        24,
+        8,
+        9,
+        4,
+        5,
+        8,
+        6,
+        5,
+        6
+      ],
+      "2023-10": [
+        24,
+        6,
+        13,
+        16,
+        14,
+        8,
+        2,
+        5,
+        2,
+        6,
+        1,
+        6
+      ],
+      "2023-11": [
+        29,
+        8,
+        10,
+        26,
+        14,
+        3,
+        5,
+        4,
+        5,
+        6,
+        5,
+        4
+      ],
+      "2023-12": [
+        34,
+        8,
+        9,
+        19,
+        14,
+        7,
+        2,
+        10,
+        4,
+        6,
+        4,
+        7
+      ],
+      "2024-01": [
+        21,
+        7,
+        15,
+        17,
+        6,
+        9,
+        1,
+        6,
+        10,
+        7,
+        2,
+        5
+      ],
+      "2024-02": [
+        26,
+        5,
+        19,
+        19,
+        16,
+        11,
+        3,
+        5,
+        2,
+        8,
+        8,
+        4
+      ],
+      "2024-03": [
+        27,
+        7,
+        12,
+        16,
+        10,
+        11,
+        3,
+        6,
+        3,
+        4,
+        4,
+        5
+      ],
+      "2024-04": [
+        26,
+        5,
+        15,
+        17,
+        13,
+        7,
+        3,
+        1,
+        2,
+        4,
+        8,
+        2
+      ],
+      "2024-05": [
+        28,
+        10,
+        19,
+        18,
+        11,
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        2
+      ],
+      "2024-06": [
+        24,
+        6,
+        9,
+        23,
+        8,
+        7,
+        3,
+        2,
+        4,
+        8,
+        4,
+        6
+      ],
+      "2024-07": [
+        38,
+        10,
+        7,
+        24,
+        13,
+        12,
+        2,
+        12,
+        6,
+        8,
+        7,
+        3
+      ],
+      "2024-08": [
+        20,
+        10,
+        10,
+        15,
+        8,
+        7,
+        2,
+        1,
+        0,
+        6,
+        5,
+        5
+      ],
+      "2024-09": [
+        25,
+        7,
+        8,
+        18,
+        16,
+        9,
+        4,
+        3,
+        7,
+        4,
+        6,
+        4
+      ],
+      "2024-10": [
+        28,
+        12,
+        16,
+        24,
+        13,
+        13,
+        5,
+        7,
+        5,
+        8,
+        2,
+        3
+      ],
+      "2024-11": [
+        27,
+        4,
+        14,
+        21,
+        14,
+        5,
+        4,
+        7,
+        5,
+        8,
+        4,
+        3
+      ],
+      "2024-12": [
+        36,
+        8,
+        18,
+        17,
+        16,
+        13,
+        5,
+        10,
+        8,
+        5,
+        4,
+        6
+      ],
+      "2025-01": [
+        29,
+        9,
+        18,
+        17,
+        14,
+        7,
+        5,
+        3,
+        7,
+        10,
+        5,
+        2
+      ],
+      "2025-02": [
+        28,
+        8,
+        15,
+        18,
+        12,
+        10,
+        4,
+        3,
+        9,
+        10,
+        8,
+        5
+      ],
+      "2025-03": [
+        21,
+        6,
+        9,
+        25,
+        18,
+        13,
+        6,
+        3,
+        5,
+        7,
+        8,
+        8
+      ],
+      "2025-04": [
+        28,
+        9,
+        12,
+        9,
+        9,
+        9,
+        5,
+        4,
+        4,
+        6,
+        1,
+        5
+      ],
+      "2025-05": [
+        35,
+        2,
+        10,
+        20,
+        9,
+        5,
+        4,
+        5,
+        7,
+        3,
+        11,
+        3
+      ],
+      "2025-06": [
+        26,
+        2,
+        9,
+        19,
+        8,
+        8,
+        5,
+        1,
+        9,
+        6,
+        7,
+        3
+      ],
+      "2025-07": [
+        21,
+        7,
+        14,
+        20,
+        20,
+        2,
+        3,
+        5,
+        8,
+        6,
+        4,
+        2
+      ],
+      "2025-08": [
+        36,
+        3,
+        17,
+        19,
+        18,
+        9,
+        1,
+        5,
+        8,
+        6,
+        4,
+        7
+      ],
+      "2025-09": [
+        21,
+        6,
+        4,
+        17,
+        8,
+        11,
+        3,
+        3,
+        4,
+        2,
+        5,
+        3
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Boundedness of Fractional Integrals on Hardy Spaces Associated with Ball Quasi-Banach Function Spaces",
+          "year": "2022-06",
+          "abstract": "Let $X$ be a ball quasi-Banach function space on ${\\mathbb R}^n$ and\n$H_X({\\mathbb R}^n)$ the Hardy space associated with $X$, and let\n$\\alpha\\in(0,n)$ and $\\beta\\in(1,\\infty)$. In this article, assuming that the\n(powered) Hardy--Littlewood maximal operator satisfies the Fefferman--Stein\nvector-valued maximal inequality on $X$ and is bounded on the associate space\nof $X$, the authors prove that the fractional integral $I_{\\alpha}$ can be\nextended to a bounded linear operator from $H_X({\\mathbb R}^n)$ to\n$H_{X^{\\beta}}({\\mathbb R}^n)$ if and only if there exists a positive constant\n$C$ such that, for any ball $B\\subset \\mathbb{R}^n$,\n$|B|^{\\frac{\\alpha}{n}}\\leq C \\|\\mathbf{1}_B\\|_X^{\\frac{\\beta-1}{\\beta}}$,\nwhere $X^{\\beta}$ denotes the $\\beta$-convexification of $X$. Moreover, under\nsome different reasonable assumptions on both $X$ and another ball quasi-Banach\nfunction space $Y$, the authors also consider the mapping property of\n$I_{\\alpha}$ from $H_X({\\mathbb R}^n)$ to $H_Y({\\mathbb R}^n)$ via using the\nextrapolation theorem. All these results have a wide range of applications.\nParticularly, when these are applied, respectively, to Morrey spaces,\nmixed-norm Lebesgue spaces, local generalized Herz spaces, and mixed-norm Herz\nspaces, all these results are new. The proofs of these theorems strongly depend\non atomic and molecular characterizations of $H_X({\\mathbb R}^n)$.",
+          "arxiv_id": "2206.06080v1"
+        },
+        {
+          "title": "Boundedness of Calderón--Zygmund operators on ball Campanato-type function spaces",
+          "year": "2022-08",
+          "abstract": "Let $X$ be a ball quasi-Banach function space on ${\\mathbb R}^n$ satisfying\nsome mild assumptions. In this article, the authors first find a reasonable\nversion $\\widetilde{T}$ of the Calder\\'on--Zygmund operator $T$ on the ball\nCampanato-type function space $\\mathcal{L}_{X,q,s,d}(\\mathbb{R}^n)$ with\n$q\\in[1,\\infty)$, $s\\in\\mathbb{Z}_+^n$, and $d\\in(0,\\infty)$. Then the authors\nprove that $\\widetilde{T}$ is bounded on $\\mathcal{L}_{X,q,s,d}(\\mathbb{R}^n)$\nif and only if, for any $\\gamma\\in\\mathbb{Z}^n_+$ with $|\\gamma|\\leq s$,\n$T^*(x^{\\gamma})=0$, which is hence sharp. Moreover, $\\widetilde{T}$ is proved\nto be the adjoint operator of $T$, which further strengthens the rationality of\nthe definition of $\\widetilde{T}$. All these results have a wide range of\napplications. In particular, even when they are applied, respectively, to\nweighted Lebesgue spaces, variable Lebesgue spaces, Orlicz spaces, Orlicz-slice\nspaces, Morrey spaces, mixed-norm Lebesgue spaces, local generalized Herz\nspaces, and mixed-norm Herz spaces, all the obtained results are new. The\nproofs of these results strongly depend on the properties of the kernel of $T$\nunder consideration and also on the dual theorem on\n$\\mathcal{L}_{X,q,s,d}(\\mathbb{R}^n)$.",
+          "arxiv_id": "2208.06266v1"
+        },
+        {
+          "title": "A class of multilinear bounded oscillation operators on measure spaces and applications",
+          "year": "2022-10",
+          "abstract": "In this paper, we develop a comprehensive weighted theory for a class of\nBanach-valued multilinear bounded oscillation operators on measure spaces,\nwhich merges multilinear Calder\\'{o}n-Zygmund operators with a quantity of\noperators beyond the multilinear Calder\\'{o}n-Zygmund theory. We prove that\nsuch multilinear operators and corresponding commutators are locally pointwise\ndominated by two sparse dyadic operators, respectively. We also establish three\nkinds of typical estimates: local exponential decay estimates, mixed weak type\nestimates, and sharp weighted norm inequalities. Beyond that, based on Rubio de\nFrancia extrapolation for abstract multilinear compact operators, we obtain\nweighted compactness for commutators of specific multilinear operators on\nspaces of homogeneous type. A compact extrapolation allows us to get full range\nof exponents, while weighted interpolation for multilinear compact operators is\ncrucial to the compact extrapolation. These are due to a weighted\nFr\\'{e}chet-Kolmogorov theorem in the quasi-Banach range, which gives a\ncharacterization of relative compactness of subsets in weighted Lebesgue\nspaces. As applications, we illustrate multilinear bounded oscillation\noperators with examples including multilinear Hardy-Littlewood maximal\noperators on measure spaces, multilinear $\\omega$-Calder\\'{o}n-Zygmund\noperators on spaces of homogeneous type, multilinear Littlewood-Paley square\noperators, multilinear Fourier integral operators, higher order Calder\\'{o}n\ncommutators, maximally modulated multilinear singular integrals, and\n$q$-variation of $\\omega$-Calder\\'{o}n-Zygmund operators.",
+          "arxiv_id": "2210.09684v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Fundamental solutions for parabolic equations and systems: universal existence, uniqueness, representation",
+          "year": "2024-12",
+          "abstract": "In this paper, we develop a universal, conceptually simple and systematic\nmethod to prove well-posedness to Cauchy problems for weak solutions of\nparabolic equations with non-smooth, time-dependent, elliptic part having a\nvariational definition. Our classes of weak solutions are taken with minimal\nassumptions. We prove the existence and uniqueness of a fundamental solution\nwhich seems new in this generality: it is shown to always coincide with the\nassociated evolution family for the initial value problem with zero source and\nit yields representation of all weak solutions. Our strategy is a variational\napproach avoiding density arguments, a priori regularity of weak solutions or\nregularization by smooth operators. One of our main tools are embedding results\nwhich yield time continuity of our weak solutions going beyond the celebrated\nLions regularity theorem and that is addressing a variety of source terms. We\nillustrate our results with three concrete applications : second order\nuniformly elliptic part with Dirichlet boundary condition on domains,\nintegro-differential elliptic part, and second order degenerate elliptic part.",
+          "arxiv_id": "2412.18436v3"
+        },
+        {
+          "title": "Periodic perturbations of a class of scalar second order functional differential equations",
+          "year": "2022-05",
+          "abstract": "We study, by means of a topological approach, the forced oscillations of\nsecond order functional retarded differential equations subject to periodic\nperturbations. We consider a delay-type functional dependence involving a gamma\nprobability distribution. By a linear chain trick we obtain a first order\nsystem of ODE's whose $T$-periodic solutions correspond to those of the\nfunctional equation.",
+          "arxiv_id": "2205.12758v2"
+        },
+        {
+          "title": "Parameterization method for state-dependent delay perturbation of an ordinary differential equation",
+          "year": "2020-05",
+          "abstract": "We consider state-dependent delay equations (SDDE) obtained by adding delays\nto a planar ordinary differential equation with a limit cycle. These situations\nappear in models of several physical processes, where small delay effects are\nadded. Even if the delays are small, they are very singular perturbations since\nthe natural phase space of an SDDE is an infinite dimensional space.\n  We show that the SDDE admits solutions which resemble the solutions of the\nODE. That is, there exist a periodic solution and a two parameter family of\nsolutions whose evolution converges to the periodic solution. Even if the phase\nspace of the SDDE is naturally a space of functions, we show that there are\ninitial values which lead to solutions similar to that of the ODE.\n  The method of proof bypasses the theory of existence, uniqueness, dependence\non parameters of SDDE. We consider the class of functions of time that have a\nwell defined behavior (e.g. periodic, or asymptotic to periodic) and derive a\nfunctional equation which imposes that they are solutions of the SDDE. These\nfunctional equations are studied using methods of functional analysis. We\nprovide a result in \"a posteriori\" format: Given an approximate solution of the\nfunctional equation, which has some good condition numbers, we prove that there\nis true solution close to the approximate one. Thus, we can use the result to\nvalidate the results of numerical computations. The method of proof leads also\nto practical algorithms. In a companion paper, we present the implementation\ndetails and representative results.\n  One feature of the method presented here is that it allows to obtain smooth\ndependence on parameters for the periodic solutions and their slow stable\nmanifolds without studying the smoothness of the flow (which seems to be\nproblematic for SDDEs, for now the optimal result on smoothness of the flow is\n$C^1$).",
+          "arxiv_id": "2005.06084v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "On the Stieltjes constants and gamma functions with respect to alternating Hurwitz zeta functions",
+          "year": "2021-06",
+          "abstract": "Dating back to Euler, in classical analysis and number theory, the Hurwitz\nzeta function $$ \\zeta(z,q)=\\sum_{n=0}^{\\infty}\\frac{1}{(n+q)^{z}}, $$ the\nRiemann zeta function $\\zeta(z)$, the generalized Stieltjes constants\n$\\gamma_k(q)$, the Euler constant $\\gamma$, Euler's gamma function $\\Gamma(q)$\nand the digamma function $\\psi(q)$ have many close connections on their\ndefinitions and properties. There are also many integrals, series or infinite\nproduct representations of them along the history.\n  In this note, we try to provide a parallel story for the alternating Hurwitz\nzeta function (also known as the Hurwitz-type Euler zeta function)\n$$\\zeta_{E}(z,q)=\\sum_{n=0}^\\infty\\frac{(-1)^{n}}{(n+q)^{z}},$$ the alternating\nzeta function $\\zeta_{E}(z)$ (also known as the Dirichlet's eta function\n$\\eta(z)$), the modified Stieltjes constants $\\tilde\\gamma_k(q)$, the modified\nEuler constant $\\tilde\\gamma_{0}$, the modified gamma function\n$\\tilde\\Gamma(q)$ and the modified digamma function $\\tilde\\psi(q)$ (also known\nas the Nielsen's $\\beta$ function). Many new integrals, series or infinite\nproduct representations of these constants and special functions have been\nfound. By the way, we also get two new series expansions of $\\pi:$\n\\begin{equation*} \\frac{\\pi^2}{12}=\\frac34-\\sum_{k=1}^\\infty(\\zeta_E(2k+2)-1)\n\\end{equation*} and \\begin{equation*} \\frac{\\pi}{2}=\n\\log2+2\\sum_{k=1}^\\infty\\frac{(-1)^k}{k!}\\tilde\\gamma_k(1)\\sum_{j=0}^kS(k,j)j!.\n\\end{equation*}",
+          "arxiv_id": "2106.14674v4"
+        },
+        {
+          "title": "Two General Series Identities Involving Modified Bessel Functions and a Class of Arithmetical Functions",
+          "year": "2022-04",
+          "abstract": "We consider two sequences $a(n)$ and $b(n)$, $1\\leq n<\\infty$, generated by\nDirichlet series\n  $$\\sum_{n=1}^{\\infty}\\frac{a(n)}{\\lambda_n^{s}}\\qquad\\text{and}\\qquad\n  \\sum_{n=1}^{\\infty}\\frac{b(n)}{\\mu_n^{s}},$$ satisfying a familiar functional\nequation involving the gamma function $\\Gamma(s)$. Two general identities are\nestablished. The first involves the modified Bessel function $K_{\\mu}(z)$, and\ncan be thought of as a 'modular' or 'theta' relation wherein modified Bessel\nfunctions, instead of exponential functions, appear. Appearing in the second\nidentity are $K_{\\mu}(z)$, the Bessel functions of imaginary argument\n$I_{\\mu}(z)$, and ordinary hypergeometric functions ${_2F_1}(a,b;c;z)$.\nAlthough certain special cases appear in the literature, the general identities\nare new. The arithmetical functions appearing in the identities include\nRamanujan's arithmetical function $\\tau(n)$; the number of representations of\n$n$ as a sum of $k$ squares $r_k(n)$; and primitive Dirichlet characters\n$\\chi(n)$.",
+          "arxiv_id": "2204.09887v1"
+        },
+        {
+          "title": "On digamma series convertible into hypergeometric series",
+          "year": "2023-04",
+          "abstract": "Series containing the digamma function arise when calculating the parametric\nderivatives of the hypergeometric functions and play a role in evaluation of\nFeynman diagrams. As these series are typically non-hypergeometric, a few\ninstances when they are summable in terms of hypergeometric functions are of\nimportance. In this paper, we convert multi-term identities for the generalized\nhypergeometric functions evaluated at unity into identities connecting them to\nthe digamma series via the appropriate limiting process. The resulting formulas\ncan be viewed as hypergeometric expressions for the $1$-norm of the gradient of\nthe generalized hypergeometric function with respect to all its parameters and\nseem to have no direct analogues in the literature.",
+          "arxiv_id": "2304.04102v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "On the distance sets spanned by sets of dimension $d/2$ in $\\mathbb{R}^d$",
+          "year": "2021-12",
+          "abstract": "We establish the dimension version of Falconer's distance set conjecture for\nsets of equal Hausdorff and packing dimension (in particular, for\nAhlfors-regular sets) in all ambient dimensions. In dimensions $d=2$ or $3$, we\nobtain the first explicit estimates for the dimensions of distance sets of\ngeneral Borel sets of dimension $d/2$; for example, we show that the set of\ndistances spanned by a planar Borel set of Hausdorff dimension $1$ has\nHausdorff dimension at least $(\\sqrt{5}-1)/2\\approx 0.618$. In higher\ndimensions we obtain explicit estimates for the lower Minkowski dimension of\nthe distance sets of sets of dimension $d/2$. These results rely on new\nestimates for the dimensions of radial projections that may have independent\ninterest.",
+          "arxiv_id": "2112.09044v3"
+        },
+        {
+          "title": "Integrability of orthogonal projections, and applications to Furstenberg sets",
+          "year": "2021-07",
+          "abstract": "Let $\\mathcal{G}(d,n)$ be the Grassmannian manifold of $n$-dimensional\nsubspaces of $\\mathbb{R}^{d}$, and let $\\pi_{V} \\colon \\mathbb{R}^{d} \\to V$ be\nthe orthogonal projection. We prove that if $\\mu$ is a compactly supported\nRadon measure on $\\mathbb{R}^{d}$ satisfying the $s$-dimensional Frostman\ncondition $\\mu(B(x,r)) \\leq Cr^{s}$ for all $x \\in \\mathbb{R}^{d}$ and $r > 0$,\nthen $$\\int_{\\mathcal{G}(d,n)} \\|\\pi_{V}\\mu\\|_{L^{p}(V)}^{p} \\,\nd\\gamma_{d,n}(V) < \\infty, \\qquad 1 \\leq p < \\frac{2d - n - s}{d - s}.$$ The\nupper bound for $p$ is sharp, at least, for $d - 1 \\leq s \\leq d$, and every $0\n< n < d$.\n  Our motivation for this question comes from finding improved lower bounds on\nthe Hausdorff dimension of $(s,t)$-Furstenberg sets. For $0 \\leq s \\leq 1$ and\n$0 \\leq t \\leq 2$, a set $K \\subset \\mathbb{R}^{2}$ is called an\n$(s,t)$-Furstenberg set if there exists a $t$-dimensional family $\\mathcal{L}$\nof affine lines in $\\mathbb{R}^{2}$ such that $\\dim_{\\mathrm{H}} (K \\cap \\ell)\n\\geq s$ for all $\\ell \\in \\mathcal{L}$. As a consequence of our projection\ntheorem in $\\mathbb{R}^{2}$, we show that every $(s,t)$-Furstenberg set $K\n\\subset \\mathbb{R}^{2}$ with $1 < t \\leq 2$ satisfies $$\\dim_{\\mathrm{H}} K\n\\geq 2s + (1 - s)(t - 1).$$ This improves on previous bounds for pairs $(s,t)$\nwith $s > \\tfrac{1}{2}$ and $t \\geq 1 + \\epsilon$ for a small absolute constant\n$\\epsilon > 0$. We also prove a higher dimensional analogue of this estimate\nfor codimension-1 Furstenberg sets in $\\mathbb{R}^{d}$. As another corollary of\nour method, we obtain a $\\delta$-discretised sum-product estimate for\n$(\\delta,s)$-sets. Our bound improves on a previous estimate of Chen for every\n$\\tfrac{1}{2} < s < 1$, and also of Guth-Katz-Zahl for $s \\geq 0.5151$.",
+          "arxiv_id": "2107.04471v3"
+        },
+        {
+          "title": "Equivalences between different forms of the Kakeya conjecture and duality of Hausdorff and packing dimensions for additive complements",
+          "year": "2022-03",
+          "abstract": "The Kakeya conjecture is generally formulated as one the following\nstatements: every compact/Borel/arbitrary subset of ${\\mathbb R}^n$ that\ncontains a (unit) line segment in every direction has Hausdorff dimension $n$;\nor, sometimes, that every closed/Borel/arbitrary subset of ${\\mathbb R}^n$ that\ncontains a full line in every direction has Hausdorff dimension $n$. These\nstatements are generally expected to be equivalent. Moreover, the condition\nthat the set contains a line (segment) in every direction is often relaxed by\nrequiring a line (segment) for a \"large\" set of directions only, where large\ncould mean a set of positive $(n-1)$-dimensional Lebesgue measure.\n  Here we prove that all the above forms of the Kakeya conjecture are indeed\nequivalent. In fact, we prove that there exist $d\\le n$ and a compact subset\n$C$ of ${\\mathbb R}^n$ of Hausdorff dimension $d$ that contains a unit line\nsegment in every direction (and also a closed set of dimension $d$ that\ncontains a line in every direction) such that every subset $S$ of ${\\mathbb\nR}^n$ that contains a line segment in every direction of a set of Hausdorff\ndimension $n-1$, must have dimension at least $d$.\n  We also obtain results on the duality of Hausdorff and packing dimensions via\nadditive complements: For any non-empty Borel set $A$ of ${\\mathbb R}^n$ we\nshow that\n  (1) the Hausdorff dimension of $A$ can be obtained as $n-p$, where $p$ is the\ninfimum of the packing dimension of those Borel subsets $B$ of ${\\mathbb R}^n$\nfor which $A+B={\\mathbb R}^n$; and\n  (2) the packing dimension of $A$ can be obtained as $n-h$, where $h$ is the\ninfimum of the Hausdorff dimension of those Borel subsets $B$ of ${\\mathbb\nR}^n$ for which $A+B={\\mathbb R}^n$.",
+          "arxiv_id": "2203.15731v3"
+        }
+      ],
+      "4": [
+        {
+          "title": "Orthogonality of a new family of $q$-Sobolev type polynomials",
+          "year": "2023-12",
+          "abstract": "In this work, we introduce and construct specific $q$-polynomials that are\ndesired from the well-established families of $q$-orthogonal polynomials,\nnamely little $q$-Jacobi polynomials and $q$-Laguerre polynomials,\nrespectively. We examine these newly constructed $q$-polynomials and observe\nthat they possess integral representations of little $q$-Jacobi polynomials and\n$q$-Laguerre polynomials. These polynomials solve a third-order $q$-difference\nequation and display an unconventional four-term recurrence relation. This\nunique recurrence relation makes us categorize them as $q$-Sobolev-type\northogonal polynomials. This motivation leads to defining the general\nSobolev-type orthogonality for $q$-polynomials. Special cases of these\npolynomials are also explored and discussed. Furthermore, we delve into the\nbehavior of these $q$-orthogonal polynomials of Sobolev type as the parameters\napproach $1$. We also examine their zeros and interlacing properties.",
+          "arxiv_id": "2312.04340v1"
+        },
+        {
+          "title": "Combinatorics of generalized orthogonal polynomials of type $R_{II}$",
+          "year": "2024-11",
+          "abstract": "In 1995, Ismail and Masson introduced orthogonal polynomials of types \\( R_I\n\\) and \\( R_{II} \\), which are defined by specific three-term recurrence\nrelations with additional conditions. Recently, Kim and Stanton found a\ncombinatorial interpretation for the moments of orthogonal polynomials of type\n\\( R_I \\) in the spirit of the combinatorial theory of orthogonal polynomials\ndue to Flajolet and Viennot. In this paper, we push this combinatorial model\nfurther to orthogonal polynomials of type \\( R_{II} \\). Moreover, we generalize\northogonal polynomials of type \\( R_{II} \\) by relaxing some of their\nconditions. We then prove a master theorem, which generalizes combinatorial\nmodels for moments of various types of orthogonal polynomials: classical\northogonal polynomials, Laurent biorthogonal polynomials, and orthogonal\npolynomials of types \\( R_I \\) and \\( R_{II} \\).",
+          "arxiv_id": "2411.12345v1"
+        },
+        {
+          "title": "Christoffel Transform and Multiple Orthogonal Polynomials",
+          "year": "2024-07",
+          "abstract": "We identify a connection between the Christoffel transform of orthogonal\npolynomials and multiple orthogonality systems containing a finitely supported\nmeasure. In consequence, the compatibility relations for the nearest neighbour\nrecurrence coefficients provide a new algorithm for the computation of the\nJacobi coefficients of the one-step or multi-step Christoffel transforms. More\ngenerally, we investigate multiple orthogonal polynomials associated with the\nsystem of measures obtained by applying a Christoffel transform to each of the\northogonality measures. We present an algorithm for computing the transformed\nrecurrence coefficients, and determinantal formulas for the transformed\nmultiple orthogonal polynomials of type I and type II. Finally, we show that\nzeros of multiple orthogonal polynomials of an Angelesco or an AT system\ninterlace with the zeros of the polynomial corresponding to the one-step\nChristoffel transform. This allows us to prove a number of interlacing\nproperties satisfied by the multiple orthogonality analogues of classical\northogonal polynomials. For the discrete polynomials, this also produces an\nestimate on the smallest distance between consecutive zeros.",
+          "arxiv_id": "2407.13946v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "On Formal Series Solutions To 4th-order Quadratic Homogeneous Differential Equations And Their Convergence",
+          "year": "2022-10",
+          "abstract": "It is known that all $\\tau$ functions of the Painlev\\'{e} equations satisfy\nthe fourth-order quadratic differential equation. Among them, for the III, V,\nand VI equations, it is possible to express the formal series solutions\nexplicitly by using combinatorics. In this paper, we show the convergence of\nthe formal series, including the solutions of more general equations. And by\nthe absolute convergence of $\\tau $ series, the convergence of the conformal\nblock function ($c=1$) also follows since it is a partial sum of the $\\tau $\nseries. We also characterized the form of a homogeneous quadratic equation with\na series solution similar to the tau functions of the Painlev\\'{e} equations.\nThe Painlev\\'{e} equations are classified into six types, and it is known that\nthey can be obtained by sequentially degenerating from type VI to type I.",
+          "arxiv_id": "2210.10450v1"
+        },
+        {
+          "title": "Similarity reductions of peakon equations: integrable cubic equations",
+          "year": "2022-05",
+          "abstract": "We consider the scaling similarity solutions of two integrable cubically\nnonlinear partial differential equations (PDEs) that admit peaked soliton\n(peakon) solutions, namely the modified Camassa-Holm (mCH) equation and\nNovikov's equation. By making use of suitable reciprocal transformations, which\nmap the mCH equation and Novikov's equation to a negative mKdV flow and a\nnegative Sawada-Kotera flow, respectively, we show that each of these scaling\nsimilarity reductions is related via a hodograph transformation to an equation\nof Painlev\\'e type: for the mCH equation, its reduction is of second order and\nsecond degree, while for Novikov's equation the reduction is a particular case\nof Painlev\\'e V. Furthermore, we show that each of these two different\nPainlev\\'e-type equations is related to the particular cases of Painlev\\'e III\nthat arise from analogous similarity reductions of the Camassa-Holm and the\nDegasperis-Procesi equation, respectively. For each of the cubically nonlinear\nPDEs considered, we also give explicit parametric forms of their periodic\ntravelling wave solutions in terms of elliptic functions. We present some\nparametric plots of the latter, and, by using explicit algebraic solutions of\nPainlev\\'e III, we do the same for some of the simplest examples of scaling\nsimilarity solutions, together with descriptions of their leading order\nasymptotic behaviour.",
+          "arxiv_id": "2205.14767v1"
+        },
+        {
+          "title": "A study on the bilinear equation of the sixth Painlevé transcendents",
+          "year": "2023-04",
+          "abstract": "The sixth Painlev\\'e equation is a basic equation among the non-linear\ndifferential equations with three fixed singularities, corresponding to Gauss's\nhypergeometric differential equation among the linear differential equations.\nIt is known that 2nd order Fuchsian differential equations with three singular\npoints are reduced to the hypergeometric differential equations. Similarly, for\nnonlinear differential equations, we would like to determine the equation from\nthe local behavior around the three singularities. In this paper, the sixth\nPainlev\\'e equation is derived by imposing the condition that it is of type (H)\nat each three singular points for the homogeneous quadratic 4th-order\ndifferential equation.",
+          "arxiv_id": "2304.13981v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Random periodic sampling patterns for shift-invariant spaces",
+          "year": "2023-05",
+          "abstract": "We consider multi-variate signals spanned by the integer shifts of a set of\ngenerating functions with distinct frequency profiles and the problem of\nreconstructing them from samples taken on a random periodic set. We show that\nsuch a sampling strategy succeeds with high probability provided that the\ndensity of the sampling pattern exceeds the number of frequency profiles by a\nlogarithmic factor.\n  The signal model includes bandlimited functions with multi-band spectra.\nWhile in this well-studied setting delicate constructions provide sampling\nstrategies that meet the information theoretic benchmark of Shannon and Landau,\nthe sampling pattern that we consider provides, at the price of a logarithmic\noversampling factor, a simple alternative that is accompanied by favorable a\npriori stability margins (snug frames). More generally, we also treat\nbandlimited functions with arbitrary compact spectra, and different measures of\nits complexity and approximation rates by integer tiles.\n  At the technical level, we elaborate on recent work on relevant sampling,\nwith the key difference that the reconstruction guarantees that we provide hold\nuniformly for all signals, rather than for a subset of well-concentrated ones.\nThis is achieved by methods of concentration of measure formulated on the Zak\ndomain.",
+          "arxiv_id": "2305.15261v3"
+        },
+        {
+          "title": "Phaseless sampling on square-root lattices",
+          "year": "2022-09",
+          "abstract": "Due to its appearance in a remarkably wide field of applications, such as\naudio processing and coherent diffraction imaging, the short-time Fourier\ntransform (STFT) phase retrieval problem has seen a great deal of attention in\nrecent years. A central problem in STFT phase retrieval concerns the question\nfor which window functions $g \\in L^2(\\mathbb{R}^d)$ and which sampling sets\n$\\Lambda \\subseteq \\mathbb{R}^{2d}$ is every $f \\in L^2(\\mathbb{R}^d)$ uniquely\ndetermined (up to a global phase factor) by phaseless samples of the form $$\n|V_gf(\\Lambda)| = \\left \\{ |V_gf(\\lambda)| : \\lambda \\in \\Lambda \\right \\}, $$\nwhere $V_gf$ denotes the short-time Fourier transform (STFT) of $f$ with\nrespect to $g$. The investigation of this question constitutes a key step\ntowards making the problem computationally tractable. However, it deviates from\nordinary sampling tasks in a fundamental and subtle manner: recent results\ndemonstrate that uniqueness is unachievable if $\\Lambda$ is a lattice, i.e\n$\\Lambda = A\\mathbb{Z}^{2d}, A \\in \\mathrm{GL}(2d,\\mathbb{R})$. Driven by this\ndiscretization barrier, the present article centers around the initiation of a\nnovel sampling scheme which allows for unique recovery of any square-integrable\nfunction via phaseless STFT-sampling. Specifically, we show that square-root\nlattices, i.e., sets of the form $$ \\Lambda = A \\left ( \\sqrt{\\mathbb{Z}}\n\\right )^{2d}, \\ \\sqrt{\\mathbb{Z}} = \\{ \\pm \\sqrt{n} : n \\in \\mathbb{N}_0 \\},\n$$ guarantee uniqueness of the STFT phase retrieval problem. The result holds\nfor a large class of window functions, including Gaussians.",
+          "arxiv_id": "2209.11127v2"
+        },
+        {
+          "title": "Gabor frames for quasi-periodic functions and polyanalytic spaces on the flat cylinder",
+          "year": "2024-12",
+          "abstract": "We develop an alternative approach to the study of Fourier series, based on\nthe Short-Time-Fourier Transform (STFT) acting on $L_{\\nu }^{2}(0,1)$, the\nspace of measurable functions $f$ in ${R}$, square-integrable in $ (0,1)$, and\ntime-periodic up to a phase factor: for fixed $\\nu \\in \\mathbb{R}$,\n\\begin{equation*} f(t+k)=e^{2\\pi ik\\nu }f(t)\\text{, }k\\in \\mathbb{Z}\\text{.}\n\\end{equation*} The resulting phase space is $[0,1)\\times {R}$, a flat model of\nan infinite cylinder, leading to Gabor frames with a rich structure, including\na Janssen-type representation. A Gaussian window leads to a Fock space of\nentire functions, studied in the companion paper by the same authors\n[\\emph{Beurling-type density theorems for sampling and interpolation on the\nflat cylinder}]. When $g$ is a Hermite function, we are lead to true Fock\nspaces of polyanalytic functions (Landau Level eigenspaces) on the vertical\nstrip $[0,1)\\times{R}$. Furthermore, an analogue of the sufficient Wexler-Raz\nconditions is obtained. This leads to a new criteria for Gabor frames in\n$L^{2}({R})$, to sufficient conditions for Gabor frames in $L_{\\nu }^{2}(0,1)$\nwith Hermite windows (an analogue of a theorem of Gr\\\"{o}chenig and Lyubarskii\nabout Gabor frames with Hermite windows) and with totally positive windows. We\nalso consider a vectorial STFT in $L_{\\nu }^{2}(0,1)$ and the (full) Fock\nspaces of polyanalytic functions on $[0,1)\\times {R}$, associated Bargmann-type\ntransforms, and an analogue of Vasilevski's orthogonal decomposition into true\npolyanalytic Fock spaces (Landau level eigenspaces on $[0,1)\\times {R}$). We\nconclude with an analogue of Gr\\\"{o}chenig-Lyubarskii's sufficient condition\nfor Gabor super-frames with Hermite functions, equivalent to a sufficient\nsampling condition on the full Fock space of polyanalytic functions on\n$[0,1)\\times \\mathbb{R}$.",
+          "arxiv_id": "2412.20567v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Estimates for approximately Jensen convex functions",
+          "year": "2024-12",
+          "abstract": "In this paper functions $f:D\\to\\mathbb{R}$ satisfying the inequality \\[\n  f\\Big(\\frac{x+y}{2}\\Big)\\leq\\frac12f(x)+\\frac12f(y)\n  +\\varphi\\Big(\\frac{x-y}{2}\\Big) \\qquad(x,y\\in D) \\] are studied, where $D$ is\na nonempty convex subset of a real linear space $X$ and $\\varphi:\\{\\frac12(x-y)\n: x,y \\in D\\}\\to\\mathbb{R}$ is a so-called error function. In this situation\n$f$ is said to be $\\varphi$-Jensen convex. The main results show that for all\n$\\varphi$-Jensen convex function $f:D\\to\\mathbb{R}$, for all rational\n$\\lambda\\in[0,1]$ and $x,y\\in D$, the following inequality holds \\[\n  f(\\lambda x+(1-\\lambda)y)\n  \\leq \\lambda f(x)+(1-\\lambda)f(y)+\\sum_{k=0}^\\infty\n  \\frac{1}{2^k}\\varphi\\big(\\mbox{dist}(2^k\\lambda,\\mathbb{Z})\\cdot(x-y)\\big).\n\\] The infinite series on the right hand side is always convergent, moreover,\nfor all rational $\\lambda\\in[0,1]$, it can be evaluated as a finite sum.",
+          "arxiv_id": "2412.05645v1"
+        },
+        {
+          "title": "Inner and outer smooth approximation of convex hypersurfaces. When is it possible?",
+          "year": "2022-04",
+          "abstract": "Let $S$ be a convex hypersurface (the boundary of a closed convex set $V$\nwith nonempty interior) in $\\mathbb{R}^n$. We prove that $S$ contains no lines\nif and only if for every open set $U\\supset S$ there exists a real-analytic\nconvex hypersurface $S_{U} \\subset U\\cap \\textrm{int}(V) $. We also show that\n$S$ contains no rays if and only if for every open set $U\\supset S$ there\nexists a real-analytic convex hypersurface $S_{U}\\subset U\\setminus V$.\nMoreover, in both cases, $S_U$ can be taken strongly convex. We also establish\nsimilar results for convex functions defined on open convex subsets of\n$\\mathbb{R}^n$, completely characterizing the class of convex functions that\ncan be approximated in the $C^0$-fine topology by smooth convex functions from\nabove or from below. We also provide similar results for $C^1$-fine\napproximations",
+          "arxiv_id": "2204.07498v1"
+        },
+        {
+          "title": "A tight Hermite-Hadamard's inequality and a generic method for comparison between residuals of inequalities with convex functions",
+          "year": "2020-04",
+          "abstract": "We present a tight parametrical Hermite-Hadamard type inequality with\nprobability measure, which yields a considerably closer upper bound for the\nmean value of convex function than the classical one. Our inequality becomes\nequality not only with affine functions, but also with a family of V-shaped\ncurves determined by the parameter. The residual (error) of this inequality is\nstrictly smaller than in the classical Hermite-Hadamard inequality under any\nprobability measure and with all non-affine convex functions. In the framework\nof Karamata's theorem on the inequalities with convex functions, we propose a\nmethod of measuring a global performance of inequalities in terms of average\nresiduals over functions of the type $x\\mapsto |x-u|$. Using average residuals\nenables comparing two or more inequalities as themselves, with same or\ndifferent measures and without referring to a particular function. Our method\nis applicable to all Karamata's type inequalities, with integrals or sums. A\nnumerical experiment with three different measures indicates that the average\nresidual in our inequality is about 4 times smaller than in classical right\nHermite-Hadamard, and also is smaller than in Jensen's inequality, with all\nthree measures.",
+          "arxiv_id": "2004.07567v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "The Assouad dimension of self-affine measures on sponges",
+          "year": "2022-03",
+          "abstract": "We derive upper and lower bounds for the Assouad and lower dimensions of\nself-affine measures in $\\mathbb{R}^d$ generated by diagonal matrices and\nsatisfying suitable separation conditions. The upper and lower bounds always\ncoincide for $d=2,3$ yielding precise explicit formulae for the dimensions.\nMoreover, there are easy to check conditions guaranteeing that the bounds\ncoincide for $d \\geq 4$.\n  An interesting consequence of our results is that there can be a `dimension\ngap' for such self-affine constructions, even in the plane. That is, we show\nthat for some self-affine carpets of `Bara\\'nski type' the Assouad dimension of\nall associated self-affine measures strictly exceeds the Assouad dimension of\nthe carpet by some fixed $\\delta>0$ depending only on the carpet. We also\nprovide examples of self-affine carpets of `Bara\\'nski type' where there is no\ndimension gap and in fact the Assouad dimension of the carpet is equal to the\nAssouad dimension of a carefully chosen self-affine measure.",
+          "arxiv_id": "2203.11247v2"
+        },
+        {
+          "title": "Fourier decay of self-similar measures and self-similar sets of uniqueness",
+          "year": "2020-04",
+          "abstract": "In this paper, we investigate the Fourier transform of self-similar measures\non R. We provide quantitative decay rates of Fourier transform of some\nself-similar measures. Our method is based on random walks on lattices and\nDiophantine approximation in number fields. We also completely identify all\nself-similar sets which are sets of uniqueness. This generalizes a classical\nresult of Salem and Zygmund.",
+          "arxiv_id": "2004.09358v2"
+        },
+        {
+          "title": "Self-similar sets and self-similar measures in the $p$-adics",
+          "year": "2023-07",
+          "abstract": "In this paper we investigate $p$-adic self-similar sets and $p$-adic\nself-similar measures. We show that $p$-adic self-similar sets are $p$-adic\npath set fractals, and that the converse is not necessarily true. For $p$-adic\nself-similar sets and $p$-adic self-similar measures, we show the existence of\na unique essential class. We show that, under mild assumptions, the decimation\nof $p$-adic self-similar sets is maximal. For $p$-adic self-similar measures,\nwe show that many results involving local dimension are similar to those of\ntheir real counterparts, with fewer complications. Most of these results use\nthe additional structure of self-similarity, and are not true in general for\n$p$-adic path set fractals.",
+          "arxiv_id": "2307.07375v2"
+        }
+      ],
+      "9": [
+        {
+          "title": "Nikodym sets and maximal functions associated with spheres",
+          "year": "2022-10",
+          "abstract": "We study spherical analogues of Nikodym sets and related maximal functions.\nIn particular, we prove sharp $L^p$-estimates for Nikodym maximal functions\nassociated with spheres. As a corollary, any Nikodym set for spheres must have\nfull Hausdorff dimension. In addition, we consider a class of maximal functions\nwhich contains the spherical maximal function as a special case. We show that\n$L^p$-estimates for these maximal functions can be deduced from local smoothing\nestimates for the wave equation relative to fractal measures.",
+          "arxiv_id": "2210.08320v2"
+        },
+        {
+          "title": "Bounds for lacunary bilinear spherical and triangle maximal functions",
+          "year": "2023-05",
+          "abstract": "We prove $L^p\\times L^q\\rightarrow L^r$ bounds for certain lacunary bilinear\nmaximal averaging operators with parameters satisfying the H\\\"older relation\n$1/p+1/q=1/r$. The boundedness region that we get contains at least the\ninterior of the H\\\"older boundedness region of the associated single scale\nbilinear averaging operator. In the case of the lacunary bilinear spherical\nmaximal function in $d\\geq 2$, we prove boundedness for any $p,q\\in\n(1,\\infty]^2$, which is sharp up to boundary; we then show how to extend this\nresult to a more degenerate family of surfaces where some curvatures are\nallowed to vanish. For the lacunary triangle averaging maximal operator, we\nhave results in $d\\geq 7$, and the description of the sharp region will depend\non a sharp description of the H\\\"older bounds for the single scale triangle\naveraging operator, which is still open.",
+          "arxiv_id": "2305.12269v2"
+        },
+        {
+          "title": "Sharp endpoint $L^p-$estimates for Bilinear spherical maximal functions",
+          "year": "2023-09",
+          "abstract": "In this article, we address endpoint issues for the bilinear spherical\nmaximal functions. We obtain borderline restricted weak type estimates for the\nwell studied bilinear spherical maximal function\n$$\\mathfrak{M}(f,g)(x):=\\sup_{t>0}\\left|\\int_{\\mathbb\nS^{2d-1}}f(x-ty_1)g(x-ty_2)\\;d\\sigma(y_1,y_2)\\right|,$$ in dimensions $d=1,2$\nand as an application, we deduce sharp endpoint estimates for the multilinear\nspherical maximal function. We also prove $L^p-$estimates for the local\nspherical maximal function in all dimensions $d\\geq 2$, thus improving the\nboundedness left open in the work of Jeong and Lee\n(https://doi.org/10.1016/j.jfa.2020.108629). We further study necessary\nconditions for the bilinear maximal function, \\[\\mathcal M\n(f,g)(x)=\\sup_{t>0}\\left|\\int_{\\mathbb\nS^{1}}f(x-ty)g(x+ty)\\;d\\sigma(y)\\right|\\] to be bounded from $L^{p_1}(\\mathbb\nR^2)\\times L^{p_2}(\\mathbb R^2)$ to $L^p(\\mathbb R^2)$ and prove sharp results\nfor a linearized version of $\\mathcal M$.",
+          "arxiv_id": "2310.00425v3"
+        }
+      ],
+      "10": [
+        {
+          "title": "Local smoothing estimates of fractional Schrödinger equations in $α$-modulation spaces with some applications",
+          "year": "2022-08",
+          "abstract": "We show some new local smoothing estimates of the fractional Schr\\\"odinger\nequations with initial data in $\\alpha$-modulation spaces via decoupling\ninequalities. Furthermore, our necessary conditions show that the local\nsmoothing estimates are sharp in some cases. As applications, the local\nsmoothing estimates could show some new local well-posedness on modulation\nspaces of the fourth-order nonlinear Schr\\\"odinger equations on the line.",
+          "arxiv_id": "2208.06596v1"
+        },
+        {
+          "title": "The space-time estimates for the Schrödinger equation",
+          "year": "2024-02",
+          "abstract": "In this paper, we studied the space-time estimates for the solution to the\nSchr\\\"odinger equation. By polynomial partitioning, induction arguments,\nbilinear to linear arguments and broad norm estimates, we set up several\nmaximal estimates for the Schr\\\"odinger equation with high-frequency input\ndata. By these maximal estimates, we obtain the sharp global space-time\nestimate when $n=2$ and improve the known results in the critical cases when\n$n\\geq 3$. The maximal estimate for $n=2$ is also used to extend the results of\nthe local space-time estimates for the solution to the Schr\\\"odinger equation.",
+          "arxiv_id": "2402.13539v1"
+        },
+        {
+          "title": "Quasimode and Strichartz estimates for time-dependent Schrödinger equations with singular potentials",
+          "year": "2020-11",
+          "abstract": "We generalize the Strichartz estimates for Schr\\\"odinger operators on compact\nmanifolds of Burq, G\\'erard and Tzvetkov [10] by allowing critically singular\npotentials $V$. Specifically, we show that their $1/p$--loss\n$L^p_tL^q_x(I\\times M)$-Strichartz estimates hold for $e^{-itH_V}$ when\n$H_V=-\\Delta_g+V(x)$ with $V\\in L^{n/2}(M)$ if $n\\ge3$ or $V\\in\nL^{1+\\delta}(M)$, $\\delta>0$, if $n=2$, with $(p,q)$ being as in the Keel-Tao\ntheorem and $I\\subset {\\mathbb R}$ a bounded interval. We do this by\nformulating and proving new \"quasimode\" estimates for scaled dyadic unperturbed\nSchr\\\"odinger operators and taking advantage of the the fact that\n$1/q'-1/q=2/n$ for the endpoint Strichartz estimates when $(p,q)=(2,2n/(n-2))$.\nWe also show that the universal quasimode estimates that we obtain are\nsaturated on {\\em any} compact manifolds; however, we suggest that they may\nlend themselves to improved Strichartz estimates in certain geometries using\nrecently developed \"Kakeya-Nikodym\" techniques developed to obtain improved\neigenfunction estimates assuming, say, negative curvatures.",
+          "arxiv_id": "2011.04007v2"
+        }
+      ],
+      "11": [
+        {
+          "title": "A new theory of fractional differential calculus",
+          "year": "2020-07",
+          "abstract": "This paper presents a self-contained new theory of weak fractional\ndifferential calculus in one-dimension. The crux of this new theory is the\nintroduction of a weak fractional derivative notion which is a natural\ngeneralization of integer order weak derivatives; it also helps to unify\nmultiple existing fractional derivative definitions and characterize what\nfunctions are fractionally differentiable. Various calculus rules including a\nfundamental theorem calculus, product and chain rules, and integration by parts\nformulas are established for weak fractional derivatives. Additionally,\nrelationships with classical fractional derivatives and detailed\ncharacterizations of weakly fractional differentiable functions are also\nestablished. Furthermore, the notion of weak fractional derivatives is also\nsystematically extended to general distributions instead of only to some\nspecial distributions. This new theory lays down a solid theoretical foundation\nfor systematically and rigorously developing new theories of fractional Sobolev\nspaces, fractional calculus of variations, and fractional PDEs as well as their\nnumerical solutions in subsequent works. This paper is a concise presentation\nof the materials of Sections 1-4 and 6 of reference [9].",
+          "arxiv_id": "2007.10244v1"
+        },
+        {
+          "title": "Fractional derivatives and the fundamental theorem of Fractional Calculus",
+          "year": "2020-06",
+          "abstract": "In this paper, we address the one-parameter families of the fractional\nintegrals and derivatives defined on a finite interval. First we remind the\nreader of the known fact that under some reasonable conditions, there exists\nprecisely one unique family of the fractional integrals, namely, the well-known\nRiemann-Liouville fractional integrals. As to the fractional derivatives, their\nnatural definition follows from the fundamental theorem of the Fractional\nCalculus, i.e., they are introduced as the left-inverse operators to the\nRiemann-Liouville fractional integrals. Until now, three families of such\nderivatives were suggested in the literature: the Riemann-Liouville fractional\nderivatives, the Caputo fractional derivatives, and the Hilfer fractional\nderivatives. We clarify the interconnections between these derivatives on\ndifferent spaces of functions and provide some of their properties including\nthe formulas for their projectors and the Laplace transforms. However, it turns\nout that there exist infinitely many other families of the fractional\nderivatives that are the left-inverse operators to the Riemann-Liouville\nfractional integrals. In this paper, we focus on an important class of these\nfractional derivatives and discuss some of their properties.",
+          "arxiv_id": "2006.14383v4"
+        },
+        {
+          "title": "On a New Class of Fractional Calculus of Variations and Related Fractional Differential Equations",
+          "year": "2021-07",
+          "abstract": "This paper is concerned with analyzing a class of fractional calculus of\nvariations problems and their associated Euler-Lagrange (fractional\ndifferential) equations. Unlike the existing fractional calculus of variations\nwhich is based on the classical notion of fractional derivatives, the\nfractional calculus of variations considered in this paper is based on a newly\ndeveloped notion of weak fractional derivatives and their associated fractional\norder Sobolev spaces. Since fractional derivatives are direction-dependent,\nusing one-sided fractional derivatives and their combinations leads to new\ntypes of calculus of variations and fractional differential equations as well\nas nonstandard Neumann boundary operators. The primary objective of this paper\nis to establish the well-posedness and regularities for a class of fractional\ncalculus of variations problems and their Euler-Lagrange (fractional\ndifferential) equations. This is achieved first for one-sided Dirichlet energy\nfunctionals which lead to one-sided fractional Laplace equations, then for more\ngeneral energy functionals which give rise to more general fractional\ndifferential equations.",
+          "arxiv_id": "2107.04134v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:52:24Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

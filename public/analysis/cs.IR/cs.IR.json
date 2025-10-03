@@ -1,0 +1,1472 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_user_recommendation_item_model",
+        "keywords": [
+          [
+            "user",
+            0.02629071035500023
+          ],
+          [
+            "recommendation",
+            0.02572048507951805
+          ],
+          [
+            "item",
+            0.017342971155775155
+          ],
+          [
+            "model",
+            0.01628452552260854
+          ],
+          [
+            "users",
+            0.015922139466998553
+          ],
+          [
+            "systems",
+            0.015427673836934434
+          ],
+          [
+            "items",
+            0.014538744866797647
+          ],
+          [
+            "recommender",
+            0.014192960299535144
+          ],
+          [
+            "data",
+            0.012984589194780707
+          ],
+          [
+            "models",
+            0.012957606365903984
+          ]
+        ],
+        "count": 5991
+      },
+      "1": {
+        "name": "1_retrieval_models_information_data",
+        "keywords": [
+          [
+            "retrieval",
+            0.019810684470209408
+          ],
+          [
+            "models",
+            0.015623337791498814
+          ],
+          [
+            "information",
+            0.013555964686861715
+          ],
+          [
+            "data",
+            0.013412706734285585
+          ],
+          [
+            "knowledge",
+            0.012661325303461967
+          ],
+          [
+            "LLMs",
+            0.011889602318943445
+          ],
+          [
+            "model",
+            0.011765418458642755
+          ],
+          [
+            "language",
+            0.011691889256105124
+          ],
+          [
+            "query",
+            0.011115969325215868
+          ],
+          [
+            "search",
+            0.010219854343602916
+          ]
+        ],
+        "count": 5016
+      },
+      "2": {
+        "name": "2_news_topic_media_social",
+        "keywords": [
+          [
+            "news",
+            0.021200522412833895
+          ],
+          [
+            "topic",
+            0.020167168252652575
+          ],
+          [
+            "media",
+            0.017813991263970135
+          ],
+          [
+            "social",
+            0.01777193328800233
+          ],
+          [
+            "topics",
+            0.015390149160181391
+          ],
+          [
+            "data",
+            0.014742911882861823
+          ],
+          [
+            "social media",
+            0.014352964915001359
+          ],
+          [
+            "sentiment",
+            0.013860607828601481
+          ],
+          [
+            "analysis",
+            0.013751460361817479
+          ],
+          [
+            "detection",
+            0.013091024160775627
+          ]
+        ],
+        "count": 855
+      },
+      "3": {
+        "name": "3_image_retrieval_video_modal",
+        "keywords": [
+          [
+            "image",
+            0.03262586387116736
+          ],
+          [
+            "retrieval",
+            0.02887854221781639
+          ],
+          [
+            "video",
+            0.023036636381225155
+          ],
+          [
+            "modal",
+            0.021512706429875513
+          ],
+          [
+            "text",
+            0.019919690051559587
+          ],
+          [
+            "images",
+            0.016560112255732052
+          ],
+          [
+            "visual",
+            0.01423696341438268
+          ],
+          [
+            "Retrieval",
+            0.013858359429160342
+          ],
+          [
+            "methods",
+            0.012770855637676989
+          ],
+          [
+            "learning",
+            0.012187289482430922
+          ]
+        ],
+        "count": 612
+      },
+      "4": {
+        "name": "4_music_audio_Music_musical",
+        "keywords": [
+          [
+            "music",
+            0.07107483987845119
+          ],
+          [
+            "audio",
+            0.04004545754335066
+          ],
+          [
+            "Music",
+            0.028369109432651217
+          ],
+          [
+            "musical",
+            0.016466384326615926
+          ],
+          [
+            "dataset",
+            0.013687427929595713
+          ],
+          [
+            "song",
+            0.01328009932205992
+          ],
+          [
+            "model",
+            0.01309224066834483
+          ],
+          [
+            "songs",
+            0.012147687751961787
+          ],
+          [
+            "data",
+            0.0118315003175867
+          ],
+          [
+            "models",
+            0.011673991268506554
+          ]
+        ],
+        "count": 410
+      },
+      "5": {
+        "name": "5_data_time_series_time series",
+        "keywords": [
+          [
+            "data",
+            0.028317287446940644
+          ],
+          [
+            "time",
+            0.019910879985954522
+          ],
+          [
+            "series",
+            0.016537061450711522
+          ],
+          [
+            "time series",
+            0.016489705100797124
+          ],
+          [
+            "quantum",
+            0.016348180470947587
+          ],
+          [
+            "privacy",
+            0.014878690259918517
+          ],
+          [
+            "information",
+            0.013578568259924269
+          ],
+          [
+            "PIR",
+            0.012642871343610937
+          ],
+          [
+            "problem",
+            0.01210042794117729
+          ],
+          [
+            "model",
+            0.010593639625999277
+          ]
+        ],
+        "count": 301
+      },
+      "6": {
+        "name": "6_search_data_index_query",
+        "keywords": [
+          [
+            "search",
+            0.03696685939435376
+          ],
+          [
+            "data",
+            0.025787852892480898
+          ],
+          [
+            "index",
+            0.022066267452867074
+          ],
+          [
+            "query",
+            0.020835278674126455
+          ],
+          [
+            "graph",
+            0.019117870872370803
+          ],
+          [
+            "vector",
+            0.018670545284450574
+          ],
+          [
+            "ANNS",
+            0.018008047179798755
+          ],
+          [
+            "Search",
+            0.017239339262699573
+          ],
+          [
+            "nearest",
+            0.01582649210024455
+          ],
+          [
+            "memory",
+            0.01538469519409733
+          ]
+        ],
+        "count": 219
+      },
+      "7": {
+        "name": "7_graph_node_networks_graphs",
+        "keywords": [
+          [
+            "graph",
+            0.05084473263954691
+          ],
+          [
+            "node",
+            0.03039580567207782
+          ],
+          [
+            "networks",
+            0.02912862184489156
+          ],
+          [
+            "graphs",
+            0.027107890099878417
+          ],
+          [
+            "Graph",
+            0.023678223826348686
+          ],
+          [
+            "network",
+            0.02239072069960943
+          ],
+          [
+            "nodes",
+            0.02118101417520965
+          ],
+          [
+            "learning",
+            0.013916585031052073
+          ],
+          [
+            "temporal",
+            0.013746744381483086
+          ],
+          [
+            "edges",
+            0.01352609757250953
+          ]
+        ],
+        "count": 157
+      },
+      "8": {
+        "name": "8_legal_case_Legal_retrieval",
+        "keywords": [
+          [
+            "legal",
+            0.11730016590363251
+          ],
+          [
+            "case",
+            0.052966515084872906
+          ],
+          [
+            "Legal",
+            0.03986133678261264
+          ],
+          [
+            "retrieval",
+            0.03052723080616693
+          ],
+          [
+            "legal case",
+            0.028172564925821486
+          ],
+          [
+            "law",
+            0.025638028133793307
+          ],
+          [
+            "cases",
+            0.021892787064977822
+          ],
+          [
+            "case retrieval",
+            0.020786139408812784
+          ],
+          [
+            "documents",
+            0.01742373353747146
+          ],
+          [
+            "models",
+            0.017045335335771315
+          ]
+        ],
+        "count": 146
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6777022264374966,
+        -0.7223712954731834,
+        -0.7307476666985622,
+        -0.7400647352239897,
+        -0.6821183271969162,
+        -0.7095994359082013,
+        -0.5725522933457008,
+        -0.7344814775168738
+      ],
+      [
+        -0.6777022264374966,
+        1.0,
+        -0.724811285313238,
+        -0.576944832553036,
+        -0.7508303832986376,
+        -0.7109250051082106,
+        -0.7080747920107421,
+        -0.708366144442952,
+        -0.6837938167356601
+      ],
+      [
+        -0.7223712954731834,
+        -0.724811285313238,
+        1.0,
+        -0.7352952783541038,
+        -0.7568818269097508,
+        -0.7088087870176745,
+        -0.7220246440372164,
+        -0.730710654097249,
+        -0.7345696959147006
+      ],
+      [
+        -0.7307476666985622,
+        -0.576944832553036,
+        -0.7352952783541038,
+        1.0,
+        -0.7391753071509397,
+        -0.7255458676628972,
+        -0.7081433107962702,
+        -0.7302560189583189,
+        -0.6571537011735191
+      ],
+      [
+        -0.7400647352239897,
+        -0.7508303832986376,
+        -0.7568818269097508,
+        -0.7391753071509397,
+        1.0,
+        -0.7492237488530152,
+        -0.7515418327557333,
+        -0.7537196881937924,
+        -0.7545566820640002
+      ],
+      [
+        -0.6821183271969162,
+        -0.7109250051082106,
+        -0.7088087870176745,
+        -0.7255458676628972,
+        -0.7492237488530152,
+        1.0,
+        -0.3205755309657018,
+        -0.6926475788809214,
+        -0.7304423351963154
+      ],
+      [
+        -0.7095994359082013,
+        -0.7080747920107421,
+        -0.7220246440372164,
+        -0.7081433107962702,
+        -0.7515418327557333,
+        -0.3205755309657018,
+        1.0,
+        -0.6827213724568846,
+        -0.7309894712100897
+      ],
+      [
+        -0.5725522933457008,
+        -0.708366144442952,
+        -0.730710654097249,
+        -0.7302560189583189,
+        -0.7537196881937924,
+        -0.6926475788809214,
+        -0.6827213724568846,
+        1.0,
+        -0.7399160529280746
+      ],
+      [
+        -0.7344814775168738,
+        -0.6837938167356601,
+        -0.7345696959147006,
+        -0.6571537011735191,
+        -0.7545566820640002,
+        -0.7304423351963154,
+        -0.7309894712100897,
+        -0.7399160529280746,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        73,
+        6,
+        12,
+        11,
+        3,
+        10,
+        3,
+        18,
+        5
+      ],
+      "2020-02": [
+        57,
+        6,
+        8,
+        10,
+        2,
+        9,
+        3,
+        10,
+        6
+      ],
+      "2020-03": [
+        48,
+        1,
+        14,
+        9,
+        5,
+        7,
+        0,
+        17,
+        7
+      ],
+      "2020-04": [
+        92,
+        15,
+        38,
+        13,
+        3,
+        14,
+        2,
+        11,
+        4
+      ],
+      "2020-05": [
+        104,
+        8,
+        32,
+        20,
+        2,
+        19,
+        8,
+        22,
+        10
+      ],
+      "2020-06": [
+        103,
+        5,
+        23,
+        6,
+        7,
+        10,
+        4,
+        9,
+        6
+      ],
+      "2020-07": [
+        91,
+        5,
+        29,
+        15,
+        14,
+        18,
+        7,
+        16,
+        8
+      ],
+      "2020-08": [
+        71,
+        9,
+        31,
+        9,
+        13,
+        18,
+        9,
+        14,
+        3
+      ],
+      "2020-09": [
+        77,
+        12,
+        19,
+        8,
+        9,
+        13,
+        3,
+        14,
+        6
+      ],
+      "2020-10": [
+        99,
+        7,
+        27,
+        13,
+        10,
+        16,
+        8,
+        20,
+        12
+      ],
+      "2020-11": [
+        73,
+        11,
+        18,
+        11,
+        3,
+        8,
+        3,
+        11,
+        5
+      ],
+      "2020-12": [
+        82,
+        5,
+        17,
+        10,
+        1,
+        9,
+        5,
+        17,
+        6
+      ],
+      "2021-01": [
+        69,
+        7,
+        23,
+        10,
+        6,
+        13,
+        5,
+        13,
+        5
+      ],
+      "2021-02": [
+        91,
+        12,
+        12,
+        6,
+        3,
+        12,
+        9,
+        16,
+        8
+      ],
+      "2021-03": [
+        64,
+        8,
+        12,
+        10,
+        3,
+        10,
+        8,
+        10,
+        1
+      ],
+      "2021-04": [
+        88,
+        13,
+        13,
+        12,
+        3,
+        4,
+        9,
+        17,
+        6
+      ],
+      "2021-05": [
+        106,
+        7,
+        11,
+        7,
+        10,
+        15,
+        12,
+        19,
+        10
+      ],
+      "2021-06": [
+        90,
+        17,
+        20,
+        14,
+        4,
+        18,
+        6,
+        23,
+        5
+      ],
+      "2021-07": [
+        67,
+        6,
+        13,
+        3,
+        7,
+        7,
+        4,
+        13,
+        6
+      ],
+      "2021-08": [
+        87,
+        13,
+        10,
+        15,
+        11,
+        9,
+        7,
+        17,
+        7
+      ],
+      "2021-09": [
+        109,
+        9,
+        16,
+        11,
+        8,
+        15,
+        7,
+        24,
+        6
+      ],
+      "2021-10": [
+        98,
+        5,
+        16,
+        16,
+        5,
+        15,
+        9,
+        17,
+        8
+      ],
+      "2021-11": [
+        80,
+        8,
+        8,
+        7,
+        3,
+        11,
+        5,
+        17,
+        3
+      ],
+      "2021-12": [
+        87,
+        9,
+        13,
+        12,
+        3,
+        23,
+        4,
+        16,
+        8
+      ],
+      "2022-01": [
+        78,
+        9,
+        9,
+        14,
+        3,
+        14,
+        9,
+        18,
+        10
+      ],
+      "2022-02": [
+        83,
+        7,
+        5,
+        10,
+        6,
+        11,
+        3,
+        22,
+        8
+      ],
+      "2022-03": [
+        87,
+        8,
+        9,
+        9,
+        2,
+        9,
+        7,
+        16,
+        2
+      ],
+      "2022-04": [
+        129,
+        14,
+        20,
+        20,
+        7,
+        12,
+        6,
+        24,
+        6
+      ],
+      "2022-05": [
+        116,
+        15,
+        11,
+        15,
+        4,
+        9,
+        8,
+        23,
+        7
+      ],
+      "2022-06": [
+        89,
+        6,
+        8,
+        13,
+        2,
+        7,
+        10,
+        14,
+        6
+      ],
+      "2022-07": [
+        73,
+        8,
+        15,
+        11,
+        6,
+        11,
+        6,
+        15,
+        9
+      ],
+      "2022-08": [
+        103,
+        11,
+        8,
+        12,
+        3,
+        16,
+        7,
+        24,
+        8
+      ],
+      "2022-09": [
+        95,
+        10,
+        11,
+        18,
+        8,
+        7,
+        7,
+        15,
+        8
+      ],
+      "2022-10": [
+        106,
+        16,
+        12,
+        23,
+        10,
+        12,
+        10,
+        25,
+        8
+      ],
+      "2022-11": [
+        83,
+        8,
+        13,
+        13,
+        5,
+        14,
+        6,
+        10,
+        5
+      ],
+      "2022-12": [
+        85,
+        13,
+        9,
+        10,
+        7,
+        12,
+        4,
+        9,
+        3
+      ],
+      "2023-01": [
+        71,
+        9,
+        7,
+        8,
+        6,
+        6,
+        6,
+        11,
+        7
+      ],
+      "2023-02": [
+        100,
+        15,
+        13,
+        13,
+        4,
+        8,
+        6,
+        20,
+        6
+      ],
+      "2023-03": [
+        78,
+        15,
+        7,
+        10,
+        7,
+        5,
+        6,
+        12,
+        5
+      ],
+      "2023-04": [
+        125,
+        21,
+        9,
+        16,
+        3,
+        14,
+        10,
+        31,
+        9
+      ],
+      "2023-05": [
+        167,
+        45,
+        17,
+        16,
+        6,
+        12,
+        16,
+        28,
+        17
+      ],
+      "2023-06": [
+        130,
+        26,
+        10,
+        12,
+        10,
+        19,
+        5,
+        18,
+        6
+      ],
+      "2023-07": [
+        103,
+        27,
+        10,
+        12,
+        5,
+        12,
+        7,
+        25,
+        7
+      ],
+      "2023-08": [
+        162,
+        25,
+        3,
+        17,
+        11,
+        16,
+        11,
+        27,
+        5
+      ],
+      "2023-09": [
+        117,
+        19,
+        12,
+        7,
+        13,
+        13,
+        5,
+        19,
+        5
+      ],
+      "2023-10": [
+        120,
+        34,
+        10,
+        11,
+        6,
+        7,
+        11,
+        25,
+        13
+      ],
+      "2023-11": [
+        90,
+        33,
+        10,
+        15,
+        10,
+        13,
+        7,
+        17,
+        13
+      ],
+      "2023-12": [
+        103,
+        37,
+        8,
+        11,
+        6,
+        16,
+        6,
+        16,
+        8
+      ],
+      "2024-01": [
+        125,
+        39,
+        16,
+        15,
+        8,
+        18,
+        12,
+        21,
+        8
+      ],
+      "2024-02": [
+        154,
+        75,
+        12,
+        28,
+        8,
+        10,
+        8,
+        21,
+        7
+      ],
+      "2024-03": [
+        144,
+        52,
+        12,
+        19,
+        6,
+        16,
+        6,
+        28,
+        13
+      ],
+      "2024-04": [
+        128,
+        54,
+        10,
+        17,
+        7,
+        9,
+        5,
+        19,
+        5
+      ],
+      "2024-05": [
+        148,
+        66,
+        12,
+        23,
+        11,
+        11,
+        10,
+        21,
+        11
+      ],
+      "2024-06": [
+        136,
+        70,
+        15,
+        26,
+        4,
+        11,
+        6,
+        35,
+        10
+      ],
+      "2024-07": [
+        132,
+        40,
+        15,
+        20,
+        8,
+        13,
+        6,
+        21,
+        8
+      ],
+      "2024-08": [
+        141,
+        56,
+        16,
+        22,
+        13,
+        15,
+        12,
+        28,
+        7
+      ],
+      "2024-09": [
+        149,
+        63,
+        12,
+        19,
+        15,
+        7,
+        13,
+        24,
+        13
+      ],
+      "2024-10": [
+        165,
+        79,
+        19,
+        27,
+        10,
+        18,
+        13,
+        24,
+        10
+      ],
+      "2024-11": [
+        114,
+        68,
+        9,
+        12,
+        12,
+        12,
+        12,
+        16,
+        5
+      ],
+      "2024-12": [
+        137,
+        75,
+        9,
+        25,
+        10,
+        9,
+        14,
+        28,
+        13
+      ],
+      "2025-01": [
+        110,
+        69,
+        9,
+        24,
+        9,
+        14,
+        9,
+        26,
+        11
+      ],
+      "2025-02": [
+        154,
+        82,
+        12,
+        33,
+        4,
+        9,
+        10,
+        25,
+        5
+      ],
+      "2025-03": [
+        128,
+        77,
+        6,
+        23,
+        9,
+        14,
+        5,
+        17,
+        3
+      ],
+      "2025-04": [
+        158,
+        98,
+        15,
+        19,
+        8,
+        10,
+        7,
+        25,
+        10
+      ],
+      "2025-05": [
+        191,
+        107,
+        10,
+        35,
+        9,
+        17,
+        12,
+        30,
+        18
+      ],
+      "2025-06": [
+        142,
+        84,
+        3,
+        28,
+        10,
+        10,
+        9,
+        28,
+        15
+      ],
+      "2025-07": [
+        165,
+        76,
+        10,
+        24,
+        15,
+        12,
+        12,
+        28,
+        7
+      ],
+      "2025-08": [
+        221,
+        103,
+        15,
+        29,
+        14,
+        10,
+        16,
+        33,
+        16
+      ],
+      "2025-09": [
+        62,
+        30,
+        7,
+        7,
+        10,
+        3,
+        5,
+        9,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Disentangled Graph Contrastive Learning for Review-based Recommendation",
+          "year": "2022-09",
+          "abstract": "User review data is helpful in alleviating the data sparsity problem in many\nrecommender systems. In review-based recommendation methods, review data is\nconsidered as auxiliary information that can improve the quality of learned\nuser/item or interaction representations for the user rating prediction task.\nHowever, these methods usually model user-item interactions in a holistic\nmanner and neglect the entanglement of the latent factors behind them, e.g.,\nprice, quality, or appearance, resulting in suboptimal representations and\nreducing interpretability. In this paper, we propose a Disentangled Graph\nContrastive Learning framework for Review-based recommendation (DGCLR), to\nseparately model the user-item interactions based on different latent factors\nthrough the textual review data. To this end, we first model the distributions\nof interactions over latent factors from both semantic information in review\ndata and structural information in user-item graph data, forming several factor\ngraphs. Then a factorized message passing mechanism is designed to learn\ndisentangled user/item representations on the factor graphs, which enable us to\nfurther characterize the interactions and adaptively combine the predicted\nratings from multiple factors via a devised attention mechanism. Finally, we\nset two factor-wise contrastive learning objectives to alleviate the sparsity\nissue and model the user/item and interaction features pertinent to each factor\nmore accurately. Empirical results over five benchmark datasets validate the\nsuperiority of DGCLR over the state-of-the-art methods. Further analysis is\noffered to interpret the learned intent factors and rating prediction in DGCLR.",
+          "arxiv_id": "2209.01524v1"
+        },
+        {
+          "title": "Text Is All You Need: Learning Language Representations for Sequential Recommendation",
+          "year": "2023-05",
+          "abstract": "Sequential recommendation aims to model dynamic user behavior from historical\ninteractions. Existing methods rely on either explicit item IDs or general\ntextual features for sequence modeling to understand user preferences. While\npromising, these approaches still struggle to model cold-start items or\ntransfer knowledge to new datasets. In this paper, we propose to model user\npreferences and item features as language representations that can be\ngeneralized to new items and datasets. To this end, we present a novel\nframework, named Recformer, which effectively learns language representations\nfor sequential recommendation. Specifically, we propose to formulate an item as\na \"sentence\" (word sequence) by flattening item key-value attributes described\nby text so that an item sequence for a user becomes a sequence of sentences.\nFor recommendation, Recformer is trained to understand the \"sentence\" sequence\nand retrieve the next \"sentence\". To encode item sequences, we design a\nbi-directional Transformer similar to the model Longformer but with different\nembedding layers for sequential recommendation. For effective representation\nlearning, we propose novel pretraining and finetuning methods which combine\nlanguage understanding and recommendation tasks. Therefore, Recformer can\neffectively recommend the next item based on language representations.\nExtensive experiments conducted on six datasets demonstrate the effectiveness\nof Recformer for sequential recommendation, especially in low-resource and\ncold-start settings.",
+          "arxiv_id": "2305.13731v2"
+        },
+        {
+          "title": "Text Matching Improves Sequential Recommendation by Reducing Popularity Biases",
+          "year": "2023-08",
+          "abstract": "This paper proposes Text mAtching based SequenTial rEcommendation model\n(TASTE), which maps items and users in an embedding space and recommends items\nby matching their text representations. TASTE verbalizes items and user-item\ninteractions using identifiers and attributes of items. To better characterize\nuser behaviors, TASTE additionally proposes an attention sparsity method, which\nenables TASTE to model longer user-item interactions by reducing the\nself-attention computations during encoding. Our experiments show that TASTE\noutperforms the state-of-the-art methods on widely used sequential\nrecommendation datasets. TASTE alleviates the cold start problem by\nrepresenting long-tail items using full-text modeling and bringing the benefits\nof pretrained language models to recommendation systems. Our further analyses\nillustrate that TASTE significantly improves the recommendation accuracy by\nreducing the popularity bias of previous item id based recommendation models\nand returning more appropriate and text-relevant items to satisfy users. All\ncodes are available at https://github.com/OpenMatch/TASTE.",
+          "arxiv_id": "2308.14029v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "DIRAS: Efficient LLM Annotation of Document Relevance in Retrieval Augmented Generation",
+          "year": "2024-06",
+          "abstract": "Retrieval Augmented Generation (RAG) is widely employed to ground responses\nto queries on domain-specific documents. But do RAG implementations leave out\nimportant information when answering queries that need an integrated analysis\nof information (e.g., Tell me good news in the stock market today.)? To address\nthese concerns, RAG developers need to annotate information retrieval (IR) data\nfor their domain of interest, which is challenging because (1) domain-specific\nqueries usually need nuanced definitions of relevance beyond shallow semantic\nrelevance; and (2) human or GPT-4 annotation is costly and cannot cover all\n(query, document) pairs (i.e., annotation selection bias), thus harming the\neffectiveness in evaluating IR recall. To address these challenges, we propose\nDIRAS (Domain-specific Information Retrieval Annotation with Scalability), a\nmanual-annotation-free schema that fine-tunes open-sourced LLMs to consider\nnuanced relevance definition and annotate (partial) relevance labels with\ncalibrated relevance scores. Extensive evaluation shows that DIRAS enables\nsmaller (8B) LLMs to achieve GPT-4-level performance on annotating and ranking\nunseen (query, document) pairs, and is helpful for real-world RAG development.\nAll code, LLM generations, and human annotations can be found in\n\\url{https://github.com/EdisonNi-hku/DIRAS}.",
+          "arxiv_id": "2406.14162v4"
+        },
+        {
+          "title": "FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering",
+          "year": "2025-08",
+          "abstract": "Accurate information retrieval (IR) is critical in the financial domain,\nwhere investors must identify relevant information from large collections of\ndocuments. Traditional IR methods-whether sparse or dense-often fall short in\nretrieval accuracy, as it requires not only capturing semantic similarity but\nalso performing fine-grained reasoning over document structure and\ndomain-specific knowledge. Recent advances in large language models (LLMs) have\nopened up new opportunities for retrieval with multi-step reasoning, where the\nmodel ranks passages through iterative reasoning about which information is\nmost relevant to a given query. However, there exists no benchmark to evaluate\nsuch capabilities in the financial domain. To address this gap, we introduce\nFinAgentBench, the first large-scale benchmark for evaluating retrieval with\nmulti-step reasoning in finance -- a setting we term agentic retrieval. The\nbenchmark consists of 3,429 expert-annotated examples on S&P-100 listed firms\nand assesses whether LLM agents can (1) identify the most relevant document\ntype among candidates, and (2) pinpoint the key passage within the selected\ndocument. Our evaluation framework explicitly separates these two reasoning\nsteps to address context limitations. This design enables to provide a\nquantitative basis for understanding retrieval-centric LLM behavior in finance.\nWe evaluate a suite of state-of-the-art models and further demonstrated how\ntargeted fine-tuning can significantly improve agentic retrieval performance.\nOur benchmark provides a foundation for studying retrieval-centric LLM behavior\nin complex, domain-specific tasks for finance.",
+          "arxiv_id": "2508.14052v3"
+        },
+        {
+          "title": "Developing Retrieval Augmented Generation (RAG) based LLM Systems from PDFs: An Experience Report",
+          "year": "2024-10",
+          "abstract": "This paper presents an experience report on the development of Retrieval\nAugmented Generation (RAG) systems using PDF documents as the primary data\nsource. The RAG architecture combines generative capabilities of Large Language\nModels (LLMs) with the precision of information retrieval. This approach has\nthe potential to redefine how we interact with and augment both structured and\nunstructured knowledge in generative models to enhance transparency, accuracy,\nand contextuality of responses. The paper details the end-to-end pipeline, from\ndata collection, preprocessing, to retrieval indexing and response generation,\nhighlighting technical challenges and practical solutions. We aim to offer\ninsights to researchers and practitioners developing similar systems using two\ndistinct approaches: OpenAI's Assistant API with GPT Series and Llama's\nopen-source models. The practical implications of this research lie in\nenhancing the reliability of generative AI systems in various sectors where\ndomain-specific knowledge and real-time information retrieval is important. The\nPython code used in this work is also available at:\nhttps://github.com/GPT-Laboratory/RAG-LLM-Development-Guidebook-from-PDFs.",
+          "arxiv_id": "2410.15944v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Health, Psychosocial, and Social issues emanating from COVID-19 pandemic based on Social Media Comments using Natural Language Processing",
+          "year": "2020-07",
+          "abstract": "The COVID-19 pandemic has caused a global health crisis that affects many\naspects of human lives. In the absence of vaccines and antivirals, several\nbehavioural change and policy initiatives, such as physical distancing, have\nbeen implemented to control the spread of the coronavirus. Social media data\ncan reveal public perceptions toward how governments and health agencies across\nthe globe are handling the pandemic, as well as the impact of the disease on\npeople regardless of their geographic locations in line with various factors\nthat hinder or facilitate the efforts to control the spread of the pandemic\nglobally. This paper aims to investigate the impact of the COVID-19 pandemic on\npeople globally using social media data. We apply natural language processing\n(NLP) and thematic analysis to understand public opinions, experiences, and\nissues with respect to the COVID-19 pandemic using social media data. First, we\ncollect over 47 million COVID-19-related comments from Twitter, Facebook,\nYouTube, and three online discussion forums. Second, we perform data\npreprocessing which involves applying NLP techniques to clean and prepare the\ndata for automated theme extraction. Third, we apply context-aware NLP approach\nto extract meaningful keyphrases or themes from over 1 million randomly\nselected comments, as well as compute sentiment scores for each theme and\nassign sentiment polarity based on the scores using lexicon-based technique.\nFourth, we categorize related themes into broader themes. A total of 34\nnegative themes emerged, out of which 15 are health-related issues,\npsychosocial issues, and social issues related to the COVID-19 pandemic from\nthe public perspective. In addition, 20 positive themes emerged from our\nresults. Finally, we recommend interventions that can help address the negative\nissues based on the positive themes and other remedial ideas rooted in\nresearch.",
+          "arxiv_id": "2007.12144v1"
+        },
+        {
+          "title": "MMCoVaR: Multimodal COVID-19 Vaccine Focused Data Repository for Fake News Detection and a Baseline Architecture for Classification",
+          "year": "2021-09",
+          "abstract": "The outbreak of COVID-19 has resulted in an \"infodemic\" that has encouraged\nthe propagation of misinformation about COVID-19 and cure methods which, in\nturn, could negatively affect the adoption of recommended public health\nmeasures in the larger population. In this paper, we provide a new multimodal\n(consisting of images, text and temporal information) labeled dataset\ncontaining news articles and tweets on the COVID-19 vaccine. We collected 2,593\nnews articles from 80 publishers for one year between Feb 16th 2020 to May 8th\n2021 and 24184 Twitter posts (collected between April 17th 2021 to May 8th\n2021). We combine ratings from two news media ranking sites: Medias Bias Chart\nand Media Bias/Fact Check (MBFC) to classify the news dataset into two levels\nof credibility: reliable and unreliable. The combination of two filters allows\nfor higher precision of labeling. We also propose a stance detection mechanism\nto annotate tweets into three levels of credibility: reliable, unreliable and\ninconclusive. We provide several statistics as well as other analytics like,\npublisher distribution, publication date distribution, topic analysis, etc. We\nalso provide a novel architecture that classifies the news data into\nmisinformation or truth to provide a baseline performance for this dataset. We\nfind that the proposed architecture has an F-Score of 0.919 and accuracy of\n0.882 for fake news detection. Furthermore, we provide benchmark performance\nfor misinformation detection on tweet dataset. This new multimodal dataset can\nbe used in research on COVID-19 vaccine, including misinformation detection,\ninfluence of fake COVID-19 vaccine information, etc.",
+          "arxiv_id": "2109.06416v2"
+        },
+        {
+          "title": "Two Stage Transformer Model for COVID-19 Fake News Detection and Fact Checking",
+          "year": "2020-11",
+          "abstract": "The rapid advancement of technology in online communication via social media\nplatforms has led to a prolific rise in the spread of misinformation and fake\nnews. Fake news is especially rampant in the current COVID-19 pandemic, leading\nto people believing in false and potentially harmful claims and stories.\nDetecting fake news quickly can alleviate the spread of panic, chaos and\npotential health hazards. We developed a two stage automated pipeline for\nCOVID-19 fake news detection using state of the art machine learning models for\nnatural language processing. The first model leverages a novel fact checking\nalgorithm that retrieves the most relevant facts concerning user claims about\nparticular COVID-19 claims. The second model verifies the level of truth in the\nclaim by computing the textual entailment between the claim and the true facts\nretrieved from a manually curated COVID-19 dataset. The dataset is based on a\npublicly available knowledge source consisting of more than 5000 COVID-19 false\nclaims and verified explanations, a subset of which was internally annotated\nand cross-validated to train and evaluate our models. We evaluate a series of\nmodels based on classical text-based features to more contextual Transformer\nbased models and observe that a model pipeline based on BERT and ALBERT for the\ntwo stages respectively yields the best results.",
+          "arxiv_id": "2011.13253v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Mr. Right: Multimodal Retrieval on Representation of ImaGe witH Text",
+          "year": "2022-09",
+          "abstract": "Multimodal learning is a recent challenge that extends unimodal learning by\ngeneralizing its domain to diverse modalities, such as texts, images, or\nspeech. This extension requires models to process and relate information from\nmultiple modalities. In Information Retrieval, traditional retrieval tasks\nfocus on the similarity between unimodal documents and queries, while\nimage-text retrieval hypothesizes that most texts contain the scene context\nfrom images. This separation has ignored that real-world queries may involve\ntext content, image captions, or both. To address this, we introduce Multimodal\nRetrieval on Representation of ImaGe witH Text (Mr. Right), a novel and\ncomprehensive dataset for multimodal retrieval. We utilize the Wikipedia\ndataset with rich text-image examples and generate three types of text-based\nqueries with different modality information: text-related, image-related, and\nmixed. To validate the effectiveness of our dataset, we provide a multimodal\ntraining paradigm and evaluate previous text retrieval and image retrieval\nframeworks. The results show that proposed multimodal retrieval can improve\nretrieval performance, but creating a well-unified document representation with\ntexts and images is still a challenge. We hope Mr. Right allows us to broaden\ncurrent retrieval systems better and contributes to accelerating the\nadvancement of multimodal learning in the Information Retrieval.",
+          "arxiv_id": "2209.13764v1"
+        },
+        {
+          "title": "Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval",
+          "year": "2024-12",
+          "abstract": "Cross-modal (e.g. image-text, video-text) retrieval is an important task in\ninformation retrieval and multimodal vision-language understanding field.\nTemporal understanding makes video-text retrieval more challenging than\nimage-text retrieval. However, we find that the widely used video-text\nbenchmarks have shortcomings in comprehensively assessing abilities of models,\nespecially in temporal understanding, causing large-scale image-text\npre-trained models can already achieve comparable zero-shot performance with\nvideo-text pre-trained models. In this paper, we introduce RTime, a novel\ntemporal-emphasized video-text retrieval dataset. We first obtain videos of\nactions or events with significant temporality, and then reverse these videos\nto create harder negative samples. We then recruit annotators to judge the\nsignificance and reversibility of candidate videos, and write captions for\nqualified videos. We further adopt GPT-4 to extend more captions based on\nhuman-written captions. Our RTime dataset currently consists of 21k videos with\n10 captions per video, totalling about 122 hours. Based on RTime, we propose\nthree retrieval benchmark tasks: RTime-Origin, RTime-Hard, and RTime-Binary. We\nfurther enhance the use of harder-negatives in model training, and benchmark a\nvariety of video-text models on RTime. Extensive experiment analysis proves\nthat RTime indeed poses new and higher challenges to video-text retrieval. We\nrelease our RTime\ndataset\\footnote{\\url{https://github.com/qyr0403/Reversed-in-Time}} to further\nadvance video-text retrieval and multimodal understanding research.",
+          "arxiv_id": "2412.19178v1"
+        },
+        {
+          "title": "Progressive Learning for Image Retrieval with Hybrid-Modality Queries",
+          "year": "2022-04",
+          "abstract": "Image retrieval with hybrid-modality queries, also known as composing text\nand image for image retrieval (CTI-IR), is a retrieval task where the search\nintention is expressed in a more complex query format, involving both vision\nand text modalities. For example, a target product image is searched using a\nreference product image along with text about changing certain attributes of\nthe reference image as the query. It is a more challenging image retrieval task\nthat requires both semantic space learning and cross-modal fusion. Previous\napproaches that attempt to deal with both aspects achieve unsatisfactory\nperformance. In this paper, we decompose the CTI-IR task into a three-stage\nlearning problem to progressively learn the complex knowledge for image\nretrieval with hybrid-modality queries. We first leverage the semantic\nembedding space for open-domain image-text retrieval, and then transfer the\nlearned knowledge to the fashion-domain with fashion-related pre-training\ntasks. Finally, we enhance the pre-trained model from single-query to\nhybrid-modality query for the CTI-IR task. Furthermore, as the contribution of\nindividual modality in the hybrid-modality query varies for different retrieval\nscenarios, we propose a self-supervised adaptive weighting strategy to\ndynamically determine the importance of image and text in the hybrid-modality\nquery for better retrieval. Extensive experiments show that our proposed model\nsignificantly outperforms state-of-the-art methods in the mean of Recall@K by\n24.9% and 9.5% on the Fashion-IQ and Shoes benchmark datasets respectively.",
+          "arxiv_id": "2204.11212v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training",
+          "year": "2021-06",
+          "abstract": "Symbolic music understanding, which refers to the understanding of music from\nthe symbolic data (e.g., MIDI format, but not audio), covers many music\napplications such as genre classification, emotion classification, and music\npieces matching. While good music representations are beneficial for these\napplications, the lack of training data hinders representation learning.\nInspired by the success of pre-training models in natural language processing,\nin this paper, we develop MusicBERT, a large-scale pre-trained model for music\nunderstanding. To this end, we construct a large-scale symbolic music corpus\nthat contains more than 1 million music songs. Since symbolic music contains\nmore structural (e.g., bar, position) and diverse information (e.g., tempo,\ninstrument, and pitch), simply adopting the pre-training techniques from NLP to\nsymbolic music only brings marginal gains. Therefore, we design several\nmechanisms, including OctupleMIDI encoding and bar-level masking strategy, to\nenhance pre-training with symbolic music data. Experiments demonstrate the\nadvantages of MusicBERT on four music understanding tasks, including melody\ncompletion, accompaniment suggestion, genre classification, and style\nclassification. Ablation studies also verify the effectiveness of our designs\nof OctupleMIDI encoding and bar-level masking strategy in MusicBERT.",
+          "arxiv_id": "2106.05630v1"
+        },
+        {
+          "title": "What is missing in deep music generation? A study of repetition and structure in popular music",
+          "year": "2022-09",
+          "abstract": "Structure is one of the most essential aspects of music, and music structure\nis commonly indicated through repetition. However, the nature of repetition and\nstructure in music is still not well understood, especially in the context of\nmusic generation, and much remains to be explored with Music Information\nRetrieval (MIR) techniques. Analyses of two popular music datasets (Chinese and\nAmerican) illustrate important music construction principles: (1) structure\nexists at multiple hierarchical levels, (2) songs use repetition and limited\nvocabulary so that individual songs do not follow general statistics of song\ncollections, (3) structure interacts with rhythm, melody, harmony, and\npredictability, and (4) over the course of a song, repetition is not random,\nbut follows a general trend as revealed by cross-entropy. These and other\nfindings offer challenges as well as opportunities for deep-learning music\ngeneration and suggest new formal music criteria and evaluation methods. Music\nfrom recent music generation systems is analyzed and compared to human-composed\nmusic in our datasets, often revealing striking differences from a structural\nperspective.",
+          "arxiv_id": "2209.00182v1"
+        },
+        {
+          "title": "Support the Underground: Characteristics of Beyond-Mainstream Music Listeners",
+          "year": "2021-02",
+          "abstract": "Music recommender systems have become an integral part of music streaming\nservices such as Spotify and Last.fm to assist users navigating the extensive\nmusic collections offered by them. However, while music listeners interested in\nmainstream music are traditionally served well by music recommender systems,\nusers interested in music beyond the mainstream (i.e., non-popular music)\nrarely receive relevant recommendations. In this paper, we study the\ncharacteristics of beyond-mainstream music and music listeners and analyze to\nwhat extent these characteristics impact the quality of music recommendations\nprovided. Therefore, we create a novel dataset consisting of Last.fm listening\nhistories of several thousand beyond-mainstream music listeners, which we\nenrich with additional metadata describing music tracks and music listeners.\nOur analysis of this dataset shows four subgroups within the group of\nbeyond-mainstream music listeners that differ not only with respect to their\npreferred music but also with their demographic characteristics. Furthermore,\nwe evaluate the quality of music recommendations that these subgroups are\nprovided with four different recommendation algorithms where we find\nsignificant differences between the groups. Specifically, our results show a\npositive correlation between a subgroup's openness towards music listened to by\nmembers of other subgroups and recommendation accuracy. We believe that our\nfindings provide valuable insights for developing improved user models and\nrecommendation approaches to better serve beyond-mainstream music listeners.",
+          "arxiv_id": "2102.12188v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Event2Graph: Event-driven Bipartite Graph for Multivariate Time-series Anomaly Detection",
+          "year": "2021-08",
+          "abstract": "Modeling inter-dependencies between time-series is the key to achieve high\nperformance in anomaly detection for multivariate time-series data. The\nde-facto solution to model the dependencies is to feed the data into a\nrecurrent neural network (RNN). However, the fully connected network structure\nunderneath the RNN (either GRU or LSTM) assumes a static and complete\ndependency graph between time-series, which may not hold in many real-world\napplications. To alleviate this assumption, we propose a dynamic bipartite\ngraph structure to encode the inter-dependencies between time-series. More\nconcretely, we model time series as one type of nodes, and the time series\nsegments (regarded as event) as another type of nodes, where the edge between\ntwo types of nodes describe a temporal pattern occurred on a specific time\nseries at a certain time. Based on this design, relations between time series\ncan be explicitly modelled via dynamic connections to event nodes, and the\nmultivariate time-series anomaly detection problem can be formulated as a\nself-supervised, edge stream prediction problem in dynamic graphs. We conducted\nextensive experiments to demonstrate the effectiveness of the design.",
+          "arxiv_id": "2108.06783v1"
+        },
+        {
+          "title": "Temporal Treasure Hunt: Content-based Time Series Retrieval System for Discovering Insights",
+          "year": "2023-11",
+          "abstract": "Time series data is ubiquitous across various domains such as finance,\nhealthcare, and manufacturing, but their properties can vary significantly\ndepending on the domain they originate from. The ability to perform\nContent-based Time Series Retrieval (CTSR) is crucial for identifying unknown\ntime series examples. However, existing CTSR works typically focus on\nretrieving time series from a single domain database, which can be inadequate\nif the user does not know the source of the query time series. This limitation\nmotivates us to investigate the CTSR problem in a scenario where the database\ncontains time series from multiple domains. To facilitate this investigation,\nwe introduce a CTSR benchmark dataset that comprises time series data from a\nvariety of domains, such as motion, power demand, and traffic. This dataset is\nsourced from a publicly available time series classification dataset archive,\nmaking it easily accessible to researchers in the field. We compare several\npopular methods for modeling and retrieving time series data using this\nbenchmark dataset. Additionally, we propose a novel distance learning model\nthat outperforms the existing methods. Overall, our study highlights the\nimportance of addressing the CTSR problem across multiple domains and provides\na useful benchmark dataset for future research.",
+          "arxiv_id": "2311.02560v1"
+        },
+        {
+          "title": "An Efficient Content-based Time Series Retrieval System",
+          "year": "2023-10",
+          "abstract": "A Content-based Time Series Retrieval (CTSR) system is an information\nretrieval system for users to interact with time series emerged from multiple\ndomains, such as finance, healthcare, and manufacturing. For example, users\nseeking to learn more about the source of a time series can submit the time\nseries as a query to the CTSR system and retrieve a list of relevant time\nseries with associated metadata. By analyzing the retrieved metadata, users can\ngather more information about the source of the time series. Because the CTSR\nsystem is required to work with time series data from diverse domains, it needs\na high-capacity model to effectively measure the similarity between different\ntime series. On top of that, the model within the CTSR system has to compute\nthe similarity scores in an efficient manner as the users interact with the\nsystem in real-time. In this paper, we propose an effective and efficient CTSR\nmodel that outperforms alternative models, while still providing reasonable\ninference runtimes. To demonstrate the capability of the proposed method in\nsolving business problems, we compare it against alternative models using our\nin-house transaction data. Our findings reveal that the proposed model is the\nmost suitable solution compared to others for our transaction data problem.",
+          "arxiv_id": "2310.03919v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "CRouting: Reducing Expensive Distance Calls in Graph-Based Approximate Nearest Neighbor Search",
+          "year": "2025-08",
+          "abstract": "Approximate nearest neighbor search (ANNS) is a crucial problem in\ninformation retrieval and AI applications. Recently, there has been a surge of\ninterest in graph-based ANNS algorithms due to their superior efficiency and\naccuracy. However, the repeated computation of distances in high-dimensional\nspaces constitutes the primary time cost of graph-based methods. To accelerate\nthe search, we propose a novel routing strategy named CRouting, which bypasses\nunnecessary distance computations by exploiting the angle distributions of\nhigh-dimensional vectors. CRouting is designed as a plugin to optimize existing\ngraph-based search with minimal code modifications. Our experiments show that\nCRouting reduces the number of distance computations by up to 41.5% and boosts\nqueries per second by up to 1.48$\\times$ on two predominant graph indexes, HNSW\nand NSG. Code is publicly available at https://github.com/ISCS-ZJU/CRouting.",
+          "arxiv_id": "2509.00365v1"
+        },
+        {
+          "title": "ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms",
+          "year": "2023-05",
+          "abstract": "Approximate nearest-neighbor search (ANNS) algorithms are a key part of the\nmodern deep learning stack due to enabling efficient similarity search over\nhigh-dimensional vector space representations (i.e., embeddings) of data. Among\nvarious ANNS algorithms, graph-based algorithms are known to achieve the best\nthroughput-recall tradeoffs. Despite the large scale of modern ANNS datasets,\nexisting parallel graph based implementations suffer from significant\nchallenges to scale to large datasets due to heavy use of locks and other\nsequential bottlenecks, which 1) prevents them from efficiently scaling to a\nlarge number of processors, and 2) results in nondeterminism that is\nundesirable in certain applications.\n  In this paper, we introduce ParlayANN, a library of deterministic and\nparallel graph-based approximate nearest neighbor search algorithms, along with\na set of useful tools for developing such algorithms. In this library, we\ndevelop novel parallel implementations for four state-of-the-art graph-based\nANNS algorithms that scale to billion-scale datasets. Our algorithms are\ndeterministic and achieve high scalability across a diverse set of challenging\ndatasets. In addition to the new algorithmic ideas, we also conduct a detailed\nexperimental study of our new algorithms as well as two existing non-graph\napproaches. Our experimental results both validate the effectiveness of our new\ntechniques, and lead to a comprehensive comparison among ANNS algorithms on\nlarge scale datasets with a list of interesting findings.",
+          "arxiv_id": "2305.04359v2"
+        },
+        {
+          "title": "CleANN: Efficient Full Dynamism in Graph-based Approximate Nearest Neighbor Search",
+          "year": "2025-07",
+          "abstract": "Approximate nearest neighbor search (ANNS) has become a quintessential\nalgorithmic problem for various other foundational data tasks for AI workloads.\nGraph-based ANNS indexes have superb empirical trade-offs in indexing cost,\nquery efficiency, and query approximation quality. Most existing graph-based\nindexes are designed for the static scenario, where there are no updates to the\ndata after the index is constructed. However, full dynamism (insertions,\ndeletions, and searches) is crucial to providing up-to-date responses in\napplications using vector databases. It is desirable that the index efficiently\nsupports updates and search queries concurrently. Existing dynamic graph-based\nindexes suffer from at least one of the following problems: (1) the query\nquality degrades as updates happen; and (2) the graph structure updates used to\nmaintain the index quality upon updates are global and thus expensive. To solve\nthese problems, we propose the CleANN system which consists of three main\ncomponents: (1) workload-aware linking of diverse search tree descendants to\ncombat distribution shift; (2)query-adaptive on-the-fly neighborhood\nconsolidation to efficiently handle deleted nodes; and (3) semi-lazy memory\ncleaning to clean up stale information in the data structure and reduce the\nwork spent by the first two components. We evaluate CleANN on 7 diverse\ndatasets on fully dynamic workloads and find that CleANN has query quality at\nleast as good as if the index had been built statically using the corresponding\ndata. In the in-memory setting using 56 hyper-threads, with all types of\nqueries running concurrently, at the same recall level, CleANN achieves 7-1200x\nthroughput improvement on million-scale real-world datasets. To the best of our\nknowledge, CleANN is the first concurrent ANNS index to achieve such efficiency\nwhile maintaining quality under full dynamism.",
+          "arxiv_id": "2507.19802v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation",
+          "year": "2024-02",
+          "abstract": "Graph augmentation methods play a crucial role in improving the performance\nand enhancing generalisation capabilities in Graph Neural Networks (GNNs).\nExisting graph augmentation methods mainly perturb the graph structures, and\nare usually limited to pairwise node relations. These methods cannot fully\naddress the complexities of real-world large-scale networks, which often\ninvolve higher-order node relations beyond only being pairwise. Meanwhile,\nreal-world graph datasets are predominantly modelled as simple graphs, due to\nthe scarcity of data that can be used to form higher-order edges. Therefore,\nreconfiguring the higher-order edges as an integration into graph augmentation\nstrategies lights up a promising research path to address the aforementioned\nissues. In this paper, we present Topological Augmentation (TopoAug), a novel\ngraph augmentation method that builds a combinatorial complex from the original\ngraph by constructing virtual hyperedges directly from the raw data. TopoAug\nthen produces auxiliary node features by extracting information from the\ncombinatorial complex, which are used for enhancing GNN performances on\ndownstream tasks. We design three diverse virtual hyperedge construction\nstrategies to accompany the construction of combinatorial complexes: (1) via\ngraph statistics, (2) from multiple data perspectives, and (3) utilising\nmulti-modality. Furthermore, to facilitate TopoAug evaluation, we provide 23\nnovel real-world graph datasets across various domains including social media,\nbiology, and e-commerce. Our empirical study shows that TopoAug consistently\nand significantly outperforms GNN baselines and other graph augmentation\nmethods, across a variety of application contexts, which clearly indicates that\nit can effectively incorporate higher-order node relations into the graph\naugmentation for real-world complex networks.",
+          "arxiv_id": "2402.13033v2"
+        },
+        {
+          "title": "GAIN: Graph Attention & Interaction Network for Inductive Semi-Supervised Learning over Large-scale Graphs",
+          "year": "2020-11",
+          "abstract": "Graph Neural Networks (GNNs) have led to state-of-the-art performance on a\nvariety of machine learning tasks such as recommendation, node classification\nand link prediction. Graph neural network models generate node embeddings by\nmerging nodes features with the aggregated neighboring nodes information. Most\nexisting GNN models exploit a single type of aggregator (e.g., mean-pooling) to\naggregate neighboring nodes information, and then add or concatenate the output\nof aggregator to the current representation vector of the center node. However,\nusing only a single type of aggregator is difficult to capture the different\naspects of neighboring information and the simple addition or concatenation\nupdate methods limit the expressive capability of GNNs. Not only that, existing\nsupervised or semi-supervised GNN models are trained based on the loss function\nof the node label, which leads to the neglect of graph structure information.\nIn this paper, we propose a novel graph neural network architecture, Graph\nAttention \\& Interaction Network (GAIN), for inductive learning on graphs.\nUnlike the previous GNN models that only utilize a single type of aggregation\nmethod, we use multiple types of aggregators to gather neighboring information\nin different aspects and integrate the outputs of these aggregators through the\naggregator-level attention mechanism. Furthermore, we design a graph\nregularized loss to better capture the topological relationship of the nodes in\nthe graph. Additionally, we first present the concept of graph feature\ninteraction and propose a vector-wise explicit feature interaction mechanism to\nupdate the node embeddings. We conduct comprehensive experiments on two\nnode-classification benchmarks and a real-world financial news dataset. The\nexperiments demonstrate our GAIN model outperforms current state-of-the-art\nperformances on all the tasks.",
+          "arxiv_id": "2011.01393v1"
+        },
+        {
+          "title": "Transition Propagation Graph Neural Networks for Temporal Networks",
+          "year": "2023-04",
+          "abstract": "Researchers of temporal networks (e.g., social networks and transaction\nnetworks) have been interested in mining dynamic patterns of nodes from their\ndiverse interactions.\n  Inspired by recently powerful graph mining methods like skip-gram models and\nGraph Neural Networks (GNNs), existing approaches focus on generating temporal\nnode embeddings sequentially with nodes' sequential interactions.\n  However, the sequential modeling of previous approaches cannot handle the\ntransition structure between nodes' neighbors with limited memorization\ncapacity.\n  Detailedly, an effective method for the transition structures is required to\nboth model nodes' personalized patterns adaptively and capture node dynamics\naccordingly.\n  In this paper, we propose a method, namely Transition Propagation Graph\nNeural Networks (TIP-GNN), to tackle the challenges of encoding nodes'\ntransition structures.\n  The proposed TIP-GNN focuses on the bilevel graph structure in temporal\nnetworks: besides the explicit interaction graph, a node's sequential\ninteractions can also be constructed as a transition graph.\n  Based on the bilevel graph, TIP-GNN further encodes transition structures by\nmulti-step transition propagation and distills information from neighborhoods\nby a bilevel graph convolution.\n  Experimental results over various temporal networks reveal the efficiency of\nour TIP-GNN, with at most 7.2\\% improvements of accuracy on temporal link\nprediction.\n  Extensive ablation studies further verify the effectiveness and limitations\nof the transition propagation module.\n  Our code is available at \\url{https://github.com/doujiang-zheng/TIP-GNN}.",
+          "arxiv_id": "2304.07501v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval",
+          "year": "2023-04",
+          "abstract": "Legal case retrieval, which aims to find relevant cases for a query case,\nplays a core role in the intelligent legal system. Despite the success that\npre-training has achieved in ad-hoc retrieval tasks, effective pre-training\nstrategies for legal case retrieval remain to be explored. Compared with\ngeneral documents, legal case documents are typically long text sequences with\nintrinsic logical structures. However, most existing language models have\ndifficulty understanding the long-distance dependencies between different\nstructures. Moreover, in contrast to the general retrieval, the relevance in\nthe legal domain is sensitive to key legal elements. Even subtle differences in\nkey legal elements can significantly affect the judgement of relevance.\nHowever, existing pre-trained language models designed for general purposes\nhave not been equipped to handle legal elements.\n  To address these issues, in this paper, we propose SAILER, a new\nStructure-Aware pre-traIned language model for LEgal case Retrieval. It is\nhighlighted in the following three aspects: (1) SAILER fully utilizes the\nstructural information contained in legal case documents and pays more\nattention to key legal elements, similar to how legal experts browse legal case\ndocuments. (2) SAILER employs an asymmetric encoder-decoder architecture to\nintegrate several different pre-training objectives. In this way, rich semantic\ninformation across tasks is encoded into dense vectors. (3) SAILER has powerful\ndiscriminative ability, even without any legal annotation data. It can\ndistinguish legal cases with different charges accurately. Extensive\nexperiments over publicly available legal benchmarks demonstrate that our\napproach can significantly outperform previous state-of-the-art methods in\nlegal case retrieval.",
+          "arxiv_id": "2304.11370v1"
+        },
+        {
+          "title": "Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation",
+          "year": "2024-06",
+          "abstract": "Legal case retrieval for sourcing similar cases is critical in upholding\njudicial fairness. Different from general web search, legal case retrieval\ninvolves processing lengthy, complex, and highly specialized legal documents.\nExisting methods in this domain often overlook the incorporation of legal\nexpert knowledge, which is crucial for accurately understanding and modeling\nlegal cases, leading to unsatisfactory retrieval performance. This paper\nintroduces KELLER, a legal knowledge-guided case reformulation approach based\non large language models (LLMs) for effective and interpretable legal case\nretrieval. By incorporating professional legal knowledge about crimes and law\narticles, we enable large language models to accurately reformulate the\noriginal legal case into concise sub-facts of crimes, which contain the\nessential information of the case. Extensive experiments on two legal case\nretrieval benchmarks demonstrate superior retrieval performance and robustness\non complex legal case queries of KELLER over existing methods.",
+          "arxiv_id": "2406.19760v1"
+        },
+        {
+          "title": "Prompt-based Effective Input Reformulation for Legal Case Retrieval",
+          "year": "2023-09",
+          "abstract": "Legal case retrieval plays an important role for legal practitioners to\neffectively retrieve relevant cases given a query case. Most existing neural\nlegal case retrieval models directly encode the whole legal text of a case to\ngenerate a case representation, which is then utilised to conduct a nearest\nneighbour search for retrieval. Although these straightforward methods have\nachieved improvement over conventional statistical methods in retrieval\naccuracy, two significant challenges are identified in this paper: (1) Legal\nfeature alignment: the usage of the whole case text as the input will generally\nincorporate redundant and noisy information because, from the legal\nperspective, the determining factor of relevant cases is the alignment of key\nlegal features instead of whole text matching; (2) Legal context preservation:\nfurthermore, since the existing text encoding models usually have an input\nlength limit shorter than the case, the whole case text needs to be truncated\nor divided into paragraphs, which leads to the loss of the global context of\nlegal information. In this paper, a novel legal case retrieval framework,\nPromptCase, is proposed to tackle these challenges. Firstly, legal facts and\nlegal issues are identified and formally defined as the key features\nfacilitating legal case retrieval based on a thorough study of the definition\nof relevant cases from a legal perspective. Secondly, with the determining\nlegal features, a prompt-based encoding scheme is designed to conduct an\neffective encoding with language models. Extensive zero-shot experiments have\nbeen conducted on two benchmark datasets in legal case retrieval, which\ndemonstrate the superior retrieval effectiveness of the proposed PromptCase.\nThe code has been released on https://github.com/yanran-tang/PromptCase.",
+          "arxiv_id": "2309.02962v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:56:46Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

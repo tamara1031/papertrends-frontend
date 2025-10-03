@@ -1,0 +1,578 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_video_model_models_image",
+        "keywords": [
+          [
+            "video",
+            0.025066116618480808
+          ],
+          [
+            "model",
+            0.021235310893822017
+          ],
+          [
+            "models",
+            0.019376809941473998
+          ],
+          [
+            "image",
+            0.01841220633939071
+          ],
+          [
+            "visual",
+            0.01807612901002343
+          ],
+          [
+            "data",
+            0.017266601575686494
+          ],
+          [
+            "audio",
+            0.016770644355693053
+          ],
+          [
+            "methods",
+            0.015307144986177067
+          ],
+          [
+            "performance",
+            0.015300453139479543
+          ],
+          [
+            "quality",
+            0.015249002506981453
+          ]
+        ],
+        "count": 5378
+      },
+      "1": {
+        "name": "1_image_watermarking_detection_images",
+        "keywords": [
+          [
+            "image",
+            0.03151772258242451
+          ],
+          [
+            "watermarking",
+            0.02248504753355241
+          ],
+          [
+            "detection",
+            0.021796680474465032
+          ],
+          [
+            "images",
+            0.021560721775137036
+          ],
+          [
+            "watermark",
+            0.019059869173742826
+          ],
+          [
+            "methods",
+            0.016289873515193818
+          ],
+          [
+            "data",
+            0.015978236839306322
+          ],
+          [
+            "method",
+            0.015750704816106905
+          ],
+          [
+            "deepfake",
+            0.015122797762460734
+          ],
+          [
+            "model",
+            0.014684530832321968
+          ]
+        ],
+        "count": 486
+      },
+      "2": {
+        "name": "2_recommendation_item_user_multimodal",
+        "keywords": [
+          [
+            "recommendation",
+            0.07463684688551354
+          ],
+          [
+            "item",
+            0.056096912884305766
+          ],
+          [
+            "user",
+            0.042322504822061464
+          ],
+          [
+            "multimodal",
+            0.038072560253913486
+          ],
+          [
+            "Recommendation",
+            0.031213028601703545
+          ],
+          [
+            "items",
+            0.029686672984442605
+          ],
+          [
+            "fashion",
+            0.029059510413738093
+          ],
+          [
+            "information",
+            0.028019495733812853
+          ],
+          [
+            "features",
+            0.025712062565660807
+          ],
+          [
+            "users",
+            0.023908711866882728
+          ]
+        ],
+        "count": 88
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4722228585547717,
+        -0.6571068874595267
+      ],
+      [
+        -0.4722228585547717,
+        1.0,
+        -0.6850905940372718
+      ],
+      [
+        -0.6571068874595267,
+        -0.6850905940372718,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        13,
+        15,
+        6
+      ],
+      "2020-02": [
+        21,
+        16,
+        3
+      ],
+      "2020-03": [
+        26,
+        17,
+        3
+      ],
+      "2020-04": [
+        32,
+        23,
+        5
+      ],
+      "2020-05": [
+        29,
+        22,
+        6
+      ],
+      "2020-06": [
+        25,
+        18,
+        4
+      ],
+      "2020-07": [
+        34,
+        20,
+        3
+      ],
+      "2020-08": [
+        32,
+        23,
+        9
+      ],
+      "2020-09": [
+        38,
+        21,
+        2
+      ],
+      "2020-10": [
+        51,
+        21,
+        7
+      ],
+      "2020-11": [
+        30,
+        15,
+        3
+      ],
+      "2020-12": [
+        24,
+        20,
+        3
+      ],
+      "2021-01": [
+        38,
+        19,
+        4
+      ],
+      "2021-02": [
+        26,
+        18,
+        2
+      ],
+      "2021-03": [
+        32,
+        17,
+        5
+      ],
+      "2021-04": [
+        49,
+        22,
+        9
+      ],
+      "2021-05": [
+        28,
+        17,
+        9
+      ],
+      "2021-06": [
+        33,
+        24,
+        2
+      ],
+      "2021-07": [
+        43,
+        16,
+        6
+      ],
+      "2021-08": [
+        39,
+        29,
+        4
+      ],
+      "2021-09": [
+        30,
+        19,
+        6
+      ],
+      "2021-10": [
+        33,
+        28,
+        5
+      ],
+      "2021-11": [
+        21,
+        14,
+        5
+      ],
+      "2021-12": [
+        38,
+        20,
+        9
+      ],
+      "2022-01": [
+        32,
+        32,
+        4
+      ],
+      "2022-02": [
+        24,
+        16,
+        5
+      ],
+      "2022-03": [
+        43,
+        35,
+        10
+      ],
+      "2022-04": [
+        38,
+        22,
+        4
+      ],
+      "2022-05": [
+        33,
+        23,
+        11
+      ],
+      "2022-06": [
+        43,
+        23,
+        5
+      ],
+      "2022-07": [
+        65,
+        33,
+        11
+      ],
+      "2022-08": [
+        51,
+        24,
+        8
+      ],
+      "2022-09": [
+        36,
+        30,
+        8
+      ],
+      "2022-10": [
+        62,
+        26,
+        11
+      ],
+      "2022-11": [
+        44,
+        34,
+        12
+      ],
+      "2022-12": [
+        33,
+        32,
+        3
+      ],
+      "2023-01": [
+        35,
+        15,
+        2
+      ],
+      "2023-02": [
+        38,
+        27,
+        5
+      ],
+      "2023-03": [
+        59,
+        39,
+        9
+      ],
+      "2023-04": [
+        49,
+        24,
+        9
+      ],
+      "2023-05": [
+        77,
+        55,
+        16
+      ],
+      "2023-06": [
+        43,
+        24,
+        12
+      ],
+      "2023-07": [
+        46,
+        24,
+        8
+      ],
+      "2023-08": [
+        74,
+        51,
+        7
+      ],
+      "2023-09": [
+        83,
+        30,
+        11
+      ],
+      "2023-10": [
+        63,
+        34,
+        12
+      ],
+      "2023-11": [
+        66,
+        26,
+        7
+      ],
+      "2023-12": [
+        60,
+        24,
+        11
+      ],
+      "2024-01": [
+        54,
+        25,
+        5
+      ],
+      "2024-02": [
+        54,
+        25,
+        7
+      ],
+      "2024-03": [
+        73,
+        36,
+        10
+      ],
+      "2024-04": [
+        73,
+        31,
+        11
+      ],
+      "2024-05": [
+        63,
+        34,
+        7
+      ],
+      "2024-06": [
+        74,
+        36,
+        6
+      ],
+      "2024-07": [
+        87,
+        43,
+        13
+      ],
+      "2024-08": [
+        76,
+        37,
+        8
+      ],
+      "2024-09": [
+        79,
+        54,
+        15
+      ],
+      "2024-10": [
+        93,
+        35,
+        8
+      ],
+      "2024-11": [
+        68,
+        21,
+        10
+      ],
+      "2024-12": [
+        102,
+        46,
+        15
+      ],
+      "2025-01": [
+        42,
+        18,
+        9
+      ],
+      "2025-02": [
+        58,
+        17,
+        13
+      ],
+      "2025-03": [
+        84,
+        43,
+        5
+      ],
+      "2025-04": [
+        84,
+        40,
+        15
+      ],
+      "2025-05": [
+        106,
+        33,
+        13
+      ],
+      "2025-06": [
+        88,
+        39,
+        10
+      ],
+      "2025-07": [
+        99,
+        26,
+        19
+      ],
+      "2025-08": [
+        101,
+        42,
+        19
+      ],
+      "2025-09": [
+        38,
+        9,
+        13
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "A Deep Learning based No-reference Quality Assessment Model for UGC Videos",
+          "year": "2022-04",
+          "abstract": "Quality assessment for User Generated Content (UGC) videos plays an important\nrole in ensuring the viewing experience of end-users. Previous UGC video\nquality assessment (VQA) studies either use the image recognition model or the\nimage quality assessment (IQA) models to extract frame-level features of UGC\nvideos for quality regression, which are regarded as the sub-optimal solutions\nbecause of the domain shifts between these tasks and the UGC VQA task. In this\npaper, we propose a very simple but effective UGC VQA model, which tries to\naddress this problem by training an end-to-end spatial feature extraction\nnetwork to directly learn the quality-aware spatial feature representation from\nraw pixels of the video frames. We also extract the motion features to measure\nthe temporal-related distortions that the spatial features cannot model. The\nproposed model utilizes very sparse frames to extract spatial features and\ndense frames (i.e. the video chunk) with a very low spatial resolution to\nextract motion features, which thereby has low computational complexity. With\nthe better quality-aware features, we only use the simple multilayer perception\nlayer (MLP) network to regress them into the chunk-level quality scores, and\nthen the temporal average pooling strategy is adopted to obtain the video-level\nquality score. We further introduce a multi-scale quality fusion strategy to\nsolve the problem of VQA across different spatial resolutions, where the\nmulti-scale weights are obtained from the contrast sensitivity function of the\nhuman visual system. The experimental results show that the proposed model\nachieves the best performance on five popular UGC VQA databases, which\ndemonstrates the effectiveness of the proposed model. The code will be publicly\navailable.",
+          "arxiv_id": "2204.14047v2"
+        },
+        {
+          "title": "Towards Multi-Task Multi-Modal Models: A Video Generative Perspective",
+          "year": "2024-05",
+          "abstract": "Advancements in language foundation models have primarily fueled the recent\nsurge in artificial intelligence. In contrast, generative learning of\nnon-textual modalities, especially videos, significantly trails behind language\nmodeling. This thesis chronicles our endeavor to build multi-task models for\ngenerating videos and other modalities under diverse conditions, as well as for\nunderstanding and compression applications. Given the high dimensionality of\nvisual data, we pursue concise and accurate latent representations. Our\nvideo-native spatial-temporal tokenizers preserve high fidelity. We unveil a\nnovel approach to mapping bidirectionally between visual observation and\ninterpretable lexical terms. Furthermore, our scalable visual token\nrepresentation proves beneficial across generation, compression, and\nunderstanding tasks. This achievement marks the first instances of language\nmodels surpassing diffusion models in visual synthesis and a video tokenizer\noutperforming industry-standard codecs. Within these multi-modal latent spaces,\nwe study the design of multi-task generative models. Our masked multi-task\ntransformer excels at the quality, efficiency, and flexibility of video\ngeneration. We enable a frozen language model, trained solely on text, to\ngenerate visual content. Finally, we build a scalable generative multi-modal\ntransformer trained from scratch, enabling the generation of videos containing\nhigh-fidelity motion with the corresponding audio given diverse conditions.\nThroughout the course, we have shown the effectiveness of integrating multiple\ntasks, crafting high-fidelity latent representation, and generating multiple\nmodalities. This work suggests intriguing potential for future exploration in\ngenerating non-textual data and enabling real-time, interactive experiences\nacross various media forms.",
+          "arxiv_id": "2405.16728v1"
+        },
+        {
+          "title": "Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation",
+          "year": "2023-04",
+          "abstract": "Audio-visual segmentation (AVS) is a challenging task that involves\naccurately segmenting sounding objects based on audio-visual cues. The\neffectiveness of audio-visual learning critically depends on achieving accurate\ncross-modal alignment between sound and visual objects. Successful audio-visual\nlearning requires two essential components: 1) a challenging dataset with\nhigh-quality pixel-level multi-class annotated images associated with audio\nfiles, and 2) a model that can establish strong links between audio information\nand its corresponding visual object. However, these requirements are only\npartially addressed by current methods, with training sets containing biased\naudio-visual data, and models that generalise poorly beyond this biased\ntraining set. In this work, we propose a new cost-effective strategy to build\nchallenging and relatively unbiased high-quality audio-visual segmentation\nbenchmarks. We also propose a new informative sample mining method for\naudio-visual supervised contrastive learning to leverage discriminative\ncontrastive samples to enforce cross-modal understanding. We show empirical\nresults that demonstrate the effectiveness of our benchmark. Furthermore,\nexperiments conducted on existing AVS datasets and on our new benchmark show\nthat our method achieves state-of-the-art (SOTA) segmentation accuracy.",
+          "arxiv_id": "2304.02970v7"
+        }
+      ],
+      "1": [
+        {
+          "title": "An Automated and Robust Image Watermarking Scheme Based on Deep Neural Networks",
+          "year": "2020-07",
+          "abstract": "Digital image watermarking is the process of embedding and extracting a\nwatermark covertly on a cover-image. To dynamically adapt image watermarking\nalgorithms, deep learning-based image watermarking schemes have attracted\nincreased attention during recent years. However, existing deep learning-based\nwatermarking methods neither fully apply the fitting ability to learn and\nautomate the embedding and extracting algorithms, nor achieve the properties of\nrobustness and blindness simultaneously. In this paper, a robust and blind\nimage watermarking scheme based on deep learning neural networks is proposed.\nTo minimize the requirement of domain knowledge, the fitting ability of deep\nneural networks is exploited to learn and generalize an automated image\nwatermarking algorithm. A deep learning architecture is specially designed for\nimage watermarking tasks, which will be trained in an unsupervised manner to\navoid human intervention and annotation. To facilitate flexible applications,\nthe robustness of the proposed scheme is achieved without requiring any prior\nknowledge or adversarial examples of possible attacks. A challenging case of\nwatermark extraction from phone camera-captured images demonstrates the\nrobustness and practicality of the proposal. The experiments, evaluation, and\napplication cases confirm the superiority of the proposed scheme.",
+          "arxiv_id": "2007.02460v1"
+        },
+        {
+          "title": "Robust Watermarking using Diffusion of Logo into Autoencoder Feature Maps",
+          "year": "2021-05",
+          "abstract": "Digital contents have grown dramatically in recent years, leading to\nincreased attention to copyright. Image watermarking has been considered one of\nthe most popular methods for copyright protection. With the recent advancements\nin applying deep neural networks in image processing, these networks have also\nbeen used in image watermarking. Robustness and imperceptibility are two\nchallenging features of watermarking methods that the trade-off between them\nshould be satisfied. In this paper, we propose to use an end-to-end network for\nwatermarking. We use a convolutional neural network (CNN) to control the\nembedding strength based on the image content. Dynamic embedding helps the\nnetwork to have the lowest effect on the visual quality of the watermarked\nimage. Different image processing attacks are simulated as a network layer to\nimprove the robustness of the model. Our method is a blind watermarking\napproach that replicates the watermark string to create a matrix of the same\nsize as the input image. Instead of diffusing the watermark data into the input\nimage, we inject the data into the feature space and force the network to do\nthis in regions that increase the robustness against various attacks.\nExperimental results show the superiority of the proposed method in terms of\nimperceptibility and robustness compared to the state-of-the-art algorithms.",
+          "arxiv_id": "2105.11095v1"
+        },
+        {
+          "title": "Social Media Authentication and Combating Deepfakes using Semi-fragile Invisible Image Watermarking",
+          "year": "2024-10",
+          "abstract": "With the significant advances in deep generative models for image and video\nsynthesis, Deepfakes and manipulated media have raised severe societal\nconcerns. Conventional machine learning classifiers for deepfake detection\noften fail to cope with evolving deepfake generation technology and are\nsusceptible to adversarial attacks. Alternatively, invisible image watermarking\nis being researched as a proactive defense technique that allows media\nauthentication by verifying an invisible secret message embedded in the image\npixels. A handful of invisible image watermarking techniques introduced for\nmedia authentication have proven vulnerable to basic image processing\noperations and watermark removal attacks. In response, we have proposed a\nsemi-fragile image watermarking technique that embeds an invisible secret\nmessage into real images for media authentication. Our proposed watermarking\nframework is designed to be fragile to facial manipulations or tampering while\nbeing robust to benign image-processing operations and watermark removal\nattacks. This is facilitated through a unique architecture of our proposed\ntechnique consisting of critic and adversarial networks that enforce high image\nquality and resiliency to watermark removal efforts, respectively, along with\nthe backbone encoder-decoder and the discriminator networks. Thorough\nexperimental investigations on SOTA facial Deepfake datasets demonstrate that\nour proposed model can embed a $64$-bit secret as an imperceptible image\nwatermark that can be recovered with a high-bit recovery accuracy when benign\nimage processing operations are applied while being non-recoverable when unseen\nDeepfake manipulations are applied. In addition, our proposed watermarking\ntechnique demonstrates high resilience to several white-box and black-box\nwatermark removal attacks. Thus, obtaining state-of-the-art performance.",
+          "arxiv_id": "2410.01906v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation",
+          "year": "2022-11",
+          "abstract": "Multimodal recommender systems utilizing multimodal features (e.g., images\nand textual descriptions) typically show better recommendation accuracy than\ngeneral recommendation models based solely on user-item interactions.\nGenerally, prior work fuses multimodal features into item ID embeddings to\nenrich item representations, thus failing to capture the latent semantic\nitem-item structures. In this context, LATTICE proposes to learn the latent\nstructure between items explicitly and achieves state-of-the-art performance\nfor multimodal recommendations. However, we argue the latent graph structure\nlearning of LATTICE is both inefficient and unnecessary. Experimentally, we\ndemonstrate that freezing its item-item structure before training can also\nachieve competitive performance. Based on this finding, we propose a simple yet\neffective model, dubbed as FREEDOM, that FREEzes the item-item graph and\nDenOises the user-item interaction graph simultaneously for Multimodal\nrecommendation. Theoretically, we examine the design of FREEDOM through a graph\nspectral perspective and demonstrate that it possesses a tighter upper bound on\nthe graph spectrum. In denoising the user-item interaction graph, we devise a\ndegree-sensitive edge pruning method, which rejects possibly noisy edges with a\nhigh probability when sampling the graph. We evaluate the proposed model on\nthree real-world datasets and show that FREEDOM can significantly outperform\ncurrent strongest baselines. Compared with LATTICE, FREEDOM achieves an average\nimprovement of 19.07% in recommendation accuracy while reducing its memory cost\nup to 6$\\times$ on large graphs. The source code is available at:\nhttps://github.com/enoche/FREEDOM.",
+          "arxiv_id": "2211.06924v3"
+        },
+        {
+          "title": "Mining Latent Structures for Multimedia Recommendation",
+          "year": "2021-04",
+          "abstract": "Multimedia content is of predominance in the modern Web era. Investigating\nhow users interact with multimodal items is a continuing concern within the\nrapid development of recommender systems. The majority of previous work focuses\non modeling user-item interactions with multimodal features included as side\ninformation. However, this scheme is not well-designed for multimedia\nrecommendation. Specifically, only collaborative item-item relationships are\nimplicitly modeled through high-order item-user-item relations. Considering\nthat items are associated with rich contents in multiple modalities, we argue\nthat the latent semantic item-item structures underlying these multimodal\ncontents could be beneficial for learning better item representations and\nfurther boosting recommendation. To this end, we propose a LATent sTructure\nmining method for multImodal reCommEndation, which we term LATTICE for brevity.\nTo be specific, in the proposed LATTICE model, we devise a novel modality-aware\nstructure learning layer, which learns item-item structures for each modality\nand aggregates multiple modalities to obtain latent item graphs. Based on the\nlearned latent graphs, we perform graph convolutions to explicitly inject\nhigh-order item affinities into item representations. These enriched item\nrepresentations can then be plugged into existing collaborative filtering\nmethods to make more accurate recommendations. Extensive experiments on three\nreal-world datasets demonstrate the superiority of our method over\nstate-of-the-art multimedia recommendation methods and validate the efficacy of\nmining latent item-item relationships from multimodal features.",
+          "arxiv_id": "2104.09036v2"
+        },
+        {
+          "title": "Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation",
+          "year": "2023-01",
+          "abstract": "User interaction data in recommender systems is a form of dyadic relation\nthat reflects the preferences of users with items. Learning the representations\nof these two discrete sets of objects, users and items, is critical for\nrecommendation. Recent multimodal recommendation models leveraging multimodal\nfeatures (e.g., images and text descriptions) have been demonstrated to be\neffective in improving recommendation accuracy. However, state-of-the-art\nmodels enhance the dyadic relations between users and items by considering\neither user-user or item-item relations, leaving the high-order relations of\nthe other side (i.e., users or items) unexplored. Furthermore, we\nexperimentally reveal that the current multimodality fusion methods in the\nstate-of-the-art models may degrade their recommendation performance. That is,\nwithout tainting the model architectures, these models can achieve even better\nrecommendation accuracy with uni-modal information. On top of the finding, we\npropose a model that enhances the dyadic relations by learning Dual\nRepresentAtions of both users and items via constructing homogeneous Graphs for\nmultimOdal recommeNdation. We name our model as DRAGON. Specifically, DRAGON\nconstructs the user-user graph based on the commonly interacted items and the\nitem-item graph from item multimodal features. It then utilizes graph learning\non both the user-item heterogeneous graph and the homogeneous graphs (user-user\nand item-item) to obtain the dual representations of users and items. To\ncapture information from each modality, DRAGON employs a simple yet effective\nfusion method, attentive concatenation, to derive the representations of users\nand items. Extensive experiments on three public datasets and seven baselines\nshow that DRAGON can outperform the strongest baseline by 22.03% on average.\nVarious ablation studies are conducted on DRAGON to validate its effectiveness.",
+          "arxiv_id": "2301.12097v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:40:40Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

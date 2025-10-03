@@ -1,0 +1,2272 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_learning_FL_Federated_data",
+        "keywords": [
+          [
+            "learning",
+            0.026684755767024726
+          ],
+          [
+            "FL",
+            0.026347195424449073
+          ],
+          [
+            "Federated",
+            0.02184942545277005
+          ],
+          [
+            "data",
+            0.02161478428777967
+          ],
+          [
+            "model",
+            0.02073766691030648
+          ],
+          [
+            "Learning",
+            0.01819011127709714
+          ],
+          [
+            "training",
+            0.01736623654987861
+          ],
+          [
+            "federated",
+            0.016150968607434143
+          ],
+          [
+            "clients",
+            0.015862064567013952
+          ],
+          [
+            "communication",
+            0.015587683789806694
+          ]
+        ],
+        "count": 2919
+      },
+      "1": {
+        "name": "1_blockchain_consensus_protocol_protocols",
+        "keywords": [
+          [
+            "blockchain",
+            0.030510013462267307
+          ],
+          [
+            "consensus",
+            0.02210825455905496
+          ],
+          [
+            "protocol",
+            0.017600937203726914
+          ],
+          [
+            "protocols",
+            0.015980387323805804
+          ],
+          [
+            "Byzantine",
+            0.014471619100613727
+          ],
+          [
+            "systems",
+            0.013441037665851023
+          ],
+          [
+            "Blockchain",
+            0.013350725395727911
+          ],
+          [
+            "In",
+            0.012510637887217388
+          ],
+          [
+            "transactions",
+            0.012189546905224505
+          ],
+          [
+            "network",
+            0.011448111080009968
+          ]
+        ],
+        "count": 1937
+      },
+      "2": {
+        "name": "2_training_inference_models_model",
+        "keywords": [
+          [
+            "training",
+            0.02053347506769602
+          ],
+          [
+            "inference",
+            0.019322481087760877
+          ],
+          [
+            "models",
+            0.017545066928547803
+          ],
+          [
+            "model",
+            0.01459192493221712
+          ],
+          [
+            "LLM",
+            0.014351008131942282
+          ],
+          [
+            "GPU",
+            0.014342776136640907
+          ],
+          [
+            "memory",
+            0.013247511163321962
+          ],
+          [
+            "DNN",
+            0.01109072086343347
+          ],
+          [
+            "performance",
+            0.011031672574859064
+          ],
+          [
+            "large",
+            0.010294157999758687
+          ]
+        ],
+        "count": 1889
+      },
+      "3": {
+        "name": "3_cloud_resource_computing_Cloud",
+        "keywords": [
+          [
+            "cloud",
+            0.030818969448936494
+          ],
+          [
+            "resource",
+            0.016559491346797944
+          ],
+          [
+            "computing",
+            0.01575273918098106
+          ],
+          [
+            "Cloud",
+            0.01543581639539256
+          ],
+          [
+            "serverless",
+            0.014384234665099232
+          ],
+          [
+            "applications",
+            0.013337036786468474
+          ],
+          [
+            "performance",
+            0.012752244735232288
+          ],
+          [
+            "service",
+            0.012584091387715383
+          ],
+          [
+            "carbon",
+            0.012431579454921704
+          ],
+          [
+            "energy",
+            0.011323005504174442
+          ]
+        ],
+        "count": 933
+      },
+      "4": {
+        "name": "4_HPC_performance_applications_MPI",
+        "keywords": [
+          [
+            "HPC",
+            0.02527330446792558
+          ],
+          [
+            "performance",
+            0.02118827414871761
+          ],
+          [
+            "applications",
+            0.015626761083708925
+          ],
+          [
+            "MPI",
+            0.014780970586537033
+          ],
+          [
+            "data",
+            0.012812417721531192
+          ],
+          [
+            "systems",
+            0.012145674821177376
+          ],
+          [
+            "programming",
+            0.01081860554543785
+          ],
+          [
+            "GPU",
+            0.010422456271840266
+          ],
+          [
+            "scientific",
+            0.010340931003680767
+          ],
+          [
+            "computing",
+            0.010334209511182232
+          ]
+        ],
+        "count": 926
+      },
+      "5": {
+        "name": "5_edge_computing_IoT_network",
+        "keywords": [
+          [
+            "edge",
+            0.020869138566216788
+          ],
+          [
+            "computing",
+            0.019273124210862348
+          ],
+          [
+            "IoT",
+            0.019229339377165654
+          ],
+          [
+            "network",
+            0.013852839561768629
+          ],
+          [
+            "applications",
+            0.013423771454730716
+          ],
+          [
+            "data",
+            0.013128804519387752
+          ],
+          [
+            "Edge",
+            0.012609041377824322
+          ],
+          [
+            "cloud",
+            0.012000858594436732
+          ],
+          [
+            "time",
+            0.011631118147799746
+          ],
+          [
+            "fog",
+            0.011447305561422604
+          ]
+        ],
+        "count": 820
+      },
+      "6": {
+        "name": "6_data_memory_storage_performance",
+        "keywords": [
+          [
+            "data",
+            0.035289462959758267
+          ],
+          [
+            "memory",
+            0.027040482753909273
+          ],
+          [
+            "storage",
+            0.01680040821738816
+          ],
+          [
+            "performance",
+            0.016176292567902418
+          ],
+          [
+            "systems",
+            0.012946741881232765
+          ],
+          [
+            "Data",
+            0.012780209156466127
+          ],
+          [
+            "processing",
+            0.012526862295176454
+          ],
+          [
+            "applications",
+            0.00950709049671682
+          ],
+          [
+            "high",
+            0.009333555118071855
+          ],
+          [
+            "paper",
+            0.009142576124822895
+          ]
+        ],
+        "count": 680
+      },
+      "7": {
+        "name": "7_algorithm_rounds_graph_round",
+        "keywords": [
+          [
+            "algorithm",
+            0.034146966434897306
+          ],
+          [
+            "rounds",
+            0.02890716599790385
+          ],
+          [
+            "graph",
+            0.02703236080939008
+          ],
+          [
+            "round",
+            0.02634707744897965
+          ],
+          [
+            "algorithms",
+            0.02603806149901486
+          ],
+          [
+            "complexity",
+            0.024756737512452096
+          ],
+          [
+            "graphs",
+            0.02340606892656185
+          ],
+          [
+            "distributed",
+            0.022881104903418294
+          ],
+          [
+            "problem",
+            0.02271079780407259
+          ],
+          [
+            "problems",
+            0.020894429520320966
+          ]
+        ],
+        "count": 376
+      },
+      "8": {
+        "name": "8_GPU_performance_simulations_solver",
+        "keywords": [
+          [
+            "GPU",
+            0.02383501204305222
+          ],
+          [
+            "performance",
+            0.021736770692036632
+          ],
+          [
+            "simulations",
+            0.018406199627049157
+          ],
+          [
+            "solver",
+            0.017107554016778843
+          ],
+          [
+            "code",
+            0.016936764699091663
+          ],
+          [
+            "GPUs",
+            0.016406405841179892
+          ],
+          [
+            "parallel",
+            0.01586323348291804
+          ],
+          [
+            "method",
+            0.012785555325975117
+          ],
+          [
+            "computational",
+            0.012604062564359593
+          ],
+          [
+            "high",
+            0.011707921070144765
+          ]
+        ],
+        "count": 303
+      },
+      "9": {
+        "name": "9_graph_graphs_algorithms_algorithm",
+        "keywords": [
+          [
+            "graph",
+            0.05314708991727893
+          ],
+          [
+            "graphs",
+            0.03198560426638529
+          ],
+          [
+            "algorithms",
+            0.024857179380738496
+          ],
+          [
+            "algorithm",
+            0.022517221736905794
+          ],
+          [
+            "parallel",
+            0.021695960483548604
+          ],
+          [
+            "Graph",
+            0.01568369130741892
+          ],
+          [
+            "memory",
+            0.013887992201148228
+          ],
+          [
+            "vertices",
+            0.01352384772221663
+          ],
+          [
+            "processing",
+            0.012928061202442899
+          ],
+          [
+            "partitioning",
+            0.012064226196023998
+          ]
+        ],
+        "count": 267
+      },
+      "10": {
+        "name": "10_robots_algorithm_problem_agents",
+        "keywords": [
+          [
+            "robots",
+            0.07581027926403826
+          ],
+          [
+            "algorithm",
+            0.03252632566024684
+          ],
+          [
+            "problem",
+            0.03130341878079128
+          ],
+          [
+            "agents",
+            0.02959518352093593
+          ],
+          [
+            "time",
+            0.024818382805838247
+          ],
+          [
+            "robot",
+            0.0247615266182572
+          ],
+          [
+            "nodes",
+            0.024598482303301823
+          ],
+          [
+            "node",
+            0.02400800624131017
+          ],
+          [
+            "graph",
+            0.021562287164589956
+          ],
+          [
+            "agent",
+            0.017693417569481024
+          ]
+        ],
+        "count": 229
+      },
+      "11": {
+        "name": "11_quantum_Quantum_quantum computing_computing",
+        "keywords": [
+          [
+            "quantum",
+            0.14001293247511898
+          ],
+          [
+            "Quantum",
+            0.04896854611461885
+          ],
+          [
+            "quantum computing",
+            0.02707452512706997
+          ],
+          [
+            "computing",
+            0.02639952548613726
+          ],
+          [
+            "classical",
+            0.026062322776187776
+          ],
+          [
+            "circuit",
+            0.01887682761206519
+          ],
+          [
+            "circuits",
+            0.01834179175032626
+          ],
+          [
+            "computers",
+            0.016130938787778878
+          ],
+          [
+            "qubits",
+            0.015542130111615626
+          ],
+          [
+            "quantum computers",
+            0.014205564701559205
+          ]
+        ],
+        "count": 227
+      },
+      "12": {
+        "name": "12_matrix_sparse_matrices_tensor",
+        "keywords": [
+          [
+            "matrix",
+            0.03825404151802329
+          ],
+          [
+            "sparse",
+            0.026156294835255944
+          ],
+          [
+            "matrices",
+            0.02274815664274491
+          ],
+          [
+            "tensor",
+            0.022722137064923504
+          ],
+          [
+            "SpMV",
+            0.020135429230142908
+          ],
+          [
+            "memory",
+            0.019995973580320923
+          ],
+          [
+            "Sparse",
+            0.019069355913717344
+          ],
+          [
+            "performance",
+            0.01814053855301972
+          ],
+          [
+            "Tensor",
+            0.016645275790993803
+          ],
+          [
+            "multiplication",
+            0.01635201360995144
+          ]
+        ],
+        "count": 226
+      },
+      "13": {
+        "name": "13_GNN_graph_training_Graph",
+        "keywords": [
+          [
+            "GNN",
+            0.06267284408775245
+          ],
+          [
+            "graph",
+            0.04405195698244153
+          ],
+          [
+            "training",
+            0.03372382410870809
+          ],
+          [
+            "Graph",
+            0.03313431696408203
+          ],
+          [
+            "GNNs",
+            0.030601713498169585
+          ],
+          [
+            "graphs",
+            0.02536774103038625
+          ],
+          [
+            "GPU",
+            0.0194593147871554
+          ],
+          [
+            "Neural",
+            0.016981516942828834
+          ],
+          [
+            "sampling",
+            0.013323489277325387
+          ],
+          [
+            "data",
+            0.012830956397856171
+          ]
+        ],
+        "count": 176
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.7054406483605904,
+        -0.6297071777352887,
+        -0.7237594555672728,
+        -0.6967691372038191,
+        -0.6830153781456547,
+        -0.507809453855755,
+        -0.6975586009056969,
+        -0.6960573781582516,
+        -0.7036830131598419,
+        -0.7017873812774506,
+        -0.7592322172887849,
+        -0.7401016768367747,
+        -0.6692880990125376
+      ],
+      [
+        -0.7054406483605904,
+        1.0,
+        -0.736557386657188,
+        -0.7387794197678506,
+        -0.7093227223490984,
+        -0.7308993659199229,
+        -0.6950961452087081,
+        -0.6846993241508648,
+        -0.7022087158972654,
+        -0.7131920587652008,
+        -0.7011827264160991,
+        -0.7579041654057121,
+        -0.7517329561354975,
+        -0.7450767436734944
+      ],
+      [
+        -0.6297071777352887,
+        -0.736557386657188,
+        1.0,
+        -0.7249382675785507,
+        -0.714103863565686,
+        -0.7172981426425051,
+        -0.7026590145310391,
+        -0.746532902461666,
+        -0.7009202906809828,
+        -0.7314432188011805,
+        -0.7439168509808531,
+        -0.7622732562734713,
+        -0.7312774052046214,
+        -0.5991190976593317
+      ],
+      [
+        -0.7237594555672728,
+        -0.7387794197678506,
+        -0.7249382675785507,
+        1.0,
+        -0.6956295373828644,
+        -0.5138414582805452,
+        -0.7027156045713063,
+        -0.7453181598987735,
+        -0.7198125418663579,
+        -0.738612177782408,
+        -0.7347832404946484,
+        -0.7539625701003514,
+        -0.7540914257814968,
+        -0.7484709799233092
+      ],
+      [
+        -0.6967691372038191,
+        -0.7093227223490984,
+        -0.714103863565686,
+        -0.6956295373828644,
+        1.0,
+        -0.7167017455327551,
+        -0.48062939299484764,
+        -0.7265823502524035,
+        -0.3259182365718285,
+        -0.7047562022992322,
+        -0.7257567560192786,
+        -0.7459245686220146,
+        -0.7202252426300467,
+        -0.7356594700521366
+      ],
+      [
+        -0.6830153781456547,
+        -0.7308993659199229,
+        -0.7172981426425051,
+        -0.5138414582805452,
+        -0.7167017455327551,
+        1.0,
+        -0.6956565975239892,
+        -0.7348784992734032,
+        -0.7266726227688387,
+        -0.7298361087820987,
+        -0.721961029035149,
+        -0.7591172622788467,
+        -0.754233749626384,
+        -0.7446860532434625
+      ],
+      [
+        -0.507809453855755,
+        -0.6950961452087081,
+        -0.7026590145310391,
+        -0.7027156045713063,
+        -0.48062939299484764,
+        -0.6956565975239892,
+        1.0,
+        -0.708918871872464,
+        -0.4543461846256823,
+        -0.6901964927477444,
+        -0.7175622971061636,
+        -0.7512828315436076,
+        -0.6338177239267393,
+        -0.7252121642452793
+      ],
+      [
+        -0.6975586009056969,
+        -0.6846993241508648,
+        -0.746532902461666,
+        -0.7453181598987735,
+        -0.7265823502524035,
+        -0.7348784992734032,
+        -0.708918871872464,
+        1.0,
+        -0.7189508018141767,
+        -0.2888289216686219,
+        -0.4618528938356057,
+        -0.7492221550315448,
+        -0.7239264388828768,
+        -0.6687468519537725
+      ],
+      [
+        -0.6960573781582516,
+        -0.7022087158972654,
+        -0.7009202906809828,
+        -0.7198125418663579,
+        -0.3259182365718285,
+        -0.7266726227688387,
+        -0.4543461846256823,
+        -0.7189508018141767,
+        1.0,
+        -0.6909839916604066,
+        -0.7142538087373917,
+        -0.7513028330439462,
+        -0.7084114217741313,
+        -0.7288898767933023
+      ],
+      [
+        -0.7036830131598419,
+        -0.7131920587652008,
+        -0.7314432188011805,
+        -0.738612177782408,
+        -0.7047562022992322,
+        -0.7298361087820987,
+        -0.6901964927477444,
+        -0.2888289216686219,
+        -0.6909839916604066,
+        1.0,
+        -0.5246602798571783,
+        -0.7530591979834065,
+        -0.7023415113658156,
+        -0.38854775041084
+      ],
+      [
+        -0.7017873812774506,
+        -0.7011827264160991,
+        -0.7439168509808531,
+        -0.7347832404946484,
+        -0.7257567560192786,
+        -0.721961029035149,
+        -0.7175622971061636,
+        -0.4618528938356057,
+        -0.7142538087373917,
+        -0.5246602798571783,
+        1.0,
+        -0.7583221804501581,
+        -0.7295744489093103,
+        -0.7244804681342873
+      ],
+      [
+        -0.7592322172887849,
+        -0.7579041654057121,
+        -0.7622732562734713,
+        -0.7539625701003514,
+        -0.7459245686220146,
+        -0.7591172622788467,
+        -0.7512828315436076,
+        -0.7492221550315448,
+        -0.7513028330439462,
+        -0.7530591979834065,
+        -0.7583221804501581,
+        1.0,
+        -0.7470891227840115,
+        -0.7591988931345113
+      ],
+      [
+        -0.7401016768367747,
+        -0.7517329561354975,
+        -0.7312774052046214,
+        -0.7540914257814968,
+        -0.7202252426300467,
+        -0.754233749626384,
+        -0.6338177239267393,
+        -0.7239264388828768,
+        -0.7084114217741313,
+        -0.7023415113658156,
+        -0.7295744489093103,
+        -0.7470891227840115,
+        1.0,
+        -0.7288254289685359
+      ],
+      [
+        -0.6692880990125376,
+        -0.7450767436734944,
+        -0.5991190976593317,
+        -0.7484709799233092,
+        -0.7356594700521366,
+        -0.7446860532434625,
+        -0.7252121642452793,
+        -0.6687468519537725,
+        -0.7288898767933023,
+        -0.38854775041084,
+        -0.7244804681342873,
+        -0.7591988931345113,
+        -0.7288254289685359,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        47,
+        25,
+        4,
+        11,
+        13,
+        10,
+        17,
+        13,
+        3,
+        13,
+        4,
+        2,
+        5,
+        1
+      ],
+      "2020-02": [
+        74,
+        24,
+        5,
+        2,
+        21,
+        9,
+        16,
+        18,
+        8,
+        20,
+        4,
+        2,
+        14,
+        2
+      ],
+      "2020-03": [
+        56,
+        20,
+        0,
+        11,
+        14,
+        7,
+        25,
+        21,
+        5,
+        14,
+        9,
+        2,
+        5,
+        0
+      ],
+      "2020-04": [
+        50,
+        30,
+        3,
+        16,
+        18,
+        18,
+        21,
+        12,
+        5,
+        11,
+        10,
+        2,
+        3,
+        0
+      ],
+      "2020-05": [
+        51,
+        23,
+        3,
+        11,
+        15,
+        12,
+        18,
+        17,
+        8,
+        14,
+        8,
+        0,
+        4,
+        4
+      ],
+      "2020-06": [
+        68,
+        26,
+        7,
+        13,
+        19,
+        10,
+        19,
+        13,
+        5,
+        14,
+        3,
+        1,
+        8,
+        3
+      ],
+      "2020-07": [
+        68,
+        25,
+        9,
+        7,
+        20,
+        9,
+        19,
+        15,
+        3,
+        11,
+        12,
+        1,
+        5,
+        5
+      ],
+      "2020-08": [
+        62,
+        15,
+        5,
+        14,
+        19,
+        8,
+        16,
+        15,
+        4,
+        17,
+        9,
+        3,
+        6,
+        3
+      ],
+      "2020-09": [
+        46,
+        18,
+        3,
+        5,
+        14,
+        10,
+        17,
+        13,
+        8,
+        19,
+        13,
+        3,
+        7,
+        1
+      ],
+      "2020-10": [
+        87,
+        33,
+        5,
+        6,
+        30,
+        13,
+        15,
+        12,
+        7,
+        24,
+        9,
+        1,
+        9,
+        6
+      ],
+      "2020-11": [
+        67,
+        17,
+        5,
+        9,
+        12,
+        6,
+        13,
+        13,
+        6,
+        14,
+        9,
+        2,
+        4,
+        3
+      ],
+      "2020-12": [
+        61,
+        14,
+        6,
+        9,
+        21,
+        16,
+        16,
+        12,
+        3,
+        19,
+        8,
+        2,
+        5,
+        1
+      ],
+      "2021-01": [
+        53,
+        24,
+        2,
+        14,
+        14,
+        13,
+        7,
+        5,
+        3,
+        7,
+        6,
+        1,
+        2,
+        1
+      ],
+      "2021-02": [
+        88,
+        16,
+        5,
+        10,
+        15,
+        10,
+        15,
+        25,
+        2,
+        17,
+        9,
+        2,
+        3,
+        2
+      ],
+      "2021-03": [
+        66,
+        20,
+        4,
+        7,
+        23,
+        9,
+        13,
+        11,
+        4,
+        17,
+        5,
+        1,
+        4,
+        3
+      ],
+      "2021-04": [
+        82,
+        22,
+        5,
+        10,
+        17,
+        16,
+        11,
+        7,
+        5,
+        13,
+        10,
+        1,
+        6,
+        5
+      ],
+      "2021-05": [
+        70,
+        20,
+        9,
+        12,
+        18,
+        14,
+        20,
+        24,
+        5,
+        15,
+        9,
+        1,
+        6,
+        4
+      ],
+      "2021-06": [
+        86,
+        15,
+        5,
+        10,
+        17,
+        8,
+        16,
+        19,
+        2,
+        14,
+        6,
+        6,
+        6,
+        3
+      ],
+      "2021-07": [
+        74,
+        25,
+        3,
+        7,
+        19,
+        13,
+        13,
+        3,
+        4,
+        11,
+        5,
+        4,
+        9,
+        1
+      ],
+      "2021-08": [
+        79,
+        17,
+        3,
+        12,
+        14,
+        11,
+        17,
+        16,
+        6,
+        14,
+        7,
+        0,
+        6,
+        2
+      ],
+      "2021-09": [
+        69,
+        23,
+        4,
+        9,
+        19,
+        14,
+        10,
+        7,
+        3,
+        18,
+        11,
+        4,
+        6,
+        3
+      ],
+      "2021-10": [
+        68,
+        15,
+        5,
+        10,
+        10,
+        6,
+        16,
+        8,
+        5,
+        16,
+        8,
+        4,
+        5,
+        2
+      ],
+      "2021-11": [
+        59,
+        17,
+        4,
+        12,
+        8,
+        10,
+        20,
+        9,
+        1,
+        15,
+        4,
+        1,
+        3,
+        3
+      ],
+      "2021-12": [
+        57,
+        22,
+        4,
+        17,
+        24,
+        13,
+        13,
+        9,
+        7,
+        9,
+        7,
+        2,
+        5,
+        7
+      ],
+      "2022-01": [
+        65,
+        10,
+        7,
+        10,
+        13,
+        11,
+        20,
+        5,
+        4,
+        8,
+        2,
+        5,
+        2,
+        1
+      ],
+      "2022-02": [
+        55,
+        20,
+        4,
+        12,
+        5,
+        4,
+        11,
+        17,
+        2,
+        16,
+        6,
+        2,
+        8,
+        4
+      ],
+      "2022-03": [
+        52,
+        25,
+        2,
+        13,
+        22,
+        12,
+        17,
+        6,
+        3,
+        13,
+        9,
+        3,
+        10,
+        1
+      ],
+      "2022-04": [
+        75,
+        13,
+        3,
+        9,
+        12,
+        12,
+        9,
+        12,
+        3,
+        11,
+        4,
+        0,
+        8,
+        4
+      ],
+      "2022-05": [
+        86,
+        24,
+        5,
+        14,
+        15,
+        9,
+        20,
+        12,
+        4,
+        18,
+        9,
+        6,
+        8,
+        5
+      ],
+      "2022-06": [
+        73,
+        22,
+        7,
+        13,
+        16,
+        5,
+        21,
+        6,
+        4,
+        6,
+        9,
+        2,
+        9,
+        1
+      ],
+      "2022-07": [
+        76,
+        18,
+        5,
+        8,
+        13,
+        9,
+        7,
+        6,
+        2,
+        11,
+        10,
+        5,
+        10,
+        5
+      ],
+      "2022-08": [
+        69,
+        26,
+        5,
+        7,
+        11,
+        14,
+        13,
+        12,
+        7,
+        21,
+        5,
+        4,
+        4,
+        1
+      ],
+      "2022-09": [
+        48,
+        16,
+        7,
+        4,
+        21,
+        6,
+        11,
+        4,
+        2,
+        14,
+        7,
+        8,
+        8,
+        5
+      ],
+      "2022-10": [
+        66,
+        17,
+        7,
+        13,
+        14,
+        13,
+        14,
+        11,
+        0,
+        10,
+        14,
+        6,
+        5,
+        1
+      ],
+      "2022-11": [
+        78,
+        10,
+        4,
+        12,
+        20,
+        11,
+        12,
+        17,
+        7,
+        12,
+        9,
+        4,
+        4,
+        10
+      ],
+      "2022-12": [
+        57,
+        14,
+        4,
+        6,
+        13,
+        8,
+        15,
+        4,
+        10,
+        10,
+        5,
+        2,
+        3,
+        1
+      ],
+      "2023-01": [
+        54,
+        18,
+        3,
+        9,
+        15,
+        6,
+        20,
+        15,
+        2,
+        14,
+        9,
+        2,
+        5,
+        3
+      ],
+      "2023-02": [
+        55,
+        20,
+        2,
+        7,
+        12,
+        11,
+        7,
+        12,
+        1,
+        18,
+        8,
+        1,
+        8,
+        4
+      ],
+      "2023-03": [
+        80,
+        17,
+        5,
+        10,
+        20,
+        11,
+        9,
+        14,
+        5,
+        12,
+        8,
+        5,
+        7,
+        9
+      ],
+      "2023-04": [
+        60,
+        13,
+        7,
+        9,
+        21,
+        10,
+        15,
+        9,
+        6,
+        14,
+        8,
+        2,
+        4,
+        4
+      ],
+      "2023-05": [
+        100,
+        37,
+        6,
+        12,
+        20,
+        10,
+        17,
+        23,
+        4,
+        20,
+        7,
+        3,
+        2,
+        10
+      ],
+      "2023-06": [
+        102,
+        11,
+        6,
+        7,
+        20,
+        9,
+        13,
+        6,
+        7,
+        19,
+        4,
+        1,
+        6,
+        4
+      ],
+      "2023-07": [
+        85,
+        21,
+        6,
+        8,
+        15,
+        11,
+        7,
+        13,
+        1,
+        17,
+        4,
+        4,
+        8,
+        2
+      ],
+      "2023-08": [
+        78,
+        24,
+        4,
+        7,
+        19,
+        7,
+        13,
+        9,
+        8,
+        15,
+        10,
+        9,
+        5,
+        3
+      ],
+      "2023-09": [
+        81,
+        22,
+        11,
+        13,
+        17,
+        12,
+        19,
+        8,
+        6,
+        15,
+        5,
+        3,
+        4,
+        7
+      ],
+      "2023-10": [
+        92,
+        26,
+        11,
+        10,
+        19,
+        16,
+        16,
+        7,
+        2,
+        13,
+        4,
+        2,
+        6,
+        7
+      ],
+      "2023-11": [
+        94,
+        15,
+        11,
+        14,
+        15,
+        13,
+        23,
+        12,
+        1,
+        15,
+        13,
+        7,
+        5,
+        11
+      ],
+      "2023-12": [
+        83,
+        16,
+        20,
+        6,
+        16,
+        10,
+        12,
+        9,
+        7,
+        15,
+        7,
+        5,
+        6,
+        5
+      ],
+      "2024-01": [
+        95,
+        14,
+        15,
+        18,
+        14,
+        12,
+        7,
+        6,
+        3,
+        15,
+        4,
+        6,
+        10,
+        3
+      ],
+      "2024-02": [
+        91,
+        19,
+        14,
+        10,
+        13,
+        10,
+        8,
+        11,
+        5,
+        18,
+        7,
+        3,
+        7,
+        9
+      ],
+      "2024-03": [
+        116,
+        17,
+        15,
+        11,
+        23,
+        11,
+        13,
+        9,
+        3,
+        11,
+        4,
+        10,
+        9,
+        5
+      ],
+      "2024-04": [
+        89,
+        19,
+        14,
+        15,
+        21,
+        10,
+        13,
+        5,
+        3,
+        17,
+        8,
+        10,
+        7,
+        8
+      ],
+      "2024-05": [
+        149,
+        35,
+        17,
+        13,
+        15,
+        21,
+        16,
+        30,
+        5,
+        18,
+        11,
+        8,
+        8,
+        2
+      ],
+      "2024-06": [
+        114,
+        14,
+        23,
+        15,
+        24,
+        17,
+        13,
+        7,
+        12,
+        13,
+        2,
+        7,
+        7,
+        9
+      ],
+      "2024-07": [
+        99,
+        28,
+        24,
+        9,
+        19,
+        10,
+        10,
+        5,
+        3,
+        12,
+        7,
+        9,
+        6,
+        4
+      ],
+      "2024-08": [
+        81,
+        14,
+        16,
+        8,
+        21,
+        7,
+        14,
+        12,
+        0,
+        15,
+        7,
+        6,
+        9,
+        5
+      ],
+      "2024-09": [
+        96,
+        19,
+        17,
+        8,
+        22,
+        12,
+        15,
+        8,
+        6,
+        8,
+        2,
+        7,
+        8,
+        6
+      ],
+      "2024-10": [
+        109,
+        26,
+        29,
+        14,
+        23,
+        12,
+        16,
+        12,
+        7,
+        20,
+        10,
+        7,
+        2,
+        3
+      ],
+      "2024-11": [
+        97,
+        22,
+        23,
+        15,
+        14,
+        21,
+        13,
+        10,
+        5,
+        16,
+        5,
+        5,
+        6,
+        4
+      ],
+      "2024-12": [
+        96,
+        21,
+        25,
+        7,
+        21,
+        12,
+        18,
+        15,
+        4,
+        14,
+        7,
+        11,
+        3,
+        9
+      ],
+      "2025-01": [
+        103,
+        25,
+        22,
+        14,
+        16,
+        4,
+        22,
+        7,
+        5,
+        12,
+        3,
+        5,
+        8,
+        7
+      ],
+      "2025-02": [
+        95,
+        19,
+        30,
+        20,
+        22,
+        11,
+        14,
+        17,
+        9,
+        15,
+        5,
+        3,
+        7,
+        2
+      ],
+      "2025-03": [
+        131,
+        19,
+        42,
+        12,
+        25,
+        13,
+        17,
+        8,
+        6,
+        17,
+        4,
+        4,
+        12,
+        5
+      ],
+      "2025-04": [
+        103,
+        24,
+        33,
+        13,
+        16,
+        11,
+        10,
+        22,
+        4,
+        19,
+        4,
+        11,
+        7,
+        9
+      ],
+      "2025-05": [
+        120,
+        21,
+        44,
+        21,
+        23,
+        8,
+        23,
+        14,
+        5,
+        14,
+        5,
+        14,
+        7,
+        6
+      ],
+      "2025-06": [
+        111,
+        19,
+        29,
+        11,
+        19,
+        9,
+        16,
+        14,
+        5,
+        10,
+        5,
+        12,
+        13,
+        3
+      ],
+      "2025-07": [
+        104,
+        21,
+        28,
+        16,
+        25,
+        15,
+        13,
+        13,
+        12,
+        24,
+        7,
+        6,
+        12,
+        4
+      ],
+      "2025-08": [
+        110,
+        19,
+        32,
+        10,
+        24,
+        11,
+        17,
+        9,
+        6,
+        9,
+        10,
+        11,
+        8,
+        4
+      ],
+      "2025-09": [
+        50,
+        20,
+        13,
+        8,
+        14,
+        4,
+        6,
+        5,
+        1,
+        7,
+        12,
+        4,
+        3,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Comparative assessment of federated and centralized machine learning",
+          "year": "2022-02",
+          "abstract": "Federated Learning (FL) is a privacy preserving machine learning scheme,\nwhere training happens with data federated across devices and not leaving them\nto sustain user privacy. This is ensured by making the untrained or partially\ntrained models to reach directly the individual devices and getting locally\ntrained \"on-device\" using the device owned data, and the server aggregating all\nthe partially trained model learnings to update a global model. Although almost\nall the model learning schemes in the federated learning setup use gradient\ndescent, there are certain characteristic differences brought about by the\nnon-IID nature of the data availability, that affects the training in\ncomparison to the centralized schemes. In this paper, we discuss the various\nfactors that affect the federated learning training, because of the non-IID\ndistributed nature of the data, as well as the inherent differences in the\nfederating learning approach as against the typical centralized gradient\ndescent techniques. We empirically demonstrate the effect of number of samples\nper device and the distribution of output labels on federated learning. In\naddition to the privacy advantage we seek through federated learning, we also\nstudy if there is a cost advantage while using federated learning frameworks.\nWe show that federated learning does have an advantage in cost when the model\nsizes to be trained are not reasonably large. All in all, we present the need\nfor careful design of model for both performance and cost.",
+          "arxiv_id": "2202.01529v1"
+        },
+        {
+          "title": "Edge Association Strategies for Synthetic Data Empowered Hierarchical Federated Learning with Non-IID Data",
+          "year": "2025-06",
+          "abstract": "In recent years, Federated Learning (FL) has emerged as a widely adopted\nprivacy-preserving distributed training approach, attracting significant\ninterest from both academia and industry. Research efforts have been dedicated\nto improving different aspects of FL, such as algorithm improvement, resource\nallocation, and client selection, to enable its deployment in distributed edge\nnetworks for practical applications. One of the reasons for the poor FL model\nperformance is due to the worker dropout during training as the FL server may\nbe located far away from the FL workers. To address this issue, an Hierarchical\nFederated Learning (HFL) framework has been introduced, incorporating an\nadditional layer of edge servers to relay communication between the FL server\nand workers. While the HFL framework improves the communication between the FL\nserver and workers, large number of communication rounds may still be required\nfor model convergence, particularly when FL workers have non-independent and\nidentically distributed (non-IID) data. Moreover, the FL workers are assumed to\nfully cooperate in the FL training process, which may not always be true in\npractical situations. To overcome these challenges, we propose a\nsynthetic-data-empowered HFL framework that mitigates the statistical issues\narising from non-IID local datasets while also incentivizing FL worker\nparticipation. In our proposed framework, the edge servers reward the FL\nworkers in their clusters for facilitating the FL training process. To improve\nthe performance of the FL model given the non-IID local datasets of the FL\nworkers, the edge servers generate and distribute synthetic datasets to FL\nworkers within their clusters. FL workers determine which edge server to\nassociate with, considering the computational resources required to train on\nboth their local datasets and the synthetic datasets.",
+          "arxiv_id": "2506.18259v1"
+        },
+        {
+          "title": "Latency Aware Semi-synchronous Client Selection and Model Aggregation for Wireless Federated Learning",
+          "year": "2022-10",
+          "abstract": "Federated learning (FL) is a collaborative machine learning framework that\nrequires different clients (e.g., Internet of Things devices) to participate in\nthe machine learning model training process by training and uploading their\nlocal models to an FL server in each global iteration. Upon receiving the local\nmodels from all the clients, the FL server generates a global model by\naggregating the received local models. This traditional FL process may suffer\nfrom the straggler problem in heterogeneous client settings, where the FL\nserver has to wait for slow clients to upload their local models in each global\niteration, thus increasing the overall training time. One of the solutions is\nto set up a deadline and only the clients that can upload their local models\nbefore the deadline would be selected in the FL process. This solution may lead\nto a slow convergence rate and global model overfitting issues due to the\nlimited client selection. In this paper, we propose the Latency awarE\nSemi-synchronous client Selection and mOdel aggregation for federated learNing\n(LESSON) method that allows all the clients to participate in the whole FL\nprocess but with different frequencies. That is, faster clients would be\nscheduled to upload their models more frequently than slow clients, thus\nresolving the straggler problem and accelerating the convergence speed, while\navoiding model overfitting. Also, LESSON is capable of adjusting the tradeoff\nbetween the model accuracy and convergence rate by varying the deadline.\nExtensive simulations have been conducted to compare the performance of LESSON\nwith the other two baseline methods, i.e., FedAvg and FedCS. The simulation\nresults demonstrate that LESSON achieves faster convergence speed than FedAvg\nand FedCS, and higher model accuracy than FedCS.",
+          "arxiv_id": "2210.10311v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "A Location-based and Hierarchical Framework for Fast Consensus in Blockchain Networks",
+          "year": "2023-05",
+          "abstract": "Blockchain-based IoT systems can manage IoT devices and achieve a high level\nof data integrity, security, and provenance. However, incorporating the\nexisting consensus protocols in many IoT systems limits scalability and leads\nto high computational cost and network latency. We propose a hierar-chical and\nlocation-aware consensus protocol for IoI-blockchain applications inspired by\nthe original Raft protocol to address these limitations. The proposed consensus\nprotocol generates the consensus candidate groups based on nodes' individual\nreputation and distance information to elect the leader in each sub-layer\nblockchain and uses our threshold signature scheme to reach global consensus.\nExperimental results show that the proposed consensus protocol is scalable for\nlarge IoT applications and significantly reduces the communication cost,\nnetwork latency, and agreement time by more than 50% compared with the Raft\nprotocol for consensus processing.",
+          "arxiv_id": "2305.16962v1"
+        },
+        {
+          "title": "Cob: a consensus layer enabling sustainable sharding-based consensus protocols",
+          "year": "2022-05",
+          "abstract": "In this paper we explore a context of application of Cob, a recently\nintroduced Byzantine Fault Tolerant consensus protocol. Cob proves to be a\nleaderless consensus protocol which carries out the consensus process in\nparallel on each component of a list of events to be observed and recorded. We\nshow how Cob can be used to define a consensus layer for scalable and\nsustainable blockchains. This layer is used to design consensus protocols based\non sharding as a mean to achieve scalability, and on the fragmentation of time\nin time-slots (which get assigned to nodes that are instructed to create new\nblocks) as a mean to reduce the amount of computation and communication\nnecessary for the maintenance of the distributed ledger. We explain why Cob is\na viable candidate to implement such consensus layer through the introduction\nof an auxiliary blockchain that we name Synchronization Chain.",
+          "arxiv_id": "2205.06384v1"
+        },
+        {
+          "title": "A Consensus Algorithm Based on Risk Assessment Model for Permissioned Blockchain",
+          "year": "2022-07",
+          "abstract": "Blockchain technology enables stakeholders to conduct trusted data sharing\nand exchange without a trusted centralized institution. These features make\nblockchain applications attractive to enhance trustworthiness in very different\ncontexts. Due to unique design concepts and outstanding performance, blockchain\nhas become a popular research topic in industry and academia in recent years.\nEvery participant is anonymous in a permissionless blockchain represented by\ncryptocurrency applications such as Bitcoin. In this situation, some special\nincentive mechanisms are applied to permissionless blockchain, such as mined\nnative cryptocurrency to solve the trust issues of permissionless blockchain.\nIn many use cases, permissionless blockchain has bottlenecks in transaction\nthroughput performance, which restricts further application in the real world.\nA permissioned blockchain can reach a consensus among a group of entities that\ndo not establish an entire trust relationship. Unlike permissionless\nblockchains, the participants must be identified in permissioned blockchains.\nBy relying on the traditional crash fault-tolerant consensus protocols,\npermissioned blockchains can achieve high transaction throughput and low\nlatency without sacrificing security. However, how to balance the security and\nconsensus efficiency is still the issue that needs to be solved urgently in\npermissioned blockchains. As the core module of blockchain technology, the\nconsensus algorithm plays a vital role in the performance of the blockchain\nsystem. Thus, this paper proposes a new consensus algorithm for permissioned\nblockchain, the Risk Assessment-based Consensus protocol (RAC), combined with\nthe decentralized design concept and the risk-node assessment mechanism to\naddress the unbalance issues of performance in speed, scalability, and\nsecurity.",
+          "arxiv_id": "2207.07453v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints",
+          "year": "2025-04",
+          "abstract": "Mixture of Experts (MoE) LLMs, characterized by their sparse activation\npatterns, offer a promising approach to scaling language models while avoiding\nproportionally increasing the inference cost. However, their large parameter\nsizes present deployment challenges in resource-constrained environments with\nlimited GPU memory capacity, as GPU memory is often insufficient to accommodate\nthe full set of model weights. Consequently, typical deployments rely on\nCPU-GPU hybrid execution: the GPU handles compute-intensive GEMM operations,\nwhile the CPU processes the relatively lightweight attention mechanism. This\nsetup introduces a key challenge: how to effectively optimize resource\nutilization across CPU and GPU? Prior work has designed system optimizations\nbased on performance models with limited scope. Specifically, such models do\nnot capture the complex interactions between hardware properties and system\nexecution mechanisms. Therefore, previous approaches neither identify nor\nachieve the hardware limit.\n  This paper presents MoE-Lens, a high-throughput MoE LLM inference system\ndesigned through holistic performance modeling for resource-constrained\nenvironments. Our performance model thoroughly analyzes various fundamental\nsystem components, including CPU memory capacity, GPU compute power, and\nworkload characteristics, to understand the theoretical performance upper bound\nof MoE inference. Furthermore, it captures the system execution mechanisms to\nidentify the key hardware bottlenecks and accurately predict the achievable\nthroughput. Informed by our performance model, MoE-Lens introduces an inference\nsystem approaching hardware limits. Evaluated on diverse MoE models and\ndatasets, MoE-Lens outperforms the state-of-the-art solution by 4.6x on average\n(up to 25.5x), with our theoretical model predicting performance with an\naverage 94% accuracy.",
+          "arxiv_id": "2504.09345v1"
+        },
+        {
+          "title": "Workload-Aware Hardware Accelerator Mining for Distributed Deep Learning Training",
+          "year": "2024-04",
+          "abstract": "In this paper, we present a novel technique to search for hardware\narchitectures of accelerators optimized for end-to-end training of deep neural\nnetworks (DNNs). Our approach addresses both single-device and distributed\npipeline and tensor model parallel scenarios, latter being addressed for the\nfirst time. The search optimized accelerators for training relevant metrics\nsuch as throughput/TDP under a fixed area and power constraints. However, with\nthe proliferation of specialized architectures and complex distributed training\nmechanisms, the design space exploration of hardware accelerators is very\nlarge. Prior work in this space has tried to tackle this by reducing the search\nspace to either a single accelerator execution that too only for inference, or\ntuning the architecture for specific layers (e.g., convolution). Instead, we\ntake a unique heuristic-based critical path-based approach to determine the\nbest use of available resources (power and area) either for a set of DNN\nworkloads or each workload individually. First, we perform local search to\ndetermine the architecture for each pipeline and tensor model stage.\nSpecifically, the system iteratively generates architectural configurations and\ntunes the design using a novel heuristic-based approach that prioritizes\naccelerator resources and scheduling to critical operators in a machine\nlearning workload. Second, to address the complexities of distributed training,\nthe local search selects multiple (k) designs per stage. A global search then\nidentifies an accelerator from the top-k sets to optimize training throughput\nacross the stages. We evaluate this work on 11 different DNN models. Compared\nto a recent inference-only work Spotlight, our method converges to a design in,\non average, 31x less time and offers 12x higher throughput. Moreover, designs\ngenerated using our method achieve 12% throughput improvement over TPU\narchitecture.",
+          "arxiv_id": "2404.14632v1"
+        },
+        {
+          "title": "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference",
+          "year": "2023-10",
+          "abstract": "Large language models (LLMs) have exploded in popularity due to their new\ngenerative capabilities that go far beyond prior state-of-the-art. These\ntechnologies are increasingly being leveraged in various domains such as law,\nfinance, and medicine. However, these models carry significant computational\nchallenges, especially the compute and energy costs required for inference.\nInference energy costs already receive less attention than the energy costs of\ntraining LLMs -- despite how often these large models are called on to conduct\ninference in reality (e.g., ChatGPT). As these state-of-the-art LLMs see\nincreasing usage and deployment in various domains, a better understanding of\ntheir resource utilization is crucial for cost-savings, scaling performance,\nefficient hardware usage, and optimal inference strategies.\n  In this paper, we describe experiments conducted to study the computational\nand energy utilization of inference with LLMs. We benchmark and conduct a\npreliminary analysis of the inference performance and inference energy costs of\ndifferent sizes of LLaMA -- a recent state-of-the-art LLM -- developed by Meta\nAI on two generations of popular GPUs (NVIDIA V100 \\& A100) and two datasets\n(Alpaca and GSM8K) to reflect the diverse set of tasks/benchmarks for LLMs in\nresearch and practice. We present the results of multi-node, multi-GPU\ninference using model sharding across up to 32 GPUs. To our knowledge, our work\nis the one of the first to study LLM inference performance from the perspective\nof computational and energy resources at this scale.",
+          "arxiv_id": "2310.03003v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Recent Advances in Energy Efficient Resource Management Techniques in Cloud Computing Environments",
+          "year": "2021-07",
+          "abstract": "Nowadays cloud computing adoption as a form of hosted application and\nservices is widespread due to decreasing costs of hardware, software, and\nmaintenance. Cloud enables access to a shared pool of virtual resources hosted\nin large energy-hungry data centers for diverse information and communication\nservices with dynamic workloads. The huge energy consumption of cloud data\ncenters results in high electricity bills as well as emission of a large amount\nof carbon dioxide gas. Needless to say, efficient resource management in cloud\nenvironments has become one of the most important priorities of cloud providers\nand consequently has increased the interest of researchers to propose novel\nenergy saving solutions. This chapter presents a scientific and taxonomic\nsurvey of recent energy efficient cloud resource management' solutions in cloud\nenvironments. The main objective of this study is to propose a novel complete\ntaxonomy for energy-efficient cloud resource management solutions, review\nrecent research advancements in this area, classify the existing techniques\nbased on our proposed taxonomy, and open up new research directions. Besides,\nit reviews and surveys the literature in the range of 2015 through 2021 in the\nsubject of energy-efficient cloud resource management techniques and maps them\nto its proposed taxonomy, which unveils novel research directions and\nfacilitates the conduction of future researches.",
+          "arxiv_id": "2107.06005v1"
+        },
+        {
+          "title": "EsDNN: Deep Neural Network based Multivariate Workload Prediction Approach in Cloud Environment",
+          "year": "2022-03",
+          "abstract": "Cloud computing has been regarded as a successful paradigm for IT industry by\nproviding benefits for both service providers and customers. In spite of the\nadvantages, cloud computing also suffers from distinct challenges, and one of\nthem is the inefficient resource provisioning for dynamic workloads. Accurate\nworkload predictions for cloud computing can support efficient resource\nprovisioning and avoid resource wastage. However, due to the high-dimensional\nand high-variable features of cloud workloads, it is difficult to predict the\nworkloads effectively and accurately. The current dominant work for cloud\nworkload prediction is based on regression approaches or recurrent neural\nnetworks, which fail to capture the long-term variance of workloads. To address\nthe challenges and overcome the limitations of existing works, we proposed an\nefficient supervised learning-based Deep Neural Network (esDNN}) approach for\ncloud workload prediction. Firstly, we utilize a sliding window to convert the\nmultivariate data into supervised learning time series that allow deep learning\nfor processing. Then we apply a revised Gated Recurrent Unit (GRU) to achieve\naccurate prediction. To show the effectiveness of esDNN, we also conduct\ncomprehensive experiments based on realistic traces derived from Alibaba and\nGoogle cloud data centers. The experimental results demonstrate that esDNN can\naccurately and efficiently predict cloud workloads. Compared with the\nstate-of-the-art baselines, esDNN can reduce the mean square errors\nsignificantly, e.g. 15% than the approach using GRU only. We also apply esDNN\nfor machines auto-scaling, which illustrates that esDNN can reduce the number\nof active hosts efficiently, thus the costs of service providers can be\noptimized.",
+          "arxiv_id": "2203.02684v1"
+        },
+        {
+          "title": "A Direct Approach for Solving Cloud Computing Task Assignment with Soft Deadlines",
+          "year": "2023-11",
+          "abstract": "Job scheduling in cloud computing environments is a critical yet complex\nproblem. Cloud computing user job requirements are highly dynamic and\nuncertain, while cloud computing resources are heterogeneous and constrained.\nThis paper studies the online resource allocation problem for elastic computing\njobs with soft deadlines in cloud computing environments. The main\ncontributions include: 1) Integer linear programming modeling is used to design\nan auction time scheduling framework with three key modules - resource\nallocation, evaluation, and operation, which can dynamically allocate resources\nin closed loops. 2) Methods such as time-based single resource utilization\nevaluation and weighted average evaluation are proposed to evaluate resource\nusage efficiency. 3) Soft acceptance protocols are introduced to achieve\nelastic online resource allocation. 4) The time complexity of the proposed\nalgorithms is analyzed and proven to be polynomial time, demonstrating\nefficiency. 5) Modular design makes the framework extensible. This paper\nprovides a structured cloud computing auction framework as a reference for\nbuilding practical cloud resource management systems. Future work may explore\nmore complex models of random arrival and multi-dimensional resource\nconstraints, evaluate algorithm performance on real cloud workloads, and\nfurther enhance system robustness, efficiency and fairness.",
+          "arxiv_id": "2311.08791v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "PSI/J: A Portable Interface for Submitting, Monitoring, and Managing Jobs",
+          "year": "2023-07",
+          "abstract": "It is generally desirable for high-performance computing (HPC) applications\nto be portable between HPC systems, for example to make use of more performant\nhardware, make effective use of allocations, and to co-locate compute jobs with\nlarge datasets. Unfortunately, moving scientific applications between HPC\nsystems is challenging for various reasons, most notably that HPC systems have\ndifferent HPC schedulers. We introduce PSI/J, a job management abstraction API\nintended to simplify the construction of software components and applications\nthat are portable over various HPC scheduler implementations. We argue that\nsuch a system is both necessary and that no viable alternative currently\nexists. We analyze similar notable APIs and attempt to determine the factors\nthat influenced their evolution and adoption by the HPC community. We base the\ndesign of PSI/J on that analysis. We describe how PSI/J has been integrated in\nthree workflow systems and one application, and also show via experiments that\nPSI/J imposes minimal overhead.",
+          "arxiv_id": "2307.07895v2"
+        },
+        {
+          "title": "Enabling Dynamic and Intelligent Workflows for HPC, Data Analytics, and AI Convergence",
+          "year": "2022-04",
+          "abstract": "The evolution of High-Performance Computing (HPC) platforms enables the\ndesign and execution of progressively larger and more complex workflow\napplications in these systems. The complexity comes not only from the number of\nelements that compose the workflows but also from the type of computations they\nperform. While traditional HPC workflows target simulations and modelling of\nphysical phenomena, current needs require in addition data analytics (DA) and\nartificial intelligence (AI) tasks. However, the development of these workflows\nis hampered by the lack of proper programming models and environments that\nsupport the integration of HPC, DA, and AI, as well as the lack of tools to\neasily deploy and execute the workflows in HPC systems. To progress in this\ndirection, this paper presents use cases where complex workflows are required\nand investigates the main issues to be addressed for the HPC/DA/AI convergence.\nBased on this study, the paper identifies the challenges of a new workflow\nplatform to manage complex workflows. Finally, it proposes a development\napproach for such a workflow platform addressing these challenges in two\ndirections: first, by defining a software stack that provides the\nfunctionalities to manage these complex workflows; and second, by proposing the\nHPC Workflow as a Service (HPCWaaS) paradigm, which leverages the software\nstack to facilitate the reusability of complex workflows in federated HPC\ninfrastructures. Proposals presented in this work are subject to study and\ndevelopment as part of the EuroHPC eFlows4HPC project.",
+          "arxiv_id": "2204.09287v2"
+        },
+        {
+          "title": "OMB-Py: Python Micro-Benchmarks for Evaluating Performance of MPI Libraries on HPC Systems",
+          "year": "2021-10",
+          "abstract": "Python has become a dominant programming language for emerging areas like\nMachine Learning (ML), Deep Learning (DL), and Data Science (DS). An attractive\nfeature of Python is that it provides easy-to-use programming interface while\nallowing library developers to enhance performance of their applications by\nharnessing the computing power offered by High Performance Computing (HPC)\nplatforms. Efficient communication is key to scaling applications on parallel\nsystems, which is typically enabled by the Message Passing Interface (MPI)\nstandard and compliant libraries on HPC hardware. mpi4py is a Python-based\ncommunication library that provides an MPI-like interface for Python\napplications allowing application developers to utilize parallel processing\nelements including GPUs. However, there is currently no benchmark suite to\nevaluate communication performance of mpi4py -- and Python MPI codes in general\n-- on modern HPC systems. In order to bridge this gap, we propose OMB-Py --\nPython extensions to the open-source OSU Micro-Benchmark (OMB) suite -- aimed\nto evaluate communication performance of MPI-based parallel applications in\nPython. To the best of our knowledge, OMB-Py is the first communication\nbenchmark suite for parallel Python applications. OMB-Py consists of a variety\nof point-to-point and collective communication benchmark tests that are\nimplemented for a range of popular Python libraries including NumPy, CuPy,\nNumba, and PyCUDA. Our evaluation reveals that mpi4py introduces a small\noverhead when compared to native MPI libraries. We plan to publicly release\nOMB-Py to benefit the Python HPC community.",
+          "arxiv_id": "2110.10659v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "SARS: A Resource Selection Algorithm for Autonomous Driving Tasks in Heterogeneous Mobile Edge Computing",
+          "year": "2024-11",
+          "abstract": "With the rapid advancement of devices requiring intensive computation, such\nas Internet of Things (IoT) devices, smart sensors, and wearable technology,\nthe computational demands on individual platforms with limited resources have\nescalated, necessitating the offloading of the generated tasks by the devices\nto edge. These tasks are often real-time with strict response time\nrequirements. Among these devices, autonomous vehicles present unique\nchallenges due to their critical need for timely and accurate processing to\nensure passenger safety. Selecting suitable servers in a heterogeneous mobile\nedge computing (MEC) architecture is vital to optimizing real-time task\nprocessing rates for such applications. To address this, we present an\nalgorithmic solution to improve the allocation of heterogeneous servers to\nreal-time tasks, aiming to maximize the number of processed tasks. By analyzing\ntask and server characteristics in the MEC architecture, we develop the\nsuitability-based adaptive resource selection (SARS) algorithm, which evaluates\nserver suitability based on factors like time constraints and server\ncapabilities. Additionally, we introduce the proactive on-demand resource\nallocation (PORA) algorithm, which strategically reserves computational\nresources to ensure availability for critical real-time tasks. We compare the\nproposed algorithms with several classical and state-of-the-art algorithms.\nComputational results demonstrate that our approach outperforms existing\nalgorithms, processes more tasks, and effectively prioritizes urgent tasks,\nparticularly in autonomous driving applications.",
+          "arxiv_id": "2411.15989v1"
+        },
+        {
+          "title": "Resource Management in Edge and Fog Computing using FogBus2 Framework",
+          "year": "2021-08",
+          "abstract": "Edge/Fog computing is a novel computing paradigm that provides\nresource-limited Internet of Things (IoT) devices with scalable computing and\nstorage resources. Compared to cloud computing, edge/fog servers have fewer\nresources, but they can be accessed with higher bandwidth and less\ncommunication latency. Thus, integrating edge/fog and cloud infrastructures can\nsupport the execution of diverse latency-sensitive and computation-intensive\nIoT applications. Although some frameworks attempt to provide such integration,\nthere are still several challenges to be addressed, such as dynamic scheduling\nof different IoT applications, scalability mechanisms, multi-platform support,\nand supporting different interaction models. FogBus2, as a new python-based\nframework, offers a lightweight and distributed container-based framework to\novercome these challenges. In this chapter, we highlight key features of the\nFogBus2 framework alongside describing its main components. Besides, we provide\na step-by-step guideline to set up an integrated computing environment,\ncontaining multiple cloud service providers (Hybrid-cloud) and edge devices,\nwhich is a prerequisite for any IoT application scenario. To obtain this, a\nlow-overhead communication network among all computing resources is initiated\nby the provided scripts and configuration files. Next, we provide instructions\nand corresponding code snippets to install and run the main framework and its\nintegrated applications. Finally, we demonstrate how to implement and integrate\nseveral new IoT applications and custom scheduling and scalability policies\nwith the FogBus2 framework.",
+          "arxiv_id": "2108.00591v1"
+        },
+        {
+          "title": "The Power of Internet of Things (IoT): Connecting the Dots with Cloud, Edge, and Fog Computing",
+          "year": "2023-09",
+          "abstract": "The Internet of Things (IoT) is regarded as an improved communication system\nthat has revolutionized traditional lifestyles. To function successfully, IoT\nrequires a combination of cloud, fog, and edge computing architectures. Few\nstudies have addressed cloud, fog, and edge computing simultaneously, comparing\nthem and their issues, although several studies have looked into ways of\nintegrating IoT with either one or two computing systems. Thus, this review\nprovides a thorough understanding of IoT integration with these three computing\narchitectures, as well as their respective applications and limitations. It\nalso highlights the advantages, unresolved issues, future opportunities and\ndirections of IoT integration with the computing systems to advance the IoT.\nIoT can use the Cloud's almost limitless resources to overcome technology\nrestrictions, such as data processing, storage, and transmission. While edge\ncomputing can outperform cloud computing in many circumstances, IoT and edge\ncomputing become increasingly integrated as IoT devices increase. Cloud\ncomputing also poses a few issues, including managing time-sensitive IoT\napplications like video gaming, simulation, and streaming, which can be\naddressed by fog computing integrated with IoT. Due to the proximity of fog\ncomputing resources to the edge, data transfers and communication delays to the\ncloud can be reduced as a result of combining the two. The integration of IoT\nwith cloud, fog, and edge computing will create new business prototypes and\nopportunities. Since IoT has the potential to greatly enhance connectivity\ninfrastructure as an inevitable component of the future internet, further study\nis needed before it can be fully integrated.",
+          "arxiv_id": "2309.03420v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Analysis of Server Throughput For Managed Big Data Analytics Frameworks",
+          "year": "2025-06",
+          "abstract": "Managed big data frameworks, such as Apache Spark and Giraph demand a large\namount of memory per core to process massive volume datasets effectively. The\nmemory pressure that arises from the big data processing leads to high garbage\ncollection (GC) overhead. Big data analytics frameworks attempt to remove this\noverhead by offloading objects to storage devices. At the same time,\ninfrastructure providers, trying to address the same problem, attribute more\nmemory to increase memory per instance leaving cores underutilized. For\nframeworks, trying to avoid GC through offloading to storage devices leads to\nhigh Serialization/Deserialization (S/D) overhead. For infrastructure, the\nresult is that resource usage is decreased. These limitations prevent managed\nbig data frameworks from effectively utilizing the CPU thus leading to low\nserver throughput.\n  We conduct a methodological analysis of server throughput for managed big\ndata analytics frameworks. More specifically, we examine, whether reducing GC\nand S/D can help increase the effective CPU utilization of the server. We use a\nsystem called TeraHeap that moves objects from the Java managed heap (H1) to a\nsecondary heap over a fast storage device (H2) to reduce the GC overhead and\neliminate S/D over data. We focus on analyzing the system's performance under\nthe co-location of multiple memory-bound instances to utilize all available\nDRAM and study server throughput. Our detailed methodology includes choosing\nthe DRAM budget for each instance and how to distribute this budget among H1\nand Page Cache (PC). We try two different distributions for the DRAM budget,\none with more H1 and one with more PC to study the needs of both approaches. We\nevaluate both techniques under 3 different memory-per-core scenarios using\nSpark and Giraph with native JVM or JVM with TeraHeap. We do this to check\nthroughput changes when memory capacity increases.",
+          "arxiv_id": "2506.03854v1"
+        },
+        {
+          "title": "Memory-Disaggregated In-Memory Object Store Framework for Big Data Applications",
+          "year": "2022-04",
+          "abstract": "The concept of memory disaggregation has recently been gaining traction in\nresearch. With memory disaggregation, data center compute nodes can directly\naccess memory on adjacent nodes and are therefore able to overcome local memory\nrestrictions, introducing a new data management paradigm for distributed\ncomputing. This paper proposes and demonstrates a memory disaggregated\nin-memory object store framework for big data applications by leveraging the\nnewly introduced ThymesisFlow memory disaggregation system. The framework\nextends the functionality of the pre-existing Apache Arrow Plasma object store\nframework to distributed systems by enabling clients to easily and efficiently\nproduce and consume data objects across multiple compute nodes. This allows big\ndata applications to increasingly leverage parallel processing at reduced\ndevelopment costs. In addition, the paper includes latency and throughput\nmeasurements that indicate only a modest performance penalty is incurred for\nremote disaggregated memory access as opposed to local (~6.5 vs ~5.75 GiB/s).\nThe results can be used to guide the design of future systems that leverage\nmemory disaggregation as well as the newly presented framework. This work is\nopen-source and publicly accessible at https://doi.org/10.5281/zenodo.6368998.",
+          "arxiv_id": "2204.12889v1"
+        },
+        {
+          "title": "Architectural Support for Efficient Data Movement in Disaggregated Systems",
+          "year": "2023-01",
+          "abstract": "Resource disaggregation offers a cost effective solution to resource scaling,\nutilization, and failure-handling in data centers by physically separating\nhardware devices in a server. Servers are architected as pools of processor,\nmemory, and storage devices, organized as independent failure-isolated\ncomponents interconnected by a high-bandwidth network. A critical challenge,\nhowever, is the high performance penalty of accessing data from a remote memory\nmodule over the network. Addressing this challenge is difficult as\ndisaggregated systems have high runtime variability in network\nlatencies/bandwidth, and page migration can significantly delay critical path\ncache line accesses in other pages. This paper introduces DaeMon, the first\nsoftware-transparent and robust mechanism to significantly alleviate data\nmovement overheads in fully disaggregated systems. First, to enable scalability\nto multiple hardware components in the system, we enhance each compute and\nmemory unit with specialized engines that transparently handle data migrations.\nSecond, to achieve high performance and provide robustness across various\nnetwork, architecture and application characteristics, we implement a\nsynergistic approach of bandwidth partitioning, link compression, decoupled\ndata movement of multiple granularities, and adaptive granularity selection in\ndata movements. We evaluate DaeMon in a wide variety of workloads at different\nnetwork and architecture configurations using a state-of-the-art accurate\nsimulator and demonstrate that DaeMon significantly improves system performance\nand data access costs over the widely-adopted approach of moving data at page\ngranularity.",
+          "arxiv_id": "2301.09674v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Faster Distributed $Δ$-Coloring via a Reduction to MIS",
+          "year": "2025-08",
+          "abstract": "Recent improvements on the deterministic complexities of fundamental graph\nproblems in the LOCAL model of distributed computing have yielded\nstate-of-the-art upper bounds of $\\tilde{O}(\\log^{5/3} n)$ rounds for maximal\nindependent set (MIS) and $(\\Delta + 1)$-coloring [Ghaffari, Grunau, FOCS'24]\nand $\\tilde{O}(\\log^{19/9} n)$ rounds for the more restrictive\n$\\Delta$-coloring problem [Ghaffari, Kuhn, FOCS'21; Ghaffari, Grunau, FOCS'24;\nBourreau, Brandt, Nolin, STOC'25]. In our work, we show that $\\Delta$-coloring\ncan be solved deterministically in $\\tilde{O}(\\log^{5/3} n)$ rounds as well,\nmatching the currently best bound for $(\\Delta + 1)$-coloring.\n  We achieve our result by developing a reduction from $\\Delta$-coloring to MIS\nthat guarantees that the (asymptotic) complexity of $\\Delta$-coloring is at\nmost the complexity of MIS, unless MIS can be solved in sublogarithmic time, in\nwhich case, due to the $\\Omega(\\log n)$-round $\\Delta$-coloring lower bound\nfrom [BFHKLRSU, STOC'16], our reduction implies a tight complexity of\n$\\Theta(\\log n)$ for $\\Delta$-coloring. In particular, any improvement on the\ncomplexity of the MIS problem will yield the same improvement for the\ncomplexity of $\\Delta$-coloring (up to the true complexity of\n$\\Delta$-coloring).\n  Our reduction yields improvements for $\\Delta$-coloring in the randomized\nLOCAL model and when complexities are parameterized by both $n$ and $\\Delta$.\nWe obtain a randomized complexity bound of $\\tilde{O}(\\log^{5/3} \\log n)$\nrounds (improving over the state of the art of $\\tilde{O}(\\log^{8/3} \\log n)$\nrounds) on general graphs and tight complexities of $\\Theta(\\log n)$ and\n$\\Theta(\\log \\log n)$ for the deterministic, resp.\\ randomized, complexity on\nbounded-degree graphs. In the special case of graphs of constant clique number\n(which for instance include bipartite graphs), we also give a reduction to the\n$(\\Delta+1)$-coloring problem.",
+          "arxiv_id": "2508.01762v1"
+        },
+        {
+          "title": "Deterministic Massively Parallel Symmetry Breaking for Sparse Graphs",
+          "year": "2023-01",
+          "abstract": "We consider the problem of designing deterministic graph algorithms for the\nmodel of Massively Parallel Computation (MPC) that improve with the sparsity of\nthe input graph, as measured by the notion of arboricity. For the problems of\nmaximal independent set (MIS), maximal matching (MM), and vertex coloring, we\nimprove the state of the art as follows. Let $\\lambda$ denote the arboricity of\nthe $n$-node input graph with maximum degree $\\Delta$.\n  MIS and MM: We develop a deterministic low-space MPC algorithm that reduces\nthe maximum degree to $poly(\\lambda)$ in $O(\\log \\log n)$ rounds, improving and\nsimplifying the randomized $O(\\log \\log n)$-round $poly(\\max(\\lambda, \\log\nn))$-degree reduction of Ghaffari, Grunau, Jin [DISC'20]. Our approach when\ncombined with the state-of-the-art $O(\\log \\Delta + \\log \\log n)$-round\nalgorithm by Czumaj, Davies, Parter [SPAA'20, TALG'21] leads to an improved\ndeterministic round complexity of $O(\\log \\lambda + \\log \\log n)$ for MIS and\nMM in low-space MPC.\n  We also extend above MIS and MM algorithms to work with linear global memory.\nSpecifically, we show that both problems can be solved in deterministic time\n$O(\\min(\\log n, \\log \\lambda \\cdot \\log \\log n))$, and even in $O(\\log \\log n)$\ntime for graphs with arboricity at most $\\log^{O(1)} \\log n$. In this setting,\nonly a $O(\\log^2 \\log n)$-running time bound for trees was known due to Latypov\nand Uitto [ArXiv'21].\n  Vertex Coloring: We present a $O(1)$-round deterministic algorithm for the\nproblem of $O(\\lambda)$-coloring in linear-memory MPC with relaxed global\nmemory of $n \\cdot poly(\\lambda)$ that solves the problem after just one single\ngraph partitioning step. This matches the state-of-the-art randomized round\ncomplexity by Ghaffari and Sayyadi [ICALP'19] and improves upon the\ndeterministic $O(\\lambda^{\\epsilon})$-round algorithm by Barenboim and Khazanov\n[CSR'18].",
+          "arxiv_id": "2301.11205v2"
+        },
+        {
+          "title": "Fast Distributed Brooks' Theorem",
+          "year": "2022-11",
+          "abstract": "We give a randomized $\\Delta$-coloring algorithm in the LOCAL model that runs\nin $\\text{poly} \\log \\log n$ rounds, where $n$ is the number of nodes of the\ninput graph and $\\Delta$ is its maximum degree. This means that randomized\n$\\Delta$-coloring is a rare distributed coloring problem with an upper and\nlower bound in the same ballpark, $\\text{poly}\\log\\log n$, given the known\n$\\Omega(\\log_\\Delta\\log n)$ lower bound [Brandt et al., STOC '16].\n  Our main technical contribution is a constant time reduction to a constant\nnumber of $(\\text{deg}+1)$-list coloring instances, for $\\Delta = \\omega(\\log^4\nn)$, resulting in a $\\text{poly} \\log\\log n$-round CONGEST algorithm for such\ngraphs. This reduction is of independent interest for other settings, including\nproviding a new proof of Brooks' theorem for high degree graphs, and leading to\na constant-round Congested Clique algorithm in such graphs.\n  When $\\Delta=\\omega(\\log^{21} n)$, our algorithm even runs in $O(\\log^* n)$\nrounds, showing that the base in the $\\Omega(\\log_\\Delta\\log n)$ lower bound is\nunavoidable.\n  Previously, the best LOCAL algorithm for all considered settings used a\nlogarithmic number of rounds. Our result is the first CONGEST algorithm for\n$\\Delta$-coloring non-constant degree graphs.",
+          "arxiv_id": "2211.07606v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "An Experimental Study of Two-Level Schwarz Domain Decomposition Preconditioners on GPUs",
+          "year": "2023-04",
+          "abstract": "The generalized Dryja--Smith--Widlund (GDSW) preconditioner is a two-level\noverlapping Schwarz domain decomposition (DD) preconditioner that couples a\nclassical one-level overlapping Schwarz preconditioner with an\nenergy-minimizing coarse space. When used to accelerate the convergence rate of\nKrylov subspace iterative methods, the GDSW preconditioner provides robustness\nand scalability for the solution of sparse linear systems arising from the\ndiscretization of a wide range of partial different equations. In this paper,\nwe present FROSch (Fast and Robust Schwarz), a domain decomposition solver\npackage which implements GDSW-type preconditioners for both CPU and GPU\nclusters. To improve the solver performance on GPUs, we use a novel\ndecomposition to run multiple MPI processes on each GPU, reducing both solver's\ncomputational and storage costs and potentially improving the convergence rate.\nThis allowed us to obtain competitive or faster performance using GPUs compared\nto using CPUs alone. We demonstrate the performance of FROSch on the Summit\nsupercomputer with NVIDIA V100 GPUs, where we used NVIDIA Multi-Process Service\n(MPS) to implement our decomposition strategy.\n  The solver has a wide variety of algorithmic and implementation choices,\nwhich poses both opportunities and challenges for its GPU implementation. We\nconduct a thorough experimental study with different solver options including\nthe exact or inexact solution of the local overlapping subdomain problems on a\nGPU. We also discuss the effect of using the iterative variant of the\nincomplete LU factorization and sparse-triangular solve as the approximate\nlocal solver, and using lower precision for computing the whole FROSch\npreconditioner. Overall, the solve time was reduced by factors of about\n$2\\times$ using GPUs, while the GPU acceleration of the numerical setup time\ndepend on the solver options and the local matrix sizes.",
+          "arxiv_id": "2304.04876v1"
+        },
+        {
+          "title": "Accelerating high-order continuum kinetic plasma simulations using multiple GPUs",
+          "year": "2024-10",
+          "abstract": "Kinetic plasma simulations solve the Vlasov-Poisson or Vlasov-Maxwell\nequations to evolve scalar-variable distribution functions in position-velocity\nphase space and vector-variable electromagnetic fields in physical space. The\ncomputational cost of evolving high-dimensional variables often limits the\nutility of continuum kinetic simulations and presents a challenge when it comes\nto accurately simulating real-world physical phenomena. To address this\nchallenge, we developed techniques that accelerate and minimize the\ncomputational work required for a scalable Vlasov-Poisson solver. We present\ntheoretical hardware compute and communication bounds required for solving a\nfourth-order finite-volume Vlasov-Poisson system. These bounds are then used to\ninform and evaluate the design of performance portable algorithms for a\nmultiple graphics processing unit (GPU) accelerated version of the\nVlasov-Poisson solver VCK-CPU. We demonstrate that the multi-GPU Vlasov solver\nimplementation VCK-GPU simultaneously minimizes required inter-process data\ntransfer while also being bounded by the machine network performance limits,\nleaving minimal room for theoretical performance improvements. This resulted in\nan overall strong scaling speedup per timestep of up to 40x in\nthree-dimensional phase space (one position, two velocity coordinates) and 54x\nin four dimensional phase space (two position, two velocity coordinates) and a\n341x increase in simulation throughput of the GPU accelerated code over the\nexisting CPU code. The GPU code is also able to weak scale up to 256 compute\nnodes and 1024 GPUs. We then demonstrate how the improved compute performance\ncan be used to explore configurations which were previously computationally\ninfeasible such as resolving fine-scale distribution function filamentation and\nmulti-species dynamics with realistic electron-proton mass ratios.",
+          "arxiv_id": "2410.12155v1"
+        },
+        {
+          "title": "Massive parallelization and performance enhancement of an immersed boundary method based unsteady flow solver",
+          "year": "2024-02",
+          "abstract": "High-fidelity simulations of unsteady fluid flow are now possible with\nadvancements in high-performance computing hardware and software frameworks.\nSince computational fluid dynamics (CFD) computations are dominated by linear\nalgebraic routines, they can be significantly accelerated through massive\nparallelization on graphics processing units (GPUs). Thus, GPU implementation\nof high-fidelity CFD solvers is essential in reducing the turnaround time for\nquicker design space exploration. In the present work, an immersed boundary\nmethod (IBM) based in-house flow solver has been ported to the GPU using\nOpenACC, a compiler directive-based heterogeneous parallel programming\nframework. Out of various GPU porting pathways available, OpenACC was chosen\nbecause of its minimum code intrusion, low development time, and striking\nsimilarity with OpenMP, a similar directive-based shared memory programming\nframework. A detailed validation study and performance analysis of the parallel\nsolver implementations on the CPU and GPU are presented. The GPU implementation\nshows a speedup up to the order $O(10)$ over the CPU parallel version and up to\nthe order $O(10^2)$ over the serial code. The GPU implementation also scales\nwell with increasing mesh size owing to the efficient utilization of the GPU\nprocessor cores.",
+          "arxiv_id": "2402.17337v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Cache-Efficient Fork-Processing Patterns on Large Graphs",
+          "year": "2021-03",
+          "abstract": "As large graph processing emerges, we observe a costly fork-processing\npattern (FPP) that is common in many graph algorithms. The unique feature of\nthe FPP is that it launches many independent queries from different source\nvertices on the same graph. For example, an algorithm in analyzing the network\ncommunity profile can execute Personalized PageRanks that start from tens of\nthousands of source vertices at the same time. We study the efficiency of\nhandling FPPs in state-of-the-art graph processing systems on multi-core\narchitectures. We find that those systems suffer from severe cache miss penalty\nbecause of the irregular and uncoordinated memory accesses in processing FPPs.\n  In this paper, we propose ForkGraph, a cache-efficient FPP processing system\non multi-core architectures. To improve the cache reuse, we divide the graph\ninto partitions each sized of LLC capacity, and the queries in an FPP are\nbuffered and executed on the partition basis. We further develop efficient\nintra- and inter-partition execution strategies for efficiency. For\nintra-partition processing, since the graph partition fits into LLC, we propose\nto execute each graph query with efficient sequential algorithms (in contrast\nwith parallel algorithms in existing parallel graph processing systems) and\npresent an atomic-free query processing by consolidating contending operations\nto cache-resident graph partition. For inter-partition processing, we propose\nyielding and priority-based scheduling, to reduce redundant work in processing.\nBesides, we theoretically prove that ForkGraph performs the same amount of\nwork, to within a constant factor, as the fastest known sequential algorithms\nin FPP queries processing, which is work efficient. Our evaluations on\nreal-world graphs show that ForkGraph significantly outperforms\nstate-of-the-art graph processing systems with two orders of magnitude\nspeedups.",
+          "arxiv_id": "2103.14915v2"
+        },
+        {
+          "title": "BFS based distributed algorithm for parallel local directed sub-graph enumeration",
+          "year": "2022-01",
+          "abstract": "Estimating the frequency of sub-graphs is of importance for many tasks,\nincluding sub-graph isomorphism, kernel-based anomaly detection, and network\nstructure analysis. While multiple algorithms were proposed for full\nenumeration or sampling-based estimates, these methods fail in very large\ngraphs. Recent advances in parallelization allow for estimates of total\nsub-graphs counts in very large graphs. The task of counting the frequency of\neach sub-graph associated with each vertex also received excellent solutions\nfor undirected graphs. However, there is currently no good solution for very\nlarge directed graphs.\n  We here propose VDMC (Vertex specific Distributed Motif Counting) -- a fully\ndistributed algorithm to optimally count all the 3 and 4 vertices connected\ndirected graphs (sub-graph motifs) associated with each vertex of a graph. VDMC\ncounts each motif only once and its efficacy is linear in the number of counted\nmotifs. It is fully parallelized to be efficient in GPU-based computation. VDMC\nis based on three main elements: 1) Ordering the vertices and only counting\nmotifs containing increasing order vertices, 2) sub-ordering motifs based on\nthe average length of the BFS composing the motif, and 3) removing isomorphisms\nonly once for the entire graph. We here compare VDMC to analytical estimates of\nthe expected number of motifs and show its accuracy. VDMC is available as a\nhighly efficient CPU and GPU code with a novel data structure for efficient\ngraph manipulation. We show the efficacy of VDMC and real-world graphs. VDMC\nallows for the precise analysis of sub-graph frequency around each vertex in\nlarge graphs and opens the way for the extension of methods until now limited\nto graphs of thousands of edges to graphs with millions of edges and above.\n  GIT: https://github.com/louzounlab/graph-measures",
+          "arxiv_id": "2201.11655v1"
+        },
+        {
+          "title": "Meerkat: A framework for Dynamic Graph Algorithms on GPUs",
+          "year": "2023-05",
+          "abstract": "Graph algorithms are challenging to implement due to their varying topology\nand irregular access patterns. Real-world graphs are dynamic in nature and\nroutinely undergo edge and vertex additions, as well as, deletions. Typical\nexamples of dynamic graphs are social networks, collaboration networks, and\nroad networks. Applying static algorithms repeatedly on dynamic graphs is\ninefficient. Unfortunately, we know little about how to efficiently process\ndynamic graphs on massively parallel architectures such as GPUs. Existing\napproaches to represent and process dynamic graphs are either not general or\ninefficient. In this work, we propose a library-based framework for dynamic\ngraph algorithms that proposes a GPU-tailored graph representation and exploits\nthe warp-cooperative execution model. The library, named Meerkat, builds upon a\nrecently proposed dynamic graph representation on GPUs. This representation\nexploits a hashtable-based mechanism to store a vertex's neighborhood. Meerkat\nalso enables fast iteration through a group of vertices, such as the whole set\nof vertices or the neighbors of a vertex. Based on the efficient iterative\npatterns encoded in Meerkat, we implement dynamic versions of the popular graph\nalgorithms such as breadth-first search, single-source shortest paths, triangle\ncounting, weakly connected components, and PageRank. Compared to the\nstate-of-the-art dynamic graph analytics framework Hornet, Meerkat is\n$12.6\\times$, $12.94\\times$, and $6.1\\times$ faster, for query, insert, and\ndelete operations, respectively. Using a variety of real-world graphs, we\nobserve that Meerkat significantly improves the efficiency of the underlying\ndynamic graph algorithm. Meerkat performs $1.17\\times$ for BFS, $1.32\\times$\nfor SSSP, $1.74\\times$ for PageRank, and $6.08\\times$ for WCC, better than\nHornet on average.",
+          "arxiv_id": "2305.17813v2"
+        }
+      ],
+      "10": [
+        {
+          "title": "Efficient Dispersion on an Anonymous Ring in the Presence of Weak Byzantine Robots",
+          "year": "2020-04",
+          "abstract": "The problem of dispersion of mobile robots on a graph asks that $n$ robots\ninitially placed arbitrarily on the nodes of an $n$-node anonymous graph,\nautonomously move to reach a final configuration where exactly each node has at\nmost one robot on it. This problem is of significant interest due to its\nrelationship to other fundamental robot coordination problems, such as\nexploration, scattering, load balancing, relocation of self-driving electric\ncars to recharge stations, etc. The robots have unique IDs, typically in the\nrange $[1,poly(n)]$ and limited memory, whereas the graph is anonymous, i.e.,\nthe nodes do not have identifiers. The objective is to simultaneously minimize\ntwo performance metrics: (i) time to achieve dispersion and (ii) memory\nrequirement at each robot. This problem has been relatively well-studied when\nrobots are non-faulty.\n  In this paper, we introduce the notion of Byzantine faults to this problem,\ni.e., we formalize the problem of dispersion in the presence of up to $f$\nByzantine robots. We then study the problem on a ring while simultaneously\noptimizing the time complexity of algorithms and the memory requirement per\nrobot. Specifically, we design deterministic algorithms that attempt to match\nthe time lower bound ($\\Omega(n)$ rounds) and memory lower bound ($\\Omega(\\log\nn)$ bits per robot).\n  Our main result is a deterministic algorithm that is both time and memory\noptimal, i.e., $O(n)$ rounds and $O(\\log n)$ bits of memory required per robot,\nsubject to certain constraints. We subsequently provide results that require\nless assumptions but are either only time or memory optimal but not both. We\nalso provide a primitive, utilized often, that takes robots initially gathered\nat a node of the ring and disperses them in a time and memory optimal manner\nwithout additional assumptions required.",
+          "arxiv_id": "2004.11439v2"
+        },
+        {
+          "title": "Distance-2-Dispersion: Dispersion with Further Constraints",
+          "year": "2023-01",
+          "abstract": "The aim of the dispersion problem is to place a set of $k(\\leq n)$ mobile\nrobots in the nodes of an unknown graph consisting of $n$ nodes such that in\nthe final configuration each node contains at most one robot, starting from any\narbitrary initial configuration of the robots on the graph. In this work we\npropose a variant of the dispersion problem where we start with any number of\nrobots, and put an additional constraint that no two adjacent nodes contain\nrobots in the final configuration. We name this problem as\nDistance-2-Dispersion (D-2-D). However, even if the number of robots $k$ is\nless than $n$, it may not possible for each robot to find a distinct node to\nreside, maintaining our added constraint. Specifically, if a maximal\nindependent set is already formed by the nodes which contain a robot each, then\nother robots, if any, who are searching for a node to seat, will not find one.\nHence we allow multiple robots to seat on some nodes only if there is no place\nto seat. If $k\\geq n$, it is guaranteed that the nodes with robots form a\nmaximal independent set of the underlying network.\n  The graph $G=(V, E)$ has $n$ nodes and $m$ edges, where nodes are anonymous.\nIt is a port labelled graph, i.e., each node $u$ assigns a distinct port number\nto each of its incident edges from a range $[0,\\delta-1]$ where $\\delta$ is the\ndegree of the node $u$. The robots have unique ids in the range $[1, L]$, where\n$L \\ge k$. Co-located robots can communicate among themselves. We provide an\nalgorithm that solves D-2-D starting from a rooted configuration (i.e.,\ninitially all the robots are co-located) and terminate after $2\\Delta(8m-3n+3)$\nsynchronous rounds using $O(log \\Delta)$ memory per robot without using any\nglobal knowledge of the graph parameters $m$, $n$ and $\\Delta$, the maximum\ndegree of the graph. We also provide $\\Omega(m\\Delta)$ lower bound on the\nnumber of rounds for the D-2-D problem.",
+          "arxiv_id": "2301.04938v1"
+        },
+        {
+          "title": "Optimal Dispersion of Silent Robots in a Ring",
+          "year": "2024-08",
+          "abstract": "Given a set of co-located mobile robots in an unknown anonymous graph, the\nrobots must relocate themselves in distinct graph nodes to solve the dispersion\nproblem. In this paper, we consider the dispersion problem for silent robots\n\\cite{gorain2024collaborative}, i.e., no direct, explicit communication between\nany two robots placed in the nodes of an oriented $n$ node ring network. The\nrobots operate in synchronous rounds. The dispersion problem for silent mobile\nrobots has been studied in arbitrary graphs where the robots start from a\nsingle source. In this paper, we focus on the dispersion problem for silent\nmobile robots where robots can start from multiple sources. The robots have\nunique labels from a range $[0,\\;L]$ for some positive integer $L$. Any two\nco-located robots do not have the information about the label of the other\nrobot. The robots have weak multiplicity detection capability, which means they\ncan determine if it is alone on a node. The robots are assumed to be able to\nidentify an increase or decrease in the number of robots present on a node in a\nparticular round. However, the robots can not get the exact number of increase\nor decrease in the number of robots. We have proposed a deterministic\ndistributed algorithm that solves the dispersion of $k$ robots in an oriented\nring in $O(\\log L+k)$ synchronous rounds with $O(\\log L)$ bits of memory for\neach robot. A lower bound $\\Omega(\\log L+k)$ on time for the dispersion of $k$\nrobots on a ring network is presented to establish the optimality of the\nproposed algorithm.",
+          "arxiv_id": "2408.05491v1"
+        }
+      ],
+      "11": [
+        {
+          "title": "Quantum Computing: A Taxonomy, Systematic Review and Future Directions",
+          "year": "2020-09",
+          "abstract": "Quantum computing is an emerging paradigm with the potential to offer\nsignificant computational advantage over conventional classical computing by\nexploiting quantum-mechanical principles such as entanglement and\nsuperposition. It is anticipated that this computational advantage of quantum\ncomputing will help to solve many complex and computationally intractable\nproblems in several areas such as drug design, data science, clean energy,\nfinance, industrial chemical development, secure communications, and quantum\nchemistry. In recent years, tremendous progress in both quantum hardware\ndevelopment and quantum software/algorithm have brought quantum computing much\ncloser to reality. Indeed, the demonstration of quantum supremacy marks a\nsignificant milestone in the Noisy Intermediate Scale Quantum (NISQ) era - the\nnext logical step being the quantum advantage whereby quantum computers solve a\nreal-world problem much more efficiently than classical computing. As the\nquantum devices are expected to steadily scale up in the next few years,\nquantum decoherence and qubit interconnectivity are two of the major challenges\nto achieve quantum advantage in the NISQ era. Quantum computing is a highly\ntopical and fast-moving field of research with significant ongoing progress in\nall facets. This article presents a comprehensive review of quantum computing\nliterature, and taxonomy of quantum computing. Further, the proposed taxonomy\nis used to map various related studies to identify the research gaps. A\ndetailed overview of quantum software tools and technologies, post-quantum\ncryptography and quantum computer hardware development to document the current\nstate-of-the-art in the respective areas. We finish the article by highlighting\nvarious open challenges and promising future directions for research.",
+          "arxiv_id": "2010.15559v4"
+        },
+        {
+          "title": "Scalable Quantum Neural Networks for Classification",
+          "year": "2022-08",
+          "abstract": "Many recent machine learning tasks resort to quantum computing to improve\nclassification accuracy and training efficiency by taking advantage of quantum\nmechanics, known as quantum machine learning (QML). The variational quantum\ncircuit (VQC) is frequently utilized to build a quantum neural network (QNN),\nwhich is a counterpart to the conventional neural network. Due to hardware\nlimitations, however, current quantum devices only allow one to use few qubits\nto represent data and perform simple quantum computations. The limited quantum\nresource on a single quantum device degrades the data usage and limits the\nscale of the quantum circuits, preventing quantum advantage to some extent. To\nalleviate this constraint, we propose an approach to implementing a scalable\nquantum neural network (SQNN) by utilizing the quantum resource of multiple\nsmall-size quantum devices cooperatively. In an SQNN system, several quantum\ndevices are used as quantum feature extractors, extracting local features from\nan input instance in parallel, and a quantum device works as a quantum\npredictor, performing prediction over the local features collected through\nclassical communication channels. The quantum feature extractors in the SQNN\nsystem are independent of each other, so one can flexibly use quantum devices\nof varying sizes, with larger quantum devices extracting more local features.\nEspecially, the SQNN can be performed on a single quantum device in a modular\nfashion. Our work is exploratory and carried out on a quantum system simulator\nusing the TensorFlow Quantum library. The evaluation conducts a binary\nclassification on the MNIST dataset. It shows that the SQNN model achieves a\ncomparable classification accuracy to a regular QNN model of the same scale.\nFurthermore, it demonstrates that the SQNN model with more quantum resources\ncan significantly improve classification accuracy.",
+          "arxiv_id": "2208.07719v1"
+        },
+        {
+          "title": "Optimal Stochastic Resource Allocation for Distributed Quantum Computing",
+          "year": "2022-09",
+          "abstract": "With the advent of interconnected quantum computers, i.e., distributed\nquantum computing (DQC), multiple quantum computers can now collaborate via\nquantum networks to perform massively complex computational tasks. However, DQC\nfaces problems sharing quantum information because it cannot be cloned or\nduplicated between quantum computers. Thanks to advanced quantum mechanics,\nquantum computers can teleport quantum information across quantum networks.\nHowever, challenges to utilizing efficiently quantum resources, e.g., quantum\ncomputers and quantum channels, arise in DQC due to their capabilities and\nproperties, such as uncertain qubit fidelity and quantum channel noise. In this\npaper, we propose a resource allocation scheme for DQC based on stochastic\nprogramming to minimize the total deployment cost for quantum resources.\nEssentially, the two-stage stochastic programming model is formulated to handle\nthe uncertainty of quantum computing demands, computing power, and fidelity in\nquantum networks. The performance evaluation demonstrates the effectiveness and\nability of the proposed scheme to balance the utilization of quantum computers\nand on-demand quantum computers while minimizing the overall cost of\nprovisioning under uncertainty.",
+          "arxiv_id": "2210.02886v1"
+        }
+      ],
+      "12": [
+        {
+          "title": "A Nonlinear Hash-based Optimization Method for SpMV on GPUs",
+          "year": "2025-04",
+          "abstract": "Sparse matrix-vector multiplication (SpMV) is a fundamental operation with a\nwide range of applications in scientific computing and artificial intelligence.\nHowever, the large scale and sparsity of sparse matrix often make it a\nperformance bottleneck. In this paper, we highlight the effectiveness of\nhash-based techniques in optimizing sparse matrix reordering, introducing the\nHash-based Partition (HBP) format, a lightweight SpMV approach. HBP retains the\nperformance benefits of the 2D-partitioning method while leveraging the hash\ntransformation's ability to group similar elements, thereby accelerating the\npre-processing phase of sparse matrix reordering. Additionally, we achieve\nparallel load balancing across matrix blocks through a competitive method. Our\nexperiments, conducted on both Nvidia Jetson AGX Orin and Nvidia RTX 4090, show\nthat in the pre-processing step, our method offers an average speedup of 3.53\ntimes compared to the sorting approach and 3.67 times compared to the dynamic\nprogramming method employed in Regu2D. Furthermore, in SpMV, our method\nachieves a maximum speedup of 3.32 times on Orin and 3.01 times on RTX4090\nagainst the CSR format in sparse matrices from the University of Florida Sparse\nMatrix Collection.",
+          "arxiv_id": "2504.08860v1"
+        },
+        {
+          "title": "FlashSparse: Minimizing Computation Redundancy for Fast Sparse Matrix Multiplications on Tensor Cores",
+          "year": "2024-12",
+          "abstract": "Sparse Matrix-matrix Multiplication (SpMM) and Sampled Dense-dense Matrix\nMultiplication (SDDMM) are important sparse operators in scientific computing\nand deep learning. Tensor Core Units (TCUs) enhance modern accelerators with\nsuperior computing power, which is promising to boost the performance of matrix\noperators to a higher level. However, due to the irregularity of unstructured\nsparse data, it is difficult to deliver practical speedups on TCUs. To this\nend, we propose FlashSparse, a novel approach to bridge the gap between sparse\nworkloads and the TCU architecture. Specifically, FlashSparse minimizes the\nsparse granularity for SpMM and SDDMM on TCUs through a novel\nswap-and-transpose matrix multiplication strategy. Benefiting from the minimum\nsparse granularity, the computation redundancy is remarkably reduced while the\ncomputing power of TCUs is fully utilized. Besides, FlashSparse is equipped\nwith a memory-efficient thread mapping strategy for coalesced data access and a\nsparse matrix storage format to save memory footprint. Extensive experimental\nresults on H100 and RTX 4090 GPUs show that FlashSparse sets a new\nstate-of-the-art for sparse matrix multiplications (geometric mean 5.5x speedup\nover DTC-SpMM and 3.22x speedup over RoDe).",
+          "arxiv_id": "2412.11007v1"
+        },
+        {
+          "title": "Algorithms for Parallel Shared-Memory Sparse Matrix-Vector Multiplication on Unstructured Matrices",
+          "year": "2025-02",
+          "abstract": "The sparse matrix-vector (SpMV) multiplication is an important computational\nkernel, but it is notoriously difficult to execute efficiently. This paper\ninvestigates algorithm performance for unstructured sparse matrices, which are\nmore common than ever because of the trend towards large-scale data collection.\nThe development of an SpMV multiplication algorithm for this type of data is\nhard due to two factors. First, parallel load balancing issues arise because of\nthe unpredictable nonzero structure. Secondly, SpMV multiplication algorithms\nare inevitably memory-bound because the sparsity causes a low arithmetic\nintensity. Three state-of-the-art algorithms for parallel SpMV multiplication\non shared-memory systems are discussed. Six new hybrid algorithms are developed\nwhich combine optimization techniques of the current algorithms. These\ntechniques include parallelization strategies, storage formats, and nonzero\norderings. A modern and high-performance implementation of all discussed\nalgorithms is provided as open-source software. Using this implementation the\nalgorithms are compared. Furthermore, SpMV multiplication algorithms require\nthe matrix to be stored in a specific storage format. Therefore, the conversion\ntime between these storage formats is also analyzed. Both tests are performed\nfor multiple unstructured sparse matrices on different machines: two multi-CPU\nand two single-CPU architectures. We show that one of the newly developed\nalgorithms outperforms the current state-of-the-art by 19% on one of the\nmulti-CPU architectures. When taking conversion time into consideration, we\nshow that 472 SpMV multiplications are needed to cover the cost of converting\nto a new storage format for one of the hybrid algorithms on a multi-CPU\nmachine.",
+          "arxiv_id": "2502.19284v1"
+        }
+      ],
+      "13": [
+        {
+          "title": "Distributed Graph Neural Network Training: A Survey",
+          "year": "2022-11",
+          "abstract": "Graph neural networks (GNNs) are a type of deep learning models that are\ntrained on graphs and have been successfully applied in various domains.\nDespite the effectiveness of GNNs, it is still challenging for GNNs to\nefficiently scale to large graphs. As a remedy, distributed computing becomes a\npromising solution of training large-scale GNNs, since it is able to provide\nabundant computing resources. However, the dependency of graph structure\nincreases the difficulty of achieving high-efficiency distributed GNN training,\nwhich suffers from the massive communication and workload imbalance. In recent\nyears, many efforts have been made on distributed GNN training, and an array of\ntraining algorithms and systems have been proposed. Yet, there is a lack of\nsystematic review on the optimization techniques for the distributed execution\nof GNN training. In this survey, we analyze three major challenges in\ndistributed GNN training that are massive feature communication, the loss of\nmodel accuracy and workload imbalance. Then we introduce a new taxonomy for the\noptimization techniques in distributed GNN training that address the above\nchallenges. The new taxonomy classifies existing techniques into four\ncategories that are GNN data partition, GNN batch generation, GNN execution\nmodel, and GNN communication protocol. We carefully discuss the techniques in\neach category. In the end, we summarize existing distributed GNN systems for\nmulti-GPUs, GPU-clusters and CPU-clusters, respectively, and give a discussion\nabout the future direction on distributed GNN training.",
+          "arxiv_id": "2211.00216v2"
+        },
+        {
+          "title": "HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture",
+          "year": "2023-03",
+          "abstract": "Graph Neural Networks (GNNs) have shown success in many real-world\napplications that involve graph-structured data. Most of the existing\nsingle-node GNN training systems are capable of training medium-scale graphs\nwith tens of millions of edges; however, scaling them to large-scale graphs\nwith billions of edges remains challenging. In addition, it is challenging to\nmap GNN training algorithms onto a computation node as state-of-the-art\nmachines feature heterogeneous architecture consisting of multiple processors\nand a variety of accelerators.\n  We propose HyScale-GNN, a novel system to train GNN models on a single-node\nheterogeneous architecture. HyScale- GNN performs hybrid training which\nutilizes both the processors and the accelerators to train a model\ncollaboratively. Our system design overcomes the memory size limitation of\nexisting works and is optimized for training GNNs on large-scale graphs. We\npropose a two-stage data pre-fetching scheme to reduce the communication\noverhead during GNN training. To improve task mapping efficiency, we propose a\ndynamic resource management mechanism, which adjusts the workload assignment\nand resource allocation during runtime. We evaluate HyScale-GNN on a CPU-GPU\nand a CPU-FPGA heterogeneous architecture. Using several large-scale datasets\nand two widely-used GNN models, we compare the performance of our design with a\nmulti-GPU baseline implemented in PyTorch-Geometric. The CPU-GPU design and the\nCPU-FPGA design achieve up to 2.08x speedup and 12.6x speedup, respectively.\nCompared with the state-of-the-art large-scale multi-node GNN training systems\nsuch as P3 and DistDGL, our CPU-FPGA design achieves up to 5.27x speedup using\na single node.",
+          "arxiv_id": "2303.00158v1"
+        },
+        {
+          "title": "An Experimental Comparison of Partitioning Strategies for Distributed Graph Neural Network Training",
+          "year": "2023-08",
+          "abstract": "Recently, graph neural networks (GNNs) have gained much attention as a\ngrowing area of deep learning capable of learning on graph-structured data.\nHowever, the computational and memory requirements for training GNNs on\nlarge-scale graphs make it necessary to distribute the training. A prerequisite\nfor distributed GNN training is to partition the input graph into smaller parts\nthat are distributed among multiple machines of a compute cluster. Although\ngraph partitioning has been studied with regard to graph analytics and graph\ndatabases, its effect on GNN training performance is largely unexplored. As a\nconsequence, it is unclear whether investing computational efforts into\nhigh-quality graph partitioning would pay off in GNN training scenarios.\n  In this paper, we study the effectiveness of graph partitioning for\ndistributed GNN training. Our study aims to understand how different factors\nsuch as GNN parameters, mini-batch size, graph type, features size, and\nscale-out factor influence the effectiveness of graph partitioning. We conduct\nexperiments with two different GNN systems using vertex and edge partitioning.\nWe found that high-quality graph partitioning is a very effective optimization\nto speed up GNN training and to reduce memory consumption. Furthermore, our\nresults show that invested partitioning time can quickly be amortized by\nreduced GNN training time, making it a relevant optimization for most GNN\nscenarios. Compared to research on distributed graph processing, our study\nreveals that graph partitioning plays an even more significant role in\ndistributed GNN training, which motivates further research on the graph\npartitioning problem.",
+          "arxiv_id": "2308.15602v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:54:41Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_solar_magnetic_SEP_field",
+        "keywords": [
+          [
+            "solar",
+            0.0384457535138921
+          ],
+          [
+            "magnetic",
+            0.031108070155837466
+          ],
+          [
+            "SEP",
+            0.02628496704812145
+          ],
+          [
+            "field",
+            0.024517082335618667
+          ],
+          [
+            "wind",
+            0.02367637722886602
+          ],
+          [
+            "solar wind",
+            0.02141731370398498
+          ],
+          [
+            "energy",
+            0.017682406126835425
+          ],
+          [
+            "Solar",
+            0.01740942737192781
+          ],
+          [
+            "plasma",
+            0.017153003776605762
+          ],
+          [
+            "space",
+            0.016422738708600237
+          ]
+        ],
+        "count": 2649
+      },
+      "1": {
+        "name": "1_Mars_atmosphere_Jupiter_magnetic",
+        "keywords": [
+          [
+            "Mars",
+            0.019335374222893265
+          ],
+          [
+            "atmosphere",
+            0.01862422540310406
+          ],
+          [
+            "Jupiter",
+            0.018210959215487172
+          ],
+          [
+            "magnetic",
+            0.018035572505254036
+          ],
+          [
+            "field",
+            0.016948064429382428
+          ],
+          [
+            "solar",
+            0.016841907645009764
+          ],
+          [
+            "Io",
+            0.01680181846239689
+          ],
+          [
+            "planetary",
+            0.016207720214661124
+          ],
+          [
+            "planet",
+            0.015119589479639763
+          ],
+          [
+            "surface",
+            0.015061409318720567
+          ]
+        ],
+        "count": 239
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.07082344208159377
+      ],
+      [
+        -0.07082344208159377,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        28,
+        1
+      ],
+      "2020-02": [
+        34,
+        3
+      ],
+      "2020-03": [
+        35,
+        2
+      ],
+      "2020-04": [
+        38,
+        2
+      ],
+      "2020-05": [
+        41,
+        3
+      ],
+      "2020-06": [
+        43,
+        1
+      ],
+      "2020-07": [
+        46,
+        2
+      ],
+      "2020-08": [
+        42,
+        4
+      ],
+      "2020-09": [
+        42,
+        1
+      ],
+      "2020-10": [
+        39,
+        2
+      ],
+      "2020-11": [
+        31,
+        1
+      ],
+      "2020-12": [
+        48,
+        6
+      ],
+      "2021-01": [
+        40,
+        4
+      ],
+      "2021-02": [
+        44,
+        1
+      ],
+      "2021-03": [
+        41,
+        3
+      ],
+      "2021-04": [
+        47,
+        4
+      ],
+      "2021-05": [
+        31,
+        1
+      ],
+      "2021-06": [
+        31,
+        3
+      ],
+      "2021-07": [
+        55,
+        2
+      ],
+      "2021-08": [
+        50,
+        3
+      ],
+      "2021-09": [
+        54,
+        1
+      ],
+      "2021-10": [
+        44,
+        4
+      ],
+      "2021-11": [
+        40,
+        3
+      ],
+      "2021-12": [
+        39,
+        3
+      ],
+      "2022-01": [
+        42,
+        3
+      ],
+      "2022-02": [
+        33,
+        1
+      ],
+      "2022-03": [
+        56,
+        2
+      ],
+      "2022-04": [
+        40,
+        6
+      ],
+      "2022-05": [
+        49,
+        5
+      ],
+      "2022-06": [
+        40,
+        2
+      ],
+      "2022-07": [
+        44,
+        2
+      ],
+      "2022-08": [
+        44,
+        3
+      ],
+      "2022-09": [
+        54,
+        8
+      ],
+      "2022-10": [
+        68,
+        3
+      ],
+      "2022-11": [
+        60,
+        4
+      ],
+      "2022-12": [
+        41,
+        4
+      ],
+      "2023-01": [
+        55,
+        3
+      ],
+      "2023-02": [
+        42,
+        4
+      ],
+      "2023-03": [
+        67,
+        3
+      ],
+      "2023-04": [
+        40,
+        1
+      ],
+      "2023-05": [
+        48,
+        2
+      ],
+      "2023-06": [
+        59,
+        5
+      ],
+      "2023-07": [
+        58,
+        1
+      ],
+      "2023-08": [
+        50,
+        4
+      ],
+      "2023-09": [
+        48,
+        2
+      ],
+      "2023-10": [
+        47,
+        4
+      ],
+      "2023-11": [
+        38,
+        4
+      ],
+      "2023-12": [
+        38,
+        2
+      ],
+      "2024-01": [
+        49,
+        4
+      ],
+      "2024-02": [
+        47,
+        2
+      ],
+      "2024-03": [
+        49,
+        3
+      ],
+      "2024-04": [
+        38,
+        3
+      ],
+      "2024-05": [
+        57,
+        7
+      ],
+      "2024-06": [
+        41,
+        3
+      ],
+      "2024-07": [
+        55,
+        6
+      ],
+      "2024-08": [
+        51,
+        3
+      ],
+      "2024-09": [
+        60,
+        1
+      ],
+      "2024-10": [
+        56,
+        3
+      ],
+      "2024-11": [
+        50,
+        1
+      ],
+      "2024-12": [
+        53,
+        2
+      ],
+      "2025-01": [
+        51,
+        2
+      ],
+      "2025-02": [
+        55,
+        6
+      ],
+      "2025-03": [
+        40,
+        1
+      ],
+      "2025-04": [
+        38,
+        1
+      ],
+      "2025-05": [
+        49,
+        4
+      ],
+      "2025-06": [
+        44,
+        1
+      ],
+      "2025-07": [
+        49,
+        5
+      ],
+      "2025-08": [
+        35,
+        7
+      ],
+      "2025-09": [
+        24,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Magnetic Reconnection as the Driver of the Solar Wind",
+          "year": "2023-01",
+          "abstract": "We present EUV solar observations showing evidence for omnipresent jetting\nactivity driven by small-scale magnetic reconnection at the base of the solar\ncorona. We argue that the physical mechanism that heats and drives the solar\nwind at its source is ubiquitous magnetic reconnection in the form of\nsmall-scale jetting activity (i.e., a.k.a. jetlets). This jetting activity,\nlike the solar wind and the heating of the coronal plasma, are ubiquitous\nregardless of the solar cycle phase. Each event arises from small-scale\nreconnection of opposite polarity magnetic fields producing a short-lived jet\nof hot plasma and Alfv\\'en waves into the corona. The discrete nature of these\njetlet events leads to intermittent outflows from the corona, which homogenize\nas they propagate away from the Sun and form the solar wind. This discovery\nestablishes the importance of small-scale magnetic reconnection in solar and\nstellar atmospheres in understanding ubiquitous phenomena such as coronal\nheating and solar wind acceleration. Based on previous analyses linking the\nswitchbacks to the magnetic network, we also argue that these new observations\nmight provide the link between the magnetic activity at the base of the corona\nand the switchback solar wind phenomenon. These new observations need to be put\nin the bigger picture of the role of magnetic reconnection and the diverse form\nof jetting in the solar atmosphere.",
+          "arxiv_id": "2301.00903v1"
+        },
+        {
+          "title": "Parker Solar Probe Observations of High Plasma Beta Solar Wind from Streamer Belt",
+          "year": "2023-02",
+          "abstract": "In general, slow solar wind from the streamer belt forms a high plasma beta\nequatorial plasma sheet around the heliospheric current sheet (HCS) crossing,\nnamely the heliospheric plasma sheet (HPS). Current Parker Solar Probe (PSP)\nobservations show that the HCS crossings near the Sun could be full or partial\ncurrent sheet crossing (PCS), and they share some common features but also have\ndifferent properties. In this work, using the PSP observations from encounters\n4 to 10, we identify streamer belt solar wind from enhancements in plasma beta,\nand we further use electron pitch angle distributions to separate it into HPS\nsolar wind that around the full HCS crossings and PCS solar wind that in the\nvicinity of PCS crossings. Based on our analysis, we find that the PCS solar\nwind has different characteristics as compared with HPS solar wind: a) PCS\nsolar wind could be non-pressure-balanced structures rather than magnetic\nholes, and the total pressure enhancement mainly results from the less reduced\nmagnetic pressure; b) some of the PCS solar wind are mirror unstable; c) PCS\nsolar wind is dominated by very low helium abundance but varied alpha-proton\ndifferential speed. We suggest the PCS solar wind could originate from coronal\nloops deep inside the streamer belt, and it is pristine solar wind that still\nactively interacts with ambient solar wind, thus it is valuable for further\ninvestigations on the heating and acceleration of slow solar wind.",
+          "arxiv_id": "2302.07230v1"
+        },
+        {
+          "title": "Alfvénic versus non-Alfvénic turbulence in the inner heliosphere as observed by Parker Solar Probe",
+          "year": "2021-01",
+          "abstract": "We make use of the Parker Solar Probe (PSP) data to explore the nature of\nsolar wind turbulence focusing on the Alfv\\'enic character and power spectra of\nthe fluctuations and their dependence on distance and context (i.e. large scale\nsolar wind properties), aiming to understand the role that different effects\nsuch as source properties, solar wind expansion, stream interaction might play\nin determining the turbulent state. We carry out a statistical survey of the\ndata from the first five orbits of PSP with a focus on how the fluctuation\nproperties at the large, MHD scales, vary with different solar wind streams and\ndistance from the Sun. A more in-depth analysis from several selected periods\nis also presented. Our results show that as fluctuations are transported\noutward by the solar wind, the magnetic field spectrum steepens while the shape\nof the velocity spectrum remains unchanged. The steepening process is\ncontrolled by the \"age\" of the turbulence, determined by the wind speed\ntogether with the radial distance. Statistically, faster solar wind has higher\n\"Alfv\\'enicity\", with more dominant outward propagating wave component and more\nbalanced magnetic/kinetic energies. The outward wave dominance gradually\nweakens with radial distance, while the excess of magnetic energy is found to\nbe stronger as we move closer toward the Sun. We show that the turbulence\nproperties can vary significantly stream to stream even if these streams are of\nsimilar speed, indicating very different origins of these streams. Especially,\nthe slow wind that originates near the polar coronal holes has much lower\nAlfv\\'enicity compared with the slow wind that originates from the active\nregions/pseudostreamers. We show that structures such as heliospheric current\nsheets and velocity shears can play an important role in modifying the\nproperties of the turbulence.",
+          "arxiv_id": "2101.00830v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Influence of the Jovian current sheet models on the mapping of the UV auroral footprints of Io, Europa, and Ganymede",
+          "year": "2024-01",
+          "abstract": "The in-situ characterization of moon-magnetosphere interactions at Jupiter\nand the mapping of moon auroral footpaths require accurate global models of the\nmagnetospheric magnetic field. In this study, we compare the ability of two\nwidely-used current sheet models, Khurana-2005 (KK2005) and Connerney-2020\n(CON2020) combined with the most recent measurements acquired at low, medium,\nand high latitudes. With the adjustments of the KK2005 model to JRM33, we show\nthat in the outer and middle magnetosphere (R>15RJ), JRM33+KK2005 is found to\nbe the best model to reproduce the magnetic field observations of Galileo and\nJuno as it accounts for local time effects. JRM33+CON2020 gives the most\naccurate representation of the inner magnetosphere. This finding is drawn from\ncomparisons with Juno in-situ magnetic field measurements and confirmed by\ncontrasting the timing of the crossings of the Io, Europa, and Ganymede flux\ntubes identified in the Juno particles data with the two model estimates.\nJRM33+CON2020 also maps more accurately the UV auroral footpath of Io, Europa,\nand Ganymede observed by Juno than JRM33+KK2005. The JRM33+KK2005 model\npredicts a local time asymmetry in position of the moons' footprints, which is\nhowever not detected in Juno's UV measurements.This could indicate that local\ntime effects on the magnetic field are marginal at the orbital locations of Io,\nEuropa, and Ganymede. Finally, the accuracy of the models and their predictions\nas a function of hemisphere, local time, and longitude is explored.",
+          "arxiv_id": "2401.10115v1"
+        },
+        {
+          "title": "Properties of Mars' Dayside Low-Altitude Induced Magnetic Field and Comparisons with Venus",
+          "year": "2023-11",
+          "abstract": "Our research objective is to characterize Mars' low-altitude (250 km) induced\nmagnetic fields using data from NASA's MAVEN (Mars Atmosphere and Volatile\nEvolutioN) Mission. We aim to assess how the induced magnetic fields behave\nunder different solar zenith angles and solar wind conditions, and\nadditionally, understand how planet-specific properties (such as Mars crustal\nmagnetism) alter the formation and structure of the magnetic fields. We then\nuse data from the Pioneer Venus Orbiter to compare induced magnetic fields at\nVenus with those at Mars. At Venus, the vertical structure of the magnetic\nfield tends to exist in one of two states (magnetized or unmagnetized) but we\nfind the induced fields at Mars are more complicated, and we are unable to use\nthis simple classification scheme. We also find the low-altitude induced field\nstrength in the ionospheres of both Venus and Mars vary with as cosine of the\nangle between solar wind velocity and the magnetic pileup boundary. The\nlow-altitude field strength at Venus tends to be higher than Mars. However,\nVenus field strengths are lower than theoretical predictions assuming pressure\nbalance and negligible thermal pressure. For Mars, low-altitude field strengths\nare higher than expected given these assumptions. Induced field strengths\nexhibit a trend with solar wind dynamic pressure that is consistent with\npressure balance expectations at both planets, however there is significant\nuncertainty in the Venus fit due to lack of upstream solar wind data. Our\nresults highlight major differences between the induced magnetic fields at\nVenus and Mars, suggesting planet-specific properties such as size and the\npresence of crustal magnetism affect the induced ionospheric magnetic fields at\nnon magnetized planets.",
+          "arxiv_id": "2311.18217v1"
+        },
+        {
+          "title": "Impact of Changing Stellar and Planetary Magnetic Fields on (Exo)planetary Environments and Atmospheric Mass Loss",
+          "year": "2023-03",
+          "abstract": "The magnetic activity of a star -- which modulates the stellar wind outflow\n-- shapes the immediate environments of orbiting planets and induces\natmospheric loss thereby impacting their habitability. We perform a detailed\nparameter space study using three dimensional magnetohydrodynamic simulations\nto understand the effect of changing stellar wind magnetic field and planetary\nmagnetic field strengths on planetary magnetospheric topology and atmospheric\nlosses. It is observed that the relative strengths of stellar and planetary\nmagnetic fields play a significant role in determining the steady state\nmagnetospheric configuration and atmospheric erosion. When the stellar field is\nstrengthened or the planetary field is weakened, stellar magnetic field\naccumulation occurs at the day-side of the planet which forces the magnetopause\nto shift closer to its surface. The magnetotail opens up leading to the\nformation of Alfv\\'{e}n wings in the night-side wake region. We demonstrate how\nreconnection processes and wind conditions lead to the bifurcation of the\nmagnetotail current sheet. With increasing stellar wind magnetic field\nstrength, the day-side reconnection point approaches the planet thereby\nenhancing mass loss. We establish an analytic equation which successfully\ncaptures the modeled mass-loss rate variations of planets with changing\nmagnetic field strengths. Our results are relevant for understanding how the\ninterplay of stellar and planetary magnetism influence (exo)planetary\nenvironments and their habitability in star-planet systems with differing\nrelative magnetic field strengths, or in a single star-planet system over the\ncourse of their evolution with age.",
+          "arxiv_id": "2303.04770v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:03:58Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

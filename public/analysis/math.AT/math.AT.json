@@ -1,0 +1,722 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_theory_category_homotopy_group",
+        "keywords": [
+          [
+            "theory",
+            0.027412960974889933
+          ],
+          [
+            "category",
+            0.024167065218422486
+          ],
+          [
+            "homotopy",
+            0.023261330258386163
+          ],
+          [
+            "group",
+            0.021999642719495217
+          ],
+          [
+            "cohomology",
+            0.020372179761781427
+          ],
+          [
+            "groups",
+            0.020210259767475515
+          ],
+          [
+            "categories",
+            0.02005256914190377
+          ],
+          [
+            "spaces",
+            0.016925568614725727
+          ],
+          [
+            "space",
+            0.015180591068718989
+          ],
+          [
+            "equivariant",
+            0.013948465192012984
+          ]
+        ],
+        "count": 3674
+      },
+      "1": {
+        "name": "1_data_persistence_persistent_topological",
+        "keywords": [
+          [
+            "data",
+            0.04721932866988594
+          ],
+          [
+            "persistence",
+            0.04552545547124274
+          ],
+          [
+            "persistent",
+            0.03649510860156584
+          ],
+          [
+            "topological",
+            0.03429046497802307
+          ],
+          [
+            "homology",
+            0.03089926382967047
+          ],
+          [
+            "persistent homology",
+            0.02830567083773178
+          ],
+          [
+            "analysis",
+            0.026243528088547574
+          ],
+          [
+            "data analysis",
+            0.01804675971197378
+          ],
+          [
+            "features",
+            0.01644096671636765
+          ],
+          [
+            "modules",
+            0.01644005422823204
+          ]
+        ],
+        "count": 913
+      },
+      "2": {
+        "name": "2_complexity_topological_topological complexity_spaces",
+        "keywords": [
+          [
+            "complexity",
+            0.05394970161124009
+          ],
+          [
+            "topological",
+            0.053635120036272806
+          ],
+          [
+            "topological complexity",
+            0.04734380104746417
+          ],
+          [
+            "spaces",
+            0.03408884941622564
+          ],
+          [
+            "space",
+            0.03126681914884966
+          ],
+          [
+            "homotopy",
+            0.02609200377611678
+          ],
+          [
+            "metric",
+            0.022166353844979343
+          ],
+          [
+            "motion",
+            0.021676528920228574
+          ],
+          [
+            "category",
+            0.01997700766110763
+          ],
+          [
+            "digital",
+            0.01903731769198034
+          ]
+        ],
+        "count": 288
+      },
+      "3": {
+        "name": "3_complexes_complex_graph_graphs",
+        "keywords": [
+          [
+            "complexes",
+            0.0502787795696599
+          ],
+          [
+            "complex",
+            0.04488548295505058
+          ],
+          [
+            "graph",
+            0.042205042772823234
+          ],
+          [
+            "graphs",
+            0.03985977309240216
+          ],
+          [
+            "homology",
+            0.03762102291389645
+          ],
+          [
+            "simplicial",
+            0.03714028861578589
+          ],
+          [
+            "number",
+            0.02037105889043534
+          ],
+          [
+            "simplicial complex",
+            0.020084539152031827
+          ],
+          [
+            "homotopy",
+            0.01924965697733473
+          ],
+          [
+            "configuration",
+            0.016597691095292227
+          ]
+        ],
+        "count": 247
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5253511135131907,
+        -0.342845386333513,
+        -0.25042527572078166
+      ],
+      [
+        -0.5253511135131907,
+        1.0,
+        -0.43818204767154134,
+        -0.3655255801590809
+      ],
+      [
+        -0.342845386333513,
+        -0.43818204767154134,
+        1.0,
+        -0.3360599406553525
+      ],
+      [
+        -0.25042527572078166,
+        -0.3655255801590809,
+        -0.3360599406553525,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        49,
+        10,
+        16,
+        15
+      ],
+      "2020-02": [
+        61,
+        6,
+        13,
+        11
+      ],
+      "2020-03": [
+        44,
+        6,
+        13,
+        14
+      ],
+      "2020-04": [
+        45,
+        10,
+        18,
+        7
+      ],
+      "2020-05": [
+        48,
+        8,
+        10,
+        13
+      ],
+      "2020-06": [
+        55,
+        11,
+        18,
+        16
+      ],
+      "2020-07": [
+        65,
+        5,
+        17,
+        13
+      ],
+      "2020-08": [
+        34,
+        8,
+        20,
+        14
+      ],
+      "2020-09": [
+        50,
+        4,
+        14,
+        10
+      ],
+      "2020-10": [
+        44,
+        12,
+        17,
+        13
+      ],
+      "2020-11": [
+        58,
+        8,
+        20,
+        12
+      ],
+      "2020-12": [
+        46,
+        16,
+        20,
+        11
+      ],
+      "2021-01": [
+        45,
+        6,
+        5,
+        9
+      ],
+      "2021-02": [
+        42,
+        9,
+        17,
+        7
+      ],
+      "2021-03": [
+        46,
+        16,
+        13,
+        16
+      ],
+      "2021-04": [
+        47,
+        10,
+        10,
+        9
+      ],
+      "2021-05": [
+        52,
+        8,
+        16,
+        16
+      ],
+      "2021-06": [
+        52,
+        13,
+        16,
+        12
+      ],
+      "2021-07": [
+        56,
+        10,
+        14,
+        10
+      ],
+      "2021-08": [
+        39,
+        14,
+        12,
+        11
+      ],
+      "2021-09": [
+        51,
+        12,
+        15,
+        9
+      ],
+      "2021-10": [
+        51,
+        9,
+        12,
+        15
+      ],
+      "2021-11": [
+        52,
+        10,
+        17,
+        5
+      ],
+      "2021-12": [
+        49,
+        12,
+        16,
+        14
+      ],
+      "2022-01": [
+        44,
+        13,
+        10,
+        12
+      ],
+      "2022-02": [
+        49,
+        3,
+        14,
+        14
+      ],
+      "2022-03": [
+        54,
+        17,
+        12,
+        21
+      ],
+      "2022-04": [
+        39,
+        11,
+        15,
+        10
+      ],
+      "2022-05": [
+        50,
+        12,
+        13,
+        8
+      ],
+      "2022-06": [
+        36,
+        18,
+        14,
+        12
+      ],
+      "2022-07": [
+        44,
+        9,
+        16,
+        19
+      ],
+      "2022-08": [
+        52,
+        8,
+        15,
+        17
+      ],
+      "2022-09": [
+        56,
+        8,
+        16,
+        12
+      ],
+      "2022-10": [
+        62,
+        8,
+        12,
+        14
+      ],
+      "2022-11": [
+        54,
+        15,
+        13,
+        14
+      ],
+      "2022-12": [
+        42,
+        15,
+        16,
+        12
+      ],
+      "2023-01": [
+        50,
+        10,
+        16,
+        10
+      ],
+      "2023-02": [
+        45,
+        9,
+        13,
+        10
+      ],
+      "2023-03": [
+        58,
+        17,
+        23,
+        11
+      ],
+      "2023-04": [
+        43,
+        10,
+        12,
+        8
+      ],
+      "2023-05": [
+        59,
+        7,
+        16,
+        14
+      ],
+      "2023-06": [
+        61,
+        16,
+        10,
+        10
+      ],
+      "2023-07": [
+        46,
+        17,
+        11,
+        10
+      ],
+      "2023-08": [
+        63,
+        7,
+        14,
+        16
+      ],
+      "2023-09": [
+        43,
+        10,
+        14,
+        17
+      ],
+      "2023-10": [
+        56,
+        21,
+        16,
+        18
+      ],
+      "2023-11": [
+        63,
+        15,
+        13,
+        14
+      ],
+      "2023-12": [
+        60,
+        14,
+        17,
+        19
+      ],
+      "2024-01": [
+        46,
+        8,
+        9,
+        12
+      ],
+      "2024-02": [
+        56,
+        8,
+        15,
+        8
+      ],
+      "2024-03": [
+        51,
+        16,
+        13,
+        7
+      ],
+      "2024-04": [
+        46,
+        8,
+        13,
+        8
+      ],
+      "2024-05": [
+        63,
+        8,
+        16,
+        15
+      ],
+      "2024-06": [
+        61,
+        16,
+        10,
+        16
+      ],
+      "2024-07": [
+        50,
+        7,
+        18,
+        15
+      ],
+      "2024-08": [
+        46,
+        12,
+        17,
+        14
+      ],
+      "2024-09": [
+        44,
+        9,
+        16,
+        8
+      ],
+      "2024-10": [
+        72,
+        14,
+        12,
+        12
+      ],
+      "2024-11": [
+        58,
+        16,
+        18,
+        15
+      ],
+      "2024-12": [
+        51,
+        16,
+        15,
+        13
+      ],
+      "2025-01": [
+        44,
+        8,
+        13,
+        5
+      ],
+      "2025-02": [
+        42,
+        9,
+        7,
+        7
+      ],
+      "2025-03": [
+        58,
+        11,
+        18,
+        11
+      ],
+      "2025-04": [
+        45,
+        15,
+        11,
+        12
+      ],
+      "2025-05": [
+        62,
+        17,
+        17,
+        8
+      ],
+      "2025-06": [
+        59,
+        12,
+        12,
+        13
+      ],
+      "2025-07": [
+        61,
+        11,
+        13,
+        11
+      ],
+      "2025-08": [
+        47,
+        4,
+        27,
+        13
+      ],
+      "2025-09": [
+        27,
+        4,
+        14,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "A theorem of Retakh for exact $\\infty$-categories and higher extension functors",
+          "year": "2021-10",
+          "abstract": "We define extension $\\infty$-categories for exact $\\infty$-categories in\nterms of bifibrations. Extension $\\infty$-categories are invariant when passing\nto the stable hull, and consequently we show that they form an\n$\\Omega$-spectrum, generalizing a theorem of Retakh. Finally, we show that the\nhomotopy groups of extension $\\infty$-categories are naturally isomorphic to\nthe higher extension groups of the extriangulated category given by the\nhomotopy category.",
+          "arxiv_id": "2110.05138v3"
+        },
+        {
+          "title": "Free duals and a new universal property for stable equivariant homotopy theory",
+          "year": "2023-02",
+          "abstract": "We study the left adjoint $\\mathbb{D}$ to the forgetful functor from the\n$\\infty$-category of symmetric monoidal $\\infty$-categories with duals and\nfinite colimits to the $\\infty$-category of symmetric monoidal\n$\\infty$-categories with finite colimits, and related free constructions. The\nmain result is that $\\mathbb{D} \\mathcal C$ always splits as the product of 3\nfactors, each characterized by a certain universal property. As an application,\nwe show that, for any compact Lie group $G$, the $\\infty$-category of genuine\n$G$-spectra is obtained from the $\\infty$-category of Bredon (\\emph{a.k.a}\n``naive\") $G$-spectra by freely adjoining duals for compact objects, while\nrespecting colimits.",
+          "arxiv_id": "2302.04207v1"
+        },
+        {
+          "title": "2-dimensional TFTs via modular $\\infty$-operads",
+          "year": "2025-06",
+          "abstract": "This lecture series is based on joint work in progress with Shaul Barkan, as\nwell as work in progress of the author. The five sections of these notes\ncorrespond to the five lectures, but more details have been added.\n  $2$-dimensional topological field theories ($2$D TFTs) valued in vector\nspaces are commutative Frobenius algebras. The goal of this lecture series is\nto generalize from the $1$-category of vector spaces to any symmetric monoidal\n$\\infty$-category $\\mathcal{C}$, i.e. to study symmetric monoidal functors\n$\\mathrm{Bord}_2 \\to \\mathcal{C}$. Choosing $\\mathcal{C}$ to be the\n$(2,1)$-category of linear categories, this recovers a definition of modular\nfunctors, and choosing it to be the derived category of a ring yields a notion\nclosely related to cohomological field theories. We will introduce a notion of\nmodular $\\infty$-operads and algebras over them, construct the modular\n$\\infty$-operad of surfaces $\\mathcal{M}$, and show that algebras over\n$\\mathcal{M}$ in $\\mathcal{C}$ are exactly $2$D TFTs valued in $\\mathcal{C}$.\nAlong the way we will encounter variants modular $\\infty$-operads (such as\ncyclic $\\infty$-operads and $\\infty$-properads) as well as a proof of the $1$D\ncobordism hypothesis with singularities. This uses some (mild)\n$\\infty$-category theory, but no familiarity with ($\\infty$-)operads will be\nassumed. The main goal will be to filter $\\mathcal{M}$ by genus to obtain an\nobstruction-theoretic description of $2$D TFTs with general target. Applying\nthis to invertible TFTs one can construct a new spectral sequence exhibiting\nrelations between the cohomology groups of moduli spaces of curves.",
+          "arxiv_id": "2506.22104v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "A Framework for Fast and Stable Representations of Multiparameter Persistent Homology Decompositions",
+          "year": "2023-06",
+          "abstract": "Topological data analysis (TDA) is an area of data science that focuses on\nusing invariants from algebraic topology to provide multiscale shape\ndescriptors for geometric data sets such as point clouds. One of the most\nimportant such descriptors is {\\em persistent homology}, which encodes the\nchange in shape as a filtration parameter changes; a typical parameter is the\nfeature scale. For many data sets, it is useful to simultaneously vary multiple\nfiltration parameters, for example feature scale and density. While the\ntheoretical properties of single parameter persistent homology are well\nunderstood, less is known about the multiparameter case. In particular, a\ncentral question is the problem of representing multiparameter persistent\nhomology by elements of a vector space for integration with standard machine\nlearning algorithms. Existing approaches to this problem either ignore most of\nthe multiparameter information to reduce to the one-parameter case or are\nheuristic and potentially unstable in the face of noise. In this article, we\nintroduce a new general representation framework that leverages recent results\non {\\em decompositions} of multiparameter persistent homology. This framework\nis rich in information, fast to compute, and encompasses previous approaches.\nMoreover, we establish theoretical stability guarantees under this framework as\nwell as efficient algorithms for practical computation, making this framework\nan applicable and versatile tool for analyzing geometric and point cloud data.\nWe validate our stability results and algorithms with numerical experiments\nthat demonstrate statistical convergence, prediction accuracy, and fast running\ntimes on several real data sets.",
+          "arxiv_id": "2306.11170v1"
+        },
+        {
+          "title": "Cycle Registration in Persistent Homology with Applications in Topological Bootstrap",
+          "year": "2021-01",
+          "abstract": "In this article we propose a novel approach for comparing the persistent\nhomology representations of two spaces (filtrations). Commonly used methods are\nbased on numerical summaries such as persistence diagrams and persistence\nlandscapes, along with suitable metrics (e.g. Wasserstein). These summaries are\nuseful for computational purposes, but they are merely a marginal of the actual\ntopological information that persistent homology can provide. Instead, our\napproach compares between two topological representations directly in the data\nspace. We do so by defining a correspondence relation between individual\npersistent cycles of two different spaces, and devising a method for computing\nthis correspondence. Our matching of cycles is based on both the persistence\nintervals and the spatial placement of each feature. We demonstrate our new\nframework in the context of topological inference, where we use statistical\nbootstrap methods in order to differentiate between real features and noise in\npoint cloud data.",
+          "arxiv_id": "2101.00698v1"
+        },
+        {
+          "title": "On topological data analysis for SHM; an introduction to persistent homology",
+          "year": "2022-09",
+          "abstract": "This paper aims to discuss a method of quantifying the 'shape' of data, via a\nmethodology called topological data analysis. The main tool within topological\ndata analysis is persistent homology; this is a means of measuring the shape of\ndata, from the homology of a simplicial complex, calculated over a range of\nvalues. The required background theory and a method of computing persistent\nhomology is presented here, with applications specific to structural health\nmonitoring. These results allow for topological inference and the ability to\ndeduce features in higher-dimensional data, that might otherwise be overlooked.\n  A simplicial complex is constructed for data for a given distance parameter.\nThis complex encodes information about the local proximity of data points. A\nsingular homology value can be calculated from this simplicial complex.\nExtending this idea, the distance parameter is given for a range of values, and\nthe homology is calculated over this range. The persistent homology is a\nrepresentation of how the homological features of the data persist over this\ninterval. The result is characteristic to the data. A method that allows for\nthe comparison of the persistent homology for different data sets is also\ndiscussed.",
+          "arxiv_id": "2209.06155v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Different Types of Topological Complexity on Higher Homotopic Distance",
+          "year": "2022-03",
+          "abstract": "We first study the higher version of the relative topological complexity by\nusing the homotopic distance. We also introduced the generalized version of the\nrelative topological complexity of a topological pair on both the Schwarz genus\nand the homotopic distance. With these concepts, we give some inequalities\nincluding the topological complexity and the Lusternik-Schnirelmann category,\nthe most important parts of the study of robot motion planning in topology.\nFinally, by defining the parametrised topological complexity via the homotopic\ndistance, we present some estimates on the higher setting of this concept.",
+          "arxiv_id": "2203.02494v1"
+        },
+        {
+          "title": "Equivariant and Invariant Parametrized Topological Complexity",
+          "year": "2024-12",
+          "abstract": "For a $G$-equivariant fibration $p \\colon E\\to B$, we introduce and study the\ninvariant analogue of Cohen, Farber and Weinberger's parametrized topological\ncomplexity, called the invariant parametrized topological complexity. This\nnotion generalizes the invariant topological complexity introduced by Lubawski\nand Marzantowicz. We establish the equivariant fibrewise homotopy invariance of\nthis notion and derive several bounds, including a cohomological lower bound\nand a dimensional upper bound. Additionally, we compare invariant parametrized\ntopological complexity with other well-known invariants. When $G$ is a compact\nLie group acting freely on $E$, we show that the invariant parametrized\ntopological complexity of the $G$-fibration $p \\colon E\\to B$ coincides with\nthe parametrized topological complexity of the induced fibration $\\overline{p}\n\\colon \\overline{E} \\to \\overline{B}$ between the orbit spaces. Finally, we\ncompute the invariant parametrized topological complexity of equivariant\nFadell-Neuwirth fibrations, which measures the complexity of motion planning in\npresence of obstacles having unknown positions such that the order in which\nthey are placed is irrelevant.\n  Apart from this, we establish several bounds, including a cohomological lower\nbound, an equivariant homotopy dimension-connectivity upper bound and various\nproduct inequalities for the equivariant sectional category. Applying them, we\nobtain some interesting results for equivariant and invariant parametrized\ntopological complexity of a $G$-fibration.",
+          "arxiv_id": "2412.12921v3"
+        },
+        {
+          "title": "Rational sequential parametrized topological complexity",
+          "year": "2025-03",
+          "abstract": "Sequential parametrized topological complexity is a numerical homotopy\ninvariant of a fibration, which arose in the robot motion planning problem with\nexternal constraints. In this paper, we study sequential parametrized\ntopological complexity in view of rational homotopy theory. We generalize\nresults on topological complexity, and in particular, give an explicit\nalgebraic upper bound for sequential parametrized topological complexity when a\nfibration admits a certain decomposition, which is a generalization of the\nresult of Hamoun, Rami and Vandembroucq on topological complexity.",
+          "arxiv_id": "2503.01123v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Higher Independence Complexes of graphs and their homotopy types",
+          "year": "2020-01",
+          "abstract": "For $r\\geq 1$, the $r$-independence complex of a graph $G$ is a simplicial\ncomplex whose faces are subset $I \\subseteq V(G)$ such that each component of\nthe induced subgraph $G[I]$ has at most $r$ vertices. In this article, we\ndetermine the homotopy type of $r$-independence complexes of certain families\nof graphs including complete $s$-partite graphs, fully whiskered graphs, cycle\ngraphs and perfect $m$-ary trees. In each case, these complexes are either\nhomotopic to a wedge of equi-dimensional spheres or are contractible. We also\ngive a closed form formula for their homotopy types.",
+          "arxiv_id": "2001.05448v2"
+        },
+        {
+          "title": "Homomorphism complexes, reconfiguration, and homotopy for directed graphs",
+          "year": "2021-08",
+          "abstract": "The neighborhood complex of a graph was introduced by Lov\\'asz to provide\ntopological lower bounds on chromatic number. More general homomorphism\ncomplexes of graphs were further studied by Babson and Kozlov. Such `Hom\ncomplexes' are also related to mixings of graph colorings and other\nreconfiguration problems, as well as a notion of discrete homotopy for graphs.\nHere we initiate the detailed study of Hom complexes for directed graphs\n(digraphs). For any pair of digraphs graphs $G$ and $H$, we consider the\npolyhedral complex $\\text{Hom}(G,H)$ that parametrizes the directed graph\nhomomorphisms $f: G \\rightarrow H$. Hom complexes of digraphs have applications\nin the study of chains in graded posets and cellular resolutions of monomial\nideals. We study examples of directed Hom complexes and relate their\ntopological properties to certain graph operations including products,\nadjunctions, and foldings. We introduce a notion of a neighborhood complex for\na digraph and prove that its homotopy type is recovered as the Hom complex of\nhomomorphisms from a directed edge. We establish a number of results regarding\nthe topology of directed neighborhood complexes, including the dependence on\ndirected bipartite subgraphs, a digraph version of the Mycielski construction,\nas well as vanishing theorems for higher homology. The Hom complexes of\ndigraphs provide a natural framework for reconfiguration of homomorphisms of\ndigraphs. Inspired by notions of directed graph colorings we study the\nconnectivity of $\\text{Hom}(G,T_n)$ for $T_n$ a tournament. Finally, we use\npaths in the internal hom objects of digraphs to define various notions of\nhomotopy, and discuss connections to the topology of Hom complexes.",
+          "arxiv_id": "2108.10948v2"
+        },
+        {
+          "title": "Homology of graph burnings",
+          "year": "2024-07",
+          "abstract": "In this paper we study graph burnings using methods of algebraic topology. We\nprove that the time function of a burning is a graph map to a path graph.\nAfterwards, we define a category whose objects are graph burnings and morphisms\nare graph maps which commute with the time functions of the burnings. In this\ncategory we study relations between burnings of different graphs and, in\nparticular, between burnings of a graph and its subgraphs. For every graph, we\ndefine a simplicial complex, arising from the set of all the burnings, which we\ncall a configuration space of the burnings. Further, simplicial structure of\nthe configuration space gives burning homology of the graph. We describe\nproperties of the configuration space and the burning homology theory. In\nparticular, we prove that the one-dimensional skeleton of the configuration\nspace of a graph $G$ coincides with the complement graph of $G$. The results\nare illustrated with numerous examples.",
+          "arxiv_id": "2407.03832v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:52:16Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

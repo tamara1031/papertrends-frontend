@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_dose_CT_image_model",
+        "keywords": [
+          [
+            "dose",
+            0.026331341832033853
+          ],
+          [
+            "CT",
+            0.019732698266734686
+          ],
+          [
+            "image",
+            0.016286022580912426
+          ],
+          [
+            "model",
+            0.01583067604330605
+          ],
+          [
+            "images",
+            0.015479867648241405
+          ],
+          [
+            "data",
+            0.014875415557004277
+          ],
+          [
+            "imaging",
+            0.014436432293619895
+          ],
+          [
+            "method",
+            0.013457145928149295
+          ],
+          [
+            "PET",
+            0.013234169239385262
+          ],
+          [
+            "ray",
+            0.01266989983606717
+          ]
+        ],
+        "count": 1935
+      },
+      "1": {
+        "name": "1_MRI_data_diffusion_imaging",
+        "keywords": [
+          [
+            "MRI",
+            0.03646363246324914
+          ],
+          [
+            "data",
+            0.020777396235160246
+          ],
+          [
+            "diffusion",
+            0.019988953833809785
+          ],
+          [
+            "imaging",
+            0.018846440995027438
+          ],
+          [
+            "reconstruction",
+            0.01853820982415667
+          ],
+          [
+            "field",
+            0.014254578323067823
+          ],
+          [
+            "image",
+            0.014039426126171085
+          ],
+          [
+            "brain",
+            0.0136304300414421
+          ],
+          [
+            "time",
+            0.013435780279529035
+          ],
+          [
+            "method",
+            0.013162058320660398
+          ]
+        ],
+        "count": 806
+      },
+      "2": {
+        "name": "2_model_In_study_tissue",
+        "keywords": [
+          [
+            "model",
+            0.015065976708990748
+          ],
+          [
+            "In",
+            0.013876946009248301
+          ],
+          [
+            "study",
+            0.013679900519310674
+          ],
+          [
+            "tissue",
+            0.011579380801957504
+          ],
+          [
+            "properties",
+            0.010963611176357326
+          ],
+          [
+            "results",
+            0.010560183587419893
+          ],
+          [
+            "mechanical",
+            0.01009290085096398
+          ],
+          [
+            "human",
+            0.00899036142798554
+          ],
+          [
+            "high",
+            0.008955605069148175
+          ],
+          [
+            "COVID",
+            0.008919857742146969
+          ]
+        ],
+        "count": 804
+      },
+      "3": {
+        "name": "3_flow_cardiac_model_heart",
+        "keywords": [
+          [
+            "flow",
+            0.021482747520670708
+          ],
+          [
+            "cardiac",
+            0.021251424944936214
+          ],
+          [
+            "model",
+            0.02121523243801625
+          ],
+          [
+            "heart",
+            0.020707814695604045
+          ],
+          [
+            "blood",
+            0.016550904313972714
+          ],
+          [
+            "clinical",
+            0.014285703408017342
+          ],
+          [
+            "data",
+            0.014255645884237271
+          ],
+          [
+            "models",
+            0.013831058397071078
+          ],
+          [
+            "pressure",
+            0.013827782593883377
+          ],
+          [
+            "patient",
+            0.01270679434481766
+          ]
+        ],
+        "count": 411
+      },
+      "4": {
+        "name": "4_imaging_ultrasound_photoacoustic_resolution",
+        "keywords": [
+          [
+            "imaging",
+            0.03904736401381853
+          ],
+          [
+            "ultrasound",
+            0.03504626434905919
+          ],
+          [
+            "photoacoustic",
+            0.018689339541838355
+          ],
+          [
+            "resolution",
+            0.01687145140304032
+          ],
+          [
+            "image",
+            0.01649658562344467
+          ],
+          [
+            "method",
+            0.01646898079875671
+          ],
+          [
+            "acoustic",
+            0.014934654447853442
+          ],
+          [
+            "wave",
+            0.014305523135728934
+          ],
+          [
+            "blood",
+            0.014064857781320304
+          ],
+          [
+            "data",
+            0.01340289353692005
+          ]
+        ],
+        "count": 305
+      },
+      "5": {
+        "name": "5_imaging_OCT_optical_light",
+        "keywords": [
+          [
+            "imaging",
+            0.03804787111434064
+          ],
+          [
+            "OCT",
+            0.03565294951288031
+          ],
+          [
+            "optical",
+            0.030504766616599628
+          ],
+          [
+            "light",
+            0.020263567637128936
+          ],
+          [
+            "tissue",
+            0.01874447873308539
+          ],
+          [
+            "microscopy",
+            0.01809993366885862
+          ],
+          [
+            "resolution",
+            0.01761987247050384
+          ],
+          [
+            "coherence",
+            0.016298430042866817
+          ],
+          [
+            "coherence tomography",
+            0.015828182179603748
+          ],
+          [
+            "optical coherence",
+            0.015361450345797079
+          ]
+        ],
+        "count": 214
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.691579600842158,
+        -0.5707253356556927,
+        -0.5896008268366341,
+        -0.692035581846985,
+        -0.7093698620222242
+      ],
+      [
+        -0.691579600842158,
+        1.0,
+        -0.7012049423853113,
+        -0.689135071943904,
+        -0.6793287297367241,
+        -0.7094239973115652
+      ],
+      [
+        -0.5707253356556927,
+        -0.7012049423853113,
+        1.0,
+        -0.5188487655261469,
+        -0.7127515475394997,
+        -0.7319377986400841
+      ],
+      [
+        -0.5896008268366341,
+        -0.689135071943904,
+        -0.5188487655261469,
+        1.0,
+        -0.6891262379833918,
+        -0.7317438308274669
+      ],
+      [
+        -0.692035581846985,
+        -0.6793287297367241,
+        -0.7127515475394997,
+        -0.6891262379833918,
+        1.0,
+        -0.38242102842451337
+      ],
+      [
+        -0.7093698620222242,
+        -0.7094239973115652,
+        -0.7319377986400841,
+        -0.7317438308274669,
+        -0.38242102842451337,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        40,
+        9,
+        4,
+        4,
+        5,
+        3
+      ],
+      "2020-02": [
+        29,
+        10,
+        5,
+        2,
+        3,
+        4
+      ],
+      "2020-03": [
+        39,
+        6,
+        5,
+        7,
+        8,
+        3
+      ],
+      "2020-04": [
+        31,
+        9,
+        9,
+        7,
+        4,
+        2
+      ],
+      "2020-05": [
+        31,
+        16,
+        4,
+        6,
+        3,
+        6
+      ],
+      "2020-06": [
+        40,
+        8,
+        4,
+        8,
+        2,
+        2
+      ],
+      "2020-07": [
+        35,
+        7,
+        8,
+        6,
+        11,
+        5
+      ],
+      "2020-08": [
+        38,
+        8,
+        10,
+        5,
+        8,
+        2
+      ],
+      "2020-09": [
+        37,
+        9,
+        5,
+        3,
+        9,
+        7
+      ],
+      "2020-10": [
+        39,
+        9,
+        8,
+        7,
+        7,
+        1
+      ],
+      "2020-11": [
+        32,
+        8,
+        6,
+        9,
+        10,
+        3
+      ],
+      "2020-12": [
+        32,
+        8,
+        3,
+        6,
+        9,
+        1
+      ],
+      "2021-01": [
+        45,
+        10,
+        3,
+        9,
+        10,
+        3
+      ],
+      "2021-02": [
+        44,
+        10,
+        4,
+        6,
+        8,
+        3
+      ],
+      "2021-03": [
+        30,
+        6,
+        9,
+        8,
+        9,
+        2
+      ],
+      "2021-04": [
+        22,
+        8,
+        6,
+        3,
+        5,
+        1
+      ],
+      "2021-05": [
+        38,
+        10,
+        8,
+        7,
+        4,
+        2
+      ],
+      "2021-06": [
+        38,
+        9,
+        0,
+        5,
+        10,
+        2
+      ],
+      "2021-07": [
+        30,
+        11,
+        2,
+        13,
+        4,
+        3
+      ],
+      "2021-08": [
+        28,
+        15,
+        8,
+        7,
+        9,
+        3
+      ],
+      "2021-09": [
+        37,
+        12,
+        3,
+        4,
+        9,
+        3
+      ],
+      "2021-10": [
+        25,
+        5,
+        3,
+        8,
+        10,
+        3
+      ],
+      "2021-11": [
+        43,
+        21,
+        8,
+        8,
+        8,
+        2
+      ],
+      "2021-12": [
+        26,
+        9,
+        6,
+        8,
+        6,
+        6
+      ],
+      "2022-01": [
+        35,
+        8,
+        4,
+        9,
+        10,
+        0
+      ],
+      "2022-02": [
+        30,
+        8,
+        1,
+        8,
+        6,
+        5
+      ],
+      "2022-03": [
+        35,
+        15,
+        5,
+        8,
+        9,
+        3
+      ],
+      "2022-04": [
+        32,
+        10,
+        8,
+        4,
+        7,
+        2
+      ],
+      "2022-05": [
+        32,
+        13,
+        6,
+        10,
+        7,
+        1
+      ],
+      "2022-06": [
+        26,
+        9,
+        4,
+        5,
+        5,
+        2
+      ],
+      "2022-07": [
+        23,
+        7,
+        4,
+        6,
+        8,
+        3
+      ],
+      "2022-08": [
+        37,
+        8,
+        3,
+        6,
+        4,
+        2
+      ],
+      "2022-09": [
+        30,
+        13,
+        3,
+        6,
+        3,
+        1
+      ],
+      "2022-10": [
+        32,
+        7,
+        4,
+        8,
+        7,
+        2
+      ],
+      "2022-11": [
+        32,
+        6,
+        3,
+        7,
+        8,
+        7
+      ],
+      "2022-12": [
+        34,
+        6,
+        5,
+        7,
+        3,
+        2
+      ],
+      "2023-01": [
+        19,
+        11,
+        5,
+        9,
+        6,
+        5
+      ],
+      "2023-02": [
+        20,
+        5,
+        2,
+        5,
+        6,
+        2
+      ],
+      "2023-03": [
+        27,
+        21,
+        9,
+        3,
+        5,
+        4
+      ],
+      "2023-04": [
+        36,
+        7,
+        6,
+        5,
+        10,
+        2
+      ],
+      "2023-05": [
+        35,
+        14,
+        4,
+        9,
+        4,
+        5
+      ],
+      "2023-06": [
+        35,
+        16,
+        5,
+        5,
+        7,
+        7
+      ],
+      "2023-07": [
+        28,
+        6,
+        4,
+        9,
+        4,
+        4
+      ],
+      "2023-08": [
+        33,
+        15,
+        5,
+        5,
+        8,
+        2
+      ],
+      "2023-09": [
+        42,
+        13,
+        6,
+        8,
+        7,
+        0
+      ],
+      "2023-10": [
+        51,
+        13,
+        5,
+        6,
+        11,
+        3
+      ],
+      "2023-11": [
+        31,
+        15,
+        6,
+        4,
+        6,
+        6
+      ],
+      "2023-12": [
+        45,
+        13,
+        4,
+        8,
+        9,
+        4
+      ],
+      "2024-01": [
+        42,
+        10,
+        4,
+        8,
+        8,
+        4
+      ],
+      "2024-02": [
+        41,
+        8,
+        2,
+        7,
+        3,
+        3
+      ],
+      "2024-03": [
+        44,
+        13,
+        6,
+        8,
+        10,
+        6
+      ],
+      "2024-04": [
+        27,
+        8,
+        5,
+        6,
+        6,
+        4
+      ],
+      "2024-05": [
+        46,
+        8,
+        2,
+        4,
+        9,
+        4
+      ],
+      "2024-06": [
+        50,
+        13,
+        7,
+        6,
+        5,
+        2
+      ],
+      "2024-07": [
+        36,
+        11,
+        5,
+        9,
+        4,
+        2
+      ],
+      "2024-08": [
+        29,
+        8,
+        7,
+        6,
+        9,
+        6
+      ],
+      "2024-09": [
+        44,
+        13,
+        3,
+        12,
+        12,
+        2
+      ],
+      "2024-10": [
+        58,
+        13,
+        9,
+        10,
+        10,
+        5
+      ],
+      "2024-11": [
+        50,
+        18,
+        6,
+        12,
+        2,
+        2
+      ],
+      "2024-12": [
+        47,
+        16,
+        9,
+        5,
+        6,
+        5
+      ],
+      "2025-01": [
+        58,
+        15,
+        8,
+        7,
+        5,
+        2
+      ],
+      "2025-02": [
+        38,
+        13,
+        4,
+        9,
+        10,
+        1
+      ],
+      "2025-03": [
+        53,
+        14,
+        6,
+        9,
+        11,
+        4
+      ],
+      "2025-04": [
+        47,
+        12,
+        3,
+        7,
+        10,
+        1
+      ],
+      "2025-05": [
+        55,
+        12,
+        5,
+        6,
+        12,
+        2
+      ],
+      "2025-06": [
+        44,
+        11,
+        3,
+        7,
+        5,
+        0
+      ],
+      "2025-07": [
+        42,
+        17,
+        2,
+        10,
+        5,
+        3
+      ],
+      "2025-08": [
+        52,
+        16,
+        3,
+        6,
+        11,
+        5
+      ],
+      "2025-09": [
+        30,
+        9,
+        3,
+        6,
+        4,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Learning-Based Synthetic Dual Energy CT Imaging from Single Energy CT for Stopping Power Ratio Calculation in Proton Radiation Therapy",
+          "year": "2020-05",
+          "abstract": "Purpose: Dual-energy CT (DECT) has been shown to derive stopping power ratio\n(SPR) map with higher accuracy than conventional single energy CT (SECT) by\nobtaining the energy dependence of photon interactions. However, DECT is not as\nwidely implemented as SECT in proton radiation therapy simulation. This work\npresents a learning-based method to synthetize DECT images from SECT for proton\nradiation therapy. Methods: The proposed method uses a residual attention\ngenerative adversarial network. Residual blocks with attention gates were used\nto force the model focus on the difference between DECT maps and SECT images.\nTo evaluate the accuracy of the method, we retrospectively investigated 20\nhead-and-neck cancer patients with both DECT and SECT scans available. The high\nand low energy CT images acquired from DECT acted as learning targets in the\ntraining process for SECT datasets and were evaluated against results from the\nproposed method using a leave-one-out cross-validation strategy. To evaluate\nour method in the context of a practical application, we generated SPR maps\nfrom sDECT using physics-based dual-energy stoichiometric method and compared\nthe maps to those generated from DECT. Results: The synthesized DECT images\nshowed an average mean absolute error around 30 Hounsfield Unit (HU) across the\nwhole-body volume. The corresponding SPR maps generated from synthetic DECT\nshowed an average normalized mean square error of about 1% with reduced noise\nlevel and artifacts than those from original DECT. Conclusions: The accuracy of\nthe synthesized DECT image by our machine-learning-based method was evaluated\non head and neck patient, and potential feasibility for proton treatment\nplanning and dose calculation was shown by generating SPR map using the\nsynthesized DECT.",
+          "arxiv_id": "2005.12908v1"
+        },
+        {
+          "title": "PET-enabled Dual-Energy CT: Image Reconstruction and A Proof-of-Concept Computer Simulation Study",
+          "year": "2020-08",
+          "abstract": "Standard dual-energy computed tomography (CT) uses two different X-ray\nenergies to obtain energy-dependent tissue attenuation information to allow\nquantitative material decomposition. The combined use of dual-energy CT and\npositron emission tomography (PET) may provide a more comprehensive\ncharacterization of disease states in cancer and many other diseases. However,\nthe integration of dual-energy CT with PET is not trivial, either requiring\ncostly hardware upgrade or increasing radiation dose. This paper proposes a\nnovel dual-energy CT imaging method that is enabled by the already-available\nPET data on PET/CT. Instead of using a second X-ray CT scan with a different\nenergy, this method exploits time-of-flight PET image reconstruction via the\nmaximum likelihood attenuation and activity (MLAA) algorithm to obtain a 511\nkeV gamma-ray attenuation image from PET emission data. The high-energy\ngamma-ray CT image is then combined with the low-energy X-ray CT of PET/CT to\nprovide a pair of dual-energy CT images. A major challenge with the standard\nMLAA reconstruction is the high noise present in the reconstructed 511 keV\nattenuation map, which does not compromise the PET activity reconstruction too\nmuch but significantly affects the performance of the gamma-ray CT for material\ndecomposition. To overcome the problem, we further propose a kernel MLAA\nalgorithm to exploit the prior information from the available X-ray CT image.\nWe conducted a computer simulation to test the concept and algorithm for the\ntask of material decomposition. The simulation results indicate that this\nPET-enabled dual-energy CT method is promising for quantitative material\ndecomposition. The proposed method can be readily implemented on time-of-flight\nPET/CT scanners to enable simultaneous PET and dual-energy CT imaging.",
+          "arxiv_id": "2008.09755v1"
+        },
+        {
+          "title": "Improving Proton Dose Calculation Accuracy by Using Deep Learning",
+          "year": "2020-04",
+          "abstract": "Accurate dose calculation is vitally important for proton therapy. Pencil\nbeam (PB) model-based dose calculation is fast but inaccurate due to the\napproximation when dealing with inhomogeneities. Monte Carlo (MC) dose\ncalculation is the most accurate method, but it is time consuming. We\nhypothesize that deep learning methods can boost the accuracy of PB dose\ncalculation to the level of MC. In this work, we developed a deep learning\nmodel that converts PB to MC doses for different tumor sites. The proposed\nmodel is based on our newly developed hierarchically densely connected U-Net\n(HD U-Net) network, and it uses the PB dose and patient CT image as inputs to\ngenerate the MC dose. We used 290 patients (90 with head and neck, 93 with\nliver, 75 with prostate, and 32 with lung cancer) to train, validate, and test\nthe model. For each tumor site, we performed four numerical experiments to\nexplore various combinations of training datasets. Training the model on data\nfrom all tumor sites together and using the dose distribution of each\nindividual beam as input yielded the best performance for all four tumor sites.\nThe average gamma index (1mm/1% criteria) between the converted dose and the MC\ndose was 92.8%, 92.7%, 89.7% and 99.6% for head and neck, liver, lung, and\nprostate test patients, respectively. The average time for dose conversion for\na single field was less than 4 seconds. In conclusion, our deep learning-based\napproach can quickly boost the accuracy of proton PB dose distributions to that\nof MC dose distributions. The trained model can be readily adapted to new\ndatasets for different tumor sites and from different hospitals through\ntransfer learning. This model can be added as a plug-in to the clinical\nworkflow of proton therapy treatment planning to improve the accuracy of proton\ndose calculation.",
+          "arxiv_id": "2004.02924v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "PRIME: Phase Reversed Interleaved Multi-Echo acquisition enables highly accelerated distortion-free diffusion MRI",
+          "year": "2024-09",
+          "abstract": "Purpose: To develop and evaluate a new pulse sequence for highly accelerated\ndistortion-free diffusion MRI (dMRI) by inserting additional echoes without\nprolonging TR, when generalized slice dithered enhanced resolution (gSlider)\nradiofrequency encoding is used for volumetric acquisition. Methods: A\nphase-reversed interleaved multi-echo acquisition (PRIME) was developed for\nrapid, high-resolution, and distortion-free dMRI, which includes several echoes\nwhere the first echo is for target diffusion-weighted imaging (DWI) acquisition\nwith high-resolution and additional echoes are acquired with either lower\nresolution for 1) high-fidelity field map estimation, 2) phase navigation for\nshot-to-shot phase correction, 3) motion navigation across diffusion\ndirections, or with high resolution to enable 4) high fidelity diffusion\nrelaxometry acquisitions. The sequence was evaluated on in vivo data acquired\nfrom healthy volunteers on clinical and Connectome 2.0 scanners. Results: In\nvivo experiments demonstrated that 1) high in-plane acceleration (Rin-plane of\n5-fold with 2D partial Fourier) was achieved using the high-fidelity field maps\nestimated from the second echo, which was made at a lower\nresolution/acceleration to increase its SNR while matching the effective echo\nspacing of the first readout, 2) high-resolution diffusion relaxometry\nparameters were estimated from triple-echo PRIME data using a white matter\nmodel of multi-TE spherical mean technique (MTE-SMT), and 3) high-fidelity\nmesoscale DWI at 490 um isotropic resolution was obtained in vivo by\ncapitalizing on the high-performance gradients of the Connectome 2.0 scanner.\nConclusion: The proposed PRIME sequence enabled highly accelerated,\nhigh-resolution, and distortion-free dMRI using additional echoes without\nprolonging scan time when gSlider encoding is utilized.",
+          "arxiv_id": "2409.07375v2"
+        },
+        {
+          "title": "High-resolution myelin-water fraction and quantitative relaxation mapping using 3D ViSTa-MR fingerprinting",
+          "year": "2023-12",
+          "abstract": "Purpose: This study aims to develop a high-resolution whole-brain\nmulti-parametric quantitative MRI approach for simultaneous mapping of\nmyelin-water fraction (MWF), T1, T2, and proton-density (PD), all within a\nclinically feasible scan time.\n  Methods: We developed 3D ViSTa-MRF, which combined Visualization of Short\nTransverse relaxation time component (ViSTa) technique with MR Fingerprinting\n(MRF), to achieve high-fidelity whole-brain MWF and T1/T2/PD mapping on a\nclinical 3T scanner. To achieve fast acquisition and memory-efficient\nreconstruction, the ViSTa-MRF sequence leverages an optimized 3D\ntiny-golden-angle-shuffling spiral-projection acquisition and joint\nspatial-temporal subspace reconstruction with optimized preconditioning\nalgorithm. With the proposed ViSTa-MRF approach, high-fidelity direct MWF\nmapping was achieved without a need for multi-compartment fitting that could\nintroduce bias and/or noise from additional assumptions or priors.\n  Results: The in-vivo results demonstrate the effectiveness of the proposed\nacquisition and reconstruction framework to provide fast multi-parametric\nmapping with high SNR and good quality. The in-vivo results of 1mm- and\n0.66mm-iso datasets indicate that the MWF values measured by the proposed\nmethod are consistent with standard ViSTa results that are 30x slower with\nlower SNR. Furthermore, we applied the proposed method to enable 5-minute\nwhole-brain 1mm-iso assessment of MWF and T1/T2/PD mappings for infant brain\ndevelopment and for post-mortem brain samples.\n  Conclusions: In this work, we have developed a 3D ViSTa-MRF technique that\nenables the acquisition of whole-brain MWF, quantitative T1, T2, and PD maps at\n1mm and 0.66mm isotropic resolution in 5 and 15 minutes, respectively. This\nadvancement allows for quantitative investigations of myelination changes in\nthe brain.",
+          "arxiv_id": "2312.13523v1"
+        },
+        {
+          "title": "IMJENSE: Scan-specific Implicit Representation for Joint Coil Sensitivity and Image Estimation in Parallel MRI",
+          "year": "2023-11",
+          "abstract": "Parallel imaging is a commonly used technique to accelerate magnetic\nresonance imaging (MRI) data acquisition. Mathematically, parallel MRI\nreconstruction can be formulated as an inverse problem relating the sparsely\nsampled k-space measurements to the desired MRI image. Despite the success of\nmany existing reconstruction algorithms, it remains a challenge to reliably\nreconstruct a high-quality image from highly reduced k-space measurements.\nRecently, implicit neural representation has emerged as a powerful paradigm to\nexploit the internal information and the physics of partially acquired data to\ngenerate the desired object. In this study, we introduced IMJENSE, a\nscan-specific implicit neural representation-based method for improving\nparallel MRI reconstruction. Specifically, the underlying MRI image and coil\nsensitivities were modeled as continuous functions of spatial coordinates,\nparameterized by neural networks and polynomials, respectively. The weights in\nthe networks and coefficients in the polynomials were simultaneously learned\ndirectly from sparsely acquired k-space measurements, without fully sampled\nground truth data for training. Benefiting from the powerful continuous\nrepresentation and joint estimation of the MRI image and coil sensitivities,\nIMJENSE outperforms conventional image or k-space domain reconstruction\nalgorithms. With extremely limited calibration data, IMJENSE is more stable\nthan supervised calibrationless and calibration-based deep-learning methods.\nResults show that IMJENSE robustly reconstructs the images acquired at\n5$\\mathbf{\\times}$ and 6$\\mathbf{\\times}$ accelerations with only 4 or 8\ncalibration lines in 2D Cartesian acquisitions, corresponding to 22.0% and\n19.5% undersampling rates. The high-quality results and scanning specificity\nmake the proposed method hold the potential for further accelerating the data\nacquisition of parallel MRI.",
+          "arxiv_id": "2311.12892v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "A Point-of-Care Biosensor for Rapid Detection and Differentiation of COVID-19 Virus (SARS-CoV-2) and Influenza Virus Using Subwavelength Grating Micro-ring Resonator",
+          "year": "2023-01",
+          "abstract": "In the context of continued spread of coronavirus disease 2019 (COVID-19)\ncaused by SARS-CoV-2 and the emergence of new variants, the demand for rapid,\naccurate, and frequent detection is increasing. Besides, the new predominant\nstrain, Omicron variant, manifests more similar clinical features to those of\nother common respiratory infections. The concurrent detection of multiple\npotential pathogens helps distinguish SARS-CoV-2 infection from other diseases\nwith overlapping symptoms, which is significant for patients to receive\ntailored treatment and containing the outbreak. Here, we report a lab-on-a-chip\nbiosensing platform for SARS-CoV-2 detection based on subwavelength grating\nmicro-ring resonator. The sensing surface is functionalized by specific\nantibody against SARS-CoV-2 spike protein, which could produce redshifts of\nresonant peaks by antigen-antibody combination, thus achieving quantitative\ndetection. Additionally, the sensor chip is integrated with a microfluidic chip\nwith an anti-backflow Y-shaped structure that enables the concurrent detection\nof two analytes. In this study, we realized the detection and differentiation\nof COVID-19 and influenza A H1N1. Experimental results show that the limit of\ndetection of our device reaches 100 fg/mL (1.31 fM) within 15 min detecting\ntime, and cross-reactivity tests manifest the specificity of the optical\ndiagnostic assay. Further, the integrated packaging and streamlined workflow\nfacilitate its use for clinical applications. Thus, the biosensing platform\noffers a promising solution to achieve ultrasensitive, selective, multiplexed,\nand quantitative point-of-care detection of COVID-19.",
+          "arxiv_id": "2301.04754v1"
+        },
+        {
+          "title": "Identifying the optimal parameters for sprayed and inhaled drug particulates for intranasal targeting of SARS-CoV-2 infection sites",
+          "year": "2020-10",
+          "abstract": "Efficacy for COVID-19 treatments can be enhanced significantly through\ntargeting the nasopharynx, which has been shown to be the dominant preliminary\ninfection site for SARS-CoV-2. Although intranasal drugs can be administered\neasily through drops or sprays, it is difficult to test whether current\nprotocols will deliver the right amount of the drug to this location\nconsistently. We are interested in developing an in silico prototyping tool to\nrapidly identify optimal parameters for intranasal delivery. In this study, we\nhave applied computational fluid dynamics to simulate fluid flow through the\nnasal cavity and examined particle deposition for a drug formulation, mimicking\ndifferent delivery methods. The nasal geometry models were derived using\ndigitized and meshed computed tomography (CT) scans of human patients. Using\nthe nasal geometries, we simulated two different airflows: a laminar model at\n15 LPM (Liters/min) that simulated resting breathing rate and a Large Eddy\nSimulation (LES) model used to achieve a higher flow rate of 30 LPM. We were\nable to run particle tracking simulations for these two airflow schemes to test\ndifferent drug properties such as particle size. The different injection\nmethods used include surface injection which best replicates an inhaler-based\nrelease of particle droplets into the nostril and the cone injection method\nwhich best replicates a spray into the nostril. The results of the study\nsuggest that the most optimal drug particle size for targeting the intranasal\ninfection sites is around 6-14 microns.",
+          "arxiv_id": "2010.16325v1"
+        },
+        {
+          "title": "Investigation of Vibrational Frequency of Canine Vocal Folds Using a Two-Way Fluid-Solid Interaction Analysis",
+          "year": "2024-11",
+          "abstract": "Introduction Speech is an integral component of human communication,\nrequiring the coordinated efforts of various organs to produce sound (Titze &\nAlipour, 2006). The glottis region, a key player in voice production, assumes a\ncrucial role in this intricate process. As air, emanating from the lungs in a\nconfined space, interacts with the vocal folds (VFs) within the human body, it\ngives rise to the creation of voice (Alipour & Vigmostad, 2012). Understanding\nthe mechanical intricacies of this process is very important. Studying VFs in\nvivo situations is hard work. However, the orientation, shape and size of VFs\nfibers have been extracted with synchrotron X-ray microtomography. (Bailly et\nal., 2018) The investigation of mechanical properties of both human and animal\nVFs has been carried out through various methodologies in the literature. The\nmechanical properties of VFs have been studied using the uniaxial extension\ntest (Alipour & Vigmostad, 2012) assuming a linear behavior, while the\nnonlinearity and anisotropy of VFs has been determined using a multiscale\nmethod as in Miri et al. (2013). Pipette aspiration has also been used to\nextract in vivo elastic properties of VFs (Scheible et al., 2023). Mechanical\nbehavior of VFs layers in tension, compression and shear has been studied.\n(Cochereau et al., 2020). Fluid-structure interaction (FSI) simulations provide\na valuable tool to gain a deeper understanding of voice production (Ghorbani et\nal. 2022). These simulations allow us to model the dynamic interplay between\nthe VFs and air. Our research focuses on investigating the mechanical\nproperties of canine vocal folds and utilizing these findings in an FSI\nsimulation. Through this simulation, we aim to unravel how these mechanical\nproperties affect voice production.Methods To investigate the mechanical\nproperties of canine VFs, an in vitro study was conducted involving 6\nmixedbreed dogs. The samples were harvested from canine cadavers euthanized for\nreasons unrelated to this study. In the following, the VFs were harvested and\ntested upon 3-4 hours post-animal sacrifice. Experimental trials were carried\nout using the STM-1 device (SANTAM Co.), equipped with a 100 kg load cell.\nSeven uniaxial tensile tests were done on each sample, with displacement rates\nof 1, 5, 10, 20, 40, 60, and 120 mm/min. The very slow rate of 1 mm/min was\nchosen to assess only elastic properties eliminating viscosity effects. Various\nhyperelastic models were used to fit the experimental data. Subsequently, for\neach model, both the mean and standard deviation (SD) were determined for the\nhyperelastic model parameters and their residuals. For FSI analysis we used a\nsimplified laryngeal model as a hollow cylinder with a diameter of 50 mm and a\nthickness of 3 mm. The overall length of the larynx was set at 100 mm. The VFs\nwere modeled as a circular disc with a small elliptical fissure in the midst of\nthe cylinder section. Boundary conditions were established based on pressure\ndifferentials, with the inlet gauge pressure set at 1200 Pa and the relative\npressure at the outlet set to 0. To account for the turbulent nature of airflow\nwithin the larynx, we employed the K-epsilon method to solve the motion\ndifferential equations in a two-way fluid-structure interaction simulation\nusing ANSYS FLUENT 2021. This approach enabled us to investigate how the\nacquired mechanical properties of canine vocal folds affect the FSI simulations\nduring phonation, resulting in a more comprehensive understanding of their\nimpact. To determine the vibrational frequency of VFs, we calculated the time\nit took to reach maximum displacement and then quadrupled this value to obtain\nthe period of vibration.",
+          "arxiv_id": "2411.12291v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "A computational study of aortic reconstruction in single ventricle patients",
+          "year": "2022-05",
+          "abstract": "Patients with hypoplastic left heart syndrome (HLHS) are born with an\nunderdeveloped left heart. They typically receive a sequence of surgeries that\nresult in a single ventricle physiology called the Fontan circulation. While\nthese patients usually survive into early adulthood, they are at risk for\nmedical complications, partially due to their lower than normal cardiac output,\nwhich leads to insufficient cerebral and gut perfusion. While clinical imaging\ndata can provide detailed insight into cardiovascular function within the\nimaged region, it is difficult to use this data for assessing deficiencies in\nthe rest of the body and for deriving blood pressure dynamics. Data from\npatients used in this paper include three dimensional, magnetic resonance\nangiograms (MRA), time-resolved phase contrast cardiac magnetic resonance\nimages (4D-MRI) and sphygmomanometer blood pressure measurements. The 4D-MRI\nimages provide detailed insight into velocity and flow in vessels within the\nimaged region, but they cannot predict flow in the rest of the body, nor do\nthey provide values of blood pressure. To remedy these limitations, this study\ncombines the MRA, 4D-MRI, and pressure data with 1D fluid dynamics models to\npredict hemodynamics in the major systemic arteries, including the cerebral and\ngut vasculature. To study effects post-surgery we compare simulations for an\nHLHS patient with simulations for a matched control patient that has double\noutlet right ventricle (DORV) physiology with a native aorta. Our results show\nthat the HLHS patient has hypertensive pressures in the brain as well as\nreduced flow to the gut. Wave-intensity analysis suggests that the HLHS patient\nhas irregular circulatory function during light upright exercise conditions and\nthat predicted wall-shear stresses are lower than normal, suggesting the HLHS\npatient may have hypertension.",
+          "arxiv_id": "2205.10206v1"
+        },
+        {
+          "title": "Machine-Learning Identification of Hemodynamics in Coronary Arteries in the Presence of Stenosis",
+          "year": "2021-11",
+          "abstract": "Prediction of the blood flow characteristics is of utmost importance for\nunderstanding the behavior of the blood arterial network, especially in the\npresence of vascular diseases such as stenosis. Computational fluid dynamics\n(CFD) has provided a powerful and efficient tool to determine these\ncharacteristics including the pressure and velocity fields within the network.\nDespite numerous studies in the field, the extremely high computational cost of\nCFD has led the researchers to develop new platforms including Machine Learning\napproaches that instead provide faster analyses at a much lower cost. In this\nstudy, we put forth a Deep Neural Network framework to predict flow behavior in\na coronary arterial network with different properties in the presence of any\nabnormality like stenosis. To this end, an artificial neural network (ANN)\nmodel is trained using synthetic data so that it can predict the pressure and\nvelocity within the arterial network. The data required to train the neural\nnetwork were obtained from the CFD analysis of several geometries of arteries\nwith specific features in ABAQUS software. Blood pressure drop caused by\nstenosis, which is one of the most important factors in the diagnosis of heart\ndiseases, can be predicted using our proposed model knowing the geometrical and\nflow boundary conditions of any section of the coronary arteries. The\nefficiency of the model was verified using three real geometries of LAD's\nvessels. The proposed approach precisely predicts the hemodynamic behavior of\nthe blood flow. The average accuracy of the pressure prediction was 98.7% and\nthe average velocity magnitude accuracy was 93.2%. According to the results of\ntesting the model on three patient-specific geometries, model can be considered\nas an alternative to finite element methods as well as other hard-to-implement\nand time-consuming numerical simulations.",
+          "arxiv_id": "2111.01950v2"
+        },
+        {
+          "title": "Computational analysis of flow structures in turbulent ventricular blood flow associated with mitral valve intervention",
+          "year": "2021-11",
+          "abstract": "Cardiac disease and clinical intervention may both lead to an increased risk\nfor thrombosis events due to modified blood flow in the heart, and thereby a\nchange in the mechanical stimuli of blood cells passing through the chambers of\nthe heart. Specifically, the degree of platelet activation is influenced by the\nlevel and type of mechanical stresses in the blood flow. Here we analyze the\nblood flow in the left ventricle of the heart through a computational model\nconstructed from patient-specific data. The blood flow in the ventricle is\nmodeled by the Navier-Stokes equations, and the flow through the mitral valve\nby a parameterized model which represents the projected opening of the valve. A\nfinite element method is used to solve the equations, from which a simulation\nof the velocity and pressure of the blood flow is constructed. A triple\ndecomposition of the velocity gradient tensor is then used to distinguish\nbetween rigid body rotational flow, irrotational straining flow, and shear\nflow. The triple decomposition enables the separation of three fundamentally\ndifferent flow structures, each generating a distinct type of mechanical\nstimulus on the blood cells in the flow. We compare the results to simulations\nwhere a mitral valve clip intervention is modelled, which leads to a\nsignificant modification of the ventricular flow. It was found that the shear\nin the simulation cases treated with clips increased more compared to the\nuntreated case than the rotation and strain did. A decrease in valve opening\narea of 64 % in one of the cases led to a 90 % increase in rotation and strain,\nbut a 150 % increase in shear. The computational analysis suggests a process\nfor patient-specific simulation of clinical interventions in the heart with a\ndetailed analysis of the resulting blood flow, which could support clinical\nrisk assessment with respect to platelet activation and thrombosis events.",
+          "arxiv_id": "2111.08690v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Photoacoustic digital brain: numerical modelling and image reconstruction via deep learning",
+          "year": "2021-09",
+          "abstract": "Photoacoustic tomography (PAT) is a newly developed medical imaging modality,\nwhich combines the advantages of pure optical imaging and ultrasound imaging,\nowning both high optical contrast and deep penetration depth. Very recently,\nPAT is studied in human brain imaging. Nevertheless, while ultrasound waves are\npassing through the human skull tissues, the strong acoustic attenuation and\naberration will happen, which causes photoacoustic signals' distortion. In this\nwork, we use 10 magnetic resonance angiography (MRA) human brain volumes, and\nmanually segment them to obtain the 2D human brain numerical phantoms for PAT.\nThe numerical phantoms contain six kinds of tissues which are scalp, skull,\nwhite matter, gray matter, blood vessel and cerebral cortex. For every\nnumerical phantom, optical properties are assigned to every kind of tissues.\nThen, Monte-Carlo based optical simulation is deployed to obtain the\nphotoacoustic initial pressure. Then, we made two k-wave simulation cases: one\ntakes inhomogeneous medium and uneven sound velocity into consideration, and\nthe other not. Then we use the sensor data of the former one as the input of\nU-net, and the sensor data of the latter one as the output of U-net to train\nthe network. We randomly choose 7 human brain PA sinograms as the training\ndataset and 3 human brain PA sinograms as the testing set. The testing result\nshows that our method could correct the skull acoustic aberration and obtain\nthe blood vessel distribution inside the human brain satisfactorily.",
+          "arxiv_id": "2109.09127v1"
+        },
+        {
+          "title": "Multi-scale volumetric dynamic optoacoustic and laser ultrasound (OPLUS) imaging enabled by semi-transparent optical guidance",
+          "year": "2023-04",
+          "abstract": "Major biological discoveries have been made by interrogating living organisms\nwith light. However, the limited penetration of unscattered photons within\nbiological tissues severely limits the depth range covered by optical methods.\nDeep-tissue imaging has been achieved by combining light and ultrasound.\nOptoacoustic imaging uniquely exploits optical generation of ultrasound to\nrender high-resolution images at depths unattainable with optical microscopy.\nRecently, laser ultrasound has further been suggested as a means of generating\nbroadband acoustic waves for high-resolution pulse-echo ultrasound imaging.\nHerein, we propose an approach to simultaneously interrogate biological tissues\nwith light and ultrasound based on layer-by-layer coating of silica optical\nfibers with a controlled degree of transparency. We exploit the time separation\nbetween optoacoustic signals and ultrasound echoes collected with a custom-made\nspherical array transducer for simultaneous three-dimensional optoacoustic and\nlaser ultrasound (OPLUS) imaging with a single laser pulse. OPLUS is shown to\nenable large-scale comprehensive anatomical characterization of tissues along\nwith functional multi-spectral imaging of spectrally-distinctive chromophores\nand assessment of cardiac dynamics at ultrafast rates only limited by the pulse\nrepetition frequency of the laser. The suggested approach provides a flexible\nand scalable means for developing a new generation of systems synergistically\ncombining the powerful capabilities of optoacoustics and ultrasound imaging in\nbiology and medicine.",
+          "arxiv_id": "2304.04305v1"
+        },
+        {
+          "title": "Evaluation of ultrasound sensors for transcranial photoacoustic sensing and imaging",
+          "year": "2023-06",
+          "abstract": "Biomedical photoacoustic (PA) imaging is typically used to exploit\nabsorption-based contrast in soft tissue at depths of several centimeters. When\nit is applied to measuring PA waves generated in the brain, the acoustic\nproperties of the skull bone cause not only strong attenuation but also a\ndistortion of the wavefront, which diminishes image resolution and contrast.\nThis effect is directly proportional to bone thickness. As a result,\ntranscranial PA imaging in humans has been challenging to demonstrate. We\nmeasured the acoustic constraints imposed by the human skull to design an\nultrasound sensor suitable for transcranial PA imaging and sensing. We imaged\nthe phantoms using a planar Fabry-Perot sensor and employed a range of\npiezoelectric and optical ultrasound sensors to measure the frequency dependent\nacoustic transmission through human cranial bone. Transcranial PA images show\ntypical frequency and thickness dependent attenuation and aberration effects\nassociated with acoustic propagation through bone. The skull insertion loss\nmeasurements showed significant transmission at low frequencies. In comparison\nto conventional piezoelectric sensors, the performance of plano-concave optical\nresonator (PCOR) ultrasound sensors was found to be highly suitable for\ntranscranial PA measurements. They possess high acoustic sensitivity at a low\nacoustic frequency range that coincides with the transmission window of human\nskull bone. PCOR sensors showed low noise equivalent pressures and flat\nfrequency response which enabled them to outperform conventional piezoelectric\ntransducers in transcranial PA sensing experiments. Transcranial PA sensing and\nimaging requires ultrasound sensors with high sensitivity at low acoustic\nfrequencies, and a broad and ideally uniform frequency response. We designed\nand fabricated PCOR sensors and demonstrated their suitability for transcranial\nPA sensing.",
+          "arxiv_id": "2306.03020v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Curved-field optical coherence tomography: large-field imaging of human corneal cells and nerves",
+          "year": "2020-04",
+          "abstract": "High-resolution optical imaging methods, such as confocal microscopy and\nfull-field optical coherence tomography, capture flat optical sections of the\nsample. If the sample is curved, the optical field sections through several\nsample layers and the view of each layer is reduced. Here we present\ncurved-field optical coherence tomography, capable of capturing optical\nsections of arbitrary curvature. We test the device on a challenging task of\nimaging the human cornea in vivo and achieve 10x larger viewing area comparing\nto the clinical state-of-the-art. This enables more precise cell and nerve\ncounts, opening a path to improved diagnosis of corneal and general health\nconditions (e.g. diabetes). The method is non-contact, compact and works in a\nsingle-shot, making it readily available for use in optical research and\nclinical practice.",
+          "arxiv_id": "2004.01016v1"
+        },
+        {
+          "title": "Non-contact, in-vivo, functional, and structural ophthalmic imaging using multimodal photoacoustic remote sensing (PARS) microscopy and optical coherence tomography (OCT)",
+          "year": "2021-02",
+          "abstract": "Early diagnosis of ocular diseases improves the understanding of\npathophysiology and helps with accurate monitoring and effective treatment.\nAdvanced multimodal ocular imaging platforms play a crucial role in the\nvisualization of the ocular components and provide clinicians with a valuable\ntool for evaluating different eye diseases. Here, for the first time, we\npresent a non-contact, multimodal photoacoustic remote sensing (PARS)\nmicroscopy and swept-source optical coherence tomography (SS-OCT) for in-vivo\nfunctional and structural imaging of the eye. The system provides complementary\nimaging contrasts of optical absorption and optical scattering and is used for\nnon-contact, in-vivo imaging of the murine eye. Results of vasculature and\nstructural imaging as well as melanin content in the retinal pigment epithelium\n(RPE) layer are presented. Multiwavelength PARS microscopy using Stimulated\nRaman Scattering (SRS) is applied for the first time, to provide non-contact\noxygen saturation estimation in the ocular tissue. The reported work may be a\nmajor step toward clinical translation of ophthalmic technologies and has the\npotential to advance the diagnosis and treatment of ocular diseases.",
+          "arxiv_id": "2102.09060v2"
+        },
+        {
+          "title": "Dynamic Change of Amplitude for OCT Functional Imaging",
+          "year": "2023-11",
+          "abstract": "Optical coherence tomography (OCT) is capable of non-destructively obtaining\ncross-sectional information of samples with micrometer spatial resolution,\nwhich plays an important role in ophthalmology and endovascular medicine.\nMeasuring OCT amplitude can obtain three-dimensional structural information of\nthe sample, such as the layered structure of the retina, but is of limited use\nfor functional information such as tissue specificity, blood flow, and\nmechanical properties. OCT functional imaging techniques based on other optical\nfield properties including phase, polarization state, and wavelength have\nemerged, such as Doppler OCT, optical coherence elastography,\npolarization-sensitive OCT, and visible-light OCT. Among them, functional\nimaging techniques based on dynamic changes of amplitude have significant\nrobustness and complexity advantages, and achieved significant clinical success\nin label-free blood flow imaging. In addition, dynamic light scattering OCT for\n3D blood flow velocity measurement, dynamic OCT with the ability to display\nlabel-free tissue/cell specificity, and OCT thermometry for monitoring the\ntemperature field of thermophysical treatments are the frontiers in OCT\nfunctional imaging. In this paper, the principles and applications of the above\ntechnologies are summarized, the remaining technical challenges are analyzed,\nand the future development is envisioned.",
+          "arxiv_id": "2311.17090v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:02:46Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

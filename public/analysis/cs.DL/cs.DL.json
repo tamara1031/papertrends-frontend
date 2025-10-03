@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_research_citation_scientific_impact",
+        "keywords": [
+          [
+            "research",
+            0.030676034053034686
+          ],
+          [
+            "citation",
+            0.024467853083451195
+          ],
+          [
+            "scientific",
+            0.021097027248896113
+          ],
+          [
+            "impact",
+            0.018260331496475952
+          ],
+          [
+            "publications",
+            0.017371889566428853
+          ],
+          [
+            "citations",
+            0.016815359588005688
+          ],
+          [
+            "papers",
+            0.01660471365821934
+          ],
+          [
+            "analysis",
+            0.016278528048792217
+          ],
+          [
+            "study",
+            0.016267165492242688
+          ],
+          [
+            "journals",
+            0.015386299116705672
+          ]
+        ],
+        "count": 737
+      },
+      "1": {
+        "name": "1_knowledge_LLMs_research_scientific",
+        "keywords": [
+          [
+            "knowledge",
+            0.025950859454202713
+          ],
+          [
+            "LLMs",
+            0.02391473871923163
+          ],
+          [
+            "research",
+            0.0196767766387417
+          ],
+          [
+            "scientific",
+            0.019436069679183456
+          ],
+          [
+            "models",
+            0.018689509676757497
+          ],
+          [
+            "AI",
+            0.015932369544628497
+          ],
+          [
+            "scholarly",
+            0.01582228591380229
+          ],
+          [
+            "information",
+            0.015126801171128397
+          ],
+          [
+            "data",
+            0.014883732522322396
+          ],
+          [
+            "language",
+            0.014781588719208765
+          ]
+        ],
+        "count": 402
+      },
+      "2": {
+        "name": "2_data_research_software_FAIR",
+        "keywords": [
+          [
+            "data",
+            0.06018543622746616
+          ],
+          [
+            "research",
+            0.03619215366951139
+          ],
+          [
+            "software",
+            0.027926651740869522
+          ],
+          [
+            "FAIR",
+            0.025678660603341456
+          ],
+          [
+            "metadata",
+            0.022862763440052242
+          ],
+          [
+            "code",
+            0.017717062843690953
+          ],
+          [
+            "reproducibility",
+            0.01730289399524855
+          ],
+          [
+            "digital",
+            0.015209193336335254
+          ],
+          [
+            "open",
+            0.014935365396258326
+          ],
+          [
+            "paper",
+            0.014797386748320375
+          ]
+        ],
+        "count": 195
+      },
+      "3": {
+        "name": "3_web_OCR_historical_text",
+        "keywords": [
+          [
+            "web",
+            0.04218513303541037
+          ],
+          [
+            "OCR",
+            0.02891134556539406
+          ],
+          [
+            "historical",
+            0.023819595840891272
+          ],
+          [
+            "text",
+            0.022900856911123483
+          ],
+          [
+            "archives",
+            0.02096343159432751
+          ],
+          [
+            "documents",
+            0.02085002281128787
+          ],
+          [
+            "dataset",
+            0.020388429606758397
+          ],
+          [
+            "pages",
+            0.01707566947340717
+          ],
+          [
+            "images",
+            0.01592484707722629
+          ],
+          [
+            "image",
+            0.015782995311535555
+          ]
+        ],
+        "count": 126
+      },
+      "4": {
+        "name": "4_digital_data_cultural_heritage",
+        "keywords": [
+          [
+            "digital",
+            0.044430043694343446
+          ],
+          [
+            "data",
+            0.04035504579267651
+          ],
+          [
+            "cultural",
+            0.03865372552241045
+          ],
+          [
+            "heritage",
+            0.03586367251676361
+          ],
+          [
+            "cultural heritage",
+            0.030903100418764023
+          ],
+          [
+            "Digital",
+            0.022847807287519603
+          ],
+          [
+            "research",
+            0.019926609850724565
+          ],
+          [
+            "Cultural",
+            0.01931693267020054
+          ],
+          [
+            "archival",
+            0.017029134025673326
+          ],
+          [
+            "use",
+            0.01687093900833433
+          ]
+        ],
+        "count": 107
+      },
+      "5": {
+        "name": "5_review_papers_peer_peer review",
+        "keywords": [
+          [
+            "review",
+            0.05095006389194573
+          ],
+          [
+            "papers",
+            0.0423501371447441
+          ],
+          [
+            "peer",
+            0.0397681857603849
+          ],
+          [
+            "peer review",
+            0.03466125060981719
+          ],
+          [
+            "reviewers",
+            0.034538150549284274
+          ],
+          [
+            "retracted",
+            0.03306695416534617
+          ],
+          [
+            "authors",
+            0.027613381962504818
+          ],
+          [
+            "journals",
+            0.026810408706369325
+          ],
+          [
+            "paper",
+            0.02628108517073201
+          ],
+          [
+            "retraction",
+            0.020734756205286642
+          ]
+        ],
+        "count": 96
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6449042164953359,
+        -0.43137025264456524,
+        -0.6572393919382593,
+        -0.5775866888974879,
+        -0.5933162265084793
+      ],
+      [
+        -0.6449042164953359,
+        1.0,
+        -0.6678560814740788,
+        -0.7059965604352627,
+        -0.6703970553104328,
+        -0.6845580760955898
+      ],
+      [
+        -0.43137025264456524,
+        -0.6678560814740788,
+        1.0,
+        -0.6609171601336963,
+        -0.41941194324016073,
+        -0.6491092580685689
+      ],
+      [
+        -0.6572393919382593,
+        -0.7059965604352627,
+        -0.6609171601336963,
+        1.0,
+        -0.6531561509479218,
+        -0.6903751060273404
+      ],
+      [
+        -0.5775866888974879,
+        -0.6703970553104328,
+        -0.41941194324016073,
+        -0.6531561509479218,
+        1.0,
+        -0.6906252888342463
+      ],
+      [
+        -0.5933162265084793,
+        -0.6845580760955898,
+        -0.6491092580685689,
+        -0.6903751060273404,
+        -0.6906252888342463,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        11,
+        3,
+        5,
+        3,
+        0,
+        4
+      ],
+      "2020-02": [
+        7,
+        3,
+        7,
+        0,
+        0,
+        6
+      ],
+      "2020-03": [
+        18,
+        3,
+        4,
+        4,
+        2,
+        4
+      ],
+      "2020-04": [
+        16,
+        2,
+        12,
+        4,
+        1,
+        9
+      ],
+      "2020-05": [
+        20,
+        3,
+        12,
+        5,
+        2,
+        11
+      ],
+      "2020-06": [
+        24,
+        2,
+        10,
+        3,
+        1,
+        13
+      ],
+      "2020-07": [
+        11,
+        2,
+        5,
+        3,
+        1,
+        4
+      ],
+      "2020-08": [
+        14,
+        0,
+        6,
+        3,
+        3,
+        11
+      ],
+      "2020-09": [
+        9,
+        1,
+        10,
+        6,
+        1,
+        5
+      ],
+      "2020-10": [
+        9,
+        1,
+        4,
+        2,
+        0,
+        5
+      ],
+      "2020-11": [
+        8,
+        0,
+        8,
+        1,
+        0,
+        8
+      ],
+      "2020-12": [
+        9,
+        1,
+        9,
+        5,
+        0,
+        5
+      ],
+      "2021-01": [
+        11,
+        1,
+        9,
+        0,
+        1,
+        6
+      ],
+      "2021-02": [
+        16,
+        0,
+        12,
+        4,
+        0,
+        7
+      ],
+      "2021-03": [
+        21,
+        3,
+        13,
+        3,
+        2,
+        14
+      ],
+      "2021-04": [
+        21,
+        2,
+        15,
+        4,
+        3,
+        8
+      ],
+      "2021-05": [
+        14,
+        0,
+        10,
+        2,
+        0,
+        9
+      ],
+      "2021-06": [
+        20,
+        3,
+        12,
+        2,
+        3,
+        9
+      ],
+      "2021-07": [
+        16,
+        7,
+        8,
+        2,
+        4,
+        7
+      ],
+      "2021-08": [
+        9,
+        2,
+        5,
+        9,
+        3,
+        5
+      ],
+      "2021-09": [
+        17,
+        3,
+        10,
+        4,
+        3,
+        7
+      ],
+      "2021-10": [
+        7,
+        0,
+        15,
+        6,
+        0,
+        6
+      ],
+      "2021-11": [
+        8,
+        3,
+        10,
+        0,
+        1,
+        7
+      ],
+      "2021-12": [
+        15,
+        1,
+        7,
+        1,
+        1,
+        9
+      ],
+      "2022-01": [
+        7,
+        0,
+        6,
+        0,
+        1,
+        12
+      ],
+      "2022-02": [
+        11,
+        4,
+        10,
+        1,
+        2,
+        5
+      ],
+      "2022-03": [
+        3,
+        1,
+        9,
+        4,
+        0,
+        9
+      ],
+      "2022-04": [
+        11,
+        1,
+        11,
+        5,
+        0,
+        6
+      ],
+      "2022-05": [
+        11,
+        1,
+        11,
+        2,
+        2,
+        2
+      ],
+      "2022-06": [
+        9,
+        3,
+        7,
+        2,
+        2,
+        4
+      ],
+      "2022-07": [
+        4,
+        1,
+        4,
+        1,
+        2,
+        7
+      ],
+      "2022-08": [
+        10,
+        1,
+        10,
+        3,
+        0,
+        1
+      ],
+      "2022-09": [
+        7,
+        1,
+        9,
+        5,
+        2,
+        10
+      ],
+      "2022-10": [
+        14,
+        4,
+        10,
+        4,
+        6,
+        10
+      ],
+      "2022-11": [
+        9,
+        3,
+        5,
+        1,
+        3,
+        6
+      ],
+      "2022-12": [
+        7,
+        1,
+        2,
+        1,
+        1,
+        17
+      ],
+      "2023-01": [
+        10,
+        0,
+        9,
+        4,
+        1,
+        5
+      ],
+      "2023-02": [
+        10,
+        1,
+        9,
+        5,
+        0,
+        4
+      ],
+      "2023-03": [
+        10,
+        3,
+        9,
+        1,
+        3,
+        9
+      ],
+      "2023-04": [
+        13,
+        5,
+        9,
+        3,
+        2,
+        10
+      ],
+      "2023-05": [
+        12,
+        4,
+        6,
+        1,
+        1,
+        9
+      ],
+      "2023-06": [
+        10,
+        4,
+        9,
+        3,
+        1,
+        8
+      ],
+      "2023-07": [
+        10,
+        4,
+        10,
+        5,
+        3,
+        11
+      ],
+      "2023-08": [
+        8,
+        4,
+        9,
+        2,
+        1,
+        9
+      ],
+      "2023-09": [
+        23,
+        3,
+        9,
+        4,
+        2,
+        3
+      ],
+      "2023-10": [
+        10,
+        2,
+        9,
+        4,
+        4,
+        4
+      ],
+      "2023-11": [
+        10,
+        4,
+        10,
+        1,
+        3,
+        5
+      ],
+      "2023-12": [
+        16,
+        4,
+        7,
+        0,
+        2,
+        3
+      ],
+      "2024-01": [
+        14,
+        6,
+        9,
+        4,
+        1,
+        7
+      ],
+      "2024-02": [
+        18,
+        6,
+        10,
+        3,
+        3,
+        5
+      ],
+      "2024-03": [
+        13,
+        8,
+        2,
+        0,
+        2,
+        8
+      ],
+      "2024-04": [
+        8,
+        6,
+        10,
+        1,
+        7,
+        4
+      ],
+      "2024-05": [
+        8,
+        5,
+        8,
+        5,
+        3,
+        3
+      ],
+      "2024-06": [
+        11,
+        6,
+        15,
+        1,
+        0,
+        4
+      ],
+      "2024-07": [
+        15,
+        7,
+        4,
+        1,
+        4,
+        8
+      ],
+      "2024-08": [
+        16,
+        6,
+        7,
+        6,
+        2,
+        6
+      ],
+      "2024-09": [
+        16,
+        10,
+        10,
+        2,
+        2,
+        5
+      ],
+      "2024-10": [
+        16,
+        3,
+        12,
+        3,
+        5,
+        7
+      ],
+      "2024-11": [
+        14,
+        7,
+        12,
+        2,
+        2,
+        13
+      ],
+      "2024-12": [
+        10,
+        6,
+        13,
+        2,
+        1,
+        11
+      ],
+      "2025-01": [
+        17,
+        10,
+        15,
+        2,
+        6,
+        2
+      ],
+      "2025-02": [
+        22,
+        7,
+        9,
+        6,
+        2,
+        7
+      ],
+      "2025-03": [
+        12,
+        6,
+        9,
+        1,
+        2,
+        12
+      ],
+      "2025-04": [
+        14,
+        10,
+        14,
+        1,
+        2,
+        7
+      ],
+      "2025-05": [
+        18,
+        6,
+        11,
+        3,
+        5,
+        6
+      ],
+      "2025-06": [
+        17,
+        8,
+        6,
+        4,
+        1,
+        10
+      ],
+      "2025-07": [
+        12,
+        10,
+        8,
+        2,
+        6,
+        7
+      ],
+      "2025-08": [
+        16,
+        11,
+        12,
+        0,
+        7,
+        8
+      ],
+      "2025-09": [
+        5,
+        3,
+        6,
+        1,
+        4,
+        3
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "A scientometric analysis of the effect of COVID-19 on the spread of research outputs",
+          "year": "2023-06",
+          "abstract": "The spread of the Sars-COV-2 pandemic in 2020 had a huge impact on the life\ncourse of all of us. This rapid spread has also caused an increase in the\nresearch production in topics related to COVID-19 with regard to different\naspects. Italy has, unfortunately, been one of the first countries to be\nmassively involved in the outbreak of the disease. In this paper we present an\nextensive scientometric analysis of the research production both at global\n(entire literature produced in the first 2 years after the beginning of the\npandemic) and local level (COVID-19 literature produced by authors with an\nItalian affiliation). Our results showed that US and China are the most active\ncountries in terms of number of publications and that the number of\ncollaborations between institutions varies according to geographical distance.\nMoreover, we identified the medical-biological as the fields with the greatest\ngrowth in terms of literature production. Furthermore, we also better explored\nthe relationship between the number of citations and variables obtained from\nthe data set (e.g. number of authors per article). Using multiple\ncorrespondence analysis and quantile regression we shed light on the role of\njournal topics and impact factor, the type of article, the field of study and\nhow these elements affect citations.",
+          "arxiv_id": "2306.03941v1"
+        },
+        {
+          "title": "Debian in the Research Software Ecosystem: A Bibliometric Analysis",
+          "year": "2025-08",
+          "abstract": "Context: The Debian system has historically participated in academic works\nand scientific projects, with well-known examples including NeuroDebian, Debian\nMed, Debsources, Debian Science, and Debian GIS, where the scientific relevance\nof Debian and its contribution to the Research Software ecosystem are evident.\n  Objective: The objective of this study is to investigate the Debian system\nthrough academic publications, with the aim of classifying articles, mapping\nresearch, identifying trends, and finding opportunities.\n  Method: The study is based on a bibliometric analysis starting with an\ninitial search for the term \"Debian\" in the titles, abstracts, or keywords of\nacademic publications, using the Scopus database. This analysis calculates\nmetrics of co-citation, co-authorship, and word co-occurrence, and is guided by\na set of research questions and criteria for inclusion and exclusion to conduct\nthe bibliometric analysis.\n  Results: The study includes a set of articles published across various fields\nof knowledge, providing a map of the academic publication space about Debian.\nThe study's data will be available in a public repository, reporting\ndemographic and bibliometric trends, including the most cited articles, active\ncountries, researchers, and popular conferences.\n  Conclusion: Results includes a bibliometric and demographic analysis\nidentified in publications about Debian, shedding light on the intellectual\nstructure of academic research. The results of the analyses can help\nresearchers gain an overview of existing trends in publications about Debian\nand identify areas that require more attention from the scientific community.",
+          "arxiv_id": "2508.18073v1"
+        },
+        {
+          "title": "Relational hyperevent models for the coevolution of coauthoring and citation networks",
+          "year": "2023-08",
+          "abstract": "The development of suitable statistical models for the analysis of\nbibliographic networks has trailed behind the empirical ambitions expressed by\nrecent studies of science of science. Extant research typically restricts the\nanalytical focus to either paper citation networks, or author collaboration\nnetworks. These networks involve not only direct relationships between papers\nor authors, but also a broader system of dependencies between the references of\npapers connected through multiple simultaneous citation links. In this work, we\nextend recently developed relational hyperevent models (RHEM) to analyze\nscientific networks - systems of scientific publications connected by citations\nand authorship. We introduce new covariates that represent theoretically\nrelevant and empirically meaningful sub-network configurations. The new model\nspecification supports testing of hypotheses that align with the polyadic\nnature of scientific publication events and the multiple interdependencies\nbetween authors and references of current and prior papers. We implement the\nmodel using open-source software to analyze a large, publicly available\nscientific network dataset. A significant finding of the study is the tendency\nfor subsets of papers to be repeatedly cited together across publications. This\nresult is crucial as it suggests that the papers' impact may be partly due to\nendogenous network processes. More broadly, the study shows that models\naccounting for both the hyperedge structure of publication events and the\ninterconnections between authors and references significantly enhance our\nunderstanding of the network mechanisms that drive scientific production,\nproductivity, and impact.",
+          "arxiv_id": "2308.01722v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "When Large Language Models Meet Citation: A Survey",
+          "year": "2023-09",
+          "abstract": "Citations in scholarly work serve the essential purpose of acknowledging and\ncrediting the original sources of knowledge that have been incorporated or\nreferenced. Depending on their surrounding textual context, these citations are\nused for different motivations and purposes. Large Language Models (LLMs) could\nbe helpful in capturing these fine-grained citation information via the\ncorresponding textual context, thereby enabling a better understanding towards\nthe literature. Furthermore, these citations also establish connections among\nscientific papers, providing high-quality inter-document relationships and\nhuman-constructed knowledge. Such information could be incorporated into LLMs\npre-training and improve the text representation in LLMs. Therefore, in this\npaper, we offer a preliminary review of the mutually beneficial relationship\nbetween LLMs and citation analysis. Specifically, we review the application of\nLLMs for in-text citation analysis tasks, including citation classification,\ncitation-based summarization, and citation recommendation. We then summarize\nthe research pertinent to leveraging citation linkage knowledge to improve text\nrepresentations of LLMs via citation prediction, network structure information,\nand inter-document relationship. We finally provide an overview of these\ncontemporary methods and put forth potential promising avenues in combining\nLLMs and citation analysis for further investigation.",
+          "arxiv_id": "2309.09727v1"
+        },
+        {
+          "title": "Leveraging Large Language Models for Realizing Truly Intelligent User Interfaces",
+          "year": "2025-01",
+          "abstract": "The number of published scholarly articles is growing at a significant rate,\nmaking scholarly knowledge organization increasingly important. Various\napproaches have been proposed to organize scholarly information, including\ndescribing scholarly knowledge semantically leveraging knowledge graphs.\nTransforming unstructured knowledge, presented within articles, to structured\nand semantically represented knowledge generally requires human intelligence\nand labor since natural language processing methods alone typically do not\nrender sufficient precision and recall for many applications. With the recent\ndevelopments of Large Language Models (LLMs), it becomes increasingly possible\nto provide truly intelligent user interfaces guiding humans in the\ntransformation process. We present an approach to integrate non-intrusive LLMs\nguidance into existing user interfaces. More specifically, we integrate\nLLM-supported user interface components into an existing scholarly knowledge\ninfrastructure. Additionally, we provide our experiences with LLM integration,\ndetailing best practices and obstacles. Finally, we evaluate the approach using\na small-scale user evaluation with domain experts.",
+          "arxiv_id": "2501.12221v1"
+        },
+        {
+          "title": "NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM",
+          "year": "2025-02",
+          "abstract": "Large language models (LLMs) have been widely applied in question answering\nover scientific research papers. To enhance the professionalism and accuracy of\nresponses, many studies employ external knowledge augmentation. However,\nexisting structures of external knowledge in scientific literature often focus\nsolely on either paper entities or domain concepts, neglecting the intrinsic\nconnections between papers through shared domain concepts. This results in less\ncomprehensive and specific answers when addressing questions that combine\npapers and concepts. To address this, we propose a novel knowledge graph\nframework that captures deep conceptual relations between academic papers,\nconstructing a relational network via intra-paper semantic elements and\ninter-paper citation relations. Using a few-shot knowledge graph construction\nmethod based on LLM, we develop NLP-AKG, an academic knowledge graph for the\nNLP domain, by extracting 620,353 entities and 2,271,584 relations from 60,826\npapers in ACL Anthology. Based on this, we propose a 'sub-graph community\nsummary' method and validate its effectiveness on three NLP scientific\nliterature question answering datasets.",
+          "arxiv_id": "2502.14192v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Using current research information systems to investigate data acquisition and data sharing practices of computer scientists",
+          "year": "2021-06",
+          "abstract": "Without sufficient information about research data practices occurring in a\nparticular research organisation, there is a risk of mismatching research data\nservice efforts with the needs of its researchers. This study describes how\ndata acquiring and data sharing occurring within a particular research\norganisation can be investigated by using current research information system\npublication data. A sample of 193 journal articles published by researchers in\nthe computer science department of the case study's university during 2019 were\nextracted for scrutiny from the current research information system. For these\n193 articles, a classification of the main study types was developed to\naccommodate the multidisciplinary nature of the case department's research\nagenda. Furthermore, a coding framework was developed to capture the key\nelements of data acquiring and data sharing. The articles representing life\nsciences and computational research relatively frequently reused open data,\nwhereas data acquisition of experimental research, human interaction studies\nand human intervention studies often relied on collecting original data. Data\nsharing also differed between the computationally intensive study types of life\nsciences and computational research and the study types relying on collection\nof original data. Research data were not available for reuse in only a minority\nof life science (n= 2; 7%) and computational research (n = 15; 14%) studies.\nThe study types of experimental research, human interaction studies and human\nintervention studies less frequently made their data available for reuse. This\nstudy demonstrates that analyses of publications listed in current research\ninformation systems provide detailed descriptions how the affiliated\nresearchers acquire and share research data.",
+          "arxiv_id": "2106.09399v2"
+        },
+        {
+          "title": "menoci: Lightweight Extensible Web Portal enabling FAIR Data Management for Biomedical Research Projects",
+          "year": "2020-02",
+          "abstract": "Background: Biomedical research projects deal with data management\nrequirements from multiple sources like funding agencies' guidelines, publisher\npolicies, discipline best practices, and their own users' needs. We describe\nfunctional and quality requirements based on many years of experience\nimplementing data management for the CRC 1002 and CRC 1190. A fully equipped\ndata management software should improve documentation of experiments and\nmaterials, enable data storage and sharing according to the FAIR Guiding\nPrinciples while maximizing usability, information security, as well as\nsoftware sustainability and reusability. Results: We introduce the modular web\nportal software menoci for data collection, experiment documentation, data\npublication, sharing, and preservation in biomedical research projects. Menoci\nmodules are based on the Drupal content management system which enables\nlightweight deployment and setup, and creates the possibility to combine\nresearch data management with a customisable project home page or collaboration\nplatform. Conclusions: Management of research data and digital research\nartefacts is transforming from individual researcher or groups best practices\ntowards project- or organisation-wide service infrastructures. To enable and\nsupport this structural transformation process, a vital ecosystem of open\nsource software tools is needed. Menoci is a contribution to this ecosystem of\nresearch data management tools that is specifically designed to support\nbiomedical research projects.",
+          "arxiv_id": "2002.06161v1"
+        },
+        {
+          "title": "The hunt for research data: Development of an open-source workflow for tracking institutionally-affiliated research data publications",
+          "year": "2025-07",
+          "abstract": "The ability to find data is central to the FAIR principles underlying\nresearch data stewardship. As with the ability to reuse data, efforts to ensure\nand enhance findability have historically focused on discoverability of data by\nother researchers, but there is a growing recognition of the importance of\nstewarding data in a fashion that makes them FAIR for a wide range of potential\nreusers and stakeholders. Research institutions are one such stakeholder and\nhave a range of motivations for discovering data, specifically those affiliated\nwith a focal institution, from facilitating compliance with funder provisions\nto gathering data to inform research data services. However, many research\ndatasets and repositories are not optimized for institutional discovery (e.g.,\nnot recording or standardizing affiliation metadata), which creates downstream\nobstacles to workflows designed for theoretically comprehensive discovery and\nto metadata-conscious data generators. Here I describe an open-source workflow\nfor institutional tracking of research datasets at the University of Texas at\nAustin. This workflow comprises a multi-faceted approach that utilizes multiple\nopen application programming interfaces (APIs) in order to address some of the\ncommon challenges to institutional discovery, such as variation in whether\naffiliation metadata are recorded or made public, and if so, how metadata are\nstandardized, structured, and recorded. It is presently able to retrieve more\nthan 4,000 affiliated datasets across nearly 70 distinct platforms, including\nobjects without DOIs and objects without affiliation metadata. However, there\nremain major gaps that stem from suboptimal practices of both researchers and\ndata repositories, many of which were identified in previous studies and which\npersist despite significant investment in efforts to standardize and elevate\nthe quality of datasets and their metadata.",
+          "arxiv_id": "2507.01228v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Multimodal LLMs for OCR, OCR Post-Correction, and Named Entity Recognition in Historical Documents",
+          "year": "2025-04",
+          "abstract": "We explore how multimodal Large Language Models (mLLMs) can help researchers\ntranscribe historical documents, extract relevant historical information, and\nconstruct datasets from historical sources. Specifically, we investigate the\ncapabilities of mLLMs in performing (1) Optical Character Recognition (OCR),\n(2) OCR Post-Correction, and (3) Named Entity Recognition (NER) tasks on a set\nof city directories published in German between 1754 and 1870. First, we\nbenchmark the off-the-shelf transcription accuracy of both mLLMs and\nconventional OCR models. We find that the best-performing mLLM model\nsignificantly outperforms conventional state-of-the-art OCR models and other\nfrontier mLLMs. Second, we are the first to introduce multimodal\npost-correction of OCR output using mLLMs. We find that this novel approach\nleads to a drastic improvement in transcription accuracy and consistently\nproduces highly accurate transcriptions (<1% CER), without any image\npre-processing or model fine-tuning. Third, we demonstrate that mLLMs can\nefficiently recognize entities in transcriptions of historical documents and\nparse them into structured dataset formats. Our findings provide early evidence\nfor the long-term potential of mLLMs to introduce a paradigm shift in the\napproaches to historical data collection and document transcription.",
+          "arxiv_id": "2504.00414v1"
+        },
+        {
+          "title": "Post-OCR Text Correction for Bulgarian Historical Documents",
+          "year": "2024-08",
+          "abstract": "The digitization of historical documents is crucial for preserving the\ncultural heritage of the society. An important step in this process is\nconverting scanned images to text using Optical Character Recognition (OCR),\nwhich can enable further search, information extraction, etc. Unfortunately,\nthis is a hard problem as standard OCR tools are not tailored to deal with\nhistorical orthography as well as with challenging layouts. Thus, it is\nstandard to apply an additional text correction step on the OCR output when\ndealing with such documents. In this work, we focus on Bulgarian, and we create\nthe first benchmark dataset for evaluating the OCR text correction for\nhistorical Bulgarian documents written in the first standardized Bulgarian\northography: the Drinov orthography from the 19th century. We further develop a\nmethod for automatically generating synthetic data in this orthography, as well\nas in the subsequent Ivanchev orthography, by leveraging vast amounts of\ncontemporary literature Bulgarian texts. We then use state-of-the-art LLMs and\nencoder-decoder framework which we augment with diagonal attention loss and\ncopy and coverage mechanisms to improve the post-OCR text correction. The\nproposed method reduces the errors introduced during recognition and improves\nthe quality of the documents by 25\\%, which is an increase of 16\\% compared to\nthe state-of-the-art on the ICDAR 2019 Bulgarian dataset. We release our data\nand code at \\url{https://github.com/angelbeshirov/post-ocr-text-correction}.}",
+          "arxiv_id": "2409.00527v1"
+        },
+        {
+          "title": "Replaying Archived Twitter: When your bird is broken, will it bring you down?",
+          "year": "2021-08",
+          "abstract": "Historians and researchers trust web archives to preserve social media\ncontent that no longer exists on the live web. However, what we see on the live\nweb and how it is replayed in the archive are not always the same. In this\npaper, we document and analyze the problems in archiving Twitter ever since\nTwitter forced the use of its new UI in June 2020. Most web archives were\nunable to archive the new UI, resulting in archived Twitter pages displaying\nTwitter's \"Something went wrong\" error. The challenges in archiving the new UI\nforced web archives to continue using the old UI. To analyze the potential loss\nof information in web archival data due to this change, we used the personal\nTwitter account of the 45th President of the United States, @realDonaldTrump,\nwhich was suspended by Twitter on January 8, 2021. Trump's account was heavily\nlabeled by Twitter for spreading misinformation, however we discovered that\nthere is no evidence in web archives to prove that some of his tweets ever had\na label assigned to them. We also studied the possibility of temporal\nviolations in archived versions of the new UI, which may result in the replay\nof pages that never existed on the live web. Our goal is to educate researchers\nwho may use web archives and caution them when drawing conclusions based on\narchived Twitter pages.",
+          "arxiv_id": "2108.12092v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Analysis of the Usability of Automatically Enriched Cultural Heritage Data",
+          "year": "2023-09",
+          "abstract": "This chapter presents the potential of interoperability and standardised data\npublication for cultural heritage resources, with a focus on community-driven\napproaches and web standards for usability. The Linked Open Usable Data (LOUD)\ndesign principles, which rely on JSON-LD as lingua franca, serve as the\nfoundation.\n  We begin by exploring the significant advances made by the International\nImage Interoperability Framework (IIIF) in promoting interoperability for\nimage-based resources. The principles and practices of IIIF have paved the way\nfor Linked Art, which expands the use of linked data by demonstrating how it\ncan easily facilitate the integration and sharing of semantic cultural heritage\ndata across portals and institutions.\n  To provide a practical demonstration of the concepts discussed, the chapter\nhighlights the implementation of LUX, the Yale Collections Discovery platform.\nLUX serves as a compelling case study for the use of linked data at scale,\ndemonstrating the real-world application of automated enrichment in the\ncultural heritage domain.\n  Rooted in empirical study, the analysis presented in this chapter delves into\nthe broader context of community practices and semantic interoperability. By\nexamining the collaborative efforts and integration of diverse cultural\nheritage resources, the research sheds light on the potential benefits and\nchallenges associated with LOUD.",
+          "arxiv_id": "2309.16635v1"
+        },
+        {
+          "title": "Populating the Digital Space for Cultural Heritage with Heritage Digital Twins",
+          "year": "2022-05",
+          "abstract": "The present paper concerns the design of the semantic infrastructure of the\ndigital space for cultural heritage as envisaged by the European Commission in\nits recent documents. Due to the complexity of the cultural heritage data and\nof their intrinsic interrelationships, it is necessary to introduce a novel\nontology, yet compliant with existing standards and interoperable with previous\nplatforms used in this context, such as Europeana. The digital space\norganization must be tailored to the methods and the theory of cultural\nheritage, briefly summarized in the introduction. The new ontology is based on\nthe Digital Twin concept, i.e. the digital counterpart of cultural heritage\nassets incorporating all the digital information pertaining to them. This\ncreates a Knowledge Base on the cultural heritage digital space. The paper\noutlines the main features of the proposed Heritage Digital Twin ontology and\nprovides some examples of application. Future work will include completing the\nontology in all its details and testing it in other real cases and with the\nvarious sectors of the cultural heritage community.",
+          "arxiv_id": "2205.13206v1"
+        },
+        {
+          "title": "A Proposal for a FAIR Management of 3D Data in Cultural Heritage: The Aldrovandi Digital Twin Case",
+          "year": "2024-07",
+          "abstract": "In this article we analyse 3D models of cultural heritage with the aim of\nanswering three main questions: what processes can be put in place to create a\nFAIR-by-design digital twin of a temporary exhibition? What are the main\nchallenges in applying FAIR principles to 3D data in cultural heritage studies\nand how are they different from other types of data (e.g. images) from a data\nmanagement perspective? We begin with a comprehensive literature review\ntouching on: FAIR principles applied to cultural heritage data; representation\nmodels; both Object Provenance Information (OPI) and Metadata Record Provenance\nInformation (MRPI), respectively meant as, on the one hand, the detailed\nhistory and origin of an object, and - on the other hand - the detailed history\nand origin of the metadata itself, which describes the primary object (whether\nphysical or digital); 3D models as cultural heritage research data and their\ncreation, selection, publication, archival and preservation. We then describe\nthe process of creating the Aldrovandi Digital Twin, by collecting, storing and\nmodelling data about cultural heritage objects and processes. We detail the\nmany steps from the acquisition of the Digital Cultural Heritage Objects\n(DCHO), through to the upload of the optimised DCHO onto a web-based framework\n(ATON), with a focus on open technologies and standards for interoperability\nand preservation. Using the FAIR Principles for Heritage Library, Archive and\nMuseum Collections [1] as a framework, we look in detail at how the Digital\nTwin implements FAIR principles at the object and metadata level. We then\ndescribe the main challenges we encountered and we summarise what seem to be\nthe peculiarities of 3D cultural heritage data and the possible directions for\nfurther research in this field.",
+          "arxiv_id": "2407.02018v3"
+        }
+      ],
+      "5": [
+        {
+          "title": "Counterfactual Evaluation of Peer-Review Assignment Policies",
+          "year": "2023-05",
+          "abstract": "Peer review assignment algorithms aim to match research papers to suitable\nexpert reviewers, working to maximize the quality of the resulting reviews. A\nkey challenge in designing effective assignment policies is evaluating how\nchanges to the assignment algorithm map to changes in review quality. In this\nwork, we leverage recently proposed policies that introduce randomness in\npeer-review assignment--in order to mitigate fraud--as a valuable opportunity\nto evaluate counterfactual assignment policies. Specifically, we exploit how\nsuch randomized assignments provide a positive probability of observing the\nreviews of many assignment policies of interest. To address challenges in\napplying standard off-policy evaluation methods, such as violations of\npositivity, we introduce novel methods for partial identification based on\nmonotonicity and Lipschitz smoothness assumptions for the mapping between\nreviewer-paper covariates and outcomes. We apply our methods to peer-review\ndata from two computer science venues: the TPDP'21 workshop (95 papers and 35\nreviewers) and the AAAI'22 conference (8,450 papers and 3,145 reviewers). We\nconsider estimates of (i) the effect on review quality when changing weights in\nthe assignment algorithm, e.g., weighting reviewers' bids vs. textual\nsimilarity (between the review's past papers and the submission), and (ii) the\n\"cost of randomization\", capturing the difference in expected quality between\nthe perturbed and unperturbed optimal match. We find that placing higher weight\non text similarity results in higher review quality and that introducing\nrandomization in the reviewer-paper assignment only marginally reduces the\nreview quality. Our methods for partial identification may be of independent\ninterest, while our off-policy approach can likely find use evaluating a broad\nclass of algorithmic matching systems.",
+          "arxiv_id": "2305.17339v1"
+        },
+        {
+          "title": "MOPRD: A multidisciplinary open peer review dataset",
+          "year": "2022-12",
+          "abstract": "Open peer review is a growing trend in academic publications. Public access\nto peer review data can benefit both the academic and publishing communities.\nIt also serves as a great support to studies on review comment generation and\nfurther to the realization of automated scholarly paper review. However, most\nof the existing peer review datasets do not provide data that cover the whole\npeer review process. Apart from this, their data are not diversified enough as\nthe data are mainly collected from the field of computer science. These two\ndrawbacks of the currently available peer review datasets need to be addressed\nto unlock more opportunities for related studies. In response, we construct\nMOPRD, a multidisciplinary open peer review dataset. This dataset consists of\npaper metadata, multiple version manuscripts, review comments, meta-reviews,\nauthor's rebuttal letters, and editorial decisions. Moreover, we propose a\nmodular guided review comment generation method based on MOPRD. Experiments\nshow that our method delivers better performance as indicated by both automatic\nmetrics and human evaluation. We also explore other potential applications of\nMOPRD, including meta-review generation, editorial decision prediction, author\nrebuttal generation, and scientometric analysis. MOPRD is a strong endorsement\nfor further studies in peer review-related research and other applications.",
+          "arxiv_id": "2212.04972v2"
+        },
+        {
+          "title": "How do Authors' Perceptions of their Papers Compare with Co-authors' Perceptions and Peer-review Decisions?",
+          "year": "2022-11",
+          "abstract": "How do author perceptions match up to the outcomes of the peer-review process\nand perceptions of others? In a top-tier computer science conference (NeurIPS\n2021) with more than 23,000 submitting authors and 9,000 submitted papers, we\nsurvey the authors on three questions: (i) their predicted probability of\nacceptance for each of their papers, (ii) their perceived ranking of their own\npapers based on scientific contribution, and (iii) the change in their\nperception about their own papers after seeing the reviews. The salient results\nare: (1) Authors have roughly a three-fold overestimate of the acceptance\nprobability of their papers: The median prediction is 70% for an approximately\n25% acceptance rate. (2) Female authors exhibit a marginally higher\n(statistically significant) miscalibration than male authors; predictions of\nauthors invited to serve as meta-reviewers or reviewers are similarly\ncalibrated, but better than authors who were not invited to review. (3)\nAuthors' relative ranking of scientific contribution of two submissions they\nmade generally agree (93%) with their predicted acceptance probabilities, but\nthere is a notable 7% responses where authors think their better paper will\nface a worse outcome. (4) The author-provided rankings disagreed with the\npeer-review decisions about a third of the time; when co-authors ranked their\njointly authored papers, co-authors disagreed at a similar rate -- about a\nthird of the time. (5) At least 30% of respondents of both accepted and\nrejected papers said that their perception of their own paper improved after\nthe review process. The stakeholders in peer review should take these findings\ninto account in setting their expectations from peer review.",
+          "arxiv_id": "2211.12966v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:54:46Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,2108 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_rendering_scene_view_NeRF",
+        "keywords": [
+          [
+            "rendering",
+            0.025427078995560022
+          ],
+          [
+            "scene",
+            0.018133069752847616
+          ],
+          [
+            "view",
+            0.017506640039440448
+          ],
+          [
+            "NeRF",
+            0.016625488203164816
+          ],
+          [
+            "3D",
+            0.015504120785158422
+          ],
+          [
+            "novel",
+            0.013961656429380239
+          ],
+          [
+            "scenes",
+            0.013702079695593233
+          ],
+          [
+            "neural",
+            0.013214870985478962
+          ],
+          [
+            "method",
+            0.01268799079641933
+          ],
+          [
+            "quality",
+            0.01212454342471987
+          ]
+        ],
+        "count": 837
+      },
+      "1": {
+        "name": "1_3D_human_facial_face",
+        "keywords": [
+          [
+            "3D",
+            0.022139340638791687
+          ],
+          [
+            "human",
+            0.02064005017511833
+          ],
+          [
+            "facial",
+            0.01942714935248919
+          ],
+          [
+            "face",
+            0.01769337694117379
+          ],
+          [
+            "body",
+            0.01720649893594764
+          ],
+          [
+            "model",
+            0.014619167831571618
+          ],
+          [
+            "pose",
+            0.01399966921597646
+          ],
+          [
+            "method",
+            0.012380063519583128
+          ],
+          [
+            "head",
+            0.01205065165921173
+          ],
+          [
+            "high",
+            0.011538855913762823
+          ]
+        ],
+        "count": 659
+      },
+      "2": {
+        "name": "2_3D_generation_models_model",
+        "keywords": [
+          [
+            "3D",
+            0.04135571367479511
+          ],
+          [
+            "generation",
+            0.022305740015995598
+          ],
+          [
+            "models",
+            0.016034287986304324
+          ],
+          [
+            "model",
+            0.014900470949194796
+          ],
+          [
+            "diffusion",
+            0.01377232727906396
+          ],
+          [
+            "generative",
+            0.013608620669426285
+          ],
+          [
+            "image",
+            0.012869698451022177
+          ],
+          [
+            "text",
+            0.011898612175974965
+          ],
+          [
+            "scene",
+            0.011116054196486333
+          ],
+          [
+            "texture",
+            0.011102656296415247
+          ]
+        ],
+        "count": 507
+      },
+      "3": {
+        "name": "3_image_text_models_images",
+        "keywords": [
+          [
+            "image",
+            0.0359645534960073
+          ],
+          [
+            "text",
+            0.02170832453999357
+          ],
+          [
+            "models",
+            0.021300052528244524
+          ],
+          [
+            "images",
+            0.020818002978243533
+          ],
+          [
+            "model",
+            0.016898993158691776
+          ],
+          [
+            "generation",
+            0.015226451560299444
+          ],
+          [
+            "video",
+            0.014191232003115789
+          ],
+          [
+            "editing",
+            0.013817368764292662
+          ],
+          [
+            "Image",
+            0.012480308204443333
+          ],
+          [
+            "style",
+            0.012319967974061576
+          ]
+        ],
+        "count": 413
+      },
+      "4": {
+        "name": "4_data_visualization_visual_analysis",
+        "keywords": [
+          [
+            "data",
+            0.04721096730300183
+          ],
+          [
+            "visualization",
+            0.0451127658018908
+          ],
+          [
+            "visual",
+            0.023875198958469283
+          ],
+          [
+            "analysis",
+            0.02024348641992817
+          ],
+          [
+            "visualizations",
+            0.01917120425658442
+          ],
+          [
+            "design",
+            0.014692387717281449
+          ],
+          [
+            "study",
+            0.013879675738340235
+          ],
+          [
+            "user",
+            0.012492537026720653
+          ],
+          [
+            "Visualization",
+            0.012268310875260306
+          ],
+          [
+            "dimensional",
+            0.011418168480777102
+          ]
+        ],
+        "count": 279
+      },
+      "5": {
+        "name": "5_point_surface_shape_3D",
+        "keywords": [
+          [
+            "point",
+            0.028517562554758173
+          ],
+          [
+            "surface",
+            0.025362835575699082
+          ],
+          [
+            "shape",
+            0.025123295764517963
+          ],
+          [
+            "3D",
+            0.020833134713235186
+          ],
+          [
+            "neural",
+            0.020155514049303668
+          ],
+          [
+            "mesh",
+            0.01736207274965064
+          ],
+          [
+            "implicit",
+            0.017344608851254318
+          ],
+          [
+            "learning",
+            0.01641461235617976
+          ],
+          [
+            "reconstruction",
+            0.015658469352953137
+          ],
+          [
+            "cloud",
+            0.014152099841438328
+          ]
+        ],
+        "count": 229
+      },
+      "6": {
+        "name": "6_mesh_surface_meshes_algorithm",
+        "keywords": [
+          [
+            "mesh",
+            0.027809453037985342
+          ],
+          [
+            "surface",
+            0.021368397314059862
+          ],
+          [
+            "meshes",
+            0.018859355538955673
+          ],
+          [
+            "algorithm",
+            0.017150310037581277
+          ],
+          [
+            "shape",
+            0.015202888425490864
+          ],
+          [
+            "method",
+            0.015116720336374208
+          ],
+          [
+            "surfaces",
+            0.014422271541259218
+          ],
+          [
+            "medial",
+            0.013480139929182159
+          ],
+          [
+            "methods",
+            0.01038684959153922
+          ],
+          [
+            "approach",
+            0.010330734891101144
+          ]
+        ],
+        "count": 222
+      },
+      "7": {
+        "name": "7_simulation_fluid_method_simulations",
+        "keywords": [
+          [
+            "simulation",
+            0.028385101020545277
+          ],
+          [
+            "fluid",
+            0.02326525802314967
+          ],
+          [
+            "method",
+            0.020213797965771132
+          ],
+          [
+            "simulations",
+            0.014189787977414443
+          ],
+          [
+            "time",
+            0.013360051650186597
+          ],
+          [
+            "contact",
+            0.012998208316394132
+          ],
+          [
+            "approach",
+            0.0127322593822516
+          ],
+          [
+            "soft",
+            0.0124645832076944
+          ],
+          [
+            "physical",
+            0.012388760658199752
+          ],
+          [
+            "dynamics",
+            0.012167358064956984
+          ]
+        ],
+        "count": 213
+      },
+      "8": {
+        "name": "8_VR_virtual_user_Reality",
+        "keywords": [
+          [
+            "VR",
+            0.035844714492711455
+          ],
+          [
+            "virtual",
+            0.029898410330273937
+          ],
+          [
+            "user",
+            0.026892301843011706
+          ],
+          [
+            "Reality",
+            0.023936712214327773
+          ],
+          [
+            "AR",
+            0.020678315955223354
+          ],
+          [
+            "reality",
+            0.019597967484116356
+          ],
+          [
+            "Virtual",
+            0.01887013993505231
+          ],
+          [
+            "users",
+            0.01708654593148656
+          ],
+          [
+            "study",
+            0.014504624915808494
+          ],
+          [
+            "physical",
+            0.014289622987530464
+          ]
+        ],
+        "count": 159
+      },
+      "9": {
+        "name": "9_data_ray_GPU_rendering",
+        "keywords": [
+          [
+            "data",
+            0.02534243153421298
+          ],
+          [
+            "ray",
+            0.023483703808442273
+          ],
+          [
+            "GPU",
+            0.02294211450315288
+          ],
+          [
+            "rendering",
+            0.01965848905645172
+          ],
+          [
+            "tracing",
+            0.019259216046742838
+          ],
+          [
+            "visualization",
+            0.01631417325187555
+          ],
+          [
+            "time",
+            0.01602954891291131
+          ],
+          [
+            "ray tracing",
+            0.015427684743387312
+          ],
+          [
+            "approach",
+            0.01304699739794698
+          ],
+          [
+            "performance",
+            0.012953425074374558
+          ]
+        ],
+        "count": 149
+      },
+      "10": {
+        "name": "10_motion_motions_Motion_human",
+        "keywords": [
+          [
+            "motion",
+            0.09214233116214395
+          ],
+          [
+            "motions",
+            0.03122050645913454
+          ],
+          [
+            "Motion",
+            0.030682841389701853
+          ],
+          [
+            "human",
+            0.024064641790416414
+          ],
+          [
+            "human motion",
+            0.01971205591565556
+          ],
+          [
+            "action",
+            0.019112403742372358
+          ],
+          [
+            "motion generation",
+            0.01827296358844612
+          ],
+          [
+            "generation",
+            0.017909259021709843
+          ],
+          [
+            "model",
+            0.016071781105903408
+          ],
+          [
+            "style",
+            0.015114521770689865
+          ]
+        ],
+        "count": 138
+      },
+      "11": {
+        "name": "11_design_structures_printing_fabrication",
+        "keywords": [
+          [
+            "design",
+            0.03927947354320849
+          ],
+          [
+            "structures",
+            0.025134926289616614
+          ],
+          [
+            "printing",
+            0.02369264226613994
+          ],
+          [
+            "fabrication",
+            0.01943141171096507
+          ],
+          [
+            "manufacturing",
+            0.018569145192966423
+          ],
+          [
+            "3D",
+            0.018526510988364976
+          ],
+          [
+            "method",
+            0.017969154411561532
+          ],
+          [
+            "material",
+            0.015230958979933717
+          ],
+          [
+            "optimization",
+            0.014585346726472635
+          ],
+          [
+            "surfaces",
+            0.013655418707270453
+          ]
+        ],
+        "count": 115
+      },
+      "12": {
+        "name": "12_motion_learning_character_policy",
+        "keywords": [
+          [
+            "motion",
+            0.04545722689484121
+          ],
+          [
+            "learning",
+            0.027048548992375788
+          ],
+          [
+            "character",
+            0.026374381107663665
+          ],
+          [
+            "policy",
+            0.026104486983689834
+          ],
+          [
+            "control",
+            0.02315573542416579
+          ],
+          [
+            "motions",
+            0.023050412074336724
+          ],
+          [
+            "skills",
+            0.01967222998512307
+          ],
+          [
+            "human",
+            0.017952240284228066
+          ],
+          [
+            "physics",
+            0.017951001260221262
+          ],
+          [
+            "policies",
+            0.016291586330935363
+          ]
+        ],
+        "count": 100
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6909169241643283,
+        -0.6229193046366903,
+        -0.6688481407239715,
+        -0.7087313568172896,
+        -0.6556121974275108,
+        -0.6717419353677518,
+        -0.6455077976486969,
+        -0.685763409109909,
+        -0.5045634311370613,
+        -0.7089108915091442,
+        -0.7319163650695693,
+        -0.7157908703848418
+      ],
+      [
+        -0.6909169241643283,
+        1.0,
+        -0.5886577212488672,
+        -0.6755873205735757,
+        -0.7307921070535186,
+        -0.6802990616111508,
+        -0.6876442234993956,
+        -0.6746808547451164,
+        -0.7093226035653667,
+        -0.7032823135741229,
+        -0.6521104170847796,
+        -0.7384983596123488,
+        -0.6886888773943625
+      ],
+      [
+        -0.6229193046366903,
+        -0.5886577212488672,
+        1.0,
+        -0.5033114029954155,
+        -0.7093487823467614,
+        -0.5633473625126331,
+        -0.6636420659497312,
+        -0.6505998451149801,
+        -0.6979023196974625,
+        -0.6729333390901553,
+        -0.7137762811363957,
+        -0.698531301966826,
+        -0.705156633774235
+      ],
+      [
+        -0.6688481407239715,
+        -0.6755873205735757,
+        -0.5033114029954155,
+        1.0,
+        -0.7033793216896927,
+        -0.7094190806124722,
+        -0.6710280734978912,
+        -0.6243699716805873,
+        -0.7192220594155685,
+        -0.6703785250315006,
+        -0.7087775287144916,
+        -0.7202863734852251,
+        -0.7088308457609804
+      ],
+      [
+        -0.7087313568172896,
+        -0.7307921070535186,
+        -0.7093487823467614,
+        -0.7033793216896927,
+        1.0,
+        -0.7105424882532707,
+        -0.6825229821883403,
+        -0.6754336566345984,
+        -0.6825614147934901,
+        -0.4947138488961117,
+        -0.7304569443947133,
+        -0.6753938947818394,
+        -0.7278842900886804
+      ],
+      [
+        -0.6556121974275108,
+        -0.6802990616111508,
+        -0.5633473625126331,
+        -0.7094190806124722,
+        -0.7105424882532707,
+        1.0,
+        -0.5657212805539575,
+        -0.6407001221638289,
+        -0.7316109489049669,
+        -0.6744348579241906,
+        -0.7294241935659216,
+        -0.7028655627578051,
+        -0.7303962802958648
+      ],
+      [
+        -0.6717419353677518,
+        -0.6876442234993956,
+        -0.6636420659497312,
+        -0.6710280734978912,
+        -0.6825229821883403,
+        -0.5657212805539575,
+        1.0,
+        -0.3974011688463449,
+        -0.7072864111626226,
+        -0.352382436578735,
+        -0.7133267820589289,
+        -0.7001789808430596,
+        -0.7190119466801581
+      ],
+      [
+        -0.6455077976486969,
+        -0.6746808547451164,
+        -0.6505998451149801,
+        -0.6243699716805873,
+        -0.6754336566345984,
+        -0.6407001221638289,
+        -0.3974011688463449,
+        1.0,
+        -0.7003185818890046,
+        -0.4223880720101677,
+        -0.6914378391505734,
+        -0.6853400559131768,
+        -0.6801921146968879
+      ],
+      [
+        -0.685763409109909,
+        -0.7093226035653667,
+        -0.6979023196974625,
+        -0.7192220594155685,
+        -0.6825614147934901,
+        -0.7316109489049669,
+        -0.7072864111626226,
+        -0.7003185818890046,
+        1.0,
+        -0.6849648692422818,
+        -0.7083029543687587,
+        -0.696345889746137,
+        -0.7256360263834798
+      ],
+      [
+        -0.5045634311370613,
+        -0.7032823135741229,
+        -0.6729333390901553,
+        -0.6703785250315006,
+        -0.4947138488961117,
+        -0.6744348579241906,
+        -0.352382436578735,
+        -0.4223880720101677,
+        -0.6849648692422818,
+        1.0,
+        -0.7090635199357955,
+        -0.7129029323890869,
+        -0.7083166485149541
+      ],
+      [
+        -0.7089108915091442,
+        -0.6521104170847796,
+        -0.7137762811363957,
+        -0.7087775287144916,
+        -0.7304569443947133,
+        -0.7294241935659216,
+        -0.7133267820589289,
+        -0.6914378391505734,
+        -0.7083029543687587,
+        -0.7090635199357955,
+        1.0,
+        -0.7334309191693598,
+        -0.35135433310482067
+      ],
+      [
+        -0.7319163650695693,
+        -0.7384983596123488,
+        -0.698531301966826,
+        -0.7202863734852251,
+        -0.6753938947818394,
+        -0.7028655627578051,
+        -0.7001789808430596,
+        -0.6853400559131768,
+        -0.696345889746137,
+        -0.7129029323890869,
+        -0.7334309191693598,
+        1.0,
+        -0.7190087883202829
+      ],
+      [
+        -0.7157908703848418,
+        -0.6886888773943625,
+        -0.705156633774235,
+        -0.7088308457609804,
+        -0.7278842900886804,
+        -0.7303962802958648,
+        -0.7190119466801581,
+        -0.6801921146968879,
+        -0.7256360263834798,
+        -0.7083166485149541,
+        -0.35135433310482067,
+        -0.7190087883202829,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        3,
+        1,
+        2,
+        2,
+        1,
+        1,
+        0,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "2020-02": [
+        11,
+        1,
+        5,
+        1,
+        9,
+        7,
+        0,
+        2,
+        3,
+        0,
+        3,
+        1,
+        0
+      ],
+      "2020-03": [
+        7,
+        3,
+        3,
+        6,
+        1,
+        10,
+        2,
+        4,
+        1,
+        1,
+        2,
+        4,
+        4
+      ],
+      "2020-04": [
+        9,
+        2,
+        4,
+        6,
+        6,
+        8,
+        5,
+        7,
+        1,
+        1,
+        3,
+        3,
+        2
+      ],
+      "2020-05": [
+        10,
+        1,
+        3,
+        4,
+        11,
+        6,
+        0,
+        5,
+        3,
+        2,
+        6,
+        4,
+        2
+      ],
+      "2020-06": [
+        13,
+        0,
+        5,
+        6,
+        3,
+        7,
+        4,
+        4,
+        3,
+        2,
+        6,
+        7,
+        1
+      ],
+      "2020-07": [
+        15,
+        1,
+        2,
+        5,
+        10,
+        7,
+        2,
+        13,
+        3,
+        1,
+        4,
+        1,
+        1
+      ],
+      "2020-08": [
+        14,
+        6,
+        3,
+        7,
+        12,
+        12,
+        1,
+        10,
+        2,
+        3,
+        8,
+        2,
+        1
+      ],
+      "2020-09": [
+        15,
+        3,
+        5,
+        4,
+        18,
+        5,
+        3,
+        14,
+        4,
+        3,
+        3,
+        3,
+        1
+      ],
+      "2020-10": [
+        5,
+        5,
+        2,
+        5,
+        6,
+        7,
+        3,
+        4,
+        5,
+        1,
+        3,
+        4,
+        0
+      ],
+      "2020-11": [
+        10,
+        1,
+        4,
+        4,
+        10,
+        5,
+        2,
+        9,
+        8,
+        2,
+        6,
+        3,
+        3
+      ],
+      "2020-12": [
+        12,
+        2,
+        2,
+        9,
+        4,
+        6,
+        3,
+        5,
+        3,
+        2,
+        6,
+        4,
+        1
+      ],
+      "2021-01": [
+        9,
+        1,
+        2,
+        3,
+        3,
+        0,
+        1,
+        3,
+        3,
+        2,
+        4,
+        3,
+        0
+      ],
+      "2021-02": [
+        9,
+        0,
+        2,
+        1,
+        4,
+        3,
+        3,
+        4,
+        3,
+        1,
+        5,
+        3,
+        1
+      ],
+      "2021-03": [
+        11,
+        2,
+        7,
+        6,
+        12,
+        11,
+        4,
+        7,
+        3,
+        2,
+        7,
+        8,
+        3
+      ],
+      "2021-04": [
+        8,
+        4,
+        6,
+        9,
+        6,
+        14,
+        3,
+        7,
+        2,
+        1,
+        4,
+        2,
+        3
+      ],
+      "2021-05": [
+        10,
+        2,
+        5,
+        9,
+        2,
+        6,
+        1,
+        3,
+        2,
+        1,
+        7,
+        4,
+        1
+      ],
+      "2021-06": [
+        18,
+        4,
+        1,
+        6,
+        7,
+        12,
+        2,
+        6,
+        4,
+        2,
+        5,
+        7,
+        0
+      ],
+      "2021-07": [
+        14,
+        5,
+        0,
+        8,
+        9,
+        8,
+        3,
+        6,
+        1,
+        1,
+        3,
+        5,
+        0
+      ],
+      "2021-08": [
+        12,
+        3,
+        2,
+        3,
+        13,
+        7,
+        1,
+        11,
+        3,
+        0,
+        3,
+        6,
+        0
+      ],
+      "2021-09": [
+        13,
+        0,
+        6,
+        10,
+        5,
+        4,
+        2,
+        4,
+        5,
+        2,
+        2,
+        6,
+        2
+      ],
+      "2021-10": [
+        15,
+        4,
+        3,
+        10,
+        5,
+        8,
+        0,
+        8,
+        3,
+        1,
+        5,
+        3,
+        0
+      ],
+      "2021-11": [
+        20,
+        8,
+        6,
+        7,
+        3,
+        13,
+        2,
+        11,
+        3,
+        1,
+        5,
+        1,
+        0
+      ],
+      "2021-12": [
+        20,
+        8,
+        6,
+        19,
+        2,
+        8,
+        1,
+        8,
+        3,
+        1,
+        5,
+        4,
+        0
+      ],
+      "2022-01": [
+        14,
+        4,
+        4,
+        3,
+        4,
+        11,
+        3,
+        5,
+        6,
+        3,
+        4,
+        3,
+        1
+      ],
+      "2022-02": [
+        17,
+        2,
+        1,
+        7,
+        2,
+        5,
+        0,
+        12,
+        5,
+        3,
+        9,
+        3,
+        0
+      ],
+      "2022-03": [
+        15,
+        4,
+        8,
+        11,
+        7,
+        1,
+        1,
+        10,
+        3,
+        4,
+        10,
+        2,
+        5
+      ],
+      "2022-04": [
+        7,
+        3,
+        2,
+        9,
+        8,
+        4,
+        2,
+        7,
+        3,
+        3,
+        5,
+        5,
+        3
+      ],
+      "2022-05": [
+        21,
+        2,
+        2,
+        9,
+        4,
+        18,
+        2,
+        12,
+        6,
+        2,
+        10,
+        3,
+        5
+      ],
+      "2022-06": [
+        13,
+        1,
+        2,
+        6,
+        7,
+        6,
+        3,
+        13,
+        4,
+        2,
+        10,
+        2,
+        3
+      ],
+      "2022-07": [
+        21,
+        3,
+        5,
+        7,
+        12,
+        7,
+        1,
+        10,
+        3,
+        1,
+        5,
+        1,
+        1
+      ],
+      "2022-08": [
+        26,
+        2,
+        3,
+        8,
+        12,
+        4,
+        3,
+        7,
+        3,
+        4,
+        3,
+        3,
+        2
+      ],
+      "2022-09": [
+        10,
+        2,
+        6,
+        5,
+        15,
+        8,
+        0,
+        9,
+        7,
+        0,
+        10,
+        1,
+        1
+      ],
+      "2022-10": [
+        12,
+        4,
+        4,
+        13,
+        6,
+        8,
+        1,
+        13,
+        6,
+        10,
+        6,
+        1,
+        2
+      ],
+      "2022-11": [
+        16,
+        2,
+        8,
+        13,
+        8,
+        10,
+        1,
+        8,
+        5,
+        2,
+        6,
+        2,
+        1
+      ],
+      "2022-12": [
+        17,
+        4,
+        3,
+        10,
+        3,
+        10,
+        2,
+        11,
+        5,
+        1,
+        11,
+        1,
+        0
+      ],
+      "2023-01": [
+        20,
+        2,
+        0,
+        3,
+        6,
+        7,
+        0,
+        7,
+        6,
+        0,
+        8,
+        1,
+        2
+      ],
+      "2023-02": [
+        14,
+        4,
+        5,
+        12,
+        5,
+        6,
+        0,
+        7,
+        4,
+        2,
+        9,
+        3,
+        0
+      ],
+      "2023-03": [
+        29,
+        6,
+        10,
+        19,
+        9,
+        8,
+        3,
+        9,
+        8,
+        1,
+        25,
+        4,
+        2
+      ],
+      "2023-04": [
+        23,
+        6,
+        7,
+        14,
+        7,
+        8,
+        0,
+        7,
+        1,
+        2,
+        8,
+        3,
+        3
+      ],
+      "2023-05": [
+        23,
+        5,
+        7,
+        8,
+        8,
+        7,
+        3,
+        15,
+        4,
+        8,
+        12,
+        5,
+        2
+      ],
+      "2023-06": [
+        17,
+        6,
+        6,
+        15,
+        11,
+        8,
+        1,
+        10,
+        3,
+        2,
+        8,
+        7,
+        1
+      ],
+      "2023-07": [
+        12,
+        2,
+        5,
+        10,
+        12,
+        5,
+        2,
+        9,
+        5,
+        0,
+        7,
+        3,
+        0
+      ],
+      "2023-08": [
+        25,
+        5,
+        9,
+        6,
+        23,
+        8,
+        2,
+        6,
+        6,
+        3,
+        17,
+        1,
+        3
+      ],
+      "2023-09": [
+        22,
+        4,
+        6,
+        14,
+        14,
+        7,
+        2,
+        13,
+        4,
+        1,
+        13,
+        6,
+        2
+      ],
+      "2023-10": [
+        31,
+        6,
+        10,
+        11,
+        10,
+        7,
+        2,
+        10,
+        2,
+        3,
+        22,
+        3,
+        3
+      ],
+      "2023-11": [
+        35,
+        3,
+        12,
+        21,
+        4,
+        10,
+        4,
+        11,
+        8,
+        3,
+        12,
+        0,
+        1
+      ],
+      "2023-12": [
+        33,
+        6,
+        10,
+        17,
+        9,
+        9,
+        1,
+        13,
+        5,
+        5,
+        19,
+        4,
+        2
+      ],
+      "2024-01": [
+        24,
+        4,
+        15,
+        12,
+        7,
+        5,
+        2,
+        7,
+        7,
+        1,
+        7,
+        5,
+        3
+      ],
+      "2024-02": [
+        23,
+        5,
+        6,
+        16,
+        6,
+        5,
+        2,
+        8,
+        7,
+        1,
+        5,
+        5,
+        0
+      ],
+      "2024-03": [
+        32,
+        4,
+        12,
+        17,
+        12,
+        7,
+        7,
+        9,
+        5,
+        2,
+        13,
+        3,
+        1
+      ],
+      "2024-04": [
+        23,
+        5,
+        5,
+        16,
+        15,
+        9,
+        1,
+        11,
+        5,
+        2,
+        9,
+        0,
+        1
+      ],
+      "2024-05": [
+        26,
+        7,
+        20,
+        17,
+        3,
+        10,
+        3,
+        23,
+        6,
+        6,
+        10,
+        4,
+        2
+      ],
+      "2024-06": [
+        46,
+        2,
+        12,
+        17,
+        12,
+        7,
+        2,
+        13,
+        5,
+        2,
+        13,
+        6,
+        4
+      ],
+      "2024-07": [
+        29,
+        5,
+        6,
+        13,
+        18,
+        10,
+        1,
+        6,
+        5,
+        2,
+        10,
+        3,
+        1
+      ],
+      "2024-08": [
+        20,
+        3,
+        11,
+        11,
+        15,
+        6,
+        2,
+        7,
+        2,
+        3,
+        8,
+        2,
+        5
+      ],
+      "2024-09": [
+        36,
+        5,
+        14,
+        13,
+        9,
+        15,
+        3,
+        16,
+        5,
+        3,
+        19,
+        1,
+        2
+      ],
+      "2024-10": [
+        42,
+        4,
+        8,
+        12,
+        11,
+        7,
+        4,
+        12,
+        6,
+        3,
+        13,
+        5,
+        2
+      ],
+      "2024-11": [
+        27,
+        3,
+        19,
+        12,
+        5,
+        7,
+        3,
+        4,
+        2,
+        1,
+        17,
+        3,
+        2
+      ],
+      "2024-12": [
+        39,
+        4,
+        13,
+        22,
+        6,
+        8,
+        3,
+        16,
+        5,
+        2,
+        21,
+        2,
+        2
+      ],
+      "2025-01": [
+        17,
+        2,
+        5,
+        14,
+        12,
+        5,
+        2,
+        10,
+        5,
+        2,
+        5,
+        3,
+        1
+      ],
+      "2025-02": [
+        29,
+        9,
+        10,
+        26,
+        13,
+        10,
+        1,
+        10,
+        5,
+        5,
+        16,
+        4,
+        1
+      ],
+      "2025-03": [
+        37,
+        6,
+        11,
+        31,
+        11,
+        8,
+        4,
+        15,
+        3,
+        0,
+        24,
+        3,
+        2
+      ],
+      "2025-04": [
+        39,
+        4,
+        12,
+        15,
+        11,
+        9,
+        1,
+        11,
+        10,
+        4,
+        16,
+        6,
+        2
+      ],
+      "2025-05": [
+        37,
+        6,
+        13,
+        15,
+        5,
+        12,
+        4,
+        20,
+        5,
+        2,
+        16,
+        2,
+        5
+      ],
+      "2025-06": [
+        49,
+        3,
+        10,
+        22,
+        8,
+        10,
+        5,
+        16,
+        7,
+        7,
+        17,
+        5,
+        0
+      ],
+      "2025-07": [
+        40,
+        1,
+        12,
+        13,
+        25,
+        6,
+        3,
+        9,
+        5,
+        1,
+        9,
+        1,
+        0
+      ],
+      "2025-08": [
+        41,
+        4,
+        12,
+        22,
+        9,
+        9,
+        1,
+        15,
+        7,
+        2,
+        12,
+        7,
+        0
+      ],
+      "2025-09": [
+        11,
+        2,
+        4,
+        8,
+        4,
+        2,
+        2,
+        1,
+        1,
+        0,
+        6,
+        4,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Real-Time Scene Reconstruction using Light Field Probes",
+          "year": "2025-07",
+          "abstract": "Reconstructing photo-realistic large-scale scenes from images, for example at\ncity scale, is a long-standing problem in computer graphics. Neural rendering\nis an emerging technique that enables photo-realistic image synthesis from\npreviously unobserved viewpoints; however, state-of-the-art neural rendering\nmethods have difficulty efficiently rendering a high complex large-scale scene\nbecause these methods typically trade scene size, fidelity, and rendering speed\nfor quality. The other stream of techniques utilizes scene geometries for\nreconstruction. But the cost of building and maintaining a large set of\ngeometry data increases as scene size grows. Our work explores novel view\nsynthesis methods that efficiently reconstruct complex scenes without explicit\nuse of scene geometries. Specifically, given sparse images of the scene\n(captured from the real world), we reconstruct intermediate, multi-scale,\nimplicit representations of scene geometries. In this way, our method avoids\nexplicitly relying on scene geometry, significantly reducing the computational\ncost of maintaining large 3D data. Unlike current methods, we reconstruct the\nscene using a probe data structure. Probe data hold highly accurate depth\ninformation of dense data points, enabling the reconstruction of highly complex\nscenes. By reconstructing the scene using probe data, the rendering cost is\nindependent of the complexity of the scene. As such, our approach combines\ngeometry reconstruction and novel view synthesis. Moreover, when rendering\nlarge-scale scenes, compressing and streaming probe data is more efficient than\nusing explicit scene geometry. Therefore, our neural representation approach\ncan potentially be applied to virtual reality (VR) and augmented reality (AR)\napplications.",
+          "arxiv_id": "2507.14624v1"
+        },
+        {
+          "title": "Real-time High-resolution View Synthesis of Complex Scenes with Explicit 3D Visibility Reasoning",
+          "year": "2024-02",
+          "abstract": "Rendering photo-realistic novel-view images of complex scenes has been a\nlong-standing challenge in computer graphics. In recent years, great research\nprogress has been made on enhancing rendering quality and accelerating\nrendering speed in the realm of view synthesis. However, when rendering complex\ndynamic scenes with sparse views, the rendering quality remains limited due to\nocclusion problems. Besides, for rendering high-resolution images on dynamic\nscenes, the rendering speed is still far from real-time. In this work, we\npropose a generalizable view synthesis method that can render high-resolution\nnovel-view images of complex static and dynamic scenes in real-time from sparse\nviews. To address the occlusion problems arising from the sparsity of input\nviews and the complexity of captured scenes, we introduce an explicit 3D\nvisibility reasoning approach that can efficiently estimate the visibility of\nsampled 3D points to the input views. The proposed visibility reasoning\napproach is fully differentiable and can gracefully fit inside the volume\nrendering pipeline, allowing us to train our networks with only multi-view\nimages as supervision while refining geometry and texture simultaneously.\nBesides, each module in our pipeline is carefully designed to bypass the\ntime-consuming MLP querying process and enhance the rendering quality of\nhigh-resolution images, enabling us to render high-resolution novel-view images\nin real-time.Experimental results show that our method outperforms previous\nview synthesis methods in both rendering quality and speed, particularly when\ndealing with complex dynamic scenes with sparse views.",
+          "arxiv_id": "2402.12886v1"
+        },
+        {
+          "title": "Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields",
+          "year": "2023-11",
+          "abstract": "Recent advances in Neural radiance fields (NeRF) have enabled high-fidelity\nscene reconstruction for novel view synthesis. However, NeRF requires hundreds\nof network evaluations per pixel to approximate a volume rendering integral,\nmaking it slow to train. Caching NeRFs into explicit data structures can\neffectively enhance rendering speed but at the cost of higher memory usage. To\naddress these issues, we present Hyb-NeRF, a novel neural radiance field with a\nmulti-resolution hybrid encoding that achieves efficient neural modeling and\nfast rendering, which also allows for high-quality novel view synthesis. The\nkey idea of Hyb-NeRF is to represent the scene using different encoding\nstrategies from coarse-to-fine resolution levels. Hyb-NeRF exploits\nmemory-efficiency learnable positional features at coarse resolutions and the\nfast optimization speed and local details of hash-based feature grids at fine\nresolutions. In addition, to further boost performance, we embed cone\ntracing-based features in our learnable positional encoding that eliminates\nencoding ambiguity and reduces aliasing artifacts. Extensive experiments on\nboth synthetic and real-world datasets show that Hyb-NeRF achieves faster\nrendering speed with better rending quality and even a lower memory footprint\nin comparison to previous state-of-the-art methods.",
+          "arxiv_id": "2311.12490v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence",
+          "year": "2024-05",
+          "abstract": "We introduce VOODOO XP: a 3D-aware one-shot head reenactment method that can\ngenerate highly expressive facial expressions from any input driver video and a\nsingle 2D portrait. Our solution is real-time, view-consistent, and can be\ninstantly used without calibration or fine-tuning. We demonstrate our solution\non a monocular video setting and an end-to-end VR telepresence system for\ntwo-way communication. Compared to 2D head reenactment methods, 3D-aware\napproaches aim to preserve the identity of the subject and ensure\nview-consistent facial geometry for novel camera poses, which makes them\nsuitable for immersive applications. While various facial disentanglement\ntechniques have been introduced, cutting-edge 3D-aware neural reenactment\ntechniques still lack expressiveness and fail to reproduce complex and\nfine-scale facial expressions. We present a novel cross-reenactment\narchitecture that directly transfers the driver's facial expressions to\ntransformer blocks of the input source's 3D lifting module. We show that highly\neffective disentanglement is possible using an innovative multi-stage\nself-supervision approach, which is based on a coarse-to-fine strategy,\ncombined with an explicit face neutralization and 3D lifted frontalization\nduring its initial training stage. We further integrate our novel head\nreenactment solution into an accessible high-fidelity VR telepresence system,\nwhere any person can instantly build a personalized neural head avatar from any\nphoto and bring it to life using the headset. We demonstrate state-of-the-art\nperformance in terms of expressiveness and likeness preservation on a large set\nof diverse subjects and capture conditions.",
+          "arxiv_id": "2405.16204v2"
+        },
+        {
+          "title": "EVA: Expressive Virtual Avatars from Multi-view Videos",
+          "year": "2025-05",
+          "abstract": "With recent advancements in neural rendering and motion capture algorithms,\nremarkable progress has been made in photorealistic human avatar modeling,\nunlocking immense potential for applications in virtual reality, augmented\nreality, remote communication, and industries such as gaming, film, and\nmedicine. However, existing methods fail to provide complete, faithful, and\nexpressive control over human avatars due to their entangled representation of\nfacial expressions and body movements. In this work, we introduce Expressive\nVirtual Avatars (EVA), an actor-specific, fully controllable, and expressive\nhuman avatar framework that achieves high-fidelity, lifelike renderings in real\ntime while enabling independent control of facial expressions, body movements,\nand hand gestures. Specifically, our approach designs the human avatar as a\ntwo-layer model: an expressive template geometry layer and a 3D Gaussian\nappearance layer. First, we present an expressive template tracking algorithm\nthat leverages coarse-to-fine optimization to accurately recover body motions,\nfacial expressions, and non-rigid deformation parameters from multi-view\nvideos. Next, we propose a novel decoupled 3D Gaussian appearance model\ndesigned to effectively disentangle body and facial appearance. Unlike unified\nGaussian estimation approaches, our method employs two specialized and\nindependent modules to model the body and face separately. Experimental results\ndemonstrate that EVA surpasses state-of-the-art methods in terms of rendering\nquality and expressiveness, validating its effectiveness in creating full-body\navatars. This work represents a significant advancement towards fully drivable\ndigital human models, enabling the creation of lifelike digital avatars that\nfaithfully replicate human geometry and appearance.",
+          "arxiv_id": "2505.15385v1"
+        },
+        {
+          "title": "GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations",
+          "year": "2024-09",
+          "abstract": "Real-time rendering of human head avatars is a cornerstone of many computer\ngraphics applications, such as augmented reality, video games, and films, to\nname a few. Recent approaches address this challenge with computationally\nefficient geometry primitives in a carefully calibrated multi-view setup.\nAlbeit producing photorealistic head renderings, it often fails to represent\ncomplex motion changes such as the mouth interior and strongly varying head\nposes. We propose a new method to generate highly dynamic and deformable human\nhead avatars from multi-view imagery in real-time. At the core of our method is\na hierarchical representation of head models that allows to capture the complex\ndynamics of facial expressions and head movements. First, with rich facial\nfeatures extracted from raw input frames, we learn to deform the coarse facial\ngeometry of the template mesh. We then initialize 3D Gaussians on the deformed\nsurface and refine their positions in a fine step. We train this coarse-to-fine\nfacial avatar model along with the head pose as a learnable parameter in an\nend-to-end framework. This enables not only controllable facial animation via\nvideo inputs, but also high-fidelity novel view synthesis of challenging facial\nexpressions, such as tongue deformations and fine-grained teeth structure under\nlarge motion changes. Moreover, it encourages the learned head avatar to\ngeneralize towards new facial expressions and head poses at inference time. We\ndemonstrate the performance of our method with comparisons against the related\nmethods on different datasets, spanning challenging facial expression sequences\nacross multiple identities. We also show the potential application of our\napproach by demonstrating a cross-identity facial performance transfer\napplication.",
+          "arxiv_id": "2409.11951v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
+          "year": "2024-05",
+          "abstract": "In this work, we introduce Unique3D, a novel image-to-3D framework for\nefficiently generating high-quality 3D meshes from single-view images,\nfeaturing state-of-the-art generation fidelity and strong generalizability.\nPrevious methods based on Score Distillation Sampling (SDS) can produce\ndiversified 3D results by distilling 3D knowledge from large 2D diffusion\nmodels, but they usually suffer from long per-case optimization time with\ninconsistent issues. Recent works address the problem and generate better 3D\nresults either by finetuning a multi-view diffusion model or training a fast\nfeed-forward model. However, they still lack intricate textures and complex\ngeometries due to inconsistency and limited generated resolution. To\nsimultaneously achieve high fidelity, consistency, and efficiency in single\nimage-to-3D, we propose a novel framework Unique3D that includes a multi-view\ndiffusion model with a corresponding normal diffusion model to generate\nmulti-view images with their normal maps, a multi-level upscale process to\nprogressively improve the resolution of generated orthographic multi-views, as\nwell as an instant and consistent mesh reconstruction algorithm called ISOMER,\nwhich fully integrates the color and geometric priors into mesh results.\nExtensive experiments demonstrate that our Unique3D significantly outperforms\nother image-to-3D baselines in terms of geometric and textural details.",
+          "arxiv_id": "2405.20343v3"
+        },
+        {
+          "title": "Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation",
+          "year": "2025-03",
+          "abstract": "Diffusion models have achieved great success in generating 2D images.\nHowever, the quality and generalizability of 3D content generation remain\nlimited. State-of-the-art methods often require large-scale 3D assets for\ntraining, which are challenging to collect. In this work, we introduce\nKiss3DGen (Keep It Simple and Straightforward in 3D Generation), an efficient\nframework for generating, editing, and enhancing 3D objects by repurposing a\nwell-trained 2D image diffusion model for 3D generation. Specifically, we\nfine-tune a diffusion model to generate ''3D Bundle Image'', a tiled\nrepresentation composed of multi-view images and their corresponding normal\nmaps. The normal maps are then used to reconstruct a 3D mesh, and the\nmulti-view images provide texture mapping, resulting in a complete 3D model.\nThis simple method effectively transforms the 3D generation problem into a 2D\nimage generation task, maximizing the utilization of knowledge in pretrained\ndiffusion models. Furthermore, we demonstrate that our Kiss3DGen model is\ncompatible with various diffusion model techniques, enabling advanced features\nsuch as 3D editing, mesh and texture enhancement, etc. Through extensive\nexperiments, we demonstrate the effectiveness of our approach, showcasing its\nability to produce high-quality 3D models efficiently.",
+          "arxiv_id": "2503.01370v2"
+        },
+        {
+          "title": "Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior",
+          "year": "2023-12",
+          "abstract": "Recently, 3D content creation from text prompts has demonstrated remarkable\nprogress by utilizing 2D and 3D diffusion models. While 3D diffusion models\nensure great multi-view consistency, their ability to generate high-quality and\ndiverse 3D assets is hindered by the limited 3D data. In contrast, 2D diffusion\nmodels find a distillation approach that achieves excellent generalization and\nrich details without any 3D data. However, 2D lifting methods suffer from\ninherent view-agnostic ambiguity thereby leading to serious multi-face Janus\nissues, where text prompts fail to provide sufficient guidance to learn\ncoherent 3D results. Instead of retraining a costly viewpoint-aware model, we\nstudy how to fully exploit easily accessible coarse 3D knowledge to enhance the\nprompts and guide 2D lifting optimization for refinement. In this paper, we\npropose Sherpa3D, a new text-to-3D framework that achieves high-fidelity,\ngeneralizability, and geometric consistency simultaneously. Specifically, we\ndesign a pair of guiding strategies derived from the coarse 3D prior generated\nby the 3D diffusion model: a structural guidance for geometric fidelity and a\nsemantic guidance for 3D coherence. Employing the two types of guidance, the 2D\ndiffusion model enriches the 3D content with diversified and high-quality\nresults. Extensive experiments show the superiority of our Sherpa3D over the\nstate-of-the-art text-to-3D methods in terms of quality and 3D consistency.",
+          "arxiv_id": "2312.06655v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Zero-shot Image-to-Image Translation",
+          "year": "2023-02",
+          "abstract": "Large-scale text-to-image generative models have shown their remarkable\nability to synthesize diverse and high-quality images. However, it is still\nchallenging to directly apply these models for editing real images for two\nreasons. First, it is hard for users to come up with a perfect text prompt that\naccurately describes every visual detail in the input image. Second, while\nexisting models can introduce desirable changes in certain regions, they often\ndramatically alter the input content and introduce unexpected changes in\nunwanted regions. In this work, we propose pix2pix-zero, an image-to-image\ntranslation method that can preserve the content of the original image without\nmanual prompting. We first automatically discover editing directions that\nreflect desired edits in the text embedding space. To preserve the general\ncontent structure after editing, we further propose cross-attention guidance,\nwhich aims to retain the cross-attention maps of the input image throughout the\ndiffusion process. In addition, our method does not need additional training\nfor these edits and can directly use the existing pre-trained text-to-image\ndiffusion model. We conduct extensive experiments and show that our method\noutperforms existing and concurrent works for both real and synthetic image\nediting.",
+          "arxiv_id": "2302.03027v1"
+        },
+        {
+          "title": "Diffusion Self-Distillation for Zero-Shot Customized Image Generation",
+          "year": "2024-11",
+          "abstract": "Text-to-image diffusion models produce impressive results but are frustrating\ntools for artists who desire fine-grained control. For example, a common use\ncase is to create images of a specific instance in novel contexts, i.e.,\n\"identity-preserving generation\". This setting, along with many other tasks\n(e.g., relighting), is a natural fit for image+text-conditional generative\nmodels. However, there is insufficient high-quality paired data to train such a\nmodel directly. We propose Diffusion Self-Distillation, a method for using a\npre-trained text-to-image model to generate its own dataset for\ntext-conditioned image-to-image tasks. We first leverage a text-to-image\ndiffusion model's in-context generation ability to create grids of images and\ncurate a large paired dataset with the help of a Visual-Language Model. We then\nfine-tune the text-to-image model into a text+image-to-image model using the\ncurated paired dataset. We demonstrate that Diffusion Self-Distillation\noutperforms existing zero-shot methods and is competitive with per-instance\ntuning techniques on a wide range of identity-preservation generation tasks,\nwithout requiring test-time optimization.",
+          "arxiv_id": "2411.18616v1"
+        },
+        {
+          "title": "ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models",
+          "year": "2023-05",
+          "abstract": "Personalizing generative models offers a way to guide image generation with\nuser-provided references. Current personalization methods can invert an object\nor concept into the textual conditioning space and compose new natural\nsentences for text-to-image diffusion models. However, representing and editing\nspecific visual attributes such as material, style, and layout remains a\nchallenge, leading to a lack of disentanglement and editability. To address\nthis problem, we propose a novel approach that leverages the step-by-step\ngeneration process of diffusion models, which generate images from low to high\nfrequency information, providing a new perspective on representing, generating,\nand editing images. We develop the Prompt Spectrum Space P*, an expanded\ntextual conditioning space, and a new image representation method called\n\\sysname. ProSpect represents an image as a collection of inverted textual\ntoken embeddings encoded from per-stage prompts, where each prompt corresponds\nto a specific generation stage (i.e., a group of consecutive steps) of the\ndiffusion model. Experimental results demonstrate that P* and ProSpect offer\nbetter disentanglement and controllability compared to existing methods. We\napply ProSpect in various personalized attribute-aware image generation\napplications, such as image-guided or text-driven manipulations of materials,\nstyle, and layout, achieving previously unattainable results from a single\nimage input without fine-tuning the diffusion models. Our source code is\navailable athttps://github.com/zyxElsa/ProSpect.",
+          "arxiv_id": "2305.16225v3"
+        }
+      ],
+      "4": [
+        {
+          "title": "Immersive and Interactive Visualization of 3D Spatio-Temporal Data using a Space Time Hypercube",
+          "year": "2022-06",
+          "abstract": "We propose an extension of the well-known Space-Time Cube (STC) visualization\ntechnique in order to visualize time-varying 3D spatial data, taking advantage\nof the interaction capabilities of Virtual Reality (VR). The analysis of\nmultidimensional time-varying datasets, which size grows as recording and\nsimulating techniques advance, faces challenges on the representation and\nvisualization of dense data, as well as on the study of temporal variations.\nFirst, we propose the Space-Time Hypercube (STH) as an abstraction for 3D\ntemporal data, extended from the STC concept. Second, through the example of\nembryo development imaging dataset, we detail the construction and\nvisualization of a STC based on a user-driven projection of the spatial and\ntemporal information. This projection yields a 3D STC visualization, which can\nalso encode additional numerical and categorical data. Additionally, we propose\na set of tools allowing the user to filter and manipulate the 3D STC which\nbenefits from the visualization, exploration and interaction possibilities\noffered by VR. Finally, we evaluated the proposed visualization method in the\ncontext of the visualization of spatio-temporal biological data. Several\nbiology experts accompanied the application design to provide insight on how\nthe STC visualization could be used to explore such data. We report a user\nstudy (n=12) using non-expert users performing a set of exploration and query\ntasks to evaluate the system.",
+          "arxiv_id": "2206.13213v1"
+        },
+        {
+          "title": "To Measure What Isn't There -- Visual Exploration of Missingness Structures Using Quality Metrics",
+          "year": "2025-05",
+          "abstract": "This paper contributes a set of quality metrics for identification and visual\nanalysis of structured missingness in high-dimensional data. Missing values in\ndata are a frequent challenge in most data generating domains and may cause a\nrange of analysis issues. Structural missingness in data may indicate issues in\ndata collection and pre-processing, but may also highlight important data\ncharacteristics. While research into statistical methods for dealing with\nmissing data are mainly focusing on replacing missing values with plausible\nestimated values, visualization has great potential to support a more in-depth\nunderstanding of missingness structures in data. Nonetheless, while the\ninterest in missing data visualization has increased in the last decade, it is\nstill a relatively overlooked research topic with a comparably small number of\npublications, few of which address scalability issues. Efficient visual\nanalysis approaches are needed to enable exploration of missingness structures\nin large and high-dimensional data, and to support informed decision-making in\ncontext of potential data quality issues. This paper suggests a set of quality\nmetrics for identification of patterns of interest for understanding of\nstructural missingness in data. These quality metrics can be used as guidance\nin visual analysis, as demonstrated through a use case exploring structural\nmissingness in data from a real-life walking monitoring study. All supplemental\nmaterials for this paper are available at\nhttps://doi.org/10.25405/data.ncl.c.7741829.",
+          "arxiv_id": "2505.23447v1"
+        },
+        {
+          "title": "Time Series Information Visualization -- A Review of Approaches and Tools",
+          "year": "2025-07",
+          "abstract": "Time series data are prevalent across various domains and often encompass\nlarge datasets containing multiple time-dependent features in each sample.\nExploring time-varying data is critical for data science practitioners aiming\nto understand dynamic behaviors and discover periodic patterns and trends.\nHowever, the analysis of such data often requires sophisticated procedures and\ntools. Information visualization is a communication channel that leverages\nhuman perceptual abilities to transform abstract data into visual\nrepresentations. Visualization techniques have been successfully applied in the\ncontext of time series to enhance interpretability by graphically representing\nthe temporal evolution of data. The challenge for information visualization\ndevelopers lies in integrating a wide range of analytical tools into rich\nvisualization systems that can summarize complex datasets while clearly\ndescribing the impacts of the temporal component. Such systems enable data\nscientists to turn raw data into understandable and potentially useful\nknowledge. This review examines techniques and approaches designed for handling\ntime series data, guiding users through knowledge discovery processes based on\nvisual analysis. We also provide readers with theoretical insights and design\nguidelines for considering when developing comprehensive information\nvisualization approaches for time series, with a particular focus on time\nseries with multiple features. As a result, we highlight the challenges and\nfuture research directions to address open questions in the visualization of\ntime-dependent data.",
+          "arxiv_id": "2507.14920v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "CarveNet: Carving Point-Block for Complex 3D Shape Completion",
+          "year": "2021-07",
+          "abstract": "3D point cloud completion is very challenging because it heavily relies on\nthe accurate understanding of the complex 3D shapes (e.g., high-curvature,\nconcave/convex, and hollowed-out 3D shapes) and the unknown & diverse patterns\nof the partially available point clouds. In this paper, we propose a novel\nsolution,i.e., Point-block Carving (PC), for completing the complex 3D point\ncloud completion. Given the partial point cloud as the guidance, we carve a3D\nblock that contains the uniformly distributed 3D points, yielding the entire\npoint cloud. To achieve PC, we propose a new network architecture, i.e.,\nCarveNet. This network conducts the exclusive convolution on each point of the\nblock, where the convolutional kernels are trained on the 3D shape data.\nCarveNet determines which point should be carved, for effectively recovering\nthe details of the complete shapes. Furthermore, we propose a sensor-aware\nmethod for data augmentation,i.e., SensorAug, for training CarveNet on richer\npatterns of partial point clouds, thus enhancing the completion power of the\nnetwork. The extensive evaluations on the ShapeNet and KITTI datasets\ndemonstrate the generality of our approach on the partial point clouds with\ndiverse patterns. On these datasets, CarveNet successfully outperforms the\nstate-of-the-art methods.",
+          "arxiv_id": "2107.13452v1"
+        },
+        {
+          "title": "Shape As Points: A Differentiable Poisson Solver",
+          "year": "2021-06",
+          "abstract": "In recent years, neural implicit representations gained popularity in 3D\nreconstruction due to their expressiveness and flexibility. However, the\nimplicit nature of neural implicit representations results in slow inference\ntime and requires careful initialization. In this paper, we revisit the classic\nyet ubiquitous point cloud representation and introduce a differentiable\npoint-to-mesh layer using a differentiable formulation of Poisson Surface\nReconstruction (PSR) that allows for a GPU-accelerated fast solution of the\nindicator function given an oriented point cloud. The differentiable PSR layer\nallows us to efficiently and differentiably bridge the explicit 3D point\nrepresentation with the 3D mesh via the implicit indicator field, enabling\nend-to-end optimization of surface reconstruction metrics such as Chamfer\ndistance. This duality between points and meshes hence allows us to represent\nshapes as oriented point clouds, which are explicit, lightweight and\nexpressive. Compared to neural implicit representations, our Shape-As-Points\n(SAP) model is more interpretable, lightweight, and accelerates inference time\nby one order of magnitude. Compared to other explicit representations such as\npoints, patches, and meshes, SAP produces topology-agnostic, watertight\nmanifold surfaces. We demonstrate the effectiveness of SAP on the task of\nsurface reconstruction from unoriented point clouds and learning-based\nreconstruction.",
+          "arxiv_id": "2106.03452v2"
+        },
+        {
+          "title": "LFS-Aware Surface Reconstruction from Unoriented 3D Point Clouds",
+          "year": "2024-03",
+          "abstract": "We present a novel approach for generating isotropic surface triangle meshes\ndirectly from unoriented 3D point clouds, with the mesh density adapting to the\nestimated local feature size (LFS). Popular reconstruction pipelines first\nreconstruct a dense mesh from the input point cloud and then apply remeshing to\nobtain an isotropic mesh. The sequential pipeline makes it hard to find a\nlower-density mesh while preserving more details. Instead, our approach\nreconstructs both an implicit function and an LFS-aware mesh sizing function\ndirectly from the input point cloud, which is then used to produce the final\nLFS-aware mesh without remeshing. We combine local curvature radius and shape\ndiameter to estimate the LFS directly from the input point clouds.\nAdditionally, we propose a new mesh solver to solve an implicit function whose\nzero level set delineates the surface without requiring normal orientation. The\nadded value of our approach is generating isotropic meshes directly from 3D\npoint clouds with an LFS-aware density, thus achieving a trade-off between\ngeometric detail and mesh complexity. Our experiments also demonstrate the\nrobustness of our method to noise, outliers, and missing data and can preserve\nsharp features for CAD point clouds.",
+          "arxiv_id": "2403.13924v3"
+        }
+      ],
+      "6": [
+        {
+          "title": "PaMO: Parallel Mesh Optimization for Intersection-Free Low-Poly Modeling on the GPU",
+          "year": "2025-09",
+          "abstract": "Reducing the triangle count in complex 3D models is a basic geometry\npreprocessing step in graphics pipelines such as efficient rendering and\ninteractive editing. However, most existing mesh simplification methods exhibit\na few issues. Firstly, they often lead to self-intersections during decimation,\na major issue for applications such as 3D printing and soft-body simulation.\nSecond, to perform simplification on a mesh in the wild, one would first need\nto perform re-meshing, which often suffers from surface shifts and losses of\nsharp features. Finally, existing re-meshing and simplification methods can\ntake minutes when processing large-scale meshes, limiting their applications in\npractice. To address the challenges, we introduce a novel GPU-based mesh\noptimization approach containing three key components: (1) a parallel\nre-meshing algorithm to turn meshes in the wild into watertight, manifold, and\nintersection-free ones, and reduce the prevalence of poorly shaped triangles;\n(2) a robust parallel simplification algorithm with intersection-free\nguarantees; (3) an optimization-based safe projection algorithm to realign the\nsimplified mesh with the input, eliminating the surface shift introduced by\nre-meshing and recovering the original sharp features. The algorithm\ndemonstrates remarkable efficiency, simplifying a 2-million-face mesh to 20k\ntriangles in 3 seconds on RTX4090. We evaluated the approach on the Thingi10K\ndataset and showcased its exceptional performance in geometry preservation and\nspeed.",
+          "arxiv_id": "2509.05595v1"
+        },
+        {
+          "title": "Towards Voronoi Diagrams of Surface Patches",
+          "year": "2024-11",
+          "abstract": "Extraction of a high-fidelity 3D medial axis is a crucial operation in CAD.\nWhen dealing with a polygonal model as input, ensuring accuracy and tidiness\nbecomes challenging due to discretization errors inherent in the mesh surface.\nCommonly, existing approaches yield medial-axis surfaces with various\nartifacts, including zigzag boundaries, bumpy surfaces, unwanted spikes, and\nnon-smooth stitching curves. Considering that the surface of a CAD model can be\neasily decomposed into a collection of surface patches, its 3D medial axis can\nbe extracted by computing the Voronoi diagram of these surface patches, where\neach surface patch serves as a generator. However, no solver currently exists\nfor accurately computing such an extended Voronoi diagram. Under the assumption\nthat each generator defines a linear distance field over a sufficiently small\nrange, our approach operates by tetrahedralizing the region of interest and\ncomputing the medial axis within each tetrahedral element. Just as\nSurfaceVoronoi computes surface-based Voronoi diagrams by cutting a 3D prism\nwith 3D planes (each plane encodes a linear field in a triangle), the key\noperation in this paper is to conduct the hyperplane cutting process in 4D,\nwhere each hyperplane encodes a linear field in a tetrahedron. In comparison\nwith the state-of-the-art, our algorithm produces better outcomes. Furthermore,\nit can also be used to compute the offset surface.",
+          "arxiv_id": "2411.06471v1"
+        },
+        {
+          "title": "Simplifying Triangle Meshes in the Wild",
+          "year": "2024-09",
+          "abstract": "This paper introduces a fast and robust method for simplifying surface\ntriangle meshes in the wild while maintaining high visual quality. While\nprevious methods achieve excellent results on manifold meshes by using the\nquadric error metric, they suffer from producing high-quality outputs for\nuser-created meshes, which often contain non-manifold elements and multiple\nconnected components. In this work, we begin by outlining the pitfalls of\nexisting mesh simplification techniques and highlighting the discrepancy in\ntheir formulations with existing mesh data. We then propose a method for\nsimplifying these (non-manifold) triangle meshes, while maintaining quality\ncomparable to the existing methods for manifold inputs. Our key idea is to\nreformulate mesh simplification as a problem of decimating simplicial\n2-complexes. This involves a novel construction to turn a triangle soup into a\nsimplicial 2-complex, followed by iteratively collapsing 1-simplices (vertex\npairs) with our modified quadric error metric tailored for topology changes.\nBesides, we also tackle textured mesh simplification. Instead of following\nexisting strategies to preserve mesh UVs, we propose a novel perspective that\nonly focuses on preserving texture colors defined on the surface, regardless of\nthe layout in the texture UV space. This leads to a more robust method for\ntextured mesh simplification that is free from the texture bleeding artifact.\nOur mesh simplification enables level-of-detail algorithms to operate on\narbitrary triangle meshes in the wild. We demonstrate improvements over prior\ntechniques through extensive qualitative and quantitative evaluations, along\nwith user studies.",
+          "arxiv_id": "2409.15458v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "DiffPD: Differentiable Projective Dynamics",
+          "year": "2021-01",
+          "abstract": "We present a novel, fast differentiable simulator for soft-body learning and\ncontrol applications. Existing differentiable soft-body simulators can be\nclassified into two categories based on their time integration methods:\nSimulators using explicit time-stepping schemes require tiny time steps to\navoid numerical instabilities in gradient computation, and simulators using\nimplicit time integration typically compute gradients by employing the adjoint\nmethod and solving the expensive linearized dynamics. Inspired by Projective\nDynamics (PD), we present Differentiable Projective Dynamics (DiffPD), an\nefficient differentiable soft-body simulator based on PD with implicit time\nintegration. The key idea in DiffPD is to speed up backpropagation by\nexploiting the prefactorized Cholesky decomposition in forward PD simulation.\nIn terms of contact handling, DiffPD supports two types of contacts: a\npenalty-based model describing contact and friction forces and a\ncomplementarity-based model enforcing non-penetration conditions and static\nfriction. We evaluate the performance of DiffPD and observe it is 4-19 times\nfaster compared with the standard Newton's method in various applications\nincluding system identification, inverse design problems, trajectory\noptimization, and closed-loop control. We also apply DiffPD in a\nreality-to-simulation (real-to-sim) example with contact and collisions and\nshow its capability of reconstructing a digital twin of real-world scenes.",
+          "arxiv_id": "2101.05917v3"
+        },
+        {
+          "title": "Solid-Fluid Interaction on Particle Flow Maps",
+          "year": "2024-09",
+          "abstract": "We propose a novel solid-fluid interaction method for coupling elastic solids\nwith impulse flow maps. Our key idea is to unify the representation of fluid\nand solid components as particle flow maps with different lengths and dynamics.\nThe solid-fluid coupling is enabled by implementing two novel mechanisms:\nfirst, we developed an impulse-to-velocity transfer mechanism to unify the\nexchanged physical quantities; second, we devised a particle path integral\nmechanism to accumulate coupling forces along each flow-map trajectory. Our\nframework integrates these two mechanisms into an Eulerian-Lagrangian impulse\nfluid simulator to accommodate traditional coupling models, exemplified by the\nMaterial Point Method (MPM) and Immersed Boundary Method (IBM), within a\nparticle flow map framework. We demonstrate our method's efficacy by simulating\nsolid-fluid interactions exhibiting strong vortical dynamics, including various\nvortex shedding and interaction examples across swimming, falling, breezing,\nand combustion.",
+          "arxiv_id": "2409.09225v1"
+        },
+        {
+          "title": "Fast Subspace Fluid Simulation with Temporal-Aware Basis",
+          "year": "2025-02",
+          "abstract": "We present a novel reduced-order fluid simulation technique leveraging\nDynamic Mode Decomposition (DMD) to achieve fast, memory-efficient, and\nuser-controllable subspace simulation. We demonstrate that our approach\ncombines the strengths of both spatial reduced order models (ROMs) as well as\nspectral decompositions. By optimizing for the operator that evolves a system\nstate from one timestep to the next, rather than the system state itself, we\ngain both the compressive power of spatial ROMs as well as the intuitive\nphysical dynamics of spectral methods. The latter property is of particular\ninterest in graphics applications, where user control of fluid phenomena is of\nhigh demand. We demonstrate this in various applications including spatial and\ntemporal modulation tools and fluid upscaling with added turbulence.\n  We adapt DMD for graphics applications by reducing computational overhead,\nincorporating user-defined force inputs, and optimizing memory usage with\nrandomized SVD. The integration of OptDMD and DMD with Control (DMDc)\nfacilitates noise-robust reconstruction and real-time user interaction. We\ndemonstrate the technique's robustness across diverse simulation scenarios,\nincluding artistic editing, time-reversal, and super-resolution.\n  Through experimental validation on challenging scenarios, such as colliding\nvortex rings and boundary-interacting plumes, our method also exhibits superior\nperformance and fidelity with significantly fewer basis functions compared to\nexisting spatial ROMs. The inherent linearity of the DMD operator enables\nunique application modes, such as time-reversible fluid simulation. This work\nestablishes another avenue for developing real-time, high-quality fluid\nsimulations, enriching the space of fluid simulation techniques in interactive\ngraphics and animation.",
+          "arxiv_id": "2502.05339v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "Effects of Realism and Representation on Self-Embodied Avatars in Immersive Virtual Environments",
+          "year": "2024-05",
+          "abstract": "Virtual Reality (VR) has recently gained traction with many new and ever more\naffordable devices being released. The increase in popularity of this paradigm\nof interaction has given birth to new applications and has attracted casual\nconsumers to experience VR. Providing a self-embodied representation (avatar)\nof users' full bodies inside shared virtual spaces can improve the VR\nexperience and make it more engaging to both new and experienced users . This\nis especially important in fully immersive systems, where the equipment\ncompletely occludes the real world making self awareness problematic. Indeed,\nthe feeling of presence of the user is highly influenced by their virtual\nrepresentations, even though small flaws could lead to uncanny valley\nside-effects. Following previous research, we would like to assess whether\nusing a third-person perspective could also benefit the VR experience, via an\nimproved spatial awareness of the user's virtual surroundings. In this paper we\ninvestigate realism and perspective of self-embodied representation in VR\nsetups in natural tasks, such as walking and avoiding obstacles. We compare\nboth First and Third-Person perspectives with three different levels of realism\nin avatar representation. These range from a stylized abstract avatar, to a\n\"realistic\" mesh-based humanoid representation and a point-cloud rendering. The\nlatter uses data captured via depth-sensors and mapped into a virtual self\ninside the Virtual Environment. We present a throughout evaluation and\ncomparison of these different representations, describing a series of\nguidelines for self-embodied VR applications. The effects of the uncanny valley\nare also discussed in the context of navigation and reflex-based tasks.",
+          "arxiv_id": "2405.02672v1"
+        },
+        {
+          "title": "Evaluation of Virtual Reality Interaction Techniques: the case of 3D Graph",
+          "year": "2023-02",
+          "abstract": "The virtual reality (VR) and human-computer interaction (HCI) combination has\nradically changed the way users approach a virtual environment, increasing the\nfeeling of VR immersion, and improving the user experience and usability. The\nevolution of these two technologies led to the focus on VR locomotion and\ninteraction. Locomotion is generally controller-based, but today hand gesture\nrecognition methods were also used for this purpose. However, hand gestures can\nbe stressful for the user who has to keep the gesture activation for a long\ntime to ensure locomotion, especially continuously. Likewise, in Head Mounted\nDisplay (HMD)-based virtual environment or Spherical-based system, the use of\nclassic controllers for the 3D scene interaction could be unnatural for the\nuser compared to using hand gestures such \\eg pinching to grab 3D objects. To\naddress these issues, we propose a user study comparing the use of the classic\ncontrollers (six-degree-of-freedom (6-DOF) or trackballs) in HMD and\nspherical-based systems, and the hand tracking and gestures in both VR\nimmersive modes. In particular, we focused on the possible differences between\nspherical-based systems and HMD in terms of the level of immersion perceived by\nthe user, the mode of user interaction (controller and hands), on the reaction\nof users concerning usefulness, easiness, and behavioral intention to use.",
+          "arxiv_id": "2302.05660v1"
+        },
+        {
+          "title": "Using Virtual Reality as a Simulation Tool for Augmented Reality Virtual Windows: Effects on Cognitive Workload and Task Performance",
+          "year": "2024-09",
+          "abstract": "Virtual content in Augmented Reality (AR) applications can be constructed\naccording to the designer's requirements, but real environments, are difficult\nto be accurate control or completely reproduce. This makes it difficult to\nprototype AR applications for certain real environments. One way to address\nthis issue is to use Virtual Reality (VR) to simulate an AR system, enabling\nthe design of controlled experiments and conducting usability evaluations.\nHowever, the effectiveness of using VR to simulate AR has not been well\nstudied. In this paper, we report on a user study (N=20) conducted to\ninvestigate the impact of using an VR simulation of AR on participants' task\nperformance and cognitive workload (CWL). Participants performed several office\ntasks in an AR scene with virtual monitors and then again in the VR-simulated\nAR scene. While using the interfaces CWL was measured with\nElectroencephalography (EEG) data and a subjective questionnaire. Results\nshowed that frequent visual checks on the keyboard resulted in decreased task\nperformance and increased cognitive workload. This study found that using AR\ncentered on virtual monitor can be effectively simulated using VR. However,\nthere is more research that can be done, so we also report on the study\nlimitations and directions for future work.",
+          "arxiv_id": "2409.16037v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Minimizing Ray Tracing Memory Traffic through Quantized Structures and Ray Stream Tracing",
+          "year": "2025-05",
+          "abstract": "Memory bandwidth constraints continue to be a significant limiting factor in\nray tracing performance, particularly as scene complexity grows and\ncomputational capabilities outpace memory access speeds. This paper presents a\nmemory-efficient ray tracing methodology that integrates compressed data\nstructures with ray stream techniques to reduce memory traffic. The approach\nimplements compressed BVH and triangle representations to minimize acceleration\nstructure size in combination with ray stream tracing to reduce traversal stack\nmemory traffic. The technique employs fixed-point arithmetic for intersection\ntests for prospective hardware with tailored integer operations. Despite using\nreduced precision, geometric holes are avoided by leveraging fixed-point\narithmetic instead of encountering the floating-point rounding errors common in\ntraditional approaches. Quantitative analysis demonstrates significant memory\ntraffic reduction across various scene complexities and BVH configurations. The\npresented 8-wide BVH ray stream implementation reduces memory traffic to only\n18% of traditional approaches by using 8-bit quantization for box and triangle\ncoordinates and directly ray tracing these quantized structures. These\nreductions are especially beneficial for bandwidth-constrained hardware\nenvironments such as mobile devices. This integrated approach addresses both\nmemory bandwidth limitations and numerical precision challenges inherent to\nmodern ray tracing applications.",
+          "arxiv_id": "2505.24653v1"
+        },
+        {
+          "title": "Mìmir: A real-time interactive visualization library for CUDA programs",
+          "year": "2025-04",
+          "abstract": "Real-time visualization of computational simulations running over graphics\nprocessing units (GPU) is a valuable feature in modern science and\ntechnological research, as it allows researchers to visually assess the quality\nand correctness of their computational models during the simulation. Due to the\nhigh throughput involved in GPU-based simulations, classical visualization\napproaches such as ones based on copying to RAM or storage are not feasible\nanymore, as they imply large memory transfers between GPU and CPU at each\nmoment, reducing both computational performance and interactivity. Implementing\nreal-time visualizers for GPU simulation codes is a challenging task as it\ninvolves dealing with i) low-level integration of graphics APIs (e.g, OpenGL\nand Vulkan) into the general-purpose GPU code, ii) a careful and efficient\nhandling of memory spaces and iii) finding a balance between rendering and\ncomputing as both need the GPU resources. In this work we present M\\`imir, a\nCUDA/Vulkan interoperability C++ library that allows users to add real-time\n2D/3D visualization to CUDA codes with low programming effort. With M\\`imir,\nresearchers can leverage state-of-the-art CUDA/Vulkan interoperability features\nwithout needing to invest time in learning the complex low-level technical\naspects involved. Internally, M\\`imir streamlines the interoperability mapping\nbetween CUDA device memory containing simulation data and Vulkan graphics\nresources, so that changes on the data are instantly reflected in the\nvisualization. This abstraction scheme allows generating visualizations with\nminimal alteration over the original source code, needing only to replace the\nGPU memory allocation lines of the data to be visualized by the API calls\nprovided by M\\`imir among other optional changes.",
+          "arxiv_id": "2504.20937v1"
+        },
+        {
+          "title": "Scalable Ray Tracing Using the Distributed FrameBuffer",
+          "year": "2023-05",
+          "abstract": "Image- and data-parallel rendering across multiple nodes on high-performance\ncomputing systems is widely used in visualization to provide higher frame\nrates, support large data sets, and render data in situ. Specifically for in\nsitu visualization, reducing bottlenecks incurred by the visualization and\ncompositing is of key concern to reduce the overall simulation runtime.\nMoreover, prior algorithms have been designed to support either image- or\ndata-parallel rendering and impose restrictions on the data distribution,\nrequiring different implementations for each configuration. In this paper, we\nintroduce the Distributed FrameBuffer, an asynchronous image-processing\nframework for multi-node rendering. We demonstrate that our approach achieves\nperformance superior to the state of the art for common use cases, while\nproviding the flexibility to support a wide range of parallel rendering\nalgorithms and data distributions. By building on this framework, we extend the\nopen-source ray tracing library OSPRay with a data-distributed API, enabling\nits use in data-distributed and in situ visualization applications.",
+          "arxiv_id": "2305.07083v1"
+        }
+      ],
+      "10": [
+        {
+          "title": "Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation",
+          "year": "2024-12",
+          "abstract": "Text-driven human motion synthesis is capturing significant attention for its\nability to effortlessly generate intricate movements from abstract text cues,\nshowcasing its potential for revolutionizing motion design not only in film\nnarratives but also in virtual reality experiences and computer game\ndevelopment. Existing methods often rely on 3D motion capture data, which\nrequire special setups resulting in higher costs for data acquisition,\nultimately limiting the diversity and scope of human motion. In contrast, 2D\nhuman videos offer a vast and accessible source of motion data, covering a\nwider range of styles and activities. In this paper, we explore leveraging 2D\nhuman motion extracted from videos as an alternative data source to improve\ntext-driven 3D motion generation. Our approach introduces a novel framework\nthat disentangles local joint motion from global movements, enabling efficient\nlearning of local motion priors from 2D data. We first train a single-view 2D\nlocal motion generator on a large dataset of text-motion pairs. To enhance this\nmodel to synthesize 3D motion, we fine-tune the generator with 3D data,\ntransforming it into a multi-view generator that predicts view-consistent local\njoint motion and root dynamics. Experiments on the HumanML3D dataset and novel\ntext prompts demonstrate that our method efficiently utilizes 2D data,\nsupporting realistic 3D human motion generation and broadening the range of\nmotion types it supports. Our code will be made publicly available at\nhttps://zju3dv.github.io/Motion-2-to-3/.",
+          "arxiv_id": "2412.13111v1"
+        },
+        {
+          "title": "MotionGPT: Human Motion as a Foreign Language",
+          "year": "2023-06",
+          "abstract": "Though the advancement of pre-trained large language models unfolds, the\nexploration of building a unified model for language and other multi-modal\ndata, such as motion, remains challenging and untouched so far. Fortunately,\nhuman motion displays a semantic coupling akin to human language, often\nperceived as a form of body language. By fusing language data with large-scale\nmotion models, motion-language pre-training that can enhance the performance of\nmotion-related tasks becomes feasible. Driven by this insight, we propose\nMotionGPT, a unified, versatile, and user-friendly motion-language model to\nhandle multiple motion-relevant tasks. Specifically, we employ the discrete\nvector quantization for human motion and transfer 3D motion into motion tokens,\nsimilar to the generation process of word tokens. Building upon this \"motion\nvocabulary\", we perform language modeling on both motion and text in a unified\nmanner, treating human motion as a specific language. Moreover, inspired by\nprompt learning, we pre-train MotionGPT with a mixture of motion-language data\nand fine-tune it on prompt-based question-and-answer tasks. Extensive\nexperiments demonstrate that MotionGPT achieves state-of-the-art performances\non multiple motion tasks including text-driven motion generation, motion\ncaptioning, motion prediction, and motion in-between.",
+          "arxiv_id": "2306.14795v2"
+        },
+        {
+          "title": "SMooGPT: Stylized Motion Generation using Large Language Models",
+          "year": "2025-09",
+          "abstract": "Stylized motion generation is actively studied in computer graphics,\nespecially benefiting from the rapid advances in diffusion models. The goal of\nthis task is to produce a novel motion respecting both the motion content and\nthe desired motion style, e.g., ``walking in a loop like a Monkey''. Existing\nresearch attempts to address this problem via motion style transfer or\nconditional motion generation. They typically embed the motion style into a\nlatent space and guide the motion implicitly in a latent space as well. Despite\nthe progress, their methods suffer from low interpretability and control,\nlimited generalization to new styles, and fail to produce motions other than\n``walking'' due to the strong bias in the public stylization dataset. In this\npaper, we propose to solve the stylized motion generation problem from a new\nperspective of reasoning-composition-generation, based on our observations: i)\nhuman motion can often be effectively described using natural language in a\nbody-part centric manner, ii) LLMs exhibit a strong ability to understand and\nreason about human motion, and iii) human motion has an inherently\ncompositional nature, facilitating the new motion content or style generation\nvia effective recomposing. We thus propose utilizing body-part text space as an\nintermediate representation, and present SMooGPT, a fine-tuned LLM, acting as a\nreasoner, composer, and generator when generating the desired stylized motion.\nOur method executes in the body-part text space with much higher\ninterpretability, enabling fine-grained motion control, effectively resolving\npotential conflicts between motion content and style, and generalizes well to\nnew styles thanks to the open-vocabulary ability of LLMs. Comprehensive\nexperiments and evaluations, and a user perceptual study, demonstrate the\neffectiveness of our approach, especially under the pure text-driven stylized\nmotion generation.",
+          "arxiv_id": "2509.04058v1"
+        }
+      ],
+      "11": [
+        {
+          "title": "A Computational Design and Evaluation Tool for 3D Structures with Planar Surfaces",
+          "year": "2021-03",
+          "abstract": "Three dimensional (3D) structures composed of planar surfaces can be build\nout of accessible materials using easier fabrication technique with shorter\nfabrication time. To better design 3D structures with planar surfaces,\nrealistic models are required to understand and evaluate mechanical behaviors.\nExisting design tools are either effort-consuming (e.g. finite element\nanalysis) or bounded by assumptions (e.g. numerical solutions). In this\nproject, We have built a computational design tool that is (1) capable of\nrapidly and inexpensively evaluating planar surfaces in 3D structures, with\nsufficient computational efficiency and accuracy; (2) applicable to complex\nboundary conditions and loading conditions, both isotropic materials and\northotropic materials; and (3) suitable for rapid accommodation when design\nparameters need to be adjusted. We demonstrate the efficiency and necessity of\nthis design tool by evaluating a glass table as well as a wood bookcase, and\niteratively designing an origami gripper to satisfy performance requirements.\nThis design tool gives non-expert users as well as engineers a simple and\neffective modus operandi in structural design.",
+          "arxiv_id": "2103.02114v1"
+        },
+        {
+          "title": "Direction-Oriented Stress-Constrained Topology Optimization of Orthotropic Materials",
+          "year": "2021-12",
+          "abstract": "Efficient optimization of topology and raster angle has shown unprecedented\nenhancements in the mechanical properties of 3D printed materials. Topology\noptimization helps reduce the waste of raw material in the fabrication of 3D\nprinted parts, thus decreasing production costs associated with manufacturing\nlighter structures. Fiber orientation plays an important role in increasing the\nstiffness of a structure. This paper develops and tests a new method for\nhandling stress constraints in topology and fiber orientation optimization of\n3D printed orthotropic structures. The stress constraints are coupled with an\nobjective function that maximizes stiffness. This is accomplished by using the\nmodified solid isotropic material with penalization method with the method of\nmoving asymptotes as the mathematical optimizer. Each element has a fictitious\ndensity and an angle as the main design variables. To reduce the number of\nstress constraints and thus the computational cost, a new clustering strategy\nis employed in which the highest stresses in the principal material coordinates\nare grouped separately into two clusters using an adjusted $P$-norm. A detailed\ndescription of the formulation and sensitivity analysis is discussed. While we\npresent an analysis of 2D structures in the numerical examples section, the\nmethod can also be used for 3D structures, as the formulation is generic. Our\nresults show that this method can produce efficient structures suitable for 3D\nprinting while thresholding the stresses.",
+          "arxiv_id": "2112.02030v2"
+        },
+        {
+          "title": "Encoding of direct 4D printing of isotropic single-material system for double-curvature and multimodal morphing",
+          "year": "2022-05",
+          "abstract": "The ability to morph flat sheets into complex 3D shapes is extremely useful\nfor fast manufacturing and saving materials while also allowing volumetrically\nefficient storage and shipment and a functional use. Direct 4D printing is a\ncompelling method to morph complex 3D shapes out of as-printed 2D plates.\nHowever, most direct 4D printing methods require multi-material systems\ninvolving costly machines. Moreover, most works have used an open-cell design\nfor shape shifting by encoding a collection of 1D rib deformations, which\ncannot remain structurally stable. Here, we demonstrate the direct 4D printing\nof an isotropic single-material system to morph 2D continuous bilayer plates\ninto doubly curved and multimodal 3D complex shapes whose geometry can also be\nlocked after deployment. We develop an inverse-design algorithm that integrates\nextrusion-based 3D printing of a single-material system to directly morph a raw\nprinted sheet into complex 3D geometries such as a doubly curved surface with\nshape locking. Furthermore, our inverse-design tool encodes the localized\nshape-memory anisotropy during the process, providing the processing conditions\nfor a target 3D morphed geometry. Our approach could be used for conventional\nextrusion-based 3D printing for various applications including biomedical\ndevices, deployable structures, smart textiles, and pop-up Kirigami structures.",
+          "arxiv_id": "2205.02510v1"
+        }
+      ],
+      "12": [
+        {
+          "title": "Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis",
+          "year": "2020-06",
+          "abstract": "Reinforcement learning has shown great promise for synthesizing realistic\nhuman behaviors by learning humanoid control policies from motion capture data.\nHowever, it is still very challenging to reproduce sophisticated human skills\nlike ballet dance, or to stably imitate long-term human behaviors with complex\ntransitions. The main difficulty lies in the dynamics mismatch between the\nhumanoid model and real humans. That is, motions of real humans may not be\nphysically possible for the humanoid model. To overcome the dynamics mismatch,\nwe propose a novel approach, residual force control (RFC), that augments a\nhumanoid control policy by adding external residual forces into the action\nspace. During training, the RFC-based policy learns to apply residual forces to\nthe humanoid to compensate for the dynamics mismatch and better imitate the\nreference motion. Experiments on a wide range of dynamic motions demonstrate\nthat our approach outperforms state-of-the-art methods in terms of convergence\nspeed and the quality of learned motions. Notably, we showcase a physics-based\nvirtual character empowered by RFC that can perform highly agile ballet dance\nmoves such as pirouette, arabesque and jet\\'e. Furthermore, we propose a\ndual-policy control framework, where a kinematic policy and an RFC-based policy\nwork in tandem to synthesize multi-modal infinite-horizon human motions without\nany task guidance or user input. Our approach is the first humanoid control\nmethod that successfully learns from a large-scale human motion dataset\n(Human3.6M) and generates diverse long-term motions. Code and videos are\navailable at https://www.ye-yuan.com/rfc.",
+          "arxiv_id": "2006.07364v2"
+        },
+        {
+          "title": "ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters",
+          "year": "2022-05",
+          "abstract": "The incredible feats of athleticism demonstrated by humans are made possible\nin part by a vast repertoire of general-purpose motor skills, acquired through\nyears of practice and experience. These skills not only enable humans to\nperform complex tasks, but also provide powerful priors for guiding their\nbehaviors when learning new tasks. This is in stark contrast to what is common\npractice in physics-based character animation, where control policies are most\ntypically trained from scratch for each task. In this work, we present a\nlarge-scale data-driven framework for learning versatile and reusable skill\nembeddings for physically simulated characters. Our approach combines\ntechniques from adversarial imitation learning and unsupervised reinforcement\nlearning to develop skill embeddings that produce life-like behaviors, while\nalso providing an easy to control representation for use on new downstream\ntasks. Our models can be trained using large datasets of unstructured motion\nclips, without requiring any task-specific annotation or segmentation of the\nmotion data. By leveraging a massively parallel GPU-based simulator, we are\nable to train skill embeddings using over a decade of simulated experiences,\nenabling our model to learn a rich and versatile repertoire of skills. We show\nthat a single pre-trained model can be effectively applied to perform a diverse\nset of new tasks. Our system also allows users to specify tasks through simple\nreward functions, and the skill embedding then enables the character to\nautomatically synthesize complex and naturalistic strategies in order to\nachieve the task objectives.",
+          "arxiv_id": "2205.01906v2"
+        },
+        {
+          "title": "AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control",
+          "year": "2021-04",
+          "abstract": "Synthesizing graceful and life-like behaviors for physically simulated\ncharacters has been a fundamental challenge in computer animation. Data-driven\nmethods that leverage motion tracking are a prominent class of techniques for\nproducing high fidelity motions for a wide range of behaviors. However, the\neffectiveness of these tracking-based methods often hinges on carefully\ndesigned objective functions, and when applied to large and diverse motion\ndatasets, these methods require significant additional machinery to select the\nappropriate motion for the character to track in a given scenario. In this\nwork, we propose to obviate the need to manually design imitation objectives\nand mechanisms for motion selection by utilizing a fully automated approach\nbased on adversarial imitation learning. High-level task objectives that the\ncharacter should perform can be specified by relatively simple reward\nfunctions, while the low-level style of the character's behaviors can be\nspecified by a dataset of unstructured motion clips, without any explicit clip\nselection or sequencing. These motion clips are used to train an adversarial\nmotion prior, which specifies style-rewards for training the character through\nreinforcement learning (RL). The adversarial RL procedure automatically selects\nwhich motion to perform, dynamically interpolating and generalizing from the\ndataset. Our system produces high-quality motions that are comparable to those\nachieved by state-of-the-art tracking-based techniques, while also being able\nto easily accommodate large datasets of unstructured motion clips. Composition\nof disparate skills emerges automatically from the motion prior, without\nrequiring a high-level motion planner or other task-specific annotations of the\nmotion clips. We demonstrate the effectiveness of our framework on a diverse\ncast of complex simulated characters and a challenging suite of motor control\ntasks.",
+          "arxiv_id": "2104.02180v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:55:39Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

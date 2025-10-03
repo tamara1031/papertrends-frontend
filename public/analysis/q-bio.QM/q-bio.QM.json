@@ -1,0 +1,1166 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_data_models_systems",
+        "keywords": [
+          [
+            "model",
+            0.02145227373306235
+          ],
+          [
+            "data",
+            0.01907508271156302
+          ],
+          [
+            "models",
+            0.01823864002050842
+          ],
+          [
+            "systems",
+            0.013907297026173647
+          ],
+          [
+            "cell",
+            0.013643114682295648
+          ],
+          [
+            "time",
+            0.013328527233902253
+          ],
+          [
+            "species",
+            0.012343473050626993
+          ],
+          [
+            "dynamics",
+            0.012222467839521543
+          ],
+          [
+            "analysis",
+            0.010011714489882625
+          ],
+          [
+            "networks",
+            0.009446355620212427
+          ]
+        ],
+        "count": 1342
+      },
+      "1": {
+        "name": "1_protein_drug_models_molecular",
+        "keywords": [
+          [
+            "protein",
+            0.029302493614940823
+          ],
+          [
+            "drug",
+            0.02878116583088286
+          ],
+          [
+            "models",
+            0.020272618006208897
+          ],
+          [
+            "molecular",
+            0.018775835471195212
+          ],
+          [
+            "learning",
+            0.018622607786346116
+          ],
+          [
+            "prediction",
+            0.018340127612374694
+          ],
+          [
+            "model",
+            0.01655637947523385
+          ],
+          [
+            "data",
+            0.015816518942744023
+          ],
+          [
+            "methods",
+            0.01405660978397641
+          ],
+          [
+            "molecules",
+            0.01311284768389394
+          ]
+        ],
+        "count": 1109
+      },
+      "2": {
+        "name": "2_data_cancer_learning_model",
+        "keywords": [
+          [
+            "data",
+            0.02343250268478742
+          ],
+          [
+            "cancer",
+            0.01862657683336159
+          ],
+          [
+            "learning",
+            0.0158396245807607
+          ],
+          [
+            "model",
+            0.014816138403947455
+          ],
+          [
+            "patients",
+            0.013916604475613019
+          ],
+          [
+            "clinical",
+            0.012897474103184902
+          ],
+          [
+            "models",
+            0.01268557549918135
+          ],
+          [
+            "analysis",
+            0.01162713508790864
+          ],
+          [
+            "cell",
+            0.0107405640978873
+          ],
+          [
+            "methods",
+            0.010510861318731232
+          ]
+        ],
+        "count": 1106
+      },
+      "3": {
+        "name": "3_brain_data_model_neural",
+        "keywords": [
+          [
+            "brain",
+            0.02841665359743995
+          ],
+          [
+            "data",
+            0.02171959184321826
+          ],
+          [
+            "model",
+            0.01696695765644954
+          ],
+          [
+            "neural",
+            0.013651839710034998
+          ],
+          [
+            "time",
+            0.012953004831411551
+          ],
+          [
+            "EEG",
+            0.012827533856693713
+          ],
+          [
+            "models",
+            0.012406452644508289
+          ],
+          [
+            "analysis",
+            0.011324376098184258
+          ],
+          [
+            "functional",
+            0.011102593316171649
+          ],
+          [
+            "network",
+            0.011023553705166503
+          ]
+        ],
+        "count": 690
+      },
+      "4": {
+        "name": "4_model_infection_epidemic_transmission",
+        "keywords": [
+          [
+            "model",
+            0.03386567711488787
+          ],
+          [
+            "infection",
+            0.027349973696952953
+          ],
+          [
+            "epidemic",
+            0.023020258418607966
+          ],
+          [
+            "transmission",
+            0.02255256053301044
+          ],
+          [
+            "data",
+            0.019607436321584175
+          ],
+          [
+            "disease",
+            0.018798104091989842
+          ],
+          [
+            "number",
+            0.018143280372127254
+          ],
+          [
+            "spread",
+            0.016986336756509797
+          ],
+          [
+            "time",
+            0.016881229197619807
+          ],
+          [
+            "pandemic",
+            0.016715552209227012
+          ]
+        ],
+        "count": 346
+      },
+      "5": {
+        "name": "5_microscopy_cell_image_segmentation",
+        "keywords": [
+          [
+            "microscopy",
+            0.04230185637896285
+          ],
+          [
+            "cell",
+            0.03600929852633106
+          ],
+          [
+            "image",
+            0.029236942680086055
+          ],
+          [
+            "segmentation",
+            0.02788477105216789
+          ],
+          [
+            "imaging",
+            0.02606277738398636
+          ],
+          [
+            "cells",
+            0.02211661505001487
+          ],
+          [
+            "images",
+            0.02142374576500491
+          ],
+          [
+            "tracking",
+            0.018429398709245575
+          ],
+          [
+            "analysis",
+            0.0179158117447294
+          ],
+          [
+            "data",
+            0.017250958053916503
+          ]
+        ],
+        "count": 191
+      },
+      "6": {
+        "name": "6_cell_cells_Raman_detection",
+        "keywords": [
+          [
+            "cell",
+            0.021947194699285747
+          ],
+          [
+            "cells",
+            0.018458640627620093
+          ],
+          [
+            "Raman",
+            0.01818175770644134
+          ],
+          [
+            "detection",
+            0.018041517276557107
+          ],
+          [
+            "nanoparticles",
+            0.014145242139248086
+          ],
+          [
+            "high",
+            0.01353559845836433
+          ],
+          [
+            "spectroscopy",
+            0.012577344549470373
+          ],
+          [
+            "applications",
+            0.012257074809782373
+          ],
+          [
+            "surface",
+            0.011874624372819408
+          ],
+          [
+            "optical",
+            0.01117367831628824
+          ]
+        ],
+        "count": 132
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4983861981591975,
+        -0.38767022814500307,
+        -0.4444082028627355,
+        -0.3932993390278928,
+        -0.6685115767738352,
+        -0.6201255596103381
+      ],
+      [
+        -0.4983861981591975,
+        1.0,
+        -0.6624446671971438,
+        -0.703193424877661,
+        -0.6876735452581411,
+        -0.7107942623161366,
+        -0.7335103589771299
+      ],
+      [
+        -0.38767022814500307,
+        -0.6624446671971438,
+        1.0,
+        -0.22400593166638594,
+        -0.6798997260554052,
+        -0.5838656507982003,
+        -0.5399162048468087
+      ],
+      [
+        -0.4444082028627355,
+        -0.703193424877661,
+        -0.22400593166638594,
+        1.0,
+        -0.6879930044647116,
+        -0.7034090006325546,
+        -0.5877821906417542
+      ],
+      [
+        -0.3932993390278928,
+        -0.6876735452581411,
+        -0.6798997260554052,
+        -0.6879930044647116,
+        1.0,
+        -0.7271424973277756,
+        -0.7045180993429616
+      ],
+      [
+        -0.6685115767738352,
+        -0.7107942623161366,
+        -0.5838656507982003,
+        -0.7034090006325546,
+        -0.7271424973277756,
+        1.0,
+        -0.5865635000697401
+      ],
+      [
+        -0.6201255596103381,
+        -0.7335103589771299,
+        -0.5399162048468087,
+        -0.5877821906417542,
+        -0.7045180993429616,
+        -0.5865635000697401,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        32,
+        1,
+        6,
+        3,
+        3,
+        11,
+        0
+      ],
+      "2020-02": [
+        45,
+        5,
+        7,
+        5,
+        4,
+        8,
+        0
+      ],
+      "2020-03": [
+        47,
+        2,
+        8,
+        4,
+        12,
+        11,
+        0
+      ],
+      "2020-04": [
+        40,
+        10,
+        8,
+        2,
+        43,
+        11,
+        0
+      ],
+      "2020-05": [
+        60,
+        8,
+        5,
+        3,
+        46,
+        7,
+        0
+      ],
+      "2020-06": [
+        52,
+        7,
+        5,
+        6,
+        23,
+        7,
+        0
+      ],
+      "2020-07": [
+        44,
+        4,
+        6,
+        4,
+        29,
+        10,
+        0
+      ],
+      "2020-08": [
+        38,
+        6,
+        8,
+        2,
+        21,
+        3,
+        0
+      ],
+      "2020-09": [
+        32,
+        4,
+        8,
+        1,
+        16,
+        6,
+        0
+      ],
+      "2020-10": [
+        44,
+        9,
+        5,
+        4,
+        11,
+        6,
+        0
+      ],
+      "2020-11": [
+        45,
+        10,
+        6,
+        7,
+        13,
+        6,
+        0
+      ],
+      "2020-12": [
+        38,
+        10,
+        8,
+        4,
+        12,
+        9,
+        0
+      ],
+      "2021-01": [
+        55,
+        4,
+        5,
+        1,
+        10,
+        3,
+        0
+      ],
+      "2021-02": [
+        41,
+        6,
+        7,
+        6,
+        12,
+        6,
+        0
+      ],
+      "2021-03": [
+        40,
+        5,
+        14,
+        4,
+        9,
+        8,
+        0
+      ],
+      "2021-04": [
+        28,
+        3,
+        4,
+        2,
+        6,
+        5,
+        0
+      ],
+      "2021-05": [
+        44,
+        6,
+        4,
+        5,
+        12,
+        4,
+        0
+      ],
+      "2021-06": [
+        37,
+        4,
+        5,
+        3,
+        9,
+        7,
+        0
+      ],
+      "2021-07": [
+        32,
+        10,
+        8,
+        3,
+        7,
+        9,
+        0
+      ],
+      "2021-08": [
+        38,
+        6,
+        9,
+        1,
+        16,
+        6,
+        0
+      ],
+      "2021-09": [
+        43,
+        4,
+        6,
+        3,
+        13,
+        2,
+        0
+      ],
+      "2021-10": [
+        61,
+        7,
+        7,
+        5,
+        11,
+        7,
+        0
+      ],
+      "2021-11": [
+        55,
+        10,
+        11,
+        3,
+        8,
+        12,
+        0
+      ],
+      "2021-12": [
+        44,
+        4,
+        5,
+        4,
+        4,
+        11,
+        0
+      ],
+      "2022-01": [
+        35,
+        11,
+        4,
+        5,
+        17,
+        5,
+        0
+      ],
+      "2022-02": [
+        45,
+        7,
+        4,
+        7,
+        6,
+        10,
+        0
+      ],
+      "2022-03": [
+        44,
+        5,
+        6,
+        2,
+        7,
+        9,
+        0
+      ],
+      "2022-04": [
+        37,
+        13,
+        9,
+        7,
+        6,
+        3,
+        0
+      ],
+      "2022-05": [
+        48,
+        11,
+        2,
+        1,
+        7,
+        11,
+        0
+      ],
+      "2022-06": [
+        51,
+        7,
+        6,
+        3,
+        14,
+        10,
+        1
+      ],
+      "2022-07": [
+        38,
+        9,
+        5,
+        2,
+        10,
+        6,
+        0
+      ],
+      "2022-08": [
+        53,
+        11,
+        3,
+        2,
+        11,
+        7,
+        0
+      ],
+      "2022-09": [
+        41,
+        12,
+        0,
+        1,
+        6,
+        11,
+        0
+      ],
+      "2022-10": [
+        43,
+        14,
+        9,
+        5,
+        11,
+        10,
+        1
+      ],
+      "2022-11": [
+        58,
+        19,
+        9,
+        9,
+        8,
+        8,
+        0
+      ],
+      "2022-12": [
+        38,
+        9,
+        7,
+        3,
+        5,
+        3,
+        0
+      ],
+      "2023-01": [
+        28,
+        7,
+        2,
+        5,
+        6,
+        11,
+        0
+      ],
+      "2023-02": [
+        38,
+        15,
+        7,
+        2,
+        11,
+        6,
+        0
+      ],
+      "2023-03": [
+        67,
+        9,
+        7,
+        4,
+        12,
+        10,
+        1
+      ],
+      "2023-04": [
+        43,
+        8,
+        7,
+        3,
+        9,
+        9,
+        0
+      ],
+      "2023-05": [
+        56,
+        9,
+        3,
+        2,
+        8,
+        9,
+        0
+      ],
+      "2023-06": [
+        39,
+        14,
+        7,
+        5,
+        6,
+        11,
+        0
+      ],
+      "2023-07": [
+        43,
+        11,
+        9,
+        6,
+        6,
+        10,
+        0
+      ],
+      "2023-08": [
+        47,
+        13,
+        8,
+        8,
+        6,
+        13,
+        0
+      ],
+      "2023-09": [
+        66,
+        10,
+        8,
+        1,
+        7,
+        12,
+        0
+      ],
+      "2023-10": [
+        48,
+        16,
+        4,
+        6,
+        7,
+        10,
+        1
+      ],
+      "2023-11": [
+        56,
+        17,
+        9,
+        4,
+        11,
+        12,
+        0
+      ],
+      "2023-12": [
+        58,
+        9,
+        8,
+        2,
+        12,
+        13,
+        0
+      ],
+      "2024-01": [
+        55,
+        9,
+        11,
+        6,
+        6,
+        11,
+        1
+      ],
+      "2024-02": [
+        71,
+        14,
+        6,
+        5,
+        10,
+        8,
+        0
+      ],
+      "2024-03": [
+        46,
+        10,
+        2,
+        7,
+        9,
+        15,
+        0
+      ],
+      "2024-04": [
+        48,
+        15,
+        8,
+        2,
+        8,
+        4,
+        2
+      ],
+      "2024-05": [
+        58,
+        22,
+        4,
+        4,
+        6,
+        11,
+        1
+      ],
+      "2024-06": [
+        49,
+        18,
+        11,
+        3,
+        13,
+        4,
+        1
+      ],
+      "2024-07": [
+        59,
+        13,
+        3,
+        5,
+        9,
+        15,
+        0
+      ],
+      "2024-08": [
+        43,
+        7,
+        5,
+        1,
+        6,
+        10,
+        0
+      ],
+      "2024-09": [
+        52,
+        19,
+        7,
+        12,
+        12,
+        12,
+        0
+      ],
+      "2024-10": [
+        80,
+        14,
+        14,
+        4,
+        9,
+        13,
+        1
+      ],
+      "2024-11": [
+        66,
+        22,
+        4,
+        6,
+        8,
+        8,
+        1
+      ],
+      "2024-12": [
+        51,
+        12,
+        12,
+        3,
+        12,
+        6,
+        1
+      ],
+      "2025-01": [
+        59,
+        9,
+        5,
+        6,
+        9,
+        12,
+        1
+      ],
+      "2025-02": [
+        57,
+        16,
+        8,
+        2,
+        8,
+        8,
+        0
+      ],
+      "2025-03": [
+        74,
+        8,
+        9,
+        7,
+        15,
+        11,
+        0
+      ],
+      "2025-04": [
+        51,
+        19,
+        4,
+        1,
+        10,
+        11,
+        2
+      ],
+      "2025-05": [
+        91,
+        24,
+        4,
+        3,
+        12,
+        12,
+        0
+      ],
+      "2025-06": [
+        61,
+        20,
+        10,
+        5,
+        9,
+        14,
+        0
+      ],
+      "2025-07": [
+        70,
+        15,
+        10,
+        4,
+        6,
+        16,
+        1
+      ],
+      "2025-08": [
+        76,
+        11,
+        9,
+        7,
+        7,
+        14,
+        1
+      ],
+      "2025-09": [
+        32,
+        6,
+        3,
+        2,
+        6,
+        4,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The mass-conversion method: a hybrid technique for simulating well-mixed chemical reaction networks",
+          "year": "2022-10",
+          "abstract": "There exist several methods for simulating biological and physical systems as\nrepresented by chemical reaction networks. Systems with low numbers of\nparticles are frequently modelled as discrete-state Markov jump processes and\nare typically simulated via a stochastic simulation algorithm (SSA). An SSA,\nwhile accurate, is often unsuitable for systems with large numbers of\nindividuals, and can become prohibitively expensive with increasing reaction\nfrequency. Large systems are often modelled deterministically using ordinary\ndifferential equations, sacrificing accuracy and stochasticity for\ncomputational efficiency and analytical tractability. In this paper, we present\na novel hybrid technique for the accurate and efficient simulation of large\nchemical reaction networks. This technique, which we name the mass-conversion\nmethod, couples a discrete-state Markov jump process to a system of ordinary\ndifferential equations by simulating a reaction network using both techniques\nsimultaneously. Individual molecules in the network are represented by exactly\none regime at any given time, and may switch their governing regime depending\non particle density. In this manner, we model high copy-number species using\nthe cheaper continuum method and low copy-number species using the more\nexpensive, discrete-state stochastic method to preserve the impact of\nstochastic fluctuations at low copy number. The motivation, as with similar\nmethods, is to retain the advantages while mitigating the shortfalls of each\nmethod. We demonstrate the performance and accuracy of our method for several\ntest problems that exhibit varying degrees of inter-connectivity and complexity\nby comparing averaged trajectories obtained from both our method and from exact\nstochastic simulation.",
+          "arxiv_id": "2210.12106v1"
+        },
+        {
+          "title": "A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models",
+          "year": "2025-05",
+          "abstract": "Advances in experimental techniques allow the collection of high-resolution\nspatio-temporal data that track individual motile entities. These tracking data\ncan be used to calibrate mathematical models describing the motility of\nindividual entities. The challenges in calibrating models for single-agent\nmotion derive from the intrinsic characteristics of experimental data,\ncollected at discrete time steps and with measurement noise. We consider motion\nof individual agents that can be described by velocity-jump models in one\nspatial dimension. These agents transition between a network of \\textit{n}\nstates, in which each state is associated with a fixed velocity and fixed rates\nof switching to every other state. Exploiting approximate solutions to the\nresultant stochastic process, we develop a Bayesian inference framework to\ncalibrate these models to discrete-time noisy data. We first demonstrate that\nthe framework can be used to effectively recover the model parameters of data\nsimulated from two-state and three-state models. Finally, we explore the\nquestion of model selection first using simulated data and then using\nexperimental data tracking mRNA transport inside \\textit{Drosophila} neurons.\nOverall, our results demonstrate that the framework is effective and efficient\nin calibrating and selecting between velocity-jump models and it can be applied\nto a range of motion processes.",
+          "arxiv_id": "2505.19292v2"
+        },
+        {
+          "title": "Learning Equations from Biological Data with Limited Time Samples",
+          "year": "2020-05",
+          "abstract": "Equation learning methods present a promising tool to aid scientists in the\nmodeling process for biological data. Previous equation learning studies have\ndemonstrated that these methods can infer models from rich datasets, however,\nthe performance of these methods in the presence of common challenges from\nbiological data has not been thoroughly explored. We present an equation\nlearning methodology comprised of data denoising, equation learning, model\nselection and post-processing steps that infers a dynamical systems model from\nnoisy spatiotemporal data. The performance of this methodology is thoroughly\ninvestigated in the face of several common challenges presented by biological\ndata, namely, sparse data sampling, large noise levels, and heterogeneity\nbetween datasets. We find that this methodology can accurately infer the\ncorrect underlying equation and predict unobserved system dynamics from a small\nnumber of time samples when the data is sampled over a time interval exhibiting\nboth linear and nonlinear dynamics. Our findings suggest that equation learning\nmethods can be used for model discovery and selection in many areas of biology\nwhen an informative dataset is used. We focus on glioblastoma multiforme\nmodeling as a case study in this work to highlight how these results are\ninformative for data-driven modeling-based tumor invasion predictions.",
+          "arxiv_id": "2005.09622v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "SELFormer: Molecular Representation Learning via SELFIES Language Models",
+          "year": "2023-04",
+          "abstract": "Automated computational analysis of the vast chemical space is critical for\nnumerous fields of research such as drug discovery and material science.\nRepresentation learning techniques have recently been employed with the primary\nobjective of generating compact and informative numerical expressions of\ncomplex data. One approach to efficiently learn molecular representations is\nprocessing string-based notations of chemicals via natural language processing\n(NLP) algorithms. Majority of the methods proposed so far utilize SMILES\nnotations for this purpose; however, SMILES is associated with numerous\nproblems related to validity and robustness, which may prevent the model from\neffectively uncovering the knowledge hidden in the data. In this study, we\npropose SELFormer, a transformer architecture-based chemical language model\nthat utilizes a 100% valid, compact and expressive notation, SELFIES, as input,\nin order to learn flexible and high-quality molecular representations.\nSELFormer is pre-trained on two million drug-like compounds and fine-tuned for\ndiverse molecular property prediction tasks. Our performance evaluation has\nrevealed that, SELFormer outperforms all competing methods, including graph\nlearning-based approaches and SMILES-based chemical language models, on\npredicting aqueous solubility of molecules and adverse drug reactions. We also\nvisualized molecular representations learned by SELFormer via dimensionality\nreduction, which indicated that even the pre-trained model can discriminate\nmolecules with differing structural properties. We shared SELFormer as a\nprogrammatic tool, together with its datasets and pre-trained models. Overall,\nour research demonstrates the benefit of using the SELFIES notations in the\ncontext of chemical language modeling and opens up new possibilities for the\ndesign and discovery of novel drug candidates with desired features.",
+          "arxiv_id": "2304.04662v2"
+        },
+        {
+          "title": "BridgeDPI: A Novel Graph Neural Network for Predicting Drug-Protein Interactions",
+          "year": "2021-01",
+          "abstract": "Motivation: Exploring drug-protein interactions (DPIs) work as a pivotal step\nin drug discovery. The fast expansion of available biological data enables\ncomputational methods effectively assist in experimental methods. Among them,\ndeep learning methods extract features only from basic characteristics, such as\nprotein sequences, molecule structures. Others achieve significant improvement\nby learning from not only sequences/molecules but the protein-protein and\ndrug-drug associations (PPAs and DDAs). The PPAs and DDAs are generally\nobtained by using computational methods. However, existing computational\nmethods have some limitations, resulting in low-quality PPAs and DDAs that\nhamper the prediction performance. Therefore, we hope to develop a novel\nsupervised learning method to learn the PPAs and DDAs effectively and thereby\nimprove the prediction performance of the specific task of DPI. Results: In\nthis research, we propose a novel deep learning framework, namely BridgeDPI.\nBridgeDPI introduces a class of nodes named hyper-nodes, which bridge different\nproteins/drugs to work as PPAs and DDAs. The hyper-nodes can be supervised\nlearned for the specific task of DPI since the whole process is an end-to-end\nlearning. Consequently, such a model would improve prediction performance of\nDPI. In three real-world datasets, we further demonstrate that BridgeDPI\noutperforms state-of-the-art methods. Moreover, ablation studies verify the\neffectiveness of the hyper-nodes. Last, in an independent verification,\nBridgeDPI explores the candidate bindings among COVID-19's proteins and various\nantiviral drugs. And the predictive results accord with the statement of the\nWorld Health Organization and Food and Drug Administration, showing the\nvalidity and reliability of BridgeDPI.",
+          "arxiv_id": "2101.12547v1"
+        },
+        {
+          "title": "CogMol: Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models",
+          "year": "2020-04",
+          "abstract": "The novel nature of SARS-CoV-2 calls for the development of efficient de novo\ndrug design approaches. In this study, we propose an end-to-end framework,\nnamed CogMol (Controlled Generation of Molecules), for designing new drug-like\nsmall molecules targeting novel viral proteins with high affinity and\noff-target selectivity. CogMol combines adaptive pre-training of a molecular\nSMILES Variational Autoencoder (VAE) and an efficient multi-attribute\ncontrolled sampling scheme that uses guidance from attribute predictors trained\non latent features. To generate novel and optimal drug-like molecules for\nunseen viral targets, CogMol leverages a protein-molecule binding affinity\npredictor that is trained using SMILES VAE embeddings and protein sequence\nembeddings learned unsupervised from a large corpus. CogMol framework is\napplied to three SARS-CoV-2 target proteins: main protease, receptor-binding\ndomain of the spike protein, and non-structural protein 9 replicase. The\ngenerated candidates are novel at both molecular and chemical scaffold levels\nwhen compared to the training data. CogMol also includes insilico screening for\nassessing toxicity of parent molecules and their metabolites with a multi-task\ntoxicity classifier, synthetic feasibility with a chemical retrosynthesis\npredictor, and target structure binding with docking simulations. Docking\nreveals favorable binding of generated molecules to the target protein\nstructure, where 87-95 % of high affinity molecules showed docking free energy\n< -6 kcal/mol. When compared to approved drugs, the majority of designed\ncompounds show low parent molecule and metabolite toxicity and high synthetic\nfeasibility. In summary, CogMol handles multi-constraint design of\nsynthesizable, low-toxic, drug-like molecules with high target specificity and\nselectivity, and does not need target-dependent fine-tuning of the framework or\ntarget structure information.",
+          "arxiv_id": "2004.01215v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Domain-specific transfer learning in the automated scoring of tumor-stroma ratio from histopathological images of colorectal cancer",
+          "year": "2022-12",
+          "abstract": "Tumor-stroma ratio (TSR) is a prognostic factor for many types of solid\ntumors. In this study, we propose a method for automated estimation of TSR from\nhistopathological images of colorectal cancer. The method is based on\nconvolutional neural networks which were trained to classify colorectal cancer\ntissue in hematoxylin-eosin stained samples into three classes: stroma, tumor\nand other. The models were trained using a data set that consists of 1343 whole\nslide images. Three different training setups were applied with a transfer\nlearning approach using domain-specific data i.e. an external colorectal cancer\nhistopathological data set. The three most accurate models were chosen as a\nclassifier, TSR values were predicted and the results were compared to a visual\nTSR estimation made by a pathologist. The results suggest that classification\naccuracy does not improve when domain-specific data are used in the\npre-training of the convolutional neural network models in the task at hand.\nClassification accuracy for stroma, tumor and other reached 96.1$\\%$ on an\nindependent test set. Among the three classes the best model gained the highest\naccuracy (99.3$\\%$) for class tumor. When TSR was predicted with the best\nmodel, the correlation between the predicted values and values estimated by an\nexperienced pathologist was 0.57. Further research is needed to study\nassociations between computationally predicted TSR values and other\nclinicopathological factors of colorectal cancer and the overall survival of\nthe patients.",
+          "arxiv_id": "2212.14652v1"
+        },
+        {
+          "title": "A Pragmatic Machine Learning Approach to Quantify Tumor Infiltrating Lymphocytes in Whole Slide Images",
+          "year": "2022-02",
+          "abstract": "Increased levels of tumor infiltrating lymphocytes (TILs) in cancer tissue\nindicate favourable outcomes in many types of cancer. Manual quantification of\nimmune cells is inaccurate and time consuming for pathologists. Our aim is to\nleverage a computational solution to automatically quantify TILs in whole slide\nimages (WSIs) of standard diagnostic haematoxylin and eosin stained sections\n(H&E slides) from lung cancer patients. Our approach is to transfer an open\nsource machine learning method for segmentation and classification of nuclei in\nH&E slides trained on public data to TIL quantification without manual labeling\nof our data. Our results show that additional augmentation improves model\ntransferability when training on few samples/limited tissue types. Models\ntrained with sufficient samples/tissue types do not benefit from our additional\naugmentation policy. Further, the resulting TIL quantification correlates to\npatient prognosis and compares favorably to the current state-of-the-art method\nfor immune cell detection in non-small lung cancer (current standard CD8 cells\nin DAB stained TMAs HR 0.34 95% CI 0.17-0.68 vs TILs in HE WSIs: HoVer-Net\nPanNuke Aug Model HR 0.30 95% CI 0.15-0.60, HoVer-Net MoNuSAC Aug model HR 0.27\n95% CI 0.14-0.53). Moreover, we implemented a cloud based system to train,\ndeploy and visually inspect machine learning based annotation for H&E slides.\nOur pragmatic approach bridges the gap between machine learning research,\ntranslational clinical research and clinical implementation. However,\nvalidation in prospective studies is needed to assert that the method works in\na clinical setting.",
+          "arxiv_id": "2202.06590v1"
+        },
+        {
+          "title": "Deep Learning Based Model for Breast Cancer Subtype Classification",
+          "year": "2021-11",
+          "abstract": "Breast cancer has long been a prominent cause of mortality among women.\nDiagnosis, therapy, and prognosis are now possible, thanks to the availability\nof RNA sequencing tools capable of recording gene expression data. Molecular\nsubtyping being closely related to devising clinical strategy and prognosis,\nthis paper focuses on the use of gene expression data for the classification of\nbreast cancer into four subtypes, namely, Basal, Her2, LumA, and LumB. In stage\n1, we suggested a deep learning-based model that uses an autoencoder to reduce\ndimensionality. The size of the feature set is reduced from 20,530 gene\nexpression values to 500 by using an autoencoder. This encoded representation\nis passed to the deep neural network of the second stage for the classification\nof patients into four molecular subtypes of breast cancer. By deploying the\ncombined network of stages 1 and 2, we have been able to attain a mean 10-fold\ntest accuracy of 0.907 on the TCGA breast cancer dataset. The proposed\nframework is fairly robust throughout 10 different runs, as shown by the\nboxplot for classification accuracy. Compared to related work reported in the\nliterature, we have achieved a competitive outcome. In conclusion, the proposed\ntwo-stage deep learning-based model is able to accurately classify four breast\ncancer subtypes, highlighting the autoencoder's capacity to deduce the compact\nrepresentation and the neural network classifier's ability to correctly label\nbreast cancer patients.",
+          "arxiv_id": "2111.03923v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Deep Learning Identifies Neuroimaging Signatures of Alzheimer's Disease Using Structural and Synthesized Functional MRI Data",
+          "year": "2021-04",
+          "abstract": "Current neuroimaging techniques provide paths to investigate the structure\nand function of the brain in vivo and have made great advances in understanding\nAlzheimer's disease (AD). However, the group-level analyses prevalently used\nfor investigation and understanding of the disease are not applicable for\ndiagnosis of individuals. More recently, deep learning, which can efficiently\nanalyze large-scale complex patterns in 3D brain images, has helped pave the\nway for computer-aided individual diagnosis by providing accurate and automated\ndisease classification. Great progress has been made in classifying AD with\ndeep learning models developed upon increasingly available structural MRI data.\nThe lack of scale-matched functional neuroimaging data prevents such models\nfrom being further improved by observing functional changes in pathophysiology.\nHere we propose a potential solution by first learning a\nstructural-to-functional transformation in brain MRI, and further synthesizing\nspatially matched functional images from large-scale structural scans. We\nevaluated our approach by building computational models to discriminate\npatients with AD from healthy normal subjects and demonstrated a performance\nboost after combining the structural and synthesized functional brain images\ninto the same model. Furthermore, our regional analyses identified the temporal\nlobe to be the most predictive structural-region and the parieto-occipital lobe\nto be the most predictive functional-region of our model, which are both in\nconcordance with previous group-level neuroimaging findings. Together, we\ndemonstrate the potential of deep learning with large-scale structural and\nsynthesized functional MRI to impact AD classification and to identify AD's\nneuroimaging signatures.",
+          "arxiv_id": "2104.04672v2"
+        },
+        {
+          "title": "Application of Time-Aware PC algorithm to compute Causal Functional Connectivity in Alzheimer's Disease from fMRI data",
+          "year": "2023-07",
+          "abstract": "Functional Connectivity between brain regions is known to be altered in\nAlzheimer's disease, and promises to be a biomarker for early diagnosis of the\ndisease. While several approaches for functional connectivity obtain an\nun-directed network representing stochastic associations (correlations) between\nbrain regions, association does not necessarily imply causation. In contrast,\nCausal Functional Connectivity is more informative, providing a directed\nnetwork representing causal relationships between brain regions. In this paper,\nwe obtained the causal functional connectome for the whole brain from\nrecordings of resting-state functional magnetic resonance imaging (rs-fMRI) for\nsubjects from three clinical groups: cognitively normal, mild cognitive\nimpairment, and Alzheimer's disease. We applied the recently developed\nTime-aware PC (TPC) algorithm to infer the causal functional connectome for the\nwhole brain. TPC supports model-free estimation of whole brain causal\nfunctional connectivity based on directed graphical modeling in a time series\nsetting. We then perform an exploratory analysis to identify the causal brain\nconnections between brain regions which have altered strengths between pairs of\nsubject groups, and over the three subject groups, based on edge-wise p-values\nfrom statistical tests. We used the altered causal brain connections thus\nobtained to compile a comprehensive list of brain regions impacted by\nAlzheimer's disease according to the current data set. The brain regions thus\nidentified are found to be in agreement with literature on brain regions\nimpacted by Alzheimer's disease, published by researchers from clinical/medical\ninstitutions.",
+          "arxiv_id": "2307.00253v2"
+        },
+        {
+          "title": "The classification of Alzheimer's disease and mild cognitive impairment improved by dynamic functional network analysis",
+          "year": "2025-05",
+          "abstract": "Brain network analysis using functional MRI has advanced our understanding of\ncortical activity and its changes in neurodegenerative disorders that cause\ndementia. Recently, research in brain connectivity has focused on dynamic\n(time-varying) brain networks that capture both spatial and temporal\ninformation on cortical, regional co-activity patterns. However, this approach\nhas been largely unexplored within the Alzheimer's spectrum. We analysed age-\nand sex-matched static and dynamic fMRI brain networks from 315 individuals\nwith Alzheimer's Disease (AD), Mild Cognitive Impairment (MCI), and\ncognitively-normal Healthy Elderly (HE), using data from the ADNI-3 protocol.\nWe examined both similarities and differences between these groups, employing\nthe Juelich brain atlas for network nodes, sliding-window correlations for\ntime-varying network links, and non-parametric statistics to assess\nbetween-group differences at the link or the node centrality level. While the\nHE and MCI groups show similar static and dynamic networks at the link level,\nsignificant differences emerge compared to AD participants. We found stable\n(stationary) differences in patterns of functional connections between the\nwhite matter regions and the parietal lobe's, and somatosensory cortices, while\nmetastable (temporal) networks' differences were consistently found between the\namygdala and hippocampal formation. In addition, our node centrality analysis\nshowed that the white matter connectivity patterns are local in nature. Our\nresults highlight shared and unique functional connectivity patterns in both\nstationary and dynamic functional networks, emphasising the need to include\ndynamic information in brain network analysis in studies of Alzheimer's\nspectrum.",
+          "arxiv_id": "2505.03458v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Bayesian dynamical estimation of the parameters of an SE(A)IR COVID-19 spread model",
+          "year": "2020-05",
+          "abstract": "In this article, we consider a dynamic epidemiology model for the spread of\nthe COVID-19 infection. Starting from the classical SEIR model, the model is\nmodified so as to better describe characteristic features of the underlying\npathogen and its infectious modes. In line with the large number of secondary\ninfections not related to contact with documented infectious individuals, the\nmodel includes a cohort of asymptomatic or oligosymptomatic infectious\nindividuals, not accounted for in the data of new daily counts of infections. A\nBayesian particle filtering algorithm is used to update dynamically the\nrelevant cohort and simultaneously estimate the transmission rate as the new\ndata on the number of new infections and disease related death become\navailable. The underlying assumption of the model is that the infectivity rate\nis dynamically changing during the epidemics, either because of a mutation of\nthe pathogen or in response to mitigation and containment measures. The\nsequential Bayesian framework naturally provides a quantification of the\nuncertainty in the estimate of the model parameters, including the reproduction\nnumber, and of the size of the different cohorts. Moreover, we introduce a\ndimensionless quantity, which is the equilibrium ratio between asymptomatic and\nsymptomatic cohort sizes, and propose a simple formula to estimate the\nquantity. This ratio leads naturally to another dimensionless quantity that\nplays the role of the basic reproduction number $R_0$ of the model. When we\napply the model and particle filter algorithm to COVID-19 infection data from\nseveral counties in Northeastern Ohio and Southeastern Michigan we found the\nproposed reproduction number $R_0$ to have a consistent dynamic behavior within\nboth states, thus proving to be a reliable summary of the success of the\nmitigation measures.",
+          "arxiv_id": "2005.04365v2"
+        },
+        {
+          "title": "COVIDHunter: COVID-19 pandemic wave prediction and mitigation via seasonality-aware modeling",
+          "year": "2022-06",
+          "abstract": "Early detection and isolation of COVID-19 patients are essential for\nsuccessful implementation of mitigation strategies and eventually curbing the\ndisease spread. With a limited number of daily COVID-19 tests performed in\nevery country, simulating the COVID-19 spread along with the potential effect\nof each mitigation strategy currently remains one of the most effective ways in\nmanaging the healthcare system and guiding policy-makers. We introduce\nCOVIDHunter, a flexible and accurate COVID-19 outbreak simulation model that\nevaluates the current mitigation measures that are applied to a region,\npredicts COVID-19 statistics (the daily number of cases, hospitalizations, and\ndeaths), and provides suggestions on what strength the upcoming mitigation\nmeasure should be. The key idea of COVIDHunter is to quantify the spread of\nCOVID-19 in a geographical region by simulating the average number of new\ninfections caused by an infected person considering the effect of external\nfactors, such as environmental conditions (e.g., climate, temperature,\nhumidity), different variants of concern, vaccination rate, and mitigation\nmeasures. Using Switzerland as a case study, COVIDHunter estimates that we are\nexperiencing a deadly new wave that will peak on 26 January 2022, which is very\nsimilar in numbers to the wave we had in February 2020. The policy-makers have\nonly one choice that is to increase the strength of the currently applied\nmitigation measures for 30 days. Unlike existing models, the COVIDHunter model\naccurately monitors and predicts the daily number of cases, hospitalizations,\nand deaths due to COVID-19. Our model is flexible to configure and simple to\nmodify for modeling different scenarios under different environmental\nconditions and mitigation measures. We release the source code of the\nCOVIDHunter implementation at https://github.com/CMU-SAFARI/COVIDHunter.",
+          "arxiv_id": "2206.06692v1"
+        },
+        {
+          "title": "Computational model on COVID-19 Pandemic using Probabilistic Cellular Automata",
+          "year": "2020-06",
+          "abstract": "Coronavirus disease (COVID-19) which is caused by SARS-COV2 has become a\npandemic. This disease is highly infectious and potentially fatal, causing a\nglobal public health concern. To contain the spread of COVID-19, governments\nare adopting nationwide interventions, like lockdown, containment and\nquarantine, restrictions on travel, cancelling social events and extensive\ntesting. To understand the effects of these measures on the control of the\nepidemic in a data-driven manner, we propose a probabilistic cellular automata\n(PCA) based modified SEIQR model. The transitions associated with the model is\ndriven by data available on chronology, symptoms, pathogenesis and\ntransmissivity of the virus. By arguing that the lattice-based model captures\nthe features of the dynamics along with the existing fluctuations, we perform\nrigorous computational analyses of the model to take into account of the\nspatial dynamics of social distancing measures imposed on the people.\nConsidering the probabilistic behavioural aspects associated with mitigation\nstrategies, we study the model considering factors like population density and\ntesting efficiency. Using the model, we focus on the variability of epidemic\ndynamics data for different countries and point out the reasons behind these\ncontrasting observations. To the best of our knowledge, this is the first\nattempt to model COVID-19 spread using PCA that gives us both spatial and\ntemporal variations of the infection spread with the insight about the\ncontributions of different infection parameters.",
+          "arxiv_id": "2006.11270v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "DistNet: Deep Tracking by displacement regression: application to bacteria growing in the Mother Machine",
+          "year": "2020-03",
+          "abstract": "The mother machine is a popular microfluidic device that allows long-term\ntime-lapse imaging of thousands of cells in parallel by microscopy. It has\nbecome a valuable tool for single-cell level quantitative analysis and\ncharacterization of many cellular processes such as gene expression and\nregulation, mutagenesis or response to antibiotics. The automated and\nquantitative analysis of the massive amount of data generated by such\nexperiments is now the limiting step. In particular the segmentation and\ntracking of bacteria cells imaged in phase-contrast microscopy---with error\nrates compatible with high-throughput data---is a challenging problem.\n  In this work, we describe a novel formulation of the multi-object tracking\nproblem, in which tracking is performed by a regression of the bacteria's\ndisplacement, allowing simultaneous tracking of multiple bacteria, despite\ntheir growth and division over time. Our method performs jointly segmentation\nand tracking, leveraging sequential information to increase segmentation\naccuracy.\n  We introduce a Deep Neural Network architecture taking advantage of a\nself-attention mechanism which yields extremely low tracking error rate and\nsegmentation error rate. We demonstrate superior performance and speed compared\nto state-of-the-art methods. Our method is named DiSTNet which stands for\nDISTance+DISplacement Segmentation and Tracking Network.\n  While this method is particularly well suited for mother machine microscopy\ndata, its general joint tracking and segmentation formulation could be applied\nto many other problems with different geometries.",
+          "arxiv_id": "2003.07790v2"
+        },
+        {
+          "title": "Automated Cell Structure Extraction for 3D Electron Microscopy by Deep Learning",
+          "year": "2024-05",
+          "abstract": "Modeling the 3D structures of cells and tissues is crucial in biology.\nSequential cross-sectional images from electron microscopy provide\nhigh-resolution intracellular structure information. The segmentation of\ncomplex cell structures remains a laborious manual task for experts, demanding\ntime and effort. This bottleneck in analyzing biological images requires\nefficient and automated solutions. In this study, the deep learning-based\nautomated segmentation of biological images was explored to enable accurate\nreconstruction of the 3D structures of cells and organelles. An analysis system\nfor the cell images of Cyanidioschyzon merolae, a primitive unicellular red\nalgae, was constructed. This system utilizes sequential cross-sectional images\ncaptured by a focused ion beam scanning electron microscope (FIB-SEM). A U-Net\nwas adopted and training was performed to identify and segment cell organelles\nfrom single-cell images. In addition, the segment anything model (SAM) and 3D\nwatershed algorithm were employed to extract individual 3D images of each cell\nfrom large-scale microscope images containing numerous cells. Finally, the\ntrained U-Net was applied to segment each structure within these 3D images.\nThrough this procedure, the creation of 3D cell models could be fully\nautomated. The adoption of other deep learning techniques and combinations of\nimage processing methods will also be explored to enhance the segmentation\naccuracy further.",
+          "arxiv_id": "2405.06303v4"
+        },
+        {
+          "title": "Analysis of the performance of U-Net neural networks for the segmentation of living cells",
+          "year": "2022-10",
+          "abstract": "The automated analysis of microscopy images is a challenge in the context of\nsingle-cell tracking and quantification. This work has as goals the study of\nthe performance of deep learning for segmenting microscopy images and the\nimprovement of the previously available pipeline for tracking single cells.\nDeep learning techniques, mainly convolutional neural networks, have been\napplied to cell segmentation problems and have shown high accuracy and fast\nperformance. To perform the image segmentation, an analysis of hyperparameters\nwas done in order to implement a convolutional neural network with U-Net\narchitecture. Furthermore, different models were built in order to optimize the\nsize of the network and the number of learnable parameters. The trained network\nis then used in the pipeline that localizes the traps in a microfluidic device,\nperforms the image segmentation on trap images, and evaluates the fluorescence\nintensity and the area of single cells over time. The tracking of the cells\nduring an experiment is performed by image processing algorithms, such as\ncentroid estimation and watershed. Finally, with all improvements in the neural\nnetwork to segment single cells and in the pipeline, quasi-real-time image\nanalysis was enabled, where 6.20GB of data was processed in 4 minutes.",
+          "arxiv_id": "2210.01538v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Optical detection of bacterial cells on stainless-steel surface with a low-magnification light microscope",
+          "year": "2024-03",
+          "abstract": "A Rapid and cost-effective method for detecting bacterial cells on surfaces\nis critical to protect public health from various aspects, including food\nsafety, clinical hygiene, and pharmacy quality. Herein, we first established an\noptical detection method based on a gold chip coating with\n3-mercaptophenylboronic acid (3-MPBA) to capture bacterial cells, which allows\nfor the detection and quantification of bacterial cells with a standard light\nmicroscope under low-magnification (10 fold) objective lens. Then, integrating\nthe developed optical detection method with swab sampling to achieve to detect\nbacterial cells loading on stainless-steel surfaces. Using Salmonella enterica\n(SE1045) and Escherichia coli as model bacterial cells, we achieved a capture\nefficiency of up to 76.0 % for SE1045 cells and 81.1 % for E. coli cells at Log\n3 CFU/mL upon the optimized conditions. Our assay showed good linear\nrelationship between the concentrations of bacterial cells with the cell\ncounting in images with the limit of detection (LOD) of Log 3 CFU/mL for both\nSE1045 and E. coli cells. A further increase in sensitivity in detecting E.\ncoli cells was achieved through a heat treatment, enabling the LOD to be pushed\nas low as Log 2 CFU/mL. Furthermore, successful application was observed in\nassessing bacterial contamination on stainless-steel surface following\nintegrating with swab collection, achieving a recovery rate of approximately 70\n% suggests future prospects for evaluating the cleanliness of surfaces. The\nentire process was completed within around 2 hours, with a cost of merely 2\ndollars per sample. Given a standard light microscope cost around 250 dollars,\nour developed method has shown great potential in practical industrial\napplications for bacterial contamination control on surfaces in low-resource\nsettings.",
+          "arxiv_id": "2403.07297v1"
+        },
+        {
+          "title": "Nanoplasmonic Optical Fiber Sensing of SARS-CoV-2 Nucleocapsid Protein Using an Aptamer-DNA Tetrahedron Interface",
+          "year": "2025-06",
+          "abstract": "Optical fiber sensing carries a number of potential advantages for\ndiagnostics and biomarker detection and monitoring, yet particular challenges\npersist in linking molecular recognition events to a change in the refractive\nindex. DNA aptamers carry particular advantages as functional surface molecules\non optical fibers to tailor detection of specific biomolecules, yet challenges\npersist around sensitivity and specificity. Diagnosis of COVID-19 through\ndetection of nucleocapsid protein (N protein) of SARS-CoV-2 provides a classic\ndiagnostic challenge where optical fiber-based sensing could complement and\nimprove on typical detection methods such as RT-PCR and rapid antigen testing.\nIn this study, a plasmonic gold-coated tilted fiber Bragg grating (TFBG)-based\noptical biosensing platform was developed for ultrasensitive detection of\nSARS-CoV-2 N protein. By functionalizing the optical fiber surface with\naptamers for the molecular recognition of N protein, changes in refractive\nindex measured biomolecular binding, thereby achieving real-time, label-free\ndetection. Additionally, integrating DNA nanostructures such as the DNA\ntetrahedron with aptamers significantly enhanced detection sensitivity,\nincreasing signal intensity ~2.5 times compared to aptamers alone. This study\nprovides new insights into the development of high-performance optical fiber\nsensing platforms which integrate DNA nanostructure interfaces to facilitate\nbiomarker recognition and sensing.",
+          "arxiv_id": "2506.23612v1"
+        },
+        {
+          "title": "Rapid, antibiotic incubation-free determination of tuberculosis drug resistance using machine learning and Raman spectroscopy",
+          "year": "2023-06",
+          "abstract": "Tuberculosis (TB) is the world's deadliest infectious disease, with over 1.5\nmillion deaths annually and 10 million new cases reported each year. The\ncausative organism, Mycobacterium tuberculosis (Mtb) can take nearly 40 days to\nculture, a required step to determine the pathogen's antibiotic susceptibility.\nBoth rapid identification of Mtb and rapid antibiotic susceptibility testing\n(AST) are essential for effective patient treatment and combating antimicrobial\nresistance. Here, we demonstrate a rapid, culture-free, and antibiotic\nincubation-free drug susceptibility test for TB using Raman spectroscopy and\nmachine learning. We collect few-to-single-cell Raman spectra from over 25,000\ncells of the MtB complex strain Bacillus Calmette Guerin (BCG) resistant to one\nof the four mainstay anti-TB drugs, isoniazid, rifampicin, moxifloxacin and\namikacin, as well as a pan susceptible wildtype strain. By training a neural\nnetwork on this data, we classify the antibiotic resistance profile of each\nstrain, both on dried samples and in patient sputum samples. On dried samples,\nwe achieve >98% resistant versus susceptible classification accuracy across all\n5 BCG strains. In patient sputum samples, we achieve ~79% average\nclassification accuracy. We develop a feature recognition algorithm in order to\nverify that our machine learning model is using biologically relevant spectral\nfeatures to assess the resistance profiles of our mycobacterial strains.\nFinally, we demonstrate how this approach can be deployed in resource-limited\nsettings by developing a low-cost, portable Raman microscope that costs <$5000.\nWe show how this instrument and our machine learning model enables combined\nmicroscopy and spectroscopy for accurate few-to-single-cell drug susceptibility\ntesting of BCG.",
+          "arxiv_id": "2306.05653v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:04:45Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

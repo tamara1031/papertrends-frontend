@@ -1,0 +1,2272 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_agent_agents_AI_LLM",
+        "keywords": [
+          [
+            "agent",
+            0.019056382922672813
+          ],
+          [
+            "agents",
+            0.01835318923407712
+          ],
+          [
+            "AI",
+            0.0178742511219914
+          ],
+          [
+            "LLM",
+            0.017493929194608928
+          ],
+          [
+            "LLMs",
+            0.015222627183623228
+          ],
+          [
+            "systems",
+            0.015153011890453453
+          ],
+          [
+            "language",
+            0.014664345022407878
+          ],
+          [
+            "models",
+            0.013419324294171404
+          ],
+          [
+            "multi",
+            0.012715333346874394
+          ],
+          [
+            "human",
+            0.011796513893439258
+          ]
+        ],
+        "count": 1584
+      },
+      "1": {
+        "name": "1_robots_MAPF_robot_problem",
+        "keywords": [
+          [
+            "robots",
+            0.017730495550479494
+          ],
+          [
+            "MAPF",
+            0.016407831496388657
+          ],
+          [
+            "robot",
+            0.015752980633792078
+          ],
+          [
+            "problem",
+            0.01503551793121229
+          ],
+          [
+            "Multi",
+            0.013821764007749373
+          ],
+          [
+            "multi",
+            0.01379096577398499
+          ],
+          [
+            "agents",
+            0.01337430728134984
+          ],
+          [
+            "planning",
+            0.013162174688814404
+          ],
+          [
+            "time",
+            0.012710377037410086
+          ],
+          [
+            "agent",
+            0.011689388606954171
+          ]
+        ],
+        "count": 822
+      },
+      "2": {
+        "name": "2_agent_learning_MARL_multi agent",
+        "keywords": [
+          [
+            "agent",
+            0.029281299088045578
+          ],
+          [
+            "learning",
+            0.02720950645036953
+          ],
+          [
+            "MARL",
+            0.023320126771706178
+          ],
+          [
+            "multi agent",
+            0.021559533250789888
+          ],
+          [
+            "agents",
+            0.0214391702079506
+          ],
+          [
+            "multi",
+            0.02136250390869992
+          ],
+          [
+            "Multi",
+            0.016962059610646424
+          ],
+          [
+            "Learning",
+            0.016946997920727073
+          ],
+          [
+            "reinforcement",
+            0.016805106899198324
+          ],
+          [
+            "reinforcement learning",
+            0.016691794060240312
+          ]
+        ],
+        "count": 801
+      },
+      "3": {
+        "name": "3_algorithm_consensus_agents_network",
+        "keywords": [
+          [
+            "algorithm",
+            0.02060872847718429
+          ],
+          [
+            "consensus",
+            0.018188830891213304
+          ],
+          [
+            "agents",
+            0.017695050819086098
+          ],
+          [
+            "network",
+            0.016303493915219815
+          ],
+          [
+            "communication",
+            0.016210265585023715
+          ],
+          [
+            "data",
+            0.014731221805819412
+          ],
+          [
+            "convergence",
+            0.014510908430984043
+          ],
+          [
+            "learning",
+            0.013999166000226156
+          ],
+          [
+            "problem",
+            0.013288766238445245
+          ],
+          [
+            "local",
+            0.01267960947596766
+          ]
+        ],
+        "count": 514
+      },
+      "4": {
+        "name": "4_games_learning_equilibrium_Nash",
+        "keywords": [
+          [
+            "games",
+            0.03296462531115997
+          ],
+          [
+            "learning",
+            0.0216282756371778
+          ],
+          [
+            "equilibrium",
+            0.019392322004525897
+          ],
+          [
+            "Nash",
+            0.018419181951781417
+          ],
+          [
+            "game",
+            0.01731301528650303
+          ],
+          [
+            "agents",
+            0.016320939445830126
+          ],
+          [
+            "agent",
+            0.015102229265659302
+          ],
+          [
+            "algorithm",
+            0.014821347017622352
+          ],
+          [
+            "policy",
+            0.01480061997596864
+          ],
+          [
+            "Markov",
+            0.014079065177735363
+          ]
+        ],
+        "count": 459
+      },
+      "5": {
+        "name": "5_model_simulation_agent_models",
+        "keywords": [
+          [
+            "model",
+            0.025182682480305387
+          ],
+          [
+            "simulation",
+            0.01932885037022027
+          ],
+          [
+            "agent",
+            0.017593963751089268
+          ],
+          [
+            "models",
+            0.01653847486214626
+          ],
+          [
+            "data",
+            0.014435164787793718
+          ],
+          [
+            "economic",
+            0.011675078881858144
+          ],
+          [
+            "ABM",
+            0.011401828278527787
+          ],
+          [
+            "agents",
+            0.010841946355941668
+          ],
+          [
+            "Agent",
+            0.0102191476429315
+          ],
+          [
+            "pandemic",
+            0.009819937326328847
+          ]
+        ],
+        "count": 375
+      },
+      "6": {
+        "name": "6_traffic_vehicles_driving_vehicle",
+        "keywords": [
+          [
+            "traffic",
+            0.050047609110252994
+          ],
+          [
+            "vehicles",
+            0.024933335053760053
+          ],
+          [
+            "driving",
+            0.024245184714340087
+          ],
+          [
+            "vehicle",
+            0.018296822468722457
+          ],
+          [
+            "control",
+            0.015722352038082973
+          ],
+          [
+            "autonomous",
+            0.014305163023200774
+          ],
+          [
+            "safety",
+            0.01339808510481343
+          ],
+          [
+            "Traffic",
+            0.012772492510557645
+          ],
+          [
+            "learning",
+            0.012075995489912884
+          ],
+          [
+            "scenarios",
+            0.011125200777714965
+          ]
+        ],
+        "count": 306
+      },
+      "7": {
+        "name": "7_social_agents_cooperation_learning",
+        "keywords": [
+          [
+            "social",
+            0.02411949002331631
+          ],
+          [
+            "agents",
+            0.022494667807433106
+          ],
+          [
+            "cooperation",
+            0.02242304842078393
+          ],
+          [
+            "learning",
+            0.019590838030360862
+          ],
+          [
+            "agent",
+            0.015744853117066585
+          ],
+          [
+            "collective",
+            0.012866349268367492
+          ],
+          [
+            "systems",
+            0.011660421940041672
+          ],
+          [
+            "behavior",
+            0.011535880543386438
+          ],
+          [
+            "behaviors",
+            0.011323003407133592
+          ],
+          [
+            "game",
+            0.011282723923240028
+          ]
+        ],
+        "count": 261
+      },
+      "8": {
+        "name": "8_demand_traffic_ride_transportation",
+        "keywords": [
+          [
+            "demand",
+            0.020856451694139407
+          ],
+          [
+            "traffic",
+            0.019901817500320402
+          ],
+          [
+            "ride",
+            0.018350303445252635
+          ],
+          [
+            "transportation",
+            0.01808607588897169
+          ],
+          [
+            "mobility",
+            0.016603466576737374
+          ],
+          [
+            "fleet",
+            0.015853068823326443
+          ],
+          [
+            "congestion",
+            0.015511285110816998
+          ],
+          [
+            "vehicle",
+            0.015442248474325331
+          ],
+          [
+            "travel",
+            0.014248950151052738
+          ],
+          [
+            "services",
+            0.013952218563486486
+          ]
+        ],
+        "count": 132
+      },
+      "9": {
+        "name": "9_agents_fairness_mechanism_envy",
+        "keywords": [
+          [
+            "agents",
+            0.024726207211544348
+          ],
+          [
+            "fairness",
+            0.022369190004332365
+          ],
+          [
+            "mechanism",
+            0.020691597835353348
+          ],
+          [
+            "envy",
+            0.02059135194669723
+          ],
+          [
+            "problem",
+            0.019703200627507553
+          ],
+          [
+            "allocation",
+            0.01870637086544262
+          ],
+          [
+            "mechanisms",
+            0.018309097316019315
+          ],
+          [
+            "approximation",
+            0.015786076848841875
+          ],
+          [
+            "welfare",
+            0.015760416587419515
+          ],
+          [
+            "matching",
+            0.014646211258696216
+          ]
+        ],
+        "count": 129
+      },
+      "10": {
+        "name": "10_network_networks_learning_resource",
+        "keywords": [
+          [
+            "network",
+            0.022260631034073428
+          ],
+          [
+            "networks",
+            0.016525333511608186
+          ],
+          [
+            "learning",
+            0.016426752089388194
+          ],
+          [
+            "resource",
+            0.01554963372754807
+          ],
+          [
+            "Learning",
+            0.014287570798001638
+          ],
+          [
+            "edge",
+            0.01296227769695035
+          ],
+          [
+            "agent",
+            0.012623133343248308
+          ],
+          [
+            "wireless",
+            0.012489987689114945
+          ],
+          [
+            "multi",
+            0.01218996143721156
+          ],
+          [
+            "access",
+            0.011749720672518024
+          ]
+        ],
+        "count": 126
+      },
+      "11": {
+        "name": "11_energy_grid_power_electricity",
+        "keywords": [
+          [
+            "energy",
+            0.06773035388607315
+          ],
+          [
+            "grid",
+            0.023656605411261654
+          ],
+          [
+            "power",
+            0.022327312453117806
+          ],
+          [
+            "electricity",
+            0.02028621513827493
+          ],
+          [
+            "renewable",
+            0.01820223131231601
+          ],
+          [
+            "demand",
+            0.017716237055191302
+          ],
+          [
+            "market",
+            0.015223252313129602
+          ],
+          [
+            "control",
+            0.015058103033389447
+          ],
+          [
+            "renewable energy",
+            0.014550310787881108
+          ],
+          [
+            "Energy",
+            0.014237257373742552
+          ]
+        ],
+        "count": 114
+      },
+      "12": {
+        "name": "12_opinion_opinions_model_social",
+        "keywords": [
+          [
+            "opinion",
+            0.0742484623400715
+          ],
+          [
+            "opinions",
+            0.04260255082327697
+          ],
+          [
+            "model",
+            0.031222636775962345
+          ],
+          [
+            "social",
+            0.030076735991272214
+          ],
+          [
+            "dynamics",
+            0.02817659774569371
+          ],
+          [
+            "consensus",
+            0.022472347268904683
+          ],
+          [
+            "opinion dynamics",
+            0.02217858309866648
+          ],
+          [
+            "influence",
+            0.022160192436884316
+          ],
+          [
+            "polarization",
+            0.021970378113754938
+          ],
+          [
+            "agents",
+            0.019053905233037047
+          ]
+        ],
+        "count": 112
+      },
+      "13": {
+        "name": "13_voting_voters_candidates_elections",
+        "keywords": [
+          [
+            "voting",
+            0.07609373113213638
+          ],
+          [
+            "voters",
+            0.047027122100482266
+          ],
+          [
+            "candidates",
+            0.03916120527298518
+          ],
+          [
+            "elections",
+            0.0371115923700124
+          ],
+          [
+            "election",
+            0.03224000022027808
+          ],
+          [
+            "rules",
+            0.02605580069868044
+          ],
+          [
+            "voter",
+            0.023837392552081157
+          ],
+          [
+            "projects",
+            0.02375205899189364
+          ],
+          [
+            "approval",
+            0.02345357629145697
+          ],
+          [
+            "Voting",
+            0.021496358735077985
+          ]
+        ],
+        "count": 105
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6587963758443481,
+        -0.24892967157556012,
+        -0.5093213253087268,
+        -0.6098765570369743,
+        -0.6548216810378198,
+        -0.7408222947095878,
+        -0.27621752050914417,
+        -0.7504801598774353,
+        -0.4635846138522428,
+        -0.616275343438907,
+        -0.744660048112184,
+        -0.6929383164774479,
+        -0.6927225374291185
+      ],
+      [
+        -0.6587963758443481,
+        1.0,
+        -0.6051327128362576,
+        -0.6589870846405028,
+        -0.682649475098916,
+        -0.7239853662042721,
+        -0.7378007702853717,
+        -0.6391366014441555,
+        -0.7557249357940858,
+        -0.6702530183957569,
+        -0.6592591150609476,
+        -0.7336008518823371,
+        -0.7302530230965942,
+        -0.7293586965048315
+      ],
+      [
+        -0.24892967157556012,
+        -0.6051327128362576,
+        1.0,
+        -0.47880547435308163,
+        -0.3475629583791814,
+        -0.6608165980890282,
+        -0.6854775436120777,
+        0.0029969870383016357,
+        -0.7403698204220637,
+        -0.4491261719794954,
+        -0.08498188265021037,
+        -0.7114392850304105,
+        -0.6922973098274935,
+        -0.6889278839129651
+      ],
+      [
+        -0.5093213253087268,
+        -0.6589870846405028,
+        -0.47880547435308163,
+        1.0,
+        -0.48625604941163003,
+        -0.681774690929923,
+        -0.7151393526938895,
+        -0.36785456721572496,
+        -0.7403656708914494,
+        -0.1498012132725103,
+        -0.611083008284677,
+        -0.7172039309617899,
+        -0.6979570333560274,
+        -0.49883974318961133
+      ],
+      [
+        -0.6098765570369743,
+        -0.682649475098916,
+        -0.3475629583791814,
+        -0.48625604941163003,
+        1.0,
+        -0.6911348559147588,
+        -0.7186085571316813,
+        -0.36289137089323015,
+        -0.7506588121753835,
+        -0.42661278963131855,
+        -0.44673788978144774,
+        -0.7369678231564987,
+        -0.6940235032817207,
+        -0.5234083735040231
+      ],
+      [
+        -0.6548216810378198,
+        -0.7239853662042721,
+        -0.6608165980890282,
+        -0.681774690929923,
+        -0.6911348559147588,
+        1.0,
+        -0.7131158396864317,
+        -0.6754020372381482,
+        -0.7249476675834416,
+        -0.6750078710907906,
+        -0.7027675258068733,
+        -0.7247591839972235,
+        -0.4345765932238046,
+        -0.7002944493234228
+      ],
+      [
+        -0.7408222947095878,
+        -0.7378007702853717,
+        -0.6854775436120777,
+        -0.7151393526938895,
+        -0.7186085571316813,
+        -0.7131158396864317,
+        1.0,
+        -0.709542563920961,
+        -0.630347703603545,
+        -0.7260489778462602,
+        -0.691290066878826,
+        -0.7319903120870197,
+        -0.7313728808672928,
+        -0.741380210402528
+      ],
+      [
+        -0.27621752050914417,
+        -0.6391366014441555,
+        0.0029969870383016357,
+        -0.36785456721572496,
+        -0.36289137089323015,
+        -0.6754020372381482,
+        -0.709542563920961,
+        1.0,
+        -0.7441842274866008,
+        -0.2526280475759918,
+        -0.35449713148982087,
+        -0.7262399466457513,
+        -0.6593517243525066,
+        -0.6775369841126955
+      ],
+      [
+        -0.7504801598774353,
+        -0.7557249357940858,
+        -0.7403698204220637,
+        -0.7403656708914494,
+        -0.7506588121753835,
+        -0.7249476675834416,
+        -0.630347703603545,
+        -0.7441842274866008,
+        1.0,
+        -0.73393199767795,
+        -0.7410881401052156,
+        -0.7280959666635978,
+        -0.7510470301877543,
+        -0.7489105522259423
+      ],
+      [
+        -0.4635846138522428,
+        -0.6702530183957569,
+        -0.4491261719794954,
+        -0.1498012132725103,
+        -0.42661278963131855,
+        -0.6750078710907906,
+        -0.7260489778462602,
+        -0.2526280475759918,
+        -0.73393199767795,
+        1.0,
+        -0.641480922693467,
+        -0.7372249385700606,
+        -0.6789092949562181,
+        -0.280200550539929
+      ],
+      [
+        -0.616275343438907,
+        -0.6592591150609476,
+        -0.08498188265021037,
+        -0.611083008284677,
+        -0.44673788978144774,
+        -0.7027675258068733,
+        -0.691290066878826,
+        -0.35449713148982087,
+        -0.7410881401052156,
+        -0.641480922693467,
+        1.0,
+        -0.7087408346085375,
+        -0.7104775947952653,
+        -0.7259960554394298
+      ],
+      [
+        -0.744660048112184,
+        -0.7336008518823371,
+        -0.7114392850304105,
+        -0.7172039309617899,
+        -0.7369678231564987,
+        -0.7247591839972235,
+        -0.7319903120870197,
+        -0.7262399466457513,
+        -0.7280959666635978,
+        -0.7372249385700606,
+        -0.7087408346085375,
+        1.0,
+        -0.7438311039055308,
+        -0.7505983370421725
+      ],
+      [
+        -0.6929383164774479,
+        -0.7302530230965942,
+        -0.6922973098274935,
+        -0.6979570333560274,
+        -0.6940235032817207,
+        -0.4345765932238046,
+        -0.7313728808672928,
+        -0.6593517243525066,
+        -0.7510470301877543,
+        -0.6789092949562181,
+        -0.7104775947952653,
+        -0.7438311039055308,
+        1.0,
+        -0.6827641844217446
+      ],
+      [
+        -0.6927225374291185,
+        -0.7293586965048315,
+        -0.6889278839129651,
+        -0.49883974318961133,
+        -0.5234083735040231,
+        -0.7002944493234228,
+        -0.741380210402528,
+        -0.6775369841126955,
+        -0.7489105522259423,
+        -0.280200550539929,
+        -0.7259960554394298,
+        -0.7505983370421725,
+        -0.6827641844217446,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        11,
+        2,
+        20,
+        2,
+        2,
+        5,
+        6,
+        4,
+        0,
+        2,
+        1,
+        4,
+        0,
+        2
+      ],
+      "2020-02": [
+        14,
+        2,
+        21,
+        7,
+        6,
+        4,
+        10,
+        2,
+        0,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "2020-03": [
+        18,
+        1,
+        25,
+        12,
+        3,
+        6,
+        7,
+        1,
+        0,
+        2,
+        3,
+        6,
+        3,
+        1
+      ],
+      "2020-04": [
+        13,
+        4,
+        20,
+        1,
+        2,
+        14,
+        5,
+        4,
+        0,
+        3,
+        1,
+        2,
+        4,
+        1
+      ],
+      "2020-05": [
+        10,
+        4,
+        13,
+        1,
+        9,
+        6,
+        6,
+        0,
+        0,
+        9,
+        0,
+        2,
+        3,
+        1
+      ],
+      "2020-06": [
+        16,
+        4,
+        38,
+        3,
+        5,
+        8,
+        3,
+        5,
+        0,
+        8,
+        1,
+        3,
+        3,
+        1
+      ],
+      "2020-07": [
+        12,
+        3,
+        17,
+        3,
+        4,
+        6,
+        4,
+        5,
+        2,
+        2,
+        2,
+        6,
+        2,
+        3
+      ],
+      "2020-08": [
+        10,
+        2,
+        14,
+        5,
+        6,
+        11,
+        3,
+        1,
+        0,
+        7,
+        3,
+        2,
+        3,
+        1
+      ],
+      "2020-09": [
+        12,
+        5,
+        18,
+        5,
+        4,
+        12,
+        8,
+        2,
+        0,
+        6,
+        1,
+        11,
+        2,
+        3
+      ],
+      "2020-10": [
+        21,
+        2,
+        27,
+        5,
+        2,
+        10,
+        7,
+        7,
+        1,
+        4,
+        0,
+        3,
+        0,
+        1
+      ],
+      "2020-11": [
+        11,
+        4,
+        22,
+        5,
+        3,
+        13,
+        5,
+        2,
+        1,
+        4,
+        0,
+        1,
+        0,
+        0
+      ],
+      "2020-12": [
+        10,
+        7,
+        24,
+        5,
+        3,
+        11,
+        5,
+        2,
+        1,
+        7,
+        0,
+        2,
+        1,
+        2
+      ],
+      "2021-01": [
+        13,
+        3,
+        12,
+        4,
+        4,
+        6,
+        4,
+        7,
+        1,
+        1,
+        3,
+        2,
+        0,
+        3
+      ],
+      "2021-02": [
+        11,
+        4,
+        32,
+        2,
+        6,
+        13,
+        3,
+        6,
+        0,
+        10,
+        4,
+        1,
+        1,
+        1
+      ],
+      "2021-03": [
+        13,
+        3,
+        32,
+        5,
+        5,
+        11,
+        6,
+        6,
+        0,
+        3,
+        2,
+        6,
+        6,
+        2
+      ],
+      "2021-04": [
+        15,
+        6,
+        20,
+        3,
+        2,
+        4,
+        3,
+        3,
+        1,
+        5,
+        2,
+        1,
+        0,
+        3
+      ],
+      "2021-05": [
+        15,
+        3,
+        30,
+        7,
+        5,
+        7,
+        5,
+        4,
+        2,
+        2,
+        3,
+        1,
+        1,
+        4
+      ],
+      "2021-06": [
+        9,
+        5,
+        33,
+        3,
+        12,
+        12,
+        2,
+        6,
+        1,
+        10,
+        1,
+        2,
+        2,
+        2
+      ],
+      "2021-07": [
+        8,
+        1,
+        25,
+        3,
+        3,
+        5,
+        4,
+        2,
+        0,
+        1,
+        1,
+        3,
+        5,
+        3
+      ],
+      "2021-08": [
+        10,
+        3,
+        17,
+        0,
+        4,
+        6,
+        2,
+        2,
+        0,
+        5,
+        1,
+        5,
+        2,
+        2
+      ],
+      "2021-09": [
+        7,
+        6,
+        28,
+        3,
+        4,
+        7,
+        10,
+        1,
+        1,
+        8,
+        0,
+        1,
+        2,
+        1
+      ],
+      "2021-10": [
+        13,
+        3,
+        39,
+        3,
+        7,
+        11,
+        5,
+        3,
+        0,
+        4,
+        0,
+        5,
+        0,
+        0
+      ],
+      "2021-11": [
+        9,
+        2,
+        25,
+        5,
+        8,
+        3,
+        3,
+        1,
+        0,
+        2,
+        0,
+        3,
+        1,
+        3
+      ],
+      "2021-12": [
+        8,
+        3,
+        33,
+        2,
+        3,
+        4,
+        10,
+        5,
+        2,
+        5,
+        0,
+        1,
+        2,
+        0
+      ],
+      "2022-01": [
+        13,
+        2,
+        28,
+        4,
+        7,
+        3,
+        2,
+        5,
+        1,
+        5,
+        3,
+        1,
+        2,
+        4
+      ],
+      "2022-02": [
+        20,
+        7,
+        23,
+        5,
+        5,
+        8,
+        4,
+        2,
+        0,
+        4,
+        2,
+        3,
+        3,
+        2
+      ],
+      "2022-03": [
+        17,
+        3,
+        40,
+        4,
+        6,
+        8,
+        2,
+        4,
+        0,
+        5,
+        2,
+        2,
+        3,
+        1
+      ],
+      "2022-04": [
+        10,
+        1,
+        19,
+        7,
+        1,
+        7,
+        7,
+        2,
+        1,
+        4,
+        1,
+        0,
+        3,
+        2
+      ],
+      "2022-05": [
+        14,
+        5,
+        24,
+        6,
+        4,
+        13,
+        3,
+        2,
+        2,
+        7,
+        1,
+        4,
+        1,
+        3
+      ],
+      "2022-06": [
+        18,
+        5,
+        25,
+        3,
+        11,
+        10,
+        6,
+        4,
+        0,
+        3,
+        3,
+        3,
+        6,
+        4
+      ],
+      "2022-07": [
+        14,
+        4,
+        23,
+        4,
+        6,
+        5,
+        10,
+        4,
+        1,
+        3,
+        1,
+        1,
+        0,
+        5
+      ],
+      "2022-08": [
+        13,
+        2,
+        25,
+        3,
+        2,
+        6,
+        3,
+        6,
+        1,
+        5,
+        1,
+        5,
+        3,
+        0
+      ],
+      "2022-09": [
+        10,
+        6,
+        38,
+        4,
+        6,
+        4,
+        1,
+        3,
+        0,
+        3,
+        1,
+        7,
+        0,
+        1
+      ],
+      "2022-10": [
+        16,
+        7,
+        36,
+        4,
+        5,
+        10,
+        9,
+        6,
+        1,
+        3,
+        1,
+        5,
+        3,
+        3
+      ],
+      "2022-11": [
+        13,
+        4,
+        34,
+        7,
+        4,
+        3,
+        5,
+        3,
+        0,
+        5,
+        2,
+        5,
+        5,
+        1
+      ],
+      "2022-12": [
+        9,
+        1,
+        28,
+        6,
+        6,
+        8,
+        3,
+        4,
+        0,
+        4,
+        1,
+        3,
+        4,
+        1
+      ],
+      "2023-01": [
+        12,
+        4,
+        26,
+        8,
+        9,
+        2,
+        3,
+        3,
+        0,
+        9,
+        3,
+        2,
+        0,
+        1
+      ],
+      "2023-02": [
+        12,
+        2,
+        47,
+        3,
+        8,
+        10,
+        7,
+        4,
+        0,
+        4,
+        1,
+        3,
+        1,
+        1
+      ],
+      "2023-03": [
+        31,
+        8,
+        37,
+        3,
+        3,
+        4,
+        7,
+        3,
+        2,
+        10,
+        1,
+        2,
+        1,
+        2
+      ],
+      "2023-04": [
+        17,
+        3,
+        27,
+        2,
+        3,
+        5,
+        4,
+        5,
+        1,
+        6,
+        1,
+        2,
+        2,
+        0
+      ],
+      "2023-05": [
+        23,
+        4,
+        45,
+        8,
+        8,
+        6,
+        7,
+        7,
+        0,
+        7,
+        2,
+        6,
+        6,
+        4
+      ],
+      "2023-06": [
+        8,
+        4,
+        35,
+        6,
+        9,
+        9,
+        7,
+        2,
+        0,
+        3,
+        0,
+        2,
+        4,
+        1
+      ],
+      "2023-07": [
+        17,
+        7,
+        31,
+        4,
+        6,
+        9,
+        7,
+        4,
+        1,
+        3,
+        1,
+        2,
+        5,
+        5
+      ],
+      "2023-08": [
+        13,
+        4,
+        25,
+        6,
+        2,
+        9,
+        5,
+        6,
+        0,
+        3,
+        2,
+        9,
+        1,
+        1
+      ],
+      "2023-09": [
+        17,
+        4,
+        23,
+        7,
+        2,
+        5,
+        4,
+        0,
+        0,
+        2,
+        1,
+        4,
+        4,
+        1
+      ],
+      "2023-10": [
+        32,
+        8,
+        35,
+        7,
+        5,
+        12,
+        7,
+        7,
+        0,
+        6,
+        2,
+        1,
+        4,
+        3
+      ],
+      "2023-11": [
+        18,
+        2,
+        33,
+        3,
+        4,
+        7,
+        7,
+        3,
+        0,
+        4,
+        3,
+        4,
+        3,
+        0
+      ],
+      "2023-12": [
+        20,
+        5,
+        46,
+        7,
+        3,
+        6,
+        6,
+        2,
+        0,
+        4,
+        2,
+        3,
+        3,
+        3
+      ],
+      "2024-01": [
+        24,
+        3,
+        37,
+        7,
+        3,
+        14,
+        4,
+        4,
+        1,
+        2,
+        1,
+        8,
+        0,
+        4
+      ],
+      "2024-02": [
+        34,
+        5,
+        36,
+        8,
+        10,
+        8,
+        5,
+        2,
+        0,
+        6,
+        1,
+        1,
+        5,
+        2
+      ],
+      "2024-03": [
+        40,
+        9,
+        39,
+        9,
+        5,
+        5,
+        10,
+        6,
+        1,
+        2,
+        0,
+        4,
+        4,
+        0
+      ],
+      "2024-04": [
+        30,
+        2,
+        31,
+        4,
+        2,
+        8,
+        9,
+        5,
+        1,
+        0,
+        5,
+        5,
+        3,
+        1
+      ],
+      "2024-05": [
+        31,
+        5,
+        34,
+        1,
+        9,
+        10,
+        8,
+        6,
+        0,
+        4,
+        0,
+        4,
+        2,
+        3
+      ],
+      "2024-06": [
+        42,
+        0,
+        37,
+        1,
+        5,
+        4,
+        7,
+        3,
+        0,
+        7,
+        1,
+        3,
+        3,
+        1
+      ],
+      "2024-07": [
+        24,
+        3,
+        23,
+        3,
+        6,
+        4,
+        5,
+        6,
+        0,
+        2,
+        1,
+        2,
+        2,
+        3
+      ],
+      "2024-08": [
+        22,
+        4,
+        25,
+        5,
+        8,
+        8,
+        6,
+        5,
+        1,
+        1,
+        1,
+        4,
+        3,
+        2
+      ],
+      "2024-09": [
+        36,
+        8,
+        28,
+        3,
+        2,
+        10,
+        14,
+        4,
+        1,
+        4,
+        0,
+        1,
+        3,
+        1
+      ],
+      "2024-10": [
+        54,
+        9,
+        46,
+        6,
+        8,
+        8,
+        6,
+        1,
+        0,
+        4,
+        1,
+        4,
+        3,
+        4
+      ],
+      "2024-11": [
+        41,
+        7,
+        32,
+        2,
+        4,
+        4,
+        6,
+        5,
+        1,
+        2,
+        0,
+        9,
+        3,
+        1
+      ],
+      "2024-12": [
+        38,
+        10,
+        31,
+        1,
+        8,
+        5,
+        7,
+        7,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "2025-01": [
+        48,
+        4,
+        45,
+        3,
+        7,
+        8,
+        6,
+        3,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "2025-02": [
+        75,
+        2,
+        66,
+        2,
+        5,
+        8,
+        12,
+        1,
+        0,
+        5,
+        2,
+        3,
+        5,
+        5
+      ],
+      "2025-03": [
+        81,
+        6,
+        53,
+        1,
+        7,
+        9,
+        11,
+        4,
+        1,
+        2,
+        0,
+        7,
+        0,
+        1
+      ],
+      "2025-04": [
+        55,
+        4,
+        36,
+        7,
+        5,
+        8,
+        6,
+        4,
+        0,
+        2,
+        0,
+        2,
+        6,
+        1
+      ],
+      "2025-05": [
+        118,
+        6,
+        67,
+        2,
+        8,
+        7,
+        12,
+        3,
+        0,
+        4,
+        0,
+        8,
+        3,
+        1
+      ],
+      "2025-06": [
+        76,
+        5,
+        44,
+        0,
+        5,
+        12,
+        10,
+        2,
+        0,
+        2,
+        1,
+        6,
+        5,
+        3
+      ],
+      "2025-07": [
+        101,
+        2,
+        47,
+        3,
+        4,
+        12,
+        6,
+        6,
+        0,
+        5,
+        4,
+        5,
+        4,
+        1
+      ],
+      "2025-08": [
+        106,
+        5,
+        50,
+        3,
+        10,
+        15,
+        3,
+        7,
+        0,
+        6,
+        1,
+        10,
+        3,
+        2
+      ],
+      "2025-09": [
+        39,
+        3,
+        22,
+        1,
+        4,
+        7,
+        3,
+        2,
+        0,
+        8,
+        1,
+        1,
+        3,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML",
+          "year": "2024-10",
+          "abstract": "Automated machine learning (AutoML) accelerates AI development by automating\ntasks in the development pipeline, such as optimal model search and\nhyperparameter tuning. Existing AutoML systems often require technical\nexpertise to set up complex tools, which is in general time-consuming and\nrequires a large amount of human effort. Therefore, recent works have started\nexploiting large language models (LLM) to lessen such burden and increase the\nusability of AutoML frameworks via a natural language interface, allowing\nnon-expert users to build their data-driven solutions. These methods, however,\nare usually designed only for a particular process in the AI development\npipeline and do not efficiently use the inherent capacity of the LLMs. This\npaper proposes AutoML-Agent, a novel multi-agent framework tailored for\nfull-pipeline AutoML, i.e., from data retrieval to model deployment.\nAutoML-Agent takes user's task descriptions, facilitates collaboration between\nspecialized LLM agents, and delivers deployment-ready models. Unlike existing\nwork, instead of devising a single plan, we introduce a retrieval-augmented\nplanning strategy to enhance exploration to search for more optimal plans. We\nalso decompose each plan into sub-tasks (e.g., data preprocessing and neural\nnetwork design) each of which is solved by a specialized agent we build via\nprompting executing in parallel, making the search process more efficient.\nMoreover, we propose a multi-stage verification to verify executed results and\nguide the code generation LLM in implementing successful solutions. Extensive\nexperiments on seven downstream tasks using fourteen datasets show that\nAutoML-Agent achieves a higher success rate in automating the full AutoML\nprocess, yielding systems with good performance throughout the diverse domains.",
+          "arxiv_id": "2410.02958v2"
+        },
+        {
+          "title": "Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures",
+          "year": "2023-10",
+          "abstract": "Large language models (LLMs) have revolutionized the field of artificial\nintelligence, endowing it with sophisticated language understanding and\ngeneration capabilities. However, when faced with more complex and\ninterconnected tasks that demand a profound and iterative thought process, LLMs\nreveal their inherent limitations. Autonomous LLM-powered multi-agent systems\nrepresent a strategic response to these challenges. Such systems strive for\nautonomously tackling user-prompted goals by decomposing them into manageable\ntasks and orchestrating their execution and result synthesis through a\ncollective of specialized intelligent agents. Equipped with LLM-powered\nreasoning capabilities, these agents harness the cognitive synergy of\ncollaborating with their peers, enhanced by leveraging contextual resources\nsuch as tools and datasets. While these architectures hold promising potential\nin amplifying AI capabilities, striking the right balance between different\nlevels of autonomy and alignment remains the crucial challenge for their\neffective operation. This paper proposes a comprehensive multi-dimensional\ntaxonomy, engineered to analyze how autonomous LLM-powered multi-agent systems\nbalance the dynamic interplay between autonomy and alignment across various\naspects inherent to architectural viewpoints such as goal-driven task\nmanagement, agent composition, multi-agent collaboration, and context\ninteraction. It also includes a domain-ontology model specifying fundamental\narchitectural concepts. Our taxonomy aims to empower researchers, engineers,\nand AI practitioners to systematically analyze the architectural dynamics and\nbalancing strategies employed by these increasingly prevalent AI systems. The\nexploratory taxonomic classification of selected representative LLM-powered\nmulti-agent systems illustrates its practical utility and reveals potential for\nfuture research and development.",
+          "arxiv_id": "2310.03659v1"
+        },
+        {
+          "title": "Agentic AI and Multiagentic: Are We Reinventing the Wheel?",
+          "year": "2025-06",
+          "abstract": "The terms Agentic AI and Multiagentic AI have recently gained popularity in\ndiscussions on generative artificial intelligence, often used to describe\nautonomous software agents and systems composed of such agents. However, the\nuse of these terms confuses these buzzwords with well-established concepts in\nAI literature: intelligent agents and multi-agent systems. This article offers\na critical analysis of this conceptual misuse. We review the theoretical\norigins of \"agentic\" in the social sciences (Bandura, 1986) and philosophical\nnotions of intentionality (Dennett, 1971), and then summarise foundational\nworks on intelligent agents and multi-agent systems by Wooldridge, Jennings and\nothers. We examine classic agent architectures, from simple reactive agents to\nBelief-Desire-Intention (BDI) models, and highlight key properties (autonomy,\nreactivity, proactivity, social capability) that define agency in AI. We then\ndiscuss recent developments in large language models (LLMs) and agent platforms\nbased on LLMs, including the emergence of LLM-powered AI agents and open-source\nmulti-agent orchestration frameworks. We argue that the term AI Agentic is\noften used as a buzzword for what are essentially AI agents, and AI\nMultiagentic for what are multi-agent systems. This confusion overlooks decades\nof research in the field of autonomous agents and multi-agent systems. The\narticle advocates for scientific and technological rigour and the use of\nestablished terminology from the state of the art in AI, incorporating the\nwealth of existing knowledge, including standards for multi-agent system\nplatforms, communication languages and coordination and cooperation algorithms,\nagreement technologies (automated negotiation, argumentation, virtual\norganisations, trust, reputation, etc.), into the new and promising wave of\nLLM-based AI agents, so as not to end up reinventing the wheel.",
+          "arxiv_id": "2506.01463v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "CL-MAPF: Multi-Agent Path Finding for Car-Like Robots with Kinematic and Spatiotemporal Constraints",
+          "year": "2020-11",
+          "abstract": "Multi-Agent Path Finding has been widely studied in the past few years due to\nits broad application in the field of robotics and AI. However, previous\nsolvers rely on several simplifying assumptions. They limit their applicability\nin numerous real-world domains that adopt nonholonomic car-like agents rather\nthan holonomic ones. In this paper, we give a mathematical formalization of\nMulti-Agent Path Finding for Car-Like robots (CL-MAPF) problem. For the first\ntime, we propose a novel hierarchical search-based solver called Car-like\nConflict-Based Search to address this problem. It applies a body conflict tree\nto address collisions considering shapes of the agents. We introduce a new\nalgorithm called Spatiotemporal Hybrid-State A* as the single-agent path\nplanner to generate path satisfying both kinematic and spatiotemporal\nconstraints. We also present a sequential planning version of our method for\nthe sake of efficiency. We compare our method with two baseline algorithms on a\ndedicated benchmark containing 3000 instances and validate it in real-world\nscenarios. The experiment results give clear evidence that our algorithm scales\nwell to a large number of agents and is able to produce solutions that can be\ndirectly applied to car-like robots in the real world. The benchmark and source\ncode are released in https://github.com/APRIL-ZJU/CL-CBS.",
+          "arxiv_id": "2011.00441v1"
+        },
+        {
+          "title": "Dynamic Prioritization for Conflict-Free Path Planning of Multi-Robot Systems",
+          "year": "2021-01",
+          "abstract": "Planning collision-free paths for multi-robot systems (MRS) is a challenging\nproblem because of the safety and efficiency constraints required for\nreal-world solutions. Even though coupled path planning approaches provide\noptimal collision-free paths for each agent of the MRS, they search the\ncomposite space of all the agents and therefore, suffer from exponential\nincrease in computation with the number of robots. On the other hand,\nprioritized approaches provide a practical solution to applications with large\nnumber of robots, especially when path computation time and collision avoidance\ntake precedence over guaranteed globally optimal solution. While most\ncentrally-planned algorithms use static prioritization, a dynamic\nprioritization algorithm, PD*, is proposed that employs a novel metric, called\nfreedom index, to decide the priority order of the robots at each time step.\nThis allows the PD* algorithm to simultaneously plan the next step for all\nrobots while ensuring collision-free operation in obstacle ridden environments.\nExtensive simulations were performed to test and compare the performance of the\nproposed PD* scheme with other state-of-the-art algorithms. It was found that\nPD* improves upon the computational time by 25% while providing solutions of\nsimilar path lengths. Increase in efficiency was particularly prominent in\nscenarios with large number of robots and/or higher obstacle densities, where\nthe probability of collisions is higher, suggesting the suitability of PD* in\nsolving such problems.",
+          "arxiv_id": "2101.01978v1"
+        },
+        {
+          "title": "Graph-Based Multi-Robot Path Finding and Planning",
+          "year": "2022-06",
+          "abstract": "Purpose of Review\n  Planning collision-free paths for multiple robots is important for real-world\nmulti-robot systems and has been studied as an optimization problem on graphs,\ncalled Multi-Agent Path Finding (MAPF). This review surveys different\ncategories of classic and state-of-the-art MAPF algorithms and different\nresearch attempts to tackle the challenges of generalizing MAPF techniques to\nreal-world scenarios.\n  Recent Findings\n  Solving MAPF problems optimally is computationally challenging. Recent\nadvances have resulted in MAPF algorithms that can compute collision-free paths\nfor hundreds of robots and thousands of navigation tasks in seconds of runtime.\nMany variants of MAPF have been formalized to adapt MAPF techniques to\ndifferent real-world requirements, such as considerations of robot kinematics,\nonline optimization for real-time systems, and the integration of task\nassignment and path planning.\n  Summary\n  Algorithmic techniques for MAPF problems have addressed important aspects of\nseveral multi-robot applications, including automated warehouse fulfillment and\nsortation, automated train scheduling, and navigation of non-holonomic robots\nand quadcopters. This showcases their potential for real-world applications of\nlarge-scale multi-robot systems.",
+          "arxiv_id": "2206.11319v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "RPM: Generalizable Behaviors for Multi-Agent Reinforcement Learning",
+          "year": "2022-10",
+          "abstract": "Despite the recent advancement in multi-agent reinforcement learning (MARL),\nthe MARL agents easily overfit the training environment and perform poorly in\nthe evaluation scenarios where other agents behave differently. Obtaining\ngeneralizable policies for MARL agents is thus necessary but challenging mainly\ndue to complex multi-agent interactions. In this work, we model the problem\nwith Markov Games and propose a simple yet effective method, ranked policy\nmemory (RPM), to collect diverse multi-agent trajectories for training MARL\npolicies with good generalizability. The main idea of RPM is to maintain a\nlook-up memory of policies. In particular, we try to acquire various levels of\nbehaviors by saving policies via ranking the training episode return, i.e., the\nepisode return of agents in the training environment; when an episode starts,\nthe learning agent can then choose a policy from the RPM as the behavior\npolicy. This innovative self-play training framework leverages agents' past\npolicies and guarantees the diversity of multi-agent interaction in the\ntraining data. We implement RPM on top of MARL algorithms and conduct extensive\nexperiments on Melting Pot. It has been demonstrated that RPM enables MARL\nagents to interact with unseen agents in multi-agent generalization evaluation\nscenarios and complete given tasks, and it significantly boosts the performance\nup to 402% on average.",
+          "arxiv_id": "2210.09646v1"
+        },
+        {
+          "title": "Greedy UnMixing for Q-Learning in Multi-Agent Reinforcement Learning",
+          "year": "2021-09",
+          "abstract": "This paper introduces Greedy UnMix (GUM) for cooperative multi-agent\nreinforcement learning (MARL). Greedy UnMix aims to avoid scenarios where MARL\nmethods fail due to overestimation of values as part of the large joint\nstate-action space. It aims to address this through a conservative Q-learning\napproach through restricting the state-marginal in the dataset to avoid\nunobserved joint state action spaces, whilst concurrently attempting to unmix\nor simplify the problem space under the centralized training with decentralized\nexecution paradigm. We demonstrate the adherence to Q-function lower bounds in\nthe Q-learning for MARL scenarios, and demonstrate superior performance to\nexisting Q-learning MARL approaches as well as more general MARL algorithms\nover a set of benchmark MARL tasks, despite its relative simplicity compared\nwith state-of-the-art approaches.",
+          "arxiv_id": "2109.09034v1"
+        },
+        {
+          "title": "PAC: Assisted Value Factorisation with Counterfactual Predictions in Multi-Agent Reinforcement Learning",
+          "year": "2022-06",
+          "abstract": "Multi-agent reinforcement learning (MARL) has witnessed significant progress\nwith the development of value function factorization methods. It allows\noptimizing a joint action-value function through the maximization of factorized\nper-agent utilities due to monotonicity. In this paper, we show that in\npartially observable MARL problems, an agent's ordering over its own actions\ncould impose concurrent constraints (across different states) on the\nrepresentable function class, causing significant estimation error during\ntraining. We tackle this limitation and propose PAC, a new framework leveraging\nAssistive information generated from Counterfactual Predictions of optimal\njoint action selection, which enable explicit assistance to value function\nfactorization through a novel counterfactual loss. A variational\ninference-based information encoding method is developed to collect and encode\nthe counterfactual predictions from an estimated baseline. To enable\ndecentralized execution, we also derive factorized per-agent policies inspired\nby a maximum-entropy MARL framework. We evaluate the proposed PAC on\nmulti-agent predator-prey and a set of StarCraft II micromanagement tasks.\nEmpirical results demonstrate improved results of PAC over state-of-the-art\nvalue-based and policy-based multi-agent reinforcement learning algorithms on\nall benchmarks.",
+          "arxiv_id": "2206.11420v3"
+        }
+      ],
+      "3": [
+        {
+          "title": "The fastest linearly converging discrete-time average consensus using buffered information",
+          "year": "2022-06",
+          "abstract": "In this letter, we study the problem of accelerating reaching average\nconsensus over connected graphs in a discrete-time communication setting.\nLiterature has shown that consensus algorithms can be accelerated by increasing\nthe graph connectivity or optimizing the weights agents place on the\ninformation received from their neighbors. In this letter instead of altering\nthe communication graph, we investigate two methods that use buffered states to\naccelerate reaching average consensus over a given graph. In the first method,\nwe study how convergence rate of the well-known first-order Laplacian average\nconsensus algorithm changes with delayed feedback and obtain a sufficient\ncondition on the ranges of delay that leads to faster convergence. In the\nsecond proposed method, we show how average consensus problem can be cast as a\nconvex optimization problem and solved by first-order accelerated optimization\nalgorithms for strongly-convex cost functions. We construct the fastest\nconverging average consensus algorithm using the so-called Triple Momentum\noptimization algorithm. We demonstrate our results using an in-network linear\nregression problem, which is formulated as two average consensus problems.",
+          "arxiv_id": "2206.09916v1"
+        },
+        {
+          "title": "Distributed design of deterministic discrete-time privacy preserving average consensus for multi-agent systems through network augmentation",
+          "year": "2021-12",
+          "abstract": "Average consensus protocols emerge with a central role in distributed systems\nand decision-making such as distributed information fusion, distributed\noptimization, distributed estimation, and control. A key advantage of these\nprotocols is that agents exchange and reveal their state information only to\ntheir neighbors. Yet, it can raise privacy concerns in situations where the\nagents' states contain sensitive information. In this paper, we propose a novel\n(noiseless) privacy preserving distributed algorithms for multi-agent systems\nto reach an average consensus. The main idea of the algorithms is that each\nagent runs a (small) network with a crafted structure and dynamics to form a\nnetwork of networks (i.e., the connection between the newly created networks\nand their interconnections respecting the initial network connections).\nTogether with a re-weighting of the dynamic parameters dictating the\ninter-agent dynamics and the initial states, we show that it is possible to\nensure that the value of each node converges to the consensus value of the\noriginal network. Furthermore, we show that, under mild assumptions, it is\npossible to craft the dynamics such that the design can be achieved in a\ndistributed fashion. Finally, we illustrate the proposed algorithm with\nexamples.",
+          "arxiv_id": "2112.09914v1"
+        },
+        {
+          "title": "Fast model averaging via buffered states and first-order accelerated optimization algorithms",
+          "year": "2022-11",
+          "abstract": "In this letter, we study the problem of accelerating reaching average\nconsensus over connected graphs in a discrete-time communication setting.\nLiterature has shown that consensus algorithms can be accelerated by increasing\nthe graph connectivity or optimizing the weights agents place on the\ninformation received from their neighbors. Here, instead of altering the\ncommunication graph, we investigate two methods that use buffered states to\naccelerate reaching average consensus over a given graph. In the first method,\nwe study how convergence rate of the well-known first-order Laplacian average\nconsensus algorithm changes when agreement feedback is generated from buffered\nstates. For this study, we obtain a sufficient condition on the ranges of\nbuffered state that leads to faster convergence. In the second proposed method,\nwe show how the average consensus problem can be cast as a convex optimization\nproblem and solved by first-order accelerated optimization algorithms for\nstrongly-convex cost functions. We construct an accelerated average consensus\nalgorithm using the so-called Triple Momentum optimization algorithm. The first\napproach requires less global knowledge for choosing the step size, whereas the\nsecond one converges faster in our numerical results by using extra information\nfrom the graph topology. We demonstrate our results by implementing the\nproposed algorithms in a Gaussian Mixture Model (GMM) estimation problem used\nin sensor networks.",
+          "arxiv_id": "2211.05959v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Learning in Multi-Memory Games Triggers Complex Dynamics Diverging from Nash Equilibrium",
+          "year": "2023-02",
+          "abstract": "Repeated games consider a situation where multiple agents are motivated by\ntheir independent rewards throughout learning. In general, the dynamics of\ntheir learning become complex. Especially when their rewards compete with each\nother like zero-sum games, the dynamics often do not converge to their optimum,\ni.e., the Nash equilibrium. To tackle such complexity, many studies have\nunderstood various learning algorithms as dynamical systems and discovered\nqualitative insights among the algorithms. However, such studies have yet to\nhandle multi-memory games (where agents can memorize actions they played in the\npast and choose their actions based on their memories), even though\nmemorization plays a pivotal role in artificial intelligence and interpersonal\nrelationship. This study extends two major learning algorithms in games, i.e.,\nreplicator dynamics and gradient ascent, into multi-memory games. Then, we\nprove their dynamics are identical. Furthermore, theoretically and\nexperimentally, we clarify that the learning dynamics diverge from the Nash\nequilibrium in multi-memory zero-sum games and reach heteroclinic cycles\n(sojourn longer around the boundary of the strategy space), providing a\nfundamental advance in learning in games.",
+          "arxiv_id": "2302.01073v2"
+        },
+        {
+          "title": "Finite-Sample Analysis of Decentralized Q-Learning for Stochastic Games",
+          "year": "2021-12",
+          "abstract": "Learning in stochastic games is arguably the most standard and fundamental\nsetting in multi-agent reinforcement learning (MARL). In this paper, we\nconsider decentralized MARL in stochastic games in the non-asymptotic regime.\nIn particular, we establish the finite-sample complexity of fully decentralized\nQ-learning algorithms in a significant class of general-sum stochastic games\n(SGs) - weakly acyclic SGs, which includes the common cooperative MARL setting\nwith an identical reward to all agents (a Markov team problem) as a special\ncase. We focus on the practical while challenging setting of fully\ndecentralized MARL, where neither the rewards nor the actions of other agents\ncan be observed by each agent. In fact, each agent is completely oblivious to\nthe presence of other decision makers. Both the tabular and the linear function\napproximation cases have been considered. In the tabular setting, we analyze\nthe sample complexity for the decentralized Q-learning algorithm to converge to\na Markov perfect equilibrium (Nash equilibrium). With linear function\napproximation, the results are for convergence to a linear approximated\nequilibrium - a new notion of equilibrium that we propose - which describes\nthat each agent's policy is a best reply (to other agents) within a linear\nspace. Numerical experiments are also provided for both settings to demonstrate\nthe results.",
+          "arxiv_id": "2112.07859v2"
+        },
+        {
+          "title": "Breaking the Curse of Multiagents in a Large State Space: RL in Markov Games with Independent Linear Function Approximation",
+          "year": "2023-02",
+          "abstract": "We propose a new model, independent linear Markov game, for multi-agent\nreinforcement learning with a large state space and a large number of agents.\nThis is a class of Markov games with independent linear function approximation,\nwhere each agent has its own function approximation for the state-action value\nfunctions that are marginalized by other players' policies. We design new\nalgorithms for learning the Markov coarse correlated equilibria (CCE) and\nMarkov correlated equilibria (CE) with sample complexity bounds that only scale\npolynomially with each agent's own function class complexity, thus breaking the\ncurse of multiagents. In contrast, existing works for Markov games with\nfunction approximation have sample complexity bounds scale with the size of the\n\\emph{joint action space} when specialized to the canonical tabular Markov game\nsetting, which is exponentially large in the number of agents. Our algorithms\nrely on two key technical innovations: (1) utilizing policy replay to tackle\nnon-stationarity incurred by multiple agents and the use of function\napproximation; (2) separating learning Markov equilibria and exploration in the\nMarkov games, which allows us to use the full-information no-regret learning\noracle instead of the stronger bandit-feedback no-regret learning oracle used\nin the tabular setting. Furthermore, we propose an iterative-best-response type\nalgorithm that can learn pure Markov Nash equilibria in independent linear\nMarkov potential games. In the tabular case, by adapting the policy replay\nmechanism for independent linear Markov games, we propose an algorithm with\n$\\widetilde{O}(\\epsilon^{-2})$ sample complexity to learn Markov CCE, which\nimproves the state-of-the-art result $\\widetilde{O}(\\epsilon^{-3})$ in\nDaskalakis et al. 2022, where $\\epsilon$ is the desired accuracy, and also\nsignificantly improves other problem parameters.",
+          "arxiv_id": "2302.03673v3"
+        }
+      ],
+      "5": [
+        {
+          "title": "CoV-ABM: A stochastic discrete-event agent-based framework to simulate spatiotemporal dynamics of COVID-19",
+          "year": "2020-07",
+          "abstract": "The paper develops a stochastic Agent-Based Model (ABM) mimicking the spread\nof infectious diseases in geographical domains. The model is designed to\nsimulate the spatiotemporal spread of SARS-CoV2 disease, known as COVID-19. Our\nSARS-CoV2-based ABM framework (CoV-ABM) simulates the spread at any\ngeographical scale, ranging from a village to a country and considers unique\ncharacteristics of SARS-CoV2 viruses such as its persistence in the\nenvironment. Therefore, unlike other simulators, CoV-ABM computes the density\nof active viruses inside each location space to get the virus transmission\nprobability for each agent. It also uses the local census and health data to\ncreate health and risk factor profiles for each individual. The proposed model\nrelies on a flexible timestamp scale to optimize the computational speed and\nthe level of detail. In our framework each agent represents a person\ninteracting with the surrounding space and other adjacent agents inside the\nsame space. Moreover, families stochastic daily tasks are formulated to get\ntracked by the corresponding family members. The model also formulates the\npossibility of meetings for each subset of friendships and relatives. The main\naim of the proposed framework is threefold: to illustrate the dynamics of\nSARS-CoV diseases, to identify places which have a higher probability to become\ninfection hubs and to provide a decision-support system to design efficient\ninterventions in order to fight against pandemics. The framework employs SEIHRD\ndynamics of viral diseases with different intervention scenarios. The paper\nsimulates the spread of COVID-19 in the State of Delaware, United States, with\nnear one million stochastic agents. The results achieved over a period of 15\nweeks with a timestamp of 1 hour show which places become the hubs of\ninfection. The paper also illustrates how hospitals get overwhelmed as the\noutbreak reaches its pick.",
+          "arxiv_id": "2007.13231v1"
+        },
+        {
+          "title": "DeepABM: Scalable, efficient and differentiable agent-based simulations via graph neural networks",
+          "year": "2021-10",
+          "abstract": "We introduce DeepABM, a framework for agent-based modeling that leverages\ngeometric message passing of graph neural networks for simulating action and\ninteractions over large agent populations. Using DeepABM allows scaling\nsimulations to large agent populations in real-time and running them\nefficiently on GPU architectures. To demonstrate the effectiveness of DeepABM,\nwe build DeepABM-COVID simulator to provide support for various\nnon-pharmaceutical interventions (quarantine, exposure notification,\nvaccination, testing) for the COVID-19 pandemic, and can scale to populations\nof representative size in real-time on a GPU. Specifically, DeepABM-COVID can\nmodel 200 million interactions (over 100,000 agents across 180 time-steps) in\n90 seconds, and is made available online to help researchers with modeling and\nanalysis of various interventions. We explain various components of the\nframework and discuss results from one research study to evaluate the impact of\ndelaying the second dose of the COVID-19 vaccine in collaboration with clinical\nand public health experts. While we simulate COVID-19 spread, the ideas\nintroduced in the paper are generic and can be easily extend to other forms of\nagent-based simulations. Furthermore, while beyond scope of this document,\nDeepABM enables inverse agent-based simulations which can be used to learn\nphysical parameters in the (micro) simulations using gradient-based\noptimization with large-scale real-world (macro) data. We are optimistic that\nthe current work can have interesting implications for bringing ABM and AI\ncommunities closer.",
+          "arxiv_id": "2110.04421v1"
+        },
+        {
+          "title": "Agent-based modeling for realistic reproduction of human mobility and contact behavior to evaluate test and isolation strategies in epidemic infectious disease spread",
+          "year": "2024-10",
+          "abstract": "Agent-based models have proven to be useful tools in supporting\ndecision-making processes in different application domains. The advent of\nmodern computers and supercomputers has enabled these bottom-up approaches to\nrealistically model human mobility and contact behavior. The COVID-19 pandemic\nshowcased the urgent need for detailed and informative models that can answer\nresearch questions on transmission dynamics. We present a sophisticated\nagent-based model to simulate the spread of respiratory diseases. The model is\nhighly modularized and can be used on various scales, from a small collection\nof buildings up to cities or countries. Although not being the focus of this\npaper, the model has undergone performance engineering on a single core and\nprovides an efficient intra- and inter-simulation parallelization for\ntime-critical decision-making processes.\n  In order to allow answering research questions on individual level\nresolution, nonpharmaceutical intervention strategies such as face masks or\nvenue closures can be implemented for particular locations or agents. In\nparticular, we allow for sophisticated testing and isolation strategies to\nstudy the effects of minimal-invasive infectious disease mitigation. With\nrealistic human mobility patterns for the region of Brunswick, Germany, we\nstudy the effects of different interventions between March 1st and May 30, 2021\nin the SARS-CoV-2 pandemic. Our analyses suggest that symptom-independent\ntesting has limited impact on the mitigation of disease dynamics if the dark\nfigure in symptomatic cases is high. Furthermore, we found that quarantine\nlength is more important than quarantine efficiency but that, with sufficient\nsymptomatic control, also short quarantines can have a substantial effect.",
+          "arxiv_id": "2410.08050v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Multi-agent Reinforcement Learning for Cooperative Lane Changing of Connected and Autonomous Vehicles in Mixed Traffic",
+          "year": "2021-11",
+          "abstract": "Autonomous driving has attracted significant research interests in the past\ntwo decades as it offers many potential benefits, including releasing drivers\nfrom exhausting driving and mitigating traffic congestion, among others.\nDespite promising progress, lane-changing remains a great challenge for\nautonomous vehicles (AV), especially in mixed and dynamic traffic scenarios.\nRecently, reinforcement learning (RL), a powerful data-driven control method,\nhas been widely explored for lane-changing decision makings in AVs with\nencouraging results demonstrated. However, the majority of those studies are\nfocused on a single-vehicle setting, and lane-changing in the context of\nmultiple AVs coexisting with human-driven vehicles (HDVs) have received scarce\nattention. In this paper, we formulate the lane-changing decision making of\nmultiple AVs in a mixed-traffic highway environment as a multi-agent\nreinforcement learning (MARL) problem, where each AV makes lane-changing\ndecisions based on the motions of both neighboring AVs and HDVs. Specifically,\na multi-agent advantage actor-critic network (MA2C) is developed with a novel\nlocal reward design and a parameter sharing scheme. In particular, a\nmulti-objective reward function is proposed to incorporate fuel efficiency,\ndriving comfort, and safety of autonomous driving. Comprehensive experimental\nresults, conducted under three different traffic densities and various levels\nof human driver aggressiveness, show that our proposed MARL framework\nconsistently outperforms several state-of-the-art benchmarks in terms of\nefficiency, safety and driver comfort.",
+          "arxiv_id": "2111.06318v2"
+        },
+        {
+          "title": "Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation",
+          "year": "2022-10",
+          "abstract": "While there have been advancements in autonomous driving control and traffic\nsimulation, there have been little to no works exploring their unification with\ndeep learning. Works in both areas seem to focus on entirely different\nexclusive problems, yet traffic and driving are inherently related in the real\nworld. In this paper, we present Traffic-Aware Autonomous Driving (TrAAD), a\ngeneralizable distillation-style method for traffic-informed imitation learning\nthat directly optimizes for faster traffic flow and lower energy consumption.\nTrAAD focuses on the supervision of speed control in imitation learning\nsystems, as most driving research focuses on perception and steering. Moreover,\nour method addresses the lack of co-simulation between traffic and driving\nsimulators and provides a basis for directly involving traffic simulation with\nautonomous driving in future work. Our results show that, with information from\ntraffic simulation involved in the supervision of imitation learning methods,\nan autonomous vehicle can learn how to accelerate in a fashion that is\nbeneficial for traffic flow and overall energy consumption for all nearby\nvehicles.",
+          "arxiv_id": "2210.03772v5"
+        },
+        {
+          "title": "Learning to Control and Coordinate Mixed Traffic Through Robot Vehicles at Complex and Unsignalized Intersections",
+          "year": "2023-01",
+          "abstract": "Intersections are essential road infrastructures for traffic in modern\nmetropolises. However, they can also be the bottleneck of traffic flows as a\nresult of traffic incidents or the absence of traffic coordination mechanisms\nsuch as traffic lights. Recently, various control and coordination mechanisms\nthat are beyond traditional control methods have been proposed to improve the\nefficiency of intersection traffic by leveraging the ability of autonomous\nvehicles. Amongst these methods, the control of foreseeable mixed traffic that\nconsists of human-driven vehicles (HVs) and robot vehicles (RVs) has emerged.\nWe propose a decentralized multi-agent reinforcement learning approach for the\ncontrol and coordination of mixed traffic by RVs at real-world, complex\nintersections -- an open challenge to date. We design comprehensive experiments\nto evaluate the effectiveness, robustness, generalizablility, and adaptability\nof our approach. In particular, our method can prevent congestion formation via\nmerely 5% RVs under a real-world traffic demand of 700 vehicles per hour. In\ncontrast, without RVs, congestion will form when the traffic demand reaches as\nlow as 200 vehicles per hour. Moreover, when the RV penetration rate exceeds\n60%, our method starts to outperform traffic signal control in terms of the\naverage waiting time of all vehicles. Our method is not only robust against\nblackout events, sudden RV percentage drops, and V2V communication error, but\nalso enjoys excellent generalizablility, evidenced by its successful deployment\nin five unseen intersections. Lastly, our method performs well under various\ntraffic rules, demonstrating its adaptability to diverse scenarios. Videos and\ncode of our work are available at\nhttps://sites.google.com/view/mixedtrafficcontrol",
+          "arxiv_id": "2301.05294v4"
+        }
+      ],
+      "7": [
+        {
+          "title": "Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents",
+          "year": "2024-03",
+          "abstract": "Growing concerns about safety and alignment of AI systems highlight the\nimportance of embedding moral capabilities in artificial agents: a promising\nsolution is the use of learning from experience, i.e., Reinforcement Learning.\nIn multi-agent (social) environments, complex population-level phenomena may\nemerge from interactions between individual learning agents. Many of the\nexisting studies rely on simulated social dilemma environments to study the\ninteractions of independent learning agents; however, they tend to ignore the\nmoral heterogeneity that is likely to be present in societies of agents in\npractice. For example, at different points in time a single learning agent may\nface opponents who are consequentialist (i.e., focused on maximizing outcomes\nover time), norm-based (i.e., conforming to specific norms), or virtue-based\n(i.e., considering a combination of different virtues). The extent to which\nagents' co-development may be impacted by such moral heterogeneity in\npopulations is not well understood. In this paper, we present a study of the\nlearning dynamics of morally heterogeneous populations interacting in a social\ndilemma setting. Using an Iterated Prisoner's Dilemma environment with a\npartner selection mechanism, we investigate the extent to which the prevalence\nof diverse moral agents in populations affects individual agents' learning\nbehaviors and emergent population-level outcomes. We observe several types of\nnon-trivial interactions between pro-social and anti-social agents, and find\nthat certain types of moral agents are able to steer selfish agents towards\nmore cooperative behavior.",
+          "arxiv_id": "2403.04202v7"
+        },
+        {
+          "title": "Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning",
+          "year": "2024-05",
+          "abstract": "The significance of network structures in promoting group cooperation within\nsocial dilemmas has been widely recognized. Prior studies attribute this\nfacilitation to the assortment of strategies driven by spatial interactions.\nAlthough reinforcement learning has been employed to investigate the impact of\ndynamic interaction on the evolution of cooperation, there remains a lack of\nunderstanding about how agents develop neighbour selection behaviours and the\nformation of strategic assortment within an explicit interaction structure. To\naddress this, our study introduces a computational framework based on\nmulti-agent reinforcement learning in the spatial Prisoner's Dilemma game. This\nframework allows agents to select dilemma strategies and interacting neighbours\nbased on their long-term experiences, differing from existing research that\nrelies on preset social norms or external incentives. By modelling each agent\nusing two distinct Q-networks, we disentangle the coevolutionary dynamics\nbetween cooperation and interaction. The results indicate that long-term\nexperience enables agents to develop the ability to identify non-cooperative\nneighbours and exhibit a preference for interaction with cooperative ones. This\nemergent self-organizing behaviour leads to the clustering of agents with\nsimilar strategies, thereby increasing network reciprocity and enhancing group\ncooperation.",
+          "arxiv_id": "2405.02654v2"
+        },
+        {
+          "title": "Deconstructing Cooperation and Ostracism via Multi-Agent Reinforcement Learning",
+          "year": "2023-10",
+          "abstract": "Cooperation is challenging in biological systems, human societies, and\nmulti-agent systems in general. While a group can benefit when everyone\ncooperates, it is tempting for each agent to act selfishly instead. Prior human\nstudies show that people can overcome such social dilemmas while choosing\ninteraction partners, i.e., strategic network rewiring. However, little is\nknown about how agents, including humans, can learn about cooperation from\nstrategic rewiring and vice versa. Here, we perform multi-agent reinforcement\nlearning simulations in which two agents play the Prisoner's Dilemma game\niteratively. Each agent has two policies: one controls whether to cooperate or\ndefect; the other controls whether to rewire connections with another agent.\nThis setting enables us to disentangle complex causal dynamics between\ncooperation and network rewiring. We find that network rewiring facilitates\nmutual cooperation even when one agent always offers cooperation, which is\nvulnerable to free-riding. We then confirm that the network-rewiring effect is\nexerted through agents' learning of ostracism, that is, connecting to\ncooperators and disconnecting from defectors. However, we also find that\nostracism alone is not sufficient to make cooperation emerge. Instead,\nostracism emerges from the learning of cooperation, and existing cooperation is\nsubsequently reinforced due to the presence of ostracism. Our findings provide\ninsights into the conditions and mechanisms necessary for the emergence of\ncooperation with network rewiring.",
+          "arxiv_id": "2310.04623v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "A generalized ride-matching approach for sustainable shared mobility",
+          "year": "2021-01",
+          "abstract": "On-demand shared mobility is a promising and sustainable transportation\napproach that can mitigate vehicle externalities, such as traffic congestion\nand emission. On-demand shared mobility systems require matching of one\n(one-to-one) or multiple riders (many-to-one) to a vehicle based on real-time\ninformation. We propose a novel Graph-based Many-to-One ride-Matching\n(GMOMatch) algorithm for the dynamic many-to-one matching problem in the\npresence of traffic congestion. GMOMatch, which is an iterative two-step\nmethod, provides high service quality and is efficient in terms of\ncomputational complexity. It starts with a one-to-one matching in Step 1 and is\nfollowed by solving a maximum weight matching problem in Step 2 to combine the\ntravel requests. To evaluate the performance, it is compared with a\nride-matching algorithm developed by Simonetto et al. (2019). Both algorithms\nare implemented in a micro-traffic simulator to assess their performance and\ntheir impact on traffic congestion in Downtown, Toronto road network. In\ncomparison to the Simonetto, GMOMatch improved the service rate, vehicle\nkilometer traveled and traffic travel time by 32%, 16.07%, and 4%,\nrespectively. The sensitivity analysis indicated that utilizing vehicles with a\ncapacity of 10 can achieve 25% service rate improvement compared to a capacity\nof 4.",
+          "arxiv_id": "2101.08657v3"
+        },
+        {
+          "title": "A Distributed Model-Free Ride-Sharing Approach for Joint Matching, Pricing, and Dispatching using Deep Reinforcement Learning",
+          "year": "2020-10",
+          "abstract": "Significant development of ride-sharing services presents a plethora of\nopportunities to transform urban mobility by providing personalized and\nconvenient transportation while ensuring efficiency of large-scale ride\npooling. However, a core problem for such services is route planning for each\ndriver to fulfill the dynamically arriving requests while satisfying given\nconstraints. Current models are mostly limited to static routes with only two\nrides per vehicle (optimally) or three (with heuristics). In this paper, we\npresent a dynamic, demand aware, and pricing-based vehicle-passenger matching\nand route planning framework that (1) dynamically generates optimal routes for\neach vehicle based on online demand, pricing associated with each ride, vehicle\ncapacities and locations. This matching algorithm starts greedily and optimizes\nover time using an insertion operation, (2) involves drivers in the\ndecision-making process by allowing them to propose a different price based on\nthe expected reward for a particular ride as well as the destination locations\nfor future rides, which is influenced by supply-and demand computed by the Deep\nQ-network, (3) allows customers to accept or reject rides based on their set of\npreferences with respect to pricing and delay windows, vehicle type and\ncarpooling preferences, and (4) based on demand prediction, our approach\nre-balances idle vehicles by dispatching them to the areas of anticipated high\ndemand using deep Reinforcement Learning (RL). Our framework is validated using\nthe New York City Taxi public dataset; however, we consider different vehicle\ntypes and designed customer utility functions to validate the setup and study\ndifferent settings. Experimental results show the effectiveness of our approach\nin real-time and large scale settings.",
+          "arxiv_id": "2010.01755v2"
+        },
+        {
+          "title": "Integrating Parcel Deliveries into a Ride-Pooling Service -- An Agent-Based Simulation Study",
+          "year": "2022-05",
+          "abstract": "This paper examines the integration of freight delivery into the passenger\ntransport of an on-demand ride-pooling service. The goal of this research is to\nuse existing passenger trips for logistics services and thus reduce additional\nvehicle kilometers for freight delivery and the total number of vehicles on the\nroad network. This is achieved by merging the need for two separate fleets into\na single one by combining the services. To evaluate the potential of such a\nmobility-on-demand service, this paper uses an agent-based simulation framework\nand integrates three heuristic parcel assignment strategies into a ride-pooling\nfleet control algorithm. Two integration scenarios (moderate and full) are set\nup. While in both scenarios passengers and parcels share rides in one vehicle,\nin the moderate scenario no stops for parcel pick-up and delivery are allowed\nduring a passenger ride to decrease customer inconvenience. Using real-world\ndemand data for a case study of Munich, Germany, the two integration scenarios\ntogether with the three assignment strategies are compared to the status quo,\nwhich uses two separate vehicle fleets for passenger and logistics transport.\nThe results indicate that the integration of logistics services into a\nride-pooling service is possible and can exploit unused system capacities\nwithout deteriorating passenger transport. Depending on the assignment\nstrategies nearly all parcels can be served until a parcel to passenger demand\nratio of 1:10 while the overall fleet kilometers can be deceased compared to\nthe status quo.",
+          "arxiv_id": "2205.04718v1"
+        }
+      ],
+      "9": [
+        {
+          "title": "Approximately Envy-Free Budget-Feasible Allocation",
+          "year": "2021-06",
+          "abstract": "In the budget-feasible allocation problem, a set of items with varied sizes\nand values are to be allocated to a group of agents. Each agent has a budget\nconstraint on the total size of items she can receive. The goal is to compute a\nfeasible allocation that is envy-free (EF), in which the agents do not envy\neach other for the items they receive, nor do they envy a charity, who is\nendowed with all the unallocated items. Since EF allocations barely exist even\nwithout budget constraints, we are interested in the relaxed notion of\nenvy-freeness up to one item (EF1). The computation of both exact and\napproximate EF1 allocations remains largely open, despite a recent effort by Wu\net al. (IJCAI 2021) in showing that any budget-feasible allocation that\nmaximizes the Nash Social Welfare (NSW) is 1/4-approximate EF1. In this paper,\nwe move one step forward by showing that for agents with identical additive\nvaluations, a 1/2-approximate EF1 allocation can be computed in polynomial\ntime. For the uniform-budget and two-agent cases, we propose efficient\nalgorithms for computing an exact EF1 allocation. We also consider the large\nbudget setting, i.e., when the item sizes are infinitesimal compared with the\nagents' budgets, and show that both the NSW maximizing allocation and the\nallocation our polynomial-time algorithm computes have an approximation close\nto 1 regarding EF1.",
+          "arxiv_id": "2106.14446v1"
+        },
+        {
+          "title": "Fairness Criteria for Allocating Indivisible Chores: Connections and Efficiencies",
+          "year": "2021-01",
+          "abstract": "We study several fairness notions in allocating indivisible chores (i.e.,\nitems with non-positive values) to agents who have additive and submodular cost\nfunctions. The fairness criteria we are concern with are envy-free up to any\nitem (EFX), envy-free up to one item (EF1), maximin share (MMS), and pairwise\nmaximin share (PMMS), which are proposed as relaxations of envy-freeness in the\nsetting of additive cost functions. For allocations under each fairness\ncriterion, we establish their approximation guarantee for other fairness\ncriteria. Under the additive setting, our results show strong connections\nbetween these fairness criteria and, at the same time, reveal intrinsic\ndifferences between goods allocation and chores allocation. However, such\nstrong relationships cannot be inherited by the submodular setting, under which\nPMMS and MMS are no longer relaxations of envy-freeness and, even worse, few\nnon-trivial guarantees exist. We also investigate efficiency loss under these\nfairness constraints and establish their prices of fairness.",
+          "arxiv_id": "2101.07435v3"
+        },
+        {
+          "title": "Class Fairness in Online Matching",
+          "year": "2022-03",
+          "abstract": "In the classical version of online bipartite matching, there is a given set\nof offline vertices (aka agents) and another set of vertices (aka items) that\narrive online. When each item arrives, its incident edges -- the agents who\nlike the item -- are revealed and the algorithm must irrevocably match the item\nto such agents. We initiate the study of class fairness in this setting, where\nagents are partitioned into a set of classes and the matching is required to be\nfair with respect to the classes. We adopt popular fairness notions from the\nfair division literature such as envy-freeness (up to one item),\nproportionality, and maximin share fairness to our setting. Our class versions\nof these notions demand that all classes, regardless of their sizes, receive a\nfair treatment. We study deterministic and randomized algorithms for matching\nindivisible items (leading to integral matchings) and for matching divisible\nitems (leading to fractional matchings). We design and analyze three novel\nalgorithms. For matching indivisible items, we propose an\nadaptive-priority-based algorithm, MATCH-AND-SHIFT, prove that it achieves\n1/2-approximation of both class envy-freeness up to one item and class maximin\nshare fairness, and show that each guarantee is tight. For matching divisible\nitems, we design a water-filling-based algorithm, EQUAL-FILLING, that achieves\n(1-1/e)-approximation of class envy-freeness and class proportionality; we\nprove (1-1/e) to be tight for class proportionality and establish a 3/4 upper\nbound on class envy-freeness. Finally, we build upon EQUAL-FILLING to design a\nrandomized algorithm for matching indivisible items, EQAUL-FILLING-OCS, which\nachieves 0.593-approximation of class proportionality. The algorithm and its\nanalysis crucially leverage the recently introduced technique of online\ncorrelated selection (OCS) [Fahrbach et al., 2020].",
+          "arxiv_id": "2203.03751v1"
+        }
+      ],
+      "10": [
+        {
+          "title": "Multi-Agent Reinforcement Learning for Multi-Cell Spectrum and Power Allocation",
+          "year": "2023-12",
+          "abstract": "This paper introduces a novel approach to radio resource allocation in\nmulti-cell wireless networks using a fully scalable multi-agent reinforcement\nlearning (MARL) framework. A distributed method is developed where agents\ncontrol individual cells and determine spectrum and power allocation based on\nlimited local information, yet achieve quality of service (QoS) performance\ncomparable to centralized methods using global information. The objective is to\nminimize packet delays across devices under stochastic arrivals and applies to\nboth conflict graph abstractions and cellular network configurations. This is\nformulated as a distributed learning problem, implementing a multi-agent\nproximal policy optimization (MAPPO) algorithm with recurrent neural networks\nand queueing dynamics. This traffic-driven MARL-based solution enables\ndecentralized training and execution, ensuring scalability to large networks.\nExtensive simulations demonstrate that the proposed methods achieve comparable\nQoS performance to genie-aided centralized algorithms with significantly less\nexecution time. The trained policies also exhibit scalability and robustness\nacross various network sizes and traffic conditions.",
+          "arxiv_id": "2312.05746v2"
+        },
+        {
+          "title": "Multi-Agent Reinforcement Learning for Network Selection and Resource Allocation in Heterogeneous multi-RAT Networks",
+          "year": "2022-02",
+          "abstract": "The rapid production of mobile devices along with the wireless applications\nboom is continuing to evolve daily. This motivates the exploitation of wireless\nspectrum using multiple Radio Access Technologies (multi-RAT) and developing\ninnovative network selection techniques to cope with such intensive demand\nwhile improving Quality of Service (QoS). Thus, we propose a distributed\nframework for dynamic network selection at the edge level, and resource\nallocation at the Radio Access Network (RAN) level, while taking into\nconsideration diverse applications' characteristics. In particular, our\nframework employs a deep Multi-Agent Reinforcement Learning (DMARL) algorithm,\nthat aims to maximize the edge nodes' quality of experience while extending the\nbattery lifetime of the nodes and leveraging adaptive compression schemes.\nIndeed, our framework enables data transfer from the network's edge nodes, with\nmulti-RAT capabilities, to the cloud in a cost and energy-efficient manner,\nwhile maintaining QoS requirements of different supported applications. Our\nresults depict that our solution outperforms state-of-the-art techniques of\nnetwork selection in terms of energy consumption, latency, and cost.",
+          "arxiv_id": "2202.10308v1"
+        },
+        {
+          "title": "Heterogeneous Task Offloading and Resource Allocations via Deep Recurrent Reinforcement Learning in Partial Observable Multi-Fog Networks",
+          "year": "2020-07",
+          "abstract": "As wireless services and applications become more sophisticated and require\nfaster and higher-capacity networks, there is a need for an efficient\nmanagement of the execution of increasingly complex tasks based on the\nrequirements of each application. In this regard, fog computing enables the\nintegration of virtualized servers into networks and brings cloud services\ncloser to end devices. In contrast to the cloud server, the computing capacity\nof fog nodes is limited and thus a single fog node might not be capable of\ncomputing-intensive tasks. In this context, task offloading can be particularly\nuseful at the fog nodes by selecting the suitable nodes and proper resource\nmanagement while guaranteeing the Quality-of-Service (QoS) requirements of the\nusers. This paper studies the design of a joint task offloading and resource\nallocation control for heterogeneous service tasks in multi-fog nodes systems.\nThis problem is formulated as a partially observable stochastic game, in which\neach fog node cooperates to maximize the aggregated local rewards while the\nnodes only have access to local observations. To deal with partial\nobservability, we apply a deep recurrent Q-network (DRQN) approach to\napproximate the optimal value functions. The solution is then compared to a\ndeep Q-network (DQN) and deep convolutional Q-network (DCQN) approach to\nevaluate the performance of different neural networks. Moreover, to guarantee\nthe convergence and accuracy of the neural network, an adjusted\nexploration-exploitation method is adopted. Provided numerical results show\nthat the proposed algorithm can achieve a higher average success rate and lower\naverage overflow than baseline methods.",
+          "arxiv_id": "2007.10581v1"
+        }
+      ],
+      "11": [
+        {
+          "title": "MARL for Decentralized Electric Vehicle Charging Coordination with V2V Energy Exchange",
+          "year": "2023-08",
+          "abstract": "Effective energy management of electric vehicle (EV) charging stations is\ncritical to supporting the transport sector's sustainable energy transition.\nThis paper addresses the EV charging coordination by considering\nvehicle-to-vehicle (V2V) energy exchange as the flexibility to harness in EV\ncharging stations. Moreover, this paper takes into account EV user experiences,\nsuch as charging satisfaction and fairness. We propose a Multi-Agent\nReinforcement Learning (MARL) approach to coordinate EV charging with V2V\nenergy exchange while considering uncertainties in the EV arrival time, energy\nprice, and solar energy generation. The exploration capability of MARL is\nenhanced by introducing parameter noise into MARL's neural network models.\nExperimental results demonstrate the superior performance and scalability of\nour proposed method compared to traditional optimization baselines. The\ndecentralized execution of the algorithm enables it to effectively deal with\npartial system faults in the charging station.",
+          "arxiv_id": "2308.14111v1"
+        },
+        {
+          "title": "Renewable energy integration and microgrid energy trading using multi-agent deep reinforcement learning",
+          "year": "2021-11",
+          "abstract": "In this paper, multi-agent reinforcement learning is used to control a hybrid\nenergy storage system working collaboratively to reduce the energy costs of a\nmicrogrid through maximising the value of renewable energy and trading. The\nagents must learn to control three different types of energy storage system\nsuited for short, medium, and long-term storage under fluctuating demand,\ndynamic wholesale energy prices, and unpredictable renewable energy generation.\nTwo case studies are considered: the first looking at how the energy storage\nsystems can better integrate renewable energy generation under dynamic pricing,\nand the second with how those same agents can be used alongside an aggregator\nagent to sell energy to self-interested external microgrids looking to reduce\ntheir own energy bills. This work found that the centralised learning with\ndecentralised execution of the multi-agent deep deterministic policy gradient\nand its state-of-the-art variants allowed the multi-agent methods to perform\nsignificantly better than the control from a single global agent. It was also\nfound that using separate reward functions in the multi-agent approach\nperformed much better than using a single control agent. Being able to trade\nwith the other microgrids, rather than just selling back to the utility grid,\nalso was found to greatly increase the grid's savings.",
+          "arxiv_id": "2111.10898v2"
+        },
+        {
+          "title": "Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning",
+          "year": "2022-08",
+          "abstract": "Smart energy networks provide for an effective means to accommodate high\npenetrations of variable renewable energy sources like solar and wind, which\nare key for deep decarbonisation of energy production. However, given the\nvariability of the renewables as well as the energy demand, it is imperative to\ndevelop effective control and energy storage schemes to manage the variable\nenergy generation and achieve desired system economics and environmental goals.\nIn this paper, we introduce a hybrid energy storage system composed of battery\nand hydrogen energy storage to handle the uncertainties related to electricity\nprices, renewable energy production and consumption. We aim to improve\nrenewable energy utilisation and minimise energy costs and carbon emissions\nwhile ensuring energy reliability and stability within the network. To achieve\nthis, we propose a multi-agent deep deterministic policy gradient approach,\nwhich is a deep reinforcement learning-based control strategy to optimise the\nscheduling of the hybrid energy storage system and energy demand in real-time.\nThe proposed approach is model-free and does not require explicit knowledge and\nrigorous mathematical models of the smart energy network environment.\nSimulation results based on real-world data show that: (i) integration and\noptimised operation of the hybrid energy storage system and energy demand\nreduces carbon emissions by 78.69%, improves cost savings by 23.5% and\nrenewable energy utilisation by over 13.2% compared to other baseline models\nand (ii) the proposed algorithm outperforms the state-of-the-art self-learning\nalgorithms like deep-Q network.",
+          "arxiv_id": "2208.12779v1"
+        }
+      ],
+      "12": [
+        {
+          "title": "On the Role of Memory in Robust Opinion Dynamics",
+          "year": "2023-02",
+          "abstract": "We investigate opinion dynamics in a fully-connected system, consisting of\n$n$ identical and anonymous agents, where one of the opinions (which is called\ncorrect) represents a piece of information to disseminate. In more detail, one\nsource agent initially holds the correct opinion and remains with this opinion\nthroughout the execution. The goal for non-source agents is to quickly agree on\nthis correct opinion, and do that robustly, i.e., from any initial\nconfiguration. The system evolves in rounds. In each round, one agent chosen\nuniformly at random is activated: unless it is the source, the agent pulls the\nopinions of $\\ell$ random agents and then updates its opinion according to some\nrule. We consider a restricted setting, in which agents have no memory and they\nonly revise their opinions on the basis of those of the agents they currently\nsample. As restricted as it is, this setting encompasses very popular opinion\ndynamics, such as the voter model and best-of-$k$ majority rules.\n  Qualitatively speaking, we show that lack of memory prevents efficient\nconvergence. Specifically, we prove that no dynamics can achieve correct\nconvergence in an expected number of steps that is sub-quadratic in $n$, even\nunder a strong version of the model in which activated agents have complete\naccess to the current configuration of the entire system, i.e., the case\n$\\ell=n$. Conversely, we prove that the simple voter model (in which $\\ell=1$)\ncorrectly solves the problem, while almost matching the aforementioned lower\nbound.\n  These results suggest that, in contrast to symmetric consensus problems (that\ndo not involve a notion of correct opinion), fast convergence on the correct\nopinion using stochastic opinion dynamics may indeed require the use of memory.\nThis insight may reflect on natural information dissemination processes that\nrely on a few knowledgeable individuals.",
+          "arxiv_id": "2302.08600v1"
+        },
+        {
+          "title": "The Sound of Silence in Social Networks",
+          "year": "2024-10",
+          "abstract": "We generalize the classic multi-agent DeGroot model for opinion dynamics to\nincorporate the Spiral of Silence theory from political science. This theory\nstates that individuals may withhold their opinions when they perceive them to\nbe in the minority. As in the DeGroot model, a community of agents is\nrepresented as a weighted directed graph whose edges indicate how much agents\ninfluence one another. However, agents whose current opinions are in the\nminority become silent (i.e., they do not express their opinion). Two models\nfor opinion update are then introduced. In the memoryless opinion model (SOM-),\nagents update their opinion by taking the weighted average of their non-silent\nneighbors' opinions. In the memory based opinion model (SOM+), agents update\ntheir opinions by taking the weighted average of the opinions of all their\nneighbors, but for silent neighbors, their most recent opinion is considered.\nWe show that for SOM- convergence to consensus is guaranteed for clique graphs\nbut, unlike for the classic DeGroot, not guaranteed for strongly-connected\naperiodic graphs. In contrast, we show that for SOM+ convergence to consensus\nis not guaranteed even for clique graphs. We showcase our models through\nsimulations offering experimental insights that align with key aspects of the\nSpiral of Silence theory. These findings reveal the impact of silence dynamics\non opinion formation and highlight the limitations of consensus in more nuanced\nsocial models.",
+          "arxiv_id": "2410.19685v2"
+        },
+        {
+          "title": "On a Voter Model with Context-Dependent Opinion Adoption",
+          "year": "2023-05",
+          "abstract": "Opinion diffusion is a crucial phenomenon in social networks, often\nunderlying the way in which a collective of agents develops a consensus on\nrelevant decisions. The voter model is a well-known theoretical model to study\nopinion spreading in social networks and structured populations. Its simplest\nversion assumes that an updating agent will adopt the opinion of a neighboring\nagent chosen at random. The model allows us to study, for example, the\nprobability that a certain opinion will fixate into a consensus opinion, as\nwell as the expected time it takes for a consensus opinion to emerge.\n  Standard voter models are oblivious to the opinions held by the agents\ninvolved in the opinion adoption process. We propose and study a\ncontext-dependent opinion spreading process on an arbitrary social graph, in\nwhich the probability that an agent abandons opinion $a$ in favor of opinion\n$b$ depends on both $a$ and $b$. We discuss the relations of the model with\nexisting voter models and then derive theoretical results for both the fixation\nprobability and the expected consensus time for two opinions, for both the\nsynchronous and the asynchronous update models.",
+          "arxiv_id": "2305.07377v2"
+        }
+      ],
+      "13": [
+        {
+          "title": "Upgrading Democracies with Fairer Voting Methods",
+          "year": "2025-05",
+          "abstract": "Voting methods are instrumental design element of democracies. Citizens use\nthem to express and aggregate their preferences to reach a collective decision.\nHowever, voting outcomes can be as sensitive to voting rules as they are to\npeople's voting choices. Despite the significance and inter-disciplinary\nscientific progress on voting methods, several democracies keep relying on\noutdated voting methods that do not fit modern, pluralistic societies well,\nwhile lacking social innovation. Here, we demonstrate how one can upgrade\nreal-world democracies, namely by using alternative preferential voting methods\nsuch as cumulative voting and the method of equal shares designed for a\nproportional representation of voters' preferences. By rigorously assessing a\nnew participatory budgeting approach applied in the city of Aarau, Switzerland,\nwe unravel the striking voting outcomes of fair voting methods: more winning\nprojects with the same budget and broader geographic and preference\nrepresentation of citizens by the elected projects, in particular for voters\nwho used to be under-represented, while promoting novel project ideas. We\nprovide profound causal evidence showing that citizens prefer proportional\nvoting methods, which possess strong legitimacy without the need of very\ntechnical specialized explanations. We also reveal strong underlying democratic\nvalues exhibited by citizens who support fair voting methods such as altruism\nand compromise. These findings come with a global momentum to unleash a new and\nlong-awaited participation blueprint of how to upgrade democracies.",
+          "arxiv_id": "2505.14349v1"
+        },
+        {
+          "title": "Proportionality and Strategyproofness in Multiwinner Elections",
+          "year": "2021-04",
+          "abstract": "Multiwinner voting rules can be used to select a fixed-size committee from a\nlarger set of candidates. We consider approval-based committee rules, which\nallow voters to approve or disapprove candidates. In this setting, several\nvoting rules such as Proportional Approval Voting (PAV) and Phragm\\'en's rules\nhave been shown to produce committees that are proportional, in the sense that\nthey proportionally represent voters' preferences; all of these rules are\nstrategically manipulable by voters. On the other hand, a generalisation of\nApproval Voting gives a non-proportional but strategyproof voting rule. We show\nthat there is a fundamental tradeoff between these two properties: we prove\nthat no multiwinner voting rule can simultaneously satisfy a weak form of\nproportionality (a weakening of justified representation) and a weak form of\nstrategyproofness. Our impossibility is obtained using a formulation of the\nproblem in propositional logic and applying SAT solvers; a human-readable\nversion of the computer-generated proof is obtained by extracting a minimal\nunsatisfiable set (MUS). We also discuss several related axiomatic questions in\nthe domain of committee elections.",
+          "arxiv_id": "2104.08594v2"
+        },
+        {
+          "title": "Characterizations of voting rules based on majority margins",
+          "year": "2025-01",
+          "abstract": "In the context of voting with ranked ballots, an important class of voting\nrules is the class of margin-based rules (also called pairwise rules). A voting\nrule is margin-based if whenever two elections generate the same head-to-head\nmargins of victory or loss between candidates, then the voting rule yields the\nsame outcome in both elections. Although this is a mathematically natural\ninvariance property to consider, whether it should be regarded as a normative\naxiom on voting rules is less clear. In this paper, we address this question\nfor voting rules with any kind of output, whether a set of candidates, a\nranking, a probability distribution, etc. We prove that a voting rule is\nmargin-based if and only if it satisfies some axioms with clearer normative\ncontent. A key axiom is what we call Preferential Equality, stating that if two\nvoters both rank a candidate $x$ immediately above a candidate $y$, then either\nvoter switching to rank $y$ immediately above $x$ will have the same effect on\nthe election outcome as if the other voter made the switch, so each voter's\npreference for $y$ over $x$ is treated equally.",
+          "arxiv_id": "2501.08595v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:40:30Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

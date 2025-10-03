@@ -39,7 +39,7 @@ const SubcategoryPageContent = memo(function SubcategoryPageContent({ categoryId
         setIsLoading(true)
         setError(null)
         
-        const jsonPath = `/analysis/${subcategoryId}.json`
+        const jsonPath = `/analysis/${subcategoryId}/${subcategoryId}.json`
         const response = await fetch(jsonPath)
         
         if (response.ok) {

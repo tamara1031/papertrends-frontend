@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_algorithm_polynomial_polynomials_matrix",
+        "keywords": [
+          [
+            "algorithm",
+            0.04270154591289146
+          ],
+          [
+            "polynomial",
+            0.036642983666127844
+          ],
+          [
+            "polynomials",
+            0.029517502234184367
+          ],
+          [
+            "matrix",
+            0.025577125736854202
+          ],
+          [
+            "algorithms",
+            0.025465416397747662
+          ],
+          [
+            "complexity",
+            0.0211378185745188
+          ],
+          [
+            "basis",
+            0.021118276479750252
+          ],
+          [
+            "In",
+            0.01944587711916133
+          ],
+          [
+            "bases",
+            0.01860828668306561
+          ],
+          [
+            "computing",
+            0.018365627015740727
+          ]
+        ],
+        "count": 336
+      },
+      "1": {
+        "name": "1_reasoning_knowledge_learning_models",
+        "keywords": [
+          [
+            "reasoning",
+            0.03570699746960074
+          ],
+          [
+            "knowledge",
+            0.03155981272838989
+          ],
+          [
+            "learning",
+            0.026324488607450677
+          ],
+          [
+            "models",
+            0.023507040459963723
+          ],
+          [
+            "symbolic",
+            0.022941266771185624
+          ],
+          [
+            "model",
+            0.0210407961153086
+          ],
+          [
+            "neural",
+            0.02034092368884218
+          ],
+          [
+            "data",
+            0.020332679644494686
+          ],
+          [
+            "language",
+            0.019438332255072466
+          ],
+          [
+            "human",
+            0.01878860010470342
+          ]
+        ],
+        "count": 192
+      },
+      "2": {
+        "name": "2_proof_verification_systems_logic",
+        "keywords": [
+          [
+            "proof",
+            0.021267834960752102
+          ],
+          [
+            "verification",
+            0.0204731192895043
+          ],
+          [
+            "systems",
+            0.019916242143066653
+          ],
+          [
+            "logic",
+            0.019109234131213324
+          ],
+          [
+            "order",
+            0.01631280781580449
+          ],
+          [
+            "models",
+            0.014555452901218676
+          ],
+          [
+            "approach",
+            0.01423738769078401
+          ],
+          [
+            "linear",
+            0.014147534978359824
+          ],
+          [
+            "theorem",
+            0.01387550925555952
+          ],
+          [
+            "formal",
+            0.013656624134305226
+          ]
+        ],
+        "count": 147
+      },
+      "3": {
+        "name": "3_symbolic_data_learning_regression",
+        "keywords": [
+          [
+            "symbolic",
+            0.03534017909665497
+          ],
+          [
+            "data",
+            0.028691676101566636
+          ],
+          [
+            "learning",
+            0.026877427467765953
+          ],
+          [
+            "regression",
+            0.026026675044406512
+          ],
+          [
+            "models",
+            0.024092820764001894
+          ],
+          [
+            "symbolic regression",
+            0.02166591264260991
+          ],
+          [
+            "model",
+            0.020027460321393072
+          ],
+          [
+            "Symbolic",
+            0.019043590916934555
+          ],
+          [
+            "SR",
+            0.018857922410544382
+          ],
+          [
+            "systems",
+            0.017704088110423104
+          ]
+        ],
+        "count": 125
+      },
+      "4": {
+        "name": "4_sequences_functions_differential_hypergeometric",
+        "keywords": [
+          [
+            "sequences",
+            0.03503156578585008
+          ],
+          [
+            "functions",
+            0.03422440306969893
+          ],
+          [
+            "differential",
+            0.03024704725767926
+          ],
+          [
+            "hypergeometric",
+            0.027995723159958318
+          ],
+          [
+            "difference",
+            0.02740498028712186
+          ],
+          [
+            "linear",
+            0.025119397111604685
+          ],
+          [
+            "holonomic",
+            0.025114994225654518
+          ],
+          [
+            "equations",
+            0.024418736433052465
+          ],
+          [
+            "function",
+            0.02328060156149512
+          ],
+          [
+            "series",
+            0.022901457125607753
+          ]
+        ],
+        "count": 123
+      },
+      "5": {
+        "name": "5_systems_differential_parameters_model",
+        "keywords": [
+          [
+            "systems",
+            0.03416396919582087
+          ],
+          [
+            "differential",
+            0.03318910843276449
+          ],
+          [
+            "parameters",
+            0.025845117195004753
+          ],
+          [
+            "model",
+            0.024349297678808005
+          ],
+          [
+            "equations",
+            0.02312102066167697
+          ],
+          [
+            "parameter",
+            0.02276249162864559
+          ],
+          [
+            "algorithm",
+            0.022704968766870462
+          ],
+          [
+            "method",
+            0.021713926605149907
+          ],
+          [
+            "ODE",
+            0.021183187882110766
+          ],
+          [
+            "models",
+            0.020567646513099266
+          ]
+        ],
+        "count": 90
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.712780160026008,
+        -0.4005202027553054,
+        -0.7010023569110571,
+        -0.4156755099776276,
+        -0.4899510515948816
+      ],
+      [
+        -0.712780160026008,
+        1.0,
+        -0.626683091283001,
+        -0.5267694357154071,
+        -0.7072569226035017,
+        -0.6850956775863896
+      ],
+      [
+        -0.4005202027553054,
+        -0.626683091283001,
+        1.0,
+        -0.6619248535756523,
+        -0.30046051303470966,
+        -0.4320562862559468
+      ],
+      [
+        -0.7010023569110571,
+        -0.5267694357154071,
+        -0.6619248535756523,
+        1.0,
+        -0.6839436852010038,
+        -0.6263865367035824
+      ],
+      [
+        -0.4156755099776276,
+        -0.7072569226035017,
+        -0.30046051303470966,
+        -0.6839436852010038,
+        1.0,
+        -0.3553920589065732
+      ],
+      [
+        -0.4899510515948816,
+        -0.6850956775863896,
+        -0.4320562862559468,
+        -0.6263865367035824,
+        -0.3553920589065732,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        11,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "2020-02": [
+        13,
+        0,
+        1,
+        1,
+        4,
+        2
+      ],
+      "2020-03": [
+        14,
+        1,
+        1,
+        0,
+        3,
+        0
+      ],
+      "2020-04": [
+        11,
+        0,
+        1,
+        0,
+        2,
+        2
+      ],
+      "2020-05": [
+        14,
+        2,
+        1,
+        2,
+        1,
+        4
+      ],
+      "2020-06": [
+        7,
+        4,
+        2,
+        2,
+        2,
+        1
+      ],
+      "2020-07": [
+        10,
+        0,
+        1,
+        2,
+        2,
+        4
+      ],
+      "2020-08": [
+        9,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "2020-09": [
+        9,
+        1,
+        3,
+        0,
+        0,
+        2
+      ],
+      "2020-10": [
+        19,
+        1,
+        1,
+        3,
+        1,
+        1
+      ],
+      "2020-11": [
+        10,
+        0,
+        0,
+        1,
+        1,
+        3
+      ],
+      "2020-12": [
+        10,
+        1,
+        0,
+        2,
+        2,
+        2
+      ],
+      "2021-01": [
+        13,
+        0,
+        3,
+        1,
+        2,
+        1
+      ],
+      "2021-02": [
+        11,
+        0,
+        1,
+        0,
+        6,
+        2
+      ],
+      "2021-03": [
+        5,
+        2,
+        2,
+        4,
+        1,
+        1
+      ],
+      "2021-04": [
+        7,
+        1,
+        0,
+        0,
+        0,
+        3
+      ],
+      "2021-05": [
+        9,
+        0,
+        1,
+        2,
+        3,
+        2
+      ],
+      "2021-06": [
+        12,
+        0,
+        2,
+        2,
+        0,
+        2
+      ],
+      "2021-07": [
+        10,
+        2,
+        0,
+        1,
+        0,
+        2
+      ],
+      "2021-08": [
+        5,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "2021-09": [
+        9,
+        2,
+        1,
+        0,
+        1,
+        1
+      ],
+      "2021-10": [
+        6,
+        0,
+        1,
+        2,
+        3,
+        3
+      ],
+      "2021-11": [
+        5,
+        1,
+        1,
+        1,
+        2,
+        3
+      ],
+      "2021-12": [
+        14,
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "2022-01": [
+        12,
+        3,
+        2,
+        2,
+        1,
+        3
+      ],
+      "2022-02": [
+        21,
+        2,
+        0,
+        2,
+        3,
+        3
+      ],
+      "2022-03": [
+        10,
+        2,
+        1,
+        2,
+        1,
+        1
+      ],
+      "2022-04": [
+        4,
+        0,
+        1,
+        3,
+        3,
+        1
+      ],
+      "2022-05": [
+        8,
+        4,
+        2,
+        2,
+        0,
+        4
+      ],
+      "2022-06": [
+        6,
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "2022-07": [
+        5,
+        0,
+        4,
+        1,
+        4,
+        1
+      ],
+      "2022-08": [
+        7,
+        2,
+        2,
+        0,
+        3,
+        1
+      ],
+      "2022-09": [
+        11,
+        2,
+        0,
+        1,
+        2,
+        0
+      ],
+      "2022-10": [
+        14,
+        0,
+        1,
+        1,
+        3,
+        2
+      ],
+      "2022-11": [
+        10,
+        0,
+        1,
+        3,
+        1,
+        1
+      ],
+      "2022-12": [
+        9,
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "2023-01": [
+        6,
+        2,
+        1,
+        4,
+        1,
+        3
+      ],
+      "2023-02": [
+        22,
+        2,
+        1,
+        3,
+        2,
+        1
+      ],
+      "2023-03": [
+        8,
+        2,
+        0,
+        4,
+        2,
+        7
+      ],
+      "2023-04": [
+        12,
+        0,
+        0,
+        1,
+        4,
+        3
+      ],
+      "2023-05": [
+        13,
+        2,
+        0,
+        4,
+        4,
+        1
+      ],
+      "2023-06": [
+        10,
+        2,
+        1,
+        1,
+        0,
+        2
+      ],
+      "2023-07": [
+        9,
+        4,
+        1,
+        4,
+        5,
+        0
+      ],
+      "2023-08": [
+        7,
+        3,
+        2,
+        1,
+        0,
+        1
+      ],
+      "2023-09": [
+        9,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "2023-10": [
+        8,
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      "2023-11": [
+        8,
+        0,
+        1,
+        0,
+        4,
+        2
+      ],
+      "2023-12": [
+        15,
+        0,
+        0,
+        2,
+        1,
+        1
+      ],
+      "2024-01": [
+        16,
+        1,
+        1,
+        3,
+        2,
+        5
+      ],
+      "2024-02": [
+        15,
+        2,
+        1,
+        2,
+        3,
+        1
+      ],
+      "2024-03": [
+        11,
+        4,
+        3,
+        1,
+        1,
+        1
+      ],
+      "2024-04": [
+        9,
+        2,
+        1,
+        2,
+        4,
+        2
+      ],
+      "2024-05": [
+        16,
+        5,
+        1,
+        4,
+        2,
+        6
+      ],
+      "2024-06": [
+        10,
+        4,
+        1,
+        5,
+        3,
+        2
+      ],
+      "2024-07": [
+        12,
+        2,
+        0,
+        2,
+        2,
+        1
+      ],
+      "2024-08": [
+        6,
+        2,
+        2,
+        2,
+        3,
+        1
+      ],
+      "2024-09": [
+        4,
+        1,
+        1,
+        2,
+        0,
+        2
+      ],
+      "2024-10": [
+        9,
+        3,
+        1,
+        4,
+        1,
+        3
+      ],
+      "2024-11": [
+        6,
+        3,
+        2,
+        2,
+        0,
+        0
+      ],
+      "2024-12": [
+        14,
+        4,
+        2,
+        1,
+        2,
+        6
+      ],
+      "2025-01": [
+        3,
+        4,
+        1,
+        2,
+        2,
+        2
+      ],
+      "2025-02": [
+        13,
+        6,
+        3,
+        3,
+        0,
+        3
+      ],
+      "2025-03": [
+        18,
+        3,
+        1,
+        2,
+        4,
+        0
+      ],
+      "2025-04": [
+        12,
+        0,
+        2,
+        1,
+        5,
+        4
+      ],
+      "2025-05": [
+        20,
+        3,
+        3,
+        8,
+        3,
+        2
+      ],
+      "2025-06": [
+        10,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "2025-07": [
+        11,
+        7,
+        2,
+        2,
+        4,
+        0
+      ],
+      "2025-08": [
+        12,
+        5,
+        0,
+        3,
+        1,
+        4
+      ],
+      "2025-09": [
+        3,
+        1,
+        1,
+        2,
+        0,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Signature Gröbner bases, bases of syzygies and cofactor reconstruction in the free algebra",
+          "year": "2021-07",
+          "abstract": "Signature-based algorithms have become a standard approach for computing\nGr\\\"obner bases in commutative polynomial rings. However, so far, it was not\nclear how to extend this concept to the setting of noncommutative polynomials\nin the free algebra. In this paper, we present a signature-based algorithm for\ncomputing Gr\\\"obner bases in precisely this setting. The algorithm is an\nadaptation of Buchberger's algorithm including signatures. We prove that our\nalgorithm correctly enumerates a signature Gr\\\"obner basis as well as a\nGr\\\"obner basis of the module generated by the leading terms of the generators'\nsyzygies, and that it terminates whenever the ideal admits a finite signature\nGr\\\"obner basis. Additionally, we adapt well-known signature-based criteria\neliminating redundant reductions, such as the syzygy criterion, the F5\ncriterion and the singular criterion, to the case of noncommutative\npolynomials. We also generalize reconstruction methods from the commutative\nsetting that allow to recover, from partial information about signatures, the\ncoordinates of elements of a Gr\\\"obner basis in terms of the input polynomials,\nas well as a basis of the syzygy module of the generators. We have written a\ntoy implementation of all the algorithms in the Mathematica package OperatorGB\nand we compare our signature-based algorithm to the classical Buchberger\nalgorithm for noncommutative polynomials.",
+          "arxiv_id": "2107.14675v3"
+        },
+        {
+          "title": "Polynomial-Division-Based Algorithms for Computing Linear Recurrence Relations",
+          "year": "2021-07",
+          "abstract": "Sparse polynomial interpolation, sparse linear system solving or modular\nrational reconstruction are fundamental problems in Computer Algebra. They come\ndown to computing linear recurrence relations of a sequence with the\nBerlekamp-Massey algorithm. Likewise, sparse multivariate polynomial\ninterpolation and multidimensional cyclic code decoding require guessing linear\nrecurrence relations of a multivariate sequence.Several algorithms solve this\nproblem. The so-called Berlekamp-Massey-Sakata algorithm (1988) uses polynomial\nadditions and shifts by a monomial. The Scalar-FGLM algorithm (2015) relies on\nlinear algebra operations on a multi-Hankel matrix, a multivariate\ngeneralization of a Hankel matrix. The Artinian Gorenstein border basis\nalgorithm (2017) uses a Gram-Schmidt process.We propose a new algorithm for\ncomputing the Gr{\\\"o}bner basis of the ideal of relations of a sequence based\nsolely on multivariate polynomial arithmetic. This algorithm allows us to both\nrevisit the Berlekamp-Massey-Sakata algorithm through the use of polynomial\ndivisions and to completely revise the Scalar-FGLM algorithm without linear\nalgebra operations.A key observation in the design of this algorithm is to work\non the mirror of the truncated generating series allowing us to use polynomial\narithmetic modulo a monomial ideal. It appears to have some similarities with\nPad{\\'e} approximants of this mirror polynomial.As an addition from the paper\npublished at the ISSAC conferance, we give an adaptive variant of this\nalgorithm taking into account the shape of the final Gr{\\\"o}bner basis\ngradually as it is discovered. The main advantage of this algorithm is that its\ncomplexity in terms of operations and sequence queries only depends on the\noutput Gr{\\\"o}bner basis.All these algorithms have been implemented in Maple\nand we report on our comparisons.",
+          "arxiv_id": "2107.02582v1"
+        },
+        {
+          "title": "Gröbner bases and critical values: The asymptotic combinatorics of determinantal systems",
+          "year": "2022-03",
+          "abstract": "We consider ideals involving the maximal minors of a polynomial matrix. For\nexample, those arising in the computation of the critical values of a\npolynomial restricted to a variety for polynomial optimisation. Gr\\\"obner bases\nare a classical tool for solving polynomial systems. For practical\ncomputations, this consists of two stages. First, a Gr\\\"obner basis is computed\nwith respect to a DRL (degree reverse lexicographic) ordering. Then, a change\nof ordering algorithm, such as \\textsf{Sparse-FGLM}, designed by Faug\\`ere and\nMou, is used to find a Gr\\\"obner basis of the same ideal but with respect to a\nlexicographic ordering. The complexity of this latter step, in terms of\narithmetic operations, is $O(mD^2)$, where $D$ is the degree of the ideal and\n$m$ is the number of non-trivial columns of a certain $D \\times D$ matrix.\nWhile asymptotic estimates are known for $m$ for generic polynomial systems,\nthus far, the complexity of \\textsf{Sparse-FGLM} was unknown for determinantal\nsystems.\n  By assuming Fr\\\"oberg's conjecture we expand the work of Moreno-Soc\\'ias by\ndetailing the structure of the DRL staircase in the determinantal setting. Then\nwe study the asymptotics of the quantity $m$ by relating it to the coefficients\nof these Hilbert series. Consequently, we arrive at a new bound on the\ncomplexity of the \\textsf{Sparse-FGLM} algorithm for generic determinantal\nsystems and for generic critical point systems. We consider the ideal in the\npolynomial ring $\\mathbb{K}[x_1, \\dots, x_n]$, where $\\mathbb{K}$ is some\ninfinite field, generated by $p$ generic polynomials of degree $d$ and the\nmaximal minors of a $p \\times (n-1)$ polynomial matrix with generic entries of\ndegree $d-1$. Then for the case $d=2$ and for $n \\gg p$ we give an exact\nformula for $m$ in terms of $n$ and $p$. Moreover, for $d \\geq 3$, we give an\nasymptotic formula, as $n \\to \\infty$, for $m$ in terms of $n,p$ and $d$.",
+          "arxiv_id": "2203.10021v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Large Language Models are Interpretable Learners",
+          "year": "2024-06",
+          "abstract": "The trade-off between expressiveness and interpretability remains a core\nchallenge when building human-centric predictive models for classification and\ndecision-making. While symbolic rules offer interpretability, they often lack\nexpressiveness, whereas neural networks excel in performance but are known for\nbeing black boxes. In this paper, we show a combination of Large Language\nModels (LLMs) and symbolic programs can bridge this gap. In the proposed\nLLM-based Symbolic Programs (LSPs), the pretrained LLM with natural language\nprompts provides a massive set of interpretable modules that can transform raw\ninput into natural language concepts. Symbolic programs then integrate these\nmodules into an interpretable decision rule. To train LSPs, we develop a\ndivide-and-conquer approach to incrementally build the program from scratch,\nwhere the learning process of each step is guided by LLMs. To evaluate the\neffectiveness of LSPs in extracting interpretable and accurate knowledge from\ndata, we introduce IL-Bench, a collection of diverse tasks, including both\nsynthetic and real-world scenarios across different modalities. Empirical\nresults demonstrate LSP's superior performance compared to traditional\nneurosymbolic programs and vanilla automatic prompt tuning methods. Moreover,\nas the knowledge learned by LSP is a combination of natural language\ndescriptions and symbolic rules, it is easily transferable to humans\n(interpretable), and other LLMs, and generalizes well to out-of-distribution\nsamples.",
+          "arxiv_id": "2406.17224v1"
+        },
+        {
+          "title": "A Comparative Study of Neurosymbolic AI Approaches to Interpretable Logical Reasoning",
+          "year": "2025-08",
+          "abstract": "General logical reasoning, defined as the ability to reason deductively on\ndomain-agnostic tasks, continues to be a challenge for large language models\n(LLMs). Current LLMs fail to reason deterministically and are not\ninterpretable. As such, there has been a recent surge in interest in\nneurosymbolic AI, which attempts to incorporate logic into neural networks. We\nfirst identify two main neurosymbolic approaches to improving logical\nreasoning: (i) the integrative approach comprising models where symbolic\nreasoning is contained within the neural network, and (ii) the hybrid approach\ncomprising models where a symbolic solver, separate from the neural network,\nperforms symbolic reasoning. Both contain AI systems with promising results on\ndomain-specific logical reasoning benchmarks. However, their performance on\ndomain-agnostic benchmarks is understudied. To the best of our knowledge, there\nhas not been a comparison of the contrasting approaches that answers the\nfollowing question: Which approach is more promising for developing general\nlogical reasoning? To analyze their potential, the following best-in-class\ndomain-agnostic models are introduced: Logic Neural Network (LNN), which uses\nthe integrative approach, and LLM-Symbolic Solver (LLM-SS), which uses the\nhybrid approach. Using both models as case studies and representatives of each\napproach, our analysis demonstrates that the hybrid approach is more promising\nfor developing general logical reasoning because (i) its reasoning chain is\nmore interpretable, and (ii) it retains the capabilities and advantages of\nexisting LLMs. To support future works using the hybrid approach, we propose a\ngeneralizable framework based on LLM-SS that is modular by design,\nmodel-agnostic, domain-agnostic, and requires little to no human input.",
+          "arxiv_id": "2508.03366v1"
+        },
+        {
+          "title": "Neural Collaborative Reasoning",
+          "year": "2020-05",
+          "abstract": "Existing Collaborative Filtering (CF) methods are mostly designed based on\nthe idea of matching, i.e., by learning user and item embeddings from data\nusing shallow or deep models, they try to capture the associative relevance\npatterns in data, so that a user embedding can be matched with relevant item\nembeddings using designed or learned similarity functions. However, as a\ncognition rather than a perception intelligent task, recommendation requires\nnot only the ability of pattern recognition and matching from data, but also\nthe ability of cognitive reasoning in data. In this paper, we propose to\nadvance Collaborative Filtering (CF) to Collaborative Reasoning (CR), which\nmeans that each user knows part of the reasoning space, and they collaborate\nfor reasoning in the space to estimate preferences for each other. Technically,\nwe propose a Neural Collaborative Reasoning (NCR) framework to bridge learning\nand reasoning. Specifically, we integrate the power of representation learning\nand logical reasoning, where representations capture similarity patterns in\ndata from perceptual perspectives, and logic facilitates cognitive reasoning\nfor informed decision making. An important challenge, however, is to bridge\ndifferentiable neural networks and symbolic reasoning in a shared architecture\nfor optimization and inference. To solve the problem, we propose a modularized\nreasoning architecture, which learns logical operations such as AND ($\\wedge$),\nOR ($\\vee$) and NOT ($\\neg$) as neural modules for implication reasoning\n($\\rightarrow$). In this way, logical expressions can be equivalently organized\nas neural networks, so that logical reasoning and prediction can be conducted\nin a continuous space. Experiments on real-world datasets verified the\nadvantages of our framework compared with both shallow, deep and reasoning\nmodels.",
+          "arxiv_id": "2005.08129v5"
+        }
+      ],
+      "2": [
+        {
+          "title": "Deriving Theorems in Implicational Linear Logic, Declaratively",
+          "year": "2020-09",
+          "abstract": "The problem we want to solve is how to generate all theorems of a given size\nin the implicational fragment of propositional intuitionistic linear logic. We\nstart by filtering for linearity the proof terms associated by our Prolog-based\ntheorem prover for Implicational Intuitionistic Logic. This works, but using\nfor each formula a PSPACE-complete algorithm limits it to very small formulas.\nWe take a few walks back and forth over the bridge between proof terms and\ntheorems, provided by the Curry-Howard isomorphism, and derive step-by-step an\nefficient algorithm requiring a low polynomial effort per generated theorem.\nThe resulting Prolog program runs in O(N) space for terms of size N and\ngenerates in a few hours 7,566,084,686 theorems in the implicational fragment\nof Linear Intuitionistic Logic together with their proof terms in normal form.\nAs applications, we generate datasets for correctness and scalability testing\nof linear logic theorem provers and training data for neural networks working\non theorem proving challenges. The results in the paper, organized as a\nliterate Prolog program, are fully replicable.\n  Keywords: combinatorial generation of provable formulas of a given size,\nintuitionistic and linear logic theorem provers, theorems of the implicational\nfragment of propositional linear intuitionistic logic, Curry-Howard\nisomorphism, efficient generation of linear lambda terms in normal form, Prolog\nprograms for lambda term generation and theorem proving.",
+          "arxiv_id": "2009.10241v1"
+        },
+        {
+          "title": "HIVE: Scalable Hardware-Firmware Co-Verification using Scenario-based Decomposition and Automated Hint Extraction",
+          "year": "2023-09",
+          "abstract": "Hardware-firmware co-verification is critical to design trustworthy systems.\nWhile formal methods can provide verification guarantees, due to the complexity\nof firmware and hardware, it can lead to state space explosion. There are\npromising avenues to reduce the state space during firmware verification\nthrough manual abstraction of hardware or manual generation of hints. Manual\ndevelopment of abstraction or hints requires domain expertise and can be\ntime-consuming and error-prone, leading to incorrect proofs or inaccurate\nresults. In this paper, we effectively combine the scalability of\nsimulation-based validation and the completeness of formal verification. Our\nproposed approach is applicable to actual firmware and hardware implementations\nwithout requiring any manual intervention during formal model generation or\nhint extraction. To reduce the state space complexity, we utilize both static\nmodule-level analysis and dynamic execution of verification scenarios to\nautomatically generate system-level hints. These hints guide the underlying\nsolver to perform scalable equivalence checking using proofs. The extracted\nhints are validated against the implementation before using them in the proofs.\nExperimental evaluation on RISC-V based systems demonstrates that our proposed\nframework is scalable due to scenario-based decomposition and automated hint\nextraction. Moreover, our fully automated framework can identify complex bugs\nin actual firmware-hardware implementations.",
+          "arxiv_id": "2309.08002v2"
+        },
+        {
+          "title": "Saturating Sorting without Sorts",
+          "year": "2024-03",
+          "abstract": "We present a first-order theorem proving framework for establishing the\ncorrectness of functional programs implementing sorting algorithms with\nrecursive data structures.\n  We formalize the semantics of recursive programs in many-sorted first-order\nlogic and integrate sortedness/permutation properties within our first-order\nformalization. Rather than focusing on sorting lists of elements of specific\nfirst-order theories, such as integer arithmetic, our list formalization relies\non a sort parameter abstracting (arithmetic) theories and hence concrete sorts.\nWe formalize the permutation property of lists in first-order logic so that we\nautomatically prove verification conditions of such algorithms purely by\nsuperpositon-based first-order reasoning. Doing so, we adjust recent efforts\nfor automating inducion in saturation. We advocate a compositional approach for\nautomating proofs by induction required to verify functional programs\nimplementing and preserving sorting and permutation properties over\nparameterized list structures. Our work turns saturation-based first-order\ntheorem proving into an automated verification engine by (i) guiding automated\ninductive reasoning with manual proof splits and (ii) fully automating\ninductive reasoning in saturation. We showcase the applicability of our\nframework over recursive sorting algorithms, including Mergesort and Quicksort.",
+          "arxiv_id": "2403.03712v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Deep Learning and Symbolic Regression for Discovering Parametric Equations",
+          "year": "2022-07",
+          "abstract": "Symbolic regression is a machine learning technique that can learn the\ngoverning formulas of data and thus has the potential to transform scientific\ndiscovery. However, symbolic regression is still limited in the complexity and\ndimensionality of the systems that it can analyze. Deep learning on the other\nhand has transformed machine learning in its ability to analyze extremely\ncomplex and high-dimensional datasets. We propose a neural network architecture\nto extend symbolic regression to parametric systems where some coefficient may\nvary but the structure of the underlying governing equation remains constant.\nWe demonstrate our method on various analytic expressions, ODEs, and PDEs with\nvarying coefficients and show that it extrapolates well outside of the training\ndomain. The neural network-based architecture can also integrate with other\ndeep learning architectures so that it can analyze high-dimensional data while\nbeing trained end-to-end. To this end we integrate our architecture with\nconvolutional neural networks to analyze 1D images of varying spring systems.",
+          "arxiv_id": "2207.00529v2"
+        },
+        {
+          "title": "Symbolic Foundation Regressor on Complex Networks",
+          "year": "2025-05",
+          "abstract": "In science, we are interested not only in forecasting but also in\nunderstanding how predictions are made, specifically what the interpretable\nunderlying model looks like. Data-driven machine learning technology can\nsignificantly streamline the complex and time-consuming traditional manual\nprocess of discovering scientific laws, helping us gain insights into\nfundamental issues in modern science. In this work, we introduce a pre-trained\nsymbolic foundation regressor that can effectively compress complex data with\nnumerous interacting variables while producing interpretable physical\nrepresentations. Our model has been rigorously tested on non-network symbolic\nregression, symbolic regression on complex networks, and the inference of\nnetwork dynamics across various domains, including physics, biochemistry,\necology, and epidemiology. The results indicate a remarkable improvement in\nequation inference efficiency, being three times more effective than baseline\napproaches while maintaining accurate predictions. Furthermore, we apply our\nmodel to uncover more intuitive laws of interaction transmission from global\nepidemic outbreak data, achieving optimal data fitting. This model extends the\napplication boundary of pre-trained symbolic regression models to complex\nnetworks, and we believe it provides a foundational solution for revealing the\nhidden mechanisms behind changes in complex phenomena, enhancing\ninterpretability, and inspiring further scientific discoveries.",
+          "arxiv_id": "2505.21879v1"
+        },
+        {
+          "title": "Interactive Symbolic Regression through Offline Reinforcement Learning: A Co-Design Framework",
+          "year": "2025-02",
+          "abstract": "Symbolic Regression (SR) holds great potential for uncovering underlying\nmathematical and physical relationships from observed data. However, the vast\ncombinatorial space of possible expressions poses significant challenges for\nboth online search methods and pre-trained transformer models. Additionally,\ncurrent state-of-the-art approaches typically do not consider the integration\nof domain experts' prior knowledge and do not support iterative interactions\nwith the model during the equation discovery process. To address these\nchallenges, we propose the Symbolic Q-network (Sym-Q), an advanced interactive\nframework for large-scale symbolic regression. Unlike previous large-scale\ntransformer-based SR approaches, Sym-Q leverages reinforcement learning without\nrelying on a transformer-based decoder. This formulation allows the agent to\nlearn through offline reinforcement learning using any type of tree encoder,\nenabling more efficient training and inference. Furthermore, we propose a\nco-design mechanism, where the reinforcement learning-based Sym-Q facilitates\neffective interaction with domain experts at any stage of the equation\ndiscovery process. Users can dynamically modify generated nodes of the\nexpression, collaborating with the agent to tailor the mathematical expression\nto best fit the problem and align with the assumed physical laws, particularly\nwhen there is prior partial knowledge of the expected behavior. Our experiments\ndemonstrate that the pre-trained Sym-Q surpasses existing SR algorithms on the\nchallenging SSDNC benchmark. Moreover, we experimentally show on real-world\ncases that its performance can be further enhanced by the interactive co-design\nmechanism, with Sym-Q achieving greater performance gains than other\nstate-of-the-art models. Our reproducible code is available at\nhttps://github.com/EPFL-IMOS/Sym-Q.",
+          "arxiv_id": "2502.02917v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Hypergeometric Structures in Feynman Integrals",
+          "year": "2021-11",
+          "abstract": "Hypergeometric structures in single and multiscale Feynman integrals emerge\nin a wide class of topologies. Using integration-by-parts relations, associated\nmaster or scalar integrals have to be calculated. For this purpose it appears\nuseful to devise an automated method which recognizes the respective (partial)\ndifferential equations related to the corresponding higher transcendental\nfunctions. We solve these equations through associated recursions of the\nexpansion coefficient of the multivalued formal Taylor series. The expansion\ncoefficients can be determined using either the package {\\tt Sigma} in the case\nof linear difference equations or by applying heuristic methods in the case of\npartial linear difference equations. In the present context a new type of sums\noccurs, the Hurwitz harmonic sums, and generalized versions of them. The code\n{\\tt HypSeries} transforming classes of differential equations into analytic\nseries expansions is described. Also partial difference equations having\nrational solutions and rational function solutions of Pochhammer symbols are\nconsidered, for which the code {\\tt solvePartialLDE} is designed. Generalized\nhypergeometric functions, Appell-,~Kamp\\'e de F\\'eriet-, Horn-,\nLauricella-Saran-, Srivasta-, and Exton--type functions are considered. We\nillustrate the algorithms by examples.",
+          "arxiv_id": "2111.15501v1"
+        },
+        {
+          "title": "On the representation of non-holonomic univariate power series",
+          "year": "2021-09",
+          "abstract": "Holonomic functions play an essential role in Computer Algebra since they\nallow the application of many symbolic algorithms. Among all algorithmic\nattempts to find formulas for power series, the holonomic property remains the\nmost important requirement to be satisfied by the function under consideration.\nThe targeted functions mainly summarize that of meromorphic functions. However,\nexpressions like $\\tan(z)$, $z/(\\exp(z)-1)$, $\\sec(z)$, etc., particularly,\nreciprocals, quotients and compositions of holonomic functions, are generally\nnot holonomic. Therefore their power series are inaccessible by the holonomic\nframework. From the mathematical dictionaries, one can observe that most of the\nknown closed-form formulas of non-holonomic power series involve another\nsequence whose evaluation depends on some finite summations. In the case of\n$\\tan(z)$ and $\\sec(z)$ the corresponding sequences are the Bernoulli and Euler\nnumbers, respectively. Thus providing a symbolic approach that yields complete\nrepresentations when linear summations for power series coefficients of\nnon-holonomic functions appear, might be seen as a step forward towards the\nrepresentation of non-holonomic power series.\n  By adapting the method of ansatz with undetermined coefficients, we build an\nalgorithm that computes least-order quadratic differential equations with\npolynomial coefficients for a large class of non-holonomic functions. A\ndifferential equation resulting from this procedure is converted into a\nrecurrence equation by applying the Cauchy product formula and rewriting powers\ninto polynomials and derivatives into shifts. Finally, using enough initial\nvalues we are able to give normal form representations to characterize several\nnon-holonomic power series and prove non-trivial identities. We discuss this\nalgorithm and its implementation for Maple 2022.",
+          "arxiv_id": "2109.09574v3"
+        },
+        {
+          "title": "Symbolic computation of hypergeometric type and non-holonomic power series",
+          "year": "2021-02",
+          "abstract": "A term $a_n$ is $m$-fold hypergeometric, for a given positive integer $m$, if\nthe ratio $a_{n+m}/a_n$ is a rational function over a field $K$ of\ncharacteristic zero. We establish the structure of holonomic recurrence\nequation, i.e. linear and homogeneous recurrence equations having polynomial\ncoefficients, that have $m$-fold hypergeometric term solutions over $K$, for\nany positive integer $m$. Consequently, we describe an algorithm, say\n$mfoldHyper$, that extends van Hoeij's algorithm (1998) which computes a basis\nof the subspace of hypergeometric $(m=1)$ term solutions of holonomic\nrecurrence equations to the more general case of $m$-fold hypergeometric terms.\n  We generalize the concept of hypergeometric type power series introduced by\nKoepf (1992), by considering linear combinations of Laurent-Puiseux series\nwhose coefficients are $m$-fold hypergeometric terms. Thus thanks to\n$mfoldHyper$, we deduce a complete procedure to compute these power series;\nindeed, it turns out that every linear combination of power series with\n$m$-fold hypergeometric term coefficients, for finitely many values of $m$, is\ndetected.\n  On the other hand, we investigate an algorithm to represent power series of\nnon-holonomic functions. The algorithm follows the same steps of Koepf's\nalgorithm, but instead of seeking holonomic differential equations, quadratic\ndifferential equations are computed and the Cauchy product rule is used to\ndeduce recurrence equations for the power series coefficients. This algorithm\ndefines a normal function that yields together with enough initial values\nnormal forms for many power series of non-holonomic functions. Therefore,\nnon-trivial identities are automatically proved using this approach.\n  This paper is accompanied by implementations in the Computer Algebra Systems\n(CAS) Maxima 5.44.0 and Maple 2019.",
+          "arxiv_id": "2102.04157v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Algebraic identifiability of partial differential equation models",
+          "year": "2024-02",
+          "abstract": "Differential equation models are crucial to scientific processes. The values\nof model parameters are important for analyzing the behaviour of solutions. A\nparameter is called globally identifiable if its value can be uniquely\ndetermined from the input and output functions. To determine if a parameter\nestimation problem is well-posed for a given model, one must check if the model\nparameters are globally identifiable. This problem has been intensively studied\nfor ordinary differential equation models, with theory and several efficient\nalgorithms and software packages developed. A comprehensive theory of algebraic\nidentifiability for PDEs has hitherto not been developed due to the complexity\nof initial and boundary conditions. Here, we provide theory and algorithms,\nbased on differential algebra, for testing identifiability of polynomial PDE\nmodels. We showcase this approach on PDE models arising in the sciences.",
+          "arxiv_id": "2402.04241v1"
+        },
+        {
+          "title": "Exact and optimal quadratization of nonlinear finite-dimensional non-autonomous dynamical systems",
+          "year": "2023-03",
+          "abstract": "Quadratization of polynomial and nonpolynomial systems of ordinary\ndifferential equations is advantageous in a variety of disciplines, such as\nsystems theory, fluid mechanics, chemical reaction modeling and mathematical\nanalysis. A quadratization reveals new variables and structures of a model,\nwhich may be easier to analyze, simulate, control, and provides a convenient\nparametrization for learning. This paper presents novel theory, algorithms and\nsoftware capabilities for quadratization of non-autonomous ODEs. We provide\nexistence results, depending on the regularity of the input function, for cases\nwhen a quadratic-bilinear system can be obtained through quadratization. We\nfurther develop existence results and an algorithm that generalizes the process\nof quadratization for systems with arbitrary dimension that retain the\nnonlinear structure when the dimension grows. For such systems, we provide\ndimension-agnostic quadratization. An example is semi-discretized PDEs, where\nthe nonlinear terms remain symbolically identical when the discretization size\nincreases. As an important aspect for practical adoption of this research, we\nextended the capabilities of the QBee software towards both non-autonomous\nsystems of ODEs and ODEs with arbitrary dimension. We present several examples\nof ODEs that were previously reported in the literature, and where our new\nalgorithms find quadratized ODE systems with lower dimension than the\npreviously reported lifting transformations. We further highlight an important\narea of quadratization: reduced-order model learning. This area can benefit\nsignificantly from working in the optimal lifting variables, where quadratic\nmodels provide a direct parametrization of the model that also avoids\nadditional hyperreduction for the nonlinear terms. A solar wind example\nhighlights these advantages.",
+          "arxiv_id": "2303.10285v4"
+        },
+        {
+          "title": "Differential elimination for dynamical models via projections with applications to structural identifiability",
+          "year": "2021-11",
+          "abstract": "Elimination of unknowns in a system of differential equations is often\nrequired when analysing (possibly nonlinear) dynamical systems models, where\nonly a subset of variables are observable. One such analysis, identifiability,\noften relies on computing input-output relations via differential algebraic\nelimination. Determining identifiability, a natural prerequisite for meaningful\nparameter estimation, is often prohibitively expensive for medium to large\nsystems due to the computationally expensive task of elimination.\n  We propose an algorithm that computes a description of the set of\ndifferential-algebraic relations between the input and output variables of a\ndynamical system model. The resulting algorithm outperforms general-purpose\nsoftware for differential elimination on a set of benchmark models from\nliterature.\n  We use the designed elimination algorithm to build a new randomized algorithm\nfor assessing structural identifiability of a parameter in a parametric model.\nA parameter is said to be identifiable if its value can be uniquely determined\nfrom input-output data assuming the absence of noise and sufficiently exciting\ninputs. Our new algorithm allows the identification of models that could not be\ntackled before.\n  Our implementation is publicly available as a Julia package at\nhttps://github.com/SciML/StructuralIdentifiability.jl.",
+          "arxiv_id": "2111.00991v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:43:02Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

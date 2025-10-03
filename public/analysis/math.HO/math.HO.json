@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_functions_function_numbers_theory",
+        "keywords": [
+          [
+            "functions",
+            0.025936729055068157
+          ],
+          [
+            "function",
+            0.0249238675782488
+          ],
+          [
+            "numbers",
+            0.01914679789598618
+          ],
+          [
+            "theory",
+            0.019013351495209264
+          ],
+          [
+            "series",
+            0.018900297042132353
+          ],
+          [
+            "equations",
+            0.018615799725586666
+          ],
+          [
+            "integral",
+            0.01798982322083924
+          ],
+          [
+            "paper",
+            0.017051035185559116
+          ],
+          [
+            "mathematical",
+            0.015244019657309312
+          ],
+          [
+            "number",
+            0.0151366693708155
+          ]
+        ],
+        "count": 242
+      },
+      "1": {
+        "name": "1_triangle_geometry_points_point",
+        "keywords": [
+          [
+            "triangle",
+            0.034084995737526845
+          ],
+          [
+            "geometry",
+            0.030824913374042882
+          ],
+          [
+            "points",
+            0.02298596368516771
+          ],
+          [
+            "point",
+            0.02293208154628061
+          ],
+          [
+            "paper",
+            0.01987049154331595
+          ],
+          [
+            "circle",
+            0.018924885824144217
+          ],
+          [
+            "Euclidean",
+            0.018786216316514767
+          ],
+          [
+            "geometric",
+            0.018763574018748338
+          ],
+          [
+            "triangles",
+            0.018444304589836872
+          ],
+          [
+            "surfaces",
+            0.01590637818326667
+          ]
+        ],
+        "count": 183
+      },
+      "2": {
+        "name": "2_mathematics_students_learning_Mathematics",
+        "keywords": [
+          [
+            "mathematics",
+            0.051438090817889685
+          ],
+          [
+            "students",
+            0.050529057519206964
+          ],
+          [
+            "learning",
+            0.03136371559027957
+          ],
+          [
+            "Mathematics",
+            0.02910728098898959
+          ],
+          [
+            "education",
+            0.026936804280072925
+          ],
+          [
+            "mathematical",
+            0.02676903683227363
+          ],
+          [
+            "teaching",
+            0.026468169311328005
+          ],
+          [
+            "research",
+            0.020869334381968096
+          ],
+          [
+            "data",
+            0.018772597640322568
+          ],
+          [
+            "study",
+            0.01758280288429338
+          ]
+        ],
+        "count": 175
+      },
+      "3": {
+        "name": "3_mathematical_mathematics_logic_theory",
+        "keywords": [
+          [
+            "mathematical",
+            0.039576087371153375
+          ],
+          [
+            "mathematics",
+            0.037817948585102484
+          ],
+          [
+            "logic",
+            0.024486185450157367
+          ],
+          [
+            "theory",
+            0.023822692938336068
+          ],
+          [
+            "proofs",
+            0.022315109700804914
+          ],
+          [
+            "set",
+            0.021007422903475695
+          ],
+          [
+            "proof",
+            0.020081725802277357
+          ],
+          [
+            "truth",
+            0.016603982082196038
+          ],
+          [
+            "human",
+            0.01623985858295589
+          ],
+          [
+            "language",
+            0.015282948825528246
+          ]
+        ],
+        "count": 142
+      },
+      "4": {
+        "name": "4_graph_game_problem_puzzle",
+        "keywords": [
+          [
+            "graph",
+            0.03545517298933542
+          ],
+          [
+            "game",
+            0.033166193315966444
+          ],
+          [
+            "problem",
+            0.025007303618239336
+          ],
+          [
+            "puzzle",
+            0.024187311406179045
+          ],
+          [
+            "results",
+            0.02242764377825237
+          ],
+          [
+            "number",
+            0.022157983870654766
+          ],
+          [
+            "players",
+            0.020928130663981057
+          ],
+          [
+            "combinatorial",
+            0.02045300542270057
+          ],
+          [
+            "graphs",
+            0.019858011231335345
+          ],
+          [
+            "theory",
+            0.018555272428698925
+          ]
+        ],
+        "count": 111
+      },
+      "5": {
+        "name": "5_theorem_theory_proof_translation",
+        "keywords": [
+          [
+            "theorem",
+            0.03170508104092637
+          ],
+          [
+            "theory",
+            0.027989591539319826
+          ],
+          [
+            "proof",
+            0.027375994833562067
+          ],
+          [
+            "translation",
+            0.025411732926751703
+          ],
+          [
+            "articles",
+            0.022933629493542045
+          ],
+          [
+            "algebra",
+            0.020629182003295693
+          ],
+          [
+            "article",
+            0.019880649551222013
+          ],
+          [
+            "fields",
+            0.019198719479826903
+          ],
+          [
+            "Dedekind",
+            0.01827163132818903
+          ],
+          [
+            "original",
+            0.017347058054773247
+          ]
+        ],
+        "count": 60
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.15075278430545014,
+        -0.5206196433600401,
+        -0.3603557107395716,
+        -0.23134487021772615,
+        -0.2556572339175626
+      ],
+      [
+        -0.15075278430545014,
+        1.0,
+        -0.5301554522250657,
+        -0.3968805469546455,
+        -0.10125160229127264,
+        -0.3410286594128198
+      ],
+      [
+        -0.5206196433600401,
+        -0.5301554522250657,
+        1.0,
+        -0.11416767490707491,
+        -0.5238539288987837,
+        -0.5200617243319681
+      ],
+      [
+        -0.3603557107395716,
+        -0.3968805469546455,
+        -0.11416767490707491,
+        1.0,
+        -0.3413302039641785,
+        -0.31533041138954643
+      ],
+      [
+        -0.23134487021772615,
+        -0.10125160229127264,
+        -0.5238539288987837,
+        -0.3413302039641785,
+        1.0,
+        -0.2799692620637901
+      ],
+      [
+        -0.2556572339175626,
+        -0.3410286594128198,
+        -0.5200617243319681,
+        -0.31533041138954643,
+        -0.2799692620637901,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        10,
+        9,
+        1,
+        0,
+        1,
+        2
+      ],
+      "2020-02": [
+        10,
+        7,
+        5,
+        1,
+        1,
+        1
+      ],
+      "2020-03": [
+        12,
+        5,
+        5,
+        0,
+        0,
+        2
+      ],
+      "2020-04": [
+        14,
+        4,
+        4,
+        1,
+        2,
+        2
+      ],
+      "2020-05": [
+        9,
+        9,
+        2,
+        1,
+        0,
+        1
+      ],
+      "2020-06": [
+        6,
+        3,
+        2,
+        1,
+        4,
+        1
+      ],
+      "2020-07": [
+        5,
+        3,
+        1,
+        1,
+        1,
+        0
+      ],
+      "2020-08": [
+        14,
+        4,
+        8,
+        3,
+        3,
+        1
+      ],
+      "2020-09": [
+        13,
+        3,
+        2,
+        0,
+        0,
+        2
+      ],
+      "2020-10": [
+        6,
+        3,
+        4,
+        1,
+        1,
+        4
+      ],
+      "2020-11": [
+        8,
+        5,
+        5,
+        1,
+        1,
+        2
+      ],
+      "2020-12": [
+        10,
+        9,
+        3,
+        0,
+        5,
+        1
+      ],
+      "2021-01": [
+        9,
+        5,
+        3,
+        2,
+        0,
+        1
+      ],
+      "2021-02": [
+        4,
+        3,
+        5,
+        2,
+        2,
+        3
+      ],
+      "2021-03": [
+        7,
+        3,
+        4,
+        3,
+        3,
+        0
+      ],
+      "2021-04": [
+        5,
+        3,
+        4,
+        1,
+        1,
+        2
+      ],
+      "2021-05": [
+        10,
+        10,
+        7,
+        1,
+        2,
+        2
+      ],
+      "2021-06": [
+        8,
+        5,
+        3,
+        1,
+        0,
+        6
+      ],
+      "2021-07": [
+        6,
+        2,
+        5,
+        3,
+        1,
+        4
+      ],
+      "2021-08": [
+        7,
+        3,
+        7,
+        2,
+        1,
+        0
+      ],
+      "2021-09": [
+        5,
+        3,
+        7,
+        1,
+        1,
+        0
+      ],
+      "2021-10": [
+        9,
+        2,
+        2,
+        1,
+        0,
+        1
+      ],
+      "2021-11": [
+        7,
+        2,
+        3,
+        2,
+        1,
+        2
+      ],
+      "2021-12": [
+        8,
+        4,
+        10,
+        3,
+        0,
+        1
+      ],
+      "2022-01": [
+        9,
+        6,
+        7,
+        2,
+        3,
+        0
+      ],
+      "2022-02": [
+        2,
+        6,
+        6,
+        1,
+        1,
+        0
+      ],
+      "2022-03": [
+        6,
+        4,
+        2,
+        0,
+        0,
+        1
+      ],
+      "2022-04": [
+        12,
+        1,
+        5,
+        1,
+        1,
+        2
+      ],
+      "2022-05": [
+        6,
+        3,
+        3,
+        4,
+        1,
+        0
+      ],
+      "2022-06": [
+        12,
+        6,
+        4,
+        0,
+        0,
+        1
+      ],
+      "2022-07": [
+        14,
+        2,
+        2,
+        3,
+        2,
+        1
+      ],
+      "2022-08": [
+        12,
+        4,
+        5,
+        2,
+        1,
+        3
+      ],
+      "2022-09": [
+        11,
+        6,
+        1,
+        0,
+        0,
+        1
+      ],
+      "2022-10": [
+        5,
+        6,
+        5,
+        4,
+        0,
+        2
+      ],
+      "2022-11": [
+        6,
+        9,
+        3,
+        3,
+        0,
+        3
+      ],
+      "2022-12": [
+        8,
+        3,
+        11,
+        1,
+        1,
+        1
+      ],
+      "2023-01": [
+        8,
+        3,
+        3,
+        1,
+        1,
+        2
+      ],
+      "2023-02": [
+        8,
+        3,
+        5,
+        0,
+        2,
+        1
+      ],
+      "2023-03": [
+        12,
+        1,
+        7,
+        2,
+        3,
+        0
+      ],
+      "2023-04": [
+        6,
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      "2023-05": [
+        3,
+        7,
+        6,
+        2,
+        1,
+        4
+      ],
+      "2023-06": [
+        11,
+        2,
+        1,
+        6,
+        2,
+        1
+      ],
+      "2023-07": [
+        9,
+        4,
+        7,
+        5,
+        3,
+        2
+      ],
+      "2023-08": [
+        19,
+        4,
+        6,
+        3,
+        5,
+        1
+      ],
+      "2023-09": [
+        12,
+        6,
+        5,
+        1,
+        2,
+        1
+      ],
+      "2023-10": [
+        11,
+        7,
+        8,
+        4,
+        2,
+        0
+      ],
+      "2023-11": [
+        12,
+        3,
+        2,
+        2,
+        1,
+        0
+      ],
+      "2023-12": [
+        12,
+        4,
+        2,
+        1,
+        1,
+        1
+      ],
+      "2024-01": [
+        5,
+        6,
+        4,
+        1,
+        4,
+        0
+      ],
+      "2024-02": [
+        15,
+        3,
+        7,
+        0,
+        0,
+        2
+      ],
+      "2024-03": [
+        6,
+        7,
+        1,
+        2,
+        3,
+        1
+      ],
+      "2024-04": [
+        15,
+        8,
+        5,
+        1,
+        4,
+        0
+      ],
+      "2024-05": [
+        6,
+        1,
+        4,
+        3,
+        4,
+        1
+      ],
+      "2024-06": [
+        9,
+        1,
+        7,
+        3,
+        1,
+        1
+      ],
+      "2024-07": [
+        3,
+        1,
+        2,
+        1,
+        3,
+        0
+      ],
+      "2024-08": [
+        7,
+        3,
+        2,
+        3,
+        2,
+        0
+      ],
+      "2024-09": [
+        4,
+        4,
+        2,
+        0,
+        1,
+        1
+      ],
+      "2024-10": [
+        9,
+        4,
+        3,
+        2,
+        4,
+        1
+      ],
+      "2024-11": [
+        8,
+        2,
+        1,
+        3,
+        1,
+        0
+      ],
+      "2024-12": [
+        13,
+        4,
+        3,
+        4,
+        1,
+        1
+      ],
+      "2025-01": [
+        16,
+        4,
+        5,
+        2,
+        4,
+        1
+      ],
+      "2025-02": [
+        13,
+        1,
+        10,
+        1,
+        2,
+        3
+      ],
+      "2025-03": [
+        10,
+        9,
+        5,
+        3,
+        0,
+        0
+      ],
+      "2025-04": [
+        7,
+        3,
+        3,
+        3,
+        4,
+        0
+      ],
+      "2025-05": [
+        9,
+        1,
+        3,
+        2,
+        1,
+        1
+      ],
+      "2025-06": [
+        10,
+        4,
+        5,
+        2,
+        2,
+        0
+      ],
+      "2025-07": [
+        14,
+        4,
+        2,
+        1,
+        4,
+        0
+      ],
+      "2025-08": [
+        12,
+        5,
+        13,
+        3,
+        0,
+        0
+      ],
+      "2025-09": [
+        4,
+        3,
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "An Overview of Numerical and Analytical Methods for solving Ordinary Differential Equations",
+          "year": "2020-12",
+          "abstract": "Differential Equations are among the most important Mathematical tools used\nin creating models in the science, engineering, economics, mathematics,\nphysics, aeronautics, astronomy, dynamics, biology, chemistry, medicine,\nenvironmental sciences, social sciences, banking and many other areas [7]. A\ndifferential equation that has only one independent variable is called an\nOrdinary Differential Equation (ODE), and all derivatives in it are taken with\nrespect to that variable. Most often, the variable is time, t; although, I will\nuse x in this paper as the independent variable. The differential equation\nwhere the unknown function depends on two or more variables is referred to as\nPartial Differential Equations (PDE). Ordinary differential equations can be\nsolved by a variety of methods, analytical and numerical. Although there are\nmany analytic methods for finding the solution of differential equations, there\nexist quite a number of differential equations that cannot be solved\nanalytically [8]. This means that the solution cannot be expressed as the sum\nof a finite number of elementary functions (polynomials, exponentials,\ntrigonometric, and hyperbolic functions). For simple differential equations, it\nis possible to find closed form solutions [9]. But many differential equations\narising in applications are so complicated that it is sometimes impractical to\nhave solution formulas; or at least if a solution formula is available, it may\ninvolve integrals that can be calculated only by using a numerical quadrature\nformula. In either case, numerical methods provide a powerful alternative tool\nfor solving the differential equations under the prescribed initial condition\nor conditions [9]. In this paper, I present the basic and commonly used\nnumerical and analytical methods of solving ordinary differential equations.",
+          "arxiv_id": "2012.07558v1"
+        },
+        {
+          "title": "Love--Lieb integral equations: applications, theory, approximations, and computation",
+          "year": "2020-10",
+          "abstract": "This paper is concerned mainly with the deceptively simple integral equation\n\\[\n  u(x) - \\frac{1}{\\pi}\\int_{-1}^{1} \\frac{\\alpha\\, u(y)}{\\alpha^2+(x-y)^2} \\,\n\\rd y = 1, \\quad -1 \\leq x \\leq 1, \\] where $\\alpha$ is a real non-zero\nparameter and $u$ is the unknown function. This equation is classified as a\nFredholm integral equation of the second kind with a continuous kernel. As\nsuch, it falls into a class of equations for which there is a well developed\ntheory. The theory shows that there is exactly one continuous real solution\n$u$. Although this solution is not known in closed form, it can be computed\nnumerically, using a variety of methods. All this would be a curiosity were it\nnot for the fact that the integral equation arises in several contexts in\nclassical and quantum physics. We review the literature on these applications,\nsurvey the main analytical and numerical tools available, and investigate\nmethods for constructing approximate solutions. We also consider the same\nintegral equation when the constant on the right-hand side is replaced by a\ngiven function.",
+          "arxiv_id": "2010.11052v1"
+        },
+        {
+          "title": "Mathematical Analysis Volume I",
+          "year": "2023-07",
+          "abstract": "This is the first volume of a textbook for a two-semester course in\nmathematical analysis. This first volume is about analysis of functions of a\nsingle variable. The topics covered include completeness axiom, Archimedean\nproperty, sequentially compact subsets of $\\mathbb{R}$, limits of functions,\ncontinuous functions, intermediate value theorem, extreme value theorem,\ndifferentiation, mean value theorem, l'Hopital's rule, Riemann integrals,\nimproper integrals, elementary transcendental functions, sequences and series\nof numbers, infinite products, sequences and series of functions, uniform\nconvergence, power series, Taylor series and Taylor polynomials. At the end of\nthe book, we include some classical examples such as the irrationality of the\nnumber $e$, the existence of a non-analytic infinitely differentiable function,\nthe existence of a nowhere differentiable continuous function. The book is\nconcluded with the proof of the Weierstrass approximation theorem.",
+          "arxiv_id": "2307.05607v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Around Hilbert's theorem: the center of a circle is not constructible by straightedge alone",
+          "year": "2021-07",
+          "abstract": "In order to state the theorem in the title formally and to review its\nrigorous proof, we extend and make more precise the\nUspenskiy-Shen-Akopyan-Fedorov model of Euclidean constructions with arbitrary\npoints; we also introduce formalizations for infinite configurations and for\nthe projective plane. We exemplify the proof method by simpler and not so well\nknown results that it is impossible to construct the unit length, or a given\npoint, by compass and straightedge from nothing by means of classical arbitrary\npoints. On the other hand we construct any given point by compass and\nstraightedge from nothing by means of arbitrary points determined by horizontal\nsegments. We quote a \"proof\" of Hilbert's theorem from the literature and\nexplain why it is problematic. We rigorously prove Hilbert's theorem and\npresent three variants of it, the last one for the projective plane.",
+          "arxiv_id": "2107.09747v1"
+        },
+        {
+          "title": "Computer Investigation of Properties of the Gergonne Point of a Triangle",
+          "year": "2022-01",
+          "abstract": "The incircle of a triangle touches the sides of the triangle in three points.\nIt is well known that the lines from these points to the opposite vertices meet\nat a point known as the Gergonne point of the triangle. We use a computer to\ndiscover and catalog properties of the Gergonne point.",
+          "arxiv_id": "2201.11159v1"
+        },
+        {
+          "title": "Pompeiu's theorem and the moduli space of triangles",
+          "year": "2020-02",
+          "abstract": "We introduce a kind of converse of Pompeiu's theorem. Fix an equilateral\ntriangle $\\triangle A_0B_0C_0$, then for any triangle $\\triangle ABC$ there is\na unique point $P$ inside the circumcircle $\\Gamma_0$ of $\\triangle A_0B_0C_0$\nsuch that a triangle with edge lengths $PA_0, PB_0$, and $PC_0$ is similar to\n$\\triangle ABC$. It follows that an open disc inside $\\Gamma_0$ can be\nconsidered as a moduli space of similarity classes of triangles. We show that\nit is essentially equivalent to another moduli space based on a shape function\nof triangles which has been used in preceding studies.",
+          "arxiv_id": "2002.07084v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Applications of Teaching Secondary Mathematics in Undergraduate Mathematics Courses",
+          "year": "2021-02",
+          "abstract": "Robust preparation of future secondary mathematics teachers requires\nattention to the acquisition of mathematical knowledge for teaching. Many\nfuture teachers learn mathematics content primarily through mathematics major\ncourses that are taught by mathematicians who do not specialize in teacher\npreparation. How can mathematics education researchers assist mathematicians in\nmaking explicit connections between the content of undergraduate mathematics\ncourses and the content of secondary mathematics? We present an articulation of\nfive types of connections that can be used in secondary mathematics teacher\npreparation and give examples of question prompts that mathematicians can use\nas applications of teaching secondary mathematics in undergraduate mathematics\ncourses.",
+          "arxiv_id": "2102.04537v1"
+        },
+        {
+          "title": "Evaluating the Effect of Activity Based Method of Teaching Mathematics on Nigerian Secondary School Students Achievement in Mathematics",
+          "year": "2020-11",
+          "abstract": "Mathematics is a compulsory subject in Nigerian secondary schools, and the\nsubject plays an important role in the scientific and technological growth and\ndevelopment of the nation. A shortfall in the knowledge of the students in\nMathematics means that the goal may not be realized, hence the need to improve\nteaching methods for solving the problem of poor performance in the subject.\nThis study evaluated the effect of the activity-based teaching method on the\nstudents' achievement in secondary school Mathematics. The design of the study\nwas a quasi-experimental pretest-posttest research design using intact classes.\nFinding revealed that there was a significant difference in the Mathematics\nperformance between the posttest mean scores of the students who were exposed\nto activity-based teaching methods (experimental) and those that were taught\nwith lecture method (control) groups after controlling for the effect of the\npre-test on Mathematics scores. The paper recommends among others that\nsecondary school Mathematics teachers should be trained and retrained to update\ntheir knowledge in the use of activity-based teaching for making the teaching\nand learning of Mathematics more interesting and rewarding.",
+          "arxiv_id": "2011.10785v1"
+        },
+        {
+          "title": "Enhancing Primary Teacher Training through Academic Portfolios in Advanced Mathematics Courses",
+          "year": "2025-04",
+          "abstract": "The gap between theory and practice in mathematics education, particularly in\nprimary-teacher education, necessitates innovative teaching methodologies. This\npaper explores the implementation of academic portfolios as a teaching\ninnovation in Algebra and Number Systems I and II courses within the primary\nteacher education programme at Pontificia Universidad Cat\\'olica de Chile. The\nmethodology involved integrating academic portfolios to align course content\nwith essential learning outcomes for future teaching roles. Implementation\nbegins with a negotiation between students and teachers to establish a learning\ncontract, followed by an overview of course rules, content, objectives,\nmaterials, and grading rubrics. Preliminary findings indicate that this\ninnovative method enhances engagement with mathematical concepts, improves\nassessment efficacy in teacher training, and may contribute to enhanced\npreparation of primary mathematics teachers. The study highlights the role of\nportfolios in making students active participants in their learning,\nsignificantly enhancing the educational experience of teacher candidates. These\nfindings suggest a promising avenue for future educational assessments and\nmethodologies in mathematics, indicating that academic portfolios can bridge\nthe gap between theoretical knowledge and practical applications in mathematics\nteacher education, potentially enhancing teacher preparation. While this study\nshows promising results, further research with larger samples and longer\ntimeframes would be beneficial to establish causality and long-term impacts.",
+          "arxiv_id": "2504.06159v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "The Mathematician's Assistant: Integrating AI into Research Practice",
+          "year": "2025-08",
+          "abstract": "The rapid development of artificial intelligence (AI), marked by\nbreakthroughs like 'AlphaEvolve' and 'Gemini Deep Think', is beginning to offer\npowerful new tools that have the potential to significantly alter the research\npractice in many areas of mathematics. This paper explores the current\nlandscape of publicly accessible large language models (LLMs) in a mathematical\nresearch context, based on developments up to August 2, 2025. Our analysis of\nrecent benchmarks, such as MathArena and the Open Proof Corpus (Balunovi\\'c et\nal., 2025; Dekoninck et al., 2025), reveals a complex duality: while\nstate-of-the-art models demonstrate strong abilities in solving problems and\nevaluating proofs, they also exhibit systematic flaws, including a lack of\nself-critique and a model depending discrepancy between final-answer accuracy\nand full-proof validity.\n  Based on these findings, we propose a durable framework for integrating AI\ninto the research workflow, centered on the principle of the augmented\nmathematician. In this model, the AI functions as a copilot under the critical\nguidance of the human researcher, an approach distilled into five guiding\nprinciples for effective and responsible use. We then systematically explore\nseven fundamental ways AI can be applied across the research lifecycle, from\ncreativity and ideation to the final writing process, demonstrating how these\nprinciples translate into concrete practice.\n  We conclude that the primary role of AI is currently augmentation rather than\nautomation. This requires a new skill set focused on strategic prompting,\ncritical verification, and methodological rigor in order to effectively use\nthese powerful tools.",
+          "arxiv_id": "2508.20236v1"
+        },
+        {
+          "title": "On foundations for deductive mathematics",
+          "year": "2024-06",
+          "abstract": "This article was motivated by the discovery of a potential new foundation for\nmainstream mathematics. The goals are to clarify the relationships between\nprimitives, foundations, and deductive practice; to understand how to determine\nwhat is, or isn't, a foundation; and get clues as to how a foundation can be\noptimized for effective human use.\n  For this we turn to history and professional practice of the subject. We have\nno asperations to Philosophy.\n  The first section gives a short abstract discussion, focusing on the\nsignificance of consistency. The next briefly describes foundations, explicit\nand implicit, at a few key periods in mathematical history. We see, for\nexample, that at the primitive level human intuitions are essential, but can be\nproblematic. We also see that traditional axiomatic set theories,\nZermillo-Fraenkel-Choice (ZFC) in particular, are not quite consistent with\nmainstream practice. The final section sketches the proposed new foundation and\ngives the basic argument that it is uniquely qualified to be considered {the}\nfoundation of mainstream deductive mathematics. The ``coherent limit axiom''\ncharacterizes the new theory among ZFC-like theories. This axiom plays a role\nin recursion, but is implicitly assumed in mainstream work so does not provide\nnew leverage there. In principle it should settle set-theory questions such as\nthe continuum hypothesis.",
+          "arxiv_id": "2407.02507v2"
+        },
+        {
+          "title": "A foundation for deductive mathematics",
+          "year": "2021-10",
+          "abstract": "Set theory is widely believed to provide a secure foundation for deductive\nmathematics, but current set theories do not quite do this. The mainstream\nessentially uses na\\\"\\i ve set theory. After Russell's paradox showed this to\nbe inconsistent, the patch ``don't say `set of all sets' '' was added. The\nresulting methodology has been extremely successful, but still lacks a\nconsistent foundation. The set theory community extracted properties of na\\\"\\i\nve set theory to use as axioms, culminating in the Zermillo-Fraenkel-Choice\n(ZFC) axioms. In this community it is believed that these provide a foundation\nfor mathematics. Unfortunately, this is incorrect: they missed an axiom. This\npaper addresses these issues.\n  We begin with weak primitives objects, a weak logic that does not include the\nstandard 2-valued operators (\\(=,\\in, \\exists, \\forall\\)), and four\nstraightforward axioms. Sets are defined to be the objects for which the\nstandard operators make sense. It takes only a dozen pages to verify -- in full\ndetail -- that these have the properties used in standard practice. The second\npart of the paper relates this to traditional axiomatic set theory. We show the\nsets here correspond to sets in a maximal ZFC model. Finally, we show that the\n``coherent limit axiom'', considered obviously true in mainstream practice,\nholds in the maximal model and fails in all others.\n  There are several qualitative conclusions. First, standard mainstream\npractice implicitly takes place in the set theory described here. This also\nshows there are no ``hidden axioms'' that might provide a boost: we already\nhave the full toolkit. Second, almost all of the axiomatic set theory of the\nlast hundred years is irrelevant to standard mathematical practice. The ZFC\nmodels produced by forcing, for example, are essentially never maximal, and\ntherefore do not constrain or inform standard practice.",
+          "arxiv_id": "2110.01489v8"
+        }
+      ],
+      "4": [
+        {
+          "title": "Algorithmic methods of finite discrete structures. The Four Color Theorem. Theory, methods, algorithms",
+          "year": "2024-04",
+          "abstract": "The Four color problem is closely related to other branches of mathematics\nand practical applications. More than 20 of its reformulations are known, which\nconnect this problem with problems of algebra, statistical mechanics and\nplanning. And this is also typical for mathematics: the solution to a problem\nstudied out of pure curiosity turns out to be useful in representing real\nobjects and processes that are completely different in nature. Despite the\npublished machine methods for combinatorial proof of the Four color conjecture,\nthere is still no clear description of the mechanism for coloring a planar\ngraph with four colors, its natural essence and its connection with the\nphenomenon of graph planarity. It is necessary not only to prove (preferably by\ndeductive methods) that any planar graph can be colored with four colors, but\nalso to show how to color it. The paper considers an approach based on the\npossibility of reducing a maximally flat graph to a regular flat cubic graph\nwith its further coloring. Based on the Tate-Volynsky theorem, the vertices of\na maximally flat graph can be colored with four colors, if the edges of its\ndual cubic graph can be colored with three colors. Considering the properties\nof a colored cubic graph, it can be shown that the addition of colors obeys the\ntransformation laws of the fourth order Klein group. Using this property, it is\npossible to create algorithms for coloring planar graphs.",
+          "arxiv_id": "2405.05270v1"
+        },
+        {
+          "title": "Intersection Problems in Extremal Combinatorics: Theorems, Techniques and Questions Old and New",
+          "year": "2021-07",
+          "abstract": "The study of intersection problems in Extremal Combinatorics dates back\nperhaps to 1938, when Paul Erd\\H{o}s, Chao Ko and Richard Rado proved the\n(first) `Erd\\H{o}s-Ko-Rado theorem' on the maximum possible size of an\nintersecting family of $k$-element subsets of a finite set. Since then, a\nplethora of results of a similar flavour have been proved, for a range of\ndifferent mathematical structures, using a wide variety of different methods.\nStructures studied in this context have included families of vector subspaces,\nfamilies of graphs, subsets of finite groups with given group actions, and of\ncourse uniform hypergraphs with stronger or weaker intersection conditions\nimposed. The methods used have included purely combinatorial ones such as\nshifting/compressions, algebraic methods (including linear-algebraic, Fourier\nanalytic and representation-theoretic), and more recently, analytic,\nprobabilistic and regularity-type methods. As well as being natural problems in\ntheir own right, intersection problems have connections with many other parts\nof Combinatorics and with Theoretical Computer Science (and indeed with many\nother parts of Mathematics), both through the results themselves, and the\nmethods used. In this survey paper, we discuss both old and new results (and\nboth old and new methods), in the field of intersection problems. Many\ninteresting open problems remain; we will discuss several. For expositional and\npedagogical purposes, we also take this opportunity to give slightly\nstreamlined versions of proofs (due to others) of several classical results in\nthe area. This survey is intended to be useful to PhD students, as well as to\nmore established researchers. It is a personal perspective on the field, and is\nnot intended to be exhaustive; we apologise for any omissions. It is an\nexpanded version of a paper that will appear in the Proceedings of the 29th\nBritish Combinatorial Conference.",
+          "arxiv_id": "2107.06371v8"
+        },
+        {
+          "title": "Computational and Algebraic Structure of Board Games",
+          "year": "2025-02",
+          "abstract": "We provide two methodologies in the area of computation theory to solve\noptimal strategies for board games such as Xi Gua Qi and Go. From experimental\nresults, we find relevance to graph theory, matrix representation, and\nmathematical consciousness. We prove that the decision strategy of movement for\nXi Gua Qi and Chinese checker games belongs to a subset that is neither a ring\nnor a group over set Y={-1,0,1}. Additionally, the movement for any board game\nwith two players belongs to a subset that is neither a ring nor a group from\nthe razor of Occam. We derive the closed form of the transition matrix for any\nboard game with two players such as chess and Chinese chess. We discover that\nthe element of the transition matrix belongs to a rational number. We propose a\ndifferent methodology based on algebra theory to analyze the complexity of\nboard games in their entirety, instead of being limited solely to endgame\nresults. It is probable that similar decision processes of people may also\nbelong to a matrix representation that is neither a ring nor a group.",
+          "arxiv_id": "2503.01850v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Ludwig Bieberbach's \"Remarks on Hilbert's Thirteenth Problem\" and Addendum",
+          "year": "2024-10",
+          "abstract": "This is an English translation of Ludwig Bieberbach's paper ``Remarks on\nHilbert's Thirteenth Problem\" originally written in German and originally\npublished in Journal f\\\"ur die Reine und Angewandte Mathematik - 165 (89-92)\n1931, along with an addendum to the paper published in 1933. Beiberbach studies\nunder what conditions are there functions of three variables which can or\ncannot be obtained by combining or nesting functions of two variables. In the\naddendum, Bieberbach acknowledges a fatal error in a proof in the original\narticle and connects Hilbert's thirteenth problem to a related problem in the\ntheory of differential equations.",
+          "arxiv_id": "2410.23292v1"
+        },
+        {
+          "title": "The fundamental theorem of finite fields: a proof from first principles",
+          "year": "2020-10",
+          "abstract": "A mathematics student's first introduction to the fundamental theorem of\nfinite fields (FTFF) often occurs in an advanced abstract algebra course and\ninvokes the power of Galois theory to prove it. Yet the combinatorial and\nalgebraic coding theory applications of finite fields can show up early on for\nstudents in STEM. To make the FTFF more accessible to students lacking exposure\nto Galois theory, we provide a proof from algebraic \"first principles.\"",
+          "arxiv_id": "2010.09124v2"
+        },
+        {
+          "title": "The Adian-Rabin Theorem -- An English translation",
+          "year": "2022-08",
+          "abstract": "This is an English translation of four remarkable articles, originally\nwritten in Russian, by Sergei Ivanovich Adian (1931--2020), supplemented by the\ntranslation of two closely related articles by Andrei Andreevich Markov Jr\n(1903--1979). All six articles concern algorithmic undecidability of various\nproblems for groups and monoids. The articles by S. I. Adian give his proof of\nthe famous \"Adian-Rabin Theorem\", which shows that there is no algorithm which\ntakes as input a finite presentation of a group together with a \"Markov\"\nproperty $P$ (e.g. being the trivial group, being infinite, etc.), and which\noutputs whether or not the presented group has property $P$. The articles by A.\nA. Markov (Jr) give the analogous result for monoids (a significantly easier\nresult), and appeared several years before the group-theoretic analogue. A\npreface detailing the contents of the articles and some commentary is provided,\nincluding the somewhat difficult task of deciding which of Adian's four\narticles should be considered as containing \"the\" proof of the Adian-Rabin\ntheorem.",
+          "arxiv_id": "2208.08560v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:54:16Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

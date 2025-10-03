@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_stars_mass_star_stellar",
+        "keywords": [
+          [
+            "stars",
+            0.03994633199257741
+          ],
+          [
+            "mass",
+            0.029213999369441638
+          ],
+          [
+            "star",
+            0.026320789175058062
+          ],
+          [
+            "stellar",
+            0.024715672554931453
+          ],
+          [
+            "binary",
+            0.015395722981233472
+          ],
+          [
+            "data",
+            0.0147730477767714
+          ],
+          [
+            "observations",
+            0.014358052632071195
+          ],
+          [
+            "high",
+            0.014227371875794178
+          ],
+          [
+            "evolution",
+            0.014017415588431304
+          ],
+          [
+            "models",
+            0.013871739943177107
+          ]
+        ],
+        "count": 19007
+      },
+      "1": {
+        "name": "1_solar_magnetic_field_Solar",
+        "keywords": [
+          [
+            "solar",
+            0.050032960961277954
+          ],
+          [
+            "magnetic",
+            0.04052643091086482
+          ],
+          [
+            "field",
+            0.027480164800967724
+          ],
+          [
+            "Solar",
+            0.022531353382659648
+          ],
+          [
+            "coronal",
+            0.02234818558443028
+          ],
+          [
+            "flux",
+            0.01886995011195263
+          ],
+          [
+            "magnetic field",
+            0.018768136570561887
+          ],
+          [
+            "observations",
+            0.017280054185170344
+          ],
+          [
+            "flare",
+            0.015795871224436965
+          ],
+          [
+            "plasma",
+            0.015640380411428262
+          ]
+        ],
+        "count": 5766
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.3903027212309074
+      ],
+      [
+        -0.3903027212309074,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        280,
+        80
+      ],
+      "2020-02": [
+        286,
+        81
+      ],
+      "2020-03": [
+        268,
+        84
+      ],
+      "2020-04": [
+        266,
+        82
+      ],
+      "2020-05": [
+        268,
+        108
+      ],
+      "2020-06": [
+        356,
+        101
+      ],
+      "2020-07": [
+        299,
+        108
+      ],
+      "2020-08": [
+        253,
+        99
+      ],
+      "2020-09": [
+        289,
+        121
+      ],
+      "2020-10": [
+        294,
+        115
+      ],
+      "2020-11": [
+        292,
+        84
+      ],
+      "2020-12": [
+        259,
+        88
+      ],
+      "2021-01": [
+        223,
+        116
+      ],
+      "2021-02": [
+        213,
+        97
+      ],
+      "2021-03": [
+        276,
+        108
+      ],
+      "2021-04": [
+        226,
+        90
+      ],
+      "2021-05": [
+        233,
+        85
+      ],
+      "2021-06": [
+        224,
+        93
+      ],
+      "2021-07": [
+        260,
+        97
+      ],
+      "2021-08": [
+        226,
+        82
+      ],
+      "2021-09": [
+        285,
+        109
+      ],
+      "2021-10": [
+        248,
+        92
+      ],
+      "2021-11": [
+        294,
+        70
+      ],
+      "2021-12": [
+        219,
+        88
+      ],
+      "2022-01": [
+        221,
+        94
+      ],
+      "2022-02": [
+        225,
+        79
+      ],
+      "2022-03": [
+        293,
+        100
+      ],
+      "2022-04": [
+        219,
+        85
+      ],
+      "2022-05": [
+        261,
+        103
+      ],
+      "2022-06": [
+        319,
+        82
+      ],
+      "2022-07": [
+        236,
+        91
+      ],
+      "2022-08": [
+        226,
+        82
+      ],
+      "2022-09": [
+        295,
+        100
+      ],
+      "2022-10": [
+        282,
+        98
+      ],
+      "2022-11": [
+        263,
+        128
+      ],
+      "2022-12": [
+        203,
+        96
+      ],
+      "2023-01": [
+        290,
+        105
+      ],
+      "2023-02": [
+        239,
+        79
+      ],
+      "2023-03": [
+        296,
+        102
+      ],
+      "2023-04": [
+        225,
+        74
+      ],
+      "2023-05": [
+        256,
+        92
+      ],
+      "2023-06": [
+        301,
+        101
+      ],
+      "2023-07": [
+        264,
+        86
+      ],
+      "2023-08": [
+        246,
+        88
+      ],
+      "2023-09": [
+        277,
+        96
+      ],
+      "2023-10": [
+        319,
+        83
+      ],
+      "2023-11": [
+        255,
+        80
+      ],
+      "2023-12": [
+        210,
+        77
+      ],
+      "2024-01": [
+        297,
+        118
+      ],
+      "2024-02": [
+        220,
+        107
+      ],
+      "2024-03": [
+        257,
+        96
+      ],
+      "2024-04": [
+        280,
+        81
+      ],
+      "2024-05": [
+        301,
+        107
+      ],
+      "2024-06": [
+        238,
+        76
+      ],
+      "2024-07": [
+        278,
+        92
+      ],
+      "2024-08": [
+        248,
+        84
+      ],
+      "2024-09": [
+        275,
+        111
+      ],
+      "2024-10": [
+        326,
+        116
+      ],
+      "2024-11": [
+        293,
+        80
+      ],
+      "2024-12": [
+        267,
+        80
+      ],
+      "2025-01": [
+        269,
+        96
+      ],
+      "2025-02": [
+        247,
+        88
+      ],
+      "2025-03": [
+        310,
+        94
+      ],
+      "2025-04": [
+        284,
+        102
+      ],
+      "2025-05": [
+        281,
+        129
+      ],
+      "2025-06": [
+        277,
+        96
+      ],
+      "2025-07": [
+        320,
+        106
+      ],
+      "2025-08": [
+        267,
+        94
+      ],
+      "2025-09": [
+        182,
+        66
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Carbon enrichment in APOGEE disk stars as evidence of mass transfer in binaries",
+          "year": "2024-07",
+          "abstract": "Carbon abundances in first-ascent giant stars are usually lower than those of\ntheir main-sequence counterparts. At moderate metallicities, stellar evolution\nof single stars cannot account for the existence of red-giant branch stars with\nenhanced carbon abundances. The phenomenon is usually interpreted as resulting\nfrom past mass transfer from an evolved binary companion now in the white dwarf\nevolutionary stage. Aims: We aim to confirm the links between [C/O]\nenhancement, s-process element enhancement and binary fraction using\nlarge-scale catalogues of stellar abundances and probable binary stars.\nMethods: We use a large data set from the 17 data release of the\nSDSS-IV/APOGEE~2 survey to identify carbon-enhanced stars in the Galactic disk.\nWe identify a continuum of carbon enrichment throughout three different\nsub-populations of disk stars and explore links between the degree of carbon\nenrichment and binary frequency, metallicity and chemical compositions.\nResults: We verify a clear correlation between binary frequency and enhancement\nin the abundances of both carbon and cerium, lending support to the scenario\nwhereby carbon-enhanced stars are the result of mass transfer by an evolved\nbinary companion. In addition, we identify clustering in the carbon abundances\nof high-$\\alpha$ disk stars, suggesting that those on the high metallicity end\nare likely younger, in agreement with theoretical predictions for the presence\nof a starburst population following the gas-rich merger of the\nGaia-Enceladus/Sausage system.",
+          "arxiv_id": "2407.18130v1"
+        },
+        {
+          "title": "Spectroscopic evolution of very massive stars at Z = 1/2.5 Zsun",
+          "year": "2022-02",
+          "abstract": "Stars with masses in excess of 100 Msun are observed in the Local Universe,\nbut they remain rare objects. Because of the shape of the mass function, they\nare expected to be present only in the most massive and youngest clusters. They\nmay thus be formed in number in highly star-forming galaxies. Very massive\nstars (VMSs) experience strong stellar winds that are stronger than those of\ntheir less massive OB-type counterparts. These strong winds therefore need to\nbe taken into account in evolutionary models and synthetic spectra to properly\npredict the appearance of VMS. We present evolutionary models computed with the\ncode STAREVOL. They include a recent mass-loss recipe that is relevant for\nVMSs. We subsequently calculated atmosphere models and synthetic spectra along\nthe resulting tracks with the code CMFGEN. We studied stars with masses between\n150 and 400 Msun and focused on a metallicity Z=1/2.5Zsun. We studied the\nimpact of our VMS spectra on the spectral energy distribution of young\nstarbursts. We show that the optical and UV range is dominated by HeII 4686 and\nHeII 1640 emission for almost the entire main-sequence evolution of VMSs, in\ncontrast to less massive stars. In the UV spectral range, carbon, nitrogen, and\niron lines shape the spectra of VMSs, which appear for most of their evolution\nas WNh objects. The morphology of the synthetic spectra is similar to that of\nVMSs in the Large Magellanic Cloud. We show that stars with masses higher than\n100 Msun emit nearly as much light as all other stars in young starbursts. The\nintegrated UV spectrum of these starbursts is significantly affected by the\npresence of VMSs.",
+          "arxiv_id": "2202.13703v1"
+        },
+        {
+          "title": "Pulsating hydrogen-deficient white dwarfs and pre-white dwarfs observed with TESS II. Discovery of two new GW Vir stars: TIC333432673 and TIC095332541",
+          "year": "2021-08",
+          "abstract": "In this paper, we present the observations of two new GW Vir stars from the\nextended \\textit{TESS} mission in both 120\\,s short-cadence and 20\\,s\nultra-short-cadence mode of two pre-white dwarf stars showing hydrogen\ndeficiency. We performed an asteroseismological analysis of these stars on the\nbasis of PG~1159 evolutionary models that take into account the complete\nevolution of the progenitor stars. We searched for patterns of uniform period\nspacings in order to constrain the stellar mass of the stars, and employed the\nindividual observed periods to search for a representative seismological model.\nThe analysis of the {\\it TESS} light curves of TIC\\,333432673 and\nTIC\\,095332541 reveals the presence of several oscillations with periods\nranging from 350 to 500~s associated to typical gravity ($g$)-modes. From\nfollow-up ground-based spectroscopy, we find that both stars have similar\neffective temperature ($T_\\mathrm{eff} = 120,000 \\pm 10,000$\\,K) and surface\ngravity ($\\log g = 7.5 \\pm 0.5$) but a different He/C composition. On the basis\nof PG~1159 evolutionary tracks, we derived a spectroscopic mass of $M_{\\star}$\n= $0.58^{+0.16}_{-0.08}\\,M_{\\odot}$ for both stars. Our asteroseismological\nanalysis of TIC\\,333432673 allowed us to find a constant period spacing\ncompatible with a stellar mass $M_{\\star}\\sim 0.60-0.61\\,M_{\\odot}$, and an\nasteroseismological model for this star with a stellar mass $M_{\\star}$ =\n$0.589\\pm 0.020$ $M_{\\odot}$, and a seismological distance of $d=\n459^{+188}_{-156}$ pc. For this star, we find an excellent agreement between\nthe different methods to infer the stellar mass, and also between the\nseismological distance and that measured with {\\it Gaia} ($d_{\\rm Gaia}=\n389^{+5.6}_{-5.2}$ pc). For TIC\\,095332541, we have found a possible period\nspacing that suggests a stellar mass of $M_{\\star}\\sim 0.55-0.57\\,M_{\\odot}$.",
+          "arxiv_id": "2108.11093v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Evolution of solar wind sources and coronal rotation driven by the cyclic variation of the Sun's large-scale magnetic field",
+          "year": "2023-09",
+          "abstract": "The strength and morphology of the Sun's magnetic field evolves significantly\nduring the solar cycle, with the overall polarity of the Sun's magnetic field\nreversing during the maximum of solar activity. Long-term changes are also\nobserved in sunspot and geomagnetic records, however systematic magnetic field\nobservations are limited to the last four cycles. We investigate the long-term\nevolution of the Sun's magnetic field, and the influence this has on the\ntopology and rotation of the solar corona. The Sun's photospheric magnetic\nfield was decomposed into spherical harmonics using synoptic Carrington\nmagnetograms from 1) WSO, 2) MDI onboard the SOHO, and 3) HMI onboard the SDO.\nThe time-evolution of the spherical harmonic coefficients was used to explore\nthe variation of the Sun's magnetic field, focusing on the large-scale modes.\nPFSS extrapolations of the photospheric field were computed to follow\ntopological changes in the corona. The footpoints of the Sun's open magnetic\nfield vary between the polar coronal holes and activity driven features such as\nactive regions, and equatorial coronal holes. Consequently, the mean rotation\nrate of the solar wind is modulated during each cycle by the latitudinal\nvariation of open field footpoints, with slower rotation during minima and\nfaster (Carrington-like) rotation during maxima. Thisc variation is sensitive\nto cycle to cycle differences in the polar field strengths and hemispherical\nflux emergence rates, with the ratio of quadrupole to dipole energy following a\nsimilar variation. Cycle 23 maintained a larger fraction of quadrupolar energy\nin the declining phase, which kept the sources of open magnetic flux closer to\nthe equator, extending the period of faster equator-ward connectivity. The\nratio of quadrupole to dipole energy could be a useful proxy when examining the\nimpact of differential rotation on the coronae of other Sun-like stars.",
+          "arxiv_id": "2309.10850v1"
+        },
+        {
+          "title": "Coronal Magnetic Field Topology From Total Solar Eclipse Observations",
+          "year": "2020-04",
+          "abstract": "Measuring the global magnetic field of the solar corona remains exceptionally\nchallenging. The fine-scale density structures observed in white light images\ntaken during Total Solar Eclipses (TSEs) are currently the best proxy for\ninferring the magnetic field direction in the corona from the solar limb out to\nseveral solar radii (Rs). We present, for the first time, the topology of the\ncoronal magnetic field continuously between 1 and 6 Rs, as quantitatively\ninferred with the Rolling Hough Transform (RHT) for 14 unique eclipse coronae\nthat span almost two complete solar cycles. We find that the direction of the\ncoronal magnetic field does not become radial until at least 3 Rs, with a high\nvariance between 1.5 and 3 Rs at different latitudes and phases of the solar\ncycle. We find that the most non-radial coronal field topologies occur above\nregions with weaker magnetic field strengths in the photosphere, while stronger\nphotospheric fields are associated with highly radial field lines in the\ncorona. In addition, we find an abundance of field lines which extend\ncontinuously from the solar surface out to several solar radii at all\nlatitudes, regardless of the presence of coronal holes. These results have\nimplications for testing and constraining coronal magnetic field models, and\nfor linking in situ solar wind measurements to their sources at the Sun.",
+          "arxiv_id": "2004.08970v1"
+        },
+        {
+          "title": "Solar wind rotation rate and shear at coronal hole boundaries, possible consequences for magnetic field inversions",
+          "year": "2021-04",
+          "abstract": "In-situ measurements by several spacecraft have revealed that the solar wind\nis frequently perturbed by transient structures (magnetic folds, jets, waves,\nflux-ropes) that propagate rapidly away from the Sun over large distances.\nParker Solar Probe has detected frequent rotations of the magnetic field vector\nat small heliocentric distances, accompanied by surprisingly large solar wind\nrotation rates. The physical origin of such magnetic field bends, the\nconditions for their survival across the interplanetary space, and their\nrelation to solar wind rotation are yet to be clearly understood. We traced\nmeasured solar wind flows from the spacecraft position down to the surface of\nthe Sun to identify their potential source regions and used a global MHD model\nof the corona and solar wind to relate them to the rotational state of the low\nsolar corona. We identified regions of the solar corona for which solar wind\nspeed and rotational shear are important and long-lived, that can be favourable\nto the development of magnetic deflections and to their propagation across\nextended heights in the solar wind. We show that coronal rotation is highly\nstructured and that enhanced flow shear develops near the boundaries between\ncoronal holes and streamers, around and above pseudo-streamers, even when such\nboundaries are aligned with the direction of solar rotation. A large fraction\nof the switchbacks identified by PSP map back to these regions, both in terms\nof instantaneous magnetic field connectivity and of the trajectories of wind\nstreams that reach the spacecraft. These regions of strong shears are likely to\nleave an imprint on the solar wind over large distances and to increase the\ntransverse speed variability in the slow solar wind. The simulations and\nconnectivity analysis suggest they can be a source of the switchbacks and\nspikes observed by Parker Solar Probe.",
+          "arxiv_id": "2104.08393v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:37:38Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

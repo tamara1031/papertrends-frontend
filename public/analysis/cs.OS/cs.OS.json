@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_memory_performance_systems_applications",
+        "keywords": [
+          [
+            "memory",
+            0.0422738833216477
+          ],
+          [
+            "performance",
+            0.0348837993426477
+          ],
+          [
+            "systems",
+            0.032235484303470716
+          ],
+          [
+            "applications",
+            0.02981248076326256
+          ],
+          [
+            "data",
+            0.0289816779770048
+          ],
+          [
+            "kernel",
+            0.0258413731426384
+          ],
+          [
+            "time",
+            0.025520531616653342
+          ],
+          [
+            "OS",
+            0.021507679253527548
+          ],
+          [
+            "paper",
+            0.020556295502533437
+          ],
+          [
+            "software",
+            0.01956189757017954
+          ]
+        ],
+        "count": 546
+      },
+      "1": {
+        "name": "1_GPU_data_learning_memory",
+        "keywords": [
+          [
+            "GPU",
+            0.045970386486660866
+          ],
+          [
+            "data",
+            0.028060879197166294
+          ],
+          [
+            "learning",
+            0.02760440321488124
+          ],
+          [
+            "memory",
+            0.027393748548235532
+          ],
+          [
+            "LLM",
+            0.026491813414022295
+          ],
+          [
+            "performance",
+            0.02585925282732675
+          ],
+          [
+            "storage",
+            0.025454471750680573
+          ],
+          [
+            "inference",
+            0.0244689838758751
+          ],
+          [
+            "model",
+            0.022990051288178243
+          ],
+          [
+            "cache",
+            0.022444863199372587
+          ]
+        ],
+        "count": 71
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4801682843886785
+      ],
+      [
+        -0.4801682843886785,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        7,
+        0
+      ],
+      "2020-02": [
+        6,
+        0
+      ],
+      "2020-03": [
+        10,
+        1
+      ],
+      "2020-04": [
+        10,
+        0
+      ],
+      "2020-05": [
+        9,
+        1
+      ],
+      "2020-06": [
+        7,
+        0
+      ],
+      "2020-07": [
+        7,
+        0
+      ],
+      "2020-08": [
+        6,
+        0
+      ],
+      "2020-09": [
+        8,
+        0
+      ],
+      "2020-10": [
+        5,
+        0
+      ],
+      "2020-11": [
+        9,
+        0
+      ],
+      "2020-12": [
+        5,
+        0
+      ],
+      "2021-01": [
+        12,
+        0
+      ],
+      "2021-02": [
+        7,
+        0
+      ],
+      "2021-03": [
+        3,
+        0
+      ],
+      "2021-04": [
+        10,
+        0
+      ],
+      "2021-05": [
+        4,
+        0
+      ],
+      "2021-06": [
+        5,
+        0
+      ],
+      "2021-07": [
+        2,
+        0
+      ],
+      "2021-08": [
+        2,
+        0
+      ],
+      "2021-09": [
+        3,
+        0
+      ],
+      "2021-10": [
+        6,
+        1
+      ],
+      "2021-11": [
+        4,
+        1
+      ],
+      "2021-12": [
+        8,
+        0
+      ],
+      "2022-01": [
+        7,
+        1
+      ],
+      "2022-02": [
+        4,
+        0
+      ],
+      "2022-03": [
+        11,
+        1
+      ],
+      "2022-04": [
+        4,
+        0
+      ],
+      "2022-05": [
+        8,
+        0
+      ],
+      "2022-06": [
+        7,
+        0
+      ],
+      "2022-07": [
+        2,
+        0
+      ],
+      "2022-08": [
+        1,
+        0
+      ],
+      "2022-09": [
+        6,
+        0
+      ],
+      "2022-10": [
+        8,
+        0
+      ],
+      "2022-11": [
+        5,
+        0
+      ],
+      "2022-12": [
+        6,
+        0
+      ],
+      "2023-01": [
+        6,
+        1
+      ],
+      "2023-02": [
+        7,
+        1
+      ],
+      "2023-03": [
+        10,
+        0
+      ],
+      "2023-04": [
+        6,
+        0
+      ],
+      "2023-05": [
+        7,
+        0
+      ],
+      "2023-06": [
+        9,
+        1
+      ],
+      "2023-07": [
+        7,
+        0
+      ],
+      "2023-08": [
+        4,
+        0
+      ],
+      "2023-09": [
+        15,
+        0
+      ],
+      "2023-10": [
+        16,
+        0
+      ],
+      "2023-11": [
+        11,
+        0
+      ],
+      "2023-12": [
+        13,
+        2
+      ],
+      "2024-01": [
+        10,
+        2
+      ],
+      "2024-02": [
+        7,
+        3
+      ],
+      "2024-03": [
+        9,
+        1
+      ],
+      "2024-04": [
+        6,
+        0
+      ],
+      "2024-05": [
+        6,
+        3
+      ],
+      "2024-06": [
+        11,
+        1
+      ],
+      "2024-07": [
+        5,
+        0
+      ],
+      "2024-08": [
+        14,
+        1
+      ],
+      "2024-09": [
+        16,
+        2
+      ],
+      "2024-10": [
+        14,
+        3
+      ],
+      "2024-11": [
+        10,
+        2
+      ],
+      "2024-12": [
+        14,
+        2
+      ],
+      "2025-01": [
+        19,
+        0
+      ],
+      "2025-02": [
+        13,
+        2
+      ],
+      "2025-03": [
+        16,
+        5
+      ],
+      "2025-04": [
+        18,
+        2
+      ],
+      "2025-05": [
+        15,
+        1
+      ],
+      "2025-06": [
+        17,
+        4
+      ],
+      "2025-07": [
+        7,
+        2
+      ],
+      "2025-08": [
+        18,
+        5
+      ],
+      "2025-09": [
+        8,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "CXLMemSim: A pure software simulated CXL.mem for performance characterization",
+          "year": "2023-03",
+          "abstract": "CXLMemSim is a fast, lightweight simulation framework that enables\nperformance characterization of memory systems based on Compute Express Link\n(CXL) .mem technology. CXL.mem allows disaggregation and pooling of memory to\nmitigate memory stranding (underutilized memory trapped on fully loaded\nservers) in cloud and datacenter environments. However, CXL-attached memory\nintroduces additional latency and bandwidth constraints compared to local DRAM,\nand real CXL .mem hardware is not yet widely available for empirical\nevaluation. CXLMemSim addresses this gap by attaching to unmodified\napplications and simulating CXL-based memory pools in software. It operates by\ntracing memory allocations and accesses using efficient kernel probes and\nhardware performance counters, dividing execution into epochs, and injecting\ntiming delays to emulate various CXL .mem latency/bandwidth characteristics.\nThis approach incurs modest runtime overhead while preserving realistic\nload/store memory access patterns. We implement CXLMemSim on commodity hardware\nwithout special devices, and our evaluation shows that it runs orders of\nmagnitude faster than cycle-accurate simulators (e.g., Gem5) for real-world\nworkloads, while accurately modeling the performance impact of CXL .mem. We\ndemonstrate use cases where CXLMemSim enables experimentation with memory\npooling configurations, scheduling policies, data migration strategies, and\ncaching techniques that were previously infeasible to evaluate at scale. Key\nfindings include the viability of software-based CXL .mem emulation with low\noverhead, insights into latency and congestion effects in memory pools, and\nguidance for system designers to optimize memory disaggregation. Overall,\nCXLMemSim provides a practical and extensible platform for researchers and\npractitioners to explore CXL.mem innovations before real hardware becomes\ncommonplace.",
+          "arxiv_id": "2303.06153v2"
+        },
+        {
+          "title": "TPP: Transparent Page Placement for CXL-Enabled Tiered-Memory",
+          "year": "2022-06",
+          "abstract": "The increasing demand for memory in hyperscale applications has led to memory\nbecoming a large portion of the overall datacenter spend. The emergence of\ncoherent interfaces like CXL enables main memory expansion and offers an\nefficient solution to this problem. In such systems, the main memory can\nconstitute different memory technologies with varied characteristics. In this\npaper, we characterize memory usage patterns of a wide range of datacenter\napplications across the server fleet of Meta. We, therefore, demonstrate the\nopportunities to offload colder pages to slower memory tiers for these\napplications. Without efficient memory management, however, such systems can\nsignificantly degrade performance.\n  We propose a novel OS-level application-transparent page placement mechanism\n(TPP) for CXL-enabled memory. TPP employs a lightweight mechanism to identify\nand place hot/cold pages to appropriate memory tiers. It enables a proactive\npage demotion from local memory to CXL-Memory. This technique ensures a memory\nheadroom for new page allocations that are often related to request processing\nand tend to be short-lived and hot. At the same time, TPP can promptly promote\nperformance-critical hot pages trapped in the slow CXL-Memory to the fast local\nmemory, while minimizing both sampling overhead and unnecessary migrations. TPP\nworks transparently without any application-specific knowledge and can be\ndeployed globally as a kernel release.\n  We evaluate TPP in the production server fleet with early samples of new x86\nCPUs with CXL 1.1 support. TPP makes a tiered memory system performant as an\nideal baseline (<1% gap) that has all the memory in the local tier. It is 18%\nbetter than today's Linux, and 5-17% better than existing solutions including\nNUMA Balancing and AutoTiering. Most of the TPP patches have been merged in the\nLinux v5.18 release.",
+          "arxiv_id": "2206.02878v2"
+        },
+        {
+          "title": "Minimal Virtual Machines on IoT Microcontrollers: The Case of Berkeley Packet Filters with rBPF",
+          "year": "2020-11",
+          "abstract": "Virtual machines (VM) are widely used to host and isolate software modules.\nHowever, extremely small memory and low-energy budgets have so far prevented\nwide use of VMs on typical microcontroller-based IoT devices. In this paper, we\nexplore the potential of two minimal VM approaches on such low-power hardware.\nWe design rBPF, a register-based VM based on extended Berkeley Packet Filters\n(eBPF). We compare it with a stack-based VM based on WebAssembly (Wasm) adapted\nfor embedded systems. We implement prototypes of each VM, hosted in the IoT\noperating system RIOT. We perform measurements on commercial off-the-shelf IoT\nhardware. Unsurprisingly, we observe that both Wasm and rBPF virtual machines\nyield execution time and memory overhead, compared to not using a VM. We show\nhowever that this execution time overhead is tolerable for low-throughput,\nlow-energy IoT devices. We further show that, while using a VM based on Wasm\nentails doubling the memory budget for a simple networked IoT application using\na 6LoWPAN/CoAP stack, using a VM based on rBPF requires only negligible memory\noverhead (less than 10% more memory). rBPF is thus a promising approach to host\nsmall software modules, isolated from OS software, and updatable on-demand,\nover low-power networks.",
+          "arxiv_id": "2011.12047v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models",
+          "year": "2024-02",
+          "abstract": "Large Language Models (LLMs) with the Mixture-of-Experts (MoE) architectures\nhave shown promising performance on various tasks. However, due to the huge\nmodel sizes, running them in resource-constrained environments where the GPU\nmemory is not abundant is challenging. Some existing systems propose to use CPU\nresources to solve that, but they either suffer from the significant overhead\nof frequently moving data between CPU and GPU, or fail to consider distinct\ncharacteristics of CPUs and GPUs. This paper proposes Fiddler, a\nresource-efficient inference system for MoE models with limited GPU resources.\nFiddler strategically utilizes CPU and GPU resources by determining the optimal\nexecution strategy. Our evaluation shows that, unlike state-of-the-art systems\nthat optimize for specific scenarios such as single batch inference or long\nprefill, Fiddler performs better in all scenarios. Compared against different\nbaselines, Fiddler achieves 1.26 times speed up in single batch inference, 1.30\ntimes in long prefill processing, and 11.57 times in beam search inference. The\ncode of Fiddler is publicly available at https://github.com/efeslab/fiddler.",
+          "arxiv_id": "2402.07033v3"
+        },
+        {
+          "title": "GPUVM: GPU-driven Unified Virtual Memory",
+          "year": "2024-11",
+          "abstract": "Graphics Processing Units (GPUs) leverage massive parallelism and large\nmemory bandwidth to support high-performance computing applications, such as\nmultimedia rendering, crypto-mining, deep learning, and natural language\nprocessing. These applications require models and datasets that are getting\nbigger in size and currently challenge the memory capacity of a single GPU,\ncausing substantial performance overheads. To address this problem, a\nprogrammer has to partition the data and manually transfer data in and out of\nthe GPU. This approach requires programmers to carefully tune their\napplications and can be impractical for workloads with irregular access\npatterns, such as deep learning, recommender systems, and graph applications.\nTo ease programmability, programming abstractions such as unified virtual\nmemory (UVM) can be used, creating a virtually unified memory space across the\nwhole system and transparently moving the data on demand as it is accessed.\nHowever, UVM brings in the overhead of the OS involvement and inefficiencies\ndue to generating many transfer requests especially when the GPU memory is\noversubscribed. This paper proposes GPUVM, a GPU memory management system that\nuses an RDMA-capable network device to construct a virtual memory system\nwithout involving the CPU/OS. GPUVM enables on-demand paging for GPU\napplications and relies on GPU threads for memory management and page\nmigration. Since CPU chipsets do not support GPU-driven memory management, we\nuse a network interface card to facilitate transparent page migration from/to\nthe GPU. GPUVM achieves performance up to 4x higher than UVM for latency-bound\napplications while providing accessible programming abstractions that do not\nrequire the users to manage memory transfers directly.",
+          "arxiv_id": "2411.05309v1"
+        },
+        {
+          "title": "Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU",
+          "year": "2025-06",
+          "abstract": "Advanced Large Language Models (LLMs) have achieved impressive performance\nacross a wide range of complex and long-context natural language tasks.\nHowever, performing long-context LLM inference locally on a commodity GPU (a\nPC) with privacy concerns remains challenging due to the increasing memory\ndemands of the key-value (KV) cache. Existing systems typically identify\nimportant tokens and selectively offload their KV data to GPU and CPU memory.\nThe KV data needs to be offloaded to disk due to the limited memory on a\ncommodity GPU, but the process is bottlenecked by token importance evaluation\noverhead and the disk's low bandwidth. In this paper, we present LeoAM, the\nfirst efficient importance-aware long-context LLM inference system for a single\ncommodity GPU with adaptive hierarchical GPU-CPU-Disk KV management. Our system\nemploys an adaptive KV management strategy that partitions KV data into\nvariable-sized chunks based on the skewed distribution of attention weights\nacross different layers to reduce computational and additional transmission\noverheads. Moreover, we propose a lightweight KV abstract method, which\nminimizes transmission latency by storing and extracting the KV abstract of\neach chunk on disk instead of the full KV data. LeoAM also leverages the\ndynamic compression and pipeline techniques to further accelerate inference.\nExperimental results demonstrate that LongInfer achieves an average inference\nlatency speedup of 3.46x, while maintaining comparable LLM response quality. In\nscenarios with larger batch sizes, it achieves up to a 5.47x speedup.",
+          "arxiv_id": "2506.20187v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:41:53Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

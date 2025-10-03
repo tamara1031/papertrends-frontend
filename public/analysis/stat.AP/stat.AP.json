@@ -1,0 +1,578 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_model_models_time",
+        "keywords": [
+          [
+            "data",
+            0.04340745200064502
+          ],
+          [
+            "model",
+            0.03464759709325031
+          ],
+          [
+            "models",
+            0.024605521931692378
+          ],
+          [
+            "time",
+            0.020944301220802444
+          ],
+          [
+            "methods",
+            0.01853335979052986
+          ],
+          [
+            "approach",
+            0.01827070015352907
+          ],
+          [
+            "analysis",
+            0.01770156014929877
+          ],
+          [
+            "method",
+            0.0173661905125641
+          ],
+          [
+            "study",
+            0.017337020541872195
+          ],
+          [
+            "Bayesian",
+            0.013906669372686113
+          ]
+        ],
+        "count": 11603
+      },
+      "1": {
+        "name": "1_players_team_player_game",
+        "keywords": [
+          [
+            "players",
+            0.03958116649083114
+          ],
+          [
+            "team",
+            0.03861185639222065
+          ],
+          [
+            "player",
+            0.03510428348225903
+          ],
+          [
+            "game",
+            0.029741729118341595
+          ],
+          [
+            "teams",
+            0.028481574032187897
+          ],
+          [
+            "model",
+            0.02588546992960539
+          ],
+          [
+            "football",
+            0.0258596957757428
+          ],
+          [
+            "sports",
+            0.02349060966819375
+          ],
+          [
+            "data",
+            0.02272976404956451
+          ],
+          [
+            "performance",
+            0.022424474611855875
+          ]
+        ],
+        "count": 300
+      },
+      "2": {
+        "name": "2_data_method_model_stellar",
+        "keywords": [
+          [
+            "data",
+            0.02380037898470677
+          ],
+          [
+            "method",
+            0.021132160280024688
+          ],
+          [
+            "model",
+            0.019620361693223873
+          ],
+          [
+            "stellar",
+            0.018133842537325983
+          ],
+          [
+            "Bayesian",
+            0.016397105328421303
+          ],
+          [
+            "detection",
+            0.015435341672192123
+          ],
+          [
+            "analysis",
+            0.015198111259043127
+          ],
+          [
+            "inference",
+            0.014261653633028925
+          ],
+          [
+            "galaxies",
+            0.013346036964922576
+          ],
+          [
+            "time",
+            0.013098067810444657
+          ]
+        ],
+        "count": 152
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.31547105921426494,
+        0.12936204138074192
+      ],
+      [
+        -0.31547105921426494,
+        1.0,
+        -0.4750874582146861
+      ],
+      [
+        0.12936204138074192,
+        -0.4750874582146861,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        121,
+        4,
+        5
+      ],
+      "2020-02": [
+        132,
+        4,
+        5
+      ],
+      "2020-03": [
+        174,
+        7,
+        10
+      ],
+      "2020-04": [
+        185,
+        2,
+        10
+      ],
+      "2020-05": [
+        193,
+        7,
+        14
+      ],
+      "2020-06": [
+        172,
+        5,
+        12
+      ],
+      "2020-07": [
+        208,
+        5,
+        7
+      ],
+      "2020-08": [
+        171,
+        1,
+        8
+      ],
+      "2020-09": [
+        152,
+        4,
+        12
+      ],
+      "2020-10": [
+        171,
+        4,
+        8
+      ],
+      "2020-11": [
+        180,
+        5,
+        10
+      ],
+      "2020-12": [
+        171,
+        5,
+        11
+      ],
+      "2021-01": [
+        158,
+        3,
+        10
+      ],
+      "2021-02": [
+        150,
+        3,
+        13
+      ],
+      "2021-03": [
+        180,
+        8,
+        8
+      ],
+      "2021-04": [
+        145,
+        2,
+        11
+      ],
+      "2021-05": [
+        150,
+        6,
+        13
+      ],
+      "2021-06": [
+        174,
+        4,
+        12
+      ],
+      "2021-07": [
+        144,
+        4,
+        8
+      ],
+      "2021-08": [
+        125,
+        2,
+        0
+      ],
+      "2021-09": [
+        147,
+        5,
+        7
+      ],
+      "2021-10": [
+        168,
+        3,
+        7
+      ],
+      "2021-11": [
+        168,
+        1,
+        7
+      ],
+      "2021-12": [
+        152,
+        6,
+        8
+      ],
+      "2022-01": [
+        138,
+        3,
+        9
+      ],
+      "2022-02": [
+        149,
+        4,
+        12
+      ],
+      "2022-03": [
+        179,
+        4,
+        9
+      ],
+      "2022-04": [
+        125,
+        3,
+        6
+      ],
+      "2022-05": [
+        133,
+        5,
+        10
+      ],
+      "2022-06": [
+        151,
+        5,
+        9
+      ],
+      "2022-07": [
+        147,
+        4,
+        9
+      ],
+      "2022-08": [
+        152,
+        4,
+        4
+      ],
+      "2022-09": [
+        144,
+        1,
+        7
+      ],
+      "2022-10": [
+        184,
+        7,
+        7
+      ],
+      "2022-11": [
+        171,
+        3,
+        11
+      ],
+      "2022-12": [
+        121,
+        3,
+        6
+      ],
+      "2023-01": [
+        133,
+        5,
+        2
+      ],
+      "2023-02": [
+        150,
+        2,
+        10
+      ],
+      "2023-03": [
+        179,
+        5,
+        4
+      ],
+      "2023-04": [
+        128,
+        6,
+        4
+      ],
+      "2023-05": [
+        185,
+        4,
+        10
+      ],
+      "2023-06": [
+        164,
+        1,
+        9
+      ],
+      "2023-07": [
+        138,
+        2,
+        7
+      ],
+      "2023-08": [
+        127,
+        2,
+        8
+      ],
+      "2023-09": [
+        135,
+        3,
+        7
+      ],
+      "2023-10": [
+        177,
+        7,
+        11
+      ],
+      "2023-11": [
+        181,
+        2,
+        5
+      ],
+      "2023-12": [
+        162,
+        3,
+        12
+      ],
+      "2024-01": [
+        182,
+        6,
+        8
+      ],
+      "2024-02": [
+        145,
+        6,
+        7
+      ],
+      "2024-03": [
+        136,
+        5,
+        8
+      ],
+      "2024-04": [
+        160,
+        4,
+        10
+      ],
+      "2024-05": [
+        165,
+        4,
+        5
+      ],
+      "2024-06": [
+        170,
+        9,
+        10
+      ],
+      "2024-07": [
+        152,
+        4,
+        9
+      ],
+      "2024-08": [
+        143,
+        4,
+        7
+      ],
+      "2024-09": [
+        176,
+        8,
+        15
+      ],
+      "2024-10": [
+        197,
+        5,
+        7
+      ],
+      "2024-11": [
+        187,
+        6,
+        11
+      ],
+      "2024-12": [
+        172,
+        8,
+        4
+      ],
+      "2025-01": [
+        171,
+        5,
+        11
+      ],
+      "2025-02": [
+        164,
+        7,
+        7
+      ],
+      "2025-03": [
+        226,
+        7,
+        10
+      ],
+      "2025-04": [
+        182,
+        2,
+        5
+      ],
+      "2025-05": [
+        214,
+        5,
+        13
+      ],
+      "2025-06": [
+        214,
+        8,
+        11
+      ],
+      "2025-07": [
+        191,
+        3,
+        12
+      ],
+      "2025-08": [
+        166,
+        4,
+        11
+      ],
+      "2025-09": [
+        109,
+        2,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "A tractable Bayesian joint model for longitudinal and survival data",
+          "year": "2021-04",
+          "abstract": "We introduce a numerically tractable formulation of Bayesian joint models for\nlongitudinal and survival data. The longitudinal process is modelled using\ngeneralised linear mixed models, while the survival process is modelled using a\nparametric general hazard structure. The two processes are linked by sharing\nfixed and random effects, separating the effects that play a role at the time\nscale from those that affect the hazard scale. This strategy allows for the\ninclusion of non-linear and time-dependent effects while avoiding the need for\nnumerical integration, which facilitates the implementation of the proposed\njoint model. We explore the use of flexible parametric distributions for\nmodelling the baseline hazard function which can capture the basic shapes of\ninterest in practice. We discuss prior elicitation based on the interpretation\nof the parameters. We present an extensive simulation study, where we analyse\nthe inferential properties of the proposed models, and illustrate the trade-off\nbetween flexibility, sample size, and censoring. We also apply our proposal to\ntwo real data applications in order to demonstrate the adaptability of our\nformulation both in univariate time-to-event data and in a competing risks\nframework. The methodology is implemented in rstan.",
+          "arxiv_id": "2104.10906v1"
+        },
+        {
+          "title": "Inference on Extended-Spectrum Beta-Lactamase Escherichia coli and Klebsiella pneumoniae data through SMC$^2$",
+          "year": "2022-08",
+          "abstract": "We propose a novel stochastic model for the spread of antimicrobial-resistant\nbacteria in a population, together with an efficient algorithm for fitting such\na model to sample data. We introduce an individual-based model for the\nepidemic, with the state of the model determining which individuals are\ncolonised by the bacteria. The transmission rate of the epidemic takes into\naccount both individuals' locations, individuals covariates, seasonality and\nenvironmental effects. The state of our model is only partially observed, with\ndata consisting of test results from individuals from a sample of households\ntaken roughly twice a week for 19 months. Fitting our model to data is\nchallenging due to the large state space of our model. We develop an efficient\nSMC$^2$ algorithm to estimate parameters and compare models for the\ntransmission rate. We implement this algorithm in a computationally efficient\nmanner by using the scale invariance properties of the underlying epidemic\nmodel, which means we can define and fit our model for a population on the\norder of tens of thousands of individuals rather than millions. Our motivating\napplication focuses on the dynamics of community-acquired Extended-Spectrum\nBeta-Lactamase-producing Escherichia coli (E. coli) and Klebsiella pneumoniae\n(K. pneumoniae), using data collected as part of the Drivers of Resistance in\nUganda and Malawi project. We infer the parameters of the model and learn key\nepidemic quantities such as the effective reproduction number, spatial\ndistribution of prevalence, household cluster dynamics, and seasonality.",
+          "arxiv_id": "2208.11331v1"
+        },
+        {
+          "title": "Heterogeneous Transfer Learning for Building High-Dimensional Generalized Linear Models with Disparate Datasets",
+          "year": "2023-12",
+          "abstract": "Development of comprehensive prediction models are often of great interest in\nmany disciplines of science, but datasets with information on all desired\nfeatures often have small sample sizes. We describe a transfer learning\napproach for building high-dimensional generalized linear models using data\nfrom a main study with detailed information on all predictors and an external,\npotentially much larger, study that has ascertained a more limited set of\npredictors. We propose using the external dataset to build a reduced model and\nthen \"transfer\" the information on underlying parameters for the analysis of\nthe main study through a set of calibration equations which can account for the\nstudy-specific effects of design variables. We then propose a penalized\ngeneralized method of moment framework for inference and a one-step estimation\nmethod that could be implemented using standard glmnet package. We develop\nasymptotic theory and conduct extensive simulation studies to investigate both\npredictive performance and post-selection inference properties of the proposed\nmethod. Finally, we illustrate an application of the proposed method for the\ndevelopment of risk models for five common diseases using the UK Biobank study,\ncombining information on low-dimensional risk factors and high throughout\nproteomic biomarkers.",
+          "arxiv_id": "2312.12786v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "The SIDO Performance Model for League of Legends",
+          "year": "2024-03",
+          "abstract": "League of Legends (LoL) has been a dominant esport for a decade, yet the\ninherent complexity of the game has stymied the creation of analytical measures\nof player skill and performance. Current industry standards are limited to\neasy-to-procure individual player statistics that are incomplete and lacking\ncontext as they do not take into account teamplay or game state. We present a\nunified performance model for League of Legends which blends together measures\nof a player's contribution within the context of their team, insights from\ntraditional sports metrics such as the Plus-Minus model, and the intricacies of\nLoL as a complex team invasion sport. Using hierarchical Bayesian models, we\noutline the use of gold and damage dealt as a measure of skill, detailing\nplayers' impact on their own-, their allies'- and their enemies' statistics\nthroughout the course of the game. Our results showcase the model's increased\nefficacy in separating professional players when compared to a Plus-Minus model\nand to current esports industry standards, while metric quality is rigorously\nassessed for discrimination, independence, and stability. Readers might also\nfind additional qualitative analytics which explore champion proficiency and\nthe impact of collaborative team-play. Future work is proposed to refine and\nexpand the SIDO performance model, offering a comprehensive framework for\nesports analytics in team performance management, scouting and research realms.",
+          "arxiv_id": "2403.04873v2"
+        },
+        {
+          "title": "Modeling Player and Team Performance in Basketball",
+          "year": "2020-07",
+          "abstract": "In recent years, analytics has started to revolutionize the game of\nbasketball: quantitative analyses of the game inform team strategy, management\nof player health and fitness, and how teams draft, sign, and trade players. In\nthis review, we focus on methods for quantifying and characterizing basketball\ngameplay. At the team level, we discuss methods for characterizing team\nstrategy and performance, while at the player level, we take a deep look into a\nmyriad of tools for player evaluation. This includes metrics for overall player\nvalue, defensive ability, and shot modeling, and methods for understanding\nperformance over multiple seasons via player production curves. We conclude\nwith a discussion on the future of basketball analytics, and in particular\nhighlight the need for causal inference in sports.",
+          "arxiv_id": "2007.10550v1"
+        },
+        {
+          "title": "Optimal selection of the starting lineup for a football team",
+          "year": "2023-03",
+          "abstract": "The success of a football team depends on various individual skills and\nperformances of the selected players as well as how cohesively they perform. We\npropose a two-stage process for selecting optimal playing eleven of a football\nteam from its pool of available players. In the first stage a LASSO-induced\nmodified multinomial logistic regression model is derived to analyse the\nprobabilities of the three possible outcomes. The model considers strengths of\nthe players in the team as well as those of the opponent, home advantage, and\nalso the effects of individual players and player combinations beyond the\nrecorded performances of these players. In the second stage, a GRASP-type\nmeta-heuristic is implemented for the team selection which maximises its\nprobability of winning. The work is illustrated with English Premier League\ndata from 2008/09 to 2015/16. The application demonstrates that the model in\nthe first stage furnishes valuable insights about the deciding factors for\ndifferent teams whereas the optimisation steps can be effectively used to\ndetermine the best possible starting lineup under various circumstances. We\npropose a measure of efficiency in team selection by the team management and\nanalyse the performance of the teams on this front.",
+          "arxiv_id": "2303.12385v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Bayesian functional data analysis in astronomy",
+          "year": "2024-08",
+          "abstract": "Cosmic demographics -- the statistical study of populations of astrophysical\nobjects -- has long relied on *multivariate statistics*, providing methods for\nanalyzing data comprising fixed-length vectors of properties of objects, as\nmight be compiled in a tabular astronomical catalog (say, with sky coordinates,\nand brightness measurements in a fixed number of spectral passbands). But\nbeginning with the emergence of automated digital sky surveys, ca. ~2000,\nastronomers began producing large collections of data with more complex\nstructure: light curves (brightness time series) and spectra (brightness vs.\nwavelength). These comprise what statisticians call *functional data* --\nmeasurements of populations of functions. Upcoming automated sky surveys will\nsoon provide astronomers with a flood of functional data. New methods are\nneeded to accurately and optimally analyze large ensembles of light curves and\nspectra, accumulating information both along and across measured functions.\nFunctional data analysis (FDA) provides tools for statistical modeling of\nfunctional data. Astronomical data presents several challenges for FDA\nmethodology, e.g., sparse, irregular, and asynchronous sampling, and\nheteroscedastic measurement error. Bayesian FDA uses hierarchical Bayesian\nmodels for function populations, and is well suited to addressing these\nchallenges. We provide an overview of astronomical functional data, and of some\nkey Bayesian FDA modeling approaches, including functional mixed effects\nmodels, and stochastic process models. We briefly describe a Bayesian FDA\nframework combining FDA and machine learning methods to build low-dimensional\nparametric models for galaxy spectra.",
+          "arxiv_id": "2408.14466v1"
+        },
+        {
+          "title": "An application of Saddlepoint Approximation for period detection of stellar light observations",
+          "year": "2022-01",
+          "abstract": "One of the main features of interest in analysing the light curves of stars\nis the underlying periodic behaviour. The corresponding observations are a\ncomplex type of time series with unequally spaced time points and are sometimes\naccompanied by varying measures of accuracy.\n  The main tools for analysing these type of data rely on the periodogram-like\nfunctions, constructed with a desired feature so that the peaks indicate the\npresence of a potential period. In this paper, we explore a particular\nperiodogram for the irregularly observed time series data, similar to Thieler\net. al. (2013). We identify the potential periods at the appropriate peaks and\nmore importantly with a quantifiable uncertainty. Our approach is shown to\neasily generalise to non-parametric methods including a weighted Gaussian\nprocess regression periodogram. We also extend this approach to correlated\nbackground noise. The proposed method for period detection relies on a test\nbased on quadratic forms with normally distributed components. We implement the\nsaddlepoint approximation, as a faster and more accurate alternative to the\nsimulation-based methods that are currently used. The power analysis of the\ntesting methodology is reported together with applications using light curves\nfrom the Hunting Outbursting Young Stars citizen science project.",
+          "arxiv_id": "2201.11762v2"
+        },
+        {
+          "title": "A statistical model of stellar variability. I. FENRIR: a physics-based model of stellar activity, and its fast Gaussian process approximation",
+          "year": "2023-04",
+          "abstract": "The detection of terrestrial planets by radial velocity and photometry is\nhindered by the presence of stellar signals. Those are often modeled as\nstationary Gaussian processes, whose kernels are based on qualitative\nconsiderations, which do not fully leverage the existing physical understanding\nof stars. Our aim is to build a formalism which allows to transfer the\nknowledge of stellar activity into practical data analysis methods. In\nparticular, we aim at obtaining kernels with physical parameters. This has two\npurposes: better modelling signals of stellar origin to find smaller\nexoplanets, and extracting information about the star from the statistical\nproperties of the data. We consider several observational channels such as\nphotometry, radial velocity, activity indicators, and build a model called\nFENRIR to represent their stochastic variations due to stellar surface\ninhomogeneities. We compute analytically the covariance of this multi-channel\nstochastic process, and implement it in the S+LEAF framework to reduce the cost\nof likelihood evaluations from $O(N^3)$ to $O(N)$. We also compute analytically\nhigher order cumulants of our FENRIR model, which quantify its non-Gaussianity.\nWe obtain a fast Gaussian process framework with physical parameters, which we\napply to the HARPS-N and SORCE observations of the Sun, and constrain a solar\ninclination compatible with the viewing geometry. We then discuss the\napplication of our formalism to granulation. We exhibit non-Gaussianity in\nsolar HARPS radial velocities, and argue that information is lost when stellar\nactivity signals are assumed to be Gaussian. We finally discuss the origin of\nphase shifts between RVs and indicators, and how to build relevant activity\nindicators. We provide an open-source implementation of the FENRIR Gaussian\nprocess model with a Python interface.",
+          "arxiv_id": "2304.08489v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:07:19Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

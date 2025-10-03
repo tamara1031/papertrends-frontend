@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_quantum_mechanics_quantum mechanics_theory",
+        "keywords": [
+          [
+            "quantum",
+            0.056264850161060906
+          ],
+          [
+            "mechanics",
+            0.030357349219628953
+          ],
+          [
+            "quantum mechanics",
+            0.027233284607802572
+          ],
+          [
+            "theory",
+            0.024302204950321295
+          ],
+          [
+            "Quantum",
+            0.018966211577261506
+          ],
+          [
+            "interpretation",
+            0.016295643966050027
+          ],
+          [
+            "classical",
+            0.01626332068194323
+          ],
+          [
+            "physics",
+            0.01623226784829234
+          ],
+          [
+            "measurement",
+            0.015952164385062754
+          ],
+          [
+            "physical",
+            0.015041240850359131
+          ]
+        ],
+        "count": 582
+      },
+      "1": {
+        "name": "1_time_relativity_spacetime_gravity",
+        "keywords": [
+          [
+            "time",
+            0.03380860634248482
+          ],
+          [
+            "relativity",
+            0.030138714291353973
+          ],
+          [
+            "spacetime",
+            0.029346484957332535
+          ],
+          [
+            "gravity",
+            0.026910806803170123
+          ],
+          [
+            "theory",
+            0.026358495272071774
+          ],
+          [
+            "general",
+            0.02300854265541889
+          ],
+          [
+            "quantum",
+            0.020892990968568476
+          ],
+          [
+            "general relativity",
+            0.01935733231485754
+          ],
+          [
+            "Einstein",
+            0.017829695067425246
+          ],
+          [
+            "physics",
+            0.015348487466033534
+          ]
+        ],
+        "count": 346
+      },
+      "2": {
+        "name": "2_astronomical_astronomy_solar_observations",
+        "keywords": [
+          [
+            "astronomical",
+            0.020395383907064663
+          ],
+          [
+            "astronomy",
+            0.019569227104220783
+          ],
+          [
+            "solar",
+            0.01903535254533949
+          ],
+          [
+            "observations",
+            0.018895602101803362
+          ],
+          [
+            "stars",
+            0.01755963627895076
+          ],
+          [
+            "century",
+            0.01735543735591945
+          ],
+          [
+            "sky",
+            0.01633815028393837
+          ],
+          [
+            "Sun",
+            0.016043771507632802
+          ],
+          [
+            "time",
+            0.01546604871395961
+          ],
+          [
+            "star",
+            0.015332163462662524
+          ]
+        ],
+        "count": 235
+      },
+      "3": {
+        "name": "3_physics_nuclear_scientific_Physics",
+        "keywords": [
+          [
+            "physics",
+            0.0292559062921603
+          ],
+          [
+            "nuclear",
+            0.0217326522609445
+          ],
+          [
+            "scientific",
+            0.020629488163892866
+          ],
+          [
+            "Physics",
+            0.018764110806926287
+          ],
+          [
+            "University",
+            0.01782581710677748
+          ],
+          [
+            "years",
+            0.017611315228427557
+          ],
+          [
+            "research",
+            0.01601960741883422
+          ],
+          [
+            "article",
+            0.015635498795781404
+          ],
+          [
+            "Trinity",
+            0.014179742143940575
+          ],
+          [
+            "early",
+            0.013859011166296632
+          ]
+        ],
+        "count": 213
+      },
+      "4": {
+        "name": "4_cosmology_dark_matter_dark matter",
+        "keywords": [
+          [
+            "cosmology",
+            0.04758605859338351
+          ],
+          [
+            "dark",
+            0.03933436053651875
+          ],
+          [
+            "matter",
+            0.034313575621225494
+          ],
+          [
+            "dark matter",
+            0.031296207846459985
+          ],
+          [
+            "cosmological",
+            0.027860173422181753
+          ],
+          [
+            "universe",
+            0.025146125256679787
+          ],
+          [
+            "Universe",
+            0.022180227284349742
+          ],
+          [
+            "Dark",
+            0.020859600305865256
+          ],
+          [
+            "model",
+            0.019387259926491648
+          ],
+          [
+            "inflation",
+            0.01807626321222346
+          ]
+        ],
+        "count": 64
+      },
+      "5": {
+        "name": "5_entropy_thermodynamics_information_thermodynamic",
+        "keywords": [
+          [
+            "entropy",
+            0.0975933606241715
+          ],
+          [
+            "thermodynamics",
+            0.054694246519153056
+          ],
+          [
+            "information",
+            0.038833067084184464
+          ],
+          [
+            "thermodynamic",
+            0.0338730983071488
+          ],
+          [
+            "gas",
+            0.03015017461723424
+          ],
+          [
+            "Maxwell",
+            0.02707080521291601
+          ],
+          [
+            "time",
+            0.026540576742103892
+          ],
+          [
+            "erasure",
+            0.023690121405053916
+          ],
+          [
+            "law",
+            0.022967511030990397
+          ],
+          [
+            "principle",
+            0.02236818641888033
+          ]
+        ],
+        "count": 47
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.38283191437247305,
+        -0.5413411901362948,
+        -0.5197061247404341,
+        -0.6685214504836061,
+        -0.7078397422173526
+      ],
+      [
+        -0.38283191437247305,
+        1.0,
+        -0.40553423653533205,
+        -0.3941875465262099,
+        -0.5648909586255544,
+        -0.6924332787246763
+      ],
+      [
+        -0.5413411901362948,
+        -0.40553423653533205,
+        1.0,
+        -0.07123562719423715,
+        -0.5183530111431065,
+        -0.7102216764389861
+      ],
+      [
+        -0.5197061247404341,
+        -0.3941875465262099,
+        -0.07123562719423715,
+        1.0,
+        -0.5524083367864823,
+        -0.7123734318020336
+      ],
+      [
+        -0.6685214504836061,
+        -0.5648909586255544,
+        -0.5183530111431065,
+        -0.5524083367864823,
+        1.0,
+        -0.738069488091106
+      ],
+      [
+        -0.7078397422173526,
+        -0.6924332787246763,
+        -0.7102216764389861,
+        -0.7123734318020336,
+        -0.738069488091106,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        17,
+        5,
+        4,
+        3,
+        1,
+        2
+      ],
+      "2020-02": [
+        7,
+        5,
+        1,
+        3,
+        3,
+        0
+      ],
+      "2020-03": [
+        15,
+        7,
+        4,
+        3,
+        0,
+        3
+      ],
+      "2020-04": [
+        17,
+        5,
+        5,
+        4,
+        0,
+        3
+      ],
+      "2020-05": [
+        12,
+        9,
+        3,
+        4,
+        1,
+        2
+      ],
+      "2020-06": [
+        19,
+        10,
+        4,
+        5,
+        2,
+        3
+      ],
+      "2020-07": [
+        16,
+        8,
+        3,
+        5,
+        1,
+        5
+      ],
+      "2020-08": [
+        14,
+        8,
+        6,
+        3,
+        4,
+        0
+      ],
+      "2020-09": [
+        9,
+        8,
+        6,
+        4,
+        4,
+        4
+      ],
+      "2020-10": [
+        11,
+        2,
+        3,
+        5,
+        1,
+        1
+      ],
+      "2020-11": [
+        17,
+        4,
+        1,
+        2,
+        1,
+        1
+      ],
+      "2020-12": [
+        14,
+        3,
+        4,
+        4,
+        2,
+        1
+      ],
+      "2021-01": [
+        11,
+        7,
+        5,
+        2,
+        1,
+        0
+      ],
+      "2021-02": [
+        10,
+        5,
+        1,
+        1,
+        0,
+        1
+      ],
+      "2021-03": [
+        18,
+        12,
+        8,
+        21,
+        3,
+        0
+      ],
+      "2021-04": [
+        7,
+        9,
+        6,
+        7,
+        1,
+        2
+      ],
+      "2021-05": [
+        16,
+        5,
+        1,
+        2,
+        1,
+        1
+      ],
+      "2021-06": [
+        11,
+        4,
+        1,
+        3,
+        1,
+        1
+      ],
+      "2021-07": [
+        10,
+        4,
+        3,
+        3,
+        2,
+        1
+      ],
+      "2021-08": [
+        9,
+        4,
+        3,
+        5,
+        0,
+        0
+      ],
+      "2021-09": [
+        16,
+        6,
+        0,
+        2,
+        0,
+        2
+      ],
+      "2021-10": [
+        16,
+        14,
+        4,
+        4,
+        2,
+        1
+      ],
+      "2021-11": [
+        10,
+        5,
+        0,
+        2,
+        0,
+        1
+      ],
+      "2021-12": [
+        17,
+        11,
+        2,
+        3,
+        1,
+        1
+      ],
+      "2022-01": [
+        17,
+        6,
+        3,
+        4,
+        0,
+        2
+      ],
+      "2022-02": [
+        10,
+        6,
+        5,
+        0,
+        2,
+        2
+      ],
+      "2022-03": [
+        16,
+        6,
+        3,
+        6,
+        2,
+        3
+      ],
+      "2022-04": [
+        15,
+        8,
+        4,
+        5,
+        2,
+        1
+      ],
+      "2022-05": [
+        12,
+        8,
+        8,
+        3,
+        3,
+        1
+      ],
+      "2022-06": [
+        10,
+        5,
+        1,
+        4,
+        2,
+        1
+      ],
+      "2022-07": [
+        5,
+        2,
+        3,
+        1,
+        1,
+        0
+      ],
+      "2022-08": [
+        12,
+        7,
+        3,
+        3,
+        1,
+        1
+      ],
+      "2022-09": [
+        13,
+        4,
+        4,
+        2,
+        3,
+        1
+      ],
+      "2022-10": [
+        14,
+        4,
+        1,
+        2,
+        1,
+        0
+      ],
+      "2022-11": [
+        12,
+        3,
+        3,
+        4,
+        0,
+        3
+      ],
+      "2022-12": [
+        13,
+        6,
+        2,
+        1,
+        2,
+        1
+      ],
+      "2023-01": [
+        16,
+        2,
+        0,
+        1,
+        1,
+        2
+      ],
+      "2023-02": [
+        9,
+        6,
+        7,
+        2,
+        1,
+        1
+      ],
+      "2023-03": [
+        15,
+        9,
+        1,
+        4,
+        2,
+        2
+      ],
+      "2023-04": [
+        16,
+        7,
+        3,
+        1,
+        0,
+        2
+      ],
+      "2023-05": [
+        16,
+        5,
+        0,
+        1,
+        1,
+        2
+      ],
+      "2023-06": [
+        13,
+        2,
+        1,
+        4,
+        2,
+        1
+      ],
+      "2023-07": [
+        20,
+        8,
+        0,
+        3,
+        2,
+        3
+      ],
+      "2023-08": [
+        14,
+        5,
+        2,
+        4,
+        1,
+        0
+      ],
+      "2023-09": [
+        15,
+        12,
+        1,
+        1,
+        2,
+        2
+      ],
+      "2023-10": [
+        17,
+        6,
+        1,
+        4,
+        0,
+        0
+      ],
+      "2023-11": [
+        12,
+        5,
+        3,
+        6,
+        1,
+        0
+      ],
+      "2023-12": [
+        8,
+        3,
+        3,
+        3,
+        0,
+        0
+      ],
+      "2024-01": [
+        15,
+        1,
+        3,
+        7,
+        1,
+        1
+      ],
+      "2024-02": [
+        15,
+        6,
+        3,
+        9,
+        0,
+        1
+      ],
+      "2024-03": [
+        7,
+        5,
+        4,
+        6,
+        1,
+        0
+      ],
+      "2024-04": [
+        14,
+        7,
+        2,
+        6,
+        0,
+        3
+      ],
+      "2024-05": [
+        13,
+        3,
+        1,
+        2,
+        0,
+        1
+      ],
+      "2024-06": [
+        10,
+        4,
+        1,
+        2,
+        0,
+        0
+      ],
+      "2024-07": [
+        11,
+        7,
+        3,
+        1,
+        0,
+        3
+      ],
+      "2024-08": [
+        11,
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "2024-09": [
+        14,
+        5,
+        1,
+        4,
+        2,
+        0
+      ],
+      "2024-10": [
+        16,
+        14,
+        4,
+        4,
+        0,
+        0
+      ],
+      "2024-11": [
+        12,
+        9,
+        3,
+        2,
+        1,
+        0
+      ],
+      "2024-12": [
+        10,
+        7,
+        4,
+        5,
+        1,
+        2
+      ],
+      "2025-01": [
+        15,
+        3,
+        1,
+        5,
+        2,
+        0
+      ],
+      "2025-02": [
+        17,
+        4,
+        4,
+        1,
+        1,
+        1
+      ],
+      "2025-03": [
+        15,
+        4,
+        3,
+        6,
+        3,
+        4
+      ],
+      "2025-04": [
+        10,
+        9,
+        1,
+        5,
+        1,
+        1
+      ],
+      "2025-05": [
+        17,
+        6,
+        2,
+        3,
+        1,
+        3
+      ],
+      "2025-06": [
+        5,
+        7,
+        0,
+        4,
+        1,
+        1
+      ],
+      "2025-07": [
+        18,
+        8,
+        5,
+        1,
+        4,
+        3
+      ],
+      "2025-08": [
+        12,
+        3,
+        1,
+        4,
+        1,
+        4
+      ],
+      "2025-09": [
+        3,
+        5,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "On \"agential realism\" and ontology of quantum mechanics",
+          "year": "2023-07",
+          "abstract": "K. Barad proposes \"agential realism\" as a unified approach to natural and\nsocial phenomena. The position is inspired by quantum mechanics and in\nparticular the phenomenon of quantum entanglement. Barad also sees similarities\nbetween her approach, N. Bohr's view and C. Rovelli's relational quantum\nmechanics. In our view, agential realism is a kind of ontological\ncorrelationism, not a realism. The analogy with the Bohr and Rovelli approaches\nis only partial. Agential realism is a wrong interpretation of quantum\nmechanics. It is also unsuitable for social theorizing, for which taking into\naccount the sensitivity of ontology to the context is fundamental. As an\nalternative, we propose a contextual quantum realism that rejects substantive\ndualisms (as does Barad), but at the same time accepts the categorical dualism\nof the real and the ideal. Our approach also allows one to better understand\nBohr's position and to correct Rovelli's relational quantum mechanics.",
+          "arxiv_id": "2307.12993v1"
+        },
+        {
+          "title": "Is the standard quantum mechanics a completely nondeterministic theory?",
+          "year": "2020-07",
+          "abstract": "It is argued that although quantum theory isn't an absolutely deterministic\ntheory, it is partially deterministic. The approach followed here is in the\nframework of the standard (Copenhagen interpretation of) quantum mechanics\nwithout any additional assumption or alternative interpretation. The argument\nis based on the conceptual meaning of determinism and by means of some\nwell-known phenomena in the quantum world (measurement of a quantum particle\nspin, energy values and spatial states of an electron in atoms, the so-called\nwavefunction collapse problem) which are usually considered in rejecting\ndeterminism.",
+          "arxiv_id": "2007.03553v4"
+        },
+        {
+          "title": "Bohm's quantum \"non-mechanics\": An alternative quantum theory with its own ontology?",
+          "year": "2021-05",
+          "abstract": "The ontological aspect of Bohmian mechanics, as a hidden-variable theory that\nprovides us with an objective description of a quantum world without observers,\nis widely known. Yet its practicality is getting more and more acceptance and\nrelevance, for it has proven to be an efficient and useful resource to tackle,\nexplore, describe and explain such phenomena. This practical aspect emerges\nprecisely when the pragmatic application of the formalism prevails over any\nother interpretational question, still a matter of debate and controversy. In\nthis regard, the purpose here is to show and discuss how Bohmian mechanics\nemphasizes in a natural manner a series of dynamical features difficult to find\nout through other quantum approaches. This arises from the fact that Bohmian\nmechanics allows us to establish a direct link between the dynamics exhibited\nby quantum systems and the local variations of the quantum phase associated\nwith their state. To illustrate these facts, simple models of two physically\ninsightful quantum phenomena have been chosen, namely, the dispersion of a free\nGaussian wave packet and Young-type two-slit interference. As it is shown, the\noutcomes from their analysis render a novel, alternative understanding of the\ndynamics displayed by these quantum phenomena in terms of the underlying local\nvelocity field that connects the probability density with the quantum flux.\nThis field, nothing but the so-called guidance condition in standard Bohmian\nmechanics, thus acquires a prominent role to understand quantum dynamics, as\nthe mechanism responsible for such dynamics. This goes beyond the passive role\ntypically assigned to this field in Bohmian mechanics, where traditionally\ntrajectories and quantum potentials have received more attention instead.",
+          "arxiv_id": "2105.06158v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "A cognitive basis for physical time",
+          "year": "2024-11",
+          "abstract": "The treatment of time in relativity does not conform to that in quantum\ntheory. In the context of quantum gravity this is called \"the problem of time\".\nA crucial difference is that time $t$ may be seen as an observable in\nrelativity theory, just like position $x$, whereas in quantum theory $t$ is a\nparameter, in contrast to the observable $x$. Aiming to resolve the\ndiscrepancy, a formalization of time in the spirit of Kant's Copernican\nrevolution is suggested, where it is required that the treatment of time in\nphysics agree with our cognition. This leads to reconsideration of the notions\nof identity and change of objects, as well as the nature of physical states and\ntheir evolution. The formalization has two components: sequential time $n$ and\nrelational time $t$. The evolution of physical states is described in terms of\n$n$, which is updated each time an event occurs. The role of $t$ is to quantify\ndistances between events in space-time. There is a space-time associated with\neach $n$, in which $t$ represents the knowledge at time $n$ about temporal\ndistances between present and past events. A universal ordering of events in\nterms of $n$ can be postulated even though distances $t$ are relativistic. In\nshort, it is argued that time as a sequential flow of events should be\nseparated from time as a measure of distance between events. In physical\nmodels, these aspects of time can be expressed as one evolution parameter and\none observable, respectively.",
+          "arxiv_id": "2411.01427v2"
+        },
+        {
+          "title": "Are General Relativity and Teleparallel Gravity Theoretically Equivalent?",
+          "year": "2024-06",
+          "abstract": "Teleparallel gravity shares many qualitative features with general\nrelativity, but differs from it in the following way: whereas in general\nrelativity, gravitation is a manifestation of space-time curvature, in\nteleparallel gravity, spacetime is (always) flat. Gravitational effects in this\ntheory arise due to spacetime torsion. It is often claimed that teleparallel\ngravity is an equivalent reformulation of general relativity. In this paper we\nquestion that view. We argue that the theories are not equivalent, by the\ncriterion of categorical equivalence and any stronger criterion, and that\nteleparallel gravity posits strictly more structure than general relativity.",
+          "arxiv_id": "2406.15932v1"
+        },
+        {
+          "title": "The multiple realizability of general relativity in quantum gravity",
+          "year": "2020-05",
+          "abstract": "Must a theory of quantum gravity have some truth to it if it can recover\ngeneral relativity in some limit of the theory? This paper answers this\nquestion in the negative by indicating that general relativity is multiply\nrealizable in quantum gravity. The argument is inspired by spacetime\nfunctionalism - multiple realizability being a central tenet of functionalism -\nand proceeds via three case studies: induced gravity, thermodynamic gravity,\nand entanglement gravity. In these, general relativity in the form of the\nEinstein field equations can be recovered from elements that are either\nmanifestly multiply realizable or at least of the generic nature that is\nsuggestive of functions. If general relativity, as argued here, can inherit\nthis multiple realizability, then a theory of quantum gravity can recover\ngeneral relativity while being completely wrong about the posited\nmicrostructure. As a consequence, the recovery of general relativity cannot\nserve as the ultimate arbiter that decides which theory of quantum gravity that\nis worthy of pursuit, even though it is of course not irrelevant either qua\nquantum gravity. Thus, the recovery of general relativity in string theory, for\ninstance, does not guarantee that the stringy account of the world is on the\nright track; despite sentiments to the contrary among string theorists.",
+          "arxiv_id": "2005.05055v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Reconstructing the lost eclipse events of the Saros spiral applying the Draconic gearing on the Antikythera Mechanism. The impact of the gearing errors on the pointers position",
+          "year": "2022-08",
+          "abstract": "We present new observations concerning the procedure for the reconstruction\nof the lost eclipse events engraved in the Saros spiral cells of the\nAntikythera Mechanism. For the reconstructed eclipse events we applied the\nassumed, albeit missing, Draconic gearing of the Antikythera Mechanism, which\nwas probably a part of the Mechanism gearing, representing the fourth lunar\nmotion, the Draconic cycle. The Draconic gearing is very critical for the\neclipse prediction and defines whether an eclipse will occur. For our research\nwe created a program which presents the phase of the four lunar cycles and the\nposition of the Draconic pointer relative to the ecliptic limits. After\ncalibrating the software according to the preserved eclipse events, the lost\neclipse events of the Saros spiral were calculated and discussed. The procedure\nfor the calculation of the events times by using solely the Mechanism is also\npresented. The eccentricity error of a gear which is preserved on the ancient\nprototype is discussed. An experimental setup facilitated the analysis of the\nmechanical characteristics of gears with triangular teeth and the errors. The\nexperimental study of the gears errors revealed the strong impact the\nAntikythera Mechanism pointers have on the results.",
+          "arxiv_id": "2208.10997v1"
+        },
+        {
+          "title": "Astronomy at the University of Salamanca at the end of the 15th century. What \"El Cielo de Salamanca\" tells us",
+          "year": "2022-02",
+          "abstract": "\"El Cielo de Salamanca\" (\"The Sky of Salamanca\") is a quarter-sphere-shaped\nvault 8.70 metres in diameter. It was painted sometime between 1480 and 1493\nand shows five zodiacal constellations, three boreal and six austral. The Sun\nand Mercury are also represented. It formed part of a three times larger vault\ndepicting the 48 Ptolemaic constellations and the rest of the planets known at\nthe time. This was a splendid work of art that covered the ceiling of the first\nlibrary of the University of Salamanca, one of the oldest in Europe having\nobtained its royal charter in 1218. But it was also a pioneering scientific\nwork: a planetarium used to teach astronomy, the first of its kind in the\nhistory of Astronomy that has come down to us in the preserved part that we now\ncall \"The Sky of Salamanca\". We describe the scientific context surrounding the\nchair of Astrology founded around 1460 at the University of Salamanca, which\nled to the production of this unique scientific work of art and to the\nflourishing of Astronomy in Salamanca. We analyse the possible dates compatible\nwith it, showing that they are extremely infrequent. In the period of 1100\nyears from 1200 to 2300 that we studied there are only 23 years that have\nfeasible days. We conclude that the information contained in \"El Cielo de\nSalamanca\" is not sufficient to assign it to a specific date but rather to an\ninterval of several days that circumstantial evidence seems to place in August\n1475. The same configuration of the sky will be observable, for the first time\nin 141 years, from the 22nd to the 25th of August 2022. The next occasion to\nobserve it live will be in 2060.",
+          "arxiv_id": "2202.10442v1"
+        },
+        {
+          "title": "Astronomy of the Earth-Moon system and the Eschatological Expectations of the Christian Historians of the 5th century CE",
+          "year": "2023-08",
+          "abstract": "This is a historian's view of how modern astronomy data can be used to\ndiscuss the shifting historical worldview of Late Antiquity. In this article an\nattemp is made to construct an approximate model of how the cycles of\nastronomical bodies' visible rotation aaffected the writing of history and\nself-representation of the Roman empire's powerful people. It is argued that\nwhile rare outstanding events like solar eclipses might have caused a short\nstir in the minds of the rulers and their environment, long-term cycles based\non the synchronization of the Moon's phases with the solar calendar and the\ncycles of the planets lining up in the same disposition (in relationship to the\nMoon or without this relationship) were the foundation of astronomy-based\nChristian chronological system. The emergence of the Christian historical\nworldview in the 5th century was marked by appearance of a significant\neschatological strain in it. Historians paid attention not only to the\ntheology-defined signs of the end of the world, but also, as it has been\nsuggested in modern studies, to the some outstanding celestial phenomena. In\nthis paper I would like to address several criteria which may help understand\nwhat in the celestial motions interested the astronomers and historians of the\n5th century. This paper uses the first approximation of astronomical data for\nsolving the problem of how relevant the skies were for historians, although all\nnumeric parameters are taken from the up-to-date astronomy reference\npublications. It is an attempt to understand whether the very basic\napproximations can be related to what historians know from the array of sources\navailable to them. The analysis suggests that there is a whole array of\noccasions when the dates of astronomical events, received with the help of\nthese basic approximations, coincide with the data from historical sources.",
+          "arxiv_id": "2310.05931v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "The history of the Arcetri Physics Institute from the 1920s to the end of the 1960s",
+          "year": "2025-03",
+          "abstract": "The history of the Arcetri Institute of Physics at the University of Florence\nis analyzed from the beginning of the 20th century to the 1960s. Thanks to the\narrival of Garbasso in 1913, not only did the Institute gain new premises on\nArcetri hill, but also hosted brilliant young physicists such as Rita Brunetti,\nEnrico Fermi, Franco Rasetti in the '20s and Enrico Persico, Bruno Rossi,\nGilberto Bernardini, Daria Bocciarelli, Lorenzo Emo Capodilista, Giuseppe\nOcchialini and Giulio Racah in the '30s, engaged in the emerging fields of\nQuantum Mechanics and Cosmic Rays. This internationally renowned Arcetri School\ndissolved in the late 1930s mainly for the transfer of its protagonists to\nchairs in other Italian or foreign universities. After the war, the legacy was\ntaken up by some students of this school who formed research groups in the\nfields of nuclear physics and elementary particle physics. As far as\ntheoretical physics is concerned, after the Fermi and Persico periods, these\nstudies enjoyed a new expansion in the sixties thanks to the arrival of Raoul\nGatto who created in Arcetri the first Italian school of theoretical physics.",
+          "arxiv_id": "2503.07045v1"
+        },
+        {
+          "title": "A brief history of Florentine physics from the 1920s to the end of the 1960s",
+          "year": "2022-07",
+          "abstract": "The history of the Institute of Physics at the University of Florence is\ntraced from the beginning of the 20th century, with the arrival of Antonio\nGarbasso as Director (1913), to the 1960s. Thanks to Garbasso's expertise, not\nonly did the Institute gain new premises on Arcetri hill, where the\nAstronomical Observatory was already located, but it also formed a brilliant\ngroup of young physicists made up of Enrico Fermi, Franco Rasetti, Enrico\nPersico, Bruno Rossi, Gilberto Bernardini, Daria Bocciarelli, Lorenzo Emo\nCapodilista, Giuseppe Occhialini and Giulio Racah, who were engaged in the\nemerging fields of Quantum Mechanics and Cosmic Rays. This Arcetri School\ndisintegrated in the late 1930s for the transfer of its protagonists to chairs\nin other universities, for the environment created by the fascist regime and,\nto some extent, for the racial laws. After the war, the legacy was taken up by\nsome students of this school who formed research groups in the field of nuclear\nphysics and elementary particle physics. As far as theoretical physics was\nconcerned, after the Fermi and Persico periods these studies enjoyed a new\nexpansion towards the end of the 1950s, with the arrival of Giacomo Morpurgo\nand above all, that of Raoul Gatto, who created the first real Italian school\nof Theoretical Physics at Arcetri.",
+          "arxiv_id": "2207.05441v2"
+        },
+        {
+          "title": "Nuclear Science for the Manhattan Project and Comparison to Today's ENDF Data",
+          "year": "2021-03",
+          "abstract": "Nuclear physics advances in the US and Britain, from 1939-1945, are\ndescribed. The Manhattan Project's work led to an explosion in our knowledge of\nnuclear science. A conference in April 1943 at Los Alamos provided a simple\nformula used to compute critical masses, and laid out the research program\nneeded to determine the key nuclear constants. In short order, four university\naccelerators were disassembled and reassembled at Los Alamos, and methods were\nestablished to make measurements on extremely small samples owing to the\ninitial lack of availability of enriched 235 U and plutonium. I trace the\nprogram that measured fission cross sections, fission emitted neutron\nmultiplicities and their energy spectra, and transport cross sections,\ncomparing the measurements with our best understanding today as embodied in the\nEvaluated Nuclear Data File ENDF/B-VIII.0. The large nuclear data uncertainties\nat the beginning of the project, which often exceeded 25--50%, were reduced by\n1945, often to less than 5-10%. 235 U and 239 Pu fission cross section\nassessments in the fast MeV range were reduced with more accurate measurements,\nand the neutron multiplicity increased. By a lucky coincidence of cancelling\nerrors, the initial critical mass estimates were close to the final estimated\nmasses. Some images from historical documents from our Los Alamos archives are\nshown. Many of the original measurements from these early years have not\npreviously been widely available. Through this work, these data have now been\narchived in the international experimental nuclear reaction data library\n(EXFOR) in a collaboration with the IAEA and Brookhaven National Laboratory.",
+          "arxiv_id": "2103.05727v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Are We Entering a Paradigm Shift for Dark Matter?",
+          "year": "2021-06",
+          "abstract": "While the LCDM framework has been incredibly successful for modern cosmology,\nit requires the admission of two mysterious substances as a part of the\nparadigm, dark energy and dark matter. Although this framework adequately\nexplains most of the large-scale properties of the Universe (i.e., existence\nand structure of the CMB, the large-scale structure of galaxies, the abundances\nof light elements and the accelerating expansion), it has failed to make\nsignificant predictions on smaller scale features such as the kinematics of\ngalaxies and their formation. In particular, the rotation curves of disk\ngalaxies (the original observational discovery of dark matter) are better\nrepresented by non-Newtonian models of gravity that challenge our understanding\nof motion in the low acceleration realm (much as general relativity provided an\nextension of gravity into the high acceleration realm e.g., blackholes). The\ntension between current cold dark matter scenarios and proposed new\nformulations of gravity in the low energy regime suggests an upcoming paradigm\nshift in cosmology. And, if history is a guide, observations will lead the way.",
+          "arxiv_id": "2106.10327v1"
+        },
+        {
+          "title": "Why did the dark matter hypothesis supersede modified gravity in the 1980s?",
+          "year": "2025-07",
+          "abstract": "In the 1960s and 1970s a series of observations and theoretical developments\nhighlighted the presence of several anomalies which could, in principle, be\nexplained by postulating one of the following two working hypotheses: (i) the\nexistence of dark matter, or (ii) the modification of standard gravitational\ndynamics in low accelerations. In the years that followed, the dark matter\nhypothesis as an explanation for dark matter phenomenology attracted far more\nattention compared to the hypothesis of modified gravity, and the latter is\nlargely regarded today as a non-viable alternative. The present article takes\nan integrated history and philosophy of science approach in order to identify\nthe reasons why the scientific community mainly pursued the dark matter\nhypothesis in the years that followed, as opposed to modified gravity. A\nplausible answer is given in terms of three epistemic criteria for the\npursuitworthiness of a hypothesis: (a) its problem-solving potential, (b) its\ncompatibility with established theories and the feasibility of incorporation,\nand (c) its independent testability. A further comparison between the problem\nof dark matter and the problem of dark energy is also presented, explaining why\nin the latter case the situation is different, and modified gravity is still\nconsidered a viable possibility.",
+          "arxiv_id": "2507.11598v1"
+        },
+        {
+          "title": "The Spectre of Underdetermination in Modern Cosmology",
+          "year": "2025-01",
+          "abstract": "The scientific status of physical cosmology has been the subject of\nphilosophical debate ever since detailed mathematical models of the Universe\nemerged from Einstein's general theory of relativity. Such debates have\nrevolved around whether and to what extent cosmology meets established\ndemarcation criteria for a discipline to be scientific, as well as determining\nhow to best characterize cosmology as a science, given the unique challenges\nand limitations faced by a discipline which aims to study the origin,\ncomposition, and fate of the Universe itself. The present article revisits, in\nlight of the dramatic progress in cosmology in recent decades, an earlier\ndebate held in the 1950s between Herman Bondi and Gerald Whitrow regarding the\nscientific status of cosmology. We analyse cosmology's transition from an\nemerging science to a cornerstone of modern physics, highlighting its empirical\nsuccesses in establishing the $\\Lambda$-Cold Dark Matter ($\\Lambda$CDM) model\nand in its delivery of various successful novel predictions. Despite this\nremarkable scientific success and progress, we argue that modern cosmology\nfaces a further profound challenge: the permanent underdetermination of the\nmicrophysical nature of its exotic energy components: inflation, dark matter,\nand dark energy. Drawing historical parallels with the role of spectroscopy in\nrevealing the microphysical nature of atomic physics, we argue that the\nepistemic barriers obstructing us from ascertaining the microphysical nature of\nthese exotic energy components are significant, in turn casting doubt upon\nwhether cosmology can ever transcend these particular epistemic challenges. We\nconclude by reflecting on the prospects for future breakthroughs and/or\nnon-empirical arguments which could decide this issue conclusively.",
+          "arxiv_id": "2501.06095v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "A Model of Entropy Production",
+          "year": "2024-12",
+          "abstract": "A key tenet of the Transactional Interpretation of Quantum Mechanics is the\nidea that photon absorption localizes the absorbing material system. In doing\nso, it measures the location of the absorber and hence reduces information\nentropy, which in turn needs to be balanced by appropriate entropy production,\nif there is a link between information entropy and thermodynamic entropy. Based\non a critical analysis of the physics of information erasure, we clarify the\nlink between information and thermodynamic entropy and develop a rigorous model\nof entropy production in photon absorption processes. Links to the\nintepretation of quantum probabilities and Maxwell's Demon are made.",
+          "arxiv_id": "2412.20554v1"
+        },
+        {
+          "title": "Coarse-grained entropy balance of the Szilard engine",
+          "year": "2025-03",
+          "abstract": "In order to reconcile the entropy reduction of a system through external\ninterventions that are linked to a measurement with the second law of\nthermodynamics, there are two main proposals: (i) The entropy reduction is\ncompensated by the entropy increase as a result of the measurement on the\nsystem (``Szilard principle\"). (ii) The entropy reduction is compensated by the\nentropy increase as a result of the erasure of the measurement results\n(``Landauer/Bennett principle\"). It seems that the LB principle is widely\naccepted in the scientific debate. In contrast, in this paper we argue for a\nmodified S principle and criticize the LB principle with regard to various\npoints. Our approach is based on the concept of ``conditional action\", which is\ndeveloped in detail. To illustrate our theses, we consider the entropy balance\nof a variant of the well-known Szilard engine, understood as a classical\nmechanical system.",
+          "arxiv_id": "2503.22999v3"
+        },
+        {
+          "title": "Maxwell's Demon Is Foiled by the Entropy Cost of Measurement, Not Erasure",
+          "year": "2025-03",
+          "abstract": "I dispute the conventional claim that the second law of thermodynamics is\nsaved from a \"Maxwell's Demon\" by the entropy cost of information erasure, and\nshow that instead it is measurement that incurs the entropy cost. Thus\nBrillouin, who identified measurement as savior of the second law, was\nessentially correct, and putative refutations of his view, such as Bennett's\nclaim to measure without entropy cost, are seen to fail when the applicable\nphysics is taken into account. I argue that the tradition of attributing the\ndefeat of Maxwell's Demon to erasure rather than to measurement arose from\nunphysical classical idealizations that do not hold for real gas molecules, as\nwell as a physically ungrounded recasting of physical thermodynamical processes\ninto computational and information-theoretic conceptualizations. I argue that\nthe fundamental principle that saves the second law is the quantum uncertainty\nprinciple applying to the need to localize physical states to precise values of\nobservables in order to effect the desired disequilibria aimed at violating the\nsecond law. I obtain the specific entropy cost for localizing a molecule in the\nSzilard engine and show that it coincides with the quantity attributed to\nLandauer's principle. I also note that an experiment characterized as upholding\nan entropy cost of erasure in a \"quantum Maxwell's Demon\" actually demonstrates\nan entropy cost of measurement.",
+          "arxiv_id": "2503.18186v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:02:23Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

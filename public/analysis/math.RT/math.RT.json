@@ -1,0 +1,1628 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_category_categories_tilting_modules",
+        "keywords": [
+          [
+            "category",
+            0.04145226371888936
+          ],
+          [
+            "categories",
+            0.040495559498380525
+          ],
+          [
+            "tilting",
+            0.02542811860390912
+          ],
+          [
+            "modules",
+            0.024332308904098886
+          ],
+          [
+            "algebras",
+            0.02364587053423974
+          ],
+          [
+            "finite",
+            0.019755204846543126
+          ],
+          [
+            "algebra",
+            0.01602852785144579
+          ],
+          [
+            "subcategories",
+            0.015277623948850419
+          ],
+          [
+            "Gorenstein",
+            0.014300446156673492
+          ],
+          [
+            "module",
+            0.013507920718929698
+          ]
+        ],
+        "count": 1247
+      },
+      "1": {
+        "name": "1_modules_algebra_Lie_algebras",
+        "keywords": [
+          [
+            "modules",
+            0.029530371885148544
+          ],
+          [
+            "algebra",
+            0.029392886636678467
+          ],
+          [
+            "Lie",
+            0.028896251163330784
+          ],
+          [
+            "algebras",
+            0.024119524151338816
+          ],
+          [
+            "simple",
+            0.01958681956754773
+          ],
+          [
+            "quantum",
+            0.018706729247834016
+          ],
+          [
+            "affine",
+            0.017179003051648385
+          ],
+          [
+            "type",
+            0.015076033520381674
+          ],
+          [
+            "vertex",
+            0.014809817953077429
+          ],
+          [
+            "weight",
+            0.013291919159732794
+          ]
+        ],
+        "count": 1135
+      },
+      "2": {
+        "name": "2_local_representations_group_field",
+        "keywords": [
+          [
+            "local",
+            0.02568783922307203
+          ],
+          [
+            "representations",
+            0.023506365963478087
+          ],
+          [
+            "group",
+            0.01694370597593717
+          ],
+          [
+            "field",
+            0.01546547609669651
+          ],
+          [
+            "Langlands",
+            0.014999672570953772
+          ],
+          [
+            "flag",
+            0.014317288703767209
+          ],
+          [
+            "groups",
+            0.014153062443691394
+          ],
+          [
+            "varieties",
+            0.013170929847424103
+          ],
+          [
+            "representation",
+            0.012909615714438865
+          ],
+          [
+            "conjecture",
+            0.011628303223384507
+          ]
+        ],
+        "count": 940
+      },
+      "3": {
+        "name": "3_group_groups_symmetric_polynomials",
+        "keywords": [
+          [
+            "group",
+            0.030650914959229576
+          ],
+          [
+            "groups",
+            0.02996528793033669
+          ],
+          [
+            "symmetric",
+            0.021759213135957124
+          ],
+          [
+            "polynomials",
+            0.0207800212946191
+          ],
+          [
+            "finite",
+            0.01912834181068571
+          ],
+          [
+            "characters",
+            0.019050765098324967
+          ],
+          [
+            "irreducible",
+            0.016554773225308923
+          ],
+          [
+            "character",
+            0.015970819867280207
+          ],
+          [
+            "conjecture",
+            0.013776686048922323
+          ],
+          [
+            "blocks",
+            0.013764389501275641
+          ]
+        ],
+        "count": 678
+      },
+      "4": {
+        "name": "4_compact_Lie_group_groups",
+        "keywords": [
+          [
+            "compact",
+            0.027403198533141597
+          ],
+          [
+            "Lie",
+            0.02366335775893455
+          ],
+          [
+            "group",
+            0.023630561172749677
+          ],
+          [
+            "groups",
+            0.02306153082741608
+          ],
+          [
+            "representations",
+            0.020313252390705274
+          ],
+          [
+            "spaces",
+            0.020090007280519174
+          ],
+          [
+            "space",
+            0.01904144650150518
+          ],
+          [
+            "real",
+            0.01767881605020888
+          ],
+          [
+            "Lie groups",
+            0.014816405308200345
+          ],
+          [
+            "functions",
+            0.014321983414054894
+          ]
+        ],
+        "count": 333
+      },
+      "5": {
+        "name": "5_quiver_quivers_cluster_representations",
+        "keywords": [
+          [
+            "quiver",
+            0.06924734618231475
+          ],
+          [
+            "quivers",
+            0.038671433128894886
+          ],
+          [
+            "cluster",
+            0.022597071044763203
+          ],
+          [
+            "representations",
+            0.019970124588597364
+          ],
+          [
+            "algebras",
+            0.01964000578563224
+          ],
+          [
+            "type",
+            0.01745591802696904
+          ],
+          [
+            "algebra",
+            0.017084430570274717
+          ],
+          [
+            "mutation",
+            0.012722534115561485
+          ],
+          [
+            "varieties",
+            0.012175019277227403
+          ],
+          [
+            "finite",
+            0.012067032253337301
+          ]
+        ],
+        "count": 289
+      },
+      "6": {
+        "name": "6_theories_theory_gauge_3d",
+        "keywords": [
+          [
+            "theories",
+            0.03284328119037643
+          ],
+          [
+            "theory",
+            0.03195892949588283
+          ],
+          [
+            "gauge",
+            0.023129853083772526
+          ],
+          [
+            "3d",
+            0.019034579026340367
+          ],
+          [
+            "topological",
+            0.015798145866695753
+          ],
+          [
+            "quantum",
+            0.015605952597322066
+          ],
+          [
+            "symmetry",
+            0.015226406388874476
+          ],
+          [
+            "algebra",
+            0.015186194491181098
+          ],
+          [
+            "BPS",
+            0.014719021585754421
+          ],
+          [
+            "boundary",
+            0.014340664869260958
+          ]
+        ],
+        "count": 189
+      },
+      "7": {
+        "name": "7_Baxter_algebras_Rota_Lie",
+        "keywords": [
+          [
+            "Baxter",
+            0.09159454369501314
+          ],
+          [
+            "algebras",
+            0.08936677513151266
+          ],
+          [
+            "Rota",
+            0.06725530471896589
+          ],
+          [
+            "Lie",
+            0.06205463189144223
+          ],
+          [
+            "Poisson",
+            0.04572445805863511
+          ],
+          [
+            "algebra",
+            0.042105587585450376
+          ],
+          [
+            "operators",
+            0.03998606855806807
+          ],
+          [
+            "pre",
+            0.038882642545150635
+          ],
+          [
+            "bialgebras",
+            0.03688163922269833
+          ],
+          [
+            "associative",
+            0.03481720945700989
+          ]
+        ],
+        "count": 138
+      },
+      "8": {
+        "name": "8_reflection_groups_reflection groups_Hecke",
+        "keywords": [
+          [
+            "reflection",
+            0.0766397224074555
+          ],
+          [
+            "groups",
+            0.0462725347980356
+          ],
+          [
+            "reflection groups",
+            0.045412106980477325
+          ],
+          [
+            "Hecke",
+            0.04481202523328121
+          ],
+          [
+            "complex reflection",
+            0.03336544702069093
+          ],
+          [
+            "complex",
+            0.030106093614041422
+          ],
+          [
+            "group",
+            0.03006795955250374
+          ],
+          [
+            "Coxeter",
+            0.027875821543027757
+          ],
+          [
+            "reflection group",
+            0.023590707657879212
+          ],
+          [
+            "complex reflection groups",
+            0.023352237386793363
+          ]
+        ],
+        "count": 133
+      },
+      "9": {
+        "name": "9_theory_matrices_representation_matrix",
+        "keywords": [
+          [
+            "theory",
+            0.0299818145941676
+          ],
+          [
+            "matrices",
+            0.019710571200893864
+          ],
+          [
+            "representation",
+            0.019425524458494874
+          ],
+          [
+            "matrix",
+            0.01902956508456476
+          ],
+          [
+            "group",
+            0.01847902759608465
+          ],
+          [
+            "problem",
+            0.017922377088515556
+          ],
+          [
+            "quantum",
+            0.017515309295986627
+          ],
+          [
+            "tensors",
+            0.017363730619481467
+          ],
+          [
+            "problems",
+            0.016275418100422996
+          ],
+          [
+            "representation theory",
+            0.016000764334890505
+          ]
+        ],
+        "count": 124
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5069015957674444,
+        -0.5485750138387971,
+        -0.5584094102323118,
+        -0.5374503487026027,
+        -0.5188832629366377,
+        -0.4858953033032861,
+        -0.5946933541108369,
+        -0.6901887748051099,
+        -0.6394042926856509
+      ],
+      [
+        -0.5069015957674444,
+        1.0,
+        -0.624408169278825,
+        -0.6248549576783019,
+        -0.6132878287346755,
+        -0.633042515724767,
+        -0.589547366357112,
+        -0.25753461859572757,
+        -0.6956992992620599,
+        -0.6479639256905061
+      ],
+      [
+        -0.5485750138387971,
+        -0.624408169278825,
+        1.0,
+        -0.4552832034146595,
+        -0.38911270655359576,
+        -0.5226427095384577,
+        -0.45784389630853406,
+        -0.6739915335473454,
+        -0.6421320599682654,
+        -0.6620633147895599
+      ],
+      [
+        -0.5584094102323118,
+        -0.6248549576783019,
+        -0.4552832034146595,
+        1.0,
+        -0.2804232485213196,
+        -0.549954729127274,
+        -0.44619624418416576,
+        -0.6626714323946559,
+        -0.4969406108136944,
+        -0.6253079218987029
+      ],
+      [
+        -0.5374503487026027,
+        -0.6132878287346755,
+        -0.38911270655359576,
+        -0.2804232485213196,
+        1.0,
+        -0.485186918228245,
+        -0.35898240629606526,
+        -0.6479981984251504,
+        -0.5006399163453227,
+        -0.6280906379959771
+      ],
+      [
+        -0.5188832629366377,
+        -0.633042515724767,
+        -0.5226427095384577,
+        -0.549954729127274,
+        -0.485186918228245,
+        1.0,
+        -0.4567839623054709,
+        -0.6643938705851109,
+        -0.6926695069325435,
+        -0.6566543221526011
+      ],
+      [
+        -0.4858953033032861,
+        -0.589547366357112,
+        -0.45784389630853406,
+        -0.44619624418416576,
+        -0.35898240629606526,
+        -0.4567839623054709,
+        1.0,
+        -0.6392310487126123,
+        -0.6651078951745577,
+        -0.01566671807552491
+      ],
+      [
+        -0.5946933541108369,
+        -0.25753461859572757,
+        -0.6739915335473454,
+        -0.6626714323946559,
+        -0.6479981984251504,
+        -0.6643938705851109,
+        -0.6392310487126123,
+        1.0,
+        -0.7032730992564618,
+        -0.6806519683268879
+      ],
+      [
+        -0.6901887748051099,
+        -0.6956992992620599,
+        -0.6421320599682654,
+        -0.4969406108136944,
+        -0.5006399163453227,
+        -0.6926695069325435,
+        -0.6651078951745577,
+        -0.7032730992564618,
+        1.0,
+        -0.690657494698097
+      ],
+      [
+        -0.6394042926856509,
+        -0.6479639256905061,
+        -0.6620633147895599,
+        -0.6253079218987029,
+        -0.6280906379959771,
+        -0.6566543221526011,
+        -0.01566671807552491,
+        -0.6806519683268879,
+        -0.690657494698097,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        37,
+        33,
+        9,
+        12,
+        3,
+        8,
+        4,
+        4,
+        13,
+        4
+      ],
+      "2020-02": [
+        36,
+        27,
+        6,
+        23,
+        6,
+        3,
+        9,
+        11,
+        4,
+        1
+      ],
+      "2020-03": [
+        37,
+        27,
+        9,
+        24,
+        8,
+        5,
+        7,
+        10,
+        6,
+        4
+      ],
+      "2020-04": [
+        41,
+        22,
+        6,
+        20,
+        6,
+        9,
+        7,
+        10,
+        3,
+        3
+      ],
+      "2020-05": [
+        41,
+        25,
+        13,
+        22,
+        6,
+        9,
+        7,
+        11,
+        6,
+        3
+      ],
+      "2020-06": [
+        52,
+        16,
+        20,
+        25,
+        4,
+        6,
+        4,
+        12,
+        11,
+        3
+      ],
+      "2020-07": [
+        47,
+        29,
+        10,
+        32,
+        0,
+        9,
+        6,
+        4,
+        9,
+        3
+      ],
+      "2020-08": [
+        40,
+        21,
+        19,
+        24,
+        7,
+        12,
+        11,
+        10,
+        6,
+        1
+      ],
+      "2020-09": [
+        28,
+        14,
+        11,
+        22,
+        5,
+        4,
+        3,
+        13,
+        14,
+        3
+      ],
+      "2020-10": [
+        43,
+        25,
+        15,
+        21,
+        2,
+        6,
+        12,
+        10,
+        3,
+        3
+      ],
+      "2020-11": [
+        43,
+        18,
+        13,
+        12,
+        3,
+        12,
+        11,
+        8,
+        7,
+        3
+      ],
+      "2020-12": [
+        36,
+        27,
+        9,
+        21,
+        6,
+        2,
+        13,
+        13,
+        13,
+        3
+      ],
+      "2021-01": [
+        33,
+        22,
+        9,
+        10,
+        4,
+        7,
+        4,
+        9,
+        5,
+        2
+      ],
+      "2021-02": [
+        39,
+        24,
+        12,
+        22,
+        4,
+        4,
+        6,
+        10,
+        5,
+        1
+      ],
+      "2021-03": [
+        38,
+        16,
+        12,
+        23,
+        3,
+        7,
+        10,
+        3,
+        7,
+        3
+      ],
+      "2021-04": [
+        30,
+        19,
+        14,
+        12,
+        6,
+        6,
+        2,
+        5,
+        11,
+        3
+      ],
+      "2021-05": [
+        44,
+        25,
+        10,
+        21,
+        4,
+        9,
+        6,
+        8,
+        9,
+        1
+      ],
+      "2021-06": [
+        33,
+        18,
+        12,
+        17,
+        9,
+        14,
+        7,
+        4,
+        8,
+        7
+      ],
+      "2021-07": [
+        52,
+        25,
+        13,
+        20,
+        5,
+        7,
+        10,
+        9,
+        12,
+        6
+      ],
+      "2021-08": [
+        35,
+        24,
+        11,
+        19,
+        4,
+        15,
+        7,
+        8,
+        4,
+        2
+      ],
+      "2021-09": [
+        41,
+        27,
+        25,
+        18,
+        7,
+        7,
+        5,
+        8,
+        3,
+        2
+      ],
+      "2021-10": [
+        33,
+        22,
+        15,
+        20,
+        7,
+        10,
+        4,
+        8,
+        5,
+        2
+      ],
+      "2021-11": [
+        37,
+        18,
+        20,
+        22,
+        6,
+        11,
+        4,
+        5,
+        6,
+        4
+      ],
+      "2021-12": [
+        51,
+        21,
+        16,
+        13,
+        7,
+        9,
+        14,
+        11,
+        16,
+        5
+      ],
+      "2022-01": [
+        21,
+        14,
+        9,
+        25,
+        5,
+        8,
+        7,
+        6,
+        7,
+        3
+      ],
+      "2022-02": [
+        30,
+        16,
+        10,
+        17,
+        8,
+        5,
+        7,
+        11,
+        2,
+        4
+      ],
+      "2022-03": [
+        37,
+        27,
+        14,
+        30,
+        3,
+        5,
+        9,
+        9,
+        5,
+        2
+      ],
+      "2022-04": [
+        33,
+        18,
+        15,
+        18,
+        5,
+        8,
+        5,
+        11,
+        7,
+        4
+      ],
+      "2022-05": [
+        43,
+        20,
+        10,
+        27,
+        2,
+        8,
+        2,
+        6,
+        10,
+        5
+      ],
+      "2022-06": [
+        28,
+        15,
+        15,
+        16,
+        4,
+        8,
+        6,
+        13,
+        10,
+        3
+      ],
+      "2022-07": [
+        42,
+        27,
+        12,
+        26,
+        2,
+        20,
+        10,
+        9,
+        9,
+        5
+      ],
+      "2022-08": [
+        36,
+        23,
+        14,
+        19,
+        3,
+        7,
+        5,
+        9,
+        6,
+        5
+      ],
+      "2022-09": [
+        43,
+        28,
+        10,
+        22,
+        6,
+        7,
+        9,
+        7,
+        9,
+        2
+      ],
+      "2022-10": [
+        40,
+        23,
+        21,
+        20,
+        4,
+        10,
+        10,
+        3,
+        4,
+        2
+      ],
+      "2022-11": [
+        48,
+        22,
+        14,
+        28,
+        2,
+        11,
+        7,
+        16,
+        8,
+        5
+      ],
+      "2022-12": [
+        47,
+        16,
+        7,
+        28,
+        7,
+        5,
+        6,
+        7,
+        10,
+        3
+      ],
+      "2023-01": [
+        41,
+        21,
+        17,
+        31,
+        6,
+        7,
+        6,
+        8,
+        6,
+        1
+      ],
+      "2023-02": [
+        25,
+        14,
+        10,
+        21,
+        8,
+        16,
+        2,
+        6,
+        5,
+        2
+      ],
+      "2023-03": [
+        58,
+        15,
+        20,
+        32,
+        7,
+        18,
+        8,
+        16,
+        5,
+        2
+      ],
+      "2023-04": [
+        33,
+        22,
+        14,
+        16,
+        4,
+        6,
+        10,
+        8,
+        4,
+        3
+      ],
+      "2023-05": [
+        40,
+        19,
+        14,
+        17,
+        9,
+        8,
+        9,
+        15,
+        6,
+        1
+      ],
+      "2023-06": [
+        43,
+        19,
+        9,
+        28,
+        3,
+        11,
+        11,
+        8,
+        10,
+        2
+      ],
+      "2023-07": [
+        49,
+        20,
+        15,
+        28,
+        4,
+        12,
+        4,
+        11,
+        8,
+        4
+      ],
+      "2023-08": [
+        42,
+        14,
+        10,
+        25,
+        5,
+        6,
+        9,
+        16,
+        7,
+        7
+      ],
+      "2023-09": [
+        37,
+        24,
+        18,
+        23,
+        3,
+        14,
+        7,
+        11,
+        11,
+        2
+      ],
+      "2023-10": [
+        51,
+        14,
+        15,
+        31,
+        7,
+        10,
+        4,
+        12,
+        10,
+        4
+      ],
+      "2023-11": [
+        39,
+        24,
+        14,
+        24,
+        8,
+        9,
+        11,
+        8,
+        8,
+        4
+      ],
+      "2023-12": [
+        51,
+        24,
+        18,
+        28,
+        4,
+        12,
+        11,
+        14,
+        10,
+        4
+      ],
+      "2024-01": [
+        40,
+        16,
+        17,
+        21,
+        5,
+        10,
+        10,
+        4,
+        10,
+        3
+      ],
+      "2024-02": [
+        52,
+        26,
+        15,
+        22,
+        7,
+        11,
+        6,
+        8,
+        11,
+        3
+      ],
+      "2024-03": [
+        52,
+        23,
+        10,
+        20,
+        2,
+        11,
+        8,
+        13,
+        10,
+        0
+      ],
+      "2024-04": [
+        42,
+        29,
+        12,
+        14,
+        5,
+        11,
+        3,
+        4,
+        8,
+        1
+      ],
+      "2024-05": [
+        45,
+        27,
+        21,
+        30,
+        5,
+        11,
+        6,
+        9,
+        6,
+        5
+      ],
+      "2024-06": [
+        48,
+        21,
+        5,
+        26,
+        5,
+        9,
+        6,
+        12,
+        6,
+        3
+      ],
+      "2024-07": [
+        54,
+        29,
+        25,
+        21,
+        4,
+        13,
+        9,
+        10,
+        8,
+        2
+      ],
+      "2024-08": [
+        41,
+        18,
+        19,
+        15,
+        2,
+        6,
+        6,
+        13,
+        12,
+        4
+      ],
+      "2024-09": [
+        54,
+        25,
+        13,
+        21,
+        5,
+        16,
+        11,
+        10,
+        7,
+        1
+      ],
+      "2024-10": [
+        46,
+        24,
+        15,
+        33,
+        4,
+        17,
+        11,
+        15,
+        11,
+        2
+      ],
+      "2024-11": [
+        45,
+        28,
+        10,
+        29,
+        3,
+        13,
+        6,
+        3,
+        6,
+        7
+      ],
+      "2024-12": [
+        56,
+        29,
+        21,
+        30,
+        8,
+        14,
+        5,
+        12,
+        10,
+        3
+      ],
+      "2025-01": [
+        52,
+        21,
+        18,
+        18,
+        6,
+        9,
+        4,
+        7,
+        4,
+        4
+      ],
+      "2025-02": [
+        52,
+        17,
+        10,
+        23,
+        5,
+        14,
+        11,
+        7,
+        6,
+        3
+      ],
+      "2025-03": [
+        49,
+        25,
+        14,
+        26,
+        3,
+        9,
+        12,
+        24,
+        10,
+        9
+      ],
+      "2025-04": [
+        51,
+        28,
+        18,
+        26,
+        3,
+        8,
+        7,
+        10,
+        11,
+        3
+      ],
+      "2025-05": [
+        43,
+        26,
+        24,
+        28,
+        4,
+        10,
+        10,
+        8,
+        7,
+        5
+      ],
+      "2025-06": [
+        42,
+        24,
+        17,
+        24,
+        7,
+        11,
+        4,
+        10,
+        9,
+        3
+      ],
+      "2025-07": [
+        58,
+        26,
+        19,
+        29,
+        9,
+        12,
+        5,
+        15,
+        8,
+        8
+      ],
+      "2025-08": [
+        51,
+        22,
+        20,
+        32,
+        9,
+        11,
+        10,
+        12,
+        4,
+        6
+      ],
+      "2025-09": [
+        29,
+        11,
+        12,
+        13,
+        4,
+        7,
+        5,
+        4,
+        10,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Finiteness and purity of subcategories of the module categories",
+          "year": "2022-03",
+          "abstract": "In this paper, by using functor rings and functor categories, we study\nfiniteness and purity of subcategories of the module categories. We give a\ncharacterisation of contravariantly finite resolving subcategories of the\nmodule category of finite representation type in terms of their functor rings.\nWe also characterize contravariantly finite resolving subcategories of the\nmodule category $\\Lambda${\\rm -mod} that contain the Jacobson radical of\n$\\Lambda$ of finite type, by their functor categories. We study the pure\nsemisimplicity conjecture for a locally finitely presented category\n${\\underrightarrow{\\lim}}\\mathscr{X}$ when $\\mathscr{X}$ is a covariantly\nfinite subcategory of $\\Lambda$-mod and every simple object in\nMod$(\\mathscr{X}^{\\rm op})$ is finitely presented and give a characterization\nof covariantly finite subcategories of finite representation type in terms of\ndecomposition properties of their closure under filtered colimits. As a\nconsequence we study finiteness and purity of $n$-cluster tilting subcategories\nand the subcategory of the Gorenstein projective modules of the module\ncategories. These results extend and unify some known results.",
+          "arxiv_id": "2203.03294v1"
+        },
+        {
+          "title": "Extending ($τ$-)tilting subcategories and (co)silting modules",
+          "year": "2022-08",
+          "abstract": "Let $B$ be a finite dimensional algebra and $A=B[P_0]$ be the one-point\nextension algebra of $B$ with respect to the finitely generated projective\n$B$-module $P_0$. The categories of $B$-modules and $A$-modules are related by\ntwo adjoint functors $\\mathcal{R}$ and $\\mathcal{E}$, called the restriction\nand the extension functors, respectively. Based on the nice homological\nproperties of these two functors, restriction and extension of some notions\nsuch as tilting and $\\tau$-tilting modules have been studied in the category of\nfinitely presented modules, i.e. small mod. In this paper, we investigate the\nbehaviour of tilting and support $\\tau$-tilting subcategories with respect to\nthese two functors. Moreover, we investigate the restriction and the extension\nof special related modules such as finendo quasi-tilting modules, silting\nmodules, and cosilting modules. Our studies will be done in the category of all\nmodules, which will be called large Mod. Based on such study, in addition to\nthe new results, classical results are extended, not only from modules to\nsubcategories but also from small mod to large Mod.",
+          "arxiv_id": "2208.12703v1"
+        },
+        {
+          "title": "Support $τ$-tilting subcategories in exact categories",
+          "year": "2023-01",
+          "abstract": "Let $\\mathcal{E}=(\\mathcal{A},\\mathcal{S})$ be an exact category with enough\nprojectives $\\mathcal{P}$. We introduce the notion of support $\\tau$-tilting\nsubcategories of $\\mathcal{E}$. It is compatible with existing definitions of\nsupport $\\tau$-tilting modules (subcategories) in various context. It is also a\ngeneralization of tilting subcategories of exact categories. We show that there\nis a bijection between support $\\tau$-tilting subcategories and certain\n$\\tau$-cotorsion pairs. Given a support $\\tau$-tilting subcategory\n$\\mathcal{T}$, we find a subcategory $\\mathcal{E}_{\\mathcal{T}}$ of\n$\\mathcal{E}$ which is an exact category and $\\mathcal{T}$ is a tilting\nsubcategory of $\\mathcal{E}_{\\mathcal{T}}$. If $\\mathcal{E}$ is Krull-Schmidt,\nwe prove the cardinal $|\\mathcal{T}|$ is equal to the number of isomorphism\nclasses of indecomposable projectives $Q$ such that ${\\rm\nHom}_{\\mathcal{E}}(Q,\\mathcal{T})\\neq 0$. We also show a functorial version of\nBrenner-Butler's theorem.",
+          "arxiv_id": "2301.10437v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Generalized parafermions of orthogonal type",
+          "year": "2020-10",
+          "abstract": "There is an embedding of affine vertex algebras $V^k(\\mathfrak{gl}_n)\n\\hookrightarrow V^k(\\mathfrak{sl}_{n+1})$, and the coset $\\mathcal{C}^k(n) =\n\\text{Com}(V^k(\\mathfrak{gl}_n), V^k(\\mathfrak{sl}_{n+1}))$ is a natural\ngeneralization of the parafermion algebra of $\\mathfrak{sl}_2$. It was called\nthe algebra of generalized parafermions by the third author and was shown to\narise as a one-parameter quotient of the universal two-parameter\n$\\mathcal{W}_{\\infty}$-algebra of type $\\mathcal{W}(2,3,\\dots)$. In this paper,\nwe consider an analogous structure of orthogonal type, namely $\\mathcal{D}^k(n)\n= \\text{Com}(V^k(\\mathfrak{so}_{2n}),\nV^k(\\mathfrak{so}_{2n+1}))^{\\mathbb{Z}_2}$. We realize this algebra as a\none-parameter quotient of the two-parameter even spin\n$\\mathcal{W}_{\\infty}$-algebra of type $\\mathcal{W}(2,4,\\dots)$, and we\nclassify all coincidences between its simple quotient $\\mathcal{D}_k(n)$ and\nthe algebras $\\mathcal{W}_{\\ell}(\\mathfrak{so}_{2m+1})$ and\n$\\mathcal{W}_{\\ell}(\\mathfrak{so}_{2m})^{\\mathbb{Z}_2}$. As a corollary, we\nshow that for the admissible levels $k = -(2n-2) + \\frac{1}{2} (2 n + 2 m -1)$\nfor $\\widehat{\\mathfrak{so}}_{2n}$ the simple affine algebra\n$L_k(\\mathfrak{so}_{2n})$ embeds in $L_k(\\mathfrak{so}_{2n+1})$, and the coset\nis strongly rational. As a consequence, the category of ordinary modules of\n$L_k(\\mathfrak{so}_{2n+1})$ at such a level is a braided fusion category.",
+          "arxiv_id": "2010.02303v2"
+        },
+        {
+          "title": "Simple weight modules for Yangian $\\operatorname{Y}(\\mathfrak{sl}_{2})$",
+          "year": "2022-07",
+          "abstract": "Let $\\mathfrak{g}$ be a finite-dimensional simple Lie algebra over\n$\\mathbb{C}$. A $\\operatorname{Y}(\\mathfrak{g})$-module is said to be weight if\nit is a weight $\\mathfrak{g}$-module. We give a complete classification of\nsimple weight modules for $\\operatorname{Y}(\\mathfrak{sl}_2)$ which admits a\none-dimensional weight space. We prove that there are four classes of such\nmodules: finite, highest weight, lowest weight and dense modules. Different\nfrom the classical $\\mathfrak{sl}_{2}$ representation theory, we show that\nthere exist a class of $\\operatorname{Y}(\\mathfrak{sl}_{2})$ irreducible\nmodules which have uniformly 2-dimensional weight spaces.",
+          "arxiv_id": "2207.04432v2"
+        },
+        {
+          "title": "Lie algebra modules which are locally finite over the semi-simple part",
+          "year": "2020-01",
+          "abstract": "For a finite-dimensional Lie algebra $\\mathfrak{L}$ over $\\mathbb{C}$ with a\nfixed Levi decomposition $\\mathfrak{L} = \\mathfrak{g} \\oplus \\mathfrak{r}$\nwhere $\\mathfrak{g}$ is semi-simple, we investigate $\\mathfrak{L}$-modules\nwhich decompose, as $\\mathfrak{g}$-modules, into a direct sum of simple\nfinite-dimensional $\\mathfrak{g}$-modules with finite multiplicities. We call\nsuch modules $\\mathfrak{g}$-Harish-Chandra modules. We give a complete\nclassification of simple $\\mathfrak{g}$-Harish-Chandra modules for the Takiff\nLie algebra associated to $\\mathfrak{g} = \\mathfrak{sl}_2$, and for the\nSchr\\\"{o}dinger Lie algebra, and obtain some partial results in other cases. An\nadapted version of Enright's and Arkhipov's completion functors plays a crucial\nrole in our arguments. Moreover, we calculate the first extension groups of\ninfinite-dimensional simple $\\mathfrak{g}$-Harish-Chandra modules and their\nannihilators in the universal enveloping algebra, for the Takiff\n$\\mathfrak{sl}_2$ and the Schr\\\"{o}dinger Lie algebra. In the general case, we\ngive a sufficient condition for the existence of infinite-dimensional simple\n$\\mathfrak{g}$-Harish-Chandra modules.",
+          "arxiv_id": "2001.02967v3"
+        }
+      ],
+      "2": [
+        {
+          "title": "Conjectures and results on modular representations of $\\mathrm{GL}_n(K)$ for a $p$-adic field $K$",
+          "year": "2021-02",
+          "abstract": "Let $p$ be a prime number and $K$ a finite extension of $\\mathbb{Q}_p$. We\nstate conjectures on the smooth representations of $\\mathrm{GL}_n(K)$ that\noccur in spaces of mod $p$ automorphic forms (for compact unitary groups). In\nparticular, when $K$ is unramified, we conjecture that they are of finite\nlength and predict their internal structure (extensions, form of subquotients)\nfrom the structure of a certain algebraic representation of $\\mathrm{GL}_n$.\nWhen $n=2$ and $K$ is unramified, we prove several cases of our conjectures,\nincluding new finite length results.",
+          "arxiv_id": "2102.06188v4"
+        },
+        {
+          "title": "On branching laws of Speh representations",
+          "year": "2021-10",
+          "abstract": "In this paper, we consider the branching law of the Speh representation\n$\\mathrm{Sp}(\\pi,n+l)$ of $\\mathrm{GL}_{2n+2l}$ with respect to the block\ndiagonal subgroup $\\mathrm{GL}_n\\times\\mathrm{GL}_{n+2l}$ for any irreducible\ngeneric representation $\\pi$ of $\\mathrm{GL}_2$ over any $p$-adic field. We use\nthe Shalika model of $\\mathrm{Sp}(\\pi,n)$ to construct certain zeta integrals,\nwhich were defined by Ginzburg and Kaplan independently, and study them.\nFinally, using these zeta integrals, we obtain a nonzero\n$\\mathrm{GL}_n\\times\\mathrm{GL}_{n+2l}$-map from $\\mathrm{Sp}(\\pi,n+l)$ to\n$\\tau\\boxtimes\\tau^\\vee\\chi_\\pi\\times\\mathrm{Sp}(\\pi, l)$ for any irreducible\nrepresentation $\\tau$ of $\\mathrm{GL}_n$. These results form part of the local\ntheory of the Miyawaki lifting for unitary groups.",
+          "arxiv_id": "2110.14145v2"
+        },
+        {
+          "title": "Modulo $\\ell$ distinction problems",
+          "year": "2022-03",
+          "abstract": "Let $F$ be a non-archimedean local field of characteristic different from 2\nand residual characteristic $p$. This paper concerns the $\\ell$-modular\nrepresentations of a connected reductive group $G$ distinguished by a Galois\ninvolution, with $\\ell$ an odd prime different from $p$. We start by proving a\ngeneral theorem allowing to lift supercuspidal\n$\\overline{\\mathbb{F}}_{\\ell}$-representations of $\\mathrm{GL}_n(F)$\ndistinguished by an arbitrary closed subgroup $H$ to a distinguished\nsupercuspidal $\\overline{\\mathbb{Q}}_{\\ell}$-representation. Given a quadratic\nfield extension $E/F$ and an irreducible\n$\\overline{\\mathbb{F}}_{\\ell}$-representation $\\pi$ of $\\mathrm{GL}_n(E)$, we\nverify the Jacquet conjecture in the modular setting that if the Langlands\nparameter $\\phi_\\pi$ is irreducible and conjugate-self-dual, then $\\pi$ is\neither $\\mathrm{GL}_n(F)$-distinguished or\n$(\\mathrm{GL}_n(F),\\omega_{E/F})$-distinguished (where $\\omega_{E/F}$ is the\nquadratic character of $F^\\times$ associated to the quadratic field extension\n$E/F$ by the local class field theory), but not both, which extends one result\nof S\\'echerre to the case $p=2$. We give another application of our lifting\ntheorem for supercuspidal representations distinguished by a unitary\ninvolution, extending one result of Zou to $p=2$.\n  After that, we give a complete classification of the\n$\\mathrm{GL}_2(F)$-distinguished representations of $\\mathrm{GL}_2(E)$. Using\nthis classification we discuss a modular version of the Prasad conjecture for\n$\\mathrm{PGL}_2$. We show that the \"classical\" Prasad conjecture fails in the\nmodular setting. We propose a solution using non-nilpotent Weil-Deligne\nrepresentations. Finally, we apply the restriction method of Anandavardhanan\nand Prasad to classify the $\\mathrm{SL}_2(F)$-distinguished modular\nrepresentations of $\\mathrm{SL}_2(E)$.",
+          "arxiv_id": "2203.14788v4"
+        }
+      ],
+      "3": [
+        {
+          "title": "Common zeros of irreducible characters",
+          "year": "2023-04",
+          "abstract": "We study the zero-sharing behavior among irreducible characters of a finite\ngroup. For symmetric groups $S_n$, it is proved that, with one exception, any\ntwo irreducible characters have at least one common zero. To further explore\nthis phenomenon, we introduce the common-zero graph of a finite group $G$, with\nnon-linear irreducible characters of $G$ as vertices, and edges connecting\ncharacters that vanish on some common group element. We show that for solvable\nand simple groups, the number of connected components of this graph is bounded\nabove by 3. Lastly, the result for $S_n$ is applied to prove the\nnon-equivalence of the metrics on permutations induced from faithful\nirreducible characters of the group.",
+          "arxiv_id": "2304.12253v1"
+        },
+        {
+          "title": "Extensions of characters in type D and the inductive McKay condition, II",
+          "year": "2023-04",
+          "abstract": "We determine the action of the outer automorphism group Out$(G)$ on the set\nof irreducible characters Irr$(G)$ for all finite quasi-simple groups $G$. For\ngroups of Lie type, this includes the construction of an Out$(G)$-equivariant\nJordan decomposition of characters (Theorem B). We also prove an extendibility\nstatement, called condition $A(\\infty)$, see Theorem A. Among the methods used\nhere in the case of groups of type D and $^2$D, we blend the Shintani descent\nideas introduced in [CS19, \\S~3] and an analysis of semisimple classes in the\ndual group $G^*$ from [CS22]. This enables us to control the action of graph\nand field automorphisms within Lusztig's rational series of characters and to\ncount extendible characters. Condition $A(\\infty)$ originates in the program to\nprove the McKay conjecture using the classification of finite simple groups,\nsee [IMN07]. Using the local results from [MS16], our main theorem implies the\nMcKay conjecture for the prime 3 and all finite groups.",
+          "arxiv_id": "2304.07373v1"
+        },
+        {
+          "title": "On almost $p$-rational characters of $p'$-degree",
+          "year": "2021-04",
+          "abstract": "Let $p$ be a prime and $G$ a finite group. A complex character of $G$ is\ncalled almost $p$-rational if its values belong to a cyclotomic field\n$\\mathbb{Q}(e^{2\\pi i/n})$ for some $n\\in \\mathbb{Z}^+$ prime to $p$ or\nprecisely divisible by $p$. We prove that, in contrast to usual $p$-rational\ncharacters, there are always \"many\" almost $p$-rational irreducible characters\nin finite groups. We obtain both explicit and asymptotic bounds for the number\nof almost $p$-rational irreducible characters of $G$ in terms of $p$. In fact,\nmotivated by the McKay-Navarro conjecture, we obtain the same bound for the\nnumber of such characters of $p'$-degree and prove that, in the minimal\nsituation, the number of almost $p$-rational irreducible $p'$-characters of $G$\ncoincides with that of $N_G(P)$ for $P\\in\\mathrm{Syl}_p(G)$. Lastly, we propose\na new way to detect the cyclicity of Sylow $p$-subgroups of a finite group $G$\nfrom its character table, using almost $p$-rational irreducible $p'$-characters\nand the blockwise refinement of the McKay-Navarro conjecture.",
+          "arxiv_id": "2104.02994v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Subelliptic pseudo-differential operators and Fourier integral operators on compact Lie groups",
+          "year": "2020-08",
+          "abstract": "In this memoir we extend the theory of global pseudo-differential operators\nto the setting of arbitrary sub-Riemannian structures on a compact Lie group.\nMore precisely, given a compact Lie group $G$, and the sub-Laplacian\n$\\mathcal{L}$ associated to a system of vector fields $X=\\{X_1,\\cdots,X_k\\}$\nsatisfying the H\\\"ormander condition, we introduce a (subelliptic)\npseudo-differential calculus associated to $\\mathcal{L},$ based on the\nmatrix-valued quantisation process developed in [138]. This theory will be\ndeveloped as follows. First, we will investigate the singular kernels of this\ncalculus, estimates of $L^p$-$L^p$, $H^1$-$L^1$, $L^\\infty$-$BMO$ type and also\nthe weak (1,1) boundedness of these subelliptic H\\\"ormander classes. Between\nthe obtained estimates we prove subelliptic versions of the celebrated sharp\nFefferman $L^p$-theorem and the Calder\\'on-Vaillancourt theorem. The obtained\nestimates will be used to establish the boundedness of subelliptic operators on\nsubelliptic Sobolev and Besov spaces. We will investigate the ellipticity, the\nconstruction of parametrices, the heat traces and the regularisation of traces\nfor the developed subelliptic calculus. A subelliptic global functional\ncalculus will be established as well as a subelliptic version of Hulanicki\ntheorem. The approach established in characterising our subelliptic H\\\"ormander\nclasses (by proving that the definition of these classes is independent of\ncertain parameters) will be also applied in order to characterise the global\nH\\\"ormander classes on arbitrary graded Lie groups developed in [90].",
+          "arxiv_id": "2008.09651v3"
+        },
+        {
+          "title": "Fourier multipliers for Triebel-Lizorkin spaces on compact Lie groups",
+          "year": "2021-01",
+          "abstract": "We investigate the boundedness of Fourier multipliers on a compact Lie group\nwhen acting on Triebel-Lizorkin spaces. Criteria are given in terms of the\nH\\\"ormander-Mihlin-Marcinkiewicz condition. In our analysis, we use the\ndifference structure of the unitary dual of a compact Lie group. Our results\ncover the sharp H\\\"ormander-Mihlin theorem on Lebesgue spaces and also other\nhistorical results on the subject.",
+          "arxiv_id": "2101.12314v2"
+        },
+        {
+          "title": "Factorization and boundedness for representations of locally compact groups on topological vector spaces",
+          "year": "2023-12",
+          "abstract": "We (a) prove that continuous morphisms from locally compact groups to locally\nexponential (possibly infinite-dimensional) Lie groups factor through Lie\nquotients, recovering a result of Shtern's on factoring norm-continuous\nrepresentations on Banach spaces; (b) characterize the maximal\nalmost-periodicity of the identity component $\\mathbb{G}_0\\le \\mathbb{G}$ of a\nlocally compact group in terms of sufficiently discriminating families of\ncontinuous functions on $\\mathbb{G}$ valued in Hausdorff spaces generalizing an\nanalogous result by Kadison-Singer; (c) apply that characterization to recover\nthe von Neumann kernel of $\\mathbb{G}_0$ as the joint kernel of all\nappropriately bounded and continuous $\\mathbb{G}$-representations on\ntopological vector spaces extending Kallman's parallel statement for unitary\nrepresentations, and (d) provide large classes of complete locally convex\ntopological vector spaces (e.g. arbitrary products of Fr\\'echet spaces) with\nthe property that compact-group representations thereon whose vectors all have\nfinite-dimensional orbits decompose as finite sums of isotypic components. This\nlast result specializes to one of Hofmann-Morris on representations on products\nof real lines.",
+          "arxiv_id": "2312.12975v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Categories of generalized thread quivers",
+          "year": "2024-10",
+          "abstract": "We study the representation category of thread quivers and their quotients. A\nthread quiver is a quiver in which some arrows have been replaced by totally\nordered sets. Pointwise finite-dimensional (pwf) representations of such a\nthread quiver admit a Krull-Remak-Schmidt-Azumaya decomposition. We show that\nan indecomposable representation is induced from an indecomposable\nrepresentation of a quiver obtained from the original quiver by replacing some\nof its arrows by a finite linear $\\mathbb{A}_n$ quiver. We study injective and\nprojective pwf indecomposable representations and we fully classify them when\nthe quiver satisfies a mild condition. We give a characterization of the\nindecomposable pwf representations of certain categories whose representation\ntheory has similar properties to finite type or tame type. We further construct\nnew hereditary abelian categories, including a Serre subcategory of pwf\nrepresentations that includes every indecomposable representation.",
+          "arxiv_id": "2410.14656v2"
+        },
+        {
+          "title": "Coefficient Quivers, $\\mathbb{F}_1$-Representations, and Euler Characteristics of Quiver Grassmannians",
+          "year": "2021-12",
+          "abstract": "A quiver representation assigns a vector space to each vertex, and a linear\nmap to each arrow. When one considers the category\n$\\textrm{Vect}(\\mathbb{F}_1)$ of vector spaces ``over $\\mathbb{F}_1$'' (the\nfield with one element), one obtains $\\mathbb{F}_1$-representations of a\nquiver. In this paper, we study representations of a quiver over the field with\none element in connection to coefficient quivers. To be precise, we prove that\nthe category $\\textrm{Rep}(Q,\\mathbb{F}_1)$ is equivalent to the (suitably\ndefined) category of coefficient quivers over $Q$. This provides a conceptual\nway to see Euler characteristics of a class of quiver Grassmannians as the\nnumber of ``$\\mathbb{F}_1$-rational points'' of quiver Grassmannians. We\ngeneralize techniques originally developed for string and band modules to\ncompute the Euler characteristics of quiver Grassmannians associated to\n$\\mathbb{F}_1$-representations. These techniques apply to a large class of\n$\\mathbb{F}_1$-representations, which we call the\n$\\mathbb{F}_1$-representations with finite nice length: we prove sufficient\nconditions for an $\\mathbb{F}_1$-representation to have finite nice length, and\nclassify such representations for certain families of quivers. Finally, we\nexplore the Hall algebras associated to $\\mathbb{F}_1$-representations of\nquivers. We answer the question of how a change in orientation affects the Hall\nalgebra of nilpotent $\\mathbb{F}_1$-representations of a quiver with bounded\nrepresentation type. We also discuss Hall algebras associated to\nrepresentations with finite nice length, and compute them for certain families\nof quivers.",
+          "arxiv_id": "2112.06291v2"
+        },
+        {
+          "title": "On the Combinatorics of $\\mathbb{F}_1$-Representations of Pseudotree Quivers",
+          "year": "2023-01",
+          "abstract": "We investigate quiver representations over $\\mathbb{F}_1$. Coefficient\nquivers are combinatorial gadgets equivalent to $\\mathbb{F}_1$-representations\nof quivers. We focus on the case when the quiver $Q$ is a pseudotree. For such\nquivers, we first use the notion of coefficient quivers to provide a complete\nclassification of asymptotic behaviors of indecomposable representations over\n$\\mathbb{F}_1$. Then, we prove some fundamental structural results about the\nLie algebras associated to pseudotrees. Finally, we construct examples of\n$\\mathbb{F}_1$-representations $M$ of a quiver $Q$ by using coverings, under\nwhich the Euler characteristics of the quiver Grassmannians\n$\\textrm{Gr}^Q_{\\underline{d}}(M)$ can be computed in a purely combinatorial\nway.",
+          "arxiv_id": "2301.07221v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Mirror symmetry for 4d $A_1$ class-$\\mathcal{S}$ theories: modularity, defects and Coulomb branch",
+          "year": "2024-12",
+          "abstract": "This is the companion paper of the letter arXiv:2410.15695, containing all\nthe details and series of examples on a 4d mirror symmetry for the\nclass-$\\mathcal{S}$ theories which relates the representation theory of the\nchiral quantization of the Higgs branch and the geometry of the Coulomb branch.\nWe study the representation theory by using the 4d/VOA correspondence, (defect)\nSchur indices and (flavor) modular differential equations, and match the data\nwith the fixed manifolds of the Hitchin moduli spaces. This correspondence\nextends the connection between Higgs and Coulomb branch of Argyres-Douglas\ntheories, and can provide systematic guidance for the study of the\nrepresentation theory of vertex operator algebras by exploiting results from\nHitchin systems.",
+          "arxiv_id": "2412.03155v1"
+        },
+        {
+          "title": "Mirror symmetry for circle compactified 4d $A_1$ class-$S$ theories",
+          "year": "2024-10",
+          "abstract": "In this letter, we propose a 4d mirror symmetry for the class-$\\mathcal{S}$\ntheories which relates the representation theory of the chiral quantization of\nthe Higgs branch and the geometry of the Coulomb branch. We study the\nrepresentation theory by using the 4d/VOA correspondence, (defect) Schur\nindices and (flavor) modular differential equations, and match the data with\nthe fixed manifolds of the Hitchin moduli spaces. This correspondence extends\nthe connection between Higgs and Coulomb branch of Argyres-Douglas theories,\nand can provide systematic guidance for the study of the representation theory\nof vertex operator algebras by exploiting results from Hitchin systems.",
+          "arxiv_id": "2410.15695v1"
+        },
+        {
+          "title": "Mirror symmetry for circle compactified 4d $\\mathcal{N}=2$ SCFTs",
+          "year": "2023-06",
+          "abstract": "We propose a mirror symmetry for 4d $\\mathcal{N}=2$ superconformal field\ntheories (SCFTs) compactified on a circle with finite size. The mirror symmetry\ninvolves vertex operator algebra (VOA) describing the Schur sector (containing\nHiggs branch) of 4d theory, and the Coulomb branch of the effective 3d theory.\nThe basic feature of the mirror symmetry is that many representational\nproperties of VOA are matched with geometric properties of the Coulomb branch\nmoduli space. Our proposal is verified for a large class of Argyres-Douglas\n(AD) theories engineered from M5 branes, whose VOAs are W-algebras, and Coulomb\nbranches are the Hitchin moduli spaces. VOA data such as simple modules, Zhu's\nalgebra, and modular properties are matched with geometric properties like\n$\\mathbb{C}^*$-fixed varieties in Hitchin fibers, cohomologies, and some DAHA\nrepresentations. We also mention relationships to 3d symplectic duality.",
+          "arxiv_id": "2306.15214v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "The $L_\\infty$-deformations of associative Rota-Baxter algebras and homotopy Rota-Baxter operators",
+          "year": "2020-08",
+          "abstract": "A relative Rota-Baxter algebra is a triple $(A, M, T)$ consisting of an\nalgebra $A$, an $A$-bimodule $M$, and a relative Rota-Baxter operator $T$.\nUsing Voronov's derived bracket and a recent work of Lazarev et al., we\nconstruct an $L_\\infty [1]$-algebra whose Maurer-Cartan elements are precisely\nrelative Rota-Baxter algebras. By a standard twisting, we define a new\n$L_\\infty [1]$-algebra that controls Maurer-Cartan deformations of a relative\nRota-Baxter algebra $(A,M,T)$. We introduce the cohomology of a relative\nRota-Baxter algebra $(A, M, T)$ and study infinitesimal deformations in terms\nof this cohomology (in low dimensions). As an application, we deduce cohomology\nof coboundary skew-symmetric infinitesimal bialgebras and discuss their\ninfinitesimal deformations. Finally, we define homotopy relative Rota-Baxter\noperators and find their relationship with homotopy dendriform algebras and\nhomotopy pre-Lie algebras.",
+          "arxiv_id": "2008.11076v2"
+        },
+        {
+          "title": "Representations and cohomologies of relative Rota-Baxter Lie algebras and applications",
+          "year": "2021-08",
+          "abstract": "In this paper, first we give the notion of a representation of a relative\nRota-Baxter Lie algebra and introduce the cohomologies of a relative\nRota-Baxter Lie algebra with coefficients in a representation. Then we classify\nabelian extensions of relative Rota-Baxter Lie algebras using the second\ncohomology group, and classify skeletal relative Rota-Baxter Lie 2-algebras\nusing the third cohomology group as applications. At last, using the\nestablished general framework of representations and cohomologies of relative\nRota-Baxter Lie algebras, we give the notion of representations of Rota-Baxter\nLie algebras, which is consistent with representations of Rota-Baxter\nassociative algebras in the literature, and introduce the cohomologies of\nRota-Baxter Lie algebras with coefficients in a representation. Applications\nare also given to classify abelian extensions of Rota-Baxter Lie algebras and\nskeletal Rota-Baxter Lie 2-algebras.",
+          "arxiv_id": "2108.08294v1"
+        },
+        {
+          "title": "Bialgebras, Frobenius algebras and associative Yang-Baxter equations for Rota-Baxter algebras",
+          "year": "2021-12",
+          "abstract": "Rota-Baxter operators and bialgebras go hand in hand in their applications,\nsuch as in the Connes-Kreimer approach to renormalization and the operator\napproach to the classical Yang-Baxter equation. We establish a bialgebra\nstructure that is compatible with the Rota-Baxter operator, called the\nRota-Baxter antisymmetric infinitesimal (ASI) bialgebra. This bialgebra is\ncharacterized by generalizations of matched pairs of algebras and double\nconstructions of Frobenius algebras to the context of Rota-Baxter algebras. The\nstudy of the coboundary case leads to an enrichment of the associative\nYang-Baxter equation (AYBE) to Rota-Baxter algebras. Antisymmetric solutions of\nthe equation are used to construct Rota-Baxter ASI bialgebras. The notions of\nan $\\mathcal{O}$-operator on a Rota-Baxter algebra and a Rota-Baxter dendriform\nalgebra are also introduced to produce solutions of the AYBE in Rota-Baxter\nalgebras and thus to provide Rota-Baxter ASI bialgebras. An unexpected\nbyproduct is that a Rota-Baxter ASI bialgebra of weight zero gives rise to a\nquadri-bialgebra instead of bialgebra constructions for the dendriform algebra.",
+          "arxiv_id": "2112.10928v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "Toric reflection groups",
+          "year": "2021-12",
+          "abstract": "Several finite complex reflection groups have a braid group which is\nisomorphic to a torus knot group. The reflection group is obtained from the\ntorus knot group by declaring meridians to have order $k$ for some $k\\geq 2$,\nand meridians are mapped to reflections. We study all possible quotients of\ntorus knot groups obtained by requiring meridians to have finite order. Using\nthe theory of $J$-groups of Achar and Aubert, we show that these groups behave\nlike (in general infinite) complex reflection groups of rank two. The large\nfamily of \"toric reflection groups\" which we obtain includes, among others, all\nfinite complex reflection groups of rank two with a single conjugacy class of\nreflecting hyperplanes, as well as Coxeter's truncations of the $3$-strand\nbraid group. We classify these toric reflection groups and explain why the\ncorresponding torus knot group can be naturally considered as its braid group.\nIn particular, this yields a new infinite family of reflection-like groups\nadmitting a braid group which is a Garside group. Moreover, we show that a\ntoric reflection group has cyclic center by showing that the quotient by the\ncenter is isomorphic to the alternating subgroup of a Coxeter group of rank\nthree. To this end we use the fact that the center of the alternating subgroup\nof an irreducible, infinite Coxeter group of rank at least three is trivial.\nSeveral ingredients of the proofs are purely Coxeter-theoretic, and might be of\nindependent interest.",
+          "arxiv_id": "2112.03856v2"
+        },
+        {
+          "title": "A Combinatorial Generalisation of Rank two Complex Reflection Groups via Generators and Relations",
+          "year": "2024-04",
+          "abstract": "Complex reflection groups of rank two are precisely the finite groups in the\nfamily of groups that we call J-reflection groups. These groups are particular\ncases of J-groups as defined by Achar & Aubert in 2008. The family of\nJ-reflection groups generalises both complex reflection groups of rank two and\ntoric reflection groups, a family of groups defined and studied by Gobet. We\ngive uniform presentations by generators and relations of J-reflection groups,\nwhich coincide with the presentations given by Brou\\'e, Malle and Rouquier when\nthe groups are finite. In particular, these presentations provide uniform\npresentations for complex reflection groups of rank two where the generators\nare reflections (however the proof uses the classification of irreducible\ncomplex reflection groups). Moreover, we show that the center of J-reflection\ngroups is cyclic, generalising what happens for irreducible complex reflection\ngroups of rank two and toric reflection groups. Finally, we classify\nJ-reflection groups up to reflection isomorphisms.",
+          "arxiv_id": "2404.18277v3"
+        },
+        {
+          "title": "Braid groups of J-reflection groups and associated classical and dual Garside structures",
+          "year": "2024-10",
+          "abstract": "The family of $J$-reflection groups can be seen as a combinatorial\ngeneralisation of irreducible rank two complex reflection groups and was\nintroduced by the author in a previous article. In this article, we define the\nbraid groups associated to $J$-reflection groups, which coincide with the\ncomplex braid group when the $J$-reflection group is finite. We show that the\nisomorphism type of the braid groups only depend on the reflection isomorphism\ntypes of the corresponding $J$-reflection groups. Moreover, we show that these\nbraid groups are always abstractly isomorphic to circular groups. At the same\ntime, we show that the center of the braid groups is cyclic and sent onto the\ncenter of the corresponding $J$-reflection groups under the natural quotient.\nFinally, we exhibit two Garside structures for each braid group of\n$J$-reflection group. These structures generalise the classical and dual\nGarside structures (when defined) of rank two irreducible complex reflection\ngroups. In particular, the dual Garside structure of $J$-reflection groups\nprovides candidates for dual monoids associated to the irreducible complex\nreflection groups of rank two which do not already have one.",
+          "arxiv_id": "2410.18828v2"
+        }
+      ],
+      "9": [
+        {
+          "title": "Explicit non-free tensors",
+          "year": "2025-03",
+          "abstract": "Free tensors are tensors which, after a change of bases, have free support:\nany two distinct elements of its support differ in at least two coordinates.\nThey play a distinguished role in the theory of bilinear complexity, in\nparticular in Strassen's duality theory for asymptotic rank. Within the context\nof quantum information theory, where tensors are interpreted as multiparticle\nquantum states, freeness corresponds to a type of multiparticle Schmidt\ndecomposition. In particular, if a state is free in a given basis, the reduced\ndensity matrices are diagonal. Although generic tensors in $\\mathbb{C}^n\n\\otimes \\mathbb{C}^n \\otimes \\mathbb{C}^n$ are non-free for $n \\geq 4$ by\nparameter counting, no explicit non-free tensors were known until now. We solve\nthis hay in a haystack problem by constructing explicit tensors that are\nnon-free for every $n \\geq 3$. In particular, this establishes that non-free\ntensors exist in $\\mathbb{C}^n \\otimes \\mathbb{C}^n \\otimes \\mathbb{C}^n$,\nwhere they are not generic.\n  To establish non-freeness, we use results from geometric invariant theory and\nthe theory of moment polytopes. In particular, we show that if a tensor $T$ is\nfree, then there is a tensor $S$ in the GL-orbit closure of $T$, whose support\nis free and whose moment map image is the minimum-norm point of the moment\npolytope of $T$. This implies a reduction for checking non-freeness from\narbitrary basis changes of $T$ to unitary basis changes of $S$. The unitary\nequivariance of the moment map can then be combined with the fact that tensors\nwith free support have diagonal moment map image, in order to further restrict\nthe set of relevant basis changes.",
+          "arxiv_id": "2503.22650v1"
+        },
+        {
+          "title": "On the complexity of isomorphism problems for tensors, groups, and polynomials III: actions by classical groups",
+          "year": "2023-06",
+          "abstract": "We study the complexity of isomorphism problems for d-way arrays, or tensors,\nunder natural actions by classical groups such as orthogonal, unitary, and\nsymplectic groups. Such problems arise naturally in statistical data analysis\nand quantum information. We study two types of complexity-theoretic questions.\nFirst, for a fixed action type (isomorphism, conjugacy, etc.), we relate the\ncomplexity of the isomorphism problem over a classical group to that over the\ngeneral linear group. Second, for a fixed group type (orthogonal, unitary, or\nsymplectic), we compare the complexity of the decision problems for different\nactions.\n  Our main results are as follows. First, for orthogonal and symplectic groups\nacting on 3-way arrays, the isomorphism problems reduce to the corresponding\nproblem over the general linear group. Second, for orthogonal and unitary\ngroups, the isomorphism problems of five natural actions on 3-way arrays are\npolynomial-time equivalent, and the d-tensor isomorphism problem reduces to the\n3-tensor isomorphism problem for any fixed d>3. For unitary groups, the\npreceding result implies that LOCC classification of tripartite quantum states\nis at least as difficult as LOCC classification of d-partite quantum states for\nany d. Lastly, we also show that the graph isomorphism problem reduces to the\ntensor isomorphism problem over orthogonal and unitary groups.",
+          "arxiv_id": "2306.03135v2"
+        },
+        {
+          "title": "Gelfand-Tsetlin basis for partially transposed permutations, with applications to quantum information",
+          "year": "2023-10",
+          "abstract": "We study representation theory of the partially transposed permutation matrix\nalgebra, a matrix representation of the diagrammatic walled Brauer algebra.\nThis algebra plays a prominent role in mixed Schur-Weyl duality that appears in\nvarious contexts in quantum information. Our main technical result is an\nexplicit formula for the action of the walled Brauer algebra generators in the\nGelfand-Tsetlin basis. It generalizes the well-known Gelfand-Tsetlin basis for\nthe symmetric group (also known as Young's orthogonal form or Young-Yamanouchi\nbasis).\n  We provide two applications of our result to quantum information. First, we\nshow how to simplify semidefinite optimization problems over\nunitary-equivariant quantum channels by performing a symmetry reduction.\nSecond, we derive an efficient quantum circuit for implementing the optimal\nport-based quantum teleportation protocol, exponentially improving the known\ntrivial construction. As a consequence, this also exponentially improves the\nknown lower bound for the amount of entanglement needed to implement unitaries\nnon-locally.\n  Both applications require a generalization of quantum Schur transform to\ntensors of mixed unitary symmetry. We develop an efficient quantum circuit for\nthis mixed quantum Schur transform and provide a matrix product state\nrepresentation of its basis vectors. For constant local dimension, this yields\nan efficient classical algorithm for computing any entry of the mixed quantum\nSchur transform unitary.",
+          "arxiv_id": "2310.02252v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:57:54Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

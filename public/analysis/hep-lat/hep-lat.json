@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_gauge_quantum_theory_lattice",
+        "keywords": [
+          [
+            "gauge",
+            0.032026945236969875
+          ],
+          [
+            "quantum",
+            0.03163881315903703
+          ],
+          [
+            "theory",
+            0.025838947152804867
+          ],
+          [
+            "lattice",
+            0.02557368525247611
+          ],
+          [
+            "model",
+            0.022191428823040746
+          ],
+          [
+            "theories",
+            0.019356699259563778
+          ],
+          [
+            "field",
+            0.017755392668854175
+          ],
+          [
+            "phase",
+            0.014405848437611076
+          ],
+          [
+            "dimensional",
+            0.014089163974446862
+          ],
+          [
+            "symmetry",
+            0.012995600196588403
+          ]
+        ],
+        "count": 2585
+      },
+      "1": {
+        "name": "1_lattice_QCD_lattice QCD_quark",
+        "keywords": [
+          [
+            "lattice",
+            0.025240000162920072
+          ],
+          [
+            "QCD",
+            0.02370086035760385
+          ],
+          [
+            "lattice QCD",
+            0.017455770845187932
+          ],
+          [
+            "quark",
+            0.016416657177304932
+          ],
+          [
+            "mass",
+            0.016149496659738586
+          ],
+          [
+            "form",
+            0.015265092334623469
+          ],
+          [
+            "results",
+            0.014951655905104543
+          ],
+          [
+            "scattering",
+            0.013575095306491525
+          ],
+          [
+            "pion",
+            0.01354178131694804
+          ],
+          [
+            "factors",
+            0.012414730812492591
+          ]
+        ],
+        "count": 1465
+      },
+      "2": {
+        "name": "2_QCD_temperature_chiral_quark",
+        "keywords": [
+          [
+            "QCD",
+            0.03699207360601282
+          ],
+          [
+            "temperature",
+            0.02803184320746788
+          ],
+          [
+            "chiral",
+            0.02485336312620459
+          ],
+          [
+            "quark",
+            0.023820539703483287
+          ],
+          [
+            "lattice",
+            0.02299903330762954
+          ],
+          [
+            "phase",
+            0.022889955493854836
+          ],
+          [
+            "transition",
+            0.019398819739729397
+          ],
+          [
+            "magnetic",
+            0.01714059406403762
+          ],
+          [
+            "chemical",
+            0.016784522966163045
+          ],
+          [
+            "order",
+            0.016576677923822086
+          ]
+        ],
+        "count": 768
+      },
+      "3": {
+        "name": "3_states_state_tetraquark_heavy",
+        "keywords": [
+          [
+            "states",
+            0.043157272154272334
+          ],
+          [
+            "state",
+            0.026653759387049177
+          ],
+          [
+            "tetraquark",
+            0.023361379299237563
+          ],
+          [
+            "heavy",
+            0.021979131117844632
+          ],
+          [
+            "meson",
+            0.021716519108767318
+          ],
+          [
+            "quark",
+            0.01974577682978645
+          ],
+          [
+            "sum",
+            0.01968366101587649
+          ],
+          [
+            "mass",
+            0.018882420321984818
+          ],
+          [
+            "decay",
+            0.01807664750626557
+          ],
+          [
+            "MeV",
+            0.01694784173879717
+          ]
+        ],
+        "count": 348
+      },
+      "4": {
+        "name": "4_distribution_parton_lattice_momentum",
+        "keywords": [
+          [
+            "distribution",
+            0.03723487413444114
+          ],
+          [
+            "parton",
+            0.03720862587660955
+          ],
+          [
+            "lattice",
+            0.03469848043704295
+          ],
+          [
+            "momentum",
+            0.03446314857136049
+          ],
+          [
+            "distributions",
+            0.02950046076812218
+          ],
+          [
+            "QCD",
+            0.02895800390446781
+          ],
+          [
+            "PDFs",
+            0.02375846339664245
+          ],
+          [
+            "GPDs",
+            0.022342219738633057
+          ],
+          [
+            "pion",
+            0.022219170612852567
+          ],
+          [
+            "quasi",
+            0.02092481204729084
+          ]
+        ],
+        "count": 284
+      },
+      "5": {
+        "name": "5_flow_gradient flow_gradient_Wilson",
+        "keywords": [
+          [
+            "flow",
+            0.10240050720979064
+          ],
+          [
+            "gradient flow",
+            0.07848234553931939
+          ],
+          [
+            "gradient",
+            0.0783239994175345
+          ],
+          [
+            "Wilson",
+            0.03326933883222726
+          ],
+          [
+            "gauge",
+            0.026805185414627588
+          ],
+          [
+            "renormalization",
+            0.02606988199563001
+          ],
+          [
+            "operators",
+            0.02412897081128238
+          ],
+          [
+            "lattice",
+            0.024071063822571338
+          ],
+          [
+            "operator",
+            0.021606824287012744
+          ],
+          [
+            "flow time",
+            0.02083077841710013
+          ]
+        ],
+        "count": 79
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.4567619662988972,
+        -0.37580028400724197,
+        -0.675190002452917,
+        -0.4869795007551153,
+        -0.6851480685878892
+      ],
+      [
+        -0.4567619662988972,
+        1.0,
+        -0.11070694468410629,
+        -0.6184050494263446,
+        -0.0377283017421461,
+        -0.7271275772371317
+      ],
+      [
+        -0.37580028400724197,
+        -0.11070694468410629,
+        1.0,
+        -0.6661921528220183,
+        -0.19928856824854668,
+        -0.7181837369611574
+      ],
+      [
+        -0.675190002452917,
+        -0.6184050494263446,
+        -0.6661921528220183,
+        1.0,
+        -0.682007211174648,
+        -0.7602571959641405
+      ],
+      [
+        -0.4869795007551153,
+        -0.0377283017421461,
+        -0.19928856824854668,
+        -0.682007211174648,
+        1.0,
+        -0.7228105277640975
+      ],
+      [
+        -0.6851480685878892,
+        -0.7271275772371317,
+        -0.7181837369611574,
+        -0.7602571959641405,
+        -0.7228105277640975,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        48,
+        16,
+        15,
+        7,
+        5,
+        6
+      ],
+      "2020-02": [
+        30,
+        11,
+        16,
+        5,
+        3,
+        2
+      ],
+      "2020-03": [
+        35,
+        11,
+        17,
+        9,
+        8,
+        4
+      ],
+      "2020-04": [
+        24,
+        15,
+        13,
+        6,
+        7,
+        5
+      ],
+      "2020-05": [
+        30,
+        13,
+        16,
+        2,
+        7,
+        5
+      ],
+      "2020-06": [
+        38,
+        7,
+        9,
+        4,
+        13,
+        2
+      ],
+      "2020-07": [
+        40,
+        7,
+        14,
+        8,
+        8,
+        4
+      ],
+      "2020-08": [
+        39,
+        6,
+        6,
+        12,
+        9,
+        2
+      ],
+      "2020-09": [
+        38,
+        10,
+        10,
+        10,
+        8,
+        4
+      ],
+      "2020-10": [
+        39,
+        13,
+        18,
+        3,
+        3,
+        2
+      ],
+      "2020-11": [
+        33,
+        4,
+        13,
+        8,
+        8,
+        7
+      ],
+      "2020-12": [
+        38,
+        9,
+        13,
+        7,
+        5,
+        3
+      ],
+      "2021-01": [
+        30,
+        11,
+        16,
+        7,
+        3,
+        3
+      ],
+      "2021-02": [
+        29,
+        15,
+        15,
+        6,
+        4,
+        2
+      ],
+      "2021-03": [
+        35,
+        18,
+        18,
+        3,
+        6,
+        2
+      ],
+      "2021-04": [
+        29,
+        9,
+        9,
+        7,
+        4,
+        1
+      ],
+      "2021-05": [
+        32,
+        13,
+        8,
+        5,
+        2,
+        2
+      ],
+      "2021-06": [
+        42,
+        7,
+        7,
+        5,
+        11,
+        5
+      ],
+      "2021-07": [
+        45,
+        15,
+        16,
+        6,
+        9,
+        5
+      ],
+      "2021-08": [
+        32,
+        11,
+        10,
+        6,
+        5,
+        0
+      ],
+      "2021-09": [
+        51,
+        10,
+        18,
+        5,
+        5,
+        4
+      ],
+      "2021-10": [
+        67,
+        17,
+        26,
+        7,
+        10,
+        7
+      ],
+      "2021-11": [
+        82,
+        42,
+        41,
+        14,
+        17,
+        16
+      ],
+      "2021-12": [
+        84,
+        50,
+        39,
+        8,
+        17,
+        9
+      ],
+      "2022-01": [
+        34,
+        19,
+        15,
+        2,
+        12,
+        9
+      ],
+      "2022-02": [
+        28,
+        15,
+        14,
+        6,
+        7,
+        3
+      ],
+      "2022-03": [
+        53,
+        12,
+        7,
+        5,
+        6,
+        8
+      ],
+      "2022-04": [
+        38,
+        11,
+        8,
+        4,
+        6,
+        2
+      ],
+      "2022-05": [
+        35,
+        12,
+        13,
+        13,
+        6,
+        3
+      ],
+      "2022-06": [
+        30,
+        12,
+        16,
+        7,
+        4,
+        3
+      ],
+      "2022-07": [
+        37,
+        7,
+        10,
+        7,
+        3,
+        8
+      ],
+      "2022-08": [
+        39,
+        9,
+        9,
+        4,
+        7,
+        2
+      ],
+      "2022-09": [
+        32,
+        11,
+        19,
+        6,
+        8,
+        2
+      ],
+      "2022-10": [
+        62,
+        11,
+        12,
+        8,
+        3,
+        2
+      ],
+      "2022-11": [
+        66,
+        26,
+        23,
+        18,
+        10,
+        8
+      ],
+      "2022-12": [
+        74,
+        44,
+        44,
+        10,
+        11,
+        15
+      ],
+      "2023-01": [
+        42,
+        17,
+        17,
+        4,
+        4,
+        5
+      ],
+      "2023-02": [
+        30,
+        9,
+        12,
+        3,
+        7,
+        3
+      ],
+      "2023-03": [
+        37,
+        7,
+        8,
+        7,
+        6,
+        5
+      ],
+      "2023-04": [
+        39,
+        9,
+        13,
+        7,
+        8,
+        4
+      ],
+      "2023-05": [
+        35,
+        13,
+        14,
+        10,
+        11,
+        3
+      ],
+      "2023-06": [
+        34,
+        11,
+        9,
+        8,
+        7,
+        2
+      ],
+      "2023-07": [
+        41,
+        11,
+        10,
+        7,
+        6,
+        1
+      ],
+      "2023-08": [
+        30,
+        10,
+        7,
+        6,
+        10,
+        3
+      ],
+      "2023-09": [
+        42,
+        18,
+        15,
+        6,
+        3,
+        1
+      ],
+      "2023-10": [
+        45,
+        17,
+        13,
+        3,
+        8,
+        2
+      ],
+      "2023-11": [
+        63,
+        16,
+        22,
+        7,
+        14,
+        5
+      ],
+      "2023-12": [
+        72,
+        26,
+        30,
+        15,
+        10,
+        10
+      ],
+      "2024-01": [
+        54,
+        20,
+        29,
+        17,
+        9,
+        10
+      ],
+      "2024-02": [
+        43,
+        11,
+        12,
+        9,
+        4,
+        5
+      ],
+      "2024-03": [
+        32,
+        8,
+        9,
+        8,
+        4,
+        4
+      ],
+      "2024-04": [
+        49,
+        13,
+        11,
+        10,
+        2,
+        3
+      ],
+      "2024-05": [
+        48,
+        10,
+        16,
+        6,
+        9,
+        0
+      ],
+      "2024-06": [
+        41,
+        13,
+        16,
+        7,
+        3,
+        2
+      ],
+      "2024-07": [
+        44,
+        10,
+        14,
+        5,
+        7,
+        2
+      ],
+      "2024-08": [
+        23,
+        10,
+        13,
+        4,
+        7,
+        1
+      ],
+      "2024-09": [
+        49,
+        13,
+        10,
+        7,
+        11,
+        6
+      ],
+      "2024-10": [
+        46,
+        19,
+        15,
+        7,
+        11,
+        7
+      ],
+      "2024-11": [
+        61,
+        20,
+        15,
+        11,
+        14,
+        8
+      ],
+      "2024-12": [
+        68,
+        14,
+        26,
+        12,
+        12,
+        8
+      ],
+      "2025-01": [
+        74,
+        18,
+        28,
+        8,
+        9,
+        13
+      ],
+      "2025-02": [
+        59,
+        28,
+        34,
+        7,
+        13,
+        6
+      ],
+      "2025-03": [
+        51,
+        26,
+        15,
+        7,
+        5,
+        4
+      ],
+      "2025-04": [
+        29,
+        18,
+        18,
+        8,
+        9,
+        2
+      ],
+      "2025-05": [
+        39,
+        21,
+        10,
+        4,
+        12,
+        3
+      ],
+      "2025-06": [
+        39,
+        9,
+        10,
+        5,
+        7,
+        6
+      ],
+      "2025-07": [
+        41,
+        18,
+        16,
+        7,
+        6,
+        1
+      ],
+      "2025-08": [
+        33,
+        15,
+        17,
+        5,
+        8,
+        3
+      ],
+      "2025-09": [
+        22,
+        9,
+        12,
+        2,
+        5,
+        6
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "General quantum algorithms for Hamiltonian simulation with applications to a non-Abelian lattice gauge theory",
+          "year": "2022-12",
+          "abstract": "With a focus on universal quantum computing for quantum simulation, and\nthrough the example of lattice gauge theories, we introduce rather general\nquantum algorithms that can efficiently simulate certain classes of\ninteractions consisting of correlated changes in multiple (bosonic and\nfermionic) quantum numbers with non-trivial functional coefficients. In\nparticular, we analyze diagonalization of Hamiltonian terms using a\nsingular-value decomposition technique, and discuss how the achieved diagonal\nunitaries in the digitized time-evolution operator can be implemented. The\nlattice gauge theory studied is the SU(2) gauge theory in 1+1 dimensions\ncoupled to one flavor of staggered fermions, for which a complete\nquantum-resource analysis within different computational models is presented.\nThe algorithms are shown to be applicable to higher-dimensional theories as\nwell as to other Abelian and non-Abelian gauge theories. The example chosen\nfurther demonstrates the importance of adopting efficient theoretical\nformulations: it is shown that an explicitly gauge-invariant formulation using\nloop, string, and hadron degrees of freedom simplifies the algorithms and\nlowers the cost compared with the standard formulations based on\nangular-momentum as well as the Schwinger-boson degrees of freedom. The\nloop-string-hadron formulation further retains the non-Abelian gauge symmetry\ndespite the inexactness of the digitized simulation, without the need for\ncostly controlled operations. Such theoretical and algorithmic considerations\nare likely to be essential in quantumly simulating other complex theories of\nrelevance to nature.",
+          "arxiv_id": "2212.14030v3"
+        },
+        {
+          "title": "Quantum Simulation with Gauge Fixing: from Ising Lattice Gauge Theory to Dynamical Flux Model",
+          "year": "2024-07",
+          "abstract": "Quantum simulation of synthetic dynamic gauge field has attracted much\nattentions in recent years. There are two traditional ways to simulate gauge\ntheories. One is to directly simulate the full Hamiltonian of gauge theories\nwith local gauge symmetries. And the other is to engineer the projected\nHamiltonian in one gauge subsector. In this work, we provide the third way\ntowards the simulation of gauge theories based on gauge fixing. To demonstrate\nthis concept, we fix the gauge of an Ising lattice gauge field coupled with\nspinless fermions on a ladder geometry. After the gauge fixing, this gauge\ntheory is reduced to a simpler model, in which fermions hop on a ladder with a\nfluctuating dynamical $\\mathbb{Z}_{2}$ flux. Then we shows that this model can\nbe realized via Floquet engineering in ultracold atomic gases. By analytical\nand numerical studies of this dynamical flux model, we deduce that there is\nconfinement to deconfinement phase transition in the original unfixed gauge\ntheory. This work paves the way to quantum simulate lattice gauge theory using\nthe concept of gauge fixing, relevant both for condensed matter and high energy\nphysics.",
+          "arxiv_id": "2407.01422v2"
+        },
+        {
+          "title": "Anomaly inflow, dualities, and quantum simulation of abelian lattice gauge theories induced by measurements",
+          "year": "2024-02",
+          "abstract": "Previous work [SciPost Phys. 14, 129 (2023)] has demonstrated that quantum\nsimulation of abelian lattice gauge theories (Wegner models including the toric\ncode in a limit) in general dimensions can be achieved by local adaptive\nmeasurements on symmetry-protected topological (SPT) states with higher-form\ngeneralized global symmetries. The entanglement structure of the resource SPT\nstate reflects the geometric structure of the gauge theory. In this work, we\nexplicitly demonstrate the anomaly inflow mechanism between the deconfining\nphase of the simulated gauge theory on the boundary and the SPT state in the\nbulk, by showing that the anomalous gauge variation of the boundary state\nobtained by bulk measurement matches that of the bulk theory. Moreover, we\nconstruct the resource state and the measurement pattern for the\nmeasurement-based quantum simulation of a lattice gauge theory with a matter\nfield (Fradkin-Shenker model), where a simple scheme to protect gauge\ninvariance of the simulated state against errors is proposed. We further\nconsider taking an overlap between the wave function of the resource state for\nlattice gauge theories and that of a parameterized product state, and we derive\nprecise dualities between partition functions with insertion of defects\ncorresponding to gauging higher-form global symmetries, as well as\nmeasurement-induced phases where states induced by a partial overlap possess\ndifferent (symmetry-protected) topological orders. Measurement-assisted\noperators to dualize quantum Hamiltonians of lattice gauge theories and their\nnon-invertibility are also presented.",
+          "arxiv_id": "2402.08720v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Charmonium properties from lattice QCD + QED: hyperfine splitting, $J/ψ$ leptonic width, charm quark mass and $a_μ^c$",
+          "year": "2020-05",
+          "abstract": "We have performed the first $n_f = 2+1+1$ lattice QCD computations of the\nproperties (masses and decay constants) of ground-state charmonium mesons. Our\ncalculation uses the HISQ action to generate quark-line connected two-point\ncorrelation functions on MILC gluon field configurations that include $u/d$\nquark masses going down to the physical point, tuning the $c$ quark mass from\n$M_{J/\\psi}$ and including the effect of the $c$ quark's electric charge\nthrough quenched QED. We obtain $M_{J/\\psi}-M_{\\eta_c}$ (connected) =\n120.3(1.1) MeV and interpret the difference with experiment as the impact on\n$M_{\\eta_c}$ of its decay to gluons, missing from the lattice calculation. This\nallows us to determine $\\Delta M_{\\eta_c}^{\\mathrm{annihiln}}$ =+7.3(1.2) MeV,\ngiving its value for the first time. Our result of $f_{J/\\psi}=$ 0.4104(17)\nGeV, gives $\\Gamma(J/\\psi \\rightarrow e^+e^-)$=5.637(49) keV, in agreement\nwith, but now more accurate than experiment. At the same time we have improved\nthe determination of the $c$ quark mass, including the impact of quenched QED\nto give $\\overline{m}_c(3\\,\\mathrm{GeV})$ = 0.9841(51) GeV. We have also used\nthe time-moments of the vector charmonium current-current correlators to\nimprove the lattice QCD result for the $c$ quark HVP contribution to the\nanomalous magnetic moment of the muon. We obtain $a_{\\mu}^c = 14.638(47) \\times\n10^{-10}$, which is 2.5$\\sigma$ higher than the value derived using moments\nextracted from some sets of experimental data on $R(e^+e^- \\rightarrow\n\\mathrm{hadrons})$. This value for $a_{\\mu}^c$ includes our determination of\nthe effect of QED on this quantity, $\\delta a_{\\mu}^c = 0.0313(28) \\times\n10^{-10}$.",
+          "arxiv_id": "2005.01845v2"
+        },
+        {
+          "title": "Utility of a hybrid approach to the hadronic vacuum polarisation contribution to the muon anomalous magnetic moment",
+          "year": "2024-10",
+          "abstract": "An accurate calculation of the leading-order hadronic vacuum polarisation\n(LOHVP) contribution to the anomalous magnetic moment of the muon ($a_\\mu$) is\nkey to determining whether a discrepancy, suggesting new physics, exists\nbetween the Standard Model and experimental results. This calculation can be\nexpressed as an integral over Euclidean time of a current-current correlator\n$G(t)$, where $G(t)$ can be calculated using lattice QCD or, with dispersion\nrelations, from experimental data for $e^+e^-\\to\\mbox{hadrons}$. The BMW/DMZ\ncollaboration recently presented a hybrid approach in which $G(t)$ is\ncalculated using lattice QCD for most of the contributing $t$ range, but using\nexperimental data for the largest $t$ (lowest energy) region. Here we study the\nadvantages of varying the position $t=t_1$ separating lattice QCD from\ndata-driven contributions. The total LOHVP contribution should be independent\nof $t_1$, providing both a test of the experimental input and the robustness of\nthe hybrid approach. We use this criterion and a correlated fit to show that\nFermilab/HPQCD/MILC lattice QCD results from 2019 strongly favour the CMD-3\ncross-section data for $e^+e^-\\to\\pi^+\\pi^-$ over a combination of earlier\nexperimental results for this channel. Further, the resulting total LOHVP\ncontribution obtained is consistent with the result obtained by BMW/DMZ, and\nsupports the scenario in which there is no significant discrepancy between the\nexperimental value for $a_\\mu$ and that expected in the Standard Model. We then\ndiscuss how improved lattice results in this hybrid approach could provide a\nmore accurate total LOHVP across a wider range of $t_1$ values with an\nuncertainty that is smaller than that from either lattice QCD or data-driven\napproaches on their own.",
+          "arxiv_id": "2410.23832v2"
+        },
+        {
+          "title": "$B \\to ρ\\ell \\barν$ resonance form factors from $B \\to ππ \\ell \\barν$ in lattice QCD",
+          "year": "2025-01",
+          "abstract": "The decay $B \\to \\rho \\ell \\bar{\\nu}$ is an attractive process for\ndetermining the magnitude of the smallest CKM matrix element, $|V_{ub}|$, and\ncan provide new insights into the origin of the long-standing\nexclusive-inclusive discrepancy in determinations of this Standard-Model\nparameter. This requires a nonperturbative QCD calculation of the $B \\to \\rho$\nform factors $V$, $A_0$, $A_1$, and $A_{12}$. The unstable nature of the $\\rho$\nresonance has prevented precise lattice QCD calculations of these form factors\nto date. Here, we present the first lattice QCD calculation of the $B \\to \\rho$\nform factors in which the $\\rho$ is treated properly as a resonance in $P$-wave\n$\\pi \\pi$ scattering. To this end, we use the Lellouch-L\\\"uscher finite-volume\nformalism to compute the $B \\to \\pi \\pi$ form factors as a function of both\nmomentum transfer and $\\pi \\pi$ invariant mass, and then analytically continue\nto the $\\rho$ resonance pole. This calculation is performed with $2+1$\ndynamical quark flavors at a pion mass of approximately 320 MeV, and\ndemonstrates a clear path toward results at the physical point.",
+          "arxiv_id": "2501.00903v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "The order of the chiral phase transition in massless many-flavour lattice QCD",
+          "year": "2025-01",
+          "abstract": "The nature of the QCD phase transition in the chiral limit presents a\nchallenging problem for lattice QCD. However, its study provides constraints on\nthe phase diagram at the physical point. In this work, we investigate how the\norder of the chiral phase transition depends on the number of light quark\nflavours. To approach the lattice chiral limit, we map out and extrapolate the\nchiral critical surface that separates the first-order region from the\ncrossover region in an extended parameter space, which includes the gauge\ncoupling, the number of quark flavours, their masses, and the lattice spacing.\nLattice simulations with standard staggered quarks reveal that for each $N_f <\n8$, there exists a tricritical lattice spacing $a^\\text{tric}(N_f)$, at which\nthe chiral transition changes from first order ($a>a^\\text{tric}$) to second\norder ($a<a^\\text{tric}$). Thus, the first-order region is merely a lattice\nartifact and not connected to the continuum. By determining the associated\ntemperatures $T(N_f^\\text{tric},a ^\\text{tric})$ at these tricritical points,\nwe confirm the expected decrease in the critical temperature as the number of\nflavours increases. The obtained temperatures define a tricritical line which\nis connected to the continuum and terminates at a physical $\nN_f^\\text{tric}(a=0) $. Our data is compatible with a vanishing temperature at\nthat point, $T(N_f^\\text{tric}(a=0))=0 $.",
+          "arxiv_id": "2501.19251v2"
+        },
+        {
+          "title": "Chemical potential dependence of the endpoint of first-order phase transition in heavy-quark region of finite-temperature lattice QCD",
+          "year": "2023-11",
+          "abstract": "We determine the location of the critical point where the first-order\ndeconfining transition in the heavy-quark region turns into a crossover in\nfinite-temperature and density lattice QCD with 2+1 flavors of Wilson quarks.\nCombining a hopping parameter expansion (HPE) of the quark determinant with a\nreweighting method, we evaluate the chemical potential dependence of the\ncritical point. By systematically calculating the coefficients of the hopping\nparameter expansion up to a high order of HPE at finite chemical potential, we\nfind that the higher order terms are strongly correlated with the Polyakov\nloop, which is the leading-order term, on each configuration. Moreover, their\ncomplex phases themselves, which are important at finite density, are also\nfound to be strongly correlated with the complex phase of the Polyakov loop.\nUsing this property, we develop a method for estimating the critical point\nincorporating high-order terms from calculations with only low-order terms. We\nreport that the first-order phase transition region in the heavy-quark region\nbecomes narrower exponentially with increasing the chemical potential. Since\nthe hopping parameter of the critical point decreases exponentially as the\ndensity increases, the sign problem does not become serious even when the\ndensity increases, and critical points can be evaluated up to high densities.",
+          "arxiv_id": "2311.11508v1"
+        },
+        {
+          "title": "First-order phase transitions in the heavy quark region of lattice QCD at high temperatures and high densities",
+          "year": "2025-01",
+          "abstract": "If there is a first-order phase transition in the light quark region of\n2+1-flavor finite temperature and density QCD and if the region of the\nfirst-order phase transition expands with increasing density as suggested by\nseveral studies, then, at very high densities, we may expect that the\nfirst-order phase transition region expands into the heavy quark region of QCD,\nwhere we can perform efficient large scale simulations by adopting an effective\ntheory of heavy quark QCD based on the hopping parameter expansion. In the\nheavy quark region of QCD, we have another first-order phase transition region\naround the heavy quark limit at zero density. By numerical simulations of\neffective heavy quark QCD, we found that, the first-order transition at zero\ndensity turns into a crossover as the chemical potential is increased, but,\nwhen we increase the chemical potential further, the change in the plaquette\nvalue near the crossover point becomes much steeper. This may be suggesting\nreappearance of the first-order phase transition. In this talk, we first show\nthe nature of the phase transition of phase-quenched finite density QCD in the\nheavy quark region and then study the effect of the complex phase to discuss\nwhether the QCD phase transition changes again to a first-order phase\ntransition at very high densities.",
+          "arxiv_id": "2501.18828v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Unified description of the $Qs \\bar q \\bar q$ molecular bound states, molecular resonances and compact tetraquark states in the quark potential model",
+          "year": "2023-10",
+          "abstract": "We calculate the mass spectrum of the $Qs\\bar q \\bar q$ $(Q=c, b)$ tetraquark\nstates with $J^P=(0,1,2)^+$ using the AL1 quark potential model, which\nsuccessfully describes the conventional hadron spectrum. We employ the Gaussian\nexpansion method to solve the four-body Schr\\\"odinger equation, and use the\ncomplex scaling method to identify the resonances. With the notation $T_{Q s,\nI(J)}^{\\text {Theo. }}(M)$, we find several near-threshold bound states and\nresonances, including $T_{cs,0(0)}^{\\mathrm{Theo.}}(2350)$,\n$T_{cs,0(0)}^{\\mathrm{Theo.}}(2906)$, $T_{bs,0(0)}^{\\mathrm{Theo.}}(5781)$,\n$T_{bs,0(1)}^{\\mathrm{Theo.}}(5840)$, and $T_{bs,0(0)}^{\\mathrm{Theo.}}(6240)$\nwhich are close to the $D\\bar{K}$, $D^*\\bar{K}^*$, $\\bar{B}\\bar{K}$,\n$\\bar{B}^*\\bar{K}$ and $\\bar{B}^*\\bar{K}^*$ thresholds, respectively.\nFurthermore, their spatial structures clearly support their molecular natures.\nThe resonance $T_{cs,0(0)}^{\\mathrm{Theo.}}(2906)$ has a mass of $2906$ MeV, a\nwidth of $20$ MeV, and quantum numbers $I(J^P)=0(0^+)$, which may serve as a\ngood candidate for the experimental $T_{cs0}(2900)$ state. We strongly urge the\nexperimental search of the predicted states.",
+          "arxiv_id": "2310.14597v2"
+        },
+        {
+          "title": "Doubly heavy tetraquark bound and resonant states",
+          "year": "2024-09",
+          "abstract": "We calculate the energy spectrum of the S-wave doubly heavy tetraquark\nsystems, including the $ QQ^{(\\prime)}\\bar q\\bar q$, $QQ^{(\\prime)}\\bar s\\bar\nq$, and $ QQ^{(\\prime)}\\bar s\\bar s$ ($Q^{(\\prime)}=b,c$ and $q=u,d$) systems\nwithin the constituent quark model. We use the complex scaling method to obtain\nbound states and resonant states simultaneously, and the Gaussian expansion\nmethod to solve the complex-scaled four-body Schr\\\"odinger equation. With a\nnovel definition of the root-mean-square radii, we are able to distinguish\nbetween meson molecules and compact tetraquark states. The compact tetraquarks\nare further classified into three different types with distinct spatial\nconfigurations: compact even tetraquarks, compact diquark-antidiquark\ntetraquarks and compact diquark-centered tetraquarks. In the $ I(J^P)=0(1^+) $\n$QQ\\bar q\\bar q$ system, there exists the $ D^*D $ molecular bound state with a\nbinding energy of $ -14 $ MeV, which is the candidate for $ T_{cc}(3875)^+ $.\nThe shallow $\\bar B^*\\bar B$ molecular bound state is the bottom analog of\n$T_{cc}(3875)^+$. Moreover, we identify two resonant states near the $D^*D^*$\nand $\\bar B^*\\bar B^*$ thresholds. In the $ J^P=1^+ $ $bb\\bar q\\bar q\\,(I=0)$\nand $bb\\bar s\\bar q$ systems, we obtain deeply bound states with a compact\ndiquark-centered tetraquark configuration and a dominant $\\chi_{\\bar 3_c\\otimes\n3_c}$ component, along with resonant states with similar configurations as\ntheir radial excitations. These states are the QCD analog of the helium atom.\nWe also obtain some other bound states and resonant states with ``QCD hydrogen\nmolecule\" configurations. Moreover, we investigate the heavy quark mass\ndependence of the $ I(J^P)=0(1^+) $ $ QQ\\bar q\\bar q $ bound states. We\nstrongly urge the experimental search for the predicted states.",
+          "arxiv_id": "2409.03373v2"
+        },
+        {
+          "title": "Doubly heavy tetraquark states in a mass splitting model",
+          "year": "2023-12",
+          "abstract": "Treating the $X(4140)$ as a compact $J^{PC}=1^{++}$ $cs\\bar{c}\\bar{s}$ state\nand using its mass as a reference scale, we systematically estimate the masses\nof doubly heavy tetraquark states $QQ\\bar{q}\\bar{q}$ where $Q=c,b$ and\n$q=u,d,s$. Their decay properties are studied with a simple rearrangement\nscheme. Based on our results, the lowest $I(J^P)=0(1^+)$ $bb\\bar{n}\\bar{n}$\nstate is a stable tetraquark about 20 MeV below the $\\bar{B}^*\\bar{B}$\nthreshold. The mass and width of the low-mass $0(1^+)$ $cc\\bar{n}\\bar{n}$\n($n=u,d$) tetraquark are compatible with the $T_{cc}(3875)^+$ observed by the\nLHCb Collaboration. The location of the lowest $0(0^+)$ and $0(1^+)$\n$bc\\bar{n}\\bar{n}$ states are found to be close to the $\\bar{B}D$ and\n$\\bar{B}^*D$ thresholds, respectively. We hope that the predicted ratios\nbetween partial widths of different channels may be helpful to identify compact\ntetraquark states from future measurements.",
+          "arxiv_id": "2401.00115v3"
+        }
+      ],
+      "4": [
+        {
+          "title": "Recent Progress in Lattice Parton-Distribution Calculations",
+          "year": "2021-10",
+          "abstract": "The large-momentum effective theory (LaMET) framework has been widely used to\ndetermine the Bjorken-$x$ dependence of parton distribution functions (PDFs) in\nlattice-QCD hadron-structure calculations. In this proceeding, I highlighted\nselected recent lattice-QCD results on parton distributions from MSULat group.\nWe use clover valence fermions on ensembles generated by MILC Collaboration\nwith lattice spacing $a \\approx 0.06$, 0.09, and 0.12 fm, with $M_\\pi L \\approx\n4$, and with pion masses including 135, 220 and 310 MeV and $N_f=2+1+1$ flavors\nof highly improved staggered dynamical quarks. Results include the\ncontinuum-physical isovector nucleon PDF, a first study of the strange and\ncharm PDFs and the pion and kaon valence-quark PDFs. We also reported results\non the $Q^2$ and $x$ dependence of nucleon isovector unpolarized and helicity\nGPDs calculated directly at physical pion mass; we also make a comparison of\nthe GPDs with the traditional moment methods from other lattice calculations.",
+          "arxiv_id": "2110.06779v1"
+        },
+        {
+          "title": "Pion and Kaon Distribution Amplitudes in the Continuum Limit",
+          "year": "2020-05",
+          "abstract": "We present a lattice-QCD calculation of the pion, kaon and $\\eta_s$\ndistribution amplitudes using large-momentum effective theory (LaMET). Our\ncalculation is carried out using three ensembles with 2+1+1 flavors of highly\nimproved staggered quarks (HISQ), generated by MILC collaboration, at 310 MeV\npion mass with 0.06, 0.09 and 0.12 fm lattice spacings. We use clover fermion\naction for the valence quarks and tune the quark mass to match the lightest\nlight and strange masses in the sea. The resulting lattice matrix elements are\nnonperturbatively renormalized in regularization-independent\nmomentum-subtraction (RI/MOM) scheme and extrapolated to the continuum. We use\ntwo approaches to extract the $x$-dependence of the meson distribution\namplitudes: 1) we fit the renormalized matrix elements in coordinate space to\nan assumed distribution form through a one-loop matching kernel; 2) we use a\nmachine-learning algorithm trained on pseudo lattice-QCD data to make\npredictions on the lattice data. We found the results are consistent between\nthese methods with the latter method giving a less smooth shape. Both\napproaches suggest that as the quark mass increases, the distribution amplitude\nbecomes narrower. Our pion distribution amplitude has broader distribution than\npredicted by light-front constituent-quark model, and the moments of our pion\ndistributions agree with previous lattice-QCD results using the operator\nproduction expansion.",
+          "arxiv_id": "2005.13955v1"
+        },
+        {
+          "title": "Progress in $x$-dependent partonic distributions from lattice QCD",
+          "year": "2021-10",
+          "abstract": "We review the latest progress in lattice QCD calculations of the partonic\nstructure of hadrons. This structure is, in particular, described in terms of\n$x$-dependent distributions, the simplest of which are the standard parton\ndistribution functions (PDFs). The lattice calculations rely on matrix elements\nprobing spatial correlations between partons in a boosted hadron, that can be\nmatched to light-cone correlations defining the relevant distributions. We\ndiscuss the recent theoretical and practical refinements of this strategy, as\nwell as new exploratory directions. The latter include generalized parton\ndistributions (GPDs), distributions beyond leading twist, flavor-singlet\ndistributions and transverse-momentum dependent PDFs (TMDs). We also shortly\nconsider the potential future impact of lattice data on phenomenology.",
+          "arxiv_id": "2110.07440v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "A basis of the gradient flow exact renormalization group for gauge theory",
+          "year": "2025-06",
+          "abstract": "The gradient flow exact renormalization group (GFERG) is a variant of the\nexact renormalization group (ERG) for gauge theory that is aimed at preserve\ngauge invariance as manifestly as possible. It achieves this goal by utilizing\nthe Yang--Mills gradient flow or diffusion for the block-spin process. In this\npaper, we formulate GFERG by the Reuter equation in which the block spinning is\ndone by Gaussian integration. This formulation provides a simple understanding\nof various points of GFERG, unresolved thus far. First, there exists a unique\nordering of functional derivatives in the GFERG equation that remove ambiguity\nof contact terms. Second, perturbation theory of GFERG suffers from\nunconventional ultraviolet (UV) divergences if no gauge fixing is introduced.\nThis explains the origin of some UV divergences we have encountered in\nperturbative solutions to GFERG. Third, the modified correlation functions\ncalculated with the Wilson action in GFERG coincide with the correlation\nfunctions of diffused or flowed fields calculated with the bare action. This\nshows the existence of a Wilson action that reproduces precisely the physical\nquantities computed by the gradient flow formalism (up to contact terms). We\nobtain a definite ERG interpretation of the gradient flow. The formulation\ngiven in this paper provides a basis for further perturbative/nonperturbative\ncomputations in GFERG, preserving gauge invariance maximally.",
+          "arxiv_id": "2506.23567v2"
+        },
+        {
+          "title": "The perturbative computation of the gradient flow coupling for the twisted Eguchi-Kawai model with the numerical stochastic perturbation theory",
+          "year": "2025-01",
+          "abstract": "The gradient flow method is a renormalization scheme in which the gauge field\nis flowed by the diffusion equation. The gradient flow scheme has benefits that\nthe observables composed of flowed gauge fields do not require further\nrenormalization and do not depend on the regularization. From the independence\nof the regularization, this scheme allows us to relate the lattice\nregularization and the dimensional regularization such as the\n$\\overline{\\mathrm{MS}}$ scheme. We compute the gradient flow coupling for the\ntwisted Eguchi--Kawai model using the numerical stochastic perturbation theory.\nIn this presentation we show the results of the perturbative coefficients of\nthe gradient flow coupling and its flow time dependence. We investigate the\nbeta function from the flow time dependence and discuss the lattice artifacts\nin the large flow time in taking the large-$N$ limit.",
+          "arxiv_id": "2501.18175v1"
+        },
+        {
+          "title": "The gradient flow at higher orders in perturbation theory",
+          "year": "2021-11",
+          "abstract": "Various results for higher-order perturbative calculations in the\ngradient-flow formalism are reviewed, including the gradient-flow beta function\nand the small-flow-time expansion of the hadronic vacuum polarization and the\nenergy-momentum tensor. In addition, the strategy of regions is outlined in\norder to obtain systematic expansions of gradient-flow integrals, for example\nat large and small flow times.",
+          "arxiv_id": "2111.14376v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:49:28Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

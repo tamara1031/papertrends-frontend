@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_performance_data_time_memory",
+        "keywords": [
+          [
+            "performance",
+            0.058668794689211844
+          ],
+          [
+            "data",
+            0.036570400788166355
+          ],
+          [
+            "time",
+            0.03360089766006358
+          ],
+          [
+            "memory",
+            0.030063425998250317
+          ],
+          [
+            "model",
+            0.02912984694954877
+          ],
+          [
+            "models",
+            0.027223060741021526
+          ],
+          [
+            "paper",
+            0.026593916684882847
+          ],
+          [
+            "systems",
+            0.026051510296679473
+          ],
+          [
+            "applications",
+            0.023977139841930006
+          ],
+          [
+            "results",
+            0.0222562466785285
+          ]
+        ],
+        "count": 2546
+      },
+      "1": {
+        "name": "1_blockchain_consensus_Blockchain_performance",
+        "keywords": [
+          [
+            "blockchain",
+            0.09361688845698511
+          ],
+          [
+            "consensus",
+            0.0429661672291381
+          ],
+          [
+            "Blockchain",
+            0.035917721254902474
+          ],
+          [
+            "performance",
+            0.03485890162492683
+          ],
+          [
+            "transaction",
+            0.03445507306757613
+          ],
+          [
+            "Fabric",
+            0.03300176482624488
+          ],
+          [
+            "Hyperledger",
+            0.032037885931702974
+          ],
+          [
+            "blockchains",
+            0.029568914053459714
+          ],
+          [
+            "transactions",
+            0.029286812107439705
+          ],
+          [
+            "systems",
+            0.028605181921646506
+          ]
+        ],
+        "count": 57
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.17632704801986737
+      ],
+      [
+        -0.17632704801986737,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        35,
+        0
+      ],
+      "2020-02": [
+        48,
+        1
+      ],
+      "2020-03": [
+        38,
+        2
+      ],
+      "2020-04": [
+        39,
+        3
+      ],
+      "2020-05": [
+        35,
+        0
+      ],
+      "2020-06": [
+        22,
+        0
+      ],
+      "2020-07": [
+        32,
+        2
+      ],
+      "2020-08": [
+        39,
+        0
+      ],
+      "2020-09": [
+        33,
+        0
+      ],
+      "2020-10": [
+        43,
+        0
+      ],
+      "2020-11": [
+        42,
+        1
+      ],
+      "2020-12": [
+        29,
+        1
+      ],
+      "2021-01": [
+        39,
+        2
+      ],
+      "2021-02": [
+        32,
+        3
+      ],
+      "2021-03": [
+        23,
+        1
+      ],
+      "2021-04": [
+        52,
+        1
+      ],
+      "2021-05": [
+        33,
+        0
+      ],
+      "2021-06": [
+        26,
+        0
+      ],
+      "2021-07": [
+        26,
+        2
+      ],
+      "2021-08": [
+        30,
+        0
+      ],
+      "2021-09": [
+        52,
+        1
+      ],
+      "2021-10": [
+        31,
+        0
+      ],
+      "2021-11": [
+        17,
+        0
+      ],
+      "2021-12": [
+        35,
+        2
+      ],
+      "2022-01": [
+        24,
+        1
+      ],
+      "2022-02": [
+        29,
+        1
+      ],
+      "2022-03": [
+        25,
+        2
+      ],
+      "2022-04": [
+        25,
+        0
+      ],
+      "2022-05": [
+        36,
+        1
+      ],
+      "2022-06": [
+        34,
+        0
+      ],
+      "2022-07": [
+        25,
+        2
+      ],
+      "2022-08": [
+        22,
+        1
+      ],
+      "2022-09": [
+        36,
+        1
+      ],
+      "2022-10": [
+        24,
+        3
+      ],
+      "2022-11": [
+        30,
+        1
+      ],
+      "2022-12": [
+        27,
+        0
+      ],
+      "2023-01": [
+        25,
+        0
+      ],
+      "2023-02": [
+        20,
+        1
+      ],
+      "2023-03": [
+        37,
+        1
+      ],
+      "2023-04": [
+        41,
+        1
+      ],
+      "2023-05": [
+        35,
+        0
+      ],
+      "2023-06": [
+        34,
+        1
+      ],
+      "2023-07": [
+        29,
+        0
+      ],
+      "2023-08": [
+        42,
+        0
+      ],
+      "2023-09": [
+        42,
+        2
+      ],
+      "2023-10": [
+        41,
+        1
+      ],
+      "2023-11": [
+        43,
+        1
+      ],
+      "2023-12": [
+        45,
+        1
+      ],
+      "2024-01": [
+        42,
+        0
+      ],
+      "2024-02": [
+        32,
+        1
+      ],
+      "2024-03": [
+        31,
+        0
+      ],
+      "2024-04": [
+        32,
+        0
+      ],
+      "2024-05": [
+        42,
+        0
+      ],
+      "2024-06": [
+        33,
+        0
+      ],
+      "2024-07": [
+        35,
+        0
+      ],
+      "2024-08": [
+        33,
+        1
+      ],
+      "2024-09": [
+        42,
+        1
+      ],
+      "2024-10": [
+        45,
+        0
+      ],
+      "2024-11": [
+        44,
+        1
+      ],
+      "2024-12": [
+        47,
+        1
+      ],
+      "2025-01": [
+        48,
+        0
+      ],
+      "2025-02": [
+        50,
+        0
+      ],
+      "2025-03": [
+        60,
+        0
+      ],
+      "2025-04": [
+        45,
+        1
+      ],
+      "2025-05": [
+        66,
+        1
+      ],
+      "2025-06": [
+        63,
+        2
+      ],
+      "2025-07": [
+        51,
+        1
+      ],
+      "2025-08": [
+        70,
+        0
+      ],
+      "2025-09": [
+        35,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Selective Edge Computing for Mobile Analytics",
+          "year": "2022-01",
+          "abstract": "An increasing number of mobile applications rely on Machine Learning (ML)\nroutines for analyzing data. Executing such tasks at the user devices saves the\nenergy spent on transmitting and processing large data volumes at distant\ncloud-deployed servers. However, due to memory and computing limitations, the\ndevices often cannot support the required resource-intensive routines and fail\nto accurately execute the tasks. In this work, we address the problem of\nedge-assisted analytics in resource-constrained systems by proposing and\nevaluating a rigorous selective offloading framework. The devices execute their\ntasks locally and outsource them to cloudlet servers only when they predict a\nsignificant performance improvement. We consider the practical scenario where\nthe offloading gain and resource costs are time-varying; and propose an online\noptimization algorithm that maximizes the service performance without requiring\nto know this information. Our approach relies on an approximate dual\nsubgradient method combined with a primal-averaging scheme, and works under\nminimal assumptions about the system stochasticity. We fully implement the\nproposed algorithm in a wireless testbed and evaluate its performance using a\nstate-of-the-art image recognition application, finding significant performance\ngains and cost savings.",
+          "arxiv_id": "2201.02840v1"
+        },
+        {
+          "title": "Comparative Code Structure Analysis using Deep Learning for Performance Prediction",
+          "year": "2021-02",
+          "abstract": "Performance analysis has always been an afterthought during the application\ndevelopment process, focusing on application correctness first. The learning\ncurve of the existing static and dynamic analysis tools are steep, which\nrequires understanding low-level details to interpret the findings for\nactionable optimizations. Additionally, application performance is a function\nof an infinite number of unknowns stemming from the application-, runtime-, and\ninteractions between the OS and underlying hardware, making it difficult, if\nnot impossible, to model using any deep learning technique, especially without\na large labeled dataset. In this paper, we address both of these problems by\npresenting a large corpus of a labeled dataset for the community and take a\ncomparative analysis approach to mitigate all unknowns except their source code\ndifferences between different correct implementations of the same problem. We\nput the power of deep learning to the test for automatically extracting\ninformation from the hierarchical structure of abstract syntax trees to\nrepresent source code. This paper aims to assess the feasibility of using\npurely static information (e.g., abstract syntax tree or AST) of applications\nto predict performance change based on the change in code structure. This\nresearch will enable performance-aware application development since every\nversion of the application will continue to contribute to the corpora, which\nwill enhance the performance of the model. Our evaluations of several deep\nembedding learning methods demonstrate that tree-based Long Short-Term Memory\n(LSTM) models can leverage the hierarchical structure of source-code to\ndiscover latent representations and achieve up to 84% (individual problem) and\n73% (combined dataset with multiple of problems) accuracy in predicting the\nchange in performance.",
+          "arxiv_id": "2102.07660v2"
+        },
+        {
+          "title": "Performance Tuning for GPU-Embedded Systems: Machine-Learning-based and Analytical Model-driven Tuning Methodologies",
+          "year": "2023-10",
+          "abstract": "GPU-embedded systems have gained popularity across various domains due to\ntheir efficient power consumption. However, in order to meet the demands of\nreal-time or time-consuming applications running on these systems, it is\ncrucial for them to be tuned to exhibit high performance. This paper addresses\nthe issue by developing and comparing two tuning methodologies on GPU-embedded\nsystems, and also provides performance insights for developers and researchers\nseeking to optimize applications running on these architectures. We focus on\nparallel prefix operations, such as FFT, scan primitives, and tridiagonal\nsystem solvers, which are performance-critical components in many applications.\nThe study introduces an analytical model-driven tuning methodology and a\nMachine Learning (ML)-based tuning methodology. We evaluate the performance of\nthe two tuning methodologies for different parallel prefix implementations of\nthe BPLG library in an NVIDIA Jetson system, and compare their performance to\nthe ones achieved through an exhaustive search. The findings shed light on the\nbest strategies for handling the open challenge of performance portability for\nmajor computational patterns among server and embedded devices, providing\npractical guidance for offline and online tuning. We also address the existing\ngap in performance studies for parallel computational patterns in GPU-embedded\nsystems by comparing the BPLG performance against other state-of-the-art\nlibraries, including CUSPARSE, CUB, and CUFFT.",
+          "arxiv_id": "2310.16214v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Dynamic Practical Byzantine Fault Tolerance and Its Blockchain System: A Large-Scale Markov Modeling",
+          "year": "2022-10",
+          "abstract": "In a practical Byzantine fault tolerance (PBFT) blockchain network, the\nvoting nodes may always leave the network while some new nodes can also enter\nthe network, thus the number of voting nodes is constantly changing. Such a new\nPBFT with dynamic nodes is called a dynamic PBFT. Clearly, the dynamic PBFT can\nmore strongly support the decentralization and distributed structure of\nblockchain. However, analyzing dynamic PBFT blockchain systems will become more\ninteresting and challenging.\n  In this paper, we propose a large-scale Markov modeling technique to analyze\nthe dynamic PBFT voting processes and its dynamic PBFT blockchain system. To\nthis end, we set up a large-scale Markov process (and further a\nmulti-dimensional Quasi-Birth-and-Death (QBD) process) and provide performance\nanalysis for both the dynamic PBFT voting processes and the dynamic PBFT\nblockchain system. In particular, we obtain an effective computational method\nfor the throughput of the complicated dynamic PBFT blockchain system. Finally,\nwe use numerical examples to check the validity of our theoretical results and\nindicate how some key system parameters influence the performance measures of\nthe dynamic PBFT voting processes and of the dynamic PBFT blockchain system.\nTherefore, by using the theory of multi-dimensional QBD processes and the\nRG-factorization technique, we hope that the methodology and results developed\nin this paper shed light on the study of dynamic PBFT blockchain systems such\nthat a series of promising research can be developed potentially.",
+          "arxiv_id": "2210.14003v1"
+        },
+        {
+          "title": "Gromit: Benchmarking the Performance and Scalability of Blockchain Systems",
+          "year": "2022-08",
+          "abstract": "The growing number of implementations of blockchain systems stands in stark\ncontrast with still limited research on a systematic comparison of performance\ncharacteristics of these solutions. Such research is crucial for evaluating\nfundamental trade-offs introduced by novel consensus protocols and their\nimplementations. These performance limitations are commonly analyzed with\nad-hoc benchmarking frameworks focused on the consensus algorithm of blockchain\nsystems. However, comparative evaluations of design choices require\nmacro-benchmarks for uniform and comprehensive performance evaluations of\nblockchains at the system level rather than performance metrics of isolated\ncomponents. To address this research gap, we implement Gromit, a generic\nframework for analyzing blockchain systems. Gromit treats each system under\ntest as a transaction fabric where clients issue transactions to validators. We\nuse Gromit to conduct the largest blockchain study to date, involving seven\nrepresentative systems with varying consensus models. We determine the peak\nperformance of these systems with a synthetic workload in terms of transaction\nthroughput and scalability and show that transaction throughput does not scale\nwith the number of validators. We explore how robust the subjected systems are\nagainst network delays and reveal that the performance of permissoned\nblockchain is highly sensitive to network conditions.",
+          "arxiv_id": "2208.11254v1"
+        },
+        {
+          "title": "Performance and Reliability Analysis for Practical Byzantine Fault Tolerance with Repairable Voting Nodes",
+          "year": "2023-06",
+          "abstract": "The practical Byzantine fault tolerant (PBFT) consensus protocol is one of\nthe basic consensus protocols in the development of blockchain technology. At\nthe same time, the PBFT consensus protocol forms a basis for some other\nimportant BFT consensus protocols, such as Tendermint, Streamlet, HotStuff, and\nLibraBFT. In general, the voting nodes may always fail so that they can leave\nthe PBFT-based blockchain system in a random time interval, making the number\nof timely available voting nodes uncertain. Thus, this uncertainty leads to the\nanalysis of the PBFT-based blockchain systems with repairable voting nodes\nbeing more challenging. In this paper, we develop a novel PBFT consensus\nprotocol with repairable voting nodes and study such a new blockchain system\nusing a multi-dimensional Markov process and the first passage time method.\nBased on this, we provide performance and reliability analysis, including\nthroughput, availability, and reliability, for the new PBFT-based blockchain\nsystem with repairable voting nodes. Furthermore, we provide an approximate\nalgorithm for computing the throughput of the new PBFT-based blockchain system.\nWe employ numerical examples to demonstrate the validity of our theoretical\nresults and illustrate how the key system parameters influence performance\nmeasures of the PBFT-based blockchain system with repairable voting nodes. We\nhope the methodology and results developed in this paper will stimulate future\nresearch endeavors and open up new research trajectories in this field.",
+          "arxiv_id": "2306.10960v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:41:58Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

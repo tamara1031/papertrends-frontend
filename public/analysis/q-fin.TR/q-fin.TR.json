@@ -1,0 +1,1318 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_liquidity_market_decentralized_Market",
+        "keywords": [
+          [
+            "liquidity",
+            0.050347537778853854
+          ],
+          [
+            "market",
+            0.030234894644336024
+          ],
+          [
+            "decentralized",
+            0.022319529086758976
+          ],
+          [
+            "Market",
+            0.022287275657438783
+          ],
+          [
+            "arbitrage",
+            0.022163248657342035
+          ],
+          [
+            "Makers",
+            0.021290919179277692
+          ],
+          [
+            "AMM",
+            0.02032315012567416
+          ],
+          [
+            "AMMs",
+            0.02004757306753721
+          ],
+          [
+            "price",
+            0.018036590136280287
+          ],
+          [
+            "function",
+            0.016680463001156665
+          ]
+        ],
+        "count": 134
+      },
+      "1": {
+        "name": "1_data_models_model_learning",
+        "keywords": [
+          [
+            "data",
+            0.030904946287006643
+          ],
+          [
+            "models",
+            0.025532498990171792
+          ],
+          [
+            "model",
+            0.02247703277074937
+          ],
+          [
+            "learning",
+            0.022199430564224406
+          ],
+          [
+            "LSTM",
+            0.019636478260375633
+          ],
+          [
+            "trading",
+            0.0195565482407848
+          ],
+          [
+            "financial",
+            0.019384727325709034
+          ],
+          [
+            "market",
+            0.01884046035085508
+          ],
+          [
+            "forecasting",
+            0.0186168078955036
+          ],
+          [
+            "prediction",
+            0.018293914221137388
+          ]
+        ],
+        "count": 118
+      },
+      "2": {
+        "name": "2_optimal_equilibrium_price_problem",
+        "keywords": [
+          [
+            "optimal",
+            0.0401742491421142
+          ],
+          [
+            "equilibrium",
+            0.036012362930378454
+          ],
+          [
+            "price",
+            0.029409107292910856
+          ],
+          [
+            "problem",
+            0.028996091098939882
+          ],
+          [
+            "market",
+            0.027555360481439105
+          ],
+          [
+            "model",
+            0.026422414953264382
+          ],
+          [
+            "stochastic",
+            0.0254495198457361
+          ],
+          [
+            "impact",
+            0.024211069063140887
+          ],
+          [
+            "execution",
+            0.022663586194211913
+          ],
+          [
+            "trading",
+            0.022323139166084176
+          ]
+        ],
+        "count": 117
+      },
+      "3": {
+        "name": "3_learning_trading_RL_reinforcement",
+        "keywords": [
+          [
+            "learning",
+            0.04000214344196035
+          ],
+          [
+            "trading",
+            0.038198863982027285
+          ],
+          [
+            "RL",
+            0.03356499659924575
+          ],
+          [
+            "reinforcement",
+            0.031736555351958844
+          ],
+          [
+            "reinforcement learning",
+            0.03096567066312623
+          ],
+          [
+            "Reinforcement",
+            0.02761739653644767
+          ],
+          [
+            "Learning",
+            0.02704040340625599
+          ],
+          [
+            "market",
+            0.0255059911745707
+          ],
+          [
+            "data",
+            0.01949825327942975
+          ],
+          [
+            "financial",
+            0.018832319696753357
+          ]
+        ],
+        "count": 92
+      },
+      "4": {
+        "name": "4_order_price_impact_model",
+        "keywords": [
+          [
+            "order",
+            0.059684096549846584
+          ],
+          [
+            "price",
+            0.04344120319547405
+          ],
+          [
+            "impact",
+            0.04182662548733832
+          ],
+          [
+            "model",
+            0.03629925677606928
+          ],
+          [
+            "market",
+            0.034710971392542776
+          ],
+          [
+            "orders",
+            0.029464383543513908
+          ],
+          [
+            "limit",
+            0.027408508823623733
+          ],
+          [
+            "book",
+            0.025391681400197107
+          ],
+          [
+            "order book",
+            0.024443669472765953
+          ],
+          [
+            "limit order",
+            0.021530864742954778
+          ]
+        ],
+        "count": 63
+      },
+      "5": {
+        "name": "5_market_agent_model_traders",
+        "keywords": [
+          [
+            "market",
+            0.050619694334827506
+          ],
+          [
+            "agent",
+            0.03401777426902525
+          ],
+          [
+            "model",
+            0.029437772423563498
+          ],
+          [
+            "traders",
+            0.02631022211998211
+          ],
+          [
+            "markets",
+            0.024661214134178586
+          ],
+          [
+            "agents",
+            0.02355864742665183
+          ],
+          [
+            "price",
+            0.02277159713664289
+          ],
+          [
+            "simulation",
+            0.021513601187654306
+          ],
+          [
+            "trading",
+            0.021239449701505077
+          ],
+          [
+            "financial",
+            0.019092600360806056
+          ]
+        ],
+        "count": 50
+      },
+      "6": {
+        "name": "6_LLMs_financial_LLM_sentiment",
+        "keywords": [
+          [
+            "LLMs",
+            0.045627733618879944
+          ],
+          [
+            "financial",
+            0.04269107033336729
+          ],
+          [
+            "LLM",
+            0.04183506802310433
+          ],
+          [
+            "sentiment",
+            0.030604317590310536
+          ],
+          [
+            "news",
+            0.029932285075909268
+          ],
+          [
+            "trading",
+            0.02989415733148724
+          ],
+          [
+            "language",
+            0.029216151127262276
+          ],
+          [
+            "data",
+            0.028657889192952608
+          ],
+          [
+            "models",
+            0.025467960141663862
+          ],
+          [
+            "analysis",
+            0.025282176467123132
+          ]
+        ],
+        "count": 50
+      },
+      "7": {
+        "name": "7_Bitcoin_trading_cryptocurrency_market",
+        "keywords": [
+          [
+            "Bitcoin",
+            0.0411839256864383
+          ],
+          [
+            "trading",
+            0.03414306273604039
+          ],
+          [
+            "cryptocurrency",
+            0.028410488862682284
+          ],
+          [
+            "market",
+            0.02478236007487142
+          ],
+          [
+            "exchanges",
+            0.01924873538349381
+          ],
+          [
+            "study",
+            0.018009228981385156
+          ],
+          [
+            "markets",
+            0.017341200413138965
+          ],
+          [
+            "returns",
+            0.01518846422200739
+          ],
+          [
+            "data",
+            0.01503972492279787
+          ],
+          [
+            "volatility",
+            0.013424060217999864
+          ]
+        ],
+        "count": 45
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.683496261592551,
+        -0.3642713186986009,
+        -0.6400260125187576,
+        -0.5187161643218587,
+        -0.514393848869134,
+        -0.6961691417823391,
+        -0.5749250627723324
+      ],
+      [
+        -0.683496261592551,
+        1.0,
+        -0.6297959965693258,
+        -0.5550723225536668,
+        -0.5521433629404768,
+        -0.5142517613657198,
+        -0.52081625176448,
+        -0.6024906144595876
+      ],
+      [
+        -0.3642713186986009,
+        -0.6297959965693258,
+        1.0,
+        -0.5575910860789315,
+        -0.22345513819051166,
+        -0.4013943225886062,
+        -0.6673514799326588,
+        -0.5706942039325493
+      ],
+      [
+        -0.6400260125187576,
+        -0.5550723225536668,
+        -0.5575910860789315,
+        1.0,
+        -0.5695800170402497,
+        -0.4521087476008279,
+        -0.5432472912430902,
+        -0.48977726197741367
+      ],
+      [
+        -0.5187161643218587,
+        -0.5521433629404768,
+        -0.22345513819051166,
+        -0.5695800170402497,
+        1.0,
+        -0.21103924297702817,
+        -0.6321108922812483,
+        -0.569069927047855
+      ],
+      [
+        -0.514393848869134,
+        -0.5142517613657198,
+        -0.4013943225886062,
+        -0.4521087476008279,
+        -0.21103924297702817,
+        1.0,
+        -0.5579836071421764,
+        -0.4728645322317029
+      ],
+      [
+        -0.6961691417823391,
+        -0.52081625176448,
+        -0.6673514799326588,
+        -0.5432472912430902,
+        -0.6321108922812483,
+        -0.5579836071421764,
+        1.0,
+        -0.575540875746694
+      ],
+      [
+        -0.5749250627723324,
+        -0.6024906144595876,
+        -0.5706942039325493,
+        -0.48977726197741367,
+        -0.569069927047855,
+        -0.4728645322317029,
+        -0.575540875746694,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        2,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0
+      ],
+      "2020-02": [
+        0,
+        0,
+        5,
+        1,
+        6,
+        3,
+        0,
+        1
+      ],
+      "2020-03": [
+        5,
+        1,
+        3,
+        1,
+        5,
+        0,
+        0,
+        2
+      ],
+      "2020-04": [
+        2,
+        0,
+        3,
+        3,
+        8,
+        0,
+        0,
+        1
+      ],
+      "2020-05": [
+        2,
+        0,
+        0,
+        1,
+        3,
+        1,
+        0,
+        0
+      ],
+      "2020-06": [
+        2,
+        2,
+        7,
+        1,
+        4,
+        3,
+        0,
+        0
+      ],
+      "2020-07": [
+        2,
+        0,
+        3,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "2020-08": [
+        0,
+        0,
+        2,
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "2020-09": [
+        3,
+        0,
+        6,
+        0,
+        3,
+        2,
+        0,
+        0
+      ],
+      "2020-10": [
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        1,
+        0
+      ],
+      "2020-11": [
+        3,
+        1,
+        2,
+        1,
+        3,
+        1,
+        1,
+        0
+      ],
+      "2020-12": [
+        4,
+        0,
+        2,
+        1,
+        5,
+        5,
+        0,
+        1
+      ],
+      "2021-01": [
+        2,
+        0,
+        2,
+        2,
+        3,
+        0,
+        2,
+        0
+      ],
+      "2021-02": [
+        2,
+        1,
+        1,
+        1,
+        6,
+        1,
+        0,
+        2
+      ],
+      "2021-03": [
+        5,
+        5,
+        3,
+        0,
+        3,
+        2,
+        0,
+        0
+      ],
+      "2021-04": [
+        5,
+        1,
+        1,
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "2021-05": [
+        1,
+        1,
+        1,
+        6,
+        4,
+        1,
+        2,
+        1
+      ],
+      "2021-06": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        1,
+        0,
+        0
+      ],
+      "2021-07": [
+        1,
+        2,
+        0,
+        0,
+        7,
+        1,
+        0,
+        1
+      ],
+      "2021-08": [
+        1,
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0
+      ],
+      "2021-09": [
+        0,
+        0,
+        3,
+        2,
+        3,
+        2,
+        0,
+        1
+      ],
+      "2021-10": [
+        4,
+        0,
+        2,
+        4,
+        6,
+        4,
+        1,
+        1
+      ],
+      "2021-11": [
+        2,
+        0,
+        0,
+        2,
+        0,
+        2,
+        0,
+        0
+      ],
+      "2021-12": [
+        3,
+        1,
+        3,
+        4,
+        6,
+        1,
+        0,
+        0
+      ],
+      "2022-01": [
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "2022-02": [
+        0,
+        2,
+        1,
+        0,
+        4,
+        1,
+        0,
+        0
+      ],
+      "2022-03": [
+        2,
+        0,
+        1,
+        1,
+        1,
+        3,
+        0,
+        0
+      ],
+      "2022-04": [
+        1,
+        2,
+        4,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "2022-05": [
+        0,
+        0,
+        1,
+        1,
+        5,
+        1,
+        0,
+        1
+      ],
+      "2022-06": [
+        5,
+        3,
+        3,
+        4,
+        1,
+        2,
+        0,
+        1
+      ],
+      "2022-07": [
+        0,
+        0,
+        0,
+        5,
+        1,
+        1,
+        0,
+        1
+      ],
+      "2022-08": [
+        3,
+        1,
+        0,
+        0,
+        2,
+        3,
+        1,
+        0
+      ],
+      "2022-09": [
+        3,
+        0,
+        4,
+        1,
+        4,
+        0,
+        1,
+        0
+      ],
+      "2022-10": [
+        5,
+        1,
+        4,
+        4,
+        2,
+        0,
+        0,
+        1
+      ],
+      "2022-11": [
+        3,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "2022-12": [
+        3,
+        2,
+        2,
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+      "2023-01": [
+        2,
+        0,
+        1,
+        5,
+        4,
+        0,
+        0,
+        0
+      ],
+      "2023-02": [
+        2,
+        1,
+        0,
+        1,
+        7,
+        0,
+        0,
+        0
+      ],
+      "2023-03": [
+        3,
+        2,
+        1,
+        3,
+        3,
+        0,
+        0,
+        0
+      ],
+      "2023-04": [
+        1,
+        2,
+        3,
+        1,
+        2,
+        0,
+        1,
+        1
+      ],
+      "2023-05": [
+        1,
+        2,
+        1,
+        1,
+        3,
+        1,
+        0,
+        0
+      ],
+      "2023-06": [
+        1,
+        0,
+        1,
+        3,
+        4,
+        1,
+        2,
+        2
+      ],
+      "2023-07": [
+        6,
+        2,
+        4,
+        5,
+        3,
+        2,
+        1,
+        1
+      ],
+      "2023-08": [
+        3,
+        1,
+        0,
+        4,
+        5,
+        1,
+        0,
+        1
+      ],
+      "2023-09": [
+        2,
+        3,
+        2,
+        6,
+        1,
+        3,
+        1,
+        1
+      ],
+      "2023-10": [
+        3,
+        1,
+        0,
+        1,
+        3,
+        1,
+        2,
+        1
+      ],
+      "2023-11": [
+        1,
+        0,
+        2,
+        1,
+        2,
+        0,
+        2,
+        1
+      ],
+      "2023-12": [
+        3,
+        1,
+        3,
+        2,
+        1,
+        3,
+        0,
+        0
+      ],
+      "2024-01": [
+        2,
+        2,
+        3,
+        0,
+        3,
+        0,
+        1,
+        2
+      ],
+      "2024-02": [
+        3,
+        2,
+        0,
+        3,
+        1,
+        1,
+        1,
+        1
+      ],
+      "2024-03": [
+        5,
+        2,
+        3,
+        1,
+        2,
+        0,
+        3,
+        0
+      ],
+      "2024-04": [
+        3,
+        1,
+        2,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "2024-05": [
+        4,
+        1,
+        2,
+        0,
+        7,
+        0,
+        1,
+        0
+      ],
+      "2024-06": [
+        2,
+        3,
+        3,
+        5,
+        2,
+        0,
+        1,
+        0
+      ],
+      "2024-07": [
+        5,
+        2,
+        3,
+        2,
+        5,
+        1,
+        2,
+        2
+      ],
+      "2024-08": [
+        2,
+        0,
+        1,
+        2,
+        8,
+        1,
+        0,
+        1
+      ],
+      "2024-09": [
+        2,
+        4,
+        2,
+        1,
+        4,
+        2,
+        0,
+        0
+      ],
+      "2024-10": [
+        4,
+        1,
+        3,
+        2,
+        2,
+        1,
+        3,
+        0
+      ],
+      "2024-11": [
+        5,
+        4,
+        1,
+        3,
+        6,
+        1,
+        3,
+        2
+      ],
+      "2024-12": [
+        7,
+        2,
+        1,
+        0,
+        5,
+        2,
+        3,
+        0
+      ],
+      "2025-01": [
+        3,
+        4,
+        4,
+        0,
+        5,
+        1,
+        2,
+        1
+      ],
+      "2025-02": [
+        3,
+        1,
+        0,
+        3,
+        7,
+        1,
+        7,
+        0
+      ],
+      "2025-03": [
+        3,
+        2,
+        6,
+        2,
+        2,
+        5,
+        1,
+        1
+      ],
+      "2025-04": [
+        2,
+        1,
+        0,
+        0,
+        5,
+        1,
+        2,
+        1
+      ],
+      "2025-05": [
+        3,
+        3,
+        1,
+        0,
+        4,
+        1,
+        2,
+        0
+      ],
+      "2025-06": [
+        3,
+        0,
+        4,
+        1,
+        4,
+        0,
+        0,
+        1
+      ],
+      "2025-07": [
+        3,
+        2,
+        0,
+        2,
+        6,
+        1,
+        4,
+        1
+      ],
+      "2025-08": [
+        9,
+        1,
+        0,
+        2,
+        7,
+        2,
+        2,
+        0
+      ],
+      "2025-09": [
+        4,
+        0,
+        0,
+        2,
+        6,
+        0,
+        2,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Automated Market Making and Decentralized Finance",
+          "year": "2024-07",
+          "abstract": "Automated market makers (AMMs) are a new type of trading venues which are\nrevolutionising the way market participants interact. At present, the majority\nof AMMs are constant function market makers (CFMMs) where a deterministic\ntrading function determines how markets are cleared. Within CFMMs, we focus on\nconstant product market makers (CPMMs) which implements the concentrated\nliquidity (CL) feature. In this thesis we formalise and study the trading\nmechanism of CPMMs with CL, and we develop liquidity provision and liquidity\ntaking strategies. Our models are motivated and tested with market data.\n  We derive optimal strategies for liquidity takers (LTs) who trade orders of\nlarge size and execute statistical arbitrages. First, we consider an LT who\ntrades in a CPMM with CL and uses the dynamics of prices in competing venues as\nmarket signals. We use Uniswap v3 data to study price, liquidity, and trading\ncost dynamics, and to motivate the model. Next, we consider an LT who trades a\nbasket of crypto-currencies whose constituents co-move. We use market data to\nstudy lead-lag effects, spillover effects, and causality between trading\nvenues.\n  We derive optimal strategies for strategic liquidity providers (LPs) who\nprovide liquidity in CPMM with CL. First, we use stochastic control tools to\nderive a self-financing and closed-form optimal liquidity provision strategy\nwhere the width of the LP's liquidity range is determined by the profitability\nof the pool, the dynamics of the LP's position, and concentration risk. Next,\nwe use a model-free approach to solve the problem of an LP who provides\nliquidity in multiple CPMMs with CL. We do not specify a model for the\nstochastic processes observed by LPs, and use a long short-term memory (LSTM)\nneural network to approximate the optimal liquidity provision strategy.",
+          "arxiv_id": "2407.16885v1"
+        },
+        {
+          "title": "Generalizing Impermanent Loss on Decentralized Exchanges with Constant Function Market Makers",
+          "year": "2023-01",
+          "abstract": "Liquidity providers are essential for the function of decentralized exchanges\nto ensure liquidity takers can be guaranteed a counterparty for their trades.\nHowever, liquidity providers investing in liquidity pools face many risks, the\nmost prominent of which is impermanent loss. Currently, analysis of this metric\nis difficult to conduct due to different market maker algorithms, fee\nstructures and concentrated liquidity dynamics across the various exchanges. To\nthis end, we provide a framework to generalize impermanent loss for multiple\nasset pools obeying any constant function market maker with optional\nconcentrated liquidity. We also discuss how pool fees fit into the framework,\nand identify the condition for which liquidity provisioning becomes profitable\nwhen earnings from trading fees exceed impermanent loss. Finally, we\ndemonstrate the utility and generalizability of this framework with simulations\nin BalancerV2 and UniswapV3.",
+          "arxiv_id": "2301.06831v1"
+        },
+        {
+          "title": "Liquidity provision of utility indifference type in decentralized exchanges",
+          "year": "2025-02",
+          "abstract": "We present a mathematical formulation of liquidity provision in decentralized\nexchanges. We focus on constant function market makers of utility indifference\ntype, which include constant product market makers with concentrated liquidity\nas a special case. First, we examine no-arbitrage conditions for a liquidity\npool and compute an optimal arbitrage strategy when there is an external liquid\nmarket. Second, we show that liquidity provision suffers from impermanent loss\nunless a transaction fee is levied under the general framework with\nconcentrated liquidity. Third, we establish the well-definedness of\narbitrage-free reserve processes of a liquidity pool in continuous-time and\nshow that there is no loss-versus-rebalancing under a nonzero fee if the\nexternal market price is continuous. We then argue that liquidity provision by\nmultiple liquidity providers can be understood as liquidity provision by a\nrepresentative liquidity provider, meaning that the analysis boils down to that\nfor a single liquidity provider. Last, but not least, we give an answer to the\nfundamental question in which sense the very construction of constant function\nmarket makers with concentrated liquidity in the popular platform Uniswap v3 is\noptimal.",
+          "arxiv_id": "2502.01931v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Hybrid Models for Financial Forecasting: Combining Econometric, Machine Learning, and Deep Learning Models",
+          "year": "2025-05",
+          "abstract": "This research systematically develops and evaluates various hybrid modeling\napproaches by combining traditional econometric models (ARIMA and ARFIMA\nmodels) with machine learning and deep learning techniques (SVM, XGBoost, and\nLSTM models) to forecast financial time series. The empirical analysis is based\non two distinct financial assets: the S&P 500 index and Bitcoin. By\nincorporating over two decades of daily data for the S&P 500 and almost ten\nyears of Bitcoin data, the study provides a comprehensive evaluation of\nforecasting methodologies across different market conditions and periods of\nfinancial distress. Models' training and hyperparameter tuning procedure is\nperformed using a novel three-fold dynamic cross-validation method. The\napplicability of applied models is evaluated using both forecast error metrics\nand trading performance indicators. The obtained findings indicate that the\nproper construction process of hybrid models plays a crucial role in developing\nprofitable trading strategies, outperforming their individual components and\nthe benchmark Buy&Hold strategy. The most effective hybrid model architecture\nwas achieved by combining the econometric ARIMA model with either SVM or LSTM,\nunder the assumption of a non-additive relationship between the linear and\nnonlinear components.",
+          "arxiv_id": "2505.19617v1"
+        },
+        {
+          "title": "Forecasting S&P 500 Using LSTM Models",
+          "year": "2025-01",
+          "abstract": "With the volatile and complex nature of financial data influenced by external\nfactors, forecasting the stock market is challenging. Traditional models such\nas ARIMA and GARCH perform well with linear data but struggle with non-linear\ndependencies. Machine learning and deep learning models, particularly Long\nShort-Term Memory (LSTM) networks, address these challenges by capturing\nintricate patterns and long-term dependencies. This report compares ARIMA and\nLSTM models in predicting the S&P 500 index, a major financial benchmark.\n  Using historical price data and technical indicators, we evaluated these\nmodels using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). The\nARIMA model showed reasonable performance with an MAE of 462.1, RMSE of 614,\nand 89.8 percent accuracy, effectively capturing short-term trends but limited\nby its linear assumptions. The LSTM model, leveraging sequential processing\ncapabilities, outperformed ARIMA with an MAE of 369.32, RMSE of 412.84, and\n92.46 percent accuracy, capturing both short- and long-term dependencies.\nNotably, the LSTM model without additional features performed best, achieving\nan MAE of 175.9, RMSE of 207.34, and 96.41 percent accuracy, showcasing its\nability to handle market data efficiently.\n  Accurately predicting stock movements is crucial for investment strategies,\nrisk assessments, and market stability. Our findings confirm the potential of\ndeep learning models in handling volatile financial data compared to\ntraditional ones. The results highlight the effectiveness of LSTM and suggest\navenues for further improvements. This study provides insights into financial\nforecasting, offering a comparative analysis of ARIMA and LSTM while outlining\ntheir strengths and limitations.",
+          "arxiv_id": "2501.17366v1"
+        },
+        {
+          "title": "An Efficient deep learning model to Predict Stock Price Movement Based on Limit Order Book",
+          "year": "2025-05",
+          "abstract": "In high-frequency trading (HFT), leveraging limit order books (LOB) to model\nstock price movements is crucial for achieving profitable outcomes. However,\nthis task is challenging due to the high-dimensional and volatile nature of the\noriginal data. Even recent deep learning models often struggle to capture price\nmovement patterns effectively, particularly without well-designed features. We\nobserved that raw LOB data exhibits inherent symmetry between the ask and bid\nsides, and the bid-ask differences demonstrate greater stability and lower\ncomplexity compared to the original data. Building on this insight, we propose\na novel approach in which leverages the Siamese architecture to enhance the\nperformance of existing deep learning models. The core idea involves processing\nthe ask and bid sides separately using the same module with shared parameters.\nWe applied our Siamese-based methods to several widely used strong baselines\nand validated their effectiveness using data from 14 military industry stocks\nin the Chinese A-share market. Furthermore, we integrated multi-head attention\n(MHA) mechanisms with the Long Short-Term Memory (LSTM) module to investigate\nits role in modeling stock price movements. Our experiments used raw data and\nwidely used Order Flow Imbalance (OFI) features as input with some strong\nbaseline models. The results show that our method improves the performance of\nstrong baselines in over 75$% of cases, excluding the Multi-Layer Perception\n(MLP) baseline, which performed poorly and is not considered practical.\nFurthermore, we found that Multi-Head Attention can enhance model performance,\nparticularly over shorter forecasting horizons.",
+          "arxiv_id": "2505.22678v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Optimal Execution under Liquidity Uncertainty",
+          "year": "2025-06",
+          "abstract": "We study an optimal execution strategy for purchasing a large block of shares\nover a fixed time horizon. The execution problem is subject to a general price\nimpact that gradually dissipates due to market resilience. This resilience is\nmodeled through a potentially arbitrary limit-order book shape. To account for\nliquidity dynamics, we introduce a stochastic volume effect governing the\nrecovery of the deviation process, which represents the difference between the\nimpacted and unaffected price. Additionally, we incorporate stochastic\nliquidity variations through a regime-switching Markov chain to capture abrupt\nshifts in market conditions. We study this singular control problem, where the\ntrader optimally determines the timing and rate of purchases to minimize\nexecution costs. The associated value function to this optimization problem is\nshown to satisfy a system of variational Hamilton-Jacobi-Bellman inequalities.\nMoreover, we establish that it is the unique viscosity solution to this HJB\nsystem and study the analytical properties of the free boundary separating the\nexecution and continuation regions. To illustrate our results, we present\nnumerical examples under different limit-order book configurations,\nhighlighting the interplay between price impact, resilience dynamics, and\nstochastic liquidity regimes in shaping the optimal execution strategy.",
+          "arxiv_id": "2506.11813v1"
+        },
+        {
+          "title": "Optimal Execution under Incomplete Information",
+          "year": "2024-11",
+          "abstract": "We study optimal liquidation strategies under partial information for a\nsingle asset within a finite time horizon. We propose a model tailored for\nhigh-frequency trading, capturing price formation driven solely by order flow\nthrough mutually stimulating marked Hawkes processes. The model assumes a limit\norder book framework, accounting for both permanent price impact and transient\nmarket impact. Importantly, we incorporate liquidity as a hidden Markov\nprocess, influencing the intensities of the point processes governing bid and\nask prices. Within this setting, we formulate the optimal liquidation problem\nas an impulse control problem. We elucidate the dynamics of the hidden Markov\nchain's filter and determine the related normalized filtering equations. We\nthen express the value function as the limit of a sequence of auxiliary\ncontinuous functions, defined recursively. This characterization enables the\nuse of a dynamic programming principle for optimal stopping problems and the\ndetermination of an optimal strategy. It also facilitates the development of an\nimplementable algorithm to approximate the original liquidation problem. We\nenrich our analysis with numerical results and visualizations of candidate\noptimal strategies.",
+          "arxiv_id": "2411.04616v1"
+        },
+        {
+          "title": "Trading with the Crowd",
+          "year": "2021-06",
+          "abstract": "We formulate and solve a multi-player stochastic differential game between\nfinancial agents who seek to cost-efficiently liquidate their position in a\nrisky asset in the presence of jointly aggregated transient price impact, along\nwith taking into account a common general price predicting signal. The unique\nNash-equilibrium strategies reveal how each agent's liquidation policy adjusts\nthe predictive trading signal to the aggregated transient price impact induced\nby all other agents. This unfolds a quantitative relation between trading\nsignals and the order flow in crowded markets. We also formulate and solve the\ncorresponding mean field game in the limit of infinitely many agents. We prove\nthat the equilibrium trading speed and the value function of an agent in the\nfinite $N$-player game converges to the corresponding trading speed and value\nfunction in the mean field game at rate $O(N^{-2})$. In addition, we prove that\nthe mean field optimal strategy provides an approximate Nash-equilibrium for\nthe finite-player game.",
+          "arxiv_id": "2106.09267v3"
+        }
+      ],
+      "3": [
+        {
+          "title": "Quantitative Trading using Deep Q Learning",
+          "year": "2023-04",
+          "abstract": "Reinforcement learning (RL) is a subfield of machine learning that has been\nused in many fields, such as robotics, gaming, and autonomous systems. There\nhas been growing interest in using RL for quantitative trading, where the goal\nis to make trades that generate profits in financial markets. This paper\npresents the use of RL for quantitative trading and reports a case study based\non an RL-based trading algorithm. The results show that RL can be a useful tool\nfor quantitative trading and can perform better than traditional trading\nalgorithms. The use of reinforcement learning for quantitative trading is a\npromising area of research that can help develop more sophisticated and\nefficient trading systems. Future research can explore the use of other\nreinforcement learning techniques, the use of other data sources, and the\ntesting of the system on a range of asset classes. Together, our work shows the\npotential in the use of reinforcement learning for quantitative trading and the\nneed for further research and development in this area. By developing the\nsophistication and efficiency of trading systems, it may be possible to make\nfinancial markets more efficient and generate higher returns for investors.",
+          "arxiv_id": "2304.06037v2"
+        },
+        {
+          "title": "An Application of Deep Reinforcement Learning to Algorithmic Trading",
+          "year": "2020-04",
+          "abstract": "This scientific research paper presents an innovative approach based on deep\nreinforcement learning (DRL) to solve the algorithmic trading problem of\ndetermining the optimal trading position at any point in time during a trading\nactivity in stock markets. It proposes a novel DRL trading strategy so as to\nmaximise the resulting Sharpe ratio performance indicator on a broad range of\nstock markets. Denominated the Trading Deep Q-Network algorithm (TDQN), this\nnew trading strategy is inspired from the popular DQN algorithm and\nsignificantly adapted to the specific algorithmic trading problem at hand. The\ntraining of the resulting reinforcement learning (RL) agent is entirely based\non the generation of artificial trajectories from a limited set of stock market\nhistorical data. In order to objectively assess the performance of trading\nstrategies, the research paper also proposes a novel, more rigorous performance\nassessment methodology. Following this new performance assessment approach,\npromising results are reported for the TDQN strategy.",
+          "arxiv_id": "2004.06627v3"
+        },
+        {
+          "title": "MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading",
+          "year": "2024-06",
+          "abstract": "High-frequency trading (HFT) that executes algorithmic trading in short time\nscales, has recently occupied the majority of cryptocurrency market. Besides\ntraditional quantitative trading methods, reinforcement learning (RL) has\nbecome another appealing approach for HFT due to its terrific ability of\nhandling high-dimensional financial data and solving sophisticated sequential\ndecision-making problems, \\emph{e.g.,} hierarchical reinforcement learning\n(HRL) has shown its promising performance on second-level HFT by training a\nrouter to select only one sub-agent from the agent pool to execute the current\ntransaction. However, existing RL methods for HFT still have some defects: 1)\nstandard RL-based trading agents suffer from the overfitting issue, preventing\nthem from making effective policy adjustments based on financial context; 2)\ndue to the rapid changes in market conditions, investment decisions made by an\nindividual agent are usually one-sided and highly biased, which might lead to\nsignificant loss in extreme markets. To tackle these problems, we propose a\nnovel Memory Augmented Context-aware Reinforcement learning method On HFT,\n\\emph{a.k.a.} MacroHFT, which consists of two training phases: 1) we first\ntrain multiple types of sub-agents with the market data decomposed according to\nvarious financial indicators, specifically market trend and volatility, where\neach agent owns a conditional adapter to adjust its trading policy according to\nmarket conditions; 2) then we train a hyper-agent to mix the decisions from\nthese sub-agents and output a consistently profitable meta-policy to handle\nrapid market fluctuations, equipped with a memory mechanism to enhance the\ncapability of decision-making. Extensive experiments on various cryptocurrency\nmarkets demonstrate that MacroHFT can achieve state-of-the-art performance on\nminute-level trading tasks.",
+          "arxiv_id": "2406.14537v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility: A Unifying Framework",
+          "year": "2025-06",
+          "abstract": "In this work, we aim to reconcile several apparently contradictory\nobservations in market microstructure: is the famous \"square-root law\" of\nmetaorder impact, which decays with time, compatible with the random-walk\nnature of prices and the linear impact of order imbalances? Can one entirely\nexplain the volatility of prices as resulting from the flow of uninformed\nmetaorders that mechanically impact them? We introduce a new theoretical\nframework to describe metaorders with different signs, sizes and durations,\nwhich all impact prices as a square-root of volume but with a subsequent time\ndecay. We show that, as in the original propagator model, price diffusion is\nensured by the long memory of cross-correlations between metaorders. In order\nto account for the effect of strongly fluctuating volumes q of individual\ntrades, we further introduce two q-dependent exponents, which allow us to\ndescribe how the moments of generalized volume imbalance and the correlation\nbetween price changes and generalized order flow imbalance scale with T. We\npredict in particular that the corresponding power-laws depend in a\nnon-monotonic fashion on a parameter a, which allows one to put the same weight\non all child orders or to overweight large ones, a behaviour that is clearly\nborne out by empirical data. We also predict that the correlation between price\nchanges and volume imbalances should display a maximum as a function of a,\nwhich again matches observations. Such noteworthy agreement between theory and\ndata suggests that our framework correctly captures the basic mechanism at the\nheart of price formation, namely the average impact of metaorders. We argue\nthat our results support the \"Order-Driven\" theory of excess volatility, and\nare at odds with the idea that a \"Fundamental\" component accounts for a large\nshare of the volatility of financial markets.",
+          "arxiv_id": "2506.07711v5"
+        },
+        {
+          "title": "Anomalous diffusion and price impact in the fluid-limit of an order book",
+          "year": "2023-10",
+          "abstract": "We extend a Discrete Time Random Walk (DTRW) numerical scheme to simulate the\nanomalous diffusion of financial market orders in a simulated order book. Here\nusing random walks with Sibuya waiting times to include a time-dependent\nstochastic forcing function with non-uniformly sampled times between order book\nevents in the setting of fractional diffusion. This models the fluid limit of\nan order book by modelling the continuous arrival, cancellation and diffusion\nof orders in the presence of information shocks. We study the impulse response\nand stylised facts of orders undergoing anomalous diffusion for different\nforcing functions and model parameters. Concretely, we demonstrate the price\nimpact for flash limit-orders and market orders and show how the numerical\nmethod generate kinks in the price impact. We use cubic spline interpolation to\ngenerate smoothed price impact curves. The work promotes the use of non-uniform\nsampling in the presence of diffusive dynamics as the preferred simulation\nmethod.",
+          "arxiv_id": "2310.06079v4"
+        },
+        {
+          "title": "Two Price Regimes in Limit Order Books: Liquidity Cushion and Fragmented Distant Field",
+          "year": "2021-06",
+          "abstract": "The distribution of liquidity within the limit order book is essential for\nthe impact of market orders on the stock price and the emergence of price\nshocks. Limit orders are characterized by stylized facts: The number of\ninserted limit orders declines with the price distance from the quotes\nfollowing a power law and limit order lifetimes and volumes are power law\ndistributed. Strong dependencies among these quantities add to the complexity\nof limit order books. Here we analyze the limit order book in the dimensions of\nprice, time, limit order lifetime and volume altogether. This allows us to\nidentify regularities which are not visible in marginal distributions.\nParticularly we find that the limit order book is divided into two regimes.\nAround the quotes we find a densely filled regime with mostly short living\nlimit orders closely adapting to the price. Far away from the quotes we find a\nsparse filling with long living limit orders, mostly inserted at particular\ntimes of the day being prone to flash crashes. We determine the characteristics\nof those two regimes and point out the main differences. Based on our research\nwe propose a model for simulating the regime around the quotes.",
+          "arxiv_id": "2106.11691v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Agent-Based Simulation of a Perpetual Futures Market",
+          "year": "2025-01",
+          "abstract": "I introduce an agent-based model of a Perpetual Futures market with\nheterogeneous agents trading via a central limit order book. Perpetual Futures\n(henceforth Perps) are financial derivatives introduced by the economist Robert\nShiller, designed to peg their price to that of the underlying Spot market.\nThis paper extends the limit order book model of Chiarella et al. (2002) by\ntaking their agent and orderbook parameters, designed for a simple stock\nexchange, and applying it to the more complex environment of a Perp market with\nlong and short traders who exhibit both positional and basis-trading behaviors.\nI find that despite the simplicity of the agent behavior, the simulation is\nable to reproduce the most salient feature of a Perp market, the pegging of the\nPerp price to the underlying Spot price. In contrast to fundamental simulations\nof stock markets which aim to reproduce empirically observed stylized facts\nsuch as the leptokurtosis and heteroscedasticity of returns, volatility\nclustering and others, in derivatives markets many of these features are\nprovided exogenously by the underlying Spot price signal. This is especially\ntrue of Perps since the derivative is designed to mimic the price of the Spot\nmarket. Therefore, this paper will focus exclusively on analyzing how market\nand agent parameters such as order lifetime, trading horizon and spread affect\nthe premiums at which Perps trade with respect to the underlying Spot market. I\nshow that this simulation provides a simple and robust environment for\nexploring the dynamics of Perpetual Futures markets and their microstructure in\nthis regard. Lastly, I explore the ability of the model to reproduce the\neffects of biasing long traders to trade positionally and short traders to\nbasis-trade, which was the original intention behind the market design, and is\na tendency observed empirically in real Perp markets.",
+          "arxiv_id": "2501.09404v1"
+        },
+        {
+          "title": "High-frequency financial market simulation and flash crash scenarios analysis: an agent-based modelling approach",
+          "year": "2022-08",
+          "abstract": "This paper describes simulations and analysis of flash crash scenarios in an\nagent-based modelling framework. We design, implement, and assess a novel\nhigh-frequency agent-based financial market simulator that generates realistic\nmillisecond-level financial price time series for the E-Mini S&P 500 futures\nmarket. Specifically, a microstructure model of a single security traded on a\ncentral limit order book is provided, where different types of traders follow\ndifferent behavioural rules. The model is calibrated using the machine learning\nsurrogate modelling approach. Statistical test and moment coverage ratio\nresults show that the model has excellent capability of reproducing realistic\nstylised facts in financial markets. By introducing an institutional trader\nthat mimics the real-world Sell Algorithm on May 6th, 2010, the proposed\nhigh-frequency agent-based financial market simulator is used to simulate the\nFlash Crash that took place that day. We scrutinise the market dynamics during\nthe simulated flash crash and show that the simulated dynamics are consistent\nwith what happened in historical flash crash scenarios. With the help of Monte\nCarlo simulations, we discover functional relationships between the amplitude\nof the simulated 2010 Flash Crash and three conditions: the percentage of\nvolume of the Sell Algorithm, the market maker inventory limit, and the trading\nfrequency of fundamental traders. Similar analyses are carried out for mini\nflash crash events. An innovative \"Spiking Trader\" is introduced to the model,\naiming at precipitating mini flash crash events. We analyse the market dynamics\nduring the course of a typical simulated mini flash crash event and study the\nconditions affecting its characteristics. The proposed model can be used for\ntesting resiliency and robustness of trading algorithms and providing advice\nfor policymakers.",
+          "arxiv_id": "2208.13654v1"
+        },
+        {
+          "title": "A simple learning agent interacting with an agent-based market model",
+          "year": "2022-08",
+          "abstract": "We consider the learning dynamics of a single reinforcement learning optimal\nexecution trading agent when it interacts with an event driven agent-based\nfinancial market model. Trading takes place asynchronously through a matching\nengine in event time. The optimal execution agent is considered at different\nlevels of initial order-sizes and differently sized state spaces. The resulting\nimpact on the agent-based model and market are considered using a calibration\napproach that explores changes in the empirical stylised facts and price impact\ncurves. Convergence, volume trajectory and action trace plots are used to\nvisualise the learning dynamics. Here the smaller state space agents had the\nnumber of states they visited converge much faster than the larger state space\nagents, and they were able to start learning to trade intuitively using the\nspread and volume states. We find that the moments of the model are robust to\nthe impact of the learning agents except for the Hurst exponent, which was\nlowered by the introduction of strategic order-splitting. The introduction of\nthe learning agent preserves the shape of the price impact curves but can\nreduce the trade-sign auto-correlations when their trading volumes increase.",
+          "arxiv_id": "2208.10434v4"
+        }
+      ],
+      "6": [
+        {
+          "title": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models",
+          "year": "2024-05",
+          "abstract": "As financial institutions and professionals increasingly incorporate Large\nLanguage Models (LLMs) into their workflows, substantial barriers, including\nproprietary data and specialized knowledge, persist between the finance sector\nand the AI community. These challenges impede the AI community's ability to\nenhance financial tasks effectively. Acknowledging financial analysis's\ncritical role, we aim to devise financial-specialized LLM-based toolchains and\ndemocratize access to them through open-source initiatives, promoting wider AI\nadoption in financial decision-making. In this paper, we introduce FinRobot, a\nnovel open-source AI agent platform supporting multiple financially specialized\nAI agents, each powered by LLM. Specifically, the platform consists of four\nmajor layers: 1) the Financial AI Agents layer that formulates Financial\nChain-of-Thought (CoT) by breaking sophisticated financial problems down into\nlogical sequences; 2) the Financial LLM Algorithms layer dynamically configures\nappropriate model application strategies for specific tasks; 3) the LLMOps and\nDataOps layer produces accurate models by applying training/fine-tuning\ntechniques and using task-relevant data; 4) the Multi-source LLM Foundation\nModels layer that integrates various LLMs and enables the above layers to\naccess them directly. Finally, FinRobot provides hands-on for both\nprofessional-grade analysts and laypersons to utilize powerful AI techniques\nfor advanced financial analysis. We open-source FinRobot at\n\\url{https://github.com/AI4Finance-Foundation/FinRobot}.",
+          "arxiv_id": "2405.14767v2"
+        },
+        {
+          "title": "Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models",
+          "year": "2023-06",
+          "abstract": "Sentiment analysis is a vital tool for uncovering insights from financial\narticles, news, and social media, shaping our understanding of market\nmovements. Despite the impressive capabilities of large language models (LLMs)\nin financial natural language processing (NLP), they still struggle with\naccurately interpreting numerical values and grasping financial context,\nlimiting their effectiveness in predicting financial sentiment. In this paper,\nwe introduce a simple yet effective instruction tuning approach to address\nthese issues. By transforming a small portion of supervised financial sentiment\nanalysis data into instruction data and fine-tuning a general-purpose LLM with\nthis method, we achieve remarkable advancements in financial sentiment\nanalysis. In the experiment, our approach outperforms state-of-the-art\nsupervised sentiment analysis models, as well as widely used LLMs like ChatGPT\nand LLaMAs, particularly in scenarios where numerical understanding and\ncontextual comprehension are vital.",
+          "arxiv_id": "2306.12659v1"
+        },
+        {
+          "title": "Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models",
+          "year": "2023-10",
+          "abstract": "Financial sentiment analysis is critical for valuation and investment\ndecision-making. Traditional NLP models, however, are limited by their\nparameter size and the scope of their training datasets, which hampers their\ngeneralization capabilities and effectiveness in this field. Recently, Large\nLanguage Models (LLMs) pre-trained on extensive corpora have demonstrated\nsuperior performance across various NLP tasks due to their commendable\nzero-shot abilities. Yet, directly applying LLMs to financial sentiment\nanalysis presents challenges: The discrepancy between the pre-training\nobjective of LLMs and predicting the sentiment label can compromise their\npredictive performance. Furthermore, the succinct nature of financial news,\noften devoid of sufficient context, can significantly diminish the reliability\nof LLMs' sentiment analysis. To address these challenges, we introduce a\nretrieval-augmented LLMs framework for financial sentiment analysis. This\nframework includes an instruction-tuned LLMs module, which ensures LLMs behave\nas predictors of sentiment labels, and a retrieval-augmentation module which\nretrieves additional context from reliable external sources. Benchmarked\nagainst traditional models and LLMs like ChatGPT and LLaMA, our approach\nachieves 15\\% to 48\\% performance gain in accuracy and F1 score.",
+          "arxiv_id": "2310.04027v2"
+        }
+      ],
+      "7": [
+        {
+          "title": "The Efficient Market Hypothesis for Bitcoin in the context of neural networks",
+          "year": "2022-06",
+          "abstract": "This study examines the weak form of the efficient market hypothesis for\nBitcoin using a feedforward neural network. Due to the increasing popularity of\ncryptocurrencies in recent years, the question has arisen, as to whether market\ninefficiencies could be exploited in Bitcoin. Several studies we refer to here\ndiscuss this topic in the context of Bitcoin using either statistical tests or\nmachine learning methods, mostly relying exclusively on data from Bitcoin\nitself. Results regarding market efficiency vary from study to study. In this\nstudy, however, the focus is on applying various asset-related input features\nin a neural network. The aim is to investigate whether the prediction accuracy\nimproves when adding equity stock indices (S&P 500, Russell 2000), currencies\n(EURUSD), 10 Year US Treasury Note Yield as well as Gold&Silver producers index\n(XAU), in addition to using Bitcoin returns as input feature. As expected, the\nresults show that more features lead to higher training performance from 54.6%\nprediction accuracy with one feature to 61% with six features. On the test set,\nwe observe that with our neural network methodology, adding additional asset\nclasses, no increase in prediction accuracy is achieved. One feature set is\nable to partially outperform a buy-and-hold strategy, but the performance drops\nagain as soon as another feature is added. This leads us to the partial\nconclusion that weak market inefficiencies for Bitcoin cannot be detected using\nneural networks and the given asset classes as input. Therefore, based on this\nstudy, we find evidence that the Bitcoin market is efficient in the sense of\nthe efficient market hypothesis during the sample period. We encourage further\nresearch in this area, as much depends on the sample period chosen, the input\nfeatures, the model architecture, and the hyperparameters.",
+          "arxiv_id": "2208.07254v1"
+        },
+        {
+          "title": "Bitcoin ETF: Opportunities and risk",
+          "year": "2024-08",
+          "abstract": "The year 2024 witnessed a major development in the cryptocurrency industry\nwith the long-awaited approval of spot Bitcoin exchange-traded funds (ETFs).\nThis innovation provides investors with a new, regulated path to gain exposure\nto Bitcoin through a familiar investment vehicle (Kumar et al., 2024). However,\nunlike traditional ETFs that directly hold underlying assets, Bitcoin ETFs rely\non a creation and redemption process managed by authorized participants (APs).\nThis unique structure introduces distinct characteristics in terms of\npremium/discount behavior compared to traditional ETFs. This paper investigates\nthe premium and discount patterns observed in Bitcoin ETFs during first\nfour-month period (January 11th, 2024, to May 17th, 2024). Our analysis reveals\nthat these patterns differ significantly from those observed in traditional\nindex ETFs, potentially exposing investors to additional risk factors. By\nidentifying and analyzing these risk factors associated with Bitcoin ETF\npremiums/discounts, this paper aims to achieve two key objectives: Enhance\nmarket understanding: Equip and market and investors with a deeper\ncomprehension of the unique liquidity risks inherent in Bitcoin ETFs. Provide a\nclearer risk management frameworks: Offer a clearer perspective on the\nrisk-return profile of digital asset ETFs, specifically focusing on Bitcoin\nETFs. Through a thorough analysis of premium/discount behavior and the\nunderlying factors contributing to it, this paper strives to contribute\nvaluable insights for investors navigating the evolving landscape of digital\nasset investments",
+          "arxiv_id": "2409.00270v1"
+        },
+        {
+          "title": "How Wash Traders Exploit Market Conditions in Cryptocurrency Markets",
+          "year": "2024-11",
+          "abstract": "Wash trading, the practice of simultaneously placing buy and sell orders for\nthe same asset to inflate trading volume, has been prevalent in cryptocurrency\nmarkets. This paper investigates whether wash traders in Bitcoin act\ndeliberately to exploit market conditions and identifies the characteristics of\nsuch manipulative behavior. Using a unique dataset of 18 million transactions\nfrom Mt. Gox, once the largest Bitcoin exchange, I find that wash trading\nintensifies when legitimate trading volume is low and diminishes when it is\nhigh, indicating strategic timing to maximize impact in less liquid markets.\nThe activity also exhibits spillover effects across platforms and decreases\nwhen trading volumes in other asset classes like stocks or gold rise,\nsuggesting sensitivity to broader market dynamics. Additionally, wash traders\nexploit periods of heightened media attention and online rumors to amplify\ntheir influence, causing rapid but short-lived spikes in legitimate trading\nvolume. Using an exogenous demand shock associated with illicit online\nmarketplaces, I find that wash trading responds to contemporaneous events\naffecting Bitcoin demand. These results advance the understanding of\nmanipulative practices in digital currency markets and have significant\nimplications for regulators aiming to detect and prevent wash trading.",
+          "arxiv_id": "2411.08720v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:05:23Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

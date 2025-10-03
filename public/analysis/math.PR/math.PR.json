@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_random_time_stochastic_model",
+        "keywords": [
+          [
+            "random",
+            0.03873121487813029
+          ],
+          [
+            "time",
+            0.0269195676299817
+          ],
+          [
+            "stochastic",
+            0.024814083035924816
+          ],
+          [
+            "model",
+            0.0238968579747298
+          ],
+          [
+            "process",
+            0.023235213736128402
+          ],
+          [
+            "results",
+            0.020968702915630546
+          ],
+          [
+            "distribution",
+            0.019646011450295382
+          ],
+          [
+            "probability",
+            0.01925176545558658
+          ],
+          [
+            "processes",
+            0.018284956162557688
+          ],
+          [
+            "study",
+            0.018155379341061643
+          ]
+        ],
+        "count": 23100
+      },
+      "1": {
+        "name": "1_queue_service_time_server",
+        "keywords": [
+          [
+            "queue",
+            0.046815829914379194
+          ],
+          [
+            "service",
+            0.0390676917798248
+          ],
+          [
+            "time",
+            0.03417716296603549
+          ],
+          [
+            "server",
+            0.032482453619964706
+          ],
+          [
+            "queueing",
+            0.02542383552105444
+          ],
+          [
+            "traffic",
+            0.023339933171963815
+          ],
+          [
+            "servers",
+            0.02276252231696733
+          ],
+          [
+            "arrival",
+            0.021818539191345278
+          ],
+          [
+            "policy",
+            0.021626960624570146
+          ],
+          [
+            "systems",
+            0.02006434624761685
+          ]
+        ],
+        "count": 568
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.08753233189033204
+      ],
+      [
+        -0.08753233189033204,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        271,
+        16
+      ],
+      "2020-02": [
+        255,
+        11
+      ],
+      "2020-03": [
+        323,
+        20
+      ],
+      "2020-04": [
+        323,
+        23
+      ],
+      "2020-05": [
+        306,
+        25
+      ],
+      "2020-06": [
+        340,
+        17
+      ],
+      "2020-07": [
+        344,
+        11
+      ],
+      "2020-08": [
+        302,
+        16
+      ],
+      "2020-09": [
+        311,
+        7
+      ],
+      "2020-10": [
+        346,
+        12
+      ],
+      "2020-11": [
+        313,
+        17
+      ],
+      "2020-12": [
+        335,
+        20
+      ],
+      "2021-01": [
+        299,
+        11
+      ],
+      "2021-02": [
+        320,
+        15
+      ],
+      "2021-03": [
+        330,
+        19
+      ],
+      "2021-04": [
+        317,
+        18
+      ],
+      "2021-05": [
+        327,
+        16
+      ],
+      "2021-06": [
+        341,
+        13
+      ],
+      "2021-07": [
+        301,
+        21
+      ],
+      "2021-08": [
+        267,
+        17
+      ],
+      "2021-09": [
+        298,
+        20
+      ],
+      "2021-10": [
+        311,
+        23
+      ],
+      "2021-11": [
+        340,
+        17
+      ],
+      "2021-12": [
+        307,
+        10
+      ],
+      "2022-01": [
+        283,
+        15
+      ],
+      "2022-02": [
+        263,
+        12
+      ],
+      "2022-03": [
+        344,
+        15
+      ],
+      "2022-04": [
+        254,
+        14
+      ],
+      "2022-05": [
+        322,
+        17
+      ],
+      "2022-06": [
+        315,
+        18
+      ],
+      "2022-07": [
+        334,
+        19
+      ],
+      "2022-08": [
+        303,
+        18
+      ],
+      "2022-09": [
+        344,
+        11
+      ],
+      "2022-10": [
+        311,
+        15
+      ],
+      "2022-11": [
+        353,
+        14
+      ],
+      "2022-12": [
+        341,
+        10
+      ],
+      "2023-01": [
+        281,
+        10
+      ],
+      "2023-02": [
+        275,
+        15
+      ],
+      "2023-03": [
+        333,
+        15
+      ],
+      "2023-04": [
+        290,
+        16
+      ],
+      "2023-05": [
+        318,
+        15
+      ],
+      "2023-06": [
+        292,
+        21
+      ],
+      "2023-07": [
+        350,
+        13
+      ],
+      "2023-08": [
+        294,
+        14
+      ],
+      "2023-09": [
+        341,
+        17
+      ],
+      "2023-10": [
+        369,
+        15
+      ],
+      "2023-11": [
+        342,
+        14
+      ],
+      "2023-12": [
+        351,
+        17
+      ],
+      "2024-01": [
+        322,
+        13
+      ],
+      "2024-02": [
+        357,
+        20
+      ],
+      "2024-03": [
+        382,
+        10
+      ],
+      "2024-04": [
+        285,
+        13
+      ],
+      "2024-05": [
+        370,
+        16
+      ],
+      "2024-06": [
+        316,
+        9
+      ],
+      "2024-07": [
+        357,
+        17
+      ],
+      "2024-08": [
+        305,
+        5
+      ],
+      "2024-09": [
+        368,
+        12
+      ],
+      "2024-10": [
+        427,
+        13
+      ],
+      "2024-11": [
+        354,
+        15
+      ],
+      "2024-12": [
+        423,
+        16
+      ],
+      "2025-01": [
+        389,
+        18
+      ],
+      "2025-02": [
+        366,
+        16
+      ],
+      "2025-03": [
+        430,
+        20
+      ],
+      "2025-04": [
+        363,
+        17
+      ],
+      "2025-05": [
+        360,
+        18
+      ],
+      "2025-06": [
+        374,
+        5
+      ],
+      "2025-07": [
+        388,
+        14
+      ],
+      "2025-08": [
+        348,
+        17
+      ],
+      "2025-09": [
+        210,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Local and global universality of random matrix cokernels",
+          "year": "2022-10",
+          "abstract": "In this paper we study the cokernels of various random integral matrix\nmodels, including random symmetric, random skew-symmetric, and random Laplacian\nmatrices. We provide a systematic method to establish universality under very\ngeneral randomness assumption. Our highlights include both local and global\nuniversality of the cokernel statistics of all these models. In particular, we\nfind the probability that a sandpile group of an Erdos-Renyi random graph is\ncyclic, answering a question of Lorenzini from 2008.",
+          "arxiv_id": "2210.08526v1"
+        },
+        {
+          "title": "Optimal regularity of SPDEs with additive noise",
+          "year": "2022-08",
+          "abstract": "The sample-function regularity of the random-field solution to a stochastic\npartial differential equation (SPDE) depends naturally on the roughness of the\nexternal noise, as well as on the properties of the underlying\nintegro-differential operator that is used to define the equation. In this\npaper, we consider parabolic and hyperbolic SPDEs on\n$0,\\infty)\\times\\mathbb{R}^d$ of the form $\\partial_t u = L u + g(u) + \\dot{F}\n\\qquad\\text{and}\\qquad \\partial^2_t u = L u + c + \\dot{F}, $ with suitable\ninitial data, forced with a space-time homogeneous Gaussian noise $\\dot{F}$\nthat is white in its time variable and correlated in its space variable, and\ndriven by the generator $L$ of a genuinely $d$-dimensional L\\'evy process $X$.\nWe find optimal H\\\"older conditions for the respective random-field solutions\nto these SPDEs. Our conditions are stated in terms of indices that describe\nthresholds on the integrability of some functionals of the characteristic\nexponent of the process $X$ with respect to the spectral measure of the spatial\ncovariance of $\\dot F$. Those indices are suggested by references [45, 46] on\nthe particular case that $L$ is the Laplace operator on $\\mathbb{R}^d$.",
+          "arxiv_id": "2208.01728v2"
+        },
+        {
+          "title": "Evolution of time-fractional stochastic hyperbolic diffusion equations on the unit sphere",
+          "year": "2024-12",
+          "abstract": "This paper examines the temporal evolution of a two-stage stochastic model\nfor spherical random fields. The model uses a time-fractional stochastic\nhyperbolic diffusion equation, which describes the evolution of spherical\nrandom fields on $\\bS^2$ in time. The diffusion operator incorporates a\ntime-fractional derivative in the Caputo sense. In the first stage of the\nmodel, a homogeneous problem is considered, with an isotropic Gaussian random\nfield on $\\bS^2$ serving as the initial condition. In the second stage, the\nmodel transitions to an inhomogeneous problem driven by a time-delayed Brownian\nmotion on $\\bS^2$. The solution to the model is expressed through a series of\nreal spherical harmonics. To obtain an approximation, the expansion of the\nsolution is truncated at a certain degree $L\\geq1$. The analysis of truncation\nerrors reveals their convergence behavior, showing that convergence rates are\naffected by the decay of the angular power spectra of the driving noise and the\ninitial condition. In addition, we investigate the sample properties of the\nstochastic solution, demonstrating that, under some conditions, there exists a\nlocal H\\\"{o}lder continuous modification of the solution. To illustrate the\ntheoretical findings, numerical examples and simulations inspired by the cosmic\nmicrowave background (CMB) are presented.",
+          "arxiv_id": "2412.05817v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "A Robust Queueing Network Analyzer Based on Indices of Dispersion",
+          "year": "2020-03",
+          "abstract": "We develop a robust queueing network analyzer algorithm to approximate the\nsteady-state performance of a single-class open queueing network of\nsingle-server queues with Markovian routing. The algorithm allows non-renewal\nexternal arrival processes, general service-time distributions and customer\nfeedback. We focus on the customer flows, defined as the continuous-time\nprocesses counting customers flowing into or out of the network, or flowing\nfrom one queue to another. Each flow is partially characterized by its rate and\na continuous function that measures the stochastic variability over time. This\nfunction is a scaled version of the variance-time curve, called the index of\ndispersion for counts (IDC). The required IDC functions for the flows can be\ncalculated from the model primitives, estimated from data or approximated by\nsolving a set of linear equations. A robust queueing technique is used to\ngenerate approximations of the mean steady-state performance at each queue from\nthe IDC of the total arrival flow and the service specification at that queue.\nThe algorithm effectiveness is supported by extensive simulation studies and\nheavy-traffic limits.",
+          "arxiv_id": "2003.11174v1"
+        },
+        {
+          "title": "Queues with service resetting",
+          "year": "2023-11",
+          "abstract": "Service time fluctuations heavily affect the performance of queueing systems,\ncausing long waiting times and backlogs. Recently, it was shown that when\nservice times are solely determined by the server, service resetting can\nmitigate the deleterious effects of service time fluctuations and drastically\nimprove queue performance (Bonomo et al.,2022). Yet, in many queueing systems,\nservice times have two independent sources: the intrinsic server slowdown ($S$)\nand the jobs' inherent size ($X$). In these, so-called $S\\&X$ queues (Gardner\net al., 2017), service resetting results in a newly drawn server slowdown while\nthe inherent job size remains unchanged. Remarkably, resetting can be useful\neven then. To show this, we develop a comprehensive theory of $S\\&X$ queues\nwith service resetting. We consider cases where the total service time is\neither a product or a sum of the service slowdown and the jobs' inherent size.\nFor both cases, we derive expressions for the total service time distribution\nand its mean under a generic service resetting policy. Two prevalent resetting\npolicies are discussed in more detail. We first analyze the constant-rate\n(Poissonian) resetting policy and derive explicit conditions under which\nresetting reduces the mean service time and improves queue performance. Next,\nwe consider the sharp (deterministic) resetting policy. While results hold\nregardless of the arrival process, we dedicate special attention to the\n$S\\&X$-M/G/1 queue with service resetting, and obtain the distribution of the\nnumber of jobs in the system and their sojourn time. Our analysis highlights\nsituations where service resetting can be used as an effective tool to improve\nthe performance of $S\\&X$ queueing systems. Several examples are given to\nillustrate our analytical results, which are corroborated using numerical\nsimulations.",
+          "arxiv_id": "2311.07770v2"
+        },
+        {
+          "title": "On the SRPT Scheduling Discipline in Many-Server Queues with Impatient Customers",
+          "year": "2021-02",
+          "abstract": "The shortest-remaining-processing-time (SRPT) scheduling policy has been\nextensively studied, for more than 50 years, in single-server queues with\ninfinitely patient jobs. Yet, much less is known about its performance in\nmultiserver queues. In this paper, we present the first theoretical analysis of\nSRPT in multiserver queues with abandonment. In particular, we consider the\nM/GI/s+GI queue and demonstrate that, in the many-sever overloaded regime,\nperformance in the SRPT queue is equivalent, asymptotically in steady state, to\na preemptive two-class priority queue where customers with short service times\n(below a threshold) are served without wait, and customers with long service\ntimes (above a threshold) eventually abandon without service. We prove that the\nSRPT discipline maximizes, asymptotically, the system throughput, among all\nscheduling disciplines. We also compare the performance of the SRPT policy to\nblind policies and study the effects of the patience-time and service-time\ndistributions.",
+          "arxiv_id": "2102.05789v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:57:32Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

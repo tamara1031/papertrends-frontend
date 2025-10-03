@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_market_data_model_financial",
+        "keywords": [
+          [
+            "market",
+            0.04195118523445039
+          ],
+          [
+            "data",
+            0.0390191825813515
+          ],
+          [
+            "model",
+            0.03879475500861025
+          ],
+          [
+            "financial",
+            0.037359840628568716
+          ],
+          [
+            "stock",
+            0.03434519469299819
+          ],
+          [
+            "time",
+            0.03414666788405804
+          ],
+          [
+            "models",
+            0.03150396906676115
+          ],
+          [
+            "price",
+            0.024195400747573453
+          ],
+          [
+            "volatility",
+            0.023718694209923605
+          ],
+          [
+            "learning",
+            0.022270718935845587
+          ]
+        ],
+        "count": 1527
+      },
+      "1": {
+        "name": "1_electricity_forecasting_prices_price",
+        "keywords": [
+          [
+            "electricity",
+            0.06534218057284572
+          ],
+          [
+            "forecasting",
+            0.04545648891056082
+          ],
+          [
+            "prices",
+            0.03993158430787476
+          ],
+          [
+            "price",
+            0.03801598484603561
+          ],
+          [
+            "model",
+            0.028120682057460298
+          ],
+          [
+            "forecasts",
+            0.025194675963424062
+          ],
+          [
+            "market",
+            0.023357722893152914
+          ],
+          [
+            "markets",
+            0.022426883002774522
+          ],
+          [
+            "ahead",
+            0.021695325506006946
+          ],
+          [
+            "probabilistic",
+            0.021671956934720373
+          ]
+        ],
+        "count": 60
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.31069645776344323
+      ],
+      [
+        -0.31069645776344323,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        19,
+        0
+      ],
+      "2020-02": [
+        19,
+        1
+      ],
+      "2020-03": [
+        25,
+        1
+      ],
+      "2020-04": [
+        30,
+        2
+      ],
+      "2020-05": [
+        20,
+        3
+      ],
+      "2020-06": [
+        20,
+        1
+      ],
+      "2020-07": [
+        26,
+        1
+      ],
+      "2020-08": [
+        19,
+        2
+      ],
+      "2020-09": [
+        32,
+        0
+      ],
+      "2020-10": [
+        25,
+        3
+      ],
+      "2020-11": [
+        20,
+        0
+      ],
+      "2020-12": [
+        17,
+        0
+      ],
+      "2021-01": [
+        20,
+        1
+      ],
+      "2021-02": [
+        14,
+        2
+      ],
+      "2021-03": [
+        29,
+        0
+      ],
+      "2021-04": [
+        18,
+        1
+      ],
+      "2021-05": [
+        18,
+        1
+      ],
+      "2021-06": [
+        21,
+        3
+      ],
+      "2021-07": [
+        36,
+        4
+      ],
+      "2021-08": [
+        16,
+        0
+      ],
+      "2021-09": [
+        13,
+        2
+      ],
+      "2021-10": [
+        14,
+        1
+      ],
+      "2021-11": [
+        22,
+        0
+      ],
+      "2021-12": [
+        19,
+        5
+      ],
+      "2022-01": [
+        29,
+        0
+      ],
+      "2022-02": [
+        15,
+        1
+      ],
+      "2022-03": [
+        20,
+        0
+      ],
+      "2022-04": [
+        20,
+        7
+      ],
+      "2022-05": [
+        14,
+        3
+      ],
+      "2022-06": [
+        15,
+        2
+      ],
+      "2022-07": [
+        21,
+        2
+      ],
+      "2022-08": [
+        19,
+        1
+      ],
+      "2022-09": [
+        21,
+        1
+      ],
+      "2022-10": [
+        16,
+        0
+      ],
+      "2022-11": [
+        18,
+        1
+      ],
+      "2022-12": [
+        13,
+        0
+      ],
+      "2023-01": [
+        14,
+        2
+      ],
+      "2023-02": [
+        18,
+        0
+      ],
+      "2023-03": [
+        31,
+        3
+      ],
+      "2023-04": [
+        27,
+        1
+      ],
+      "2023-05": [
+        24,
+        3
+      ],
+      "2023-06": [
+        28,
+        3
+      ],
+      "2023-07": [
+        21,
+        3
+      ],
+      "2023-08": [
+        21,
+        2
+      ],
+      "2023-09": [
+        19,
+        3
+      ],
+      "2023-10": [
+        26,
+        3
+      ],
+      "2023-11": [
+        18,
+        1
+      ],
+      "2023-12": [
+        21,
+        0
+      ],
+      "2024-01": [
+        20,
+        3
+      ],
+      "2024-02": [
+        30,
+        0
+      ],
+      "2024-03": [
+        34,
+        1
+      ],
+      "2024-04": [
+        20,
+        2
+      ],
+      "2024-05": [
+        18,
+        4
+      ],
+      "2024-06": [
+        15,
+        3
+      ],
+      "2024-07": [
+        21,
+        2
+      ],
+      "2024-08": [
+        31,
+        0
+      ],
+      "2024-09": [
+        29,
+        2
+      ],
+      "2024-10": [
+        27,
+        3
+      ],
+      "2024-11": [
+        32,
+        2
+      ],
+      "2024-12": [
+        24,
+        2
+      ],
+      "2025-01": [
+        14,
+        2
+      ],
+      "2025-02": [
+        26,
+        2
+      ],
+      "2025-03": [
+        17,
+        1
+      ],
+      "2025-04": [
+        27,
+        2
+      ],
+      "2025-05": [
+        24,
+        2
+      ],
+      "2025-06": [
+        21,
+        2
+      ],
+      "2025-07": [
+        29,
+        1
+      ],
+      "2025-08": [
+        21,
+        5
+      ],
+      "2025-09": [
+        8,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Do Weibo platform experts perform better at predicting stock market?",
+          "year": "2024-02",
+          "abstract": "Sentiment analysis can be used for stock market prediction. However, existing\nresearch has not studied the impact of a user's financial background on\nsentiment-based forecasting of the stock market using artificial neural\nnetworks. In this work, a novel combination of neural networks is used for the\nassessment of sentiment-based stock market prediction, based on the financial\nbackground of the population that generated the sentiment. The state-of-the-art\nlanguage processing model Bidirectional Encoder Representations from\nTransformers (BERT) is used to classify the sentiment and a Long-Short Term\nMemory (LSTM) model is used for time-series based stock market prediction. For\nevaluation, the Weibo social networking platform is used as a sentiment data\ncollection source. Weibo users (and their comments respectively) are divided\ninto Authorized Financial Advisor (AFA) and Unauthorized Financial Advisor\n(UFA) groups according to their background information, as collected by Weibo.\nThe Hong Kong Hang Seng index is used to extract historical stock market change\ndata. The results indicate that stock market prediction learned from the AFA\ngroup users is 39.67% more precise than that learned from the UFA group users\nand shows the highest accuracy (87%) when compared to existing approaches.",
+          "arxiv_id": "2403.00772v1"
+        },
+        {
+          "title": "A Time Series Analysis-Based Stock Price Prediction Using Machine Learning and Deep Learning Models",
+          "year": "2020-04",
+          "abstract": "Prediction of future movement of stock prices has always been a challenging\ntask for the researchers. While the advocates of the efficient market\nhypothesis (EMH) believe that it is impossible to design any predictive\nframework that can accurately predict the movement of stock prices, there are\nseminal work in the literature that have clearly demonstrated that the\nseemingly random movement patterns in the time series of a stock price can be\npredicted with a high level of accuracy. Design of such predictive models\nrequires choice of appropriate variables, right transformation methods of the\nvariables, and tuning of the parameters of the models. In this work, we present\na very robust and accurate framework of stock price prediction that consists of\nan agglomeration of statistical, machine learning and deep learning models. We\nuse the daily stock price data, collected at five minutes interval of time, of\na very well known company that is listed in the National Stock Exchange (NSE)\nof India. The granular data is aggregated into three slots in a day, and the\naggregated data is used for building and training the forecasting models. We\ncontend that the agglomerative approach of model building that uses a\ncombination of statistical, machine learning, and deep learning approaches, can\nvery effectively learn from the volatile and random movement patterns in a\nstock price data. We build eight classification and eight regression models\nbased on statistical and machine learning approaches. In addition to these\nmodels, a deep learning regression model using a long-and-short-term memory\n(LSTM) network is also built. Extensive results have been presented on the\nperformance of these models, and the results are critically analyzed.",
+          "arxiv_id": "2004.11697v2"
+        },
+        {
+          "title": "Multimodal Stock Price Prediction",
+          "year": "2025-01",
+          "abstract": "In an era where financial markets are heavily influenced by many static and\ndynamic factors, it has become increasingly critical to carefully integrate\ndiverse data sources with machine learning for accurate stock price prediction.\nThis paper explores a multimodal machine learning approach for stock price\nprediction by combining data from diverse sources, including traditional\nfinancial metrics, tweets, and news articles. We capture real-time market\ndynamics and investor mood through sentiment analysis on these textual data\nusing both ChatGPT-4o and FinBERT models. We look at how these integrated data\nstreams augment predictions made with a standard Long Short-Term Memory (LSTM\nmodel) to illustrate the extent of performance gains. Our study's results\nindicate that incorporating the mentioned data sources considerably increases\nthe forecast effectiveness of the reference model by up to 5%. We also provide\ninsights into the individual and combined predictive capacities of these\nmodalities, highlighting the substantial impact of incorporating sentiment\nanalysis from tweets and news articles. This research offers a systematic and\neffective framework for applying multimodal data analytics techniques in\nfinancial time series forecasting that provides a new view for investors to\nleverage data for decision-making.",
+          "arxiv_id": "2502.05186v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Multiple split approach -- multidimensional probabilistic forecasting of electricity markets",
+          "year": "2024-07",
+          "abstract": "In this article, a multiple split method is proposed that enables\nconstruction of multidimensional probabilistic forecasts of a selected set of\nvariables. The method uses repeated resampling to estimate uncertainty of\nsimultaneous multivariate predictions. This nonparametric approach links the\ngap between point and probabilistic predictions and can be combined with\ndifferent point forecasting methods. The performance of the method is evaluated\nwith data describing the German short-term electricity market. The results show\nthat the proposed approach provides highly accurate predictions. The gains from\nmultidimensional forecasting are the largest when functions of variables, such\nas price spread or residual load, are considered.\n  Finally, the method is used to support a decision process of a moderate\ngeneration utility that produces electricity from wind energy and sells it on\neither a day-ahead or an intraday market. The company makes decisions under\nhigh uncertainty because it knows neither the future production level nor the\nprices. We show that joint forecasting of both market prices and fundamentals\ncan be used to predict the distribution of a profit, and hence helps to design\na strategy that balances a level of income and a trading risk.",
+          "arxiv_id": "2407.07795v1"
+        },
+        {
+          "title": "Probabilistic forecasting of German electricity imbalance prices",
+          "year": "2022-05",
+          "abstract": "The exponential growth of renewable energy capacity has brought much\nuncertainty to electricity prices and to electricity generation. To address\nthis challenge, the energy exchanges have been developing further trading\npossibilities, especially the intraday and balancing markets. For an energy\ntrader participating in both markets, the forecasting of imbalance prices is of\nparticular interest. Therefore, in this manuscript we conduct a very short-term\nprobabilistic forecasting of imbalance prices, contributing to the scarce\nliterature in this novel subject. The forecasting is performed 30 minutes\nbefore the delivery, so that the trader might still choose the trading place.\nThe distribution of the imbalance prices is modelled and forecasted using\nmethods well-known in the electricity price forecasting literature: lasso with\nbootstrap, gamlss, and probabilistic neural networks. The methods are compared\nwith a naive benchmark in a meaningful rolling window study. The results\nprovide evidence of the efficiency between the intraday and balancing markets\nas the sophisticated methods do not substantially overperform the intraday\ncontinuous price index. On the other hand, they significantly improve the\nempirical coverage. The analysis was conducted on the German market, however it\ncould be easily applied to any other market of similar structure.",
+          "arxiv_id": "2205.11439v1"
+        },
+        {
+          "title": "Directional Price Forecasting in the Continuous Intraday Market under Consideration of Neighboring Products and Limit Order Books",
+          "year": "2025-08",
+          "abstract": "The increasing penetration of variable renewable energy and flexible demand\ntechnologies, such as electric vehicles and heat pumps, introduces significant\nuncertainty in power systems, resulting in greater imbalance; defined as the\ndeviation between scheduled and actual supply or demand. Short-term power\nmarkets, such as the European continuous intraday market, play a critical role\nin mitigating these imbalances by enabling traders to adjust forecasts close to\nreal time. Due to the high volatility of the continuous intraday market,\ntraders increasingly rely on electricity price forecasting to guide trading\ndecisions and mitigate price risk. However most electricity price forecasting\napproaches in the literature simplify the forecasting task. They focus on\nsingle benchmark prices, neglecting intra-product price dynamics and price\nsignals from the limit order book. They also underuse high-frequency and\ncross-product price data.\n  In turn, we propose a novel directional electricity price forecasting method\nfor hourly products in the European continuous intraday market. Our method\nincorporates short-term features from both hourly and quarter-hourly products\nand is evaluated using German European Power Exchange data from 2024-2025. The\nresults indicate that features derived from the limit order book are the most\ninfluential exogenous variables. In addition, features from neighboring\nproducts; especially those with delivery start times that overlap with the\ntrading period of the target product; improve forecast accuracy. Finally, our\nevaluation of the value captured by our electricity price forecasting suggests\nthat the proposed electricity price forecasting method has the potential to\ngenerate profit when applied in trading strategies.",
+          "arxiv_id": "2509.04452v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:05:20Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_algebras_group_groups_algebra",
+        "keywords": [
+          [
+            "algebras",
+            0.03940177691872395
+          ],
+          [
+            "group",
+            0.030141980746361787
+          ],
+          [
+            "groups",
+            0.029228710582342287
+          ],
+          [
+            "algebra",
+            0.029185206045549757
+          ],
+          [
+            "theory",
+            0.018279097831052898
+          ],
+          [
+            "finite",
+            0.016156210880830323
+          ],
+          [
+            "compact",
+            0.015755188486342532
+          ],
+          [
+            "actions",
+            0.015672634769444284
+          ],
+          [
+            "property",
+            0.014858734760686495
+          ],
+          [
+            "groupoid",
+            0.014687612123297562
+          ]
+        ],
+        "count": 1567
+      },
+      "1": {
+        "name": "1_operators_operator_space_algebras",
+        "keywords": [
+          [
+            "operators",
+            0.029820584200972267
+          ],
+          [
+            "operator",
+            0.0275315416768943
+          ],
+          [
+            "space",
+            0.024997359285559795
+          ],
+          [
+            "algebras",
+            0.022403907651802654
+          ],
+          [
+            "algebra",
+            0.021997069232870974
+          ],
+          [
+            "Hilbert",
+            0.01986699570539553
+          ],
+          [
+            "spaces",
+            0.019113365995176403
+          ],
+          [
+            "positive",
+            0.017688644410245608
+          ],
+          [
+            "quantum",
+            0.01674890118162666
+          ],
+          [
+            "Neumann",
+            0.01611218162848699
+          ]
+        ],
+        "count": 1043
+      },
+      "2": {
+        "name": "2_free_random_probability_matrices",
+        "keywords": [
+          [
+            "free",
+            0.09676019144657287
+          ],
+          [
+            "random",
+            0.053214501646282594
+          ],
+          [
+            "probability",
+            0.042689838487602494
+          ],
+          [
+            "matrices",
+            0.03742811865745173
+          ],
+          [
+            "distribution",
+            0.027767986112552268
+          ],
+          [
+            "variables",
+            0.025816944101341114
+          ],
+          [
+            "free probability",
+            0.0256828536101679
+          ],
+          [
+            "non",
+            0.02542696502373904
+          ],
+          [
+            "matrix",
+            0.023230493408678197
+          ],
+          [
+            "limit",
+            0.02253678291834434
+          ]
+        ],
+        "count": 204
+      },
+      "3": {
+        "name": "3_coarse_Roe_spaces_metric",
+        "keywords": [
+          [
+            "coarse",
+            0.15408070637742252
+          ],
+          [
+            "Roe",
+            0.09400048840579159
+          ],
+          [
+            "spaces",
+            0.06972955425619644
+          ],
+          [
+            "metric",
+            0.06550039050468179
+          ],
+          [
+            "conjecture",
+            0.05519349675219316
+          ],
+          [
+            "uniform",
+            0.05515342232569502
+          ],
+          [
+            "metric spaces",
+            0.04422089288587108
+          ],
+          [
+            "space",
+            0.04351079546657017
+          ],
+          [
+            "Baum",
+            0.04325768583314949
+          ],
+          [
+            "Connes conjecture",
+            0.0419562647336768
+          ]
+        ],
+        "count": 64
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.03476771850307467,
+        -0.3837879872563838,
+        -0.6552960717802091
+      ],
+      [
+        -0.03476771850307467,
+        1.0,
+        -0.4159165343099089,
+        -0.664318115760231
+      ],
+      [
+        -0.3837879872563838,
+        -0.4159165343099089,
+        1.0,
+        -0.7054395360339515
+      ],
+      [
+        -0.6552960717802091,
+        -0.664318115760231,
+        -0.7054395360339515,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        31,
+        11,
+        7,
+        5
+      ],
+      "2020-02": [
+        36,
+        11,
+        4,
+        3
+      ],
+      "2020-03": [
+        25,
+        10,
+        6,
+        4
+      ],
+      "2020-04": [
+        19,
+        19,
+        6,
+        5
+      ],
+      "2020-05": [
+        39,
+        7,
+        10,
+        3
+      ],
+      "2020-06": [
+        34,
+        18,
+        8,
+        4
+      ],
+      "2020-07": [
+        20,
+        18,
+        8,
+        3
+      ],
+      "2020-08": [
+        26,
+        16,
+        8,
+        2
+      ],
+      "2020-09": [
+        26,
+        19,
+        14,
+        6
+      ],
+      "2020-10": [
+        34,
+        16,
+        8,
+        3
+      ],
+      "2020-11": [
+        29,
+        5,
+        7,
+        5
+      ],
+      "2020-12": [
+        37,
+        12,
+        3,
+        2
+      ],
+      "2021-01": [
+        35,
+        14,
+        6,
+        1
+      ],
+      "2021-02": [
+        25,
+        9,
+        5,
+        4
+      ],
+      "2021-03": [
+        26,
+        15,
+        8,
+        0
+      ],
+      "2021-04": [
+        31,
+        11,
+        5,
+        0
+      ],
+      "2021-05": [
+        37,
+        5,
+        12,
+        4
+      ],
+      "2021-06": [
+        23,
+        6,
+        9,
+        3
+      ],
+      "2021-07": [
+        37,
+        16,
+        8,
+        3
+      ],
+      "2021-08": [
+        38,
+        10,
+        7,
+        7
+      ],
+      "2021-09": [
+        34,
+        23,
+        8,
+        4
+      ],
+      "2021-10": [
+        33,
+        12,
+        5,
+        3
+      ],
+      "2021-11": [
+        33,
+        13,
+        4,
+        3
+      ],
+      "2021-12": [
+        33,
+        5,
+        6,
+        6
+      ],
+      "2022-01": [
+        28,
+        13,
+        11,
+        3
+      ],
+      "2022-02": [
+        28,
+        10,
+        5,
+        3
+      ],
+      "2022-03": [
+        36,
+        15,
+        8,
+        4
+      ],
+      "2022-04": [
+        27,
+        15,
+        4,
+        3
+      ],
+      "2022-05": [
+        22,
+        7,
+        8,
+        2
+      ],
+      "2022-06": [
+        27,
+        7,
+        3,
+        3
+      ],
+      "2022-07": [
+        23,
+        12,
+        5,
+        2
+      ],
+      "2022-08": [
+        29,
+        14,
+        8,
+        1
+      ],
+      "2022-09": [
+        35,
+        14,
+        11,
+        1
+      ],
+      "2022-10": [
+        34,
+        11,
+        6,
+        1
+      ],
+      "2022-11": [
+        32,
+        18,
+        5,
+        10
+      ],
+      "2022-12": [
+        31,
+        13,
+        3,
+        3
+      ],
+      "2023-01": [
+        30,
+        17,
+        3,
+        4
+      ],
+      "2023-02": [
+        27,
+        22,
+        4,
+        0
+      ],
+      "2023-03": [
+        35,
+        17,
+        9,
+        4
+      ],
+      "2023-04": [
+        25,
+        17,
+        7,
+        8
+      ],
+      "2023-05": [
+        26,
+        18,
+        12,
+        2
+      ],
+      "2023-06": [
+        29,
+        20,
+        3,
+        2
+      ],
+      "2023-07": [
+        39,
+        15,
+        7,
+        4
+      ],
+      "2023-08": [
+        22,
+        12,
+        9,
+        3
+      ],
+      "2023-09": [
+        32,
+        14,
+        6,
+        3
+      ],
+      "2023-10": [
+        35,
+        10,
+        6,
+        3
+      ],
+      "2023-11": [
+        38,
+        8,
+        6,
+        3
+      ],
+      "2023-12": [
+        38,
+        16,
+        11,
+        4
+      ],
+      "2024-01": [
+        32,
+        17,
+        5,
+        1
+      ],
+      "2024-02": [
+        41,
+        11,
+        3,
+        2
+      ],
+      "2024-03": [
+        38,
+        18,
+        5,
+        2
+      ],
+      "2024-04": [
+        29,
+        15,
+        7,
+        2
+      ],
+      "2024-05": [
+        35,
+        22,
+        9,
+        1
+      ],
+      "2024-06": [
+        32,
+        19,
+        8,
+        3
+      ],
+      "2024-07": [
+        31,
+        13,
+        7,
+        3
+      ],
+      "2024-08": [
+        31,
+        12,
+        4,
+        5
+      ],
+      "2024-09": [
+        35,
+        22,
+        8,
+        3
+      ],
+      "2024-10": [
+        40,
+        19,
+        7,
+        7
+      ],
+      "2024-11": [
+        29,
+        15,
+        9,
+        8
+      ],
+      "2024-12": [
+        47,
+        14,
+        9,
+        4
+      ],
+      "2025-01": [
+        27,
+        15,
+        4,
+        2
+      ],
+      "2025-02": [
+        33,
+        13,
+        7,
+        2
+      ],
+      "2025-03": [
+        40,
+        17,
+        8,
+        3
+      ],
+      "2025-04": [
+        38,
+        14,
+        8,
+        5
+      ],
+      "2025-05": [
+        38,
+        16,
+        9,
+        3
+      ],
+      "2025-06": [
+        36,
+        12,
+        6,
+        8
+      ],
+      "2025-07": [
+        43,
+        16,
+        10,
+        6
+      ],
+      "2025-08": [
+        42,
+        20,
+        6,
+        4
+      ],
+      "2025-09": [
+        18,
+        8,
+        4,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "On unitary groups of crossed product von Neumann algebras",
+          "year": "2022-12",
+          "abstract": "We consider the tracial crossed product algebra $M=A\\rtimes\\Lambda$ arising\nfrom a trace preserving action $\\sigma:\\Lambda \\curvearrowright A$ of a\ndiscrete group $\\Lambda$ on a tracial von Neumann algebra $A$. For a unitary\nsubgroup $\\mathcal{G}\\subset \\mathcal{U}(M)$, we study when this $\\mathcal{G}$\ncan be conjugated into $\\mathcal{U}(A)\\cdot\\Lambda$ in $M$. We provide a\ngeneral sufficient condition for this to happen. Our result generalizes a\nresult of Ioana, Popa and Vaes, which treats the case when $M$ is the group von\nNeumann algebra $L(\\Lambda)$.",
+          "arxiv_id": "2212.11467v1"
+        },
+        {
+          "title": "Banach algebras associated to twisted étale groupoids: inverse semigroup disintegration and representations on $L^p$-spaces",
+          "year": "2023-03",
+          "abstract": "We introduce Banach algebras associated to twisted \\'etale groupoids\n$(\\mathcal{G},\\mathcal{L})$ and to twisted inverse semigroup actions. This\nprovides a unifying framework for numerous recent papers on $L^p$-operator\nalgebras and the theory of groupoid $C^*$-algebras. We prove disintegrations\ntheorems that allow to study Banach algebras associated to\n$(\\mathcal{G},\\mathcal{L})$ as universal Banach algebras generated by $C_0(X)$\nand a twisted inverse semigroup $S$ of partial isometries subject to some\nrelations. They work best when the target of a representation is a dual Banach\nalgebra. For representations on dual Banach spaces, they allow to extend\nrepresentations to twisted Borel convolution algebras, which is crucial when\nthe groupoid is non-Hausdorff.\n  We establish fundamental norm estimates and hierarchy for full and reduced\n$L^p$-operator algebras for $(\\mathcal{G},\\mathcal{L})$ and $p \\in [1,\\infty]$,\nwhose special cases have been studied recently by Gardella-Lupini,\nChoi-Gardella-Thiel and Hetland-Ortega. We show that in the constructions of\n$L^p$-analogues of Cuntz or graph algebras, by Phillips and\nCorti\\~{n}as-Rodr\\'{\\i}guez, the use of spatial partial isometries is not an\nassumption, in fact it is forced by the relations. We also introduce tight\ninverse semigroup Banach algebras that cover ample groupoid Banach algebras,\nand discuss Banach algebras associated to directed graphs.\n  Our results cover non-Hausdorff \\'{e}tale groupoids and both real and complex\nalgebras. Some of the results are new already for complex $C^*$-algebras.",
+          "arxiv_id": "2303.09997v4"
+        },
+        {
+          "title": "Compact Group Actions with the Tracial Rokhlin Property II: Examples and Nonexistence Theorems",
+          "year": "2025-05",
+          "abstract": "In a previous paper, we introduced the restricted tracial Rokhlin property\nwith comparison, a ``tracial'' analog of the Rokhlin property for actions of\nsecond countable compact groups on infinite dimensional simple separable unital\nC*-algebras. In this paper, we give three classes of examples of actions of\ncompact groups which have this property but do not have the Rokhlin property,\nor even finite Rokhlin dimension with commuting towers. One class consists of\ninfinite tensor products of finite group actions with the tracial Rokhlin\nproperty, giving actions of the product of the groups involved. The second\nclass consists of actions of the circle group on simple unital AT~algebras. The\nconstruction of the third class starts with an action of the circle on the\nCuntz algebra ${\\mathcal{O}}_{\\infty}$ which has the restricted tracial Rokhlin\nproperty with comparison; by contrast, it is known that there is no action of\nthis group on ${\\mathcal{O}}_{\\infty}$ which has finite Rokhlin dimension with\ncommuting towers. We can then tensor this action with the trivial action on any\nunital purely infinite simple separable nuclear C*-algebra. One also gets such\nactions on certain purely infinite simple separable nuclear C*-algebras by\ntensoring the AT~examples with the trivial action on ${\\mathcal{O}}_{\\infty}$;\nthese are different.\n  We also discuss other tracial Rokhlin properties for actions of compact\ngroups, and prove that there is no direct limit action of the circle group on a\nsimple AF~algebra which even has the weakest of these properties.",
+          "arxiv_id": "2505.04661v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Connections of unbounded operators and some related topics: von Neumann algebra case",
+          "year": "2021-01",
+          "abstract": "The Kubo-Ando theory deals with connections for positive bounded operators.\nOn the other hand, in various analysis related to von Neumann algebras it is\nimpossible to avoid unbounded operators. In this article we try to extend a\nnotion of connections to cover various classes of positive unbounded operators\n(or unbounded objects such as positive forms and weights) appearing naturally\nin the setting of von Neumann algebras, and we must keep all the expected\nproperties maintained. This generalization is carried out for the following\nclasses: (i) positive $\\tau$-measurable operators (affiliated with a\nsemi-finite von Neumann algebra equipped with a trace $\\tau$), (ii) positive\nelements in Haagerup's $L^p$-spaces, (iii) semi-finite normal weights on a von\nNeumann algebra. Investigation on these generalizations requires some analysis\n(such as certain upper semi-continuity) on decreasing sequences in various\nclasses. Several results in this direction are proved, which may be of\nindependent interest. Ando studied Lebesgue decomposition for positive bounded\noperators by making use of parallel sums. Here, such decomposition is obtained\nin the setting of non-commutative (Hilsum) $L^p$-spaces.",
+          "arxiv_id": "2101.01176v2"
+        },
+        {
+          "title": "$C^*$-extreme points of unital completely positive maps on real $C^*$-algebras",
+          "year": "2025-02",
+          "abstract": "In this paper, we investigate the general properties and structure of\n$C^*$-extreme points within the $C^*$-convex set\n$\\mathrm{UCP}(\\mathcal{A},B(\\mathcal{H}))$ of all unital completely positive\n(UCP) maps from a unital real $C^*$-algebra $\\mathcal{A}$ to the algebra\n$B(\\mathcal{H})$ of all bounded real linear maps on a real Hilbert space\n$\\mathcal{H}$. We analyze the differences in the structure of $C^*$-extreme\npoints between the real and complex $C^*$-algebra cases. In particular, we show\nthat the necessary and sufficient conditions for a UCP map between matrix\nalgebras to be a $C^*$-extreme point are identical in both the real and complex\nmatrix algebra cases. We also observe significant differences in the structure\nof $C^*$-extreme points when $\\mathcal{A}$ is a commutative real $C^*$-algebra\ncompared to when $\\mathcal{A}$ is a commutative complex $C^*$-algebra. We\nprovide a complete classification of the $C^*$-extreme points of\n$\\mathrm{UCP}(\\mathcal{A},B(\\mathcal{H}))$, where $\\mathcal{A}$ is a unital\ncommutative real $C^*$-algebra and $\\mathcal{H}$ is a finite-dimensional real\nHilbert space. As an application, we classify all $C^*$-extreme points in the\n$C^*$-convex set of all contractive skew-symmetric real matrices in\n$M_n(\\mathbb{R})$.",
+          "arxiv_id": "2502.15362v1"
+        },
+        {
+          "title": "Algebraic aspects and functoriality of the set of affiliated operators",
+          "year": "2023-11",
+          "abstract": "In this article, we aim to provide a satisfactory algebraic description of\nthe set of affiliated operators for von Neumann algebras. Let $\\mathscr{M}$ be\na von Neumann algebra acting on a Hilbert space $\\mathcal{H}$, and let\n$\\mathscr{M}_{\\text{aff}}$ denote the set of unbounded operators of the form $T\n= AB^{\\dagger}$ for $A, B \\in \\mathscr{M}$ with $\\ker(B)\\subseteq\\ker(A)$ ,\nwhere $(\\cdot)^{\\dagger}$ denotes the Kaufman inverse. We show that\n$\\mathscr{M}_{\\text{aff}}$ is closed under product, sum, Kaufman-inverse and\nadjoint, and has the structure of a right near-semiring; Moreover, the above\nquotient representation of an operator in $\\mathscr{M}_{\\text{aff}}$ is\nessentially unique. The Murray-von Neumann affiliated operators for\n$\\mathscr{M}$ turn out to be precisely the closed operators in\n$\\mathscr{M}_{\\text{aff}}$. Let $\\Phi$ be a unital normal homomorphism between\nrepresented von Neumann algebras $(\\mathscr{M}; \\mathcal{H})$ and\n$(\\mathscr{N}; \\mathcal{K})$. With the help of the quotient representation, we\nobtain a canonical extension of $\\Phi$ to a mapping $\\Phi_{\\text{aff}} :\n\\mathscr{M}_{\\text{aff}} \\to \\mathscr{N}_{\\text{aff}}$ which respects sum,\nproduct, Kaufman-inverse, and adjoint. Thus $\\mathscr{M}_{\\text{aff}}$ is\nintrinsically associated with $\\mathscr{M}$ and transforms functorially as we\nchange representations of $\\mathscr{M}$. Furthermore, $\\Phi_{\\text{aff}}$\npreserves operator properties such as being symmetric, or positive, or\naccretive, or sectorial, or self-adjoint, or normal, and also preserves the\nFriedrichs and Krein-von Neumann extensions of densely-defined closed positive\noperators. As a proof of concept, we transfer some well-known results about\nclosed unbounded operators to the setting of closed affiliated operators for\nproperly infinite von Neumann algebras, via `abstract nonsense'.",
+          "arxiv_id": "2311.16170v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "$S$-transform in Finite Free Probability",
+          "year": "2024-08",
+          "abstract": "We present a simplified explanation of why free fractional convolution\ncorresponds to the differentiation of polynomials, by finding how the finite\nfree cumulants of a polynomial behave under differentiation. This approach\nallows us to understand the limiting behaviour of the coefficients\n$\\widetilde{\\mathsf{e}}_k(p_d)$ of $p_d$ when the degree $d$ tends to infinity\nand the empirical root distribution of $p_d$ has a limiting distribution $\\mu$\non $[0,\\infty)$. Specifically, we relate the asymptotic behaviour of the ratio\nof consecutive coefficients to Voiculescu's $S$-transform of $\\mu$. This\nprompts us to define a new notion of finite $S$-transform, which converges to\nVoiculescu's $S$-transform in the large $d$ limit. It also satisfies several\nanalogous properties to those of the $S$-transform in free probability,\nincluding multiplicativity and monotonicity. This new insight has several\napplications that strengthen the connection between free and finite free\nprobability. Most notably, we generalize the approximation of $\\boxtimes_d$ to\n$\\boxtimes$ and prove a finite approximation of the Tucci--Haagerup--M\\\"oller\nlimit theorem in free probability, conjectured by two of the authors. We also\nprovide finite analogues of the free multiplicative Poisson law, the free\nmax-convolution powers and some free stable laws.",
+          "arxiv_id": "2408.09337v2"
+        },
+        {
+          "title": "A theory of singular values for finite free probability",
+          "year": "2022-08",
+          "abstract": "We introduce a finite version of free probability for rectangular matrices\nthat amounts to operations on singular values of polynomials. We show that we\ncan replicate the transforms from free probability, and that asymptotically\nthere is convergence from rectangular finite free probability to rectangular\nfree probability. Lastly, we show that classical distribution results such as a\nlaw of large numbers or a central limit theorem can be made explicit in this\nnew framework where random variables are replaced by polynomials.",
+          "arxiv_id": "2208.09768v2"
+        },
+        {
+          "title": "The Kummer distribution in free probability, and its characterizations",
+          "year": "2024-06",
+          "abstract": "We study the analogue of Kummer distribution in free probability. We prove\ncharacterization of free-Kummer and free Poisson distributions by freeness\nproperties together with some assumptions about conditional moments. Our main\ntools are subordination of free multiplicative convolution and Boolean\ncumulants.",
+          "arxiv_id": "2406.13475v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "$L^p$ coarse Baum-Connes conjecture via $C_{0}$ coarse geometry",
+          "year": "2023-11",
+          "abstract": "In this paper, we investigate the $L^{p}$ coarse Baum-Connes conjecture for\n$p\\in [1,\\infty)$ via $C_{0}$ coarse structure, which is a refinement of the\nbounded coarse structure on a metric space. We prove that the $C_{0}$ version\nof the $L^{p}$ coarse Baum-Connes conjecture holds for a finite-dimensional\nsimplicial complex equipped with a uniform spherical metric. Using this result,\nwe construct an obstruction group for the $L^{p}$ coarse Baum-Connes\nconjecture. As an application, we show that the obstruction group vanishes\nunder the assumption of finite asymptotic dimension, thereby providing a new\nproof of the $L^{p}$ coarse Baum-Connes conjecture in this case.",
+          "arxiv_id": "2311.05333v3"
+        },
+        {
+          "title": "Twisted Roe algebras and their $K$-theory",
+          "year": "2024-09",
+          "abstract": "In this paper, we introduce a notion of twisted Roe algebra and a twisted\ncoarse Baum-Connes conjecture with coefficients. We will study the basic\nproperties of twisted Roe algebras, including a coarse analogue of the\nimprimitivity theorem for metric spaces with a structure of coarse fibrations.\nWe show that the twisted coarse Baum-Connes conjecture with coefficients holds\nfor a metric space with a coarse fibration structure when the base space and\nthe fiber satisfy the twisted coarse Baum-Connes conjecture with coefficients.\nAs an application, the coarse Baum-Connes conjecture holds for a finitely\ngenerated group which is an extension of coarsely embeddable groups.",
+          "arxiv_id": "2409.16556v2"
+        },
+        {
+          "title": "The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure",
+          "year": "2024-08",
+          "abstract": "In this paper, we introduce a concept of A-by-FCE coarse fibration structure\nfor metric spaces, which serves as a generalization of the A-by-CE structure\nfor a sequence of group extensions proposed by Deng, Wang, and Yu. We prove\nthat the maximal coarse Baum-Connes conjecture holds for metric spaces with\nbounded geometry that admit an A-by-FCE coarse fibration structure. As an\napplication, the relative expanders constructed by Arzhantseva and Tessera, as\nwell as the box spaces derived from an ``amenable-by-Haagerup'' group\nextension, admit the A-by-FCE coarse fibration structure. Consequently, the\nmaximal coarse Baum-Connes conjecture holds for these spaces, which may not\nadmit an FCE structure, i.e. fibred coarse embedding into Hilbert space.",
+          "arxiv_id": "2408.06660v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:56:25Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

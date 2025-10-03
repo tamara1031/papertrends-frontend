@@ -1,0 +1,722 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_market_model_financial_data",
+        "keywords": [
+          [
+            "market",
+            0.029246041164782813
+          ],
+          [
+            "model",
+            0.02557202070039336
+          ],
+          [
+            "financial",
+            0.023719618526689166
+          ],
+          [
+            "data",
+            0.020890635581910594
+          ],
+          [
+            "models",
+            0.019431750207943653
+          ],
+          [
+            "time",
+            0.01859584557563463
+          ],
+          [
+            "risk",
+            0.017682219698745727
+          ],
+          [
+            "stock",
+            0.017188665289928805
+          ],
+          [
+            "economic",
+            0.017123455520615307
+          ],
+          [
+            "price",
+            0.016692656143191802
+          ]
+        ],
+        "count": 560
+      },
+      "1": {
+        "name": "1_blockchain_Bitcoin_market_DeFi",
+        "keywords": [
+          [
+            "blockchain",
+            0.029271310608326
+          ],
+          [
+            "Bitcoin",
+            0.029214031440811174
+          ],
+          [
+            "market",
+            0.027222998864423753
+          ],
+          [
+            "DeFi",
+            0.026005220179319798
+          ],
+          [
+            "liquidity",
+            0.025787072725560915
+          ],
+          [
+            "decentralized",
+            0.021931298951494833
+          ],
+          [
+            "digital",
+            0.018090587950831166
+          ],
+          [
+            "network",
+            0.01793176154102263
+          ],
+          [
+            "risk",
+            0.016962275979320728
+          ],
+          [
+            "financial",
+            0.016231585141111452
+          ]
+        ],
+        "count": 129
+      },
+      "2": {
+        "name": "2_credit_data_real_financial",
+        "keywords": [
+          [
+            "credit",
+            0.04378692897154921
+          ],
+          [
+            "data",
+            0.027941216872054066
+          ],
+          [
+            "real",
+            0.027276013105347274
+          ],
+          [
+            "financial",
+            0.026949967458719536
+          ],
+          [
+            "price",
+            0.02455411270081329
+          ],
+          [
+            "real estate",
+            0.022138038217363844
+          ],
+          [
+            "estate",
+            0.022138038217363844
+          ],
+          [
+            "housing",
+            0.020527365293994793
+          ],
+          [
+            "household",
+            0.020133856930471348
+          ],
+          [
+            "mortgage",
+            0.018504078554079016
+          ]
+        ],
+        "count": 44
+      },
+      "3": {
+        "name": "3_study_banks_firms_financial",
+        "keywords": [
+          [
+            "study",
+            0.07031306774536923
+          ],
+          [
+            "banks",
+            0.06569922114499743
+          ],
+          [
+            "firms",
+            0.0564109037488987
+          ],
+          [
+            "financial",
+            0.05456777627649998
+          ],
+          [
+            "performance",
+            0.049545509419173225
+          ],
+          [
+            "Return",
+            0.04005963484796312
+          ],
+          [
+            "Exchange",
+            0.03756144801123226
+          ],
+          [
+            "profitability",
+            0.037320535634587926
+          ],
+          [
+            "growth",
+            0.036656430570871104
+          ],
+          [
+            "Bangladesh",
+            0.030530954791341547
+          ]
+        ],
+        "count": 32
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.028849318603297737,
+        -0.6241008152163627,
+        -0.3615751878975184
+      ],
+      [
+        -0.028849318603297737,
+        1.0,
+        -0.6574647180900299,
+        -0.5233813013263121
+      ],
+      [
+        -0.6241008152163627,
+        -0.6574647180900299,
+        1.0,
+        -0.658068775762862
+      ],
+      [
+        -0.3615751878975184,
+        -0.5233813013263121,
+        -0.658068775762862,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        9,
+        0,
+        0,
+        3
+      ],
+      "2020-02": [
+        12,
+        0,
+        0,
+        1
+      ],
+      "2020-03": [
+        14,
+        1,
+        2,
+        3
+      ],
+      "2020-04": [
+        6,
+        4,
+        0,
+        3
+      ],
+      "2020-05": [
+        14,
+        4,
+        3,
+        9
+      ],
+      "2020-06": [
+        15,
+        4,
+        1,
+        0
+      ],
+      "2020-07": [
+        13,
+        5,
+        1,
+        4
+      ],
+      "2020-08": [
+        9,
+        0,
+        0,
+        3
+      ],
+      "2020-09": [
+        14,
+        3,
+        0,
+        2
+      ],
+      "2020-10": [
+        9,
+        1,
+        0,
+        5
+      ],
+      "2020-11": [
+        11,
+        1,
+        0,
+        1
+      ],
+      "2020-12": [
+        7,
+        2,
+        1,
+        3
+      ],
+      "2021-01": [
+        8,
+        1,
+        1,
+        4
+      ],
+      "2021-02": [
+        5,
+        1,
+        0,
+        3
+      ],
+      "2021-03": [
+        8,
+        1,
+        0,
+        3
+      ],
+      "2021-04": [
+        6,
+        0,
+        0,
+        1
+      ],
+      "2021-05": [
+        2,
+        1,
+        0,
+        5
+      ],
+      "2021-06": [
+        9,
+        4,
+        0,
+        4
+      ],
+      "2021-07": [
+        13,
+        1,
+        0,
+        1
+      ],
+      "2021-08": [
+        9,
+        1,
+        1,
+        3
+      ],
+      "2021-09": [
+        5,
+        3,
+        0,
+        0
+      ],
+      "2021-10": [
+        4,
+        1,
+        0,
+        3
+      ],
+      "2021-11": [
+        4,
+        0,
+        0,
+        1
+      ],
+      "2021-12": [
+        6,
+        1,
+        1,
+        0
+      ],
+      "2022-01": [
+        6,
+        0,
+        1,
+        6
+      ],
+      "2022-02": [
+        9,
+        3,
+        0,
+        2
+      ],
+      "2022-03": [
+        5,
+        2,
+        0,
+        0
+      ],
+      "2022-04": [
+        5,
+        0,
+        0,
+        2
+      ],
+      "2022-05": [
+        5,
+        3,
+        0,
+        1
+      ],
+      "2022-06": [
+        10,
+        1,
+        0,
+        5
+      ],
+      "2022-07": [
+        10,
+        5,
+        1,
+        8
+      ],
+      "2022-08": [
+        8,
+        0,
+        0,
+        1
+      ],
+      "2022-09": [
+        5,
+        2,
+        1,
+        1
+      ],
+      "2022-10": [
+        0,
+        3,
+        0,
+        3
+      ],
+      "2022-11": [
+        7,
+        5,
+        1,
+        4
+      ],
+      "2022-12": [
+        4,
+        4,
+        0,
+        0
+      ],
+      "2023-01": [
+        7,
+        2,
+        0,
+        3
+      ],
+      "2023-02": [
+        12,
+        2,
+        0,
+        3
+      ],
+      "2023-03": [
+        2,
+        1,
+        0,
+        2
+      ],
+      "2023-04": [
+        8,
+        0,
+        1,
+        1
+      ],
+      "2023-05": [
+        12,
+        2,
+        0,
+        3
+      ],
+      "2023-06": [
+        10,
+        0,
+        1,
+        0
+      ],
+      "2023-07": [
+        10,
+        3,
+        0,
+        2
+      ],
+      "2023-08": [
+        7,
+        4,
+        0,
+        4
+      ],
+      "2023-09": [
+        13,
+        5,
+        0,
+        2
+      ],
+      "2023-10": [
+        10,
+        1,
+        0,
+        2
+      ],
+      "2023-11": [
+        11,
+        4,
+        0,
+        5
+      ],
+      "2023-12": [
+        4,
+        1,
+        2,
+        1
+      ],
+      "2024-01": [
+        4,
+        4,
+        1,
+        3
+      ],
+      "2024-02": [
+        7,
+        4,
+        0,
+        3
+      ],
+      "2024-03": [
+        10,
+        6,
+        2,
+        2
+      ],
+      "2024-04": [
+        5,
+        4,
+        0,
+        2
+      ],
+      "2024-05": [
+        9,
+        2,
+        1,
+        1
+      ],
+      "2024-06": [
+        5,
+        1,
+        0,
+        1
+      ],
+      "2024-07": [
+        5,
+        1,
+        0,
+        2
+      ],
+      "2024-08": [
+        3,
+        0,
+        1,
+        1
+      ],
+      "2024-09": [
+        7,
+        1,
+        0,
+        3
+      ],
+      "2024-10": [
+        9,
+        2,
+        1,
+        6
+      ],
+      "2024-11": [
+        9,
+        2,
+        0,
+        1
+      ],
+      "2024-12": [
+        5,
+        2,
+        0,
+        2
+      ],
+      "2025-01": [
+        6,
+        2,
+        0,
+        2
+      ],
+      "2025-02": [
+        6,
+        1,
+        1,
+        4
+      ],
+      "2025-03": [
+        12,
+        2,
+        0,
+        2
+      ],
+      "2025-04": [
+        9,
+        1,
+        0,
+        2
+      ],
+      "2025-05": [
+        11,
+        4,
+        0,
+        2
+      ],
+      "2025-06": [
+        7,
+        3,
+        1,
+        4
+      ],
+      "2025-07": [
+        7,
+        1,
+        0,
+        1
+      ],
+      "2025-08": [
+        8,
+        2,
+        2,
+        3
+      ],
+      "2025-09": [
+        6,
+        1,
+        0,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Phases of MANES: Multi-Asset Non-Equilibrium Skew Model of a Strongly Non-Linear Market with Phase Transitions",
+          "year": "2022-03",
+          "abstract": "This paper presents an analytically tractable and practically-oriented model\nof non-linear dynamics of a multi-asset market in the limit of a large number\nof assets. The asset price dynamics are driven by money flows into the market\nfrom external investors, and their price impact. This leads to a model of a\nmarket as an ensemble of interacting non-linear oscillators with the Langevin\ndynamics. In a homogeneous portfolio approximation, the mean field treatment of\nthe resulting Langevin dynamics produces the McKean-Vlasov equation as a\ndynamic equation for market returns. Due to the strong non-linearity of the\nMcKean-Vlasov equation, the resulting dynamics give rise to ergodicity breaking\nand first- or second-order phase transitions under variations of model\nparameters. Using a tractable potential of the Non-Equilibrium Skew (NES) model\npreviously suggested by the author for a single-stock case, the new Multi-Asset\nNES (MANES) model enables an analytically tractable framework for a multi-asset\nmarket. The equilibrium expected market log-return is obtained as a\nself-consistent mean field of the McKean-Vlasov equation, and derived in closed\nform in terms of parameters that are inferred from market prices of S&P 500\nindex options. The model is able to accurately fit the market data for either a\nbenign or distressed market environments, while using only a single volatility\nparameter.",
+          "arxiv_id": "2203.07550v1"
+        },
+        {
+          "title": "Three Remarks On Asset Pricing",
+          "year": "2021-05",
+          "abstract": "We consider the consumption-based asset pricing model, derive a new modified\nbasic pricing equation, and present its successive approximations using the\nTaylor series expansions of the investor's utility during the averaging time\ninterval. For linear and quadratic Taylor approximations, we derive new\nexpressions for the mean price, mean payoff, volatility, skewness, and the\nasset's amount that define the maximum of the investor's utility. We discuss\nthe market-based origin of price probability. We use volume weighted average\nprice (VWAP) as a market-based average price and introduce market-based price\nvolatility. The use of VWAP results in zero correlations between the price p\nand trade volume U. We derive a correlation between price p and squares of\ntrade volume {U^2} and between squares of price {p^2} and volume {U^2}. To\npredict market-based price volatility, one should forecast the 2-d statistical\nmoments of the market trade values and volumes at the same horizon T.",
+          "arxiv_id": "2105.13903v4"
+        },
+        {
+          "title": "Forecasting financial markets with semantic network analysis in the COVID-19 crisis",
+          "year": "2020-09",
+          "abstract": "This paper uses a new textual data index for predicting stock market data.\nThe index is applied to a large set of news to evaluate the importance of one\nor more general economic-related keywords appearing in the text. The index\nassesses the importance of the economic-related keywords, based on their\nfrequency of use and semantic network position. We apply it to the Italian\npress and construct indices to predict Italian stock and bond market returns\nand volatilities in a recent sample period, including the COVID-19 crisis. The\nevidence shows that the index captures the different phases of financial time\nseries well. Moreover, results indicate strong evidence of predictability for\nbond market data, both returns and volatilities, short and long maturities, and\nstock market volatility.",
+          "arxiv_id": "2009.04975v4"
+        }
+      ],
+      "1": [
+        {
+          "title": "DeFi Lending During The Merge",
+          "year": "2023-01",
+          "abstract": "Lending protocols in decentralized finance enable the permissionless exchange\nof capital from lenders to borrowers without relying on a trusted third party\nfor clearing or market-making. Interest rates are set by the supply and demand\nof capital according to a pre-defined function. In the lead-up to The Merge:\nEthereum blockchain's transition from proof-of-work (PoW) to proof-of-stake\n(PoS), a fraction of the Ethereum ecosystem announced plans of continuing with\na PoW-chain. Owners of ETH - whether their ETH was borrowed or not - would hold\nthe native tokens on each chain. This development alarmed lending protocols.\nThey feared spiking ETH borrowing rates would lead to mass liquidations which\ncould undermine their viability. Thus, the decentralized autonomous\norganization running the protocols saw no alternative to intervention -\nrestricting users' ability to borrow.\n  We investigate the effects of the merge and the aforementioned intervention\non the two biggest lending protocols on Ethereum: AAVE and Compound. Our\nanalysis finds that borrowing rates were extremely volatile, jumping by two\norders of magnitude, and borrowing at times reached 100% of the available\nfunds. Despite this, no spike in mass liquidations or irretrievable loans\nmaterialized. Further, we are the first to quantify and analyze\nhard-fork-arbitrage, profiting from holding debt in the native blockchain token\nduring a hard fork. We find that arbitrageurs transferred tokens to centralized\nexchanges which at the time were worth more than 13 Mio US$, money that was\neffectively extracted from the platforms' lenders.",
+          "arxiv_id": "2303.08748v3"
+        },
+        {
+          "title": "Auto-Balancer: Harnessing idle network resources for enhanced market stability",
+          "year": "2025-02",
+          "abstract": "We propose a mechanism embedded into the foundational infrastructure of a\nblockchain network, designed to improve the utility of idle network resources,\nwhilst enhancing market microstructure efficiency during block production by\nleveraging both network-owned and external capital. By systematically seeking\nto use idle network resources for internally capture arbitrageable\ninefficiencies, the mechanism mitigates extractable value leakage, reduces\nexecution frictions, and improves price formation across venues. This framework\noptimises resource allocation by incentivising an ordered set of transactions\nto be identified and automatically executed at the end of each block,\nredirecting any realised arbitrage income - to marketplaces operating on the\nhost blockchain network (and other stakeholders), which may have otherwise been\nextracted as rent by external actors. Crucially, this process operates without\nintroducing additional inventory risk, ensuring that the network remains a\nneutral facilitator of price discovery. While the systematic framework\ngoverning the distribution of these internally captured returns is beyond the\nscope of this work, reinvesting them to support the ecosystem deployed on the\nhost blockchain network is envisioned to endogenously enhance liquidity,\nstrengthen transactional efficiency, and promote the organic adoption of the\nblockchain for end users. This mechanism is designed specifically for Supra's\nblockchain and seeks to maximally utilise its highly efficient automation\nframework to enhance the blockchain network's efficiency.",
+          "arxiv_id": "2502.20670v1"
+        },
+        {
+          "title": "CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance",
+          "year": "2021-06",
+          "abstract": "To non-experts, the traditional Centralized Finance (CeFi) ecosystem may seem\nobscure, because users are typically not aware of the underlying rules or\nagreements of financial assets and products. Decentralized Finance (DeFi),\nhowever, is making its debut as an ecosystem claiming to offer transparency and\ncontrol, which are partially attributable to the underlying integrity-protected\nblockchain, as well as currently higher financial asset yields than CeFi. Yet,\nthe boundaries between CeFi and DeFi may not be always so clear cut.\n  In this work, we systematically analyze the differences between CeFi and\nDeFi, covering legal, economic, security, privacy and market manipulation. We\nprovide a structured methodology to differentiate between a CeFi and a DeFi\nservice. Our findings show that certain DeFi assets (such as USDC or USDT\nstablecoins) do not necessarily classify as DeFi assets, and may endanger the\neconomic security of intertwined DeFi protocols. We conclude this work with the\nexploration of possible synergies between CeFi and DeFi.",
+          "arxiv_id": "2106.08157v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Credit Crunch: The Role of Household Lending Capacity in the Dutch Housing Boom and Bust 1995-2018",
+          "year": "2021-01",
+          "abstract": "What causes house prices to rise and fall? Economists identify household\naccess to credit as a crucial factor. \"Loan-to-Value\" and \"Debt-to-GDP\" ratios\nare the standard measures for credit access. However, these measures fail to\nexplain the depth of the Dutch housing bust after the 2009 Financial Crisis.\nThis work is the first to model household lending capacity based on the\nformulas that Dutch banks use in the mortgage application process. We compare\nthe ability of regression models to forecast housing prices when different\nmeasures of credit access are utilised. We show that our measure of household\nlending capacity is a forward-looking, highly predictive variable that\noutperforms `Loan-to-Value' and debt ratios in forecasting the Dutch crisis.\nSharp declines in lending capacity foreshadow the market deceleration.",
+          "arxiv_id": "2101.00913v1"
+        },
+        {
+          "title": "Optimizing Credit Limit Adjustments Under Adversarial Goals Using Reinforcement Learning",
+          "year": "2023-06",
+          "abstract": "Reinforcement learning has been explored for many problems, from video games\nwith deterministic environments to portfolio and operations management in which\nscenarios are stochastic; however, there have been few attempts to test these\nmethods in banking problems. In this study, we sought to find and automatize an\noptimal credit card limit adjustment policy by employing reinforcement learning\ntechniques. Because of the historical data available, we considered two\npossible actions per customer, namely increasing or maintaining an individual's\ncurrent credit limit. To find this policy, we first formulated this\ndecision-making question as an optimization problem in which the expected\nprofit was maximized; therefore, we balanced two adversarial goals: maximizing\nthe portfolio's revenue and minimizing the portfolio's provisions. Second,\ngiven the particularities of our problem, we used an offline learning strategy\nto simulate the impact of the action based on historical data from a super-app\nin Latin America to train our reinforcement learning agent. Our results, based\non the proposed methodology involving synthetic experimentation, show that a\nDouble Q-learning agent with optimized hyperparameters can outperform other\nstrategies and generate a non-trivial optimal policy not only reflecting the\ncomplex nature of this decision but offering an incentive to explore\nreinforcement learning in real-world banking scenarios. Our research\nestablishes a conceptual structure for applying reinforcement learning\nframework to credit limit adjustment, presenting an objective technique to make\nthese decisions primarily based on data-driven methods rather than relying only\non expert-driven systems. We also study the use of alternative data for the\nproblem of balance prediction, as the latter is a requirement of our proposed\nmodel. We find the use of such data does not always bring prediction gains.",
+          "arxiv_id": "2306.15585v2"
+        },
+        {
+          "title": "Shift in house price estimates during COVID-19 reveals effect of crisis on collective speculation",
+          "year": "2022-07",
+          "abstract": "We exploit a city-level panel comprised of individual house price estimates\nto estimate the impact of COVID-19 on both small and big real-estate markets in\nCalifornia USA. Descriptive analysis of spot house price estimates, including\ncontemporaneous price uncertainty and 30-day price change for individual\nproperties listed on the online real-estate platform Zillow.com, together\nfacilitate quantifying both the excess valuation and valuation confidence\nattributable to this global socio-economic shock. Our quasi-experimental\npre-/post-COVID-19 design spans several years around 2020 and leverages\ncontemporaneous price estimates of rental properties - i.e., real estate\nentering the habitation market, just not for purchase (off-market) and hence\nfree of speculation - as an appropriate counterfactual to properties listed for\nsale, which are subject to on-market speculation. Combining unit-level matching\nand multivariate difference-in-difference regression approaches, we obtain\nconsistent estimates regarding the sign and magnitude of excess price growth\nobserved after the pandemic onset. Specifically, our results indicate that\nproperties listed for sale appreciated an additional 1% per month above what\nwould be expected in the absence of the pandemic. This corresponds to an excess\nannual price growth of roughly 12.7 percentage points, which accounts for more\nthan half of the actual annual price growth in 2021 observed across the studied\nregions. Simultaneously, uncertainty in price estimates decreased, signaling\nthe irrational confidence characteristic of prior asset bubbles. We explore how\nthese two trends are related to market size, local market supply and borrowing\ncosts, which altogether lend support for the counterintuitive roles of\nuncertainty and interruptions in decision-making.",
+          "arxiv_id": "2209.03936v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Effect of Long-Term Debt on the Financial Growth of Non-Financial Firms Listed at the Nairobi Securities Exchange",
+          "year": "2020-10",
+          "abstract": "A significant number of the non-financial firms listed at Nairobi Securities\nExchange (NSE) have been experiencing declining financial performance which\ndeter investors from investing in such firms. The lenders are also not willing\nto lend to such firms. As such, the firms struggle to raise funds for their\noperations. Prudent financing decisions can lead to financial growth of the\nfirm. The purpose of this study is to assess the effect of Long-term debt on\nthe financial growth of Non-financial firms listed at Nairobi Securities\nExchange. Financial firms were excluded because of their specific sector\ncharacteristics and stringent regulatory framework. The study is guided by\nTrade-Off Theory and Theory of Growth of the Firm. Explanatory research design\nwas adopted. The population of the study comprised of 45 non-financial firms\nlisted at the NSE for a period of ten years from 2008 to 2017. The study\nconducted both descriptive statistics analysis and panel data analysis. The\nresult indicates that Long term debt explains 21.6% and 5.16% of variation in\nfinancial growth as measured by growth in earnings per share and growth in\nmarket capitalization respectively. Long term debt positively and significantly\ninfluences financial growth measured using both growth in earnings per share\nand growth in market capitalization. The study recommends that, the management\nof non-financial firms listed at Nairobi Securities Exchange to employ\nfinancing means that can improve the earnings per share, market capitalization\nand enhance the value of the firm for the benefit of its stakeholders.",
+          "arxiv_id": "2010.12596v3"
+        },
+        {
+          "title": "Effect of Short-Term Debt on Financial Growth of Non-Financial Firms Listed at Nairobi Securities Exchange",
+          "year": "2020-11",
+          "abstract": "A significant number of the non-financial firms listed at Nairobi Securities\nExchange (NSE) have been experiencing declining financial performance which\ndeter investors from investing in such firms. The lenders are also not willing\nto lend to such firms. As such, the firms struggle to raise funds for their\noperations. Prudent financing decisions can lead to financial growth of the\nfirm. The purpose of this study is to assess the effect of short-term debt on\nfinancial growth of non-financial firms listed at Nairobi Securities Exchange\nfor a period of ten years from 2008 to 2017. Financial firms were excluded\nbecause of their specific sector characteristics and stringent regulatory\nframework. The study is guided by Agency Theory and Theory of Growth of the\nFirm. Explanatory research design was adopted. The target population of the\nstudy comprised of 45 non-financial firms listed at the NSE for a period of ten\nyears from 2008 to 2017. The study conducted both descriptive statistics\nanalysis and panel data analysis. The result indicates that, short term debt\nexplains 45.99% and 25.6% of variations in financial growth as measured by\ngrowth in earnings per share and growth in market capitalization respectively.\nShort term debt positively and significantly influences financial growth\nmeasured using both growth in earnings per share and growth in market\ncapitalization. The study recommends that, the management of non-financial\nfirms listed at Nairobi Securities Exchange to employ financing means that can\nimprove the earnings per share, market capitalization and enhance the value of\nthe firm for the benefit of its stakeholders.",
+          "arxiv_id": "2011.03339v1"
+        },
+        {
+          "title": "Effect of Share Capital on Financial Growth of Non-Financial Firms Listed at the Nairobi Securities Exchange",
+          "year": "2021-08",
+          "abstract": "Purpose: A significant number of the non-financial firms listed at the\nNairobi Securities Exchange (NSE) have been experiencing declining financial\nperformance which deters investors from investing in such firms. The lenders\nare also not willing to lend to such firms. As such, the firms struggle to\nraise funds for their operations. Prudent financing decisions can lead to\nfinancial growth of the firm. The purpose of this study is to assess the effect\nof Share capital on financial growth of Non-financial firms listed at the\nNairobi Securities Exchange. Financial firms were excluded because of their\nspecific sector characteristics and stringent regulatory framework. The study\nis guided by Market Timing Theory and Theory of Growth of the Firm.\nMethodology: Explanatory research design was adopted. The target population of\nthe study comprised of 45 non-financial firms listed at NSE for a period of ten\nyears from 2008 to 2017. The study conducted both descriptive statistics\nanalysis and panel data analysis. Findings: The result indicates that, share\ncapital explains 32.73% and 11.62% of variations in financial growth as measure\nby growth in earnings per share and growth in market capitalization\nrespectively. Share capital positively and significantly influences financial\ngrowth as measured by both growth in earnings per share and growth in market\ncapitalization. Implications: The study recommends for the Non-financial firms\nto utilize equity financing as a way of raising capital for major expansions,\nasset growth or acquisitions which may require heavy funding. In this way,\nfirms will be assured of improved performance as well as high financial growth.\nThe study also recommends for substantial firm financing through equity. Value:\nEquity financing is important to any firm, if the proceeds are used to invest\nin projects which eventually bring growth to the firm.",
+          "arxiv_id": "2108.10244v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:05:05Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

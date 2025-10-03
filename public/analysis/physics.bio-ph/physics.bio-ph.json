@@ -1,0 +1,2108 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_active_cell_cells_model",
+        "keywords": [
+          [
+            "active",
+            0.027406526009354566
+          ],
+          [
+            "cell",
+            0.02363661477875822
+          ],
+          [
+            "cells",
+            0.015469142097262802
+          ],
+          [
+            "model",
+            0.015175661065928216
+          ],
+          [
+            "dynamics",
+            0.011595214558030857
+          ],
+          [
+            "tissue",
+            0.010017017591807386
+          ],
+          [
+            "flow",
+            0.009877605321489104
+          ],
+          [
+            "motion",
+            0.0098774092554094
+          ],
+          [
+            "fluid",
+            0.009533716261899262
+          ],
+          [
+            "self",
+            0.009419366325808061
+          ]
+        ],
+        "count": 1282
+      },
+      "1": {
+        "name": "1_imaging_optical_microscopy_resolution",
+        "keywords": [
+          [
+            "imaging",
+            0.023336438871817012
+          ],
+          [
+            "optical",
+            0.015590462899884293
+          ],
+          [
+            "microscopy",
+            0.014635738996603195
+          ],
+          [
+            "resolution",
+            0.013957982975607798
+          ],
+          [
+            "high",
+            0.013563396161319756
+          ],
+          [
+            "light",
+            0.011561766783245074
+          ],
+          [
+            "single",
+            0.011447691399822017
+          ],
+          [
+            "cells",
+            0.009839342365468809
+          ],
+          [
+            "fluorescence",
+            0.009464555175597187
+          ],
+          [
+            "biological",
+            0.00928876935955686
+          ]
+        ],
+        "count": 995
+      },
+      "2": {
+        "name": "2_systems_information_dynamics_networks",
+        "keywords": [
+          [
+            "systems",
+            0.01929545355076479
+          ],
+          [
+            "information",
+            0.013999762403803446
+          ],
+          [
+            "dynamics",
+            0.013921140851392675
+          ],
+          [
+            "networks",
+            0.012553865414795654
+          ],
+          [
+            "population",
+            0.012428677498753218
+          ],
+          [
+            "gene",
+            0.012271522259102935
+          ],
+          [
+            "evolution",
+            0.011972782913668756
+          ],
+          [
+            "model",
+            0.011845207431551678
+          ],
+          [
+            "biological",
+            0.011523505509659098
+          ],
+          [
+            "time",
+            0.011171390876075974
+          ]
+        ],
+        "count": 601
+      },
+      "3": {
+        "name": "3_brain_neural_network_neurons",
+        "keywords": [
+          [
+            "brain",
+            0.03215838323480022
+          ],
+          [
+            "neural",
+            0.02750401997609318
+          ],
+          [
+            "network",
+            0.026573195753157846
+          ],
+          [
+            "neurons",
+            0.0210373378096165
+          ],
+          [
+            "networks",
+            0.02062265605314521
+          ],
+          [
+            "model",
+            0.01790723087728213
+          ],
+          [
+            "dynamics",
+            0.01624372488097563
+          ],
+          [
+            "activity",
+            0.01569491953972534
+          ],
+          [
+            "neuronal",
+            0.014545250708059442
+          ],
+          [
+            "information",
+            0.013358439815052262
+          ]
+        ],
+        "count": 334
+      },
+      "4": {
+        "name": "4_protein_molecular_simulations_proteins",
+        "keywords": [
+          [
+            "protein",
+            0.03582116132245456
+          ],
+          [
+            "molecular",
+            0.02247119632491257
+          ],
+          [
+            "simulations",
+            0.017814171382608497
+          ],
+          [
+            "proteins",
+            0.015237664782437392
+          ],
+          [
+            "learning",
+            0.014394015145600823
+          ],
+          [
+            "data",
+            0.01436909723818125
+          ],
+          [
+            "methods",
+            0.014343502021174235
+          ],
+          [
+            "energy",
+            0.014280336939957046
+          ],
+          [
+            "structure",
+            0.013814317736748247
+          ],
+          [
+            "binding",
+            0.01368562100997588
+          ]
+        ],
+        "count": 299
+      },
+      "5": {
+        "name": "5_blood_flow_model_models",
+        "keywords": [
+          [
+            "blood",
+            0.024728748249036578
+          ],
+          [
+            "flow",
+            0.02407572175031048
+          ],
+          [
+            "model",
+            0.02253949165885242
+          ],
+          [
+            "models",
+            0.01408761496157958
+          ],
+          [
+            "mechanical",
+            0.01382790485111622
+          ],
+          [
+            "tissue",
+            0.01320106663904784
+          ],
+          [
+            "cardiac",
+            0.012040693113295715
+          ],
+          [
+            "shear",
+            0.011977907608891948
+          ],
+          [
+            "pressure",
+            0.011812470431217957
+          ],
+          [
+            "wave",
+            0.011618648960896805
+          ]
+        ],
+        "count": 272
+      },
+      "6": {
+        "name": "6_DNA_chromatin_model_loop",
+        "keywords": [
+          [
+            "DNA",
+            0.07612574226697466
+          ],
+          [
+            "chromatin",
+            0.03218031216812766
+          ],
+          [
+            "model",
+            0.020637898808858256
+          ],
+          [
+            "loop",
+            0.015666457850935022
+          ],
+          [
+            "chromosome",
+            0.014946024283706298
+          ],
+          [
+            "genome",
+            0.012818241965294408
+          ],
+          [
+            "base",
+            0.012765091027614722
+          ],
+          [
+            "double",
+            0.012744572399011557
+          ],
+          [
+            "simulations",
+            0.01261202304782596
+          ],
+          [
+            "dynamics",
+            0.012544001984775472
+          ]
+        ],
+        "count": 171
+      },
+      "7": {
+        "name": "7_phase_separation_droplets_condensates",
+        "keywords": [
+          [
+            "phase",
+            0.04303745940878893
+          ],
+          [
+            "separation",
+            0.03553456254136008
+          ],
+          [
+            "droplets",
+            0.03426174763973774
+          ],
+          [
+            "condensates",
+            0.033230343922870595
+          ],
+          [
+            "phase separation",
+            0.032651927105936354
+          ],
+          [
+            "droplet",
+            0.02862415665547297
+          ],
+          [
+            "liquid",
+            0.027005024833050038
+          ],
+          [
+            "interactions",
+            0.01709824548624897
+          ],
+          [
+            "assembly",
+            0.01593907660077165
+          ],
+          [
+            "equilibrium",
+            0.015091229788189914
+          ]
+        ],
+        "count": 143
+      },
+      "8": {
+        "name": "8_epidemic_model_COVID_infection",
+        "keywords": [
+          [
+            "epidemic",
+            0.03882227904226716
+          ],
+          [
+            "model",
+            0.03805678277623173
+          ],
+          [
+            "COVID",
+            0.03217534721471849
+          ],
+          [
+            "infection",
+            0.027719209310151958
+          ],
+          [
+            "infected",
+            0.02379685096561604
+          ],
+          [
+            "pandemic",
+            0.02333565462744072
+          ],
+          [
+            "disease",
+            0.022440212386110638
+          ],
+          [
+            "number",
+            0.021970776077929858
+          ],
+          [
+            "spread",
+            0.020152892740485134
+          ],
+          [
+            "data",
+            0.020099281017316856
+          ]
+        ],
+        "count": 140
+      },
+      "9": {
+        "name": "9_membrane_lipid_membranes_curvature",
+        "keywords": [
+          [
+            "membrane",
+            0.07799916788269615
+          ],
+          [
+            "lipid",
+            0.03790177040709354
+          ],
+          [
+            "membranes",
+            0.035140231688861205
+          ],
+          [
+            "curvature",
+            0.03330570131236243
+          ],
+          [
+            "vesicles",
+            0.025625076877760528
+          ],
+          [
+            "vesicle",
+            0.02504770564993422
+          ],
+          [
+            "proteins",
+            0.022896878544684172
+          ],
+          [
+            "protein",
+            0.017226977761468105
+          ],
+          [
+            "bending",
+            0.01689139481989229
+          ],
+          [
+            "bilayer",
+            0.01625144917869046
+          ]
+        ],
+        "count": 116
+      },
+      "10": {
+        "name": "10_diffusion_time_fractional_motion",
+        "keywords": [
+          [
+            "diffusion",
+            0.04137669736809706
+          ],
+          [
+            "time",
+            0.034657625960286806
+          ],
+          [
+            "fractional",
+            0.021693792347929633
+          ],
+          [
+            "motion",
+            0.02015076677666789
+          ],
+          [
+            "anomalous",
+            0.020098147729416163
+          ],
+          [
+            "particle",
+            0.019900328642283534
+          ],
+          [
+            "passage",
+            0.01960806169184187
+          ],
+          [
+            "Brownian",
+            0.017456489103954313
+          ],
+          [
+            "particles",
+            0.017069092337823215
+          ],
+          [
+            "mean",
+            0.016918085727177515
+          ]
+        ],
+        "count": 99
+      },
+      "11": {
+        "name": "11_transfer_energy_quantum_photosynthetic",
+        "keywords": [
+          [
+            "transfer",
+            0.0396332771386956
+          ],
+          [
+            "energy",
+            0.03826780553789821
+          ],
+          [
+            "quantum",
+            0.03319211785155004
+          ],
+          [
+            "photosynthetic",
+            0.02930926581693724
+          ],
+          [
+            "light",
+            0.029267160864059297
+          ],
+          [
+            "energy transfer",
+            0.025106115766105257
+          ],
+          [
+            "harvesting",
+            0.01915768535772465
+          ],
+          [
+            "vibrational",
+            0.01858206852084313
+          ],
+          [
+            "photosynthesis",
+            0.017590647721614564
+          ],
+          [
+            "state",
+            0.017062114637925785
+          ]
+        ],
+        "count": 98
+      },
+      "12": {
+        "name": "12_fish_collective_model_group",
+        "keywords": [
+          [
+            "fish",
+            0.032721619297811325
+          ],
+          [
+            "collective",
+            0.03056947867065228
+          ],
+          [
+            "model",
+            0.02516591655046127
+          ],
+          [
+            "group",
+            0.023924285475311058
+          ],
+          [
+            "swarms",
+            0.023045096181190588
+          ],
+          [
+            "motion",
+            0.018486008519839045
+          ],
+          [
+            "behavior",
+            0.01770553767727757
+          ],
+          [
+            "individual",
+            0.016887196095453753
+          ],
+          [
+            "groups",
+            0.01670397094252676
+          ],
+          [
+            "social",
+            0.016454933289695023
+          ]
+        ],
+        "count": 81
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.7223057008899367,
+        -0.19656808717236196,
+        -0.7048824253966615,
+        -0.7032850381221005,
+        -0.6757247227373961,
+        -0.7425116586052327,
+        -0.6712560176678617,
+        -0.7050650324631602,
+        -0.7108782371792013,
+        -0.6801027199834124,
+        -0.7158729931323159,
+        -0.6491613233351082
+      ],
+      [
+        -0.7223057008899367,
+        1.0,
+        -0.6629458567640539,
+        -0.7172419621408063,
+        -0.7401046638163872,
+        -0.5803449912024752,
+        -0.7469006888604723,
+        -0.7157912532412432,
+        -0.7407875571058793,
+        -0.7385328575814979,
+        -0.7287743837795329,
+        -0.7243185223884426,
+        -0.74166206465134
+      ],
+      [
+        -0.19656808717236196,
+        -0.6629458567640539,
+        1.0,
+        -0.6866018962399494,
+        -0.6931179793265976,
+        -0.6811003977312422,
+        -0.7373012910328132,
+        -0.682315656484323,
+        -0.6999831491549784,
+        -0.7302669414374503,
+        -0.6768548335256357,
+        -0.70283856218112,
+        -0.6847290756961053
+      ],
+      [
+        -0.7048824253966615,
+        -0.7172419621408063,
+        -0.6866018962399494,
+        1.0,
+        -0.7227969087846629,
+        -0.6997718522476769,
+        -0.7451828832328151,
+        -0.7299938908628805,
+        -0.7252981834403777,
+        -0.7473431806201271,
+        -0.7188098955685596,
+        -0.7352004891160026,
+        -0.7132544609836384
+      ],
+      [
+        -0.7032850381221005,
+        -0.7401046638163872,
+        -0.6931179793265976,
+        -0.7227969087846629,
+        1.0,
+        -0.727498205392901,
+        -0.7364346512772646,
+        -0.7256151403107018,
+        -0.7245153863392597,
+        -0.7107831019491173,
+        -0.7216919288949835,
+        -0.698685730599024,
+        -0.7280723143686176
+      ],
+      [
+        -0.6757247227373961,
+        -0.5803449912024752,
+        -0.6811003977312422,
+        -0.6997718522476769,
+        -0.727498205392901,
+        1.0,
+        -0.7426147834658108,
+        -0.7097317296389744,
+        -0.3165645212048741,
+        -0.7046528799870522,
+        -0.7047686692121129,
+        -0.7311260971620133,
+        -0.36416887583219204
+      ],
+      [
+        -0.7425116586052327,
+        -0.7469006888604723,
+        -0.7373012910328132,
+        -0.7451828832328151,
+        -0.7364346512772646,
+        -0.7426147834658108,
+        1.0,
+        -0.7257551914558931,
+        -0.7365341605780988,
+        -0.7520142133631615,
+        -0.7380133436497072,
+        -0.7451686838256062,
+        -0.7434951544206726
+      ],
+      [
+        -0.6712560176678617,
+        -0.7157912532412432,
+        -0.682315656484323,
+        -0.7299938908628805,
+        -0.7256151403107018,
+        -0.7097317296389744,
+        -0.7257551914558931,
+        1.0,
+        -0.7280500118478621,
+        -0.7154610014923348,
+        -0.7347089663213504,
+        -0.7450210941797182,
+        -0.7044655670239389
+      ],
+      [
+        -0.7050650324631602,
+        -0.7407875571058793,
+        -0.6999831491549784,
+        -0.7252981834403777,
+        -0.7245153863392597,
+        -0.3165645212048741,
+        -0.7365341605780988,
+        -0.7280500118478621,
+        1.0,
+        -0.7343795790273709,
+        -0.7118354251314194,
+        -0.7303229505968155,
+        -0.334383499215952
+      ],
+      [
+        -0.7108782371792013,
+        -0.7385328575814979,
+        -0.7302669414374503,
+        -0.7473431806201271,
+        -0.7107831019491173,
+        -0.7046528799870522,
+        -0.7520142133631615,
+        -0.7154610014923348,
+        -0.7343795790273709,
+        1.0,
+        -0.7305785224672281,
+        -0.7480680402290028,
+        -0.7399444821606476
+      ],
+      [
+        -0.6801027199834124,
+        -0.7287743837795329,
+        -0.6768548335256357,
+        -0.7188098955685596,
+        -0.7216919288949835,
+        -0.7047686692121129,
+        -0.7380133436497072,
+        -0.7347089663213504,
+        -0.7118354251314194,
+        -0.7305785224672281,
+        1.0,
+        -0.7334724378483789,
+        -0.7162076218237182
+      ],
+      [
+        -0.7158729931323159,
+        -0.7243185223884426,
+        -0.70283856218112,
+        -0.7352004891160026,
+        -0.698685730599024,
+        -0.7311260971620133,
+        -0.7451686838256062,
+        -0.7450210941797182,
+        -0.7303229505968155,
+        -0.7480680402290028,
+        -0.7334724378483789,
+        1.0,
+        -0.7301662433154823
+      ],
+      [
+        -0.6491613233351082,
+        -0.74166206465134,
+        -0.6847290756961053,
+        -0.7132544609836384,
+        -0.7280723143686176,
+        -0.36416887583219204,
+        -0.7434951544206726,
+        -0.7044655670239389,
+        -0.334383499215952,
+        -0.7399444821606476,
+        -0.7162076218237182,
+        -0.7301662433154823,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        19,
+        5,
+        2,
+        8,
+        4,
+        3,
+        5,
+        5,
+        2,
+        9,
+        8,
+        4,
+        0
+      ],
+      "2020-02": [
+        22,
+        6,
+        11,
+        1,
+        3,
+        2,
+        6,
+        2,
+        2,
+        10,
+        5,
+        4,
+        2
+      ],
+      "2020-03": [
+        24,
+        7,
+        6,
+        3,
+        12,
+        2,
+        5,
+        3,
+        15,
+        6,
+        2,
+        4,
+        4
+      ],
+      "2020-04": [
+        23,
+        7,
+        1,
+        7,
+        7,
+        2,
+        5,
+        6,
+        16,
+        5,
+        9,
+        5,
+        1
+      ],
+      "2020-05": [
+        27,
+        4,
+        8,
+        7,
+        3,
+        6,
+        5,
+        7,
+        12,
+        8,
+        9,
+        1,
+        3
+      ],
+      "2020-06": [
+        20,
+        6,
+        6,
+        7,
+        6,
+        4,
+        4,
+        3,
+        4,
+        6,
+        11,
+        7,
+        0
+      ],
+      "2020-07": [
+        28,
+        3,
+        13,
+        6,
+        5,
+        2,
+        6,
+        7,
+        11,
+        8,
+        9,
+        5,
+        4
+      ],
+      "2020-08": [
+        17,
+        2,
+        7,
+        6,
+        4,
+        2,
+        5,
+        7,
+        14,
+        6,
+        4,
+        0,
+        1
+      ],
+      "2020-09": [
+        28,
+        5,
+        7,
+        9,
+        8,
+        1,
+        5,
+        5,
+        4,
+        7,
+        8,
+        5,
+        0
+      ],
+      "2020-10": [
+        29,
+        7,
+        13,
+        6,
+        4,
+        2,
+        11,
+        8,
+        9,
+        4,
+        5,
+        5,
+        5
+      ],
+      "2020-11": [
+        23,
+        4,
+        6,
+        2,
+        6,
+        4,
+        2,
+        3,
+        9,
+        5,
+        5,
+        2,
+        2
+      ],
+      "2020-12": [
+        36,
+        4,
+        8,
+        10,
+        8,
+        2,
+        6,
+        6,
+        12,
+        5,
+        3,
+        1,
+        0
+      ],
+      "2021-01": [
+        24,
+        4,
+        5,
+        4,
+        2,
+        6,
+        8,
+        5,
+        9,
+        6,
+        3,
+        4,
+        1
+      ],
+      "2021-02": [
+        31,
+        7,
+        9,
+        3,
+        5,
+        4,
+        5,
+        5,
+        12,
+        6,
+        10,
+        2,
+        3
+      ],
+      "2021-03": [
+        39,
+        4,
+        5,
+        6,
+        10,
+        4,
+        9,
+        7,
+        15,
+        6,
+        7,
+        5,
+        1
+      ],
+      "2021-04": [
+        30,
+        2,
+        10,
+        6,
+        1,
+        1,
+        9,
+        10,
+        8,
+        14,
+        2,
+        1,
+        1
+      ],
+      "2021-05": [
+        23,
+        2,
+        4,
+        5,
+        5,
+        2,
+        10,
+        4,
+        8,
+        4,
+        7,
+        2,
+        1
+      ],
+      "2021-06": [
+        31,
+        2,
+        6,
+        7,
+        4,
+        3,
+        4,
+        8,
+        8,
+        11,
+        4,
+        3,
+        1
+      ],
+      "2021-07": [
+        27,
+        7,
+        5,
+        5,
+        9,
+        2,
+        2,
+        5,
+        7,
+        1,
+        7,
+        4,
+        4
+      ],
+      "2021-08": [
+        28,
+        4,
+        8,
+        4,
+        3,
+        1,
+        6,
+        6,
+        8,
+        6,
+        6,
+        1,
+        1
+      ],
+      "2021-09": [
+        21,
+        5,
+        11,
+        6,
+        6,
+        2,
+        3,
+        6,
+        8,
+        4,
+        3,
+        3,
+        2
+      ],
+      "2021-10": [
+        27,
+        3,
+        9,
+        5,
+        5,
+        2,
+        11,
+        7,
+        11,
+        6,
+        6,
+        3,
+        2
+      ],
+      "2021-11": [
+        28,
+        4,
+        4,
+        10,
+        5,
+        4,
+        4,
+        7,
+        9,
+        9,
+        7,
+        4,
+        3
+      ],
+      "2021-12": [
+        39,
+        4,
+        10,
+        7,
+        8,
+        5,
+        5,
+        8,
+        9,
+        5,
+        6,
+        3,
+        6
+      ],
+      "2022-01": [
+        26,
+        6,
+        14,
+        4,
+        9,
+        3,
+        3,
+        6,
+        4,
+        5,
+        5,
+        5,
+        0
+      ],
+      "2022-02": [
+        31,
+        4,
+        11,
+        6,
+        3,
+        1,
+        5,
+        4,
+        6,
+        7,
+        9,
+        4,
+        3
+      ],
+      "2022-03": [
+        23,
+        4,
+        8,
+        7,
+        6,
+        2,
+        3,
+        5,
+        4,
+        8,
+        12,
+        8,
+        3
+      ],
+      "2022-04": [
+        28,
+        5,
+        5,
+        9,
+        5,
+        4,
+        4,
+        5,
+        5,
+        10,
+        7,
+        0,
+        5
+      ],
+      "2022-05": [
+        20,
+        6,
+        1,
+        5,
+        10,
+        1,
+        3,
+        6,
+        4,
+        8,
+        7,
+        6,
+        3
+      ],
+      "2022-06": [
+        23,
+        6,
+        7,
+        3,
+        4,
+        0,
+        4,
+        5,
+        10,
+        6,
+        7,
+        7,
+        5
+      ],
+      "2022-07": [
+        23,
+        3,
+        8,
+        8,
+        3,
+        1,
+        1,
+        1,
+        6,
+        11,
+        5,
+        7,
+        0
+      ],
+      "2022-08": [
+        20,
+        3,
+        6,
+        8,
+        11,
+        1,
+        3,
+        1,
+        10,
+        5,
+        8,
+        5,
+        6
+      ],
+      "2022-09": [
+        23,
+        4,
+        6,
+        5,
+        4,
+        3,
+        2,
+        4,
+        5,
+        3,
+        7,
+        2,
+        3
+      ],
+      "2022-10": [
+        27,
+        6,
+        0,
+        3,
+        8,
+        0,
+        7,
+        6,
+        2,
+        10,
+        1,
+        5,
+        2
+      ],
+      "2022-11": [
+        25,
+        7,
+        7,
+        4,
+        4,
+        2,
+        3,
+        2,
+        4,
+        11,
+        8,
+        3,
+        4
+      ],
+      "2022-12": [
+        22,
+        1,
+        4,
+        5,
+        8,
+        3,
+        3,
+        5,
+        3,
+        3,
+        4,
+        2,
+        3
+      ],
+      "2023-01": [
+        26,
+        10,
+        7,
+        6,
+        2,
+        1,
+        3,
+        8,
+        5,
+        8,
+        4,
+        4,
+        2
+      ],
+      "2023-02": [
+        18,
+        6,
+        7,
+        4,
+        7,
+        1,
+        0,
+        6,
+        10,
+        3,
+        5,
+        5,
+        2
+      ],
+      "2023-03": [
+        27,
+        11,
+        16,
+        4,
+        12,
+        3,
+        6,
+        2,
+        10,
+        10,
+        7,
+        2,
+        2
+      ],
+      "2023-04": [
+        36,
+        2,
+        7,
+        7,
+        4,
+        7,
+        3,
+        1,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "2023-05": [
+        26,
+        5,
+        7,
+        4,
+        2,
+        4,
+        5,
+        6,
+        6,
+        7,
+        3,
+        3,
+        3
+      ],
+      "2023-06": [
+        37,
+        6,
+        9,
+        7,
+        6,
+        0,
+        8,
+        9,
+        8,
+        3,
+        4,
+        4,
+        1
+      ],
+      "2023-07": [
+        26,
+        3,
+        8,
+        3,
+        4,
+        1,
+        4,
+        5,
+        4,
+        9,
+        9,
+        5,
+        5
+      ],
+      "2023-08": [
+        26,
+        4,
+        7,
+        4,
+        4,
+        4,
+        2,
+        4,
+        5,
+        4,
+        5,
+        5,
+        3
+      ],
+      "2023-09": [
+        23,
+        8,
+        7,
+        10,
+        3,
+        1,
+        3,
+        3,
+        5,
+        5,
+        8,
+        4,
+        5
+      ],
+      "2023-10": [
+        36,
+        3,
+        7,
+        6,
+        6,
+        5,
+        8,
+        8,
+        6,
+        5,
+        8,
+        4,
+        2
+      ],
+      "2023-11": [
+        41,
+        2,
+        5,
+        7,
+        12,
+        3,
+        5,
+        4,
+        7,
+        5,
+        6,
+        3,
+        5
+      ],
+      "2023-12": [
+        33,
+        6,
+        8,
+        8,
+        1,
+        1,
+        5,
+        6,
+        3,
+        11,
+        9,
+        4,
+        4
+      ],
+      "2024-01": [
+        41,
+        3,
+        5,
+        12,
+        6,
+        5,
+        5,
+        12,
+        3,
+        8,
+        9,
+        2,
+        1
+      ],
+      "2024-02": [
+        34,
+        2,
+        4,
+        6,
+        4,
+        4,
+        5,
+        7,
+        8,
+        3,
+        4,
+        3,
+        1
+      ],
+      "2024-03": [
+        50,
+        5,
+        14,
+        4,
+        8,
+        6,
+        6,
+        8,
+        6,
+        5,
+        6,
+        4,
+        0
+      ],
+      "2024-04": [
+        24,
+        7,
+        4,
+        7,
+        5,
+        2,
+        5,
+        3,
+        5,
+        9,
+        3,
+        7,
+        3
+      ],
+      "2024-05": [
+        36,
+        8,
+        7,
+        11,
+        8,
+        4,
+        3,
+        7,
+        5,
+        2,
+        7,
+        2,
+        4
+      ],
+      "2024-06": [
+        27,
+        4,
+        8,
+        2,
+        5,
+        3,
+        0,
+        7,
+        8,
+        2,
+        3,
+        3,
+        2
+      ],
+      "2024-07": [
+        39,
+        4,
+        6,
+        5,
+        4,
+        3,
+        11,
+        10,
+        6,
+        9,
+        6,
+        3,
+        4
+      ],
+      "2024-08": [
+        26,
+        2,
+        8,
+        8,
+        13,
+        1,
+        3,
+        2,
+        5,
+        5,
+        8,
+        5,
+        3
+      ],
+      "2024-09": [
+        33,
+        4,
+        13,
+        9,
+        5,
+        5,
+        4,
+        11,
+        5,
+        13,
+        6,
+        4,
+        2
+      ],
+      "2024-10": [
+        37,
+        4,
+        11,
+        11,
+        10,
+        4,
+        7,
+        6,
+        2,
+        5,
+        12,
+        5,
+        3
+      ],
+      "2024-11": [
+        24,
+        2,
+        5,
+        10,
+        7,
+        4,
+        4,
+        7,
+        7,
+        5,
+        3,
+        5,
+        6
+      ],
+      "2024-12": [
+        29,
+        3,
+        6,
+        11,
+        3,
+        2,
+        11,
+        9,
+        4,
+        7,
+        6,
+        1,
+        3
+      ],
+      "2025-01": [
+        43,
+        3,
+        6,
+        7,
+        8,
+        4,
+        4,
+        2,
+        7,
+        8,
+        7,
+        4,
+        1
+      ],
+      "2025-02": [
+        28,
+        2,
+        7,
+        7,
+        4,
+        0,
+        3,
+        3,
+        4,
+        6,
+        6,
+        4,
+        2
+      ],
+      "2025-03": [
+        46,
+        5,
+        11,
+        4,
+        9,
+        4,
+        7,
+        4,
+        6,
+        5,
+        5,
+        9,
+        3
+      ],
+      "2025-04": [
+        36,
+        7,
+        10,
+        10,
+        13,
+        4,
+        3,
+        5,
+        7,
+        2,
+        12,
+        4,
+        1
+      ],
+      "2025-05": [
+        36,
+        1,
+        4,
+        8,
+        4,
+        6,
+        7,
+        9,
+        9,
+        8,
+        4,
+        2,
+        4
+      ],
+      "2025-06": [
+        21,
+        5,
+        10,
+        7,
+        6,
+        0,
+        7,
+        6,
+        0,
+        8,
+        7,
+        3,
+        4
+      ],
+      "2025-07": [
+        33,
+        4,
+        5,
+        8,
+        9,
+        7,
+        7,
+        6,
+        9,
+        4,
+        5,
+        9,
+        4
+      ],
+      "2025-08": [
+        38,
+        4,
+        7,
+        9,
+        6,
+        0,
+        6,
+        5,
+        3,
+        5,
+        3,
+        3,
+        1
+      ],
+      "2025-09": [
+        21,
+        3,
+        5,
+        3,
+        1,
+        0,
+        2,
+        8,
+        5,
+        3,
+        1,
+        3,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Clustering and ordering in cell assemblies with generic asymmetric aligning interactions",
+          "year": "2020-12",
+          "abstract": "Collective cell migration plays an essential role in various biological\nprocesses, such as development or cancer proliferation. While cell-cell\ninteractions are clearly key determinants of collective cell migration -- in\naddition to individual cells self-propulsion -- the physical mechanisms that\ncontrol the emergence of cell clustering and collective cell migration are\nstill poorly understood. In particular, observations have shown that binary\ncell-cell collisions generally lead to anti-alignement of cell polarities and\nseparation of pairs -- a process called contact inhibition of locomotion (CIL),\nwhich is expected to disfavor the formation of large scale cell clusters with\ncoherent motion. Here, we adopt a joint experimental and theoretical approach\nto determine the large scale dynamics of cell assemblies from elementary\npairwise cell-cell interaction rules. We quantify experimentally binary\ncell-cell interactions and show that they can be captured by a minimal\nequilibrium-like pairwise asymmetric aligning interaction potential that\nreproduces the CIL phenomenology. We identify its symmetry class, build the\ncorresponding active hydrodynamic theory and show on general grounds that such\nasymmetric aligning interaction destroys large scale clustering and ordering,\nleading instead to a liquid-like microphase of cell clusters of finite size and\nshort lived polarity, or to a fully dispersed isotropic phase. Finally, this\nshows that CIL-like asymmetric interactions in cellular systems -- or general\nactive systems -- control cluster sizes and polarity, and can prevent large\nscale coarsening and long range polarity, except in the singular regime of\ndense confluent systems.",
+          "arxiv_id": "2012.00785v1"
+        },
+        {
+          "title": "Viscoelastic control of spatiotemporal order in bacterial active matter",
+          "year": "2020-07",
+          "abstract": "Active matter consists of units that generate mechanical work by consuming\nenergy. Examples include living systems, such as assemblies of bacteria and\nbiological tissues, biopolymers driven by molecular motors, and suspensions of\nsynthetic self-propelled particles. A central question in the field is to\nunderstand and control the self-organization of active assemblies in space and\ntime. Most active systems exhibit either spatial order mediated by interactions\nthat coordinate the spatial structure and the motion of active agents or the\ntemporal synchronization of individual oscillatory dynamics. The simultaneous\ncontrol of spatial and temporal organization is more challenging and generally\nrequires complex interactions, such as reaction-diffusion hierarchies or\ngenetically engineered cellular circuits. Here, we report a novel and simple\nmeans to simultaneously control the spatial and temporal self-organization of\nbacterial active matter. By confining an active bacterial suspension and\nmanipulating a single macroscopic parameter, namely the viscoelasticity of the\nsuspending fluid, we have found that the bacterial fluid first self-organizes\nin space into a millimeter-scale rotating vortex; then displays temporal\norganization as the giant vortex switches its global chirality periodically\nwith tunable frequency, reminiscent of a torsional pendulum - a self-driven\none. Combining experiments with an active matter model, we explain this\nstriking behavior in terms of the interplay between active forcing and\nviscoelastic stress relaxation. Our findings advance the understanding of\nbacterial behavior in complex fluids, and demonstrate experimentally for the\nfirst time that rheological properties can be harnessed to control active\nmatter flows. Coupled with actuation, our tunable self-oscillating bacterial\nvortex may be used as a \"clock\" for locomotion of soft robots and microfluidic\npumping.",
+          "arxiv_id": "2007.16206v3"
+        },
+        {
+          "title": "Interplay between substrate rigidity and tissue fluidity regulates cell monolayer spreading",
+          "year": "2022-06",
+          "abstract": "Coordinated and cooperative motion of cells is essential for embryonic\ndevelopment, tissue morphogenesis, wound healing and cancer invasion. A\npredictive understanding of the emergent mechanical behaviors in collective\ncell motion is challenging due to the complex interplay between cell-cell\ninteractions, cell-matrix adhesions and active cell behaviors. To overcome this\nchallenge, we develop a predictive cellular vertex model that can delineate the\nrelative roles of substrate rigidity, tissue mechanics and active cell\nproperties on the movement of cell collectives. We apply the model to the\nspecific case of collective motion in cell aggregates as they spread into a\ntwo-dimensional cell monolayer adherent to a soft elastic matrix. Consistent\nwith recent experiments, we find that substrate stiffness regulates the driving\nforces for the spreading of cellular monolayer, which can be pressure-driven or\ncrawling-based depending on substrate rigidity. On soft substrates, cell\nmonolayer spreading is driven by an active pressure due to the influx of cells\ncoming from the aggregate, whereas on stiff substrates, cell spreading is\ndriven primarily by active crawling forces. Our model predicts that cooperation\nof cell crawling and tissue pressure drives faster spreading, while the\nspreading rate is sensitive to the mechanical properties of the tissue. We find\nthat solid tissues spread faster on stiff substrates, with spreading rate\nincreasing with tissue tension. By contrast, the spreading of fluid tissues is\nindependent of substrate stiffness and is slower than solid tissues. We compare\nour theoretical results with experimental results on traction force generation\nand spreading kinetics of cell monolayers, and provide new predictions on the\nrole of tissue fluidity and substrate rigidity on collective cell motion.",
+          "arxiv_id": "2206.03570v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Multiphoton super-resolution imaging via virtual structured illumination",
+          "year": "2024-04",
+          "abstract": "Imaging in thick biological tissues is often degraded by sample-induced\naberrations, which reduce image quality and resolution, particularly in\nsuper-resolution techniques. While hardware-based adaptive optics, which\ncorrect aberrations using wavefront shaping devices, provide an effective\nsolution, their complexity and cost limit accessibility. Computational methods\noffer simpler alternatives but struggle with complex aberrations due to the\nincoherent nature of fluorescence. Here, we present a deep-tissue\nsuper-resolution imaging framework that addresses these challenges with minimal\nhardware modification. By replacing the photodetector in a standard\nlaser-scanning microscope with a camera, we measure an incoherent response\nmatrix (IRM). A dual deconvolution algorithm is developed to decompose the IRM\ninto excitation and emission optical transfer functions and the object\nspectrum. The proposed method simultaneously corrects excitation and emission\npoint-spread functions (PSFs), achieving a resolution of {\\lambda}/4,\ncomparable to structured illumination microscopy. Unlike existing computational\nmethods that rely on vector decomposition of a single convoluted PSF, our\nmatrix-based approach enhances image reconstruction, particularly for high\nspatial frequency components, enabling super-resolution even in the presence of\ncomplex aberrations. We validated this framework with two-photon\nsuper-resolution imaging, achieving a lateral resolution of 130 nanometers at a\ndepth of 180 micrometers in thick mouse brain tissue.",
+          "arxiv_id": "2404.11849v2"
+        },
+        {
+          "title": "Super-resolution in vivo retinal imaging using structured illumination ophthalmoscopy",
+          "year": "2020-07",
+          "abstract": "Structured illumination microscopy (SIM) is one of the most versatile\nsuper-resolution techniques. Yet, its application to live imaging has been so\nfar mainly limited to fluorescent and stationary specimens. Here, we present\nadvancements in SIM to jointly tackle all the challenges of imaging living\nsamples, i.e., obtaining super-resolution over an undistorted wide-field while\ndealing with sample motion, scattering, sample-induced optical aberrations and\nlow signal-to-noise ratio. By using adaptive optics to compensate for optical\naberrations and a reconstruction algorithm tailored for a moving and thick\ntissue, we successfully applied SIM to in vivo retinal imaging and demonstrated\nstructured illumination ophthalmoscopy for high contrast super-resolution in\nvivo imaging of the human retina.",
+          "arxiv_id": "2007.16028v2"
+        },
+        {
+          "title": "Light sheet and light field microscopy based on scanning Bessel beam illumination",
+          "year": "2023-11",
+          "abstract": "We developed a Bessel light sheet fluorescence microscopy (LSFM) system to\nenable high-speed, wide-field intra-vital imaging of zebrafish and other thick\nbiological samples. This system uses air objectives for the convenient mounting\nof large samples and incorporates an electrically tunable lens for automatic\nfocusing during volumetric imaging. To enhance the precision of 3D imaging, the\nimpact of the electrically tunable lens on system magnification is investigated\nand modified through designed experiments. Despite using Bessel beams with side\nlobes, we achieved satisfactory image quality through a straightforward\nbackground noise subtraction method, eliminating the need for further\ndeconvolution. Our system provides zebrafish imaging at a resolution comparable\nto commercial confocal microscopy but in just 1/40th of the time. We also\nintroduced light field microscopy (LFM) to improve 3D in vivo imaging temporal\nresolution. Apart from the 28-fold speed enhancement, the comparison of LFM and\nLSFM results reveals a unique aspect of LFM imaging concerning image dynamic\nrange, which has not been previously reported.",
+          "arxiv_id": "2311.02441v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Reverse-time analysis and boundary classification of directional biological dynamics with multiplicative noise",
+          "year": "2023-04",
+          "abstract": "The dynamics of living systems often serves the purpose of reaching\nfunctionally important target states. We previously proposed a theory to\nanalyze stochastic biological dynamics evolving towards target states in\nreverse time. However, a large class of systems in biology can only be\nadequately described using state-dependent noise, which had not been discussed.\nFor example, in gene regulatory networks, biochemical signaling networks or\nneuronal circuits, count fluctuations are the dominant noise component. We\ncharacterize such dynamics as an ensemble of target state aligned (TSA)\ntrajectories and characterize its temporal evolution in reverse-time by\ngeneralized Fokker-Planck and stochastic differential equations with\nmultiplicative noise. We establish the classification of boundary conditions\nfor target state modeling for a wide range of power law dynamics, and derive a\nuniversal low-noise approximation of the final phase of target state\nconvergence. Our work expands the range of theoretically tractable systems in\nbiology and enables novel experimental design strategies for systems that\ninvolve target states.",
+          "arxiv_id": "2304.04279v1"
+        },
+        {
+          "title": "Local imperfect feedback control in non-equilibrium biophysical systems enabled by thermodynamic constraints",
+          "year": "2025-07",
+          "abstract": "Understanding how biological systems achieve robust control despite relying\non imperfect local information remains a challenging problem. Here, we consider\nnon-equilibrium models which are generically used to describe natural and\nsynthetic biological processes, such as gene regulation and protein\nconformational dynamics, and investigate their capacity for effective control\nusing imperfect local feedback mechanisms. We derive a thermodynamic constraint\non the response of non-equilibrium steady-state properties to changes in the\ndriving forces. We show that this constraint enables linear, local, and easily\nimplementable feedback rules to achieve environmental tracking and adaptation\nwithout consideration of network topology. In particular, we demonstrate that\nlocal stability of these feedback dynamics implies global stability for systems\nwith one or two chemical regulators, regardless of the network topology. For\nhigher-dimensional systems, global stability is not guaranteed. However, in\npart due to simplifications in attractor landscapes implied by our\nthermodynamic constraint, we find the basin of attraction remains significantly\nlarger than would be expected from linear approximation alone. Our findings\nprovide insight into how biological and synthetically engineered systems can\nrespond effectively to environmental changes given only minimal feedback,\nwithout highly engineered interactions or precise parameter tuning.",
+          "arxiv_id": "2507.07295v1"
+        },
+        {
+          "title": "Unifying deterministic and stochastic ecological dynamics via a landscape-flux approach",
+          "year": "2021-03",
+          "abstract": "We develop a landscape-flux framework to investigate observed frequency\ndistributions of vegetation and the stability of these ecological systems under\nfluctuations. The frequency distributions can characterize the\npopulation-potential landscape related to the stability of ecological states.\nWe illustrate the practical utility of this approach by analyzing a\nforest-savanna model. Savanna, and Forest states coexist under certain\nconditions, consistent with past theoretical work and empirical observations.\nHowever, a new Grassland state, unseen in the corresponding deterministic\nmodel, emerges as an alternative quasi-stable state under fluctuations,\nproviding a novel theoretical basis for the appearance of widespread grasslands\nin some empirical analyses. The ecological dynamics are determined by both the\npopulation-potential landscape gradient and the steady-state probability flux.\nThe flux quantifies the net input/output to the ecological system and therefore\nthe degree of nonequilibriumness. Landscape and flux together determine the\ntransitions between stable states characterized by dominant paths and switching\nrates. The intrinsic potential landscape admits a Lyapunov function, which\nprovides a quantitative measure of global stability. We find that the average\nflux, entropy production rate, and free energy have significant changes near\nbifurcations under both finite and zero fluctuation. These may provide both\ndynamical and thermodynamic origins of the bifurcations. We identified the\nvariances in observed frequency time traces, fluctuations and time\nirreversibility as kinematic measures for bifurcations. This new framework\nopens the way to characterize ecological systems globally, to uncover how they\nchange among states, and to quantify the emergence of new quasi-stable states\nunder stochastic fluctuations.",
+          "arxiv_id": "2103.08198v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Statistical modeling of adaptive neural networks explains coexistence of avalanches and oscillations in resting human brain",
+          "year": "2021-08",
+          "abstract": "Neurons in the brain are wired into adaptive networks that exhibit a range of\ncollective dynamics. Oscillations, for example, are paradigmatic synchronous\npatterns of neural activity with a defined temporal scale. Neuronal avalanches,\nin contrast, are scale-free cascades of neural activity, often considered as\nevidence of brain tuning to criticality. While models have been developed to\naccount for oscillations or avalanches separately, they typically do not\nexplain both phenomena, are too complex to analyze analytically, or intractable\nto infer from data rigorously. Here we propose a non-equilibrium\nfeedback-driven Ising like class of neural networks that simultaneously and\nquantitatively captures scale-free avalanches and scale-specific oscillations.\nIn the most simple yet fully microscopic model version we can analytically\ncompute the phase diagram and make direct contact with human brain\nresting-state activity recordings via tractable inference of the model's two\nessential parameters. The inferred model quantitatively captures the dynamics\nover a broad range of scales, from single sensor oscillations and collective\nbehaviors of nearly-synchronous extreme events on multiple sensors, to neuronal\navalanches unfolding over multiple sensors across multiple time bins.\nImportantly, the inferred parameters correlate with model-independent\nsignatures of \"closeness to criticality\", indicating that the coexistence of\nscale-specific (neural oscillations) and scale-free (neuronal avalanches)\ndynamics in brain activity occurs close to a non-equilibrium critical point at\nthe onset of self-sustained oscillations.",
+          "arxiv_id": "2108.06686v2"
+        },
+        {
+          "title": "Spontaneous brain activity emerges from pairwise interactions in the larval zebrafish brain",
+          "year": "2023-09",
+          "abstract": "Brain activity is characterized by brain-wide spatiotemporal patterns which\nemerge from synapse-mediated interactions between individual neurons. Calcium\nimaging provides access to in vivo recordings of whole-brain activity at\nsingle-neuron resolution and, therefore, allows the study of how large-scale\nbrain dynamics emerge from local activity. In this study, we used a statistical\nmechanics approach - the pairwise maximum entropy model (MEM) - to infer\nmicroscopic network features from collective patterns of activity in the larval\nzebrafish brain, and relate these features to the emergence of observed\nwhole-brain dynamics. Our findings indicate that the pairwise interactions\nbetween neural populations and their intrinsic activity states are sufficient\nto explain observed whole-brain dynamics. In fact, the pairwise relationships\nbetween neuronal populations estimated with the MEM strongly correspond to\nobserved structural connectivity patterns. Model simulations also demonstrated\nhow tuning pairwise neuronal interactions drives transitions between critical\nand pathologically hyper-excitable whole-brain regimes. Finally, we use virtual\nresection to identify the brain structures that are important for maintaining\nthe brain in a critical regime. Together, our results indicate that whole-brain\nactivity emerges out of a complex dynamical system that transitions between\nbasins of attraction whose strength and topology depend on the connectivity\nbetween brain areas.",
+          "arxiv_id": "2309.05939v1"
+        },
+        {
+          "title": "Effects of the local dynamics in the synchronization of neural models",
+          "year": "2023-11",
+          "abstract": "The cooperative behavior of neurons and neuronal areas associated with the\nsynchronization behavior proves to be a fundamental neural mechanism. In\naddition, abnormal levels of synchronization have been related to unhealthy\nneural behaviors. Throughout this thesis, it is explored different\nsynchronization phenomena which emerge through the collective dynamics of\nmodels of neurons coupled in a network. Firstly, it is shown a strong\ncorrelation between the individual dynamics of the neuron with the global\nbehavior of the synchronization, in which the periodicity seen in the isolated\nneuron is reflected in a phase synchronization in the weak coupling region.\nSecondly, it is studied the role of bistability in the synchronization of a\nnetwork of identical neurons coupled through a mean-field scheme. It is shown\nthat the simple existence of two distinct stable states can lead the network to\ndifferent states of synchronization, depending on the initialization of the\nsystem. Lastly, it is investigated the mechanism for explosive synchronization\nof a complex neural network composed of non-identical neurons. The presence of\nthis regime is accompanied by a hysteresis loop on the network dynamics as the\ncoupling parameter is adiabatically increased and decreased. It is shown that\nthe abrupt synchronization transitions are associated with routes to chaos. The\ndynamical mechanisms for the bistability region, are given in terms of a\nsaddle-node bifurcation and a boundary crisis. Therefore, the results of this\nthesis show a richness of synchronization behaviors associated with small\nchanges of the neuronal dynamics bringing new insights to the theoretical study\nof neural networks.",
+          "arxiv_id": "2311.09092v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "NNP/MM: Accelerating molecular dynamics simulations with machine learning potentials and molecular mechanic",
+          "year": "2022-01",
+          "abstract": "Machine learning potentials have emerged as a means to enhance the accuracy\nof biomolecular simulations. However, their application is constrained by the\nsignificant computational cost arising from the vast number of parameters\ncompared to traditional molecular mechanics. To tackle this issue, we introduce\nan optimized implementation of the hybrid method (NNP/MM), which combines\nneural network potentials (NNP) and molecular mechanics (MM). This approach\nmodels a portion of the system, such as a small molecule, using NNP while\nemploying MM for the remaining system to boost efficiency. By conducting\nmolecular dynamics (MD) simulations on various protein-ligand complexes and\nmetadynamics (MTD) simulations on a ligand, we showcase the capabilities of our\nimplementation of NNP/MM. It has enabled us to increase the simulation speed by\n5 times and achieve a combined sampling of one microsecond for each complex,\nmarking the longest simulations ever reported for this class of simulation.",
+          "arxiv_id": "2201.08110v2"
+        },
+        {
+          "title": "Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression",
+          "year": "2025-05",
+          "abstract": "Understanding protein dynamics is critical for elucidating their biological\nfunctions. The increasing availability of molecular dynamics (MD) data enables\nthe training of deep generative models to efficiently explore the\nconformational space of proteins. However, existing approaches either fail to\nexplicitly capture the temporal dependencies between conformations or do not\nsupport direct generation of time-independent samples. To address these\nlimitations, we introduce ConfRover, an autoregressive model that\nsimultaneously learns protein conformation and dynamics from MD trajectories,\nsupporting both time-dependent and time-independent sampling. At the core of\nour model is a modular architecture comprising: (i) an encoding layer, adapted\nfrom protein folding models, that embeds protein-specific information and\nconformation at each time frame into a latent space; (ii) a temporal module, a\nsequence model that captures conformational dynamics across frames; and (iii)\nan SE(3) diffusion model as the structure decoder, generating conformations in\ncontinuous space. Experiments on ATLAS, a large-scale protein MD dataset of\ndiverse structures, demonstrate the effectiveness of our model in learning\nconformational dynamics and supporting a wide range of downstream tasks.\nConfRover is the first model to sample both protein conformations and\ntrajectories within a single framework, offering a novel and flexible approach\nfor learning from protein MD data.",
+          "arxiv_id": "2505.17478v1"
+        },
+        {
+          "title": "An evaluation of machine learning/molecular mechanics end-state corrections with mechanical embedding to calculate relative protein-ligand binding free energies",
+          "year": "2024-10",
+          "abstract": "The development of machine-learning (ML) potentials offers significant\naccuracy improvements compared to molecular mechanics (MM) because of the\ninclusion of quantum-mechanical effects in molecular interactions. However, ML\nsimulations are several times more computationally demanding than MM\nsimulations, so there is a trade-off between speed and accuracy. One possible\ncompromise are hybrid machine learning/molecular mechanics (ML/MM) approaches\nwith mechanical embedding that treat the intramolecular interactions of the\nligand at the ML level and the protein-ligand interactions at the MM level.\nRecent studies have reported improved protein-ligand binding free energy\nresults based on ML/MM with mechanical embedding, arguing that intramolecular\ninteractions like torsion potentials of the ligand are often the limiting\nfactor for accuracy. This claim is evaluated based on 108 relative binding free\nenergy calculations for four different benchmark systems. As an alternative\nstrategy, we also tested a tool that fits the MM dihedral potentials to the ML\nlevel of theory. Overall, the relative binding free energy results from MM with\nOpen Force Field 2.2.0, MM with ML-fitted torsion potentials, and the\ncorresponding ML/MM end-state corrected simulations show no statistically\nsignificant differences in the mean absolute errors (between 0.8 and 0.9\nkcal/mol). Therefore, a well-parameterized force field is on a par with simple\nmechanical embedding ML/MM simulations for protein-ligand binding. In terms of\ncomputational costs, the reparametrization of poor torsional potentials is\npreferable over employing computationally intensive ML/MM simulations of\nprotein-ligand complexes with mechanical embedding. Also, the refitting\nstrategy leads to lower variances of the protein-ligand binding free energy\nresults than the ML/MM end-state corrections.",
+          "arxiv_id": "2410.16818v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "The influence of physiological flow development on popular wall shear stress metrics in an idealized curved artery",
+          "year": "2022-09",
+          "abstract": "We numerically investigate the influence of flow development on secondary\nflow patterns and subsequent wall shear stress distributions in a curved artery\nmodel, and we compute vascular metrics commonly used to assess variations in\nblood flow characteristics as it applies to arterial disease. We model a human\nartery with a simple, rigid 180-degree curved tube with circular cross-section\nand constant curvature, neglecting effects of taper, torsion and elasticity.\nHigh-fidelity numerical results are computed from an in-house discontinuous\nspectral element flow solver. The flow rate used in this study is\nphysiological. We perform this study using a Newtonian blood-analog fluid\nsubjected to a pulsatile flow with two inflow conditions. The first flow\ncondition is fully developed while the second condition is undeveloped (i.e.\nuniform). We observe and discuss differences in secondary flow patterns that\nemerge over the rapid acceleration and deceleration phases of the physiological\nwaveform, and we directly connect the variation in intensity of these secondary\nflow patterns along the curvature to differences in the wall shear stress\nmetrics for each entrance condition. Results indicate that decreased axial\nvelocities under an undeveloped condition produce less intense secondary flow\nthat, in turn, reduces both the oscillatory and multidirectional nature of the\nwall shear stress vector, and we link this effect to abnormalities in computed\nstress metrics. These results suggest potentially lower prevalence of disease\nin curvatures where entrance flow is rather undeveloped-a physiologically\nrelevant result to further understand the influence of blood flow development\non disease.",
+          "arxiv_id": "2209.08440v1"
+        },
+        {
+          "title": "A Modular Framework for Implicit 3D-0D Coupling in Cardiac Mechanics",
+          "year": "2023-10",
+          "abstract": "In numerical simulations of cardiac mechanics, coupling the heart to a model\nof the circulatory system is essential for capturing physiological cardiac\nbehavior. A popular and efficient technique is to use an electrical circuit\nanalogy, known as a lumped parameter network or zero-dimensional (0D) fluid\nmodel, to represent blood flow throughout the cardiovascular system. Due to the\nstrong physical interaction between the heart and the blood circulation,\ndeveloping accurate and efficient numerical coupling methods remains an active\narea of research. In this work, we present a modular framework for implicitly\ncoupling three-dimensional (3D) finite element simulations of cardiac mechanics\nto 0D models of blood circulation. The framework is modular in that the\ncirculation model can be modified independently of the 3D finite element\nsolver, and vice versa. The numerical scheme builds upon a previous work that\ncombines 3D blood flow models with 0D circulation models (3D fluid - 0D fluid).\nHere, we extend it to couple 3D cardiac tissue mechanics models with 0D\ncirculation models (3D structure - 0D fluid), showing that both mathematical\nproblems can be solved within a unified coupling scheme. The effectiveness,\ntemporal convergence, and computational cost of the algorithm are assessed\nthrough multiple examples relevant to the cardiovascular modeling community.\nImportantly, in an idealized left ventricle example, we show that the coupled\nmodel yields physiological pressure-volume loops and naturally recapitulates\nthe isovolumic contraction and relaxation phases of the cardiac cycle without\nany additional numerical techniques. Furthermore, we provide a new derivation\nof the scheme inspired by the Approximate Newton Method of Chan (1985),\nexplaining how the proposed numerical scheme combines the stability of\nmonolithic approaches with the modularity and flexibility of partitioned\napproaches.",
+          "arxiv_id": "2310.13780v1"
+        },
+        {
+          "title": "Homogenisation of nonlinear blood flow in periodic networks: the limit of small haematocrit heterogeneity",
+          "year": "2024-01",
+          "abstract": "In this work we develop a homogenisation methodology to upscale mathematical\ndescriptions of microcirculatory blood flow from the microscale (where\nindividual vessels are resolved) to the macroscopic (or tissue) scale. Due to\nthe assumed two-phase nature of blood and specific features of red blood cells\n(RBCs), mathematical models for blood flow in the microcirculation are highly\nnonlinear, coupling the flow and RBC concentrations (haematocrit). In contrast\nto previous works which accomplished blood-flow homogenisation by assuming that\nthe haematocrit level remains constant, here we allow for spatial heterogeneity\nin the haematocrit concentration and thus begin with a nonlinear microscale\nmodel. We simplify the analysis by considering the limit of small haematocrit\nheterogeneity which prevails when variations in haematocrit concentration\nbetween neighbouring vessels are small. Homogenisation results in a system of\ncoupled, nonlinear partial differential equations describing the flow and\nhaematocrit transport at the macroscale, in which a nonlinear Darcy-type model\nrelates the flow and pressure gradient via a haematocrit-dependent permeability\ntensor. During the analysis we obtain further that haematocrit transport at the\nmacroscale is governed by a purely advective equation. Applying the theory to\nparticular examples of two- and three-dimensional geometries of periodic\nnetworks, we calculate the effective permeability tensor associated with blood\nflow in these vascular networks. We demonstrate how the statistical\ndistribution of vessel lengths and diameters, together with the average\nhaematocrit level, affect the statistical properties of the macroscopic\npermeability tensor. These data can be used to simulate blood flow and\nhaematocrit transport at the macroscale.",
+          "arxiv_id": "2401.10932v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Bind-and-bend model for DNA looping",
+          "year": "2023-11",
+          "abstract": "DNA looping is important in DNA condensation and regulation. One method for\nforming a DNA loop, thought to be used by the condensing agent protamine, is\nbind-and-bend. In bind-and-bend, molecules bind all along the DNA, each\ncreating a bend in the DNA. Eventually, enough bending leads to the formation\nof a loop. Here, we adapt theory for DNA bending by cations to create a simple\nbind-and-bend model. To test the model, we simulate bending and looping by the\ncondensing agent protamine and compare the output of the simulation to\nexperimental data. The model captures several interesting features of the data\nincluding: the curvature of the DNA due to both protamine-induced bending and\nthermal fluctuations, the small circumference of the loops (200-300 bp), the\nbias in the location where the loop forms, and the emergence of multi-looped\nflower structures. The model leads to insight into where protamine binds, how\nit bends DNA, and how it creates one or more DNA loops. More broadly, the model\ncould be useful in understanding the compaction of nucleic acids or\npolyelectrolytes.",
+          "arxiv_id": "2311.01649v1"
+        },
+        {
+          "title": "Requirements for DNA-bridging proteins to act as topological barriers of the bacterial genome",
+          "year": "2020-08",
+          "abstract": "Bacterial genomes have been shown to be partitioned into several kilobases\nlong chromosomal domains that are topologically independent from each other,\nmeaning that change of DNA superhelicity in one domain does not propagate to\nneighbors. Both in vivo and in vitro experiments have been performed to\nquestion the nature of the topological barriers at play, leading to several\npredictions on possible molecular actors. Here, we address the question of\ntopological barriers using polymer models of supercoiled DNA chains. More\nspecifically, we determine under which conditions DNA-bridging proteins may act\nas topological barriers. To this end, we developed a coarse-grained\nbead-and-spring model and investigated its properties through Brownian dynamics\nsimulations. As a result, we find that DNA-bridging proteins must exert rather\nstrong constraints on their binding sites: they must block the diffusion of the\nexcess of twist through the two binding sites on the DNA molecule and,\nsimultaneously, prevent the rotation of one DNA segment relative to the other\none. Importantly, not all DNA-bridging proteins satisfy this second condition.\nFor example, single bridges formed by proteins that bind DNA non-specifically,\nlike H-NS dimers, are expected to fail with this respect. Our findings might\nalso explain, in the case of specific DNA-bridging proteins like LacI, why\nmultiple bridges are required to create stable independent topological domains.\nStrikingly, when the relative rotation of the DNA segments is not prevented,\nrelaxation results in complex intrication of the two domains. Moreover, while\nthe value of the torsional stress in each domain may vary, their differential\nis preserved. Our work also predicts that nucleoid associated proteins known to\nwrap DNA must form higher protein-DNA complexes to efficiently work as\ntopological barriers.",
+          "arxiv_id": "2008.05973v1"
+        },
+        {
+          "title": "Organization of the bacterial nucleoid by DNA-bridging proteins and globular crowders",
+          "year": "2023-11",
+          "abstract": "The genomic DNA of bacteria occupies only a fraction of the cell called the\nnucleoid, although it is not bounded by any membrane and would occupy a volume\nhundreds of times larger than the cell in the absence of constraints. The two\nmost important contributions to the compaction of the DNA coil are the\ncross-linking of the DNA by nucleoid proteins (like H-NS and StpA) and the\ndemixing of DNA and other abundant globular macromolecules which do not bind to\nthe DNA (like ribosomes). The present work deals with the interplay of\nDNA-bridging proteins and globular macromolecular crowders, with the goal of\ndetermining the extent to which they collaborate in organizing the nucleoid. In\norder to answer this question, a coarse-grained model was developed and its\nproperties were investigated through Brownian dynamics simulations. These\nsimulations reveal that the radius of gyration of the DNA coil decreases\nlinearly with the effective volume ratio of globular crowders and the number of\nDNA bridges formed by nucleoid proteins in the whole range of physiological\nvalues. Moreover, simulations highlight the fact that the number of DNA bridges\nformed by nucleoid proteins depends crucially on their ability to\nself-associate (oligomerize). An explanation for this result is proposed in\nterms of the mean distance between DNA segments and the capacity of proteins to\nmaintain DNA--bridging in spite of the thermal fluctuations of the DNA network.\nFinally, simulations indicate that non-associating proteins preserve a high\nmobility inside the nucleoid while contributing to its compaction, leading to a\nDNA/protein complex which looks like a liquid droplet. In contrast,\nself-associating proteins form a little deformable network which cross-links\nthe DNA chain, with the consequence that the DNA/protein complex looks more\nlike a gel.",
+          "arxiv_id": "2311.05948v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Condensation and activator/repressor control of a transcription-regulated biomolecular liquid",
+          "year": "2024-10",
+          "abstract": "Cells operate in part by compartmentalizing chemical reactions. For example,\nrecent work has shown that chromatin, the material that contains the cell's\ngenome, can auto-regulate its structure by utilizing reaction products\n(proteins, RNA) to compartmentalize biomolecules via liquid-liquid phase\nseparation (LLPS). Here, we develop a model biomolecular system that permits\nquantitative investigation of such dynamics, particularly by coupling a\nphase-separating system of DNA nanostars to an in vitro transcription reaction.\nThe DNA nanostars' sequence is designed such that they self-assemble into\nliquid droplets only in the presence of a transcribed single-stranded RNA\nlinker. We find that nanostar droplets form with a substantial delay and\nnon-linear response to the kinetics of RNA synthesis. In addition, we utilize\nthe compartments generated by the phase-separation process to engineer an\nactivator/repressor network, where the transcription reaction activates the\nformation of droplets, and then droplets suppress the transcription reaction by\nsegregating transcription components inside them. Our work on\ntranscription-driven liquid-liquid phase separation constitutes a robust and\nprogrammable platform to explore non-equilibrium reaction-phase transition\ndynamics and could also provide a foundation to understand the dynamics of\ntranscriptional condensate assembly in cells.",
+          "arxiv_id": "2410.21624v1"
+        },
+        {
+          "title": "Computer simulations show that liquid-liquid phase separation enhances self-assembly",
+          "year": "2025-05",
+          "abstract": "Biomolecular condensates are liquid- or gel-like droplets of proteins and\nnucleic acids formed at least in part through liquid-liquid phase separation.\nCondensates enable diverse functions of cells and the pathogens that infect\nthem, including self-assembly reactions. For example, it has been shown that\nmany viruses form condensates within their host cells to compartmentalize\ncapsid assembly and packaging of the viral genome. Yet, the physical principles\ncontrolling condensate-mediated self-assembly remain incompletely understood.\nIn this article we use coarse-grained molecular dynamics simulations to study\nthe effect of a condensate on the assembly of icosahedral capsids. The capsid\nsubunits are represented by simple shape-based models to enable simulating a\nwide range of length and time scales, while the condensate is modeled\nimplicitly to study the effects of phase separation independent of the\nmolecular details of biomolecular condensates. Our results show that\ncondensates can significantly enhance assembly rates, yields, and robustness to\nparameter variations, consistent with previous theoretical predictions.\nHowever, extending beyond those predictions, the computational models also show\nthat excluded volume enables control over the number of capsids that assemble\nwithin condensates. Moreover, long-lived aberrant off-pathway assembly\nintermediates can suppress yields within condensates. In addition to\nelucidating condensate-mediated assembly of viruses and other biological\nstructures, these results may guide the use of condensates as a generic route\nto enhance and control self-assembly in human-engineered systems.",
+          "arxiv_id": "2505.10400v1"
+        },
+        {
+          "title": "Spatial Organization of Phase-separated DNA Droplets",
+          "year": "2022-11",
+          "abstract": "Many recent studies of liquid-liquid phase separation in biology focus on\nphase separation as a dynamic control mechanism for cellular function, but it\ncan also result in complex mesoscopic structures. We primarily investigate a\nmodel system consisting of DNA nanostars: finite-valence, self-assembled\nparticles that form micron-scale liquid droplets via a binodal phase\ntransition. We demonstrate that, upon phase separation, nanostar droplets\nspontaneously form hyperuniform structures, a type of disordered material with\n`hidden order' that combines the long-range order of crystals with the\nshort-range isotropy of liquids. We find that the hyperuniformity of the DNA\ndroplets reflects near-equilibrium dynamics, where phase separation drives the\norganization of droplets that then relax toward equilibrium via droplet\nBrownian motion. We engineer a two-species system of immiscible DNA droplets\nand find two distinctly hyperuniform structures in the same sample, but with\nrandom cross-species droplet correlations, which rules out explanations that\nrely on droplet-droplet hydrodynamic interactions. In addition, we perform\nexperiments on the electrostatic coacervation of peptides and nucleotides which\nexhibit hyperuniform structures indistinguishable from DNA nanostars,\nindicating the phenomenon generally applies to phase-separating systems that\nexperience Brownian motion. Our work on near-equilibrium droplet assembly and\nstructure provides a foundation to investigate droplet organizational\nmechanisms in driven/biological environments. This approach also provides a\nclear path to implement phase-separated droplet patterns as exotic optical or\nmechanical metamaterials, or as efficient biochemical reactors.",
+          "arxiv_id": "2211.06510v2"
+        }
+      ],
+      "8": [
+        {
+          "title": "Calibrated Intervention and Containment of the COVID-19 Pandemic",
+          "year": "2020-03",
+          "abstract": "Within a short period of time, COVID-19 grew into a world-wide pandemic.\nTransmission by pre-symptomatic and asymptomatic viral carriers rendered\nintervention and containment of the disease extremely challenging. Based on\nreported infection case studies, we construct an epidemiological model that\nfocuses on transmission around the symptom onset. The model is calibrated\nagainst incubation period and pairwise transmission statistics during the\ninitial outbreaks of the pandemic outside Wuhan with minimal non-pharmaceutical\ninterventions. Mathematical treatment of the model yields explicit expressions\nfor the size of latent and pre-symptomatic subpopulations during the\nexponential growth phase, with the local epidemic growth rate as input. We then\nexplore reduction of the basic reproduction number R_0 through specific disease\ncontrol measures such as contact tracing, testing, social distancing, wearing\nmasks and sheltering in place. When these measures are implemented in\ncombination, their effects on R_0 multiply. We also compare our model behaviour\nto the first wave of the COVID-19 spreading in various affected regions and\nhighlight generic and less generic features of the pandemic development.",
+          "arxiv_id": "2003.07353v6"
+        },
+        {
+          "title": "Simulating the spread of COVID-19 with cellular automata: A new approach",
+          "year": "2023-07",
+          "abstract": "Between the years 2020 to 2022, the world was hit by the pandemic of COVID-19\ngiving rise to an extremely grave situation. The global economy was badly hurt\ndue to the consequences of various intervention strategies (like social\ndistancing, lockdown) which were applied by different countries to control this\npandemic. There are multiple speculations that humanity will again face such\npandemics in the future. Thus it is very important to learn and gain knowledge\nabout the spread of such infectious diseases and the various factors which are\nresponsible for it. In this study, we have extended our previous work\n(Chowdhury et.al., 2022) on the probabilistic cellular automata (CA) model to\nreproduce the spread of COVID-19 in several countries by modifying its earlier\nused neighbourhood criteria. This modification gives us the liberty to adopt\nthe effect of different restrictions like lockdown and social distancing in our\nmodel. We have done some theoretical analysis for initial infection and\nsimulations to gain insights into our model. We have also studied the data from\neight countries for COVID-19 in a window of 876 days and compared it with our\nmodel. We have developed a proper framework to fit our model on the data for\nconfirmed cases of COVID-19 and have also re-checked the goodness of the fit\nwith the data of the deceased cases for this pandemic. This model fits well\nwith different peaks of COVID-19 data for all the eight countries and can be\npossibly generalized for a global prediction.",
+          "arxiv_id": "2307.14576v1"
+        },
+        {
+          "title": "Universality and herd immunity threshold : Revisiting the SIR model for COVID-19",
+          "year": "2021-06",
+          "abstract": "COVID-19 pandemic has been raging all around the world for almost a year now,\nas of November 1, 2020. In this paper, we try to analyze the variation of the\nCOVID-19 pandemic in different countries in the light of some modifications to\nthe susceptible-infected-recovered (SIR) model. The SIR model was modified by\ntaking time-dependent rate parameters. From this modified SIR model, the basic\nreproduction number, effective reproduction number, herd immunity, and herd\nimmunity threshold are redefined. The re-outbreak of the COVID-19 is a real\nthreat to various countries. We have used the above-mentioned quantities to\nfind the reasons behind the re-outbreak of this disease. Also, the\neffectiveness of herd immunity to prevent an epidemic has been analyzed with\nrespect to this model. We have also tried to show that there are certain\nuniversal aspects in the spread and containment of the disease in various\ncountries for a short period of time. Finally, we have also analyzed the\ncurrent pandemic situation in India and have attempted to discuss the\npossibilities in order to predict its future behaviour using our model.",
+          "arxiv_id": "2106.04859v2"
+        }
+      ],
+      "9": [
+        {
+          "title": "Finite Membrane Thickness Influences Hydrodynamics on the Nanoscale",
+          "year": "2025-05",
+          "abstract": "Many lipid membrane-mediated transport processes--such as mechanically-gated\nchannel activation and solute transport--involve structural and dynamical\nfeatures on membrane thickness length scales. Most existing membrane models,\nhowever, tend to adopt (quasi-)two-dimensional descriptions that neglect\nthickness-dependent phenomena relevant to internal membrane mechanics, and thus\ndo not fully account for the complex coupling of lipid membranes with their\nsurrounding fluid media. Therefore, explicitly incorporating membrane thickness\neffects in lipid membrane models will enable a more accurate description of the\ninfluence of membrane/fluid coupling on transport phenomena in the vicinity of\nthe bilayer surfaces. Here, we present a continuum model for membrane\nfluctuations that accounts for finite membrane thickness and resolves\nhydrodynamic interactions between the bilayer and its surrounding fluid. By\napplying linear response analysis, we observe that membrane thickness-mediated\neffects, such as bending-induced lipid reorientations, can generate shear flows\nclose to the membrane surface that slow down the relaxation of nanometer scale\nshape fluctuations. Additionally, we reveal the emergence of pressure inversion\nand flow reversal near the membrane interfaces, accompanied by localized\nstagnation points. Among these, extensional stagnation points give rise to a\nnovel mode of bulk dissipation, originating from bending-induced compression\nand expansion of the membrane surfaces and their coupling to shear stresses in\nthe fluid. Our findings identify membrane thickness as a key factor in\nnanoscale hydrodynamics and suggest that its effects may be detectable in\nfluctuation spectra and can be relevant to interfacial processes such as solute\npermeability and contact with solid boundaries or other membranes.",
+          "arxiv_id": "2505.05776v3"
+        },
+        {
+          "title": "Physical limits to membrane curvature sensing by a single protein",
+          "year": "2022-10",
+          "abstract": "Membrane curvature sensing is essential for a diverse range of biological\nprocesses. Recent experiments have revealed that a single nanometer-sized\nseptin protein can distinguish between membrane-coated glass beads of one\nmicron and three micron diameters, even though the septin is orders of\nmagnitude smaller than the beads. This sensing ability is especially surprising\nsince curvature-sensing proteins must deal with persistent thermal fluctuations\nof the membrane, leading to discrepancies between the bead's curvature and the\nlocal membrane curvature sensed instantaneously by a protein. Using continuum\nmodels of fluctuating membranes, we investigate whether it is feasible for a\nprotein acting as a perfect observer of the membrane to sense micron-scale\ncurvature either by measuring local membrane curvature or by using bilayer\nlipid densities as a proxy. To do this, we develop algorithms to simulate lipid\ndensity and membrane shape fluctuations. We derive physical limits to the\nsensing efficacy of a protein in terms of protein size, membrane thickness,\nmembrane bending modulus, membrane-substrate adhesion strength, and bead size.\nTo explain the experimental protein-bead association rates, we develop two\nclasses of predictive models: i) for proteins that maximally associate to a\npreferred curvature, and ii) for proteins with enhanced association rates above\na threshold curvature. We find that the experimentally observed sensing\nefficacy is close to the theoretical sensing limits imposed on a septin-sized\nprotein, and that the variance in membrane curvature fluctuations sensed by a\nprotein determines how sharply the association rate depends on the curvature of\nthe bead.",
+          "arxiv_id": "2210.12204v1"
+        },
+        {
+          "title": "Simulating Curved Lipid Membranes Using Anchored Frozen Patches",
+          "year": "2025-01",
+          "abstract": "Lipid bilayers often form high-curvature configurations due to self-assembly\nconditions or certain biological processes. However, particle-based simulations\nof lipid membranes are predominantly of flat lipid membranes because planar\nmembranes are easily connected over periodic boundary conditions. To simulate a\ncurved lipid membrane, one can simulate an entire vesicle, a cylinder, or a\nbicelle (disk-like bilayer aggregate). One can also use artificial methods to\ncontrol curvature, such as applying virtual walls of beads, radial harmonic\npotentials, or ``tape up the edges''. These existing methods have limitations\ndue to the method by which curvature is imposed. Herein, we propose an\nalternative method of introducing arbitrary curvature by anchoring a curved\nlipid membrane with ``frozen'' equilibrated membrane patches. The method\npresented here is compatible with all particle-based lipid models and easily\nextended to many geometries. As an example, we simulate curved membranes with\nDPPC, DOPC, DLPC and DOPE lipids as parameterized by the Martini3\ncoarse-grained model. This method introduces limited finite-size artifacts,\nprevents lipid flip-flop at membrane edges, and allows fluctuations of the free\nmembrane center. We provide verification of the method on flat membranes and\ndiscussion on extracting shape and per-leaflet quantities (thickness, order\nparameter) from curved membranes. Curvature produces asymmetric changes in\nlipid leaflet properties. Finally, we explore the coupled effect of curvature\nand membrane asymmetry in both number and lipid type. We report the resulting\nunique morphologies (inducing gel phase, faceting) and behaviors (thickness\ndependent on adjacent leaflet type) that are accessible with this method.",
+          "arxiv_id": "2501.17989v1"
+        }
+      ],
+      "10": [
+        {
+          "title": "Unexpected crossovers in correlated random-diffusivity processes",
+          "year": "2020-05",
+          "abstract": "The passive and active motion of micron-sized tracer particles in crowded\nliquids and inside living biological cells is ubiquitously characterised by\n\"viscoelastic\" anomalous diffusion, in which the increments of the motion\nfeature long-ranged negative and positive correlations. While viscoelastic\nanomalous diffusion is typically modelled by a Gaussian process with correlated\nincrements, so-called fractional Gaussian noise, an increasing number of\nsystems are reported, in which viscoelastic anomalous diffusion is paired with\nnon-Gaussian displacement distributions. Following recent advances in Brownian\nyet non-Gaussian diffusion we here introduce and discuss several possible\nversions of random-diffusivity models with long-ranged correlations. While all\nthese models show a crossover from non-Gaussian to Gaussian distributions\nbeyond some correlation time, their mean squared displacements exhibit\nstrikingly different behaviours: depending on the model crossovers from\nanomalous to normal diffusion are observed, as well as unexpected dependencies\nof the effective diffusion coefficient on the correlation exponent. Our\nobservations of the strong non-universality of random-diffusivity viscoelastic\nanomalous diffusion are important for the analysis of experiments and a better\nunderstanding of the physical origins of \"viscoelastic yet non-Gaussian\"\ndiffusion.",
+          "arxiv_id": "2005.00562v1"
+        },
+        {
+          "title": "Modelling intermittent anomalous diffusion with switching fractional Brownian motion",
+          "year": "2023-07",
+          "abstract": "The stochastic trajectories of molecules in living cells, as well as the\ndynamics in many other complex systems, often exhibit memory in their path over\nlong periods of time. In addition, these systems can show dynamic\nheterogeneities due to which the motion changes along the trajectories. Such\neffects manifest themselves as spatiotemporal correlations. Despite the broad\noccurrence of heterogeneous complex systems in nature, their analysis is still\nquite poorly understood and tools to model them are largely missing. We\ncontribute to tackling this problem by employing an integral representation of\nMandelbrot's fractional Brownian motion that is compliant with varying motion\nparameters while maintaining long memory. Two types of switching fractional\nBrownian motion are analysed, with transitions arising from a Markovian\nstochastic process and scale-free intermittent processes. We obtain simple\nformulas for classical statistics of the processes, namely the mean squared\ndisplacement and the power spectral density. Further, a method to identify\nswitching fractional Brownian motion based on the distribution of displacements\nis described. A validation of the model is given for experimental measurements\nof the motion of quantum dots in the cytoplasm of live mammalian cells that\nwere obtained by single-particle tracking.",
+          "arxiv_id": "2307.12919v2"
+        },
+        {
+          "title": "Probability density of fractional Brownian motion and the fractional Langevin equation with absorbing walls",
+          "year": "2020-12",
+          "abstract": "Fractional Brownian motion and the fractional Langevin equation are models of\nanomalous diffusion processes characterized by long-range power-law\ncorrelations in time. We employ large-scale computer simulations to study these\nmodels in two geometries, (i) the spreading of particles on a semi-infinite\ndomain with an absorbing wall at one end and (ii) the stationary state on a\nfinite interval with absorbing boundaries at both ends and a source in the\ncenter. We demonstrate that the probability density and other properties of the\nfractional Langevin equation can be mapped onto the corresponding quantities of\nfractional Brownian motion driven by the same noise if the anomalous diffusion\nexponent $\\alpha$ is replaced by $2-\\alpha$. In contrast, the properties of\nfractional Brownian motion and the fractional Langevin equation with reflecting\nboundaries were recently shown to differ from each other qualitatively.\nSpecifically, we find that the probability density close to an absorbing wall\nbehaves as $P(x) \\sim x^\\kappa$ with the distance $x$ from the wall in the\nlong-time limit. In the case of fractional Brownian motion, $\\kappa$ varies\nwith the anomalous diffusion exponent $\\alpha$ as $\\kappa=2/\\alpha -1$, as was\nconjectured previously. We also compare our simulation results to a\nperturbative analytical approach to fractional Brownian motion.",
+          "arxiv_id": "2012.03142v2"
+        }
+      ],
+      "11": [
+        {
+          "title": "Vibronic Resonance Along Effective Modes Mediates Selective Energy Transfer in Excitonically Coupled Aggregates",
+          "year": "2022-02",
+          "abstract": "We recently proposed effective normal modes for excitonically coupled\naggregates which exactly transform the energy transfer Hamiltonian into a sum\nof one-dimensional Hamiltonians along the effective normal modes. Identifying\nphysically meaningful vibrational motions which maximally promote vibronic\nmixing suggested an interesting possibility of leveraging\nvibrational-electronic resonance for mediating selective energy transfer. Here\nwe expand on the effective mode approach elucidating its iterative nature for\nsuccessively larger aggregates, and extend the idea of mediated energy transfer\nto larger aggregates. We show that energy transfer between electronically\nuncoupled but vibronically resonant donor-acceptor sites does not depend on the\nintermediate site energy or the number of intermediate sites. The intermediate\nsites simply mediate electronic coupling such that vibronic coupling along\nspecific promoter modes leads to direct donor-acceptor energy transfer\nbypassing any intermediate uphill energy transfer steps. We show that interplay\nbetween the electronic Hamiltonian and the effective mode transformation\npartitions the linear vibronic coupling along specific promoter modes to\ndictate the selectivity of mediated energy transfer, with a vital role of\ninterference between vibronic couplings and multi-particle basis states. Our\nresults suggest a general design principle for enhancing energy transfer\nthrough synergistic effects of vibronic resonance and weak mediated electronic\ncoupling, where both effects individually do not promote efficient energy\ntransfer. The effective mode approach proposed here paves a facile route\ntowards four-wavemixing spectroscopy simulations of larger aggregates without\nseverely approximating resonant vibronic coupling.",
+          "arxiv_id": "2202.10140v1"
+        },
+        {
+          "title": "Delocalized Electronic Excitations and their Role in Directional Charge Transfer in the Reaction Center of Rhodobacter Sphaeroides",
+          "year": "2022-12",
+          "abstract": "In purple bacteria, the fundamental charge-separation step that drives the\nconversion of radiation energy into chemical energy proceeds along one branch -\nthe A branch - of a heterodimeric pigment-protein complex, the reaction center.\nHere, we use first principles time-dependent density functional theory (TDDFT)\nwith an optimally-tuned range-separated hybrid functional to investigate the\nelectronic and excited-state structure of the primary six pigments in the\nreaction center of \\textit{Rhodobacter sphaeroides}. By explicitly including\namino-acid residues surrounding these six pigments in our TDDFT calculations,\nwe systematically study the effect of the protein environment on energy and\ncharge-transfer excitations. Our calculations show that a forward charge\ntransfer into the A branch is significantly lower in energy than the first\ncharge transfer into the B branch, in agreement with the unidirectional charge\ntransfer observed experimentally. We further show that inclusion of the protein\nenvironment redshifts this excitation significantly, allowing for energy\ntransfer from the coupled $Q_x$ excitations. Through analysis of transition and\ndifference densities, we demonstrate that most of the $Q$-band excitations are\nstrongly delocalized over several pigments and that both their spatial\ndelocalization and charge-transfer character determine how strongly affected\nthey are by thermally-activated molecular vibrations. Our results suggest a\nmechanism for charge-transfer in this bacterial reaction center and pave the\nway for further first-principles investigations of the interplay between\ndelocalized excited states, vibronic coupling, and the role of the protein\nenvironment of this and other complex light-harvesting systems.",
+          "arxiv_id": "2212.12201v1"
+        },
+        {
+          "title": "Enhancement of vibrationally assisted energy transfer by proximity to exceptional points, probed by fluorescence-detected vibrational spectroscopy",
+          "year": "2023-09",
+          "abstract": "Emulation of energy transfer processes in natural systems on quantum\nplatforms can further our understanding of complex dynamics in nature. One\nnotable example is the demonstration of vibrationally assisted energy transfer\n(VAET) on a trapped-ion quantum emulator, which offers insights for the\nenergetics of light harvesting. In this work, we expand the study of VAET\nsimulation with trapped ions to a non-Hermitian quantum system comprising a\n$\\mathscr{PT}$-symmetric chromophore dimer weakly coupled to a vibrational\nmode. We first characterize exceptional points (EPs) and non- Hermitian\nfeatures of the excitation energy transfer processes in the absence of the\nvibration, finding a degenerate pair of second-order EPs. Exploring the\nnon-Hermitian dynamics of the whole system including vibrations, we find that\nenergy transfer accompanied by absorption of phonons from a vibrational mode\ncan be significantly enhanced near such a degenerate EP. Our calculations\nreveal a unique spectral feature accompanying the coalescing of eigenstates and\neigenenergies that provides a novel approach to probe the degenerate EP by\nfluorescence-detected vibrational spectroscopy. Enhancement of the VAET process\nnear the EP is found to be due to maximal favorability of phonon absorption at\nthe degenerate EP, enabling multiple simultaneous excitations. Our work on\nimproving VAET processes in non-Hermitian quantum systems paves the way for\nleveraging non-Hermiticity in quantum dynamics related to excitation energy\ntransfer.",
+          "arxiv_id": "2309.02819v3"
+        }
+      ],
+      "12": [
+        {
+          "title": "Impact of Variable Speed on Collective Movement of Animal Groups",
+          "year": "2021-06",
+          "abstract": "A variety of agent-based models has been proposed to account for the\nemergence of coordinated collective behavior of animal groups from simple\ninteraction rules. A common, simplifying assumption of such collective movement\nmodels, is the consideration of individual agents moving with a constant speed.\nIn this work we critically re-asses this assumption underlying a vast majority\nof collective movement models. First, we show the omnipresent speed variability\nobserved in different species of live fish and artificial agents (RoboFish).\nBased on theoretical considerations accounting for inertia and rotational\nfriction, we derive a functional dependence of the turning response of\nindividuals on their instantaneous speed (confirmed by experimental data). We\ninvestigate how the interplay of variable speed and speed-dependent turning\naffects self-organized collective behavior by implementing an agent-based model\nwhich accounts for both effects. We show, that besides average speed, the\nindividual speed variability may have a dramatic impact on the emergent\ncollective dynamics, as two groups differing only in their speed variability,\nand being otherwise identical in all other behavioral parameters, can be in two\nfundamentally different stationary states. We find that the local coupling\nbetween group polarization and individual speed is strongest at the\norder-disorder transition. Furthermore, we demonstrate a decrease in\npolarization with group size for groups of individuals with variable speed, and\na sudden decrease in mean individual speed at a critical group size (N=4 for\nVoronoi interactions) linked to a topological transition from an all-to-all to\na distributed spatial interaction network. Overall, our work highlights the\nimportance to account for fundamental kinematic constraints in general, and\nvariable speed in particular, when modeling self-organized collective dynamics.",
+          "arxiv_id": "2106.00959v2"
+        },
+        {
+          "title": "Self-reorganization and Information Transfer in Massive Schools of Fish",
+          "year": "2025-05",
+          "abstract": "The remarkable cohesion and coordination observed in moving animal groups and\ntheir collective responsiveness to threats are thought to be mediated by\nscale-free correlations, where changes in the behavior of one animal influence\nothers in the group, regardless of the distance between them. But are these\nfeatures independent of group size? Here, we investigate group cohesiveness and\ncollective responsiveness in computational models of massive schools of fish of\nup to 50,000 individuals. We show that as the number of swimmers increases,\nflow interactions destabilize the school, creating clusters that constantly\nfragment, disperse, and regroup, similar to their biological counterparts. We\ncalculate the spatial correlation and speed of information propagation in these\ndynamic clusters. Spatial correlations in cohesive and polarized clusters are\nindeed scale free, much like in natural animal groups, but fragmentation events\nare preceded by a decrease in correlation length, thus diminishing the group's\ncollective responsiveness, leaving it more vulnerable to predation events.\nImportantly, in groups undergoing collective turns, the information about the\nchange in direction propagates linearly in time among group members, thanks to\nthe non-reciprocal nature of the visual interactions between individuals.\nMerging speeds up the transfer of information within each cluster by several\nfold, while fragmentation slows it down. Our findings suggest that flow\ninteractions may have played an important role in group size regulation,\nbehavioral adaptations, and dispersion in living animal groups.",
+          "arxiv_id": "2505.05822v2"
+        },
+        {
+          "title": "Scale-free behavioral cascades and effective leadership in schooling fish",
+          "year": "2022-03",
+          "abstract": "Behavioral contagion and the presence of behavioral cascades are natural\nfeatures in groups of animals showing collective motion, such as schooling fish\nor grazing herbivores. Here we study empirical behavioral cascades observed in\nfish schools defined as avalanches of consecutive large changes in the heading\ndirection of the trajectory of fish. In terms of a minimum turning angle\nintroduced to define a large change, avalanches are characterized by\ndistributions of size and duration showing scale-free signatures, reminiscent\nof self-organized critical behavior. We observe that avalanches are generally\ntriggered by a small number of fish, which act as effective leaders that induce\nlarge rearrangements of the group's trajectory. This observation motivates the\nproposal of a simple model, based in the classical Vicsek model of collective\nmotion, in which a given individual acts as a leader subject to random heading\nreorientations. The model reproduces qualitatively the empirical avalanche\nbehavior observed in real schools, and hints towards a connection between\neffective leadership and avalanche behavior in collective movement.",
+          "arxiv_id": "2203.05473v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:00:47Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

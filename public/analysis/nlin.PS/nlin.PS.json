@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_nonlinear_solitons_soliton_equation",
+        "keywords": [
+          [
+            "nonlinear",
+            0.035344731143335896
+          ],
+          [
+            "solitons",
+            0.034288888767167035
+          ],
+          [
+            "soliton",
+            0.031049803571132083
+          ],
+          [
+            "equation",
+            0.027072082000913728
+          ],
+          [
+            "wave",
+            0.026973325729246694
+          ],
+          [
+            "waves",
+            0.023955465191123543
+          ],
+          [
+            "solutions",
+            0.02334784143728477
+          ],
+          [
+            "states",
+            0.016595526689630595
+          ],
+          [
+            "dynamics",
+            0.016509382874004663
+          ],
+          [
+            "equations",
+            0.01538628583761057
+          ]
+        ],
+        "count": 1887
+      },
+      "1": {
+        "name": "1_model_patterns_systems_dynamics",
+        "keywords": [
+          [
+            "model",
+            0.031041509208143702
+          ],
+          [
+            "patterns",
+            0.03003284560637641
+          ],
+          [
+            "systems",
+            0.02598539193185064
+          ],
+          [
+            "dynamics",
+            0.023448200370971017
+          ],
+          [
+            "pattern",
+            0.02179160151441059
+          ],
+          [
+            "diffusion",
+            0.02107476030057487
+          ],
+          [
+            "states",
+            0.017575506727419626
+          ],
+          [
+            "phase",
+            0.017106107540185943
+          ],
+          [
+            "spatial",
+            0.0164295815716671
+          ],
+          [
+            "formation",
+            0.01606306707939278
+          ]
+        ],
+        "count": 867
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.21878391386693707
+      ],
+      [
+        -0.21878391386693707,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        31,
+        13
+      ],
+      "2020-02": [
+        21,
+        13
+      ],
+      "2020-03": [
+        35,
+        10
+      ],
+      "2020-04": [
+        35,
+        12
+      ],
+      "2020-05": [
+        38,
+        17
+      ],
+      "2020-06": [
+        37,
+        13
+      ],
+      "2020-07": [
+        50,
+        15
+      ],
+      "2020-08": [
+        34,
+        14
+      ],
+      "2020-09": [
+        40,
+        17
+      ],
+      "2020-10": [
+        36,
+        21
+      ],
+      "2020-11": [
+        35,
+        12
+      ],
+      "2020-12": [
+        41,
+        26
+      ],
+      "2021-01": [
+        29,
+        14
+      ],
+      "2021-02": [
+        41,
+        18
+      ],
+      "2021-03": [
+        45,
+        4
+      ],
+      "2021-04": [
+        39,
+        14
+      ],
+      "2021-05": [
+        43,
+        10
+      ],
+      "2021-06": [
+        35,
+        9
+      ],
+      "2021-07": [
+        38,
+        5
+      ],
+      "2021-08": [
+        33,
+        5
+      ],
+      "2021-09": [
+        29,
+        9
+      ],
+      "2021-10": [
+        31,
+        10
+      ],
+      "2021-11": [
+        28,
+        17
+      ],
+      "2021-12": [
+        29,
+        14
+      ],
+      "2022-01": [
+        25,
+        14
+      ],
+      "2022-02": [
+        22,
+        14
+      ],
+      "2022-03": [
+        40,
+        11
+      ],
+      "2022-04": [
+        24,
+        11
+      ],
+      "2022-05": [
+        32,
+        14
+      ],
+      "2022-06": [
+        32,
+        8
+      ],
+      "2022-07": [
+        30,
+        18
+      ],
+      "2022-08": [
+        42,
+        10
+      ],
+      "2022-09": [
+        23,
+        11
+      ],
+      "2022-10": [
+        30,
+        18
+      ],
+      "2022-11": [
+        32,
+        13
+      ],
+      "2022-12": [
+        50,
+        13
+      ],
+      "2023-01": [
+        35,
+        10
+      ],
+      "2023-02": [
+        22,
+        7
+      ],
+      "2023-03": [
+        31,
+        15
+      ],
+      "2023-04": [
+        30,
+        16
+      ],
+      "2023-05": [
+        28,
+        16
+      ],
+      "2023-06": [
+        34,
+        13
+      ],
+      "2023-07": [
+        37,
+        10
+      ],
+      "2023-08": [
+        33,
+        14
+      ],
+      "2023-09": [
+        29,
+        10
+      ],
+      "2023-10": [
+        30,
+        10
+      ],
+      "2023-11": [
+        29,
+        9
+      ],
+      "2023-12": [
+        24,
+        15
+      ],
+      "2024-01": [
+        32,
+        13
+      ],
+      "2024-02": [
+        25,
+        14
+      ],
+      "2024-03": [
+        29,
+        22
+      ],
+      "2024-04": [
+        27,
+        18
+      ],
+      "2024-05": [
+        42,
+        10
+      ],
+      "2024-06": [
+        34,
+        8
+      ],
+      "2024-07": [
+        41,
+        15
+      ],
+      "2024-08": [
+        23,
+        8
+      ],
+      "2024-09": [
+        36,
+        15
+      ],
+      "2024-10": [
+        37,
+        13
+      ],
+      "2024-11": [
+        34,
+        9
+      ],
+      "2024-12": [
+        32,
+        16
+      ],
+      "2025-01": [
+        26,
+        10
+      ],
+      "2025-02": [
+        32,
+        10
+      ],
+      "2025-03": [
+        33,
+        11
+      ],
+      "2025-04": [
+        38,
+        11
+      ],
+      "2025-05": [
+        34,
+        5
+      ],
+      "2025-06": [
+        21,
+        16
+      ],
+      "2025-07": [
+        42,
+        12
+      ],
+      "2025-08": [
+        29,
+        13
+      ],
+      "2025-09": [
+        9,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Bright, dark and breather soliton solutions of the generalized long-wave short-wave resonance interaction system",
+          "year": "2022-06",
+          "abstract": "In this paper, a generalized long-wave short-wave resonance interaction\nsystem, which describes the nonlinear interaction between a short-wave and a\nlong-wave in fluid dynamics, plasma physics and nonlinear optics, is\nconsidered. Using the Hirota bilinear method, the general $N$-bright and\n$N$-dark soliton solutions are deduced and their Gram determinant forms are\nobtained. A special feature of the fundamental bright soliton solution is that,\nin general, it behaves like the Korteweg-deVries soliton. However, under a\nspecial condition, it also behaves akin to the nonlinear Schr\\\"{o}dinger\nsoliton when it loses the amplitude dependent velocity property. The\nfundamental dark-soliton solution admits anti-dark, grey, and completely black\nsoliton profiles, in the short-wave component, depending on the choice of wave\nparameters. On the other hand, a bright soliton like profile always occurs in\nthe long-wave component. The asymptotic analysis shows that both the bright and\ndark solitons undergo an elastic collision with a finite phase shift. In\naddition to these, by tuning the phase shift regime, we point out the existence\nof resonance interactions among the bright solitons. Furthermore, under a\nspecial velocity resonance condition, we bring out the various types of bright\nand dark soliton bound states. Also, by fixing the phase factor and the system\nparameter $\\beta$, corresponding to the interaction between long and short wave\ncomponents, the different types of profiles associated with the obtained\nbreather solution are demonstrated.",
+          "arxiv_id": "2206.10159v1"
+        },
+        {
+          "title": "Solitary waves in the resonant nonlinear Schrödinger equation: stability and dynamical properties",
+          "year": "2020-03",
+          "abstract": "The stability and dynamical properties of the so-called resonant nonlinear\nSchr\\\"odinger (RNLS) equation, are considered. The RNLS is a variant of the\nnonlinear Schr\\\"odinger (NLS) equation with the addition of a perturbation used\nto describe wave propagation in cold collisionless plasmas. We first examine\nthe modulational stability of plane waves in the RNLS model, identifying the\nmodifications of the associated conditions from the NLS case. We then move to\nthe study of solitary waves with vanishing and nonzero boundary conditions.\nInterestingly the RNLS, much like the usual NLS, exhibits both dark and bright\nsoliton solutions depending on the relative signs of dispersion and\nnonlinearity. The corresponding existence, stability and dynamics of these\nsolutions are studied systematically in this work.",
+          "arxiv_id": "2003.01883v1"
+        },
+        {
+          "title": "Unstaggered-staggered solitons on one- and two-dimensional two-component discrete nonlinear Schrödinger lattices",
+          "year": "2020-03",
+          "abstract": "We study coupled unstaggered-staggered soliton pairs emergent from a system\nof two coupled discrete nonlinear Schr\\\"{o}dinger (DNLS) equations with the\nself-attractive on-site self-phase-modulation nonlinearity, coupled by the\nrepulsive cross-phase-modulation interaction, on 1D and 2D lattice domains.\nThese mixed modes are of a \"symbiotic\" type, as each component in isolation may\nonly carry ordinary unstaggered solitons. While most work on DNLS systems\naddressed symmetric on-site-centered fundamental solitons, these models give\nrise to a variety of other excited states, which may also be stable. The\nsimplest among them are antisymmetric states in the form of discrete twisted\nsolitons, which have no counterparts in the continuum limit. In the extension\nto 2D lattice domains, a natural counterpart of the twisted states are vortical\nsolitons. We first introduce a variational approximation (VA) for the solitons,\nand then correct it numerically to construct exact stationary solutions, which\nare then used as initial conditions for simulations to check if the stationary\nstates persist under time evolution. Two-component solutions obtained include\n(i) 1D fundamental-twisted and twisted-twisted soliton pairs, (ii) 2D\nfundamental-fundamental soliton pairs, and (iii) 2D vortical-vortical soliton\npairs. We also highlight a variety of other transient dynamical regimes, such\nas breathers and amplitude death. The findings apply to modeling binary\nBose-Einstein condensates, loaded in a deep lattice potential, with identical\nor different atomic masses of the two components, and arrays of bimodal optical\nwaveguides.",
+          "arxiv_id": "2003.00591v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Turing patterns on adaptive networks",
+          "year": "2025-09",
+          "abstract": "We are surrounded by spatio-temporal patterns resulting from the interaction\nof the numerous basic units constituting natural or human-made systems. In\npresence of diffusive-like coupling, Turing theory has been largely applied to\nexplain the formation of such self-organized motifs both on continuous domains\nor networked systems, where reactions occur in the nodes and the available\nlinks are used for species to diffuse. In many relevant applications, those\nlinks are not static, as very often assumed, but evolve in time and more\nimportantly they adapt their weights to the states of the nodes. In this work,\nwe make one step forward and we provide a general theory to prove the validity\nof Turing idea in the case of adaptive symmetric networks with positive\nweights. The conditions for the emergence of Turing instability rely on the\nspectral property of the Laplace matrix and the model parameters, thus\nstrengthening the interplay between dynamics and network topology. A rich\nvariety of patterns are presented by using two prototype models of nonlinear\ndynamical systems, the Brusselator and the FitzHugh-Nagumo model. Because many\nempirical networks adapt to changes in the system states, our results pave the\nway for a thorough understanding of self-organization in real-world systems.",
+          "arxiv_id": "2509.10124v1"
+        },
+        {
+          "title": "Fixed and Distributed Gene Expression Time Delays in Reaction-Diffusion Systems",
+          "year": "2022-05",
+          "abstract": "Time delays, modelling the process of intracellular gene expression, have\nbeen shown to have important impacts on the dynamics of pattern formation in\nreaction-diffusion systems. In particular, past work has shown that such time\ndelays can shrink the Turing space, thereby inhibiting patterns from forming\nacross large ranges of parameters. Such delays can also increase the time taken\nfor pattern formation even when Turing instabilities occur. Here we consider\nreaction-diffusion models incorporating fixed or distributed time delays,\nmodelling the underlying stochastic nature of gene expression dynamics, and\nanalyze these through a systematic linear instability analysis and numerical\nsimulations for several sets of different reaction kinetics. We find that even\ncomplicated distribution kernels (skewed Gaussian probability density\nfunctions) have little impact on the reaction-diffusion dynamics compared to\nfixed delays with the same mean delay. We show that the location of the delay\nterms in the model can lead to changes in the size of the Turing space\n(increasing or decreasing) as the mean time delay, $\\tau$, is increased. We\nshow that the time to pattern formation from a perturbation of the homogeneous\nsteady state scales linearly with $\\tau$, and conjecture that this is a general\nimpact of time delay on reaction-diffusion dynamics, independent of the form of\nthe kinetics or location of the delayed terms. Finally we show that while\ninitial and boundary conditions can influence these dynamics, particularly the\ntime-to-pattern, the effects of delay appear robust under variations of initial\nand boundary data. Overall our results help clarify the role of gene expression\ntime delays in reaction-diffusion patterning, and suggest clear directions for\nfurther work in studying more realistic models of pattern formation.",
+          "arxiv_id": "2205.05410v2"
+        },
+        {
+          "title": "Coarsening and wavelength selection far from equilibrium: a unifying framework based on singular perturbation theory",
+          "year": "2022-03",
+          "abstract": "Intracellular protein patterns are described by (nearly) mass-conserving\nreaction-diffusion systems. While these patterns initially form out of a\nhomogeneous steady state due to the well-understood Turing instability, no\ngeneral theory exists for the dynamics of fully nonlinear patterns. We develop\na unifying theory for wavelength-selection dynamics in (nearly) mass-conserving\ntwo-component reaction-diffusion systems independent of the specific\nmathematical model chosen. This encompasses both the dynamics of the mesa- and\npeak-shaped patterns found in these systems. Our analysis uncovers a diffusion-\nand a reaction-limited regime of the dynamics, which provides a systematic link\nbetween the dynamics of mass-conserving reaction-diffusion systems and the\nCahn-Hilliard as well as conserved Allen-Cahn equations, respectively. A\nstability threshold in the family of stationary patterns with different\nwavelengths predicts the wavelength selected for the final stationary pattern.\nAt short wavelengths, self-amplifying mass transport between single pattern\ndomains drives coarsening while at large wavelengths weak source terms that\nbreak strict mass conservation lead to an arrest of the coarsening process. The\nrate of mass competition between pattern domains is calculated analytically\nusing singular perturbation theory, and rationalized in terms of the underlying\nphysical processes. The resulting closed-form analytical expressions enable us\nto quantitatively predict the coarsening dynamics and the final pattern\nwavelength. We find excellent agreement of these expressions with numerical\nresults. The systematic understanding of the length-scale dynamics of fully\nnonlinear patterns in two-component systems provided here builds the basis to\nreveal the mechanisms underlying wavelength selection in multi-component\nsystems with potentially several conservation laws.",
+          "arxiv_id": "2203.03892v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:59:09Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

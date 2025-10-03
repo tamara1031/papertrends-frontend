@@ -1,0 +1,2272 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_convex_bodies_Minkowski_convex bodies",
+        "keywords": [
+          [
+            "convex",
+            0.04563304925421875
+          ],
+          [
+            "bodies",
+            0.0356113578760262
+          ],
+          [
+            "Minkowski",
+            0.032175285110887436
+          ],
+          [
+            "convex bodies",
+            0.02667366436153397
+          ],
+          [
+            "body",
+            0.02623340342459277
+          ],
+          [
+            "inequality",
+            0.0241783636573341
+          ],
+          [
+            "inequalities",
+            0.020942611246470448
+          ],
+          [
+            "convex body",
+            0.017485900462615406
+          ],
+          [
+            "volume",
+            0.016328499386146007
+          ],
+          [
+            "problem",
+            0.015588711453527289
+          ]
+        ],
+        "count": 498
+      },
+      "1": {
+        "name": "1_spaces_curvature_metric_measure",
+        "keywords": [
+          [
+            "spaces",
+            0.03386932666830235
+          ],
+          [
+            "curvature",
+            0.02903897256709599
+          ],
+          [
+            "metric",
+            0.022546990093288963
+          ],
+          [
+            "measure",
+            0.021576130475032377
+          ],
+          [
+            "Riemannian",
+            0.021236728278156966
+          ],
+          [
+            "Ricci",
+            0.020690690752978004
+          ],
+          [
+            "manifolds",
+            0.02002747155690427
+          ],
+          [
+            "RCD",
+            0.019231880492555
+          ],
+          [
+            "space",
+            0.019216425914870255
+          ],
+          [
+            "metric measure",
+            0.01843484516932819
+          ]
+        ],
+        "count": 464
+      },
+      "2": {
+        "name": "2_points_polytopes_number_problem",
+        "keywords": [
+          [
+            "points",
+            0.024630295472781154
+          ],
+          [
+            "polytopes",
+            0.01744735447636477
+          ],
+          [
+            "number",
+            0.016237329573576795
+          ],
+          [
+            "problem",
+            0.015965539790717024
+          ],
+          [
+            "point",
+            0.015862116337139843
+          ],
+          [
+            "triangle",
+            0.014674701981090136
+          ],
+          [
+            "plane",
+            0.014415302896055887
+          ],
+          [
+            "set",
+            0.012845599252479092
+          ],
+          [
+            "lattice",
+            0.012404579681312566
+          ],
+          [
+            "vertices",
+            0.012291509254311661
+          ]
+        ],
+        "count": 415
+      },
+      "3": {
+        "name": "3_groups_group_hyperbolic_quasi",
+        "keywords": [
+          [
+            "groups",
+            0.061389304995181276
+          ],
+          [
+            "group",
+            0.033593561880228384
+          ],
+          [
+            "hyperbolic",
+            0.029372060985277393
+          ],
+          [
+            "quasi",
+            0.020009064964310333
+          ],
+          [
+            "finite",
+            0.017542545612381496
+          ],
+          [
+            "spaces",
+            0.016773220519155106
+          ],
+          [
+            "complexes",
+            0.016450022467969918
+          ],
+          [
+            "boundary",
+            0.015044255758016411
+          ],
+          [
+            "space",
+            0.01494428265110952
+          ],
+          [
+            "subgroups",
+            0.014490082510546416
+          ]
+        ],
+        "count": 213
+      },
+      "4": {
+        "name": "4_self_dimension_dimensions_sets",
+        "keywords": [
+          [
+            "self",
+            0.05166520358926739
+          ],
+          [
+            "dimension",
+            0.04797020234366376
+          ],
+          [
+            "dimensions",
+            0.03828473815504417
+          ],
+          [
+            "sets",
+            0.036498357887491416
+          ],
+          [
+            "similar",
+            0.03549197478247046
+          ],
+          [
+            "fractal",
+            0.032186767245338366
+          ],
+          [
+            "Assouad",
+            0.025493172225490985
+          ],
+          [
+            "box",
+            0.024345798990507816
+          ],
+          [
+            "affine",
+            0.02203986194113026
+          ],
+          [
+            "Hausdorff",
+            0.021779750240009416
+          ]
+        ],
+        "count": 154
+      },
+      "5": {
+        "name": "5_packing_packings_codes_bounds",
+        "keywords": [
+          [
+            "packing",
+            0.05982396144224021
+          ],
+          [
+            "packings",
+            0.03965904653781334
+          ],
+          [
+            "codes",
+            0.03705362310887403
+          ],
+          [
+            "bounds",
+            0.03541947111068728
+          ],
+          [
+            "spherical",
+            0.028971569883098538
+          ],
+          [
+            "density",
+            0.024731582113292558
+          ],
+          [
+            "sphere",
+            0.02469145520777578
+          ],
+          [
+            "bound",
+            0.020347267442050742
+          ],
+          [
+            "upper",
+            0.018119082393765442
+          ],
+          [
+            "optimal",
+            0.01637851677073967
+          ]
+        ],
+        "count": 138
+      },
+      "6": {
+        "name": "6_set_dimension_sets_Furstenberg",
+        "keywords": [
+          [
+            "set",
+            0.03745056775981912
+          ],
+          [
+            "dimension",
+            0.03301449795113184
+          ],
+          [
+            "sets",
+            0.032120543887107215
+          ],
+          [
+            "Furstenberg",
+            0.028920315092079818
+          ],
+          [
+            "Kakeya",
+            0.020678696071010638
+          ],
+          [
+            "Hausdorff",
+            0.019635050836406636
+          ],
+          [
+            "projections",
+            0.017522281998498163
+          ],
+          [
+            "theorem",
+            0.01699297580931695
+          ],
+          [
+            "projection",
+            0.014167192301639623
+          ],
+          [
+            "conjecture",
+            0.013976914416040999
+          ]
+        ],
+        "count": 116
+      },
+      "7": {
+        "name": "7_Lipschitz_metric_spaces_rectifiable",
+        "keywords": [
+          [
+            "Lipschitz",
+            0.05250041220485305
+          ],
+          [
+            "metric",
+            0.03590774991193113
+          ],
+          [
+            "spaces",
+            0.03223077798316554
+          ],
+          [
+            "rectifiable",
+            0.0316664795812464
+          ],
+          [
+            "rectifiability",
+            0.030823500747530232
+          ],
+          [
+            "space",
+            0.02654681176744625
+          ],
+          [
+            "measure",
+            0.023307463488385086
+          ],
+          [
+            "metric spaces",
+            0.022658377997517402
+          ],
+          [
+            "metric space",
+            0.01807463246934204
+          ],
+          [
+            "bi",
+            0.015042248824648262
+          ]
+        ],
+        "count": 113
+      },
+      "8": {
+        "name": "8_random_expected_convex_distribution",
+        "keywords": [
+          [
+            "random",
+            0.07598977013746887
+          ],
+          [
+            "expected",
+            0.028590235757111643
+          ],
+          [
+            "convex",
+            0.026692350382270046
+          ],
+          [
+            "distribution",
+            0.025470344117179754
+          ],
+          [
+            "polytopes",
+            0.024870859344589755
+          ],
+          [
+            "Gaussian",
+            0.02224685907340533
+          ],
+          [
+            "points",
+            0.020775006747831826
+          ],
+          [
+            "hull",
+            0.017709237215382062
+          ],
+          [
+            "probability",
+            0.017191396076077076
+          ],
+          [
+            "independent",
+            0.015610373031688406
+          ]
+        ],
+        "count": 107
+      },
+      "9": {
+        "name": "9_data_networks_distance_metric",
+        "keywords": [
+          [
+            "data",
+            0.038399118479144005
+          ],
+          [
+            "networks",
+            0.027508657632982523
+          ],
+          [
+            "distance",
+            0.02309868860908214
+          ],
+          [
+            "metric",
+            0.022714086235251237
+          ],
+          [
+            "network",
+            0.01986746182040192
+          ],
+          [
+            "model",
+            0.018060074222558908
+          ],
+          [
+            "graphs",
+            0.01719287792894001
+          ],
+          [
+            "neural",
+            0.01713774890384732
+          ],
+          [
+            "analysis",
+            0.017103866403188443
+          ],
+          [
+            "graph",
+            0.01597506818237253
+          ]
+        ],
+        "count": 101
+      },
+      "10": {
+        "name": "10_rigidity_rigid_frameworks_graph",
+        "keywords": [
+          [
+            "rigidity",
+            0.06764446343644574
+          ],
+          [
+            "rigid",
+            0.05607693600272994
+          ],
+          [
+            "frameworks",
+            0.052066769113199664
+          ],
+          [
+            "graph",
+            0.04500739543562712
+          ],
+          [
+            "framework",
+            0.03725623518070619
+          ],
+          [
+            "generic",
+            0.032083357746716376
+          ],
+          [
+            "edge",
+            0.03017905928839498
+          ],
+          [
+            "graphs",
+            0.02682612476096489
+          ],
+          [
+            "vertices",
+            0.023700760055806968
+          ],
+          [
+            "symmetry",
+            0.02308381609389367
+          ]
+        ],
+        "count": 86
+      },
+      "11": {
+        "name": "11_Heisenberg_group_intrinsic_Lipschitz",
+        "keywords": [
+          [
+            "Heisenberg",
+            0.0732950650518315
+          ],
+          [
+            "group",
+            0.04310708651152185
+          ],
+          [
+            "intrinsic",
+            0.04065515682428852
+          ],
+          [
+            "Lipschitz",
+            0.038325483815315226
+          ],
+          [
+            "Carnot",
+            0.035430437604358454
+          ],
+          [
+            "groups",
+            0.034223640516768204
+          ],
+          [
+            "sub",
+            0.027946098367556717
+          ],
+          [
+            "graphs",
+            0.026374496318241458
+          ],
+          [
+            "horizontal",
+            0.025578936215832695
+          ],
+          [
+            "vertical",
+            0.020629816394381523
+          ]
+        ],
+        "count": 85
+      },
+      "12": {
+        "name": "12_coarse_spaces_Roe_metric",
+        "keywords": [
+          [
+            "coarse",
+            0.14324764500953469
+          ],
+          [
+            "spaces",
+            0.049311173279624164
+          ],
+          [
+            "Roe",
+            0.03181549107994718
+          ],
+          [
+            "metric",
+            0.03176282968805761
+          ],
+          [
+            "metric spaces",
+            0.029995928441862427
+          ],
+          [
+            "space",
+            0.02892965909718786
+          ],
+          [
+            "asymptotic",
+            0.024383273773028877
+          ],
+          [
+            "Coarse",
+            0.02402537289512264
+          ],
+          [
+            "asymptotic dimension",
+            0.022487472383475024
+          ],
+          [
+            "group",
+            0.019173979790336266
+          ]
+        ],
+        "count": 76
+      },
+      "13": {
+        "name": "13_Hausdorff_Gromov_spaces_space",
+        "keywords": [
+          [
+            "Hausdorff",
+            0.06051349907621377
+          ],
+          [
+            "Gromov",
+            0.05804474557782683
+          ],
+          [
+            "spaces",
+            0.0562683520054089
+          ],
+          [
+            "space",
+            0.05531680803876157
+          ],
+          [
+            "metric",
+            0.04837826427066455
+          ],
+          [
+            "metrics",
+            0.03592566673720021
+          ],
+          [
+            "ultrametric",
+            0.03326678170364684
+          ],
+          [
+            "distance",
+            0.030262887224391778
+          ],
+          [
+            "metric spaces",
+            0.028928909505896622
+          ],
+          [
+            "metrizable",
+            0.024888122083390984
+          ]
+        ],
+        "count": 74
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.7135821145692545,
+        -0.6563132037007375,
+        -0.706833389028396,
+        -0.702045553536121,
+        -0.7149797775954705,
+        -0.6212483285930068,
+        -0.6980680094185125,
+        -0.6346483277361037,
+        -0.7333487016982507,
+        -0.7363038705970414,
+        -0.7045507940180615,
+        -0.7613220537646421,
+        -0.6998027243760445
+      ],
+      [
+        -0.7135821145692545,
+        1.0,
+        -0.5743128920020455,
+        -0.5603019428629206,
+        -0.64977763962967,
+        -0.667118220267342,
+        -0.5775191821484961,
+        -0.16574495961877778,
+        -0.730596729318689,
+        -0.6985483719623868,
+        -0.6856860763246084,
+        -0.6772083067000204,
+        -0.5078878490065518,
+        -0.2664680086934484
+      ],
+      [
+        -0.6563132037007375,
+        -0.5743128920020455,
+        1.0,
+        -0.5468557236488857,
+        -0.6087849220206639,
+        -0.6268039327004482,
+        -0.4869576336170448,
+        -0.5180538860754988,
+        -0.6754721582118406,
+        -0.6821433074914427,
+        -0.6867424690459134,
+        -0.6587432376926701,
+        -0.7069675020432985,
+        -0.5322735574452752
+      ],
+      [
+        -0.706833389028396,
+        -0.5603019428629206,
+        -0.5468557236488857,
+        1.0,
+        -0.6514141212691188,
+        -0.6532010260492163,
+        -0.4781808928662288,
+        -0.4069287062117082,
+        -0.7244809019286884,
+        -0.7347857469063668,
+        -0.6752866845560987,
+        -0.4591913605928968,
+        -0.6376955682710768,
+        -0.6056881476000294
+      ],
+      [
+        -0.702045553536121,
+        -0.64977763962967,
+        -0.6087849220206639,
+        -0.6514141212691188,
+        1.0,
+        -0.6485942127408049,
+        -0.335027159213933,
+        -0.6093703728327557,
+        -0.6949315753603047,
+        -0.7303366903353561,
+        -0.705573161783047,
+        -0.6915696387384522,
+        -0.7168748289637747,
+        -0.6263412580196233
+      ],
+      [
+        -0.7149797775954705,
+        -0.667118220267342,
+        -0.6268039327004482,
+        -0.6532010260492163,
+        -0.6485942127408049,
+        1.0,
+        -0.6289436622711531,
+        -0.6639148997700757,
+        -0.7225789345274367,
+        -0.7393196618267279,
+        -0.7278212952296669,
+        -0.710911007924146,
+        -0.741608584681048,
+        -0.7005876223781036
+      ],
+      [
+        -0.6212483285930068,
+        -0.5775191821484961,
+        -0.4869576336170448,
+        -0.4781808928662288,
+        -0.335027159213933,
+        -0.6289436622711531,
+        1.0,
+        -0.427005840845039,
+        -0.6683791397841305,
+        -0.7110526385086822,
+        -0.6856857765149147,
+        -0.366079377200573,
+        -0.7011032557679562,
+        -0.5879420185914385
+      ],
+      [
+        -0.6980680094185125,
+        -0.16574495961877778,
+        -0.5180538860754988,
+        -0.4069287062117082,
+        -0.6093703728327557,
+        -0.6639148997700757,
+        -0.427005840845039,
+        1.0,
+        -0.7118950685690795,
+        -0.671355217169187,
+        -0.6957920188314763,
+        -0.5939635869338322,
+        -0.43517622465294115,
+        -0.01326089674312031
+      ],
+      [
+        -0.6346483277361037,
+        -0.730596729318689,
+        -0.6754721582118406,
+        -0.7244809019286884,
+        -0.6949315753603047,
+        -0.7225789345274367,
+        -0.6683791397841305,
+        -0.7118950685690795,
+        1.0,
+        -0.7098670491849043,
+        -0.724058724123813,
+        -0.7131603131974458,
+        -0.7541594502671561,
+        -0.7165414203645937
+      ],
+      [
+        -0.7333487016982507,
+        -0.6985483719623868,
+        -0.6821433074914427,
+        -0.7347857469063668,
+        -0.7303366903353561,
+        -0.7393196618267279,
+        -0.7110526385086822,
+        -0.671355217169187,
+        -0.7098670491849043,
+        1.0,
+        -0.7023118170514786,
+        -0.7296027466776294,
+        -0.7347122992034805,
+        -0.6711035511855625
+      ],
+      [
+        -0.7363038705970414,
+        -0.6856860763246084,
+        -0.6867424690459134,
+        -0.6752866845560987,
+        -0.705573161783047,
+        -0.7278212952296669,
+        -0.6856857765149147,
+        -0.6957920188314763,
+        -0.724058724123813,
+        -0.7023118170514786,
+        1.0,
+        -0.709928417272746,
+        -0.7274555903304636,
+        -0.6948826475654238
+      ],
+      [
+        -0.7045507940180615,
+        -0.6772083067000204,
+        -0.6587432376926701,
+        -0.4591913605928968,
+        -0.6915696387384522,
+        -0.710911007924146,
+        -0.366079377200573,
+        -0.5939635869338322,
+        -0.7131603131974458,
+        -0.7296027466776294,
+        -0.709928417272746,
+        1.0,
+        -0.7128578901317797,
+        -0.6721342179973344
+      ],
+      [
+        -0.7613220537646421,
+        -0.5078878490065518,
+        -0.7069675020432985,
+        -0.6376955682710768,
+        -0.7168748289637747,
+        -0.741608584681048,
+        -0.7011032557679562,
+        -0.43517622465294115,
+        -0.7541594502671561,
+        -0.7347122992034805,
+        -0.7274555903304636,
+        -0.7128578901317797,
+        1.0,
+        -0.43418796475707166
+      ],
+      [
+        -0.6998027243760445,
+        -0.2664680086934484,
+        -0.5322735574452752,
+        -0.6056881476000294,
+        -0.6263412580196233,
+        -0.7005876223781036,
+        -0.5879420185914385,
+        -0.01326089674312031,
+        -0.7165414203645937,
+        -0.6711035511855625,
+        -0.6948826475654238,
+        -0.6721342179973344,
+        -0.43418796475707166,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        10,
+        4,
+        7,
+        4,
+        2,
+        3,
+        3,
+        6,
+        2,
+        1,
+        0,
+        0,
+        4,
+        4
+      ],
+      "2020-02": [
+        9,
+        2,
+        10,
+        3,
+        6,
+        7,
+        4,
+        8,
+        0,
+        1,
+        3,
+        4,
+        2,
+        7
+      ],
+      "2020-03": [
+        10,
+        4,
+        6,
+        5,
+        7,
+        5,
+        4,
+        0,
+        5,
+        3,
+        8,
+        1,
+        1,
+        8
+      ],
+      "2020-04": [
+        17,
+        5,
+        13,
+        5,
+        6,
+        3,
+        2,
+        4,
+        4,
+        1,
+        2,
+        7,
+        3,
+        11
+      ],
+      "2020-05": [
+        17,
+        7,
+        6,
+        1,
+        8,
+        4,
+        4,
+        5,
+        2,
+        1,
+        4,
+        2,
+        1,
+        8
+      ],
+      "2020-06": [
+        19,
+        6,
+        5,
+        2,
+        4,
+        5,
+        8,
+        5,
+        5,
+        0,
+        3,
+        3,
+        1,
+        2
+      ],
+      "2020-07": [
+        17,
+        8,
+        7,
+        5,
+        9,
+        4,
+        4,
+        4,
+        10,
+        2,
+        3,
+        5,
+        4,
+        6
+      ],
+      "2020-08": [
+        19,
+        5,
+        5,
+        4,
+        6,
+        5,
+        4,
+        2,
+        2,
+        1,
+        4,
+        3,
+        2,
+        7
+      ],
+      "2020-09": [
+        12,
+        8,
+        11,
+        5,
+        8,
+        0,
+        8,
+        6,
+        3,
+        0,
+        7,
+        4,
+        3,
+        6
+      ],
+      "2020-10": [
+        20,
+        6,
+        7,
+        8,
+        5,
+        4,
+        3,
+        4,
+        4,
+        2,
+        3,
+        1,
+        0,
+        6
+      ],
+      "2020-11": [
+        11,
+        1,
+        5,
+        4,
+        4,
+        3,
+        5,
+        7,
+        0,
+        1,
+        1,
+        3,
+        2,
+        4
+      ],
+      "2020-12": [
+        21,
+        5,
+        10,
+        5,
+        5,
+        1,
+        4,
+        3,
+        1,
+        2,
+        1,
+        4,
+        3,
+        6
+      ],
+      "2021-01": [
+        12,
+        4,
+        7,
+        4,
+        4,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        8
+      ],
+      "2021-02": [
+        11,
+        2,
+        7,
+        5,
+        3,
+        0,
+        6,
+        7,
+        1,
+        0,
+        2,
+        1,
+        2,
+        9
+      ],
+      "2021-03": [
+        18,
+        3,
+        5,
+        5,
+        5,
+        3,
+        1,
+        6,
+        1,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "2021-04": [
+        11,
+        6,
+        4,
+        1,
+        2,
+        5,
+        4,
+        6,
+        4,
+        1,
+        1,
+        2,
+        1,
+        9
+      ],
+      "2021-05": [
+        10,
+        8,
+        5,
+        4,
+        1,
+        2,
+        3,
+        4,
+        3,
+        1,
+        4,
+        3,
+        1,
+        12
+      ],
+      "2021-06": [
+        17,
+        2,
+        5,
+        2,
+        1,
+        2,
+        8,
+        6,
+        2,
+        2,
+        5,
+        4,
+        1,
+        9
+      ],
+      "2021-07": [
+        9,
+        5,
+        5,
+        3,
+        7,
+        4,
+        5,
+        4,
+        0,
+        1,
+        3,
+        3,
+        2,
+        9
+      ],
+      "2021-08": [
+        18,
+        4,
+        6,
+        1,
+        5,
+        4,
+        2,
+        4,
+        0,
+        1,
+        5,
+        2,
+        0,
+        7
+      ],
+      "2021-09": [
+        17,
+        6,
+        6,
+        6,
+        5,
+        1,
+        6,
+        9,
+        3,
+        1,
+        2,
+        3,
+        2,
+        6
+      ],
+      "2021-10": [
+        9,
+        5,
+        10,
+        4,
+        4,
+        4,
+        8,
+        5,
+        2,
+        3,
+        5,
+        0,
+        2,
+        7
+      ],
+      "2021-11": [
+        16,
+        3,
+        8,
+        0,
+        7,
+        4,
+        7,
+        3,
+        2,
+        1,
+        1,
+        1,
+        2,
+        6
+      ],
+      "2021-12": [
+        21,
+        3,
+        7,
+        5,
+        5,
+        4,
+        7,
+        3,
+        5,
+        3,
+        1,
+        0,
+        2,
+        10
+      ],
+      "2022-01": [
+        11,
+        4,
+        11,
+        2,
+        6,
+        2,
+        4,
+        5,
+        3,
+        1,
+        4,
+        0,
+        1,
+        7
+      ],
+      "2022-02": [
+        15,
+        8,
+        7,
+        2,
+        4,
+        8,
+        4,
+        3,
+        4,
+        1,
+        4,
+        2,
+        0,
+        5
+      ],
+      "2022-03": [
+        16,
+        6,
+        16,
+        3,
+        8,
+        2,
+        7,
+        3,
+        5,
+        2,
+        1,
+        2,
+        3,
+        5
+      ],
+      "2022-04": [
+        9,
+        9,
+        9,
+        2,
+        6,
+        2,
+        8,
+        6,
+        3,
+        1,
+        0,
+        3,
+        0,
+        8
+      ],
+      "2022-05": [
+        9,
+        2,
+        4,
+        2,
+        3,
+        4,
+        5,
+        9,
+        2,
+        1,
+        1,
+        4,
+        1,
+        7
+      ],
+      "2022-06": [
+        18,
+        4,
+        8,
+        7,
+        2,
+        4,
+        2,
+        4,
+        4,
+        1,
+        2,
+        2,
+        3,
+        9
+      ],
+      "2022-07": [
+        12,
+        8,
+        4,
+        5,
+        4,
+        5,
+        7,
+        5,
+        1,
+        6,
+        4,
+        2,
+        1,
+        7
+      ],
+      "2022-08": [
+        10,
+        3,
+        6,
+        3,
+        5,
+        1,
+        6,
+        10,
+        3,
+        3,
+        1,
+        2,
+        0,
+        8
+      ],
+      "2022-09": [
+        17,
+        7,
+        4,
+        4,
+        5,
+        3,
+        3,
+        4,
+        2,
+        2,
+        2,
+        2,
+        0,
+        6
+      ],
+      "2022-10": [
+        21,
+        8,
+        3,
+        3,
+        2,
+        4,
+        5,
+        4,
+        1,
+        0,
+        4,
+        1,
+        0,
+        8
+      ],
+      "2022-11": [
+        14,
+        7,
+        5,
+        5,
+        2,
+        11,
+        5,
+        1,
+        1,
+        2,
+        0,
+        2,
+        1,
+        9
+      ],
+      "2022-12": [
+        13,
+        11,
+        9,
+        6,
+        4,
+        4,
+        4,
+        8,
+        2,
+        1,
+        4,
+        1,
+        2,
+        9
+      ],
+      "2023-01": [
+        12,
+        7,
+        3,
+        3,
+        2,
+        0,
+        7,
+        5,
+        2,
+        0,
+        2,
+        0,
+        0,
+        4
+      ],
+      "2023-02": [
+        12,
+        8,
+        4,
+        3,
+        5,
+        5,
+        3,
+        3,
+        2,
+        0,
+        1,
+        1,
+        2,
+        11
+      ],
+      "2023-03": [
+        19,
+        8,
+        9,
+        4,
+        2,
+        3,
+        8,
+        5,
+        3,
+        1,
+        1,
+        1,
+        2,
+        12
+      ],
+      "2023-04": [
+        17,
+        10,
+        5,
+        3,
+        4,
+        1,
+        6,
+        5,
+        3,
+        1,
+        1,
+        3,
+        0,
+        7
+      ],
+      "2023-05": [
+        18,
+        3,
+        5,
+        3,
+        3,
+        8,
+        10,
+        5,
+        0,
+        2,
+        5,
+        3,
+        3,
+        7
+      ],
+      "2023-06": [
+        16,
+        5,
+        7,
+        3,
+        4,
+        2,
+        8,
+        6,
+        1,
+        0,
+        3,
+        1,
+        1,
+        7
+      ],
+      "2023-07": [
+        17,
+        2,
+        9,
+        2,
+        2,
+        0,
+        4,
+        2,
+        3,
+        2,
+        3,
+        3,
+        4,
+        7
+      ],
+      "2023-08": [
+        15,
+        13,
+        10,
+        2,
+        6,
+        3,
+        5,
+        3,
+        1,
+        0,
+        5,
+        3,
+        3,
+        11
+      ],
+      "2023-09": [
+        14,
+        4,
+        11,
+        4,
+        4,
+        2,
+        3,
+        6,
+        2,
+        1,
+        0,
+        1,
+        0,
+        11
+      ],
+      "2023-10": [
+        20,
+        2,
+        6,
+        6,
+        2,
+        5,
+        8,
+        6,
+        1,
+        1,
+        3,
+        1,
+        1,
+        5
+      ],
+      "2023-11": [
+        12,
+        4,
+        7,
+        6,
+        3,
+        3,
+        2,
+        11,
+        2,
+        0,
+        2,
+        1,
+        2,
+        4
+      ],
+      "2023-12": [
+        15,
+        5,
+        7,
+        4,
+        6,
+        3,
+        5,
+        4,
+        0,
+        1,
+        3,
+        2,
+        2,
+        8
+      ],
+      "2024-01": [
+        7,
+        8,
+        9,
+        6,
+        6,
+        2,
+        6,
+        3,
+        3,
+        0,
+        2,
+        1,
+        4,
+        5
+      ],
+      "2024-02": [
+        19,
+        9,
+        4,
+        2,
+        2,
+        3,
+        4,
+        3,
+        3,
+        0,
+        4,
+        2,
+        1,
+        7
+      ],
+      "2024-03": [
+        13,
+        6,
+        6,
+        1,
+        4,
+        3,
+        13,
+        4,
+        1,
+        4,
+        5,
+        2,
+        1,
+        4
+      ],
+      "2024-04": [
+        9,
+        9,
+        5,
+        8,
+        6,
+        3,
+        8,
+        4,
+        3,
+        1,
+        1,
+        1,
+        0,
+        7
+      ],
+      "2024-05": [
+        11,
+        7,
+        7,
+        7,
+        1,
+        6,
+        7,
+        3,
+        3,
+        2,
+        4,
+        2,
+        2,
+        5
+      ],
+      "2024-06": [
+        12,
+        7,
+        8,
+        4,
+        6,
+        2,
+        5,
+        3,
+        3,
+        0,
+        2,
+        1,
+        2,
+        13
+      ],
+      "2024-07": [
+        27,
+        2,
+        4,
+        5,
+        5,
+        4,
+        5,
+        3,
+        6,
+        1,
+        4,
+        6,
+        1,
+        11
+      ],
+      "2024-08": [
+        16,
+        8,
+        10,
+        5,
+        4,
+        1,
+        7,
+        4,
+        2,
+        4,
+        4,
+        2,
+        0,
+        6
+      ],
+      "2024-09": [
+        13,
+        8,
+        8,
+        3,
+        6,
+        2,
+        4,
+        6,
+        3,
+        2,
+        1,
+        0,
+        1,
+        9
+      ],
+      "2024-10": [
+        14,
+        4,
+        6,
+        7,
+        6,
+        3,
+        10,
+        6,
+        5,
+        1,
+        5,
+        2,
+        1,
+        8
+      ],
+      "2024-11": [
+        17,
+        5,
+        7,
+        5,
+        4,
+        2,
+        8,
+        5,
+        3,
+        1,
+        1,
+        0,
+        3,
+        8
+      ],
+      "2024-12": [
+        12,
+        8,
+        7,
+        4,
+        5,
+        6,
+        12,
+        8,
+        6,
+        0,
+        2,
+        0,
+        2,
+        15
+      ],
+      "2025-01": [
+        22,
+        7,
+        5,
+        2,
+        5,
+        3,
+        4,
+        6,
+        5,
+        2,
+        3,
+        1,
+        0,
+        8
+      ],
+      "2025-02": [
+        17,
+        8,
+        2,
+        4,
+        7,
+        4,
+        5,
+        3,
+        1,
+        1,
+        4,
+        2,
+        2,
+        10
+      ],
+      "2025-03": [
+        20,
+        9,
+        5,
+        7,
+        5,
+        5,
+        1,
+        7,
+        1,
+        2,
+        3,
+        1,
+        2,
+        8
+      ],
+      "2025-04": [
+        20,
+        9,
+        4,
+        5,
+        2,
+        3,
+        3,
+        5,
+        1,
+        3,
+        1,
+        3,
+        2,
+        6
+      ],
+      "2025-05": [
+        20,
+        8,
+        5,
+        8,
+        9,
+        3,
+        5,
+        13,
+        4,
+        1,
+        5,
+        2,
+        2,
+        10
+      ],
+      "2025-06": [
+        16,
+        9,
+        6,
+        5,
+        4,
+        3,
+        5,
+        5,
+        1,
+        3,
+        6,
+        1,
+        2,
+        9
+      ],
+      "2025-07": [
+        11,
+        2,
+        7,
+        3,
+        1,
+        1,
+        5,
+        4,
+        3,
+        3,
+        3,
+        3,
+        1,
+        12
+      ],
+      "2025-08": [
+        16,
+        1,
+        8,
+        3,
+        10,
+        0,
+        2,
+        4,
+        5,
+        2,
+        4,
+        3,
+        2,
+        9
+      ],
+      "2025-09": [
+        4,
+        3,
+        4,
+        3,
+        3,
+        2,
+        6,
+        5,
+        4,
+        2,
+        3,
+        3,
+        1,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Weighted Brunn-Minkowski Theory I: On Weighted Surface Area Measures",
+          "year": "2022-12",
+          "abstract": "The Brunn-Minkowski theory in convex geometry concerns, among other things,\nthe volumes, mixed volumes, and surface area measures of convex bodies. We\nstudy generalizations of these concepts to Borel measures with density in\n$\\mathbb{R}^n$-- in particular, the weighted versions of mixed volumes (the\nso-called mixed measures) when dealing with up to three distinct convex bodies.\nWe then formulate and analyze weighted versions of classical surface area\nmeasures, and obtain a new integral formula for the mixed measure of three\nbodies. As an application, we prove a B\\'ezout-type inequality for rotational\ninvariant log-concave measures, generalizing a result by Artstein-Avidan,\nFlorentin and Ostrover. The results are new and interesting even for the\nspecial case of the standard Gaussian measure.",
+          "arxiv_id": "2212.13522v2"
+        },
+        {
+          "title": "A note on the reduction of the slicing problem to centrally symmetric convex bodies",
+          "year": "2022-10",
+          "abstract": "In this paper, we obtain the best possible value of the absolute constant $C$\nsuch that for every isotropic convex body $K \\subseteq \\mathbb{R}^n$ the\nfollowing inequality (which was proved by Klartag and reduces the hyperplane\nconjecture to centrally symmetric convex bodies) is satisfied: $$ L_K\\leq\nCL_{K_{n+2}(g_K)}. $$ Here $L_K$ denotes the isotropic constant of $K$, $g_K$\nits covariogram function, which is log-concave, and, for any log-concave\nfunction $g$, $K_{n+2}(g)$ is a convex body associated to the log-concave\nfunction $g$, which belongs to a uniparametric family introduced by Ball. In\norder to obtain this inequality, sharp inclusion results between the convex\nbodies in this family are obtained whenever $g$ satisfies a better type of\nconcavity than the log-concavity, as $g_K$ is, indeed $\\frac{1}{n}$-concave.",
+          "arxiv_id": "2210.09137v1"
+        },
+        {
+          "title": "On the $L_p$ Brunn-Minkowski theory and the $L_p$ Minkowski problem for $C$-coconvex sets",
+          "year": "2022-04",
+          "abstract": "Let $C$ be a pointed closed convex cone in $\\mathbb{R}^n$ with vertex at the\norigin $o$ and having nonempty interior. The set $A\\subset C$ is $C$-coconvex\nif the volume of $A$ is finite and $A^{\\bullet}=C\\setminus A$ is a closed\nconvex set. For $0<p<1$, the $p$-co-sum of $C$-coconvex sets is introduced, and\nthe corresponding $L_p$ Brunn-Minkowski inequality for $C$-coconvex sets is\nestablished. We also define the $L_p$ surface area measures, for $0\\neq p\\in\n\\mathbb{R}$, of certain $C$-coconvex sets, which are critical in deriving a\nvariational formula of the volume of the Wulff shape associated with a family\nof functions obtained from the $p$-co-sum. This motivates the $L_p$ Minkowski\nproblem aiming to characterize the $L_p$ surface area measures of $C$-coconvex\nsets. The existence of solutions to the $L_p$ Minkowski problem for all $0\\neq\np\\in \\mathbb{R}$ is established. The $L_p$ Minkowski inequality for $0<p<1$ is\nproved and is used to obtain the uniqueness of the solutions to the $L_p$\nMinkowski problem for $0<p<1$.\n  For $p=0$, we introduce $(1-\\tau)\\diamond A_1\\oplus_0\\tau\\diamond A_2$, the\nlog-co-sum of two $C$-coconvex sets $A_{1}$ and $A_{2}$ with respect to $\\tau\n\\in(0, 1)$, and prove the log-Brunn-Minkowski inequality of $C$-coconvex sets.\nThe log-Minkowski inequality is also obtained and is applied to prove the\nuniqueness of the solutions to the log-Minkowski problem that characterizes the\ncone-volume measures of $C$-coconvex sets. Our result solves an open problem\nraised by Schneider in [Schneider, Adv. Math., 332 (2018), pp. 199-219].",
+          "arxiv_id": "2204.00860v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Collapsed Ricci limit spaces as non-collapsed $RCD$ spaces",
+          "year": "2020-02",
+          "abstract": "In this short note we provide several conjectures on the regularity of\nmeasured Gromov-Hausdorff limit spaces of Riemannian manifolds with Ricci\ncurvature bounded below, from the point of view of the synthetic treatment of\nlower bounds on Ricci curvature for metric measure spaces.",
+          "arxiv_id": "2002.08612v3"
+        },
+        {
+          "title": "Rigidity and almost rigidity of Sobolev inequalities on compact spaces with lower Ricci curvature bounds",
+          "year": "2021-08",
+          "abstract": "We prove that if $M$ is a closed $n$-dimensional Riemannian manifold, $n \\ge\n3$, with ${\\rm Ric}\\ge n-1$ and for which the optimal constant in the critical\nSobolev inequality equals the one of the $n$-dimensional sphere $\\mathbb{S}^n$,\nthen $M$ is isometric to $\\mathbb{S}^n$. An almost-rigidity result is also\nestablished, saying that if equality is almost achieved, then $M$ is close in\nthe measure Gromov-Hausdorff sense to a spherical suspension. These statements\nare obtained in the ${\\rm RCD}$-setting of (possibly non-smooth) metric measure\nspaces satisfying synthetic lower Ricci curvature bounds.\n  An independent result of our analysis is the characterization of the best\nconstant in the Sobolev inequality on any compact ${\\rm CD}$ space, extending\nto the non-smooth setting a classical result by Aubin. Our arguments are based\non a new concentration compactness result for mGH-converging sequences of ${\\rm\nRCD}$ spaces and on a Polya-Szego inequality of Euclidean-type in ${\\rm CD}$\nspaces.\n  As an application of the technical tools developed we prove both an existence\nresult for the Yamabe equation and the continuity of the generalized Yamabe\nconstant under measure Gromov-Hausdorff convergence, in the ${\\rm\nRCD}$-setting.",
+          "arxiv_id": "2108.02135v2"
+        },
+        {
+          "title": "Weak Laplacian bounds and minimal boundaries in non-smooth spaces with Ricci curvature lower bounds",
+          "year": "2021-07",
+          "abstract": "The goal of the paper is four-fold. In the setting of non-smooth spaces with\nRicci curvature lower bounds (more precisely RCD(K,N) metric measure spaces):\n  - we develop an intrinsic theory of Laplacian bounds in viscosity sense and\nin a pointwise, heat flow related, sense, showing their equivalence also with\nLaplacian bounds in distributional sense;\n  - relying on these tools, we establish a PDE principle relating lower Ricci\ncurvature bounds to the preservation of Laplacian lower bounds under the\nevolution via the $p$-Hopf-Lax semigroup, for general exponents\n$p\\in[1,\\infty)$. This principle admits a broad range of applications, going\nmuch beyond the topic of the present paper;\n  - we prove sharp Laplacian bounds on the distance function from a set\n(locally) minimizing the perimeter with a flexible technique, not involving any\nregularity theory; this corresponds to vanishing mean curvature in the smooth\nsetting and encodes also information about the second variation of the area;\n  - we initiate a regularity theory for boundaries of sets (locally) minimizing\nthe perimeter, obtaining sharp dimension estimates for their singular sets,\nquantitative estimates of independent interest even in the smooth setting and\ntopological regularity away from the singular set.\n  The class of RCD(K,N) metric measure spaces includes as remarkable\nsub-classes: measured Gromov-Hausdorff limits of smooth manifolds with lower\nRicci curvature bounds and finite dimensional Alexandrov spaces with lower\nsectional curvature bounds. Most of the results are new also in these\nframeworks. Moreover, the tools that we develop here have applications to\nclassical questions in Geometric Analysis on smooth, non compact Riemannian\nmanifolds with lower Ricci curvature bounds.",
+          "arxiv_id": "2107.12344v3"
+        }
+      ],
+      "2": [
+        {
+          "title": "Generalised Erdős distance theory on graphs",
+          "year": "2025-05",
+          "abstract": "The famous Erd\\H{o}s distinct distances problem asks the following: how many\ndistinct distances must exist between a set of $n$ points in the plane? There\nare many generalisations of this question that ask one to consider different\nspaces and metrics, or larger structures of points. We bring these problems\ninto a common framework using the concept of $g$-rigidity. Specifically, if\n$G=(V,E)$ is a (hyper)graph, $g$ is a map assigning polynomial measurements to\nthe edges of $G$ and $f_{g,G}(P^V)$ gives the set of $g$-distinct realisations\nof the $g$-rigid graph $G$, where vertices must lie in a point set $P$, our\nmain results describe sharp lower bounds for the size of\n$\\big|f_{g,G}(P^V)\\big|$. This allows us to obtain results for pseudo-Euclidean\nmetrics, $\\ell_p$ metrics, dot-product problems, matrix completion problems,\nand symmetric tensor completion problems.\n  In addition, we use the recent work of Alon, Buci\\'c and Sauermann along with\na simple colouring argument to prove that the number of $\\| \\cdot\\|$-distinct\nrealisations of a graph $G=(V,E)$ within a $d$-dimensional point set $P$ is at\nleast $\\Omega\\left(\\frac{|P|^{|V|-1}}{(\\log |P|)^2} \\right)$ for almost all\n$d$-norms. Our methods here also provide a short proof that the unit distance\nconjecture implies the pinned distance conjecture.",
+          "arxiv_id": "2505.06590v1"
+        },
+        {
+          "title": "Distinct Angles and Angle Chains in Three Dimensions",
+          "year": "2022-08",
+          "abstract": "In 1946, Erd\\H{o}s posed the distinct distance problem, which seeks to find\nthe minimum number of distinct distances between pairs of points selected from\nany configuration of $n$ points in the plane. The problem has since been\nexplored along with many variants, including ones that extend it into higher\ndimensions. Less studied but no less intriguing is Erd\\H{o}s' distinct angle\nproblem, which seeks to find point configurations in the plane that minimize\nthe number of distinct angles. In their recent paper \"Distinct Angles in\nGeneral Position,\" Fleischmann, Konyagin, Miller, Palsson, Pesikoff, and Wolf\nuse a logarithmic spiral to establish an upper bound of $O(n^2)$ on the minimum\nnumber of distinct angles in the plane in general position, which prohibits\nthree points on any line or four on any circle.\n  We consider the question of distinct angles in three dimensions and provide\nbounds on the minimum number of distinct angles in general position in this\nsetting. We focus on pinned variants of the question, and we examine explicit\nconstructions of point configurations in $\\mathbb{R}^3$ which use\nself-similarity to minimize the number of distinct angles. Furthermore, we\nstudy a variant of the distinct angles question regarding distinct angle chains\nand provide bounds on the minimum number of distinct chains in $\\mathbb{R}^2$\nand $\\mathbb{R}^3$.",
+          "arxiv_id": "2208.13284v3"
+        },
+        {
+          "title": "Unit and distinct distances in typical norms",
+          "year": "2023-02",
+          "abstract": "Erd\\H{o}s' unit distance problem and Erd\\H{o}s' distinct distances problem\nare among the most classical and well-known open problems in discrete\nmathematics. They ask for the maximum number of unit distances, or the minimum\nnumber of distinct distances, respectively, determined by $n$ points in the\nEuclidean plane. The question of what happens in these problems if one\nconsiders normed spaces other than the Euclidean plane has been raised in the\n1980s by Ulam and Erd\\H{o}s and attracted a lot of attention over the years. We\ngive an essentially tight answer to both questions for almost all norms on\n$\\mathbb{R}^d$, in a certain Baire categoric sense.\n  For the unit distance problem we prove that for almost all norms $\\|.\\|$ on\n$\\mathbb{R}^d$, any set of $n$ points defines at most $\\frac{1}{2} d \\cdot n\n\\log_2 n$ unit distances according to $\\|.\\|$. We also show that this is\nessentially tight, by proving that for every norm $\\|.\\|$ on $\\mathbb{R}^d$,\nfor any large $n$, we can find $n$ points defining at least\n$\\frac{1}{2}(d-1-o(1))\\cdot n \\log_2 n$ unit distances according to $\\|.\\|$.\n  For the distinct distances problem, we prove that for almost all norms\n$\\|.\\|$ on $\\mathbb{R}^d$ any set of $n$ points defines at least $(1-o(1))n$\ndistinct distances according to $\\|.\\|$. This is clearly tight up to the $o(1)$\nterm.\n  We also answer the famous Hadwiger--Nelson problem for almost all norms on\n$\\mathbb{R}^2$, showing that their unit distance graph has chromatic number\n$4$.\n  Our results settle, in a strong and somewhat surprising form, problems and\nconjectures of Brass, Matou\\v{s}ek, Brass-Moser-Pach, Chilakamarri, and\nRobertson. The proofs combine combinatorial and geometric ideas with tools from\nLinear Algebra, Topology and Algebraic Geometry.",
+          "arxiv_id": "2302.09058v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Cyclic hyperbolicity in CAT(0) cube complexes",
+          "year": "2021-09",
+          "abstract": "It is known that a cocompact special group $G$ does not contain $\\mathbb{Z}\n\\times \\mathbb{Z}$ if and only if it is hyperbolic; and it does not contain\n$\\mathbb{F}_2 \\times \\mathbb{Z}$ if and only if it is toric relatively\nhyperbolic. Pursuing in this direction, we show that $G$ does not contain\n$\\mathbb{F}_2 \\times \\mathbb{F}_2$ if and only if it is weakly hyperbolic\nrelative to cyclic subgroups, or cyclically hyperbolic for short. This\nobservation motivates the study of cyclically hyperbolic groups, which we\ninitiate in the class of groups acting geometrically on CAT(0) cube complexes.\nGiven such a group $G$, we first prove a structure theorem: $G$ virtually\nsplits as the direct sum of a free abelian group and an acylindrically\nhyperbolic cubulable group. Next, we prove a strong Tits alternative: every\nsubgroup $H \\leq G$ either is virtually abelian or it admits a series $H=H_0\n\\rhd H_1 \\rhd \\cdots \\rhd H_k$ where $H_k$ is acylindrically hyperbolic and\nwhere $H_i/H_{i+1}$ is finite or free abelian. As a consequence, $G$ is\nSQ-universal and it cannot contain subgroups such that products of free groups\nand virtually simple groups.",
+          "arxiv_id": "2109.07186v3"
+        },
+        {
+          "title": "Rotation groups, mediangle graphs, and periagroups: a unified point of view on Coxeter groups and graph products of groups",
+          "year": "2022-12",
+          "abstract": "In this article, we introduce rotation groups as a common generalisation of\nCoxeter groups and graph products of groups (including right-angled Artin\ngroups). We characterise algebraically these groups by presentations\n(periagroups) and we propose a combinatorial geometry (mediangle graphs) to\nstudy them. As an application, we give natural and unified proofs for several\nresults that hold for both Coxeter groups and graph products of groups.",
+          "arxiv_id": "2212.06421v1"
+        },
+        {
+          "title": "CAT(0) and cubulated Shephard groups",
+          "year": "2023-10",
+          "abstract": "Shephard groups are common generalizations of Coxeter groups, Artin groups,\nand graph products of cyclic groups. Their definition is similar to that of a\nCoxeter group, but generators may have arbitrary order rather than strictly\norder 2. We extend a well known result that Coxeter groups are\n$\\mathrm{CAT}(0)$ to a class of Shephard groups that have \"enough\" finite\nparabolic subgroups. We also show that in this setting, if the associated\nCoxeter group is type (FC), then the Shephard group acts properly and\ncocompactly on a $\\mathrm{CAT}(0)$ cube complex. As part of our proof of the\nformer result, we introduce a new criteria for a complex made of $A_3$\nsimplices to be $\\mathrm{CAT}(1)$.",
+          "arxiv_id": "2310.10883v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Intermediate dimensions of infinitely generated attractors",
+          "year": "2021-04",
+          "abstract": "We study the dimension theory of limit sets of iterated function systems\nconsisting of a countably infinite number of contractions. Our primary focus is\non the intermediate dimensions: a family of dimensions depending on a parameter\n$\\theta \\in [0,1]$ which interpolate between the Hausdorff and box dimensions.\nOur main results are in the case when all the contractions are conformal. Under\na natural separation condition we prove that the intermediate dimensions of the\nlimit set are the maximum of the Hausdorff dimension of the limit set and the\nintermediate dimensions of the set of fixed points of the contractions. This\nbuilds on work of Mauldin and Urba\\'nski concerning the Hausdorff and upper box\ndimension. We give several (often counter-intuitive) applications of our work\nto dimensions of projections, fractional Brownian images, and general H\\\"older\nimages. These applications apply to well-studied examples such as sets of\nnumbers which have real or complex continued fraction expansions with\nrestricted entries.\n  We also obtain several results without assuming conformality or any\nseparation conditions. We prove general upper bounds for the Hausdorff, box and\nintermediate dimensions of infinitely generated attractors in terms of a\ntopological pressure function. We also show that the limit set of a 'generic'\ninfinite iterated function system has box and intermediate dimensions equal to\nthe ambient spatial dimension, where 'generic' can mean either 'full measure'\nor 'comeagre.'",
+          "arxiv_id": "2104.15133v4"
+        },
+        {
+          "title": "Intermediate dimensions of Moran sets and their visualization",
+          "year": "2024-09",
+          "abstract": "Intermediate dimensions are a class of new fractal dimensions which provide a\nspectrum of dimensions interpolating between the Hausdorff and box-counting\ndimensions.\n  In this paper, we study the intermediate dimensions of Moran sets. Moran sets\nmay be regarded as a generalization of self-similar sets generated by using\ndifferent class of similar mappings at each level with unfixed translations,\nand this causes the lack of ergodic properties on Moran set. Therefore, the\nintermediate dimensions do not necessarily exist, and we calculate the upper\nand lower intermediate dimensions of Moran sets. In particular, we obtain a\nsimplified intermediate dimension formula for homogeneous Moran sets. Moreover,\nwe study the visualization of the upper intermediate dimensions for some\nhomogeneous Moran sets, and we show that their upper intermediate dimensions\nare given by Mobius transformations.",
+          "arxiv_id": "2409.06186v1"
+        },
+        {
+          "title": "Interpolating between Hausdorff and box dimension",
+          "year": "2024-06",
+          "abstract": "Hausdorff and box dimension are two familiar notions of fractal dimension.\nBox dimension can be larger than Hausdorff dimension, because in the definition\nof box dimension, all sets in the cover have the same diameter, but for\nHausdorff dimension there is no such restriction. This thesis focuses on a\nfamily of dimensions parameterised by $\\theta \\in (0,1)$, called the\nintermediate dimensions, which are defined by requiring that $\\mbox{diam}(U)\n\\leq (\\mbox{diam}(V))^{\\theta}$ for all sets $U,V$ in the cover.\n  We begin by generalising the intermediate dimensions to allow for greater\nrefinement in how the relative sizes of the covering sets are restricted. These\nnew dimensions can recover the interpolation between Hausdorff and box\ndimension for compact sets whose intermediate dimensions do not tend to the\nHausdorff dimension as $\\theta \\to 0$. We also use a Moran set construction to\nprove a necessary and sufficient condition, in terms of Dini derivatives, for a\ngiven function to be realised as the intermediate dimensions of a set.\n  We proceed to prove that the intermediate dimensions of limit sets of\ninfinite conformal iterated function systems are given by the maximum of the\nHausdorff dimension of the limit set and the intermediate dimensions of the set\nof fixed points of the contractions. This applies to sets defined using\ncontinued fraction expansions, and has applications to dimensions of\nprojections, fractional Brownian images, and general H\\\"older images.\n  Finally, we determine a formula for the intermediate dimensions of all\nself-affine Bedford-McMullen carpets. The functions display features not\nwitnessed in previous examples, such as having countably many phase\ntransitions. We deduce that two carpets have equal intermediate dimensions if\nand only if the multifractal spectra of the corresponding uniform Bernoulli\nmeasures coincide.",
+          "arxiv_id": "2406.07527v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Multiple Packing: Lower Bounds via Infinite Constellations",
+          "year": "2022-11",
+          "abstract": "We study the problem of high-dimensional multiple packing in Euclidean space.\nMultiple packing is a natural generalization of sphere packing and is defined\nas follows. Let $ N>0 $ and $ L\\in\\mathbb{Z}_{\\ge2} $. A multiple packing is a\nset $\\mathcal{C}$ of points in $ \\mathbb{R}^n $ such that any point in $\n\\mathbb{R}^n $ lies in the intersection of at most $ L-1 $ balls of radius $\n\\sqrt{nN} $ around points in $ \\mathcal{C} $. Given a well-known connection\nwith coding theory, multiple packings can be viewed as the Euclidean analog of\nlist-decodable codes, which are well-studied for finite fields. In this paper,\nwe derive the best known lower bounds on the optimal density of list-decodable\ninfinite constellations for constant $L$ under a stronger notion called\naverage-radius multiple packing. To this end, we apply tools from\nhigh-dimensional geometry and large deviation theory.",
+          "arxiv_id": "2211.04407v2"
+        },
+        {
+          "title": "Bounds for Multiple Packing and List-Decoding Error Exponents",
+          "year": "2021-07",
+          "abstract": "We revisit the problem of high-dimensional multiple packing in Euclidean\nspace. Multiple packing is a natural generalization of sphere packing and is\ndefined as follows. Let $ N>0 $ and $ L\\in\\mathbb{Z}_{\\ge2} $. A multiple\npacking is a set $\\mathcal{C}$ of points in $ \\mathbb{R}^n $ such that any\npoint in $ \\mathbb{R}^n $ lies in the intersection of at most $ L-1 $ balls of\nradius $ \\sqrt{nN} $ around points in $ \\mathcal{C} $. We study the multiple\npacking problem for both bounded point sets whose points have norm at most\n$\\sqrt{nP}$ for some constant $P>0$ and unbounded point sets whose points are\nallowed to be anywhere in $ \\mathbb{R}^n $. Given a well-known connection with\ncoding theory, multiple packings can be viewed as the Euclidean analog of\nlist-decodable codes, which are well-studied for finite fields. In this paper,\nwe derive various bounds on the largest possible density of a multiple packing\nin both bounded and unbounded settings. A related notion called average-radius\nmultiple packing is also studied. Some of our lower bounds exactly pin down the\nasymptotics of certain ensembles of average-radius list-decodable codes, e.g.,\n(expurgated) Gaussian codes and (expurgated) Poisson Point Processes. To this\nend, we apply tools from high-dimensional geometry and large deviation theory.\nSome of our lower bounds on the optimal multiple packing density are the best\nknown lower bounds. These bounds are obtained via a proxy known as error\nexponent. The latter quantity is the best exponent of the probability of\nlist-decoding error when the code is corrupted by a Gaussian noise. We\nestablish a curious inequality which relates the error exponent, a quantity of\naverage-case nature, to the list-decoding radius, a quantity of worst-case\nnature. We derive various bounds on the error exponent in both bounded and\nunbounded settings which are of independent interest beyond multiple packing.",
+          "arxiv_id": "2107.05161v2"
+        },
+        {
+          "title": "Multiple Packing: Lower and Upper Bounds",
+          "year": "2022-11",
+          "abstract": "We study the problem of high-dimensional multiple packing in Euclidean space.\nMultiple packing is a natural generalization of sphere packing and is defined\nas follows. Let $ N>0 $ and $ L\\in\\mathbb{Z}_{\\ge2} $. A multiple packing is a\nset $\\mathcal{C}$ of points in $ \\mathbb{R}^n $ such that any point in $\n\\mathbb{R}^n $ lies in the intersection of at most $ L-1 $ balls of radius $\n\\sqrt{nN} $ around points in $ \\mathcal{C} $. We study the multiple packing\nproblem for both bounded point sets whose points have norm at most $\\sqrt{nP}$\nfor some constant $P>0$ and unbounded point sets whose points are allowed to be\nanywhere in $ \\mathbb{R}^n $. Given a well-known connection with coding theory,\nmultiple packings can be viewed as the Euclidean analog of list-decodable\ncodes, which are well-studied for finite fields. In this paper, we derive\nvarious bounds on the largest possible density of a multiple packing in both\nbounded and unbounded settings. A related notion called average-radius multiple\npacking is also studied. Some of our lower bounds exactly pin down the\nasymptotics of certain ensembles of average-radius list-decodable codes, e.g.,\n(expurgated) Gaussian codes and (expurgated) spherical codes. In particular,\nour lower bound obtained from spherical codes is the best known lower bound on\nthe optimal multiple packing density and is the first lower bound that\napproaches the known large $L$ limit under the average-radius notion of\nmultiple packing. To derive these results, we apply tools from high-dimensional\ngeometry and large deviation theory.",
+          "arxiv_id": "2211.04406v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Integrability of orthogonal projections, and applications to Furstenberg sets",
+          "year": "2021-07",
+          "abstract": "Let $\\mathcal{G}(d,n)$ be the Grassmannian manifold of $n$-dimensional\nsubspaces of $\\mathbb{R}^{d}$, and let $\\pi_{V} \\colon \\mathbb{R}^{d} \\to V$ be\nthe orthogonal projection. We prove that if $\\mu$ is a compactly supported\nRadon measure on $\\mathbb{R}^{d}$ satisfying the $s$-dimensional Frostman\ncondition $\\mu(B(x,r)) \\leq Cr^{s}$ for all $x \\in \\mathbb{R}^{d}$ and $r > 0$,\nthen $$\\int_{\\mathcal{G}(d,n)} \\|\\pi_{V}\\mu\\|_{L^{p}(V)}^{p} \\,\nd\\gamma_{d,n}(V) < \\infty, \\qquad 1 \\leq p < \\frac{2d - n - s}{d - s}.$$ The\nupper bound for $p$ is sharp, at least, for $d - 1 \\leq s \\leq d$, and every $0\n< n < d$.\n  Our motivation for this question comes from finding improved lower bounds on\nthe Hausdorff dimension of $(s,t)$-Furstenberg sets. For $0 \\leq s \\leq 1$ and\n$0 \\leq t \\leq 2$, a set $K \\subset \\mathbb{R}^{2}$ is called an\n$(s,t)$-Furstenberg set if there exists a $t$-dimensional family $\\mathcal{L}$\nof affine lines in $\\mathbb{R}^{2}$ such that $\\dim_{\\mathrm{H}} (K \\cap \\ell)\n\\geq s$ for all $\\ell \\in \\mathcal{L}$. As a consequence of our projection\ntheorem in $\\mathbb{R}^{2}$, we show that every $(s,t)$-Furstenberg set $K\n\\subset \\mathbb{R}^{2}$ with $1 < t \\leq 2$ satisfies $$\\dim_{\\mathrm{H}} K\n\\geq 2s + (1 - s)(t - 1).$$ This improves on previous bounds for pairs $(s,t)$\nwith $s > \\tfrac{1}{2}$ and $t \\geq 1 + \\epsilon$ for a small absolute constant\n$\\epsilon > 0$. We also prove a higher dimensional analogue of this estimate\nfor codimension-1 Furstenberg sets in $\\mathbb{R}^{d}$. As another corollary of\nour method, we obtain a $\\delta$-discretised sum-product estimate for\n$(\\delta,s)$-sets. Our bound improves on a previous estimate of Chen for every\n$\\tfrac{1}{2} < s < 1$, and also of Guth-Katz-Zahl for $s \\geq 0.5151$.",
+          "arxiv_id": "2107.04471v3"
+        },
+        {
+          "title": "Projections, Furstenberg sets, and the $ABC$ sum-product problem",
+          "year": "2023-01",
+          "abstract": "We make progress on several interrelated problems at the intersection of\ngeometric measure theory, additive combinatorics and harmonic analysis: the\ndiscretised sum-product problem, exceptional estimates for orthogonal\nprojections, and the dimension of Furstenberg sets.\n  We give a new proof of the following asymmetric sum-product theorem: Let\n$A,B,C \\subset \\mathbb{R}$ be Borel sets with $0 < {\\dim_{\\mathrm{H}}} B \\leq\n{\\dim_{\\mathrm{H}}} A < 1$ and ${\\dim_{\\mathrm{H}}} B + {\\dim_{\\mathrm{H}}} C >\n{\\dim_{\\mathrm{H}}} A$. Then, there exists $c \\in C$ such that\n$${\\dim_{\\mathrm{H}}} (A + cB) > {\\dim_{\\mathrm{H}}} A. $$ Here we only mention\nspecial cases of our results on projections and Furstenberg sets. We prove that\nevery $s$-Furstenberg set $F \\subset \\mathbb{R}^{2}$ has Hausdorff dimension $$\n{\\dim_{\\mathrm{H}}} F \\geq \\max\\{ 2s + (1 - s)^{2}/(2 - s), 1+s\\}.$$ We prove\nthat every $(s,t)$-Furstenberg set $F \\subset \\mathbb{R}^{2}$ associated with a\n$t$-Ahlfors-regular line set has $${\\dim_{\\mathrm{H}}} F \\geq \\min\\left\\{s +\nt,\\tfrac{3s + t}{2},s + 1\\right\\}.$$ Let $\\pi_{\\theta}$ denote projection onto\nthe line spanned by $\\theta\\in S^1$. We prove that if $K \\subset\n\\mathbb{R}^{2}$ is a Borel set with ${\\dim_{\\mathrm{H}}}(K)\\le 1$, then $$\n{\\dim_{\\mathrm{H}}} \\{\\theta \\in S^{1} : {\\dim_{\\mathrm{H}}} \\pi_{\\theta}(K) <\nu\\} \\leq \\max\\{ 2(2u - {\\dim_{\\mathrm{H}}} K),0\\}, $$ whenever $u \\leq\n{\\dim_{\\mathrm{H}}} K$, and the factor \"$2$\" on the right-hand side can be\nomitted if $K$ is Ahlfors-regular.",
+          "arxiv_id": "2301.10199v4"
+        },
+        {
+          "title": "On the Hausdorff dimension of Furstenberg sets and orthogonal projections in the plane",
+          "year": "2021-06",
+          "abstract": "Let $0 \\leq s \\leq 1$ and $0 \\leq t \\leq 2$. An $(s,t)$-Furstenberg set is a\nset $K \\subset \\mathbb{R}^{2}$ with the following property: there exists a line\nset $\\mathcal{L}$ of Hausdorff dimension $\\dim_{\\mathrm{H}} \\mathcal{L} \\geq t$\nsuch that $\\dim_{\\mathrm{H}} (K \\cap \\ell) \\geq s$ for all $\\ell \\in\n\\mathcal{L}$. We prove that for $s\\in (0,1)$, and $t \\in (s,2]$, the Hausdorff\ndimension of $(s,t)$-Furstenberg sets in $\\mathbb{R}^{2}$ is no smaller than\n$2s + \\epsilon$, where $\\epsilon > 0$ depends only on $s$ and $t$. For $s>1/2$\nand $t = 1$, this is an $\\epsilon$-improvement over a result of Wolff from\n1999.\n  The same method also yields an $\\epsilon$-improvement to Kaufman's projection\ntheorem from 1968. We show that if $s \\in (0,1)$, $t \\in (s,2]$ and $K \\subset\n\\mathbb{R}^{2}$ is an analytic set with $\\dim_{\\mathrm{H}} K = t$, then\n$$\\dim_{\\mathrm{H}} \\{e \\in S^{1} : \\dim_{\\mathrm{H}} \\pi_{e}(K) \\leq s\\} \\leq\ns - \\epsilon,$$ where $\\epsilon > 0$ only depends on $s$ and $t$. Here\n$\\pi_{e}$ is the orthogonal projection to $\\mathrm{span}(e)$.",
+          "arxiv_id": "2106.03338v3"
+        }
+      ],
+      "7": [
+        {
+          "title": "Weak Carleson conditions in uniformly rectifiable metric spaces: the WCD and alpha numbers",
+          "year": "2024-03",
+          "abstract": "We investigate characterizations of uniformly rectifiable (UR) metric spaces\nby so-called weak Carleson conditions for flatness coefficients which measure\nthe extent to which Hausdorff measure on the metric space differs from\nHausdorff measure on a normed space. First, we show that UR metric spaces\nsatisfy David and Semmes's weak constant density condition, a quantitative\nregularity property which implies most balls in the space support a measure\nwith nearly constant density in a neighborhood of scales and locations. Second,\nwe introduce a metric space variant of Tolsa's alpha numbers that measure a\nlocal normalized $L_1$ mass transport cost between the space's Hausdorff\nmeasure and Hausdorff measure on a normed space. We show that a weak Carleson\ncondition for these alpha numbers gives a characterization of metric uniform\nrectifiability. We derive both results as corollaries of a more general\nabstract result which gives a tool for transferring weak Carleson conditions to\nspaces with very big pieces of spaces with a given weak Carleson condition.",
+          "arxiv_id": "2403.14479v3"
+        },
+        {
+          "title": "Typical Lipschitz images of rectifiable metric spaces",
+          "year": "2023-06",
+          "abstract": "This article studies typical 1-Lipschitz images of $n$-rectifiable metric\nspaces $E$ into $\\mathbb{R}^m$ for $m\\geq n$. For example, if $E\\subset\n\\mathbb{R}^k$, we show that the Jacobian of such a typical 1-Lipschitz map\nequals 1 $\\mathcal{H}^n$-almost everywhere and, if $m>n$, preserves the\nHausdorff measure of $E$. In general, we provide sufficient conditions, in\nterms of the tangent norms of $E$, for when a typical 1-Lipschitz map preserves\nthe Hausdorff measure of $E$, up to some constant multiple. Almost optimal\nresults for strongly $n$-rectifiable metric spaces are obtained.\n  On the other hand, for any norm $|\\cdot|$ on $\\mathbb{R}^m$, we show that, in\nthe space of 1-Lipschitz functions from $([-1,1]^n,|\\cdot|_\\infty)$ to\n$(\\mathbb{R}^m,|\\cdot|)$, the $\\mathcal{H}^n$-measure of a typical image is not\nbounded below by any $\\Delta>0$.",
+          "arxiv_id": "2306.07943v3"
+        },
+        {
+          "title": "Connections between metric differentiability and rectifiability",
+          "year": "2024-03",
+          "abstract": "We combine Kirchheim's metric differentials with Cheeger charts in order to\nestablish a non-embeddability principle for any collection $\\mathcal C$ of\nBanach (or metric) spaces: if a metric measure space $X$ bi-Lipschitz embeds in\nsome element in $\\mathcal C$, and if every Lipschitz map $X\\to Y\\in \\mathcal C$\nis differentiable, then $X$ is rectifiable. This gives a simple proof of the\nrectifiability of Lipschitz differentiability spaces that are bi-Lipschitz\nembeddable in Euclidean space, due to Kell--Mondino. Our principle also implies\na converse to Kirchheim's theorem: if all Lipschitz maps from a domain space to\narbitrary targets are metrically differentiable, the domain is rectifiable. We\nmoreover establish the compatibility of metric and w$^*$-differentials of maps\nfrom metric spaces in the spirit of Ambrosio--Kirchheim.",
+          "arxiv_id": "2403.18440v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "Lah distribution: Stirling numbers, records on compositions, and convex hulls of high-dimensional random walks",
+          "year": "2021-05",
+          "abstract": "Let $\\xi_1,\\xi_2,\\ldots$ be a sequence of independent copies of a random\nvector in $\\mathbb R^d$ having an absolutely continuous distribution. Consider\na random walk $S_i:=\\xi_1+\\cdots+\\xi_i$, and let\n$C_{n,d}:=\\text{conv}(0,S_1,S_2,\\ldots,S_n)$ be the convex hull of the first\n$n+1$ points it has visited. The polytope $C_{n,d}$ is called $k$-neighborly if\nfor every indices $0\\leq i_0 <\\cdots < i_k\\leq n$ the convex hull of the $k+1$\npoints $S_{i_0},\\ldots, S_{i_k}$ is a $k$-dimensional face of $C_{n,d}$. We\nstudy the probability that $C_{n,d}$ is $k$-neighborly in various\nhigh-dimensional asymptotic regimes, i.e. when $n$, $d$, and possibly also $k$\ndiverge to $\\infty$. There is an explicit formula for the expected number of\n$k$-dimensional faces of $C_{n,d}$ which involves Stirling numbers of both\nkinds. Motivated by this formula, we introduce a distribution, called the Lah\ndistribution, and study its properties. In particular, we provide a\ncombinatorial interpretation of the Lah distribution in terms of random\ncompositions and records, and explicitly compute its factorial moments. Limit\ntheorems which we prove for the Lah distribution imply neighborliness\nproperties of $C_{n,d}$. This yields a new class of random polytopes exhibiting\nphase transitions parallel to those discovered by Vershik and Sporyshev, Donoho\nand Tanner for random projections of regular simplices and crosspolytopes.",
+          "arxiv_id": "2105.11365v2"
+        },
+        {
+          "title": "Threshold phenomena for random cones",
+          "year": "2020-04",
+          "abstract": "We consider an even probability distribution on the $d$-dimensional Euclidean\nspace with the property that it assigns measure zero to any hyperplane through\nthe origin. Given $N$ independent random vectors with this distribution, under\nthe condition that they do not positively span the whole space, the positive\nhull of these vectors is a random polyhedral cone (and its intersection with\nthe unit sphere is a random spherical polytope). It was first studied by Cover\nand Efron. We consider the expected face numbers of these random cones and\ndescribe a threshold phenomenon when the dimension $d$ and the number $N$ of\nrandom vectors tend to infinity. In a similar way, we treat the solid angle,\nand more generally the Grassmann angles. We further consider the expected\nnumbers of $k$-faces and of Grassmann angles of index $d-k$ when also $k$ tends\nto infinity.",
+          "arxiv_id": "2004.11473v2"
+        },
+        {
+          "title": "Random cones in high dimensions I: Donoho-Tanner and Cover-Efron cones",
+          "year": "2020-12",
+          "abstract": "Two models of random cones in high dimensions are considered, together with\ntheir duals. The Donoho-Tanner random cone $D_{n,d}$ can be defined as the\npositive hull of $n$ independent $d$-dimensional Gaussian random vectors. The\nCover-Efron random cone $C_{n,d}$ is essentially defined as the same positive\nhull, conditioned on the event that it is not the whole space. We consider\nexpectations of various combinatorial and geometric functionals of these random\ncones and prove that they satisfy limit theorems, as $d$ and $n$ tend to\ninfinity in a suitably coordinated way. This includes, for example, large\ndeviation principles and central as well as non-central limit theorems for the\nexpected number of $k$-faces and the $k$-th conic intrinsic volumes, as $n$,\n$d$ and possibly also $k$ tend to infinity simultaneously. Furthermore, we\ndetermine the precise high-dimensional asymptotic behaviour of the expected\nstatistical dimension for both models of random cones, uncovering thereby\nanother high-dimensional phase transition. As an application, limit theorems\nfor the number of $k$-faces of high-dimensional polytopes generated by random\nGale diagrams are discussed as well.",
+          "arxiv_id": "2012.06189v2"
+        }
+      ],
+      "9": [
+        {
+          "title": "Neural Spacetimes for DAG Representation Learning",
+          "year": "2024-08",
+          "abstract": "We propose a class of trainable deep learning-based geometries called Neural\nSpacetimes (NSTs), which can universally represent nodes in weighted directed\nacyclic graphs (DAGs) as events in a spacetime manifold. While most works in\nthe literature focus on undirected graph representation learning or causality\nembedding separately, our differentiable geometry can encode both graph edge\nweights in its spatial dimensions and causality in the form of edge\ndirectionality in its temporal dimensions. We use a product manifold that\ncombines a quasi-metric (for space) and a partial order (for time). NSTs are\nimplemented as three neural networks trained in an end-to-end manner: an\nembedding network, which learns to optimize the location of nodes as events in\nthe spacetime manifold, and two other networks that optimize the space and time\ngeometries in parallel, which we call a neural (quasi-)metric and a neural\npartial order, respectively. The latter two networks leverage recent ideas at\nthe intersection of fractal geometry and deep learning to shape the geometry of\nthe representation space in a data-driven fashion, unlike other works in the\nliterature that use fixed spacetime manifolds such as Minkowski space or De\nSitter space to embed DAGs. Our main theoretical guarantee is a universal\nembedding theorem, showing that any $k$-point DAG can be embedded into an NST\nwith $1+\\mathcal{O}(\\log(k))$ distortion while exactly preserving its causal\nstructure. The total number of parameters defining the NST is sub-cubic in $k$\nand linear in the width of the DAG. If the DAG has a planar Hasse diagram, this\nis improved to $\\mathcal{O}(\\log(k)) + 2)$ spatial and 2 temporal dimensions.\nWe validate our framework computationally with synthetic weighted DAGs and\nreal-world network embeddings; in both cases, the NSTs achieve lower embedding\ndistortions than their counterparts using fixed spacetime geometries.",
+          "arxiv_id": "2408.13885v2"
+        },
+        {
+          "title": "The Z-Gromov-Wasserstein Distance",
+          "year": "2024-08",
+          "abstract": "The Gromov-Wasserstein (GW) distance is a powerful tool for comparing metric\nmeasure spaces which has found broad applications in data science and machine\nlearning. Driven by the need to analyze datasets whose objects have\nincreasingly complex structure (such as node and edge-attributed graphs),\nseveral variants of GW distance have been introduced in the recent literature.\nWith a view toward establishing a general framework for the theory of GW-like\ndistances, this paper considers a vast generalization of the notion of a metric\nmeasure space: for an arbitrary metric space $Z$, we define a $Z$-network to be\na measure space endowed with a kernel valued in $Z$. We introduce a method for\ncomparing $Z$-networks by defining a generalization of GW distance, which we\nrefer to as $Z$-Gromov-Wasserstein ($Z$-GW) distance. This construction\nsubsumes many previously known metrics and offers a unified approach to\nunderstanding their shared properties. This paper demonstrates that the $Z$-GW\ndistance defines a metric on the space of $Z$-networks which retains desirable\nproperties of $Z$, such as separability, completeness, and geodesicity. Many of\nthese properties were unknown for existing variants of GW distance that fall\nunder our framework. Our focus is on foundational theory, but our results also\ninclude computable lower bounds and approximations of the distance which will\nbe useful for practical applications.",
+          "arxiv_id": "2408.08233v3"
+        },
+        {
+          "title": "Geometry of the Space of Partitioned Networks: A Unified Theoretical and Computational Framework",
+          "year": "2024-09",
+          "abstract": "Interactions and relations between objects may be pairwise or higher-order in\nnature, and so network-valued data are ubiquitous in the real world. The \"space\nof networks\", however, has a complex structure that cannot be adequately\ndescribed using conventional statistical tools. We introduce a\nmeasure-theoretic formalism for modeling generalized network structures such as\ngraphs, hypergraphs, or graphs whose nodes come with a partition into\ncategorical classes. We then propose a metric that extends the\nGromov-Wasserstein distance between graphs and the co-optimal transport\ndistance between hypergraphs. We characterize the geometry of this space,\nthereby providing a unified theoretical treatment of generalized networks that\nencompasses the cases of pairwise, as well as higher-order, relations. In\nparticular, we show that our metric is an Alexandrov space of non-negative\ncurvature, and leverage this structure to define gradients for certain\nfunctionals commonly arising in geometric data analysis tasks. We extend our\nanalysis to the setting where vertices have additional label information, and\nderive efficient computational schemes to use in practice. Equipped with these\ntheoretical and computational tools, we demonstrate the utility of our\nframework in a suite of applications, including hypergraph alignment,\nclustering and dictionary learning from ensemble data, multi-omics alignment,\nas well as multiscale network alignment.",
+          "arxiv_id": "2409.06302v2"
+        }
+      ],
+      "10": [
+        {
+          "title": "Minimally globally rigid graphs",
+          "year": "2022-02",
+          "abstract": "A graph $G = (V,E)$ is globally rigid in $\\mathbb{R}^d$ if for any generic\nplacement $p : V \\rightarrow \\mathbb{R}^d$ of the vertices, the edge lengths\n$||p(u) - p(v)||, uv \\in E$ uniquely determine $p$, up to congruence. In this\npaper we consider minimally globally rigid graphs, in which the deletion of an\narbitrary edge destroys global rigidity. We prove that if $G=(V,E)$ is\nminimally globally rigid in $\\mathbb{R}^d$ on at least $d+2$ vertices, then\n$|E|\\leq (d+1)|V|-\\binom{d+2}{2}$. This implies that the minimum degree of $G$\nis at most $2d+1$. We also show that the only graph in which the upper bound on\nthe number of edges is attained is the complete graph $K_{d+2}$. It follows\nthat every minimally globally rigid graph in $\\mathbb{R}^d$ on at least $d+3$\nvertices is flexible in $\\mathbb{R}^{d+1}$. As a counterpart to our main result\non the sparsity of minimally globally rigid graphs, we show that in two\ndimensions, dense graphs always contain nontrivial globally rigid subgraphs.\nMore precisely, if some graph $G=(V,E)$ satisfies $|E|\\geq 5|V|$, then $G$\ncontains a subgraph on at least seven vertices that is globally rigid in\n$\\mathbb{R}^2$. If the well-known \"sufficient connectivity conjecture\" is true,\nthen our methods also extend to higher dimensions. Finally, we discuss a\nconjectured strengthening of our main result, which states that if a pair of\nvertices $\\{u,v\\}$ is linked in $G$ in $\\mathbb{R}^{d+1}$, then $\\{u,v\\}$ is\nglobally linked in $G$ in $\\mathbb{R}^d$. We prove this conjecture in the\n$d=1,2$ cases, along with a variety of related results.",
+          "arxiv_id": "2202.11617v2"
+        },
+        {
+          "title": "Partial reflections and globally linked pairs in rigid graphs",
+          "year": "2023-05",
+          "abstract": "A $d$-dimensional framework is a pair $(G,p)$, where $G$ is a graph and $p$\nmaps the vertices of $G$ to points in $\\mathbb{R}^d$. The edges of $G$ are\nmapped to the corresponding line segments. A graph $G$ is said to be globally\nrigid in $\\mathbb{R}^d$ if every generic $d$-dimensional framework $(G,p)$ is\ndetermined, up to congruence, by its edge lengths. A finer property is global\nlinkedness: we say that a vertex pair $\\{u,v\\}$ of $G$ is globally linked in\n$G$ in $\\mathbb{R}^d$ if in every generic $d$-dimensional framework $(G,p)$ the\ndistance of $u$ and $v$ is uniquely determined by the edge lengths.\n  In this paper we investigate globally linked pairs in graphs in\n$\\mathbb{R}^d$. We give several characterizations of those rigid graphs $G$ in\nwhich a pair $\\{u,v\\}$ is globally linked if and only if there exist $d+1$\ninternally disjoint paths from $u$ to $v$ in $G$. We call these graphs\n$d$-joined. Among others, we show that $G$ is $d$-joined if and only if for\neach pair of generic frameworks of $G$ with the same edge lengths, one can be\nobtained from the other by a sequence of partial reflections along hyperplanes\ndetermined by $d$-separators of $G$. We also show that the family of $d$-joined\ngraphs is closed under edge addition, as well as under gluing along $d$ or more\nvertices. As a key ingredient to our main results, we prove that rigid graphs\nin $\\mathbb{R}^d$ contain no crossing $d$-separators.\n  Our results give rise to new families of graphs for which global linkedness\n(and global rigidity) in $\\mathbb{R}^d$ can be tested in polynomial time.",
+          "arxiv_id": "2305.03412v2"
+        },
+        {
+          "title": "Uniquely realisable graphs in polyhedral normed spaces",
+          "year": "2025-04",
+          "abstract": "A framework (a straight-line embedding of a graph into a normed space\nallowing edges to cross) is globally rigid if any other framework with the same\nedge lengths with respect to the chosen norm is an isometric copy. We\ninvestigate global rigidity in polyhedral normed spaces: normed spaces where\nthe unit ball is a polytope. We first provide a deterministic algorithm for\nchecking whether or not a framework in a polyhedral normed space is globally\nrigid. After showing that determining if a framework is globally rigid is\nNP-Hard, we then provide necessary conditions for global rigidity for generic\nframeworks. We obtain stronger results for generic frameworks in\n$\\ell_\\infty^d$ (the vector space $\\mathbb{R}^d$ equipped with the\n$\\ell_\\infty$ metric) including an exact characterisation of global rigidity\nwhen $d=2$, and an easily-computable sufficient condition for global rigidity\nusing edge colourings. Our 2-dimensional characterisation also has a surprising\nconsequence: Hendrickson's global rigidity condition fails for generic\nframeworks in $\\ell_\\infty^2$.",
+          "arxiv_id": "2504.02139v1"
+        }
+      ],
+      "11": [
+        {
+          "title": "The Bernstein problem for $(X,Y)$-Lipschitz surfaces in three-dimensional sub-Finsler Heisenberg groups",
+          "year": "2021-05",
+          "abstract": "We prove that in the Heisenberg group $\\mathbb{H}^1$ with a sub-Finsler\nstructure, an $(X,Y)$-Lipschitz surface which is complete, oriented, connected\nand stable must be a vertical plane. In particular, the result holds for entire\nintrinsic graphs of Euclidean Lipschitz functions.",
+          "arxiv_id": "2105.02179v3"
+        },
+        {
+          "title": "Extensions and corona decompositions of low-dimensional intrinsic Lipschitz graphs in Heisenberg groups",
+          "year": "2020-12",
+          "abstract": "This note concerns low-dimensional intrinsic Lipschitz graphs, in the sense\nof Franchi, Serapioni, and Serra Cassano, in the Heisenberg group\n$\\mathbb{H}^n$, $n\\in \\mathbb{N}$. For $1\\leq k\\leq n$, we show that every\nintrinsic $L$-Lipschitz graph over a subset of a $k$-dimensional horizontal\nsubgroup $\\mathbb{V}$ of $\\mathbb{H}^n$ can be extended to an intrinsic\n$L'$-Lipschitz graph over the entire subgroup $\\mathbb{V}$, where $L'$ depends\nonly on $L$, $k$, and $n$. We further prove that $1$-dimensional intrinsic\n$1$-Lipschitz graphs in $\\mathbb{H}^n$, $n\\in \\mathbb{N}$, admit corona\ndecompositions by intrinsic Lipschitz graphs with smaller Lipschitz constants.\nThis complements results that were known previously only in the first\nHeisenberg group $\\mathbb{H}^1$. The main difference to this case arises from\nthe fact that for $1\\leq k<n$, the complementary vertical subgroups of\n$k$-dimensional horizontal subgroups in $\\mathbb{H}^n$ are not commutative.",
+          "arxiv_id": "2012.12609v2"
+        },
+        {
+          "title": "Lipschitz graphs and currents in Heisenberg groups",
+          "year": "2020-07",
+          "abstract": "The main result of the present paper is a Rademacher-type theorem for\nintrinsic Lipschitz graphs of codimension $k\\leq n$ in sub-Riemannian\nHeisenberg groups $\\mathbb H^n$. For the purpose of proving such a result we\nsettle several related questions pertaining both to the theory of intrinsic\nLipschitz graphs and to the one of currents. First, we prove an extension\nresult for intrinsic Lipschitz graphs as well as a uniform approximation\ntheorem by means of smooth graphs: these results stem both from a new\ndefinition (equivalent to the one introduced by F. Franchi, R. Serapioni and F.\nSerra Cassano) of intrinsic Lipschitz graphs and are valid for a more general\nclass of intrinsic Lipschitz graphs in Carnot groups. Second, our proof of\nRademacher's Theorem heavily uses the language of currents in Heisenberg\ngroups: one key result is, for us, a version of the celebrated Constancy\nTheorem. Inasmuch as Heisenberg currents are defined in terms of Rumin's\ncomplex of differential forms, we also provide a convenient basis of Rumin's\nspaces. Eventually, we provide some applications of Rademacher's Theorem\nincluding a Lusin-type result for intrinsic Lipschitz graphs, the equivalence\nbetween $\\mathbb H$-rectifiability and ``Lipschitz'' $\\mathbb\nH$-rectifiability, and an area formula for intrinsic Lipschitz graphs in\nHeisenberg groups.",
+          "arxiv_id": "2007.14286v1"
+        }
+      ],
+      "12": [
+        {
+          "title": "Relating asymptotic dimension to Ponomarev's cofinal dimension via coarse proximities",
+          "year": "2022-05",
+          "abstract": "In this paper we show that the asymptotic dimension of an unbounded proper\nmetric space is bounded above by a coarse analog of Ponomarev's cofinal\ndimension of topological spaces, which we call the coarse cofinal dimension. We\nalso show that asymptotic dimension is bounded below by the cofinal dimension\nof the Higson corona by existing results of Miyata, Austin, and Virk. We do\nthis by introducing several constructions in the theory of coarse proximity\nspaces. In particular we introduce the inverse limit of coarse proximity\nspaces. We end with some open problems.",
+          "arxiv_id": "2205.08238v1"
+        },
+        {
+          "title": "Coarse entropy of metric spaces",
+          "year": "2021-09",
+          "abstract": "Coarse geometry studies metric spaces on the large scale. The recently\nintroduced notion of coarse entropy is a tool to study dynamics from the coarse\npoint of view. We prove that all isometries of a given metric space have the\nsame coarse entropy and that this value is a coarse invariant. We call this\nvalue the coarse entropy of the space and investigate its connections with\nother properties of the space. We prove that it can only be either zero or\ninfinity, and although for many spaces this dichotomy coincides with the\nsubexponential--exponential growth dichotomy, there is no relation between\ncoarse entropy and volume growth more generally. We completely characterise\nthis dichotomy for spaces with bounded geometry and for quasi-geodesic spaces.\nAs an application, we provide an example where coarse entropy yields an\nobstruction for a coarse embedding, where such an embedding is not precluded by\nconsiderations of volume growth.",
+          "arxiv_id": "2109.15172v4"
+        },
+        {
+          "title": "Roe algebras of coarse spaces via coarse geometric modules",
+          "year": "2023-12",
+          "abstract": "We provide a construction of Roe (C*-)algebras of general coarse spaces in\nterms of coarse geometric modules. This extends the classical theory of Roe\nalgebras of metric spaces and gives a unified framework to deal with either\nuniform or non-uniform Roe algebras, algebras of operators of controlled\npropagation, and algebras of quasi-local operators; both in the metric and\ngeneral coarse geometric setting. The key new definitions are that of coarse\ngeometric module and coarse support of operators between coarse geometric\nmodules. These let us construct natural bridges between coarse geometry and\noperator algebras.\n  We then study the general structure of Roe-like algebras, and investigate\nseveral structural properties, such as admitting Cartan subalgebras or\ncomputing their intersection with the compact operators. Lastly, we prove that\nassigning to a coarse space the K-theory groups of its Roe algebra(s) is a\nnatural functorial operation.",
+          "arxiv_id": "2312.08907v2"
+        }
+      ],
+      "13": [
+        {
+          "title": "Branching geodesics of the Gromov--Hausdorff distance",
+          "year": "2021-08",
+          "abstract": "In this paper, we first evaluate topological distributions of the sets of all\ndoubling spaces, all uniformly disconnected spaces, and all uniformly perfect\nspaces in the space of all isometry classes of compact metric spaces equipped\nwith the Gromov--Hausdorff distance. We then construct branching geodesics of\nthe Gromov--Hausdorff distance continuously parameterized by the Hilbert cube,\npassing through or avoiding sets of all spaces satisfying some of the three\nproperties shown above, and passing through the sets of all\ninfinite-dimensional spaces and the set of all Cantor metric spaces. Our\nconstruction implies that for every pair of compact metric spaces, there exists\na topological embedding of the Hilbert cube into the Gromov--Hausdorff space\nwhose image contains the pair. From our results, we observe that the sets\nexplained above are geodesic spaces and infinite-dimensional.",
+          "arxiv_id": "2108.06970v3"
+        },
+        {
+          "title": "Fractal dimensions in the Gromov--Hausdorff space",
+          "year": "2021-10",
+          "abstract": "In this paper, we first show that for all four non-negative real numbers,\nthere exists a Cantor ultrametric space whose Hausdorff dimension, packing\ndimension, upper box dimension, and Assouad dimension are equal to given four\nnumbers, respectively. Next, by constructing topological embeddings of an\narbitrary compact metrizable space into the Gromov--Hausdorff space using a\ndirect sum of metrics spaces, we prove that the set of all compact metric\nspaces possessing prescribed topological dimension, and four dimensions\nexplained above, and the set of all compact ultrametric spaces are\npath-connected and have infinite topological dimension. This observation on\nultrametrics provides another proof of Qiu's theorem stating that the ratio of\nthe Archimedean and non-Archimedean Gromov--Hausdorff distances is unbounded.",
+          "arxiv_id": "2110.01881v5"
+        },
+        {
+          "title": "On the Gromov-Hausdorff distance between the cloud of bounded metric spaces and a cloud with nontrivial stabilizer",
+          "year": "2025-05",
+          "abstract": "The paper studies the class of all metric spaces considered up to zero\nGromov-Hausdorff distance between them. In this class, we examine clouds -\nclasses of spaces situated at finite Gromov-Hausdorff distances from a\nreference space. We prove that all clouds are proper classes. The\nGromov-Hausdorff distance is defined for clouds similarly with the case of that\nfor metric spaces. A multiplicative group of transformations of clouds is\ndefined which is called stabilizer. We show that under certain restrictions the\ndistance between the cloud of bounded metric spaces and a cloud with a\nnontrivial stabilizer is finite. In particular, the distance between the cloud\nof bounded metric spaces and the cloud containing the real line is calculated.",
+          "arxiv_id": "2505.23563v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:55:04Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_equations_integrable_systems_equation",
+        "keywords": [
+          [
+            "equations",
+            0.031767797798015245
+          ],
+          [
+            "integrable",
+            0.026713464833508227
+          ],
+          [
+            "systems",
+            0.025131695027002375
+          ],
+          [
+            "equation",
+            0.023570048450643186
+          ],
+          [
+            "hierarchy",
+            0.022689315486125683
+          ],
+          [
+            "Lie",
+            0.017849250080199382
+          ],
+          [
+            "solutions",
+            0.017544569869694486
+          ],
+          [
+            "dimensional",
+            0.016529991905342354
+          ],
+          [
+            "type",
+            0.014992213782815317
+          ],
+          [
+            "non",
+            0.014493821298137399
+          ]
+        ],
+        "count": 1036
+      },
+      "1": {
+        "name": "1_equation_solutions_soliton_nonlinear",
+        "keywords": [
+          [
+            "equation",
+            0.048224265971937255
+          ],
+          [
+            "solutions",
+            0.044466980226419206
+          ],
+          [
+            "soliton",
+            0.04132350949106293
+          ],
+          [
+            "nonlinear",
+            0.03331300871446736
+          ],
+          [
+            "wave",
+            0.026018370101491346
+          ],
+          [
+            "problem",
+            0.022681049408683915
+          ],
+          [
+            "solution",
+            0.02229570897648492
+          ],
+          [
+            "equations",
+            0.021487901728312483
+          ],
+          [
+            "waves",
+            0.021109773730332317
+          ],
+          [
+            "order",
+            0.020928648886209704
+          ]
+        ],
+        "count": 574
+      },
+      "2": {
+        "name": "2_quantum_model_spin_integrable",
+        "keywords": [
+          [
+            "quantum",
+            0.04067832027497021
+          ],
+          [
+            "model",
+            0.03603423774883709
+          ],
+          [
+            "spin",
+            0.02828305389816296
+          ],
+          [
+            "integrable",
+            0.027930485049800897
+          ],
+          [
+            "chain",
+            0.02416785018726328
+          ],
+          [
+            "dynamics",
+            0.023012341216372894
+          ],
+          [
+            "models",
+            0.02222769221006165
+          ],
+          [
+            "time",
+            0.021101450792388347
+          ],
+          [
+            "states",
+            0.01880751788269642
+          ],
+          [
+            "limit",
+            0.018087023365250136
+          ]
+        ],
+        "count": 250
+      },
+      "3": {
+        "name": "3_Baxter_Yang_maps_tetrahedron",
+        "keywords": [
+          [
+            "Baxter",
+            0.09414154012946152
+          ],
+          [
+            "Yang",
+            0.08609822652911145
+          ],
+          [
+            "maps",
+            0.07594321613457161
+          ],
+          [
+            "tetrahedron",
+            0.050766440282430866
+          ],
+          [
+            "matrix",
+            0.04344564138985295
+          ],
+          [
+            "equation",
+            0.04227533033888864
+          ],
+          [
+            "solutions",
+            0.0317858672533477
+          ],
+          [
+            "operators",
+            0.02786385739645635
+          ],
+          [
+            "map",
+            0.027607254050780277
+          ],
+          [
+            "model",
+            0.02436654750461355
+          ]
+        ],
+        "count": 83
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.3940149317364834,
+        -0.19598684825516577,
+        -0.5458471577802853
+      ],
+      [
+        -0.3940149317364834,
+        1.0,
+        -0.5525165379062378,
+        -0.5110742120812506
+      ],
+      [
+        -0.19598684825516577,
+        -0.5525165379062378,
+        1.0,
+        -0.568841607423473
+      ],
+      [
+        -0.5458471577802853,
+        -0.5110742120812506,
+        -0.568841607423473,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        14,
+        15,
+        5,
+        5
+      ],
+      "2020-02": [
+        16,
+        8,
+        8,
+        1
+      ],
+      "2020-03": [
+        19,
+        10,
+        13,
+        2
+      ],
+      "2020-04": [
+        14,
+        15,
+        4,
+        1
+      ],
+      "2020-05": [
+        10,
+        16,
+        4,
+        2
+      ],
+      "2020-06": [
+        18,
+        10,
+        6,
+        0
+      ],
+      "2020-07": [
+        17,
+        8,
+        8,
+        2
+      ],
+      "2020-08": [
+        21,
+        17,
+        6,
+        2
+      ],
+      "2020-09": [
+        23,
+        11,
+        3,
+        3
+      ],
+      "2020-10": [
+        18,
+        10,
+        6,
+        2
+      ],
+      "2020-11": [
+        21,
+        9,
+        9,
+        2
+      ],
+      "2020-12": [
+        24,
+        12,
+        13,
+        5
+      ],
+      "2021-01": [
+        24,
+        11,
+        5,
+        2
+      ],
+      "2021-02": [
+        16,
+        13,
+        5,
+        0
+      ],
+      "2021-03": [
+        18,
+        15,
+        8,
+        3
+      ],
+      "2021-04": [
+        19,
+        18,
+        5,
+        2
+      ],
+      "2021-05": [
+        15,
+        11,
+        9,
+        4
+      ],
+      "2021-06": [
+        19,
+        13,
+        3,
+        5
+      ],
+      "2021-07": [
+        18,
+        10,
+        6,
+        1
+      ],
+      "2021-08": [
+        15,
+        7,
+        6,
+        1
+      ],
+      "2021-09": [
+        21,
+        16,
+        6,
+        6
+      ],
+      "2021-10": [
+        13,
+        10,
+        10,
+        2
+      ],
+      "2021-11": [
+        17,
+        17,
+        4,
+        0
+      ],
+      "2021-12": [
+        22,
+        11,
+        3,
+        4
+      ],
+      "2022-01": [
+        21,
+        13,
+        9,
+        4
+      ],
+      "2022-02": [
+        11,
+        12,
+        9,
+        3
+      ],
+      "2022-03": [
+        19,
+        14,
+        6,
+        2
+      ],
+      "2022-04": [
+        12,
+        8,
+        8,
+        2
+      ],
+      "2022-05": [
+        13,
+        15,
+        6,
+        2
+      ],
+      "2022-06": [
+        14,
+        10,
+        9,
+        1
+      ],
+      "2022-07": [
+        16,
+        14,
+        9,
+        2
+      ],
+      "2022-08": [
+        20,
+        13,
+        9,
+        1
+      ],
+      "2022-09": [
+        20,
+        6,
+        3,
+        0
+      ],
+      "2022-10": [
+        17,
+        9,
+        6,
+        4
+      ],
+      "2022-11": [
+        18,
+        13,
+        10,
+        3
+      ],
+      "2022-12": [
+        22,
+        18,
+        6,
+        2
+      ],
+      "2023-01": [
+        23,
+        11,
+        5,
+        1
+      ],
+      "2023-02": [
+        14,
+        8,
+        5,
+        2
+      ],
+      "2023-03": [
+        21,
+        9,
+        8,
+        3
+      ],
+      "2023-04": [
+        19,
+        16,
+        8,
+        1
+      ],
+      "2023-05": [
+        23,
+        11,
+        4,
+        3
+      ],
+      "2023-06": [
+        16,
+        8,
+        10,
+        1
+      ],
+      "2023-07": [
+        24,
+        17,
+        6,
+        1
+      ],
+      "2023-08": [
+        16,
+        10,
+        7,
+        2
+      ],
+      "2023-09": [
+        15,
+        12,
+        11,
+        2
+      ],
+      "2023-10": [
+        15,
+        10,
+        11,
+        3
+      ],
+      "2023-11": [
+        18,
+        9,
+        7,
+        3
+      ],
+      "2023-12": [
+        20,
+        11,
+        8,
+        6
+      ],
+      "2024-01": [
+        17,
+        7,
+        4,
+        2
+      ],
+      "2024-02": [
+        17,
+        18,
+        13,
+        3
+      ],
+      "2024-03": [
+        17,
+        11,
+        5,
+        5
+      ],
+      "2024-04": [
+        13,
+        14,
+        7,
+        0
+      ],
+      "2024-05": [
+        19,
+        10,
+        13,
+        5
+      ],
+      "2024-06": [
+        16,
+        17,
+        5,
+        1
+      ],
+      "2024-07": [
+        19,
+        16,
+        9,
+        2
+      ],
+      "2024-08": [
+        13,
+        7,
+        6,
+        4
+      ],
+      "2024-09": [
+        18,
+        15,
+        10,
+        2
+      ],
+      "2024-10": [
+        21,
+        13,
+        10,
+        3
+      ],
+      "2024-11": [
+        17,
+        17,
+        8,
+        3
+      ],
+      "2024-12": [
+        30,
+        22,
+        11,
+        2
+      ],
+      "2025-01": [
+        19,
+        10,
+        6,
+        4
+      ],
+      "2025-02": [
+        11,
+        14,
+        7,
+        3
+      ],
+      "2025-03": [
+        20,
+        14,
+        7,
+        5
+      ],
+      "2025-04": [
+        20,
+        17,
+        10,
+        7
+      ],
+      "2025-05": [
+        13,
+        13,
+        6,
+        3
+      ],
+      "2025-06": [
+        19,
+        9,
+        5,
+        3
+      ],
+      "2025-07": [
+        21,
+        13,
+        7,
+        3
+      ],
+      "2025-08": [
+        18,
+        15,
+        4,
+        4
+      ],
+      "2025-09": [
+        12,
+        3,
+        4,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "The Painlevé equivalence problem for a constrained 3D system",
+          "year": "2024-11",
+          "abstract": "In this paper we propose a geometric approach to study Painlev\\'e equations\nappearing as constrained systems of three first-order ordinary differential\nequations. We illustrate this approach on a system of three first-order\ndifferential equations arising in the theory of semi-classical orthogonal\npolynomials. We show that it can be restricted to a system of two first-order\ndifferential equations in two different ways on an invariant hypersurface. We\nbuild the space of initial conditions for each of these restricted systems and\nverify that they exhibit the Painlev\\'e property from a geometric perspective.\nUtilising the Painlev\\'e identification algorithm we also relate this system to\nthe Painlev\\'e VI equation and we build its global Hamiltonian structure.\nFinally, we prove that the autonomous limit of the original system is Liouville\nintegrable, and the level curves of its first integrals are elliptic curves,\nwhich leads us to conjecture that the 3D system itself also possesses the\nPainlev\\'e property without the need to restrict it to the invariant\nhypersurface.",
+          "arxiv_id": "2411.01657v1"
+        },
+        {
+          "title": "Polynomial algebras from $su(3)$ and the generic model on the two sphere",
+          "year": "2020-07",
+          "abstract": "Construction of superintegrable systems based on Lie algebras have been\nintroduced over the years. However, these approaches depend on explicit\nrealisations, for instance as a differential operators, of the underlying Lie\nalgebra. This is also the case for the construction of their related symmetry\nalgebra which take usually the form of a finitely generated quadratic algebra.\nThese algebras often display structure constants which depend on the central\nelements and in particular on the Hamiltonian. In this paper, we develop a new\napproach reexamining the case of the generic superintegrable systems on the\n2-sphere for which a symmetry algebra is known to be the Racah algebra $R(3)$.\nSuch a model is related to the 59 $2D$ superintegrable systems on conformally\nflat spaces and their 12 equivalence classes. We demonstrate that using further\npolynomials of degree 2,3 and 4 in the enveloping algebra of $su(3)$ one can\ngenerate an algebra based only on abstract commutation relations of $su(3)$ Lie\nalgebra without explicit constraints on the representations or realisations.\nThis construction relies on the maximal Abelian subalgebra, also called MASA,\nwhich are the Cartan generators and their commutant. We obtain a new\n6-dimensional cubic algebra where the structure constant are integer numbers\nwhich reduce from a quartic algebra for which the structure constant depend on\nthe Cartan generator and the Casimir invariant. We also present other form of\nthe symmetry algebra using the quadratic and cubic Casimir invariants of\n$su(3)$. It reduces as the known quadratic Racah algebra $R(3)$ only when using\nan explicit realization. This algebraic structure describe the symmetry of the\ngeneric superintegrable systems on the 2 sphere. We also present a contraction\nto another 6-dimensional cubic algebra which would corresponding to the\nsymmetry algebra of a Smorodinsky-Winternitz model.",
+          "arxiv_id": "2007.11163v1"
+        },
+        {
+          "title": "Simplifications of Lax pairs for differential-difference equations by gauge transformations and (doubly) modified integrable equations",
+          "year": "2024-03",
+          "abstract": "Matrix differential-difference Lax pairs play an essential role in the theory\nof integrable nonlinear differential-difference equations. We present\nsufficient conditions which allow one to simplify such a Lax pair by matrix\ngauge transformations. Furthermore, we describe a procedure for such a\nsimplification and present applications of it to constructing new integrable\nequations connected by (non-invertible) discrete substitutions of Miura type to\nknown equations with Lax pairs.\n  Suppose that one has three (possibly multicomponent) equations $E$, $E_1$,\n$E_2$, a (Miura-type) discrete substitution from $E_1$ to $E$, and a discrete\nsubstitution from $E_2$ to $E_1$. Then $E_1$ and $E_2$ can be called a modified\nversion of $E$ and a doubly modified version of $E$, respectively. We\ndemonstrate how the above-mentioned procedure helps (in the considered\nexamples) to construct modified and doubly modified versions of a given\nequation possessing a Lax pair satisfying certain conditions.\n  The considered examples include scalar equations of Itoh-Narita-Bogoyavlensky\ntype and $2$-component equations related to the Toda lattice. We present\nseveral new integrable equations connected by new discrete substitutions of\nMiura type to known equations.",
+          "arxiv_id": "2403.12022v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "Bound-state soliton and rogue wave solutions for the sixth-order nonlinear Schrödinger equation via inverse scattering transform method",
+          "year": "2021-03",
+          "abstract": "In this work, inverse scattering transform for the sixth-order nonlinear\nSchr\\\"{o}dinger equation with both zero and nonzero boundary conditions at\ninfinity is given, respectively. For the case of zero nonzero boundary\nconditions, in terms of the Laurent's series and generalization of the residue\ntheorem, the bound-state soliton is derived. For nonzero boundary conditions,\nusing the robust inverse scattering transform, we present a matrix\nRiemann-Hilbert problem of the sixth-order nonlinear Schr\\\"{o}dinger equation.\nThen based on the obtained Riemann-Hilbert problem, the rogue wave and breather\nwave solutions are derived through a modified Darboux transformation. Besides,\naccording to some appropriate parameters choices, several graphical analyses\nare provided to discuss the dynamical behaviors of the bound-state soliton and\nrogue wave solutions, and analyse how the higher-order terms affect the\nbound-state soliton and rogue wave.",
+          "arxiv_id": "2103.14296v2"
+        },
+        {
+          "title": "Inverse scattering transform and soliton solutions for the modified matrix Korteweg-de Vries equation with nonzero boundary conditions",
+          "year": "2020-05",
+          "abstract": "The theory of inverse scattering is developed to study the initial-value\nproblem for the modified matrix Korteweg-de Vries (mmKdV) equation with the\n$2m\\times2m$ $(m\\geq 1)$ Lax pairs under the nonzero boundary conditions at\ninfinity. In the direct problem, by introducing a suitable uniform\ntransformation we establish the proper complex $z$-plane in order to discuss\nthe Jost eigenfunctions, scattering matrix and their analyticity and symmetry\nof the equation. Moreover the asymptotic behavior of the Jost functions and\nscattering matrix needed in the inverse problem are analyzed via\nWentzel-Kramers-Brillouin expansion. In the inverse problem, the generalized\nRiemann-Hilbert problem of the mmKdV equation is first established by using the\nanalyticity of the modified eigenfunctions and scattering coefficients. The\nreconstruction formula of potential function with reflection-less case is\nderived by solving this Riemann-Hilbert problem and using the scattering data.\nIn addition the dynamic behavior of the solutions for the focusing mmKdV\nequation including one- and two- soliton solutions are presented in detail\nunder the the condition that the potential is scalar and the $2\\times2$\nsymmetric matrix. Finally, we provide some detailed proofs and weak version of\ntrace formulas to show that the asymptotic phase of the potential and the\nscattering data.",
+          "arxiv_id": "2005.00290v1"
+        },
+        {
+          "title": "On zero-background solitons of the sharp-line Maxwell-Bloch equations",
+          "year": "2024-02",
+          "abstract": "This work is devoted to systematically study general $N$-soliton solutions\npossibly containing multiple degenerate soliton groups (DSGs), in the context\nof the sharp-line Maxwell-Bloch equations with a zero background.We also show\nthat results can be readily migrated to other integrable systems, with the same\nnon-self-adjoint Zakharov-Shabat scattering problem or alike. Results for the\nfocusing nonlinear Schr\\\"{o}dinger equation and the complex modified\nKorteweg-De Vries equation are obtained as explicit examples for demonstrative\npurposes. A DSG is a localized coherent nonlinear traveling-wave structure,\ncomprised of inseparable solitons with identical velocities. Hence, DSGs are\ngeneralizations of single solitons (considered as $1$-DSGs), and form\nfundamental building blocks of solutions of many integrable systems. We provide\nan explicit formula for an $N$-DSG and its center. With the help of the\nDeift-Zhou's nonlinear steepest descent method, we prove the localization of\nDSGs, and calculate the long-time asymptotics for an arbitrary $N$-soliton\nsolutions. It is shown that the solution becomes a linear combination of\nmultiple DSGs in the distant past and future, with explicit formulae for the\nasymptotic phase shift for each DSG. Other generalizations of a single soliton\nare also discussed, such as $N$th-order solitons and soliton gases. We prove\nthat every $N$th-order soliton can be obtained by fusion of eigenvalues of\n$N$-soliton solutions, with proper rescalings of norming constants, and\ndemonstrate that soliton-gas solution can be considered as limits of\n$N$-soliton solutions as $N\\to+\\infty$.",
+          "arxiv_id": "2402.02166v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Non-equilibrium dynamics of the open quantum $O(n)$-model with non-Markovian noise: exact results",
+          "year": "2021-06",
+          "abstract": "The collective and purely relaxational dynamics of quantum many-body systems\nafter a quench at temperature $T=0$, from a disordered state to various phases\nis studied through the exact solution of the quantum Langevin equation of the\nspherical and the $O(n)$-model in the limit $n\\to\\infty$. The stationary state\nof the quantum dynamics is shown to be a non-equilibrium state. The quantum\nspherical and the quantum $O(n)$-model for $n\\to\\infty$ are in the same\ndynamical universality class. The long-time behaviour of single-time and\ntwo-time correlation and response functions is analysed and the universal\nexponents which characterise quantum coarsening and quantum ageing are derived.\nThe importance of the non-Markovian long-time memory of the quantum noise is\nelucidated by comparing it with an effective Markovian noise having the same\nscaling behaviour and with the case of non-equilibrium classical dynamics.",
+          "arxiv_id": "2106.08237v2"
+        },
+        {
+          "title": "The quantum sine-Gordon model with quantum circuits",
+          "year": "2020-07",
+          "abstract": "Analog quantum simulation has the potential to be an indispensable technique\nin the investigation of complex quantum systems. In this work, we numerically\ninvestigate a one-dimensional, faithful, analog, quantum electronic circuit\nsimulator built out of Josephson junctions for one of the paradigmatic models\nof an integrable quantum field theory: the quantum sine-Gordon (qSG) model in\n1+1 space-time dimensions. We analyze the lattice model using the density\nmatrix renormalization group technique and benchmark our numerical results with\nexisting Bethe ansatz computations. Furthermore, we perform analytical\nform-factor calculations for the two-point correlation function of vertex\noperators, which closely agree with our numerical computations. Finally, we\ncompute the entanglement spectrum of the qSG model. We compare our results with\nthose obtained using the integrable lattice-regularization based on the quantum\nXYZ chain and show that the quantum circuit model is less susceptible to\ncorrections to scaling compared to the XYZ chain. We provide numerical evidence\nthat the parameters required to realize the qSG model are accessible with\nmodern-day superconducting circuit technology, thus providing additional\ncredence towards the viability of the latter platform for simulating strongly\ninteracting quantum field theories.",
+          "arxiv_id": "2007.06874v2"
+        },
+        {
+          "title": "An integrable spin chain with Hilbert space fragmentation and solvable real time dynamics",
+          "year": "2021-05",
+          "abstract": "We revisit the so-called folded XXZ model, which was treated earlier by two\nindependent research groups. We argue that this spin-1/2 chain is one of the\nsimplest quantum integrable models, yet it has quite remarkable physical\nproperties. The particles have constant scattering lengths, which leads to a\nsimple treatment of the exact spectrum and the dynamics of the system. The\nHilbert space of the model is fragmented, leading to exponentially large\ndegeneracies in the spectrum, such that the exponent depends on the particle\ncontent of a given state. We provide an alternative derivation of the\nHamiltonian and the conserved charges of the model, including a new\ninterpretation of the so-called \"dual model\" considered earlier. We also\nconstruct a non-local map that connects the model with the Maassarani-Mathieu\nspin chain, also known as the SU(3) XX model. We consider the exact solution of\nthe model with periodic and open boundary conditions, and also derive multiple\ndescriptions of the exact thermodynamics of the model. We consider quantum\nquenches of different types. In one class of problems the dynamics can be\ntreated relatively easily: we compute an example for the real time dependence\nof a local observable. In another class of quenches the degeneracies of the\nmodel lead to the breakdown of equilibration, and we argue that they can lead\nto persistent oscillations. We also discuss connections with the $T\\bar T$- and\nhard rod deformations known from Quantum Field Theories.",
+          "arxiv_id": "2105.02252v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Tropical limit of matrix solitons and entwining Yang-Baxter maps",
+          "year": "2020-01",
+          "abstract": "We consider a matrix refactorization problem, i.e., a \"Lax representation\",\nfor the Yang-Baxter map that originated as the map of polarizations from the\n\"pure\" 2-soliton solution of a matrix KP equation. Using the Lax matrix and its\ninverse, a related refactorization problem determines another map, which is not\na solution of the Yang-Baxter equation, but satisfies a mixed version of the\nYang-Baxter equation together with the Yang-Baxter map. Such maps have been\ncalled \"entwining Yang-Baxter maps\" in recent work. In fact, the map of\npolarizations obtained from a pure 2-soliton solution of a matrix KP equation,\nand already for the matrix KdV reduction, is NOT in general a Yang-Baxter map,\nbut it is described by one of the two maps or their inverses. We clarify why\nthe weaker version of the Yang-Baxter equation holds, by exploring the pure\n3-soliton solution in the \"tropical limit\", where the 3-soliton interaction\ndecomposes into 2-soliton interactions. Here this is elaborated for pure\nsoliton solutions, generated via a binary Darboux transformation, of matrix\ngeneralizations of the two-dimensional Toda lattice equation, where we meet the\nsame entwining Yang-Baxter maps as in the KP case, indicating a kind of\nuniversality.",
+          "arxiv_id": "2001.09688v3"
+        },
+        {
+          "title": "Tetrahedron maps, Yang-Baxter maps, and partial linearisations",
+          "year": "2021-06",
+          "abstract": "We study tetrahedron maps, which are set-theoretical solutions to the\nZamolodchikov tetrahedron equation, and Yang-Baxter maps, which are\nset-theoretical solutions to the quantum Yang-Baxter equation.\n  In particular, we clarify the structure of the nonlinear algebraic relations\nwhich define linear (parametric) tetrahedron maps (with nonlinear dependence on\nparameters), and we present several transformations which allow one to obtain\nnew such maps from known ones. Furthermore, we prove that the differential of a\n(nonlinear) tetrahedron map on a manifold is a tetrahedron map as well. Similar\nresults on the differentials of Yang-Baxter and entwining Yang-Baxter maps are\nalso presented.\n  Using the obtained general results, we construct new examples of (parametric)\nYang-Baxter and tetrahedron maps. The considered examples include maps\nassociated with integrable systems and matrix groups. In particular, we obtain\na parametric family of new linear tetrahedron maps, which are linear\napproximations for the nonlinear tetrahedron map constructed by Dimakis and\nM\\\"uller-Hoissen [arXiv:1708.05694] in a study of soliton solutions of vector\nKadomtsev-Petviashvili (KP) equations. Also, we present invariants for this\nnonlinear tetrahedron map.",
+          "arxiv_id": "2106.09130v2"
+        },
+        {
+          "title": "Local Yang--Baxter correspondences and set-theoretical solutions to the Zamolodchikov tetrahedron equation",
+          "year": "2023-02",
+          "abstract": "We study tetrahedron maps, which are set-theoretical solutions to the\nZamolodchikov tetrahedron equation, and their matrix Lax representations\ndefined by the local Yang--Baxter equation.\n  Sergeev [S.M. Sergeev 1998 Lett. Math. Phys. 45, 113--119] presented\nclassification results on three-dimensional tetrahedron maps obtained from the\nlocal Yang--Baxter equation for a certain class of matrix-functions in the\nsituation when the equation possesses a unique solution which determines a\ntetrahedron map. In this paper, using correspondences arising from the local\nYang--Baxter equation for some simple $2\\times 2$ matrix-functions, we show\nthat there are (non-unique) solutions to the local Yang--Baxter equation which\ndefine tetrahedron maps that do not belong to the Sergeev list; this paves the\nway for a new, wider classification of tetrahedron maps. We present invariants\nfor the derived tetrahedron maps and prove Liouville integrability for some of\nthem.\n  Furthermore, using the approach of solving correspondences arising from the\nlocal Yang--Baxter equation, we obtain several new birational tetrahedron maps,\nincluding maps with matrix Lax representations on arbitrary groups, a\n$9$-dimensional map associated with a Darboux transformation for the derivative\nnonlinear Schr\\\"odinger (NLS) equation, and a $9$-dimensional generalisation of\nthe $3$-dimensional Hirota map.",
+          "arxiv_id": "2302.03059v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:59:13Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

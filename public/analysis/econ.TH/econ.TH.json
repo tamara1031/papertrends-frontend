@@ -1,0 +1,1318 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_information_agent_sender_principal",
+        "keywords": [
+          [
+            "information",
+            0.032431754851094605
+          ],
+          [
+            "agent",
+            0.027354306331248683
+          ],
+          [
+            "sender",
+            0.023456012712690513
+          ],
+          [
+            "principal",
+            0.023062717242922293
+          ],
+          [
+            "optimal",
+            0.02216326323687247
+          ],
+          [
+            "receiver",
+            0.017066418373761827
+          ],
+          [
+            "agents",
+            0.016978232226580688
+          ],
+          [
+            "state",
+            0.016875281830941148
+          ],
+          [
+            "model",
+            0.016230964484138147
+          ],
+          [
+            "study",
+            0.014428436562645985
+          ]
+        ],
+        "count": 461
+      },
+      "1": {
+        "name": "1_matching_stable_agents_preferences",
+        "keywords": [
+          [
+            "matching",
+            0.046174760326507726
+          ],
+          [
+            "stable",
+            0.031473044157153136
+          ],
+          [
+            "agents",
+            0.02943297834047818
+          ],
+          [
+            "preferences",
+            0.02546394783915753
+          ],
+          [
+            "mechanisms",
+            0.022203036174936415
+          ],
+          [
+            "mechanism",
+            0.021948640431253493
+          ],
+          [
+            "allocation",
+            0.021254968397386623
+          ],
+          [
+            "students",
+            0.01770718215376542
+          ],
+          [
+            "problem",
+            0.017036088669167046
+          ],
+          [
+            "choice",
+            0.01579203069297318
+          ]
+        ],
+        "count": 343
+      },
+      "2": {
+        "name": "2_price_revenue_auctions_optimal",
+        "keywords": [
+          [
+            "price",
+            0.03471331821945495
+          ],
+          [
+            "revenue",
+            0.03281567023775987
+          ],
+          [
+            "auctions",
+            0.03072993482644879
+          ],
+          [
+            "optimal",
+            0.030041410161796414
+          ],
+          [
+            "auction",
+            0.028827851160762016
+          ],
+          [
+            "seller",
+            0.023852179226971453
+          ],
+          [
+            "buyer",
+            0.023245691656255837
+          ],
+          [
+            "bidders",
+            0.020872772637220025
+          ],
+          [
+            "mechanism",
+            0.020412528820076548
+          ],
+          [
+            "mechanisms",
+            0.019168580298576626
+          ]
+        ],
+        "count": 215
+      },
+      "3": {
+        "name": "3_model_economy_economic_equilibrium",
+        "keywords": [
+          [
+            "model",
+            0.03303734208094514
+          ],
+          [
+            "economy",
+            0.024729551843435112
+          ],
+          [
+            "economic",
+            0.023990357006140176
+          ],
+          [
+            "equilibrium",
+            0.022887762101016965
+          ],
+          [
+            "growth",
+            0.022252701775516377
+          ],
+          [
+            "models",
+            0.019397997838319848
+          ],
+          [
+            "wealth",
+            0.015292589006260772
+          ],
+          [
+            "production",
+            0.015040350199797103
+          ],
+          [
+            "paper",
+            0.014502013631069647
+          ],
+          [
+            "capital",
+            0.014095758728282146
+          ]
+        ],
+        "count": 205
+      },
+      "4": {
+        "name": "4_voting_voters_rules_alternatives",
+        "keywords": [
+          [
+            "voting",
+            0.06445137540763982
+          ],
+          [
+            "voters",
+            0.03420273147801184
+          ],
+          [
+            "rules",
+            0.03408455483470675
+          ],
+          [
+            "alternatives",
+            0.029481218205109287
+          ],
+          [
+            "rule",
+            0.026940221622359338
+          ],
+          [
+            "preferences",
+            0.023852712774880217
+          ],
+          [
+            "Condorcet",
+            0.02164025309069375
+          ],
+          [
+            "candidates",
+            0.02117176658568986
+          ],
+          [
+            "social",
+            0.021150902718586693
+          ],
+          [
+            "voting rules",
+            0.020067271691009726
+          ]
+        ],
+        "count": 189
+      },
+      "5": {
+        "name": "5_choice_utility_decision_preferences",
+        "keywords": [
+          [
+            "choice",
+            0.04097333834224791
+          ],
+          [
+            "utility",
+            0.03777803806244432
+          ],
+          [
+            "decision",
+            0.03280367277530161
+          ],
+          [
+            "preferences",
+            0.027777854878981538
+          ],
+          [
+            "model",
+            0.02371367245785747
+          ],
+          [
+            "preference",
+            0.023118106052684773
+          ],
+          [
+            "theory",
+            0.021435672149016503
+          ],
+          [
+            "expected utility",
+            0.018677685818056178
+          ],
+          [
+            "risk",
+            0.01844963730709895
+          ],
+          [
+            "expected",
+            0.01705811046812108
+          ]
+        ],
+        "count": 179
+      },
+      "6": {
+        "name": "6_games_game_equilibrium_Nash",
+        "keywords": [
+          [
+            "games",
+            0.055001047480625107
+          ],
+          [
+            "game",
+            0.04467114040542556
+          ],
+          [
+            "equilibrium",
+            0.042477453846509625
+          ],
+          [
+            "Nash",
+            0.03506388106018139
+          ],
+          [
+            "player",
+            0.02552295661157136
+          ],
+          [
+            "strategy",
+            0.02326419146939238
+          ],
+          [
+            "strategies",
+            0.02190753143607059
+          ],
+          [
+            "players",
+            0.02064111238236088
+          ],
+          [
+            "form",
+            0.018468467370708664
+          ],
+          [
+            "equilibria",
+            0.01724245822500601
+          ]
+        ],
+        "count": 156
+      },
+      "7": {
+        "name": "7_auction_block_blockchain_mechanism",
+        "keywords": [
+          [
+            "auction",
+            0.034822607623721885
+          ],
+          [
+            "block",
+            0.029885143251137305
+          ],
+          [
+            "blockchain",
+            0.027604685641784303
+          ],
+          [
+            "mechanism",
+            0.02258451677559844
+          ],
+          [
+            "protocol",
+            0.020442478929359572
+          ],
+          [
+            "transactions",
+            0.020428325356492447
+          ],
+          [
+            "transaction",
+            0.020293196959592873
+          ],
+          [
+            "users",
+            0.01721519858093644
+          ],
+          [
+            "auctions",
+            0.017198933096772607
+          ],
+          [
+            "protocols",
+            0.016784136477445356
+          ]
+        ],
+        "count": 77
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.31331573554291425,
+        -0.2727561223745123,
+        -0.545428040071076,
+        -0.5191156126877283,
+        -0.40480642329293093,
+        -0.6230020419686251,
+        -0.4236248095801257
+      ],
+      [
+        -0.31331573554291425,
+        1.0,
+        -0.3961969611638039,
+        -0.6215399543701763,
+        -0.49333175751727626,
+        -0.40547854375578685,
+        -0.6432549810765762,
+        -0.41562211984165814
+      ],
+      [
+        -0.2727561223745123,
+        -0.3961969611638039,
+        1.0,
+        -0.6260135136902731,
+        -0.5321727905339916,
+        -0.49422408115239824,
+        -0.649906776886028,
+        -0.24627655049484087
+      ],
+      [
+        -0.545428040071076,
+        -0.6215399543701763,
+        -0.6260135136902731,
+        1.0,
+        -0.6638867805725868,
+        -0.5565501094308396,
+        -0.5760818032459764,
+        -0.6411200748720263
+      ],
+      [
+        -0.5191156126877283,
+        -0.49333175751727626,
+        -0.5321727905339916,
+        -0.6638867805725868,
+        1.0,
+        -0.49627483933991917,
+        -0.6915331960951394,
+        -0.42458986534556886
+      ],
+      [
+        -0.40480642329293093,
+        -0.40547854375578685,
+        -0.49422408115239824,
+        -0.5565501094308396,
+        -0.49627483933991917,
+        1.0,
+        -0.6596809884131745,
+        -0.4806311353482784
+      ],
+      [
+        -0.6230020419686251,
+        -0.6432549810765762,
+        -0.649906776886028,
+        -0.5760818032459764,
+        -0.6915331960951394,
+        -0.6596809884131745,
+        1.0,
+        -0.6493086994588364
+      ],
+      [
+        -0.4236248095801257,
+        -0.41562211984165814,
+        -0.24627655049484087,
+        -0.6411200748720263,
+        -0.42458986534556886,
+        -0.4806311353482784,
+        -0.6493086994588364,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        0,
+        6,
+        1
+      ],
+      "2020-02": [
+        8,
+        3,
+        5,
+        3,
+        1,
+        0,
+        7,
+        0
+      ],
+      "2020-03": [
+        6,
+        2,
+        2,
+        2,
+        0,
+        0,
+        6,
+        0
+      ],
+      "2020-04": [
+        6,
+        8,
+        4,
+        2,
+        1,
+        6,
+        5,
+        0
+      ],
+      "2020-05": [
+        15,
+        3,
+        3,
+        3,
+        3,
+        4,
+        11,
+        0
+      ],
+      "2020-06": [
+        12,
+        7,
+        4,
+        5,
+        4,
+        3,
+        10,
+        0
+      ],
+      "2020-07": [
+        17,
+        2,
+        1,
+        6,
+        2,
+        3,
+        7,
+        0
+      ],
+      "2020-08": [
+        5,
+        4,
+        5,
+        2,
+        4,
+        6,
+        5,
+        0
+      ],
+      "2020-09": [
+        8,
+        6,
+        2,
+        2,
+        1,
+        4,
+        3,
+        0
+      ],
+      "2020-10": [
+        12,
+        3,
+        2,
+        2,
+        0,
+        5,
+        4,
+        0
+      ],
+      "2020-11": [
+        12,
+        8,
+        3,
+        3,
+        1,
+        2,
+        6,
+        0
+      ],
+      "2020-12": [
+        8,
+        5,
+        0,
+        7,
+        3,
+        4,
+        7,
+        0
+      ],
+      "2021-01": [
+        6,
+        5,
+        1,
+        2,
+        1,
+        4,
+        7,
+        0
+      ],
+      "2021-02": [
+        14,
+        7,
+        9,
+        4,
+        4,
+        9,
+        4,
+        0
+      ],
+      "2021-03": [
+        16,
+        7,
+        8,
+        4,
+        3,
+        2,
+        6,
+        0
+      ],
+      "2021-04": [
+        9,
+        2,
+        3,
+        6,
+        4,
+        4,
+        5,
+        0
+      ],
+      "2021-05": [
+        18,
+        2,
+        8,
+        1,
+        4,
+        5,
+        5,
+        0
+      ],
+      "2021-06": [
+        10,
+        7,
+        1,
+        11,
+        3,
+        3,
+        7,
+        1
+      ],
+      "2021-07": [
+        15,
+        4,
+        4,
+        8,
+        1,
+        5,
+        6,
+        1
+      ],
+      "2021-08": [
+        6,
+        5,
+        2,
+        4,
+        5,
+        8,
+        2,
+        0
+      ],
+      "2021-09": [
+        10,
+        7,
+        5,
+        6,
+        3,
+        4,
+        7,
+        0
+      ],
+      "2021-10": [
+        12,
+        7,
+        3,
+        1,
+        2,
+        4,
+        7,
+        0
+      ],
+      "2021-11": [
+        11,
+        1,
+        4,
+        1,
+        1,
+        5,
+        5,
+        1
+      ],
+      "2021-12": [
+        10,
+        2,
+        4,
+        4,
+        0,
+        6,
+        7,
+        1
+      ],
+      "2022-01": [
+        7,
+        3,
+        2,
+        2,
+        3,
+        3,
+        8,
+        0
+      ],
+      "2022-02": [
+        14,
+        14,
+        4,
+        6,
+        2,
+        5,
+        3,
+        1
+      ],
+      "2022-03": [
+        11,
+        7,
+        5,
+        3,
+        2,
+        3,
+        10,
+        0
+      ],
+      "2022-04": [
+        10,
+        7,
+        4,
+        2,
+        2,
+        5,
+        5,
+        0
+      ],
+      "2022-05": [
+        21,
+        5,
+        3,
+        6,
+        9,
+        9,
+        4,
+        1
+      ],
+      "2022-06": [
+        15,
+        6,
+        2,
+        4,
+        2,
+        4,
+        6,
+        1
+      ],
+      "2022-07": [
+        12,
+        8,
+        3,
+        4,
+        3,
+        2,
+        6,
+        0
+      ],
+      "2022-08": [
+        19,
+        5,
+        2,
+        2,
+        7,
+        7,
+        11,
+        0
+      ],
+      "2022-09": [
+        15,
+        2,
+        2,
+        4,
+        1,
+        5,
+        10,
+        2
+      ],
+      "2022-10": [
+        8,
+        4,
+        3,
+        3,
+        4,
+        5,
+        8,
+        0
+      ],
+      "2022-11": [
+        8,
+        4,
+        2,
+        4,
+        3,
+        4,
+        7,
+        0
+      ],
+      "2022-12": [
+        6,
+        7,
+        3,
+        6,
+        2,
+        7,
+        4,
+        0
+      ],
+      "2023-01": [
+        5,
+        4,
+        7,
+        7,
+        1,
+        6,
+        4,
+        3
+      ],
+      "2023-02": [
+        17,
+        6,
+        3,
+        1,
+        3,
+        6,
+        9,
+        0
+      ],
+      "2023-03": [
+        18,
+        3,
+        3,
+        7,
+        6,
+        13,
+        4,
+        0
+      ],
+      "2023-04": [
+        17,
+        5,
+        4,
+        5,
+        4,
+        8,
+        10,
+        0
+      ],
+      "2023-05": [
+        21,
+        7,
+        7,
+        3,
+        0,
+        5,
+        9,
+        1
+      ],
+      "2023-06": [
+        8,
+        2,
+        4,
+        3,
+        3,
+        1,
+        3,
+        0
+      ],
+      "2023-07": [
+        17,
+        3,
+        2,
+        2,
+        0,
+        4,
+        9,
+        1
+      ],
+      "2023-08": [
+        7,
+        4,
+        3,
+        3,
+        5,
+        5,
+        7,
+        0
+      ],
+      "2023-09": [
+        14,
+        5,
+        2,
+        2,
+        2,
+        3,
+        3,
+        0
+      ],
+      "2023-10": [
+        13,
+        5,
+        4,
+        5,
+        2,
+        8,
+        6,
+        1
+      ],
+      "2023-11": [
+        13,
+        2,
+        1,
+        4,
+        0,
+        5,
+        7,
+        1
+      ],
+      "2023-12": [
+        16,
+        0,
+        2,
+        7,
+        8,
+        7,
+        4,
+        0
+      ],
+      "2024-01": [
+        19,
+        6,
+        1,
+        5,
+        7,
+        6,
+        5,
+        1
+      ],
+      "2024-02": [
+        21,
+        9,
+        1,
+        4,
+        7,
+        4,
+        11,
+        4
+      ],
+      "2024-03": [
+        16,
+        2,
+        10,
+        7,
+        2,
+        6,
+        7,
+        1
+      ],
+      "2024-04": [
+        15,
+        6,
+        5,
+        3,
+        4,
+        8,
+        3,
+        1
+      ],
+      "2024-05": [
+        12,
+        3,
+        4,
+        7,
+        1,
+        11,
+        2,
+        0
+      ],
+      "2024-06": [
+        15,
+        7,
+        7,
+        4,
+        2,
+        8,
+        7,
+        1
+      ],
+      "2024-07": [
+        15,
+        8,
+        1,
+        2,
+        2,
+        2,
+        8,
+        0
+      ],
+      "2024-08": [
+        22,
+        1,
+        4,
+        6,
+        2,
+        4,
+        6,
+        1
+      ],
+      "2024-09": [
+        11,
+        3,
+        4,
+        1,
+        3,
+        3,
+        5,
+        0
+      ],
+      "2024-10": [
+        20,
+        4,
+        5,
+        6,
+        4,
+        6,
+        7,
+        3
+      ],
+      "2024-11": [
+        17,
+        7,
+        4,
+        5,
+        3,
+        9,
+        9,
+        0
+      ],
+      "2024-12": [
+        9,
+        4,
+        4,
+        5,
+        6,
+        8,
+        3,
+        1
+      ],
+      "2025-01": [
+        21,
+        4,
+        3,
+        3,
+        4,
+        7,
+        9,
+        0
+      ],
+      "2025-02": [
+        27,
+        6,
+        9,
+        6,
+        6,
+        11,
+        15,
+        2
+      ],
+      "2025-03": [
+        20,
+        4,
+        4,
+        7,
+        5,
+        4,
+        11,
+        1
+      ],
+      "2025-04": [
+        23,
+        9,
+        4,
+        8,
+        2,
+        8,
+        10,
+        3
+      ],
+      "2025-05": [
+        14,
+        4,
+        5,
+        9,
+        5,
+        5,
+        14,
+        2
+      ],
+      "2025-06": [
+        22,
+        11,
+        4,
+        5,
+        8,
+        6,
+        12,
+        0
+      ],
+      "2025-07": [
+        29,
+        5,
+        10,
+        5,
+        4,
+        3,
+        8,
+        0
+      ],
+      "2025-08": [
+        28,
+        7,
+        5,
+        10,
+        5,
+        12,
+        7,
+        1
+      ],
+      "2025-09": [
+        17,
+        2,
+        2,
+        6,
+        4,
+        5,
+        6,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Generalized Principal-Agency: Contracts, Information, Games and Beyond",
+          "year": "2022-09",
+          "abstract": "In the principal-agent problem formulated by Myerson'82, agents have private\ninformation (type) and make private decisions (action), both of which are\nunobservable to the principal. Myerson pointed out an elegant linear\nprogramming solution that relies on the revelation principle. This paper\nextends Myerson's results to a more general setting where the principal's\naction space can be infinite and subject to additional design constraints.\n  Our generalized principal-agent model unifies several important design\nproblems including contract design, information design, and Bayesian\nStackelberg games, and encompasses them as special cases. We first extend the\nrevelation principle to this general model, based on which a polynomial-time\nalgorithm is then derived for computing the optimal mechanism for the\nprincipal. This algorithm not only implies new efficient solutions\nsimultaneously for all the aforementioned special cases but also significantly\nsimplifies previously known algorithms designed for special cases. Inspired by\nthe recent interest in the algorithmic design of a single contract and menu of\ncontracts, we study such constrained design problems to our general\nprincipal-agent model. In contrast to the above unification, our results here\nillustrate the other facet of diversity among different principal-agent design\nproblems and demonstrate how their different structures can lead to different\ncomplexities: some are tractable whereas others are APX-hard. Finally, we\nreveal an interesting connection of our model to the problem of information\nacquisition for decision making and study its algorithmic properties in\ngeneral.",
+          "arxiv_id": "2209.01146v2"
+        },
+        {
+          "title": "Informationally Robust Cheap-Talk",
+          "year": "2023-02",
+          "abstract": "We study the robustness of cheap-talk equilibria to infinitesimal private\ninformation of the receiver in a model with a binary state-space and\nstate-independent sender-preferences. We show that the sender-optimal\nequilibrium is robust if and only if this equilibrium either reveals no\ninformation to the receiver or fully reveals one of the states with positive\nprobability. We then characterize the actions that can be played with positive\nprobability in any robust equilibrium. Finally, we fully characterize the\noptimal sender-utility under binary receiver's private information, and provide\nbounds for the optimal sender-utility under general private information.",
+          "arxiv_id": "2302.00281v1"
+        },
+        {
+          "title": "Indicator Choice in Pay-for-Performance",
+          "year": "2023-07",
+          "abstract": "We study the classic principal-agent model when the signal observed by the\nprincipal is chosen by the agent. We fully characterize the optimal information\nstructure from an agent's perspective in a general moral hazard setting with\nlimited liability. Due to endogeneity of the contract chosen by the principal,\nthe agent's choice of information is non-trivial. We show that the agent's\nproblem can be mapped into a geometrical game between the principal and the\nagent in the space of likelihood ratios. We use this representation result to\nshow that coarse contracts are sufficient: The agent can achieve her best with\nbinary signals. Additionally, we can characterize conditions under which the\nagent is able to extract the entire surplus and implement the first-best\nefficient allocation. Finally, we show that when effort and performance are\none-dimensional, under a general class of models, threshold signals are\noptimal. Our theory can thus provide a rationale for coarseness of contracts\nbased on the bargaining power of the agent in negotiations.",
+          "arxiv_id": "2307.12457v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Strategy-proof and Envy-free Mechanisms for House Allocation",
+          "year": "2020-10",
+          "abstract": "We consider the problem of allocating indivisible objects to agents when\nagents have strict preferences over objects. There are inherent trade-offs\nbetween competing notions of efficiency, fairness and incentives in assignment\nmechanisms. It is, therefore, natural to consider mechanisms that satisfy two\nof these three properties in their strongest notions, while trying to improve\non the third dimension. In this paper, we are motivated by the following\nquestion: Is there a strategy-proof and envy-free random assignment mechanism\nmore efficient than equal division?\n  Our contributions in this paper are twofold. First, we further explore the\nincompatibility between efficiency and envy-freeness in the class of\nstrategy-proof mechanisms. We define a new notion of efficiency that is weaker\nthan ex-post efficiency and prove that any strategy-proof and envy-free\nmechanism must sacrifice efficiency even in this very weak sense. Next, we\nintroduce a new family of mechanisms called Pairwise Exchange mechanisms and\nmake the surprising observation that strategy-proofness is equivalent to\nenvy-freeness within this class. We characterize the set of all neutral and\nstrategy-proof (and hence, also envy-free) mechanisms in this family and show\nthat they admit a very simple linear representation.",
+          "arxiv_id": "2010.16384v1"
+        },
+        {
+          "title": "School Choice with Farsighted Students",
+          "year": "2022-12",
+          "abstract": "We consider priority-based school choice problems with farsighted students.\nWe show that a singleton set consisting of the matching obtained from the Top\nTrading Cycles (TTC) mechanism is a farsighted stable set. However, the\nmatching obtained from the Deferred Acceptance (DA) mechanism may not belong to\nany farsighted stable set. Hence, the TTC mechanism provides an assignment that\nis not only Pareto efficient but also farsightedly stable. Moreover, looking\nforward three steps ahead is already sufficient for stabilizing the matching\nobtained from the TTC.",
+          "arxiv_id": "2212.07108v1"
+        },
+        {
+          "title": "Cutoff stability under distributional constraints with an application to summer internship matching",
+          "year": "2021-02",
+          "abstract": "We introduce a new two-sided stable matching problem that describes the\nsummer internship matching practice of an Australian university. The model is a\ncase between two models of Kamada and Kojima on matchings with distributional\nconstraints. We study three solution concepts, the strong and weak stability\nconcepts proposed by Kamada and Kojima, and a new one in between the two,\ncalled cutoff stability. Kamada and Kojima showed that a strongly stable\nmatching may not exist in their most restricted model with disjoint regional\nquotas. Our first result is that checking its existence is NP-hard. We then\nshow that a cutoff stable matching exists not just for the summer internship\nproblem but also for the general matching model with arbitrary heredity\nconstraints. We present an algorithm to compute a cutoff stable matching and\nshow that it runs in polynomial time in our special case of summer internship\nmodel. However, we also show that finding a maximum size cutoff stable matching\nis NP-hard, but we provide a Mixed Integer Linear Program formulation for this\noptimisation problem.",
+          "arxiv_id": "2102.02931v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Multi-item Non-truthful Auctions Achieve Good Revenue",
+          "year": "2020-02",
+          "abstract": "We present a general framework for designing approximately revenue-optimal\nmechanisms for multi-item additive auctions, which applies to both truthful and\nnon-truthful auctions. Given a (not necessarily truthful) single-item auction\nformat $A$ satisfying certain technical conditions, we run simultaneous item\nauctions augmented with a personalized entry fee for each bidder that must be\npaid before the auction can be accessed. These entry fees depend only on the\nprior distribution of bidder types, and in particular are independent of\nrealized bids. We bound the revenue of the resulting two-part tariff mechanism\nusing a novel geometric technique that enables revenue guarantees for many\ncommon non-truthful auctions that previously had none. Our approach adapts and\nextends the duality framework of Cai et al [CDW16] beyond truthful auctions.\n  Our framework can be used with many common auction formats, such as\nsimultaneous first-price, simultaneous second-price, and simultaneous all-pay\nauctions. Our results for first price and all-pay are the first revenue\nguarantees of non-truthful mechanisms in multi-dimensional environments,\naddressing an open question in the literature [RST17]. If all-pay auctions are\nused, we prove that the resulting mechanism is also credible in the sense that\nthe auctioneer cannot benefit by deviating from the stated mechanism after\nobserving agent bids. This is the first static credible mechanism for\nmulti-item additive auctions that achieves a constant factor of the optimal\nrevenue. If second-price auctions are used, we obtain a truthful\n$O(1)$-approximate mechanism with fixed entry fees that are amenable to tuning\nvia online learning techniques.",
+          "arxiv_id": "2002.06702v6"
+        },
+        {
+          "title": "Randomized Truthful Auctions with Learning Agents",
+          "year": "2024-11",
+          "abstract": "We study a setting where agents use no-regret learning algorithms to\nparticipate in repeated auctions. \\citet{kolumbus2022auctions} showed, rather\nsurprisingly, that when bidders participate in second-price auctions using\nno-regret bidding algorithms, no matter how large the number of interactions\n$T$ is, the runner-up bidder may not converge to bidding truthfully. Our first\nresult shows that this holds for \\emph{general deterministic} truthful\nauctions. We also show that the ratio of the learning rates of the bidders can\n\\emph{qualitatively} affect the convergence of the bidders. Next, we consider\nthe problem of revenue maximization in this environment. In the setting with\nfully rational bidders, \\citet{myerson1981optimal} showed that revenue can be\nmaximized by using a second-price auction with reserves.We show that, in stark\ncontrast, in our setting with learning bidders, \\emph{randomized} auctions can\nhave strictly better revenue guarantees than second-price auctions with\nreserves, when $T$ is large enough. Finally, we study revenue maximization in\nthe non-asymptotic regime. We define a notion of {\\em auctioneer regret}\ncomparing the revenue generated to the revenue of a second price auction with\ntruthful bids. When the auctioneer has to use the same auction throughout the\ninteraction, we show an (almost) tight regret bound of $\\smash{\\widetilde\n\\Theta(T^{3/4})}.$ If the auctioneer can change auctions during the\ninteraction, but in a way that is oblivious to the bids, we show an (almost)\ntight bound of $\\smash{\\widetilde \\Theta(\\sqrt{T})}.$",
+          "arxiv_id": "2411.09517v1"
+        },
+        {
+          "title": "Time-Varyingness in Auction Breaks Revenue Equivalence",
+          "year": "2024-10",
+          "abstract": "Auction is one of the most representative buying-selling systems. A\ncelebrated study shows that the seller's expected revenue is equal in\nequilibrium, regardless of the type of auction, typically first-price and\nsecond-price auctions. Here, however, we hypothesize that when some auction\nenvironments vary with time, this revenue equivalence may not be maintained. In\nsecond-price auctions, the equilibrium strategy is robustly feasible.\nConversely, in first-price auctions, the buyers must continue to adapt their\nstrategies according to the environment of the auction. Surprisingly, we prove\nthat revenue equivalence can be broken in both directions. First-price auctions\nbring larger or smaller revenue than second-price auctions, case by case,\ndepending on how the value of an item varies. Our experiments also demonstrate\nrevenue inequivalence in various scenarios, where the value varies periodically\nor randomly. This study uncovers a phenomenon, the breaking of revenue\nequivalence by the time-varyingness in auctions, that likely occurs in\nreal-world auctions, revealing its underlying mechanism.",
+          "arxiv_id": "2410.12306v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "A Dynamic Agent Based Model of the Real Economy with Monopolistic Competition, Perfect Product Differentiation, Heterogeneous Agents, Increasing Returns to Scale and Trade in Disequilibrium",
+          "year": "2024-01",
+          "abstract": "We have used agent-based modeling as our numerical method to artificially\nsimulate a dynamic real economy where agents are rational maximizers of an\nobjective function of Cobb-Douglas type. The economy is characterised by\nheterogeneous agents, acting out of local or imperfect information,\nmonopolistic competition, perfect product differentiation, allowance for\nincreasing returns to scale technology and trade in disequilibrium. An\nalgorithm for economic activity in each period is devised and a general purpose\nopen source agent-based model is developed which allows for counterfactual\ninquiries, testing out treatments, analysing causality of various economic\nprocesses, outcomes and studying emergent properties. 10,000 simulations, with\n10 firms and 80 consumers are run with varying parameters and the results show\nthat from only a few initial conditions the economy reaches equilibrium while\nin most of the other cases it remains in perpetual disequilibrium. It also\nshows that from a few initial conditions the economy reaches a disaster where\nall the consumer wealth falls to zero or only a single producer remains.\nFurthermore, from some initial conditions, an ideal economy with high wage\nrate, high consumer utility and no unemployment is also reached. It was also\nobserved that starting from an equal endowment of wealth in consumers and in\nproducers, inequality emerged in the economy. In majority of the cases most of\nthe firms(6-7) shut down because they were not profitable enough and only a few\nfirms remained. Our results highlight that all these varying outcomes are\npossible for a decentralized market economy with rational optimizing agents.",
+          "arxiv_id": "2401.07070v1"
+        },
+        {
+          "title": "Endogenous structural transformation in economic development",
+          "year": "2020-11",
+          "abstract": "This paper extends Xing's (2023abcd) optimal growth models of catching-up\neconomies from the case of production function switching to that of economic\nstructure switching and argues how a country develops its economy by endogenous\nstructural transformation and efficient resource allocation in a market\nmechanism. To achieve this goal, the paper first summarizes three attributes of\neconomic structures from the literature, namely, structurality, durationality,\nand transformality, and discuss their implications for methods of economic\nmodeling. Then, with the common knowledge assumption, the paper extends Xing's\n(2023a) optimal growth model that is based on production function switching and\nconsiders an extended Ramsey model with endogenous structural transformation in\nwhich the social planner chooses the optimal industrial structure, recource\nallocation with the chosen structure, and consumption to maximize the\nrepresentative household's total utility subject to the resource constraint.\nThe paper next establishes the mathematical underpinning of the static,\ndynamic, and switching equilibria. The Ramsey growth model and its equilibria\nare then extended to economies with complicated economic structures consisting\nof hierarchical production, technology adoption and innovation, infrastructure,\nand economic and political institutions. The paper concludes with a brief\ndiscussion of applications of the proposed methodology to economic development\nproblems in other scenarios.",
+          "arxiv_id": "2011.03695v3"
+        },
+        {
+          "title": "Credit, Land Speculation, and Long-Run Economic Growth",
+          "year": "2024-05",
+          "abstract": "This paper presents a model that studies the impact of credit expansions\narising from increases in collateral values or lower interest rate policies on\nlong-run productivity and economic growth in a two-sector endogenous growth\neconomy, with the driver of growth lying in one sector (manufacturing) but not\nin the other (real estate). We show that it is not so much aggregate credit\nexpansion that matters for long-run productivity and economic growth but\nsectoral credit expansions. Credit expansions associated mainly with relaxation\nof real estate financing (capital investment financing) will be\nproductivity-and growth-retarding (enhancing). Without financial regulations,\nlow interest rates and more expansionary monetary policy may so encourage land\nspeculation using leverage that productive capital investment and economic\ngrowth are decreased. Unlike in standard macroeconomic models, in ours, the\nequilibrium price of land will be finite even if the safe rate of interest is\nless than the rate of output growth.",
+          "arxiv_id": "2405.05901v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Exploring Weak Strategy-Proofness in Voting Theory",
+          "year": "2020-05",
+          "abstract": "Voting is the aggregation of individual preferences in order to select a\nwinning alternative. Selection of a winner is accomplished via a voting rule,\ne.g., rank-order voting, majority rule, plurality rule, approval voting. Which\nvoting rule should be used? In social choice theory, desirable properties of\nvoting rules are expressed as axioms to be satisfied. This thesis focuses on\naxioms concerning strategic manipulation by voters. Sometimes, voters may\nintentionally misstate their true preferences in order to alter the outcome for\ntheir own advantage. For example, in plurality rule, if a voter knows that\ntheir top-choice candidate will lose, then they might instead vote for their\nsecond-choice candidate just to avoid an even less desirable result. When no\ncoalition of voters can strategically manipulate, then the voting rule is said\nto satisfy the axiom of Strategy-Proofness. A less restrictive axiom is Weak\nStrategy-Proofness (as defined by Dasgupta and Maskin (2019)), which allows for\nstrategic manipulation by all but the smallest coalitions. Under certain\nintuitive conditions, Dasgupta and Maskin (2019) proved that the only voting\nrules satisfying Strategy-Proofness are rank-order voting and majority rule. In\nmy thesis, I generalize their result, by proving that rank-order voting and\nmajority rule are surprisingly still the only voting rules satisfying Weak\nStrategy-Proofness.",
+          "arxiv_id": "2005.07521v1"
+        },
+        {
+          "title": "Refined Characterizations of Approval-based Committee Scoring Rules",
+          "year": "2023-12",
+          "abstract": "In approval-based committee (ABC) elections, the goal is to select a\nfixed-size subset of the candidates, a so-called committee, based on the\nvoters' approval ballots over the candidates. One of the most popular classes\nof ABC voting rules are ABC scoring rules, which have recently been\ncharacterized by Lackner and Skowron (2021). However, this characterization\nrelies on a model where the output is a ranking of committees instead of a set\nof winning committees and no full characterization of ABC scoring rules exists\nin the latter standard setting. We address this issue by characterizing two\nimportant subclasses of ABC scoring rules in the standard ABC election model,\nthereby both extending the result of Lackner and Skowron (2021) to the standard\nsetting and refining it to subclasses. In more detail, by relying on a\nconsistency axiom for variable electorates, we characterize (i) the prominent\nclass of Thiele rules and (ii) a new class of ABC voting rules called ballot\nsize weighted approval voting. Based on these theorems, we also infer\ncharacterizations of three well-known ABC voting rules, namely multi-winner\napproval voting, proportional approval voting, and satisfaction approval\nvoting.",
+          "arxiv_id": "2312.08799v2"
+        },
+        {
+          "title": "Characterizations of voting rules based on majority margins",
+          "year": "2025-01",
+          "abstract": "In the context of voting with ranked ballots, an important class of voting\nrules is the class of margin-based rules (also called pairwise rules). A voting\nrule is margin-based if whenever two elections generate the same head-to-head\nmargins of victory or loss between candidates, then the voting rule yields the\nsame outcome in both elections. Although this is a mathematically natural\ninvariance property to consider, whether it should be regarded as a normative\naxiom on voting rules is less clear. In this paper, we address this question\nfor voting rules with any kind of output, whether a set of candidates, a\nranking, a probability distribution, etc. We prove that a voting rule is\nmargin-based if and only if it satisfies some axioms with clearer normative\ncontent. A key axiom is what we call Preferential Equality, stating that if two\nvoters both rank a candidate $x$ immediately above a candidate $y$, then either\nvoter switching to rank $y$ immediately above $x$ will have the same effect on\nthe election outcome as if the other voter made the switch, so each voter's\npreference for $y$ over $x$ is treated equally.",
+          "arxiv_id": "2501.08595v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Non-Allais Paradox and Context-Dependent Risk Attitudes",
+          "year": "2024-11",
+          "abstract": "We provide and axiomatize a representation of preferences over lotteries that\ngeneralizes the expected utility model. Our representation is consistent with\nthe violations of the independence axiom that we observe in the laboratory\nexperiment that we conduct. The violations differ from the Allais Paradox in\nthat they are incompatible with some of the most prominent non-expected utility\nmodels. Our representation can be interpreted as a decision-maker with\ncontext-dependent attitudes to risks and allows us to generate various types of\nrealistic behavior. We analyze some properties of our model, including\nspecifications that ensure preferences for first-order stochastic dominance. We\ntest whether subjects in our experiment exhibit the type of context-dependent\nrisk attitudes that arise in our model.",
+          "arxiv_id": "2411.13823v1"
+        },
+        {
+          "title": "Recovering utility",
+          "year": "2023-01",
+          "abstract": "We provide sufficient conditions under which a utility function may be\nrecovered from a finite choice experiment. Identification, as is commonly\nunderstood in decision theory, is not enough. We provide a general\nrecoverability result that is widely applicable to modern theories of choice\nunder uncertainty. Key is to allow for a monetary environment, in which an\nobjective notion of monotonicity is meaningful. In such environments, we show\nthat subjective expected utility, as well as variational preferences, and other\nparametrizations of utilities over uncertain acts are recoverable. We also\nconsider utility recovery in a statistical model with noise and random\ndeviations from utility maximization.",
+          "arxiv_id": "2301.11492v1"
+        },
+        {
+          "title": "Random Non-Expected Utility: Non-Uniqueness",
+          "year": "2020-09",
+          "abstract": "In random expected utility (Gul and Pesendorfer, 2006), the distribution of\npreferences is uniquely recoverable from random choice. This paper shows\nthrough two examples that such uniqueness fails in general if risk preferences\nare random but do not conform to expected utility theory. In the first,\nnon-uniqueness obtains even if all preferences are confined to the betweenness\nclass (Dekel, 1986) and are suitably monotone. The second example illustrates\nrandom choice behavior consistent with random expected utility that is also\nconsistent with random non-expected utility. On the other hand, we find that if\nrisk preferences conform to weighted utility theory (Chew, 1983) and are\nmonotone in first-order stochastic dominance, random choice again uniquely\nidentifies the distribution of preferences. Finally, we argue that, depending\non the domain of risk preferences, uniqueness may be restored if joint\ndistributions of choice across a limited number of feasible sets are available.",
+          "arxiv_id": "2009.04173v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Best-response dynamics, playing sequences, and convergence to equilibrium in random games",
+          "year": "2021-01",
+          "abstract": "We analyze the performance of the best-response dynamic across all\nnormal-form games using a random games approach. The playing sequence -- the\norder in which players update their actions -- is essentially irrelevant in\ndetermining whether the dynamic converges to a Nash equilibrium in certain\nclasses of games (e.g. in potential games) but, when evaluated across all\npossible games, convergence to equilibrium depends on the playing sequence in\nan extreme way. Our main asymptotic result shows that the best-response dynamic\nconverges to a pure Nash equilibrium in a vanishingly small fraction of all\n(large) games when players take turns according to a fixed cyclic order. By\ncontrast, when the playing sequence is random, the dynamic converges to a pure\nNash equilibrium if one exists in almost all (large) games.",
+          "arxiv_id": "2101.04222v3"
+        },
+        {
+          "title": "Algorithm for Computing Approximate Nash Equilibrium in Continuous Games with Application to Continuous Blotto",
+          "year": "2020-06",
+          "abstract": "Successful algorithms have been developed for computing Nash equilibrium in a\nvariety of finite game classes. However, solving continuous games -- in which\nthe pure strategy space is (potentially uncountably) infinite -- is far more\nchallenging. Nonetheless, many real-world domains have continuous action\nspaces, e.g., where actions refer to an amount of time, money, or other\nresource that is naturally modeled as being real-valued as opposed to integral.\nWe present a new algorithm for {approximating} Nash equilibrium strategies in\ncontinuous games. In addition to two-player zero-sum games, our algorithm also\napplies to multiplayer games and games with imperfect information. We\nexperiment with our algorithm on a continuous imperfect-information Blotto\ngame, in which two players distribute resources over multiple battlefields.\nBlotto games have frequently been used to model national security scenarios and\nhave also been applied to electoral competition and auction theory. Experiments\nshow that our algorithm is able to quickly compute close approximations of Nash\nequilibrium strategies for this game.",
+          "arxiv_id": "2006.07443v5"
+        },
+        {
+          "title": "The Frequency of Convergent Games under Best-Response Dynamics",
+          "year": "2020-11",
+          "abstract": "Generating payoff matrices of normal-form games at random, we calculate the\nfrequency of games with a unique pure strategy Nash equilibrium in the ensemble\nof $n$-player, $m$-strategy games. These are perfectly predictable as they must\nconverge to the Nash equilibrium. We then consider a wider class of games that\nconverge under a best-response dynamic, in which each player chooses their\noptimal pure strategy successively. We show that the frequency of convergent\ngames goes to zero as the number of players or the number of strategies goes to\ninfinity. In the $2$-player case, we show that for large games with at least\n$10$ strategies, convergent games with multiple pure strategy Nash equilibria\nare more likely than games with a unique Nash equilibrium. Our novel approach\nuses an $n$-partite graph to describe games.",
+          "arxiv_id": "2011.01052v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Transaction Fee Mechanism Design with Active Block Producers",
+          "year": "2023-07",
+          "abstract": "The incentive-compatibility properties of blockchain transaction fee\nmechanisms have been investigated with *passive* block producers that are\nmotivated purely by the net rewards earned at the consensus layer. This paper\nintroduces a model of *active* block producers that have their own private\nvaluations for blocks (representing, for example, additional value derived from\nthe application layer). The block producer surplus in our model can be\ninterpreted as one of the more common colloquial meanings of the term ``MEV.''\n  The main results of this paper show that transaction fee mechanism design is\nfundamentally more difficult with active block producers than with passive\nones: with active block producers, no non-trivial or approximately\nwelfare-maximizing transaction fee mechanism can be incentive-compatible for\nboth users and block producers. These results can be interpreted as a\nmathematical justification for the current interest in augmenting transaction\nfee mechanisms with additional components such as order flow auctions, block\nproducer competition, trusted hardware, or cryptographic techniques.",
+          "arxiv_id": "2307.01686v2"
+        },
+        {
+          "title": "Dynamic Posted-Price Mechanisms for the Blockchain Transaction Fee Market",
+          "year": "2021-03",
+          "abstract": "In recent years, prominent blockchain systems such as Bitcoin and Ethereum\nhave experienced explosive growth in transaction volume, leading to frequent\nsurges in demand for limited block space and causing transaction fees to\nfluctuate by orders of magnitude. Existing systems sell space using first-price\nauctions; however, users find it difficult to estimate how much they need to\nbid in order to get their transactions accepted onto the chain. If they bid too\nlow, their transactions can have long confirmation times. If they bid too high,\nthey pay larger fees than necessary.\n  In light of these issues, new transaction fee mechanisms have been proposed,\nmost notably EIP-1559, aiming to provide better usability. EIP-1559 is a\nhistory-dependent mechanism that relies on block utilization to adjust a base\nfee. We propose an alternative design -- a {\\em dynamic posted-price mechanism}\n-- which uses not only block utilization but also observable bids from past\nblocks to compute a posted price for subsequent blocks. We show its potential\nto reduce price volatility by providing examples for which the prices of\nEIP-1559 are unstable while the prices of the proposed mechanism are stable.\nMore generally, whenever the demand for the blockchain stabilizes, we ask if\nour mechanism is able to converge to a stable state. Our main result provides\nsufficient conditions in a probabilistic setting for which the proposed\nmechanism is approximately welfare optimal and the prices are stable. Our main\ntechnical contribution towards establishing stability is an iterative algorithm\nthat, given oracle access to a Lipschitz continuous and strictly concave\nfunction $f$, converges to a fixed point of $f$.",
+          "arxiv_id": "2103.14144v2"
+        },
+        {
+          "title": "Transaction Fee Mechanism Design",
+          "year": "2021-06",
+          "abstract": "Demand for blockchains such as Bitcoin and Ethereum is far larger than\nsupply, necessitating a mechanism that selects a subset of transactions to\ninclude \"on-chain\" from the pool of all pending transactions. This paper\ninvestigates the problem of designing a blockchain transaction fee mechanism\nthrough the lens of mechanism design. We introduce two new forms of\nincentive-compatibility that capture some of the idiosyncrasies of the\nblockchain setting, one (MMIC) that protects against deviations by\nprofit-maximizing miners and one (OCA-proofness) that protects against\noff-chain collusion between miners and users.\n  This study is immediately applicable to a recent (August 5, 2021) and major\nchange to Ethereum's transaction fee mechanism, based on a proposal called\n\"EIP-1559.\" Historically, Ethereum's transaction fee mechanism was a\nfirst-price (pay-as-bid) auction. EIP-1559 suggested making several tightly\ncoupled changes, including the introduction of variable-size blocks, a\nhistory-dependent reserve price, and the burning of a significant portion of\nthe transaction fees. We prove that this new mechanism earns an impressive\nreport card: it satisfies the MMIC and OCA-proofness conditions, and is also\ndominant-strategy incentive compatible (DSIC) except when there is a sudden\ndemand spike. We also introduce an alternative design, the \"tipless mechanism,\"\nwhich offers an incomparable slate of incentive-compatibility guarantees -- it\nis MMIC and DSIC, and OCA-proof unless in the midst of a demand spike.",
+          "arxiv_id": "2106.01340v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:45:14Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

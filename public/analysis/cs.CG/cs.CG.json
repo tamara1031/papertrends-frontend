@@ -1,0 +1,722 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_problem_time_algorithm_set",
+        "keywords": [
+          [
+            "problem",
+            0.033951289146027755
+          ],
+          [
+            "time",
+            0.030769578892673722
+          ],
+          [
+            "algorithm",
+            0.028721240600140287
+          ],
+          [
+            "set",
+            0.026000307471288696
+          ],
+          [
+            "points",
+            0.025181275049317175
+          ],
+          [
+            "graph",
+            0.021964296994437336
+          ],
+          [
+            "number",
+            0.021458000757152203
+          ],
+          [
+            "graphs",
+            0.01870071145647688
+          ],
+          [
+            "point",
+            0.017835623456524934
+          ],
+          [
+            "algorithms",
+            0.015307922879116512
+          ]
+        ],
+        "count": 2159
+      },
+      "1": {
+        "name": "1_mesh_3D_method_surface",
+        "keywords": [
+          [
+            "mesh",
+            0.03216238383105283
+          ],
+          [
+            "3D",
+            0.03142540439727728
+          ],
+          [
+            "method",
+            0.029378471250745653
+          ],
+          [
+            "surface",
+            0.028248409966163127
+          ],
+          [
+            "shape",
+            0.022232472854414986
+          ],
+          [
+            "methods",
+            0.021739921045654472
+          ],
+          [
+            "meshes",
+            0.021274773390796708
+          ],
+          [
+            "surfaces",
+            0.0210886377451953
+          ],
+          [
+            "point",
+            0.01779149940005671
+          ],
+          [
+            "approach",
+            0.015760523698845827
+          ]
+        ],
+        "count": 401
+      },
+      "2": {
+        "name": "2_persistence_homology_persistent_data",
+        "keywords": [
+          [
+            "persistence",
+            0.044797735717307136
+          ],
+          [
+            "homology",
+            0.039006809108470354
+          ],
+          [
+            "persistent",
+            0.03463604724573065
+          ],
+          [
+            "data",
+            0.032542322686113095
+          ],
+          [
+            "topological",
+            0.0303055940715967
+          ],
+          [
+            "persistent homology",
+            0.02766988182671773
+          ],
+          [
+            "complex",
+            0.01883248185666767
+          ],
+          [
+            "filtration",
+            0.016860980461639936
+          ],
+          [
+            "complexes",
+            0.016281604912732055
+          ],
+          [
+            "simplicial",
+            0.016186486545577854
+          ]
+        ],
+        "count": 363
+      },
+      "3": {
+        "name": "3_merge_trees_merge trees_data",
+        "keywords": [
+          [
+            "merge",
+            0.055041142523963305
+          ],
+          [
+            "trees",
+            0.05266595831881144
+          ],
+          [
+            "merge trees",
+            0.04638624175641253
+          ],
+          [
+            "data",
+            0.045176215653131645
+          ],
+          [
+            "scalar",
+            0.045127769098973335
+          ],
+          [
+            "topological",
+            0.0403101070084346
+          ],
+          [
+            "fields",
+            0.03389806871414767
+          ],
+          [
+            "distance",
+            0.03147410913197942
+          ],
+          [
+            "analysis",
+            0.030641086674534208
+          ],
+          [
+            "Reeb",
+            0.030298995295867232
+          ]
+        ],
+        "count": 64
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5761494933123541,
+        -0.4426283634212076,
+        -0.6613296177466055
+      ],
+      [
+        -0.5761494933123541,
+        1.0,
+        -0.6420577913026874,
+        -0.7059519944371554
+      ],
+      [
+        -0.4426283634212076,
+        -0.6420577913026874,
+        1.0,
+        -0.37805790229118896
+      ],
+      [
+        -0.6613296177466055,
+        -0.7059519944371554,
+        -0.37805790229118896,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        27,
+        6,
+        5,
+        2
+      ],
+      "2020-02": [
+        51,
+        3,
+        3,
+        3
+      ],
+      "2020-03": [
+        57,
+        7,
+        4,
+        1
+      ],
+      "2020-04": [
+        50,
+        5,
+        5,
+        2
+      ],
+      "2020-05": [
+        32,
+        6,
+        3,
+        3
+      ],
+      "2020-06": [
+        42,
+        4,
+        3,
+        0
+      ],
+      "2020-07": [
+        65,
+        10,
+        2,
+        5
+      ],
+      "2020-08": [
+        33,
+        6,
+        1,
+        4
+      ],
+      "2020-09": [
+        28,
+        5,
+        5,
+        0
+      ],
+      "2020-10": [
+        32,
+        6,
+        7,
+        1
+      ],
+      "2020-11": [
+        42,
+        5,
+        2,
+        4
+      ],
+      "2020-12": [
+        43,
+        9,
+        6,
+        2
+      ],
+      "2021-01": [
+        26,
+        5,
+        4,
+        4
+      ],
+      "2021-02": [
+        27,
+        4,
+        4,
+        0
+      ],
+      "2021-03": [
+        59,
+        14,
+        5,
+        0
+      ],
+      "2021-04": [
+        32,
+        2,
+        5,
+        0
+      ],
+      "2021-05": [
+        32,
+        6,
+        5,
+        3
+      ],
+      "2021-06": [
+        50,
+        4,
+        3,
+        6
+      ],
+      "2021-07": [
+        37,
+        3,
+        8,
+        3
+      ],
+      "2021-08": [
+        39,
+        3,
+        4,
+        3
+      ],
+      "2021-09": [
+        39,
+        2,
+        4,
+        2
+      ],
+      "2021-10": [
+        32,
+        5,
+        6,
+        2
+      ],
+      "2021-11": [
+        44,
+        10,
+        5,
+        2
+      ],
+      "2021-12": [
+        42,
+        2,
+        8,
+        3
+      ],
+      "2022-01": [
+        25,
+        8,
+        5,
+        3
+      ],
+      "2022-02": [
+        37,
+        2,
+        2,
+        2
+      ],
+      "2022-03": [
+        43,
+        3,
+        7,
+        2
+      ],
+      "2022-04": [
+        20,
+        3,
+        4,
+        3
+      ],
+      "2022-05": [
+        24,
+        10,
+        6,
+        2
+      ],
+      "2022-06": [
+        39,
+        5,
+        7,
+        2
+      ],
+      "2022-07": [
+        35,
+        7,
+        6,
+        3
+      ],
+      "2022-08": [
+        34,
+        3,
+        5,
+        2
+      ],
+      "2022-09": [
+        42,
+        1,
+        2,
+        1
+      ],
+      "2022-10": [
+        23,
+        2,
+        7,
+        2
+      ],
+      "2022-11": [
+        33,
+        1,
+        2,
+        3
+      ],
+      "2022-12": [
+        20,
+        5,
+        11,
+        4
+      ],
+      "2023-01": [
+        24,
+        4,
+        4,
+        3
+      ],
+      "2023-02": [
+        29,
+        2,
+        3,
+        2
+      ],
+      "2023-03": [
+        55,
+        6,
+        8,
+        6
+      ],
+      "2023-04": [
+        20,
+        4,
+        5,
+        1
+      ],
+      "2023-05": [
+        39,
+        6,
+        2,
+        1
+      ],
+      "2023-06": [
+        39,
+        4,
+        6,
+        5
+      ],
+      "2023-07": [
+        31,
+        4,
+        2,
+        2
+      ],
+      "2023-08": [
+        37,
+        4,
+        3,
+        6
+      ],
+      "2023-09": [
+        31,
+        3,
+        1,
+        5
+      ],
+      "2023-10": [
+        35,
+        13,
+        2,
+        4
+      ],
+      "2023-11": [
+        29,
+        1,
+        2,
+        4
+      ],
+      "2023-12": [
+        33,
+        5,
+        6,
+        3
+      ],
+      "2024-01": [
+        33,
+        7,
+        2,
+        3
+      ],
+      "2024-02": [
+        53,
+        9,
+        4,
+        6
+      ],
+      "2024-03": [
+        43,
+        2,
+        6,
+        6
+      ],
+      "2024-04": [
+        34,
+        6,
+        3,
+        6
+      ],
+      "2024-05": [
+        22,
+        9,
+        6,
+        1
+      ],
+      "2024-06": [
+        31,
+        1,
+        5,
+        5
+      ],
+      "2024-07": [
+        40,
+        3,
+        1,
+        3
+      ],
+      "2024-08": [
+        21,
+        3,
+        3,
+        5
+      ],
+      "2024-09": [
+        36,
+        4,
+        5,
+        4
+      ],
+      "2024-10": [
+        44,
+        8,
+        6,
+        2
+      ],
+      "2024-11": [
+        31,
+        4,
+        5,
+        1
+      ],
+      "2024-12": [
+        41,
+        2,
+        9,
+        3
+      ],
+      "2025-01": [
+        24,
+        5,
+        3,
+        4
+      ],
+      "2025-02": [
+        30,
+        3,
+        5,
+        2
+      ],
+      "2025-03": [
+        40,
+        8,
+        4,
+        1
+      ],
+      "2025-04": [
+        49,
+        4,
+        5,
+        3
+      ],
+      "2025-05": [
+        28,
+        4,
+        4,
+        4
+      ],
+      "2025-06": [
+        49,
+        8,
+        5,
+        1
+      ],
+      "2025-07": [
+        37,
+        8,
+        4,
+        3
+      ],
+      "2025-08": [
+        46,
+        4,
+        6,
+        9
+      ],
+      "2025-09": [
+        19,
+        2,
+        1,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Faster Approximate Covering of Subcurves under the Fréchet Distance",
+          "year": "2022-04",
+          "abstract": "Subtrajectory clustering is an important variant of the trajectory clustering\nproblem, where the start and endpoints of trajectory patterns within the\ncollected trajectory data are not known in advance. We study this problem in\nthe form of a set cover problem for a given polygonal curve: find the smallest\nnumber $k$ of representative curves such that any point on the input curve is\ncontained in a subcurve that has Fr\\'echet distance at most a given $\\Delta$ to\na representative curve. We focus on the case where the representative curves\nare line segments and approach this NP-hard problem with classical techniques\nfrom the area of geometric set cover: we use a variant of the multiplicative\nweights update method which was first suggested by Br\\\"onniman and Goodrich for\nset cover instances with small VC-dimension. We obtain a\nbicriteria-approximation algorithm that computes a set of $O(k\\log(k))$ line\nsegments that cover a given polygonal curve of $n$ vertices under Fr\\'echet\ndistance at most $O(\\Delta)$. We show that the algorithm runs in\n$\\widetilde{O}(k^2 n + k n^3)$ time in expectation and uses $ \\widetilde{O}(k n\n+ n^3)$ space. For two dimensional input curves that are $c$-packed, we bound\nthe expected running time by $\\widetilde{O}(k^2 c^2 n)$ and the space by $\n\\widetilde{O}(kn + c^2 n)$. In $\\mathbb{R}^d$ the dependency on $n$ instead is\nquadratic. In addition, we present a variant of the algorithm that uses\nimplicit weight updates on the candidate set and thereby achieves near-linear\nrunning time in $n$ without any assumptions on the input curve, while keeping\nthe same approximation bounds. This comes at the expense of a small\n(polylogarithmic) dependency on the relative arclength.",
+          "arxiv_id": "2204.09949v1"
+        },
+        {
+          "title": "A polynomial-time $\\text{OPT}^ε$-approximation algorithm for maximum independent set of connected subgraphs in a planar graph",
+          "year": "2023-10",
+          "abstract": "In the Maximum Independent Set of Objects problem, we are given an $n$-vertex\nplanar graph $G$ and a family $\\mathcal{D}$ of $N$ objects, where each object\nis a connected subgraph of $G$. The task is to find a subfamily $\\mathcal{F}\n\\subseteq \\mathcal{D}$ of maximum cardinality that consists of pairwise\ndisjoint objects. This problem is $\\mathsf{NP}$-hard and is equivalent to the\nproblem of finding the maximum number of pairwise disjoint polygons in a given\nfamily of polygons in the plane.\n  As shown by Adamaszek et al. (J. ACM '19), the problem admits a\n\\emph{quasi-polynomial time approximation scheme} (QPTAS): a\n$(1-\\varepsilon)$-approximation algorithm whose running time is bounded by\n$2^{\\mathrm{poly}(\\log(N),1/\\epsilon)} \\cdot n^{\\mathcal{O}(1)}$. Nevertheless,\nto the best of our knowledge, in the polynomial-time regime only the trivial\n$\\mathcal{O}(N)$-approximation is known for the problem in full generality. In\nthe restricted setting where the objects are pseudolines in the plane, Fox and\nPach (SODA '11) gave an $N^{\\varepsilon}$-approximation algorithm with running\ntime $N^{2^{\\tilde{\\mathcal{O}}(1/\\varepsilon)}}$, for any $\\varepsilon>0$.\n  In this work, we present an $\\text{OPT}^{\\varepsilon}$-approximation\nalgorithm for the problem that runs in time\n$N^{\\tilde{\\mathcal{O}}(1/\\varepsilon^2)} n^{\\mathcal{O}(1)}$, for any\n$\\varepsilon>0$, thus improving upon the result of Fox and Pach both in terms\nof generality and in terms of the running time. Our approach combines the\nmethodology of Voronoi separators, introduced by Marx and Pilipczuk (TALG '22),\nwith a new analysis of the approximation factor.",
+          "arxiv_id": "2310.20325v1"
+        },
+        {
+          "title": "Algorithms for the Line-Constrained Disk Coverage and Related Problems",
+          "year": "2021-04",
+          "abstract": "Given a set $P$ of $n$ points and a set $S$ of $m$ weighted disks in the\nplane, the disk coverage problem asks for a subset of disks of minimum total\nweight that cover all points of $P$. The problem is NP-hard. In this paper, we\nconsider a line-constrained version in which all disks are centered on a line\n$L$ (while points of $P$ can be anywhere in the plane). We present an\n$O((m+n)\\log(m+n)+\\kappa\\log m)$ time algorithm for the problem, where $\\kappa$\nis the number of pairs of disks that intersect. Alternatively, we can also\nsolve the problem in $O(nm\\log(m+n))$ time. For the unit-disk case where all\ndisks have the same radius, the running time can be reduced to\n$O((n+m)\\log(m+n))$. In addition, we solve in $O((m+n)\\log(m+n))$ time the\n$L_{\\infty}$ and $L_1$ cases of the problem, in which the disks are squares and\ndiamonds, respectively. As a by-product, the 1D version of the problem where\nall points of $P$ are on $L$ and the disks are line segments on $L$ is also\nsolved in $O((m+n)\\log(m+n))$ time. We also show that the problem has an\n$\\Omega((m+n)\\log (m+n))$ time lower bound even for the 1D case.\n  We further demonstrate that our techniques can also be used to solve other\ngeometric coverage problems. For example, given in the plane a set $P$ of $n$\npoints and a set $S$ of $n$ weighted half-planes, we solve in $O(n^4\\log n)$\ntime the problem of finding a subset of half-planes to cover $P$ so that their\ntotal weight is minimized. This improves the previous best algorithm of\n$O(n^5)$ time by almost a linear factor. If all half-planes are lower ones,\nthen our algorithm runs in $O(n^2\\log n)$ time, which improves the previous\nbest algorithm of $O(n^4)$ time by almost a quadratic factor.",
+          "arxiv_id": "2104.14680v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "FoR$^2$M: Recognition and Repair of Foldings in Mesh Surfaces. Application to 3D Object Degradation",
+          "year": "2022-06",
+          "abstract": "Triangular meshes are the most popular representations of 3D objects, but\nmany mesh surfaces contain topological singularities that represent a challenge\nfor displaying or further processing them properly. One such singularity is the\nself-intersections that may be present in mesh surfaces that have been created\nby a scanning procedure or by a deformation transformation, such as\noff-setting.\n  Mesh foldings comprise a special case of mesh surface self-intersections,\nwhere the faces of the 3D model intersect and become reversed, with respect to\nthe unfolded part of the mesh surface. A novel method for the recognition and\nrepair of mesh surface foldings is presented, which exploits the structural\ncharacteristics of the foldings in order to efficiently detect the folded\nregions. Following detection, the foldings are removed and any gaps so created\nare filled based on the geometry of the 3D model. The proposed method is\ndirectly applicable to simple mesh surface representations while it does not\nperform any embedding of the 3D mesh (i.e. voxelization, projection). Target of\nthe proposed method is to facilitate mesh degradation procedures in a fashion\nthat retains the original structure, given the operator, in the most efficient\nmanner.",
+          "arxiv_id": "2206.09699v1"
+        },
+        {
+          "title": "Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching",
+          "year": "2023-03",
+          "abstract": "The matching of 3D shapes has been extensively studied for shapes represented\nas surface meshes, as well as for shapes represented as point clouds. While\npoint clouds are a common representation of raw real-world 3D data (e.g. from\nlaser scanners), meshes encode rich and expressive topological information, but\ntheir creation typically requires some form of (often manual) curation. In\nturn, methods that purely rely on point clouds are unable to meet the matching\nquality of mesh-based methods that utilise the additional topological\nstructure. In this work we close this gap by introducing a self-supervised\nmultimodal learning strategy that combines mesh-based functional map\nregularisation with a contrastive loss that couples mesh and point cloud data.\nOur shape matching approach allows to obtain intramodal correspondences for\ntriangle meshes, complete point clouds, and partially observed point clouds, as\nwell as correspondences across these data modalities. We demonstrate that our\nmethod achieves state-of-the-art results on several challenging benchmark\ndatasets even in comparison to recent supervised methods, and that our method\nreaches previously unseen cross-dataset generalisation ability.",
+          "arxiv_id": "2303.10971v1"
+        },
+        {
+          "title": "Filling the Holes on 3D Heritage Object Surface based on Automatic Segmentation Algorithm",
+          "year": "2023-10",
+          "abstract": "Reconstructing and processing the 3D objects are popular activities in the\nresearch field of computer graphics, image processing and computer vision. The\n3D objects are processed based on the methods like geometric modeling, a branch\nof applied mathematics and computational geometry, or the machine learning\nalgorithms based on image processing. The computation of geometrical objects\nincludes processing the curves and surfaces, subdivision, simplification,\nmeshing, holes filling, reconstructing, and refining the 3D surface objects on\nboth point cloud data and triangular mesh. While the machine learning methods\nare developed using deep learning models. With the support of 3D laser scan\ndevices and Lidar techniques, the obtained dataset is close to original shape\nof the real objects. Besides, the photography and its application based on the\nmodern techniques in recent years help us collect data and process the 3D\nmodels more precise. This article proposes an improved method for filling holes\non the 3D object surface based on an automatic segmentation. Instead of filling\nthe hole directly as the existing methods, we now subdivide the hole before\nfilling it. The hole is first determined and segmented automatically based on\ncomputation of its local curvature. It is then filled on each part of the hole\nto match its local curvature shape. The method can work on both 3D point cloud\nsurfaces and triangular mesh surface. Comparing to the state of the art\nmethods, our proposed method obtained higher accuracy of the reconstructed 3D\nobjects.",
+          "arxiv_id": "2310.10875v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "A Framework for Fast and Stable Representations of Multiparameter Persistent Homology Decompositions",
+          "year": "2023-06",
+          "abstract": "Topological data analysis (TDA) is an area of data science that focuses on\nusing invariants from algebraic topology to provide multiscale shape\ndescriptors for geometric data sets such as point clouds. One of the most\nimportant such descriptors is {\\em persistent homology}, which encodes the\nchange in shape as a filtration parameter changes; a typical parameter is the\nfeature scale. For many data sets, it is useful to simultaneously vary multiple\nfiltration parameters, for example feature scale and density. While the\ntheoretical properties of single parameter persistent homology are well\nunderstood, less is known about the multiparameter case. In particular, a\ncentral question is the problem of representing multiparameter persistent\nhomology by elements of a vector space for integration with standard machine\nlearning algorithms. Existing approaches to this problem either ignore most of\nthe multiparameter information to reduce to the one-parameter case or are\nheuristic and potentially unstable in the face of noise. In this article, we\nintroduce a new general representation framework that leverages recent results\non {\\em decompositions} of multiparameter persistent homology. This framework\nis rich in information, fast to compute, and encompasses previous approaches.\nMoreover, we establish theoretical stability guarantees under this framework as\nwell as efficient algorithms for practical computation, making this framework\nan applicable and versatile tool for analyzing geometric and point cloud data.\nWe validate our stability results and algorithms with numerical experiments\nthat demonstrate statistical convergence, prediction accuracy, and fast running\ntimes on several real data sets.",
+          "arxiv_id": "2306.11170v1"
+        },
+        {
+          "title": "MuRiT: Efficient Computation of Pathwise Persistence Barcodes in Multi-Filtered Flag Complexes via Vietoris-Rips Transformations",
+          "year": "2022-07",
+          "abstract": "Multi-parameter persistent homology naturally arises in applications of\npersistent topology to data that come with extra information depending on\nadditional parameters, like for example time series data. We introduce the\nconcept of a Vietoris-Rips transformation, a method that reduces the\ncomputation of the one-parameter persistent homology of pathwise subcomplexes\nin multi-filtered flag complexes to the computation of the Vietoris-Rips\npersistent homology of certain semimetric spaces. The corresponding pathwise\npersistence barcodes track persistence features of the ambient multi-filtered\ncomplex and can in particular be used to recover the rank invariant in\nmulti-parameter persistent homology. We present MuRiT, a scalable algorithm\nthat computes the pathwise persistence barcodes of multi-filtered flag\ncomplexes by means of Vietoris-Rips transformations. Moreover, we provide an\nefficient software implementation of the MuRiT algorithm which resorts to\nRipser for the actual computation of Vietoris-Rips persistence barcodes. To\ndemonstrate the applicability of MuRiT to real-world datasets, we establish\nMuRiT as part of our CoVtRec pipeline for the surveillance of the convergent\nevolution of the coronavirus SARS-CoV-2 in the current COVID-19 pandemic.",
+          "arxiv_id": "2207.03394v1"
+        },
+        {
+          "title": "Cycle Registration in Persistent Homology with Applications in Topological Bootstrap",
+          "year": "2021-01",
+          "abstract": "In this article we propose a novel approach for comparing the persistent\nhomology representations of two spaces (filtrations). Commonly used methods are\nbased on numerical summaries such as persistence diagrams and persistence\nlandscapes, along with suitable metrics (e.g. Wasserstein). These summaries are\nuseful for computational purposes, but they are merely a marginal of the actual\ntopological information that persistent homology can provide. Instead, our\napproach compares between two topological representations directly in the data\nspace. We do so by defining a correspondence relation between individual\npersistent cycles of two different spaces, and devising a method for computing\nthis correspondence. Our matching of cycles is based on both the persistence\nintervals and the spatial placement of each feature. We demonstrate our new\nframework in the context of topological inference, where we use statistical\nbootstrap methods in order to differentiate between real features and noise in\npoint cloud data.",
+          "arxiv_id": "2101.00698v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Flexible and Probabilistic Topology Tracking with Partial Optimal Transport",
+          "year": "2023-02",
+          "abstract": "In this paper, we present a flexible and probabilistic framework for tracking\ntopological features in time-varying scalar fields using merge trees and\npartial optimal transport. Merge trees are topological descriptors that record\nthe evolution of connected components in the sublevel sets of scalar fields. We\npresent a new technique for modeling and comparing merge trees using tools from\npartial optimal transport. In particular, we model a merge tree as a measure\nnetwork, that is, a network equipped with a probability distribution, and\ndefine a notion of distance on the space of merge trees inspired by partial\noptimal transport. Such a distance offers a new and flexible perspective for\nencoding intrinsic and extrinsic information in the comparative measures of\nmerge trees. More importantly, it gives rise to a partial matching between\ntopological features in time-varying data, thus enabling flexible topology\ntracking for scientific simulations. Furthermore, such partial matching may be\ninterpreted as probabilistic coupling between features at adjacent time steps,\nwhich gives rise to probabilistic tracking graphs. We derive a stability result\nfor our distance and provide numerous experiments indicating the efficacy of\nour framework in extracting meaningful feature tracks.",
+          "arxiv_id": "2302.02895v4"
+        },
+        {
+          "title": "Geometry-Aware Merge Tree Comparisons for Time-Varying Data with Interleaving Distances",
+          "year": "2021-07",
+          "abstract": "Merge trees, a type of topological descriptor, serve to identify and\nsummarize the topological characteristics associated with scalar fields. They\npresent a great potential for the analysis and visualization of time-varying\ndata. First, they give compressed and topology-preserving representations of\ndata instances. Second, their comparisons provide a basis for studying the\nrelations among data instances, such as their distributions, clusters,\noutliers, and periodicities. A number of comparative measures have been\ndeveloped for merge trees. However, these measures are often computationally\nexpensive since they implicitly consider all possible correspondences between\ncritical points of the merge trees. In this paper, we perform geometry-aware\ncomparisons of merge trees using labeled interleaving distances. The main idea\nis to decouple the computation of a comparative measure into two steps: a\nlabeling step that generates a correspondence between the critical points of\ntwo merge trees, and a comparison step that computes distances between a pair\nof labeled merge trees by encoding them as matrices. We show that our approach\nis general, computationally efficient, and practically useful. Our general\nframework makes it possible to integrate geometric information of the data\ndomain in the labeling process. At the same time, it reduces the computational\ncomplexity since not all possible correspondences have to be considered. We\ndemonstrate via experiments that such geometry-aware merge tree comparisons\nhelp to detect transitions, clusters, and periodicities of time-varying\ndatasets, as well as to diagnose and highlight the topological changes between\nadjacent data instances.",
+          "arxiv_id": "2107.14373v1"
+        },
+        {
+          "title": "Edit Distance between Merge Trees",
+          "year": "2022-07",
+          "abstract": "Topological structures such as the merge tree provide an abstract and\nsuccinct representation of scalar fields. They facilitate effective\nvisualization and interactive exploration of feature-rich data. A merge tree\ncaptures the topology of sub-level and super-level sets in a scalar field.\nEstimating the similarity between merge trees is an important problem with\napplications to feature-directed visualization of time-varying data. We present\nan approach based on tree edit distance to compare merge trees. The comparison\nmeasure satisfies metric properties, it can be computed efficiently, and the\ncost model for the edit operations is both intuitive and captures well-known\nproperties of merge trees. Experimental results on time-varying scalar fields,\n3D cryo electron microscopy data, shape data, and various synthetic datasets\nshow the utility of the edit distance towards a feature-driven analysis of\nscalar fields.",
+          "arxiv_id": "2207.08511v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:46:09Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_method_numerical_order_methods",
+        "keywords": [
+          [
+            "method",
+            0.03270229197331863
+          ],
+          [
+            "numerical",
+            0.02420225039773727
+          ],
+          [
+            "order",
+            0.021118401854903133
+          ],
+          [
+            "methods",
+            0.020817012584132516
+          ],
+          [
+            "time",
+            0.02042034875170694
+          ],
+          [
+            "equations",
+            0.01889429296964097
+          ],
+          [
+            "problems",
+            0.018460876607721877
+          ],
+          [
+            "problem",
+            0.01820223351236503
+          ],
+          [
+            "model",
+            0.016035087885548943
+          ],
+          [
+            "convergence",
+            0.015282667565622016
+          ]
+        ],
+        "count": 23367
+      },
+      "1": {
+        "name": "1_model_cardiac_blood_flow",
+        "keywords": [
+          [
+            "model",
+            0.04893051525666756
+          ],
+          [
+            "cardiac",
+            0.04143582946542746
+          ],
+          [
+            "blood",
+            0.03163377922721258
+          ],
+          [
+            "flow",
+            0.028752533061824494
+          ],
+          [
+            "models",
+            0.027112212441611785
+          ],
+          [
+            "heart",
+            0.024793515065451466
+          ],
+          [
+            "blood flow",
+            0.019899484421728557
+          ],
+          [
+            "simulations",
+            0.01882969798357599
+          ],
+          [
+            "numerical",
+            0.018828969278374512
+          ],
+          [
+            "computational",
+            0.018065375555253792
+          ]
+        ],
+        "count": 192
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.571015089806119
+      ],
+      [
+        -0.571015089806119,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        248,
+        39
+      ],
+      "2020-02": [
+        255,
+        46
+      ],
+      "2020-03": [
+        246,
+        49
+      ],
+      "2020-04": [
+        243,
+        53
+      ],
+      "2020-05": [
+        271,
+        33
+      ],
+      "2020-06": [
+        279,
+        36
+      ],
+      "2020-07": [
+        300,
+        42
+      ],
+      "2020-08": [
+        220,
+        38
+      ],
+      "2020-09": [
+        227,
+        40
+      ],
+      "2020-10": [
+        274,
+        61
+      ],
+      "2020-11": [
+        295,
+        43
+      ],
+      "2020-12": [
+        297,
+        47
+      ],
+      "2021-01": [
+        285,
+        50
+      ],
+      "2021-02": [
+        278,
+        50
+      ],
+      "2021-03": [
+        343,
+        56
+      ],
+      "2021-04": [
+        303,
+        42
+      ],
+      "2021-05": [
+        299,
+        52
+      ],
+      "2021-06": [
+        302,
+        60
+      ],
+      "2021-07": [
+        259,
+        50
+      ],
+      "2021-08": [
+        256,
+        43
+      ],
+      "2021-09": [
+        267,
+        34
+      ],
+      "2021-10": [
+        298,
+        68
+      ],
+      "2021-11": [
+        295,
+        39
+      ],
+      "2021-12": [
+        299,
+        52
+      ],
+      "2022-01": [
+        284,
+        32
+      ],
+      "2022-02": [
+        272,
+        41
+      ],
+      "2022-03": [
+        308,
+        61
+      ],
+      "2022-04": [
+        232,
+        44
+      ],
+      "2022-05": [
+        269,
+        47
+      ],
+      "2022-06": [
+        271,
+        44
+      ],
+      "2022-07": [
+        263,
+        44
+      ],
+      "2022-08": [
+        253,
+        42
+      ],
+      "2022-09": [
+        288,
+        57
+      ],
+      "2022-10": [
+        313,
+        50
+      ],
+      "2022-11": [
+        309,
+        47
+      ],
+      "2022-12": [
+        299,
+        42
+      ],
+      "2023-01": [
+        264,
+        66
+      ],
+      "2023-02": [
+        279,
+        51
+      ],
+      "2023-03": [
+        329,
+        45
+      ],
+      "2023-04": [
+        288,
+        49
+      ],
+      "2023-05": [
+        347,
+        41
+      ],
+      "2023-06": [
+        338,
+        58
+      ],
+      "2023-07": [
+        314,
+        52
+      ],
+      "2023-08": [
+        296,
+        51
+      ],
+      "2023-09": [
+        269,
+        47
+      ],
+      "2023-10": [
+        368,
+        52
+      ],
+      "2023-11": [
+        316,
+        47
+      ],
+      "2023-12": [
+        311,
+        44
+      ],
+      "2024-01": [
+        341,
+        57
+      ],
+      "2024-02": [
+        347,
+        57
+      ],
+      "2024-03": [
+        349,
+        87
+      ],
+      "2024-04": [
+        327,
+        55
+      ],
+      "2024-05": [
+        369,
+        53
+      ],
+      "2024-06": [
+        300,
+        49
+      ],
+      "2024-07": [
+        341,
+        65
+      ],
+      "2024-08": [
+        289,
+        43
+      ],
+      "2024-09": [
+        342,
+        52
+      ],
+      "2024-10": [
+        391,
+        56
+      ],
+      "2024-11": [
+        306,
+        64
+      ],
+      "2024-12": [
+        335,
+        48
+      ],
+      "2025-01": [
+        314,
+        60
+      ],
+      "2025-02": [
+        337,
+        53
+      ],
+      "2025-03": [
+        345,
+        55
+      ],
+      "2025-04": [
+        321,
+        78
+      ],
+      "2025-05": [
+        334,
+        60
+      ],
+      "2025-06": [
+        371,
+        57
+      ],
+      "2025-07": [
+        365,
+        60
+      ],
+      "2025-08": [
+        340,
+        54
+      ],
+      "2025-09": [
+        190,
+        33
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "On Stability and Convergence of a Three-layer Semi-discrete Scheme for an Abstract Analogue of the Ball Integro-differential Equation",
+          "year": "2022-01",
+          "abstract": "We consider the Cauchy problem for a second-order nonlinear evolution\nequation in a Hilbert space. This equation represents the abstract\ngeneralization of the Ball integro-differential equation. The general nonlinear\ncase with respect to terms of the equation which include a square of a norm of\na gradient is considered. A three-layer semi-discrete scheme is proposed in\norder to find an approximate solution. In this scheme, the approximation of\nnonlinear terms that are dependent on the gradient is carried out by using an\nintegral mean. We show that the solution of the nonlinear discrete problem and\nits corresponding difference analogue of a first-order derivative is uniformly\nbounded. For the solution of the corresponding linear discrete problem, it is\nobtained high-order a priori estimates by using two-variable Chebyshev\npolynomials. Based on these estimates we prove the stability of the nonlinear\ndiscrete problem. For smooth solutions, we provide error estimates for the\napproximate solution. An iteration method is applied in order to find an\napproximate solution for each temporal step. The convergence of the iteration\nprocess is proved.",
+          "arxiv_id": "2201.12345v3"
+        },
+        {
+          "title": "Tensor numerical method for optimal control problems constrained by an elliptic operator with general rank-structured coefficients",
+          "year": "2021-05",
+          "abstract": "We introduce tensor numerical techniques for solving optimal control problems\nconstrained by elliptic operators in $\\mathbb{R}^d$, $d=2,3$, with variable\ncoefficients, which can be represented in a low rank separable form. We\nconstruct a preconditioned iterative method with an adaptive rank truncation\nfor solving the equation for the control function, governed by a sum of the\nelliptic operator and its inverse $M=A + A^{-1}$, both discretized over large\n$n^{\\otimes d}$, $d=2,3$, spatial grids. Two basic solution schemes are\nproposed and analyzed. In the first approach, one solves iteratively the\ninitial linear system of equations with the matrix $M$ such that the matrix\nvector multiplication with the elliptic operator inverse, $y=A^{-1} u,$ is\nperformed as an embedded iteration by using a rank-structured solver for the\nequation of the form $A y=u$. The second numerical scheme avoids the embedded\niteration by reducing the initial equation to an equivalent one with the\npolynomial system matrix of the form $A^2 +I$. For both schemes, a low\nKronecker rank spectrally equivalent preconditioner is constructed by using the\ncorresponding matrix valued function of the anisotropic Laplacian diagonalized\nin the Fourier basis. Numerical tests for control problems in 2D setting\nconfirm the linear-quadratic complexity scaling of the proposed method in the\nunivariate grid size $n$. Further, we numerically demonstrate that for our low\nrank solution method, a cascadic multigrid approach reduces the number of PCG\niterations considerably, however the total CPU time remains merely the same as\nfor the unigrid iteration.",
+          "arxiv_id": "2105.13206v1"
+        },
+        {
+          "title": "A combined Lax-Wendroff/interpolation approach with finite element method for a three-dimensional system of tectonic deformation model: application to landslides in Cameroon",
+          "year": "2025-01",
+          "abstract": "This paper develops an efficient computational technique to assess the\nlandslide responses to tectonic deformation and to predict the implications of\nlarge bedrocks landslides on the short and long-term development of the\ndisasters. The considered equations represent a three-dimensional system of\ngeological structure deformation subject to suitable initial and boundary\nconditions. The space derivatives are approximated using the finite element\nprocedure while the approximation in time derivative is obtained using the\nLax-Wendroff and interpolation techniques. The new approach is so called a\ncombined Lax-Wendroff/interpolation method with finite element method. The\nmodified Lax-Wendroff/interpolation scheme is employed to efficiently treat the\ntime derivative term and to provide a suitable time step restriction for\nstability. Under this time step requirement, both stability and error estimates\nof the new algorithm are deeply analyzed using a constructed strong norm. The\ntheory suggests that the developed computational technique is second-order\naccurate in time and spatial convergent with order O(h^{p}), where $h$ denotes\nthe space size and p is a positive integer. A wide set of numerical examples\nare carried out to confirm the theoretical results and to demonstrate the\nutility and validity of the proposed numerical scheme. An application to\nlandslides observed in west and center regions in Cameroon from October 2019 to\nNovember 2024, are discussed.",
+          "arxiv_id": "2502.07797v3"
+        }
+      ],
+      "1": [
+        {
+          "title": "A cardiac electromechanics model coupled with a lumped parameters model for closed-loop blood circulation. Part I: model derivation",
+          "year": "2020-11",
+          "abstract": "We propose an integrated electromechanical model of the human heart, with\nfocus on the left ventricle, wherein biophysically detailed models describe the\ndifferent physical phenomena concurring to the cardiac function. We model the\nsubcellular generation of active force by means of an Artificial Neural\nNetwork, which is trained by a suitable Machine Learning algorithm from a\ncollection of pre-computed numerical simulations of a biophysically detailed,\nyet computational demanding, high-fidelity model. To provide physiologically\nmeaningful results, we couple the 3D electromechanical model with a closed-loop\n0D (lumped parameters) model describing the blood circulation in the whole\ncardiovascular network. We prove that the 3D-0D coupling of the two models is\ncompliant with the principle of energy conservation, which is achieved in\nvirtue of energy-consistent boundary conditions that account for the\ninteraction among cardiac chambers within the computational domain, pericardium\nand surrounding tissue. We thus derive an overall balance of mechanical energy\nfor the 3D-0D model. This provides a quantitative insight into the energy\nutilization, dissipation and transfer among the different compartments of the\ncardiovascular network and during different stages of the heartbeat. In virtue\nof this new model and the energy balance, we propose a new validation tool of\nheart energy usage against relationships used in the daily clinical practice.\nFinally, we provide a mathematical formulation of an inverse problem aimed at\nrecovering the reference configuration of one or multiple cardiac chambers,\nstarting from the stressed configuration acquired from medical imaging. This is\nfundamental to correctly initialize electromechanical simulations. Numerical\nmethods and simulations of the 3D-0D model will be detailed in Part II.",
+          "arxiv_id": "2011.15040v1"
+        },
+        {
+          "title": "A Modular Framework for Implicit 3D-0D Coupling in Cardiac Mechanics",
+          "year": "2023-10",
+          "abstract": "In numerical simulations of cardiac mechanics, coupling the heart to a model\nof the circulatory system is essential for capturing physiological cardiac\nbehavior. A popular and efficient technique is to use an electrical circuit\nanalogy, known as a lumped parameter network or zero-dimensional (0D) fluid\nmodel, to represent blood flow throughout the cardiovascular system. Due to the\nstrong physical interaction between the heart and the blood circulation,\ndeveloping accurate and efficient numerical coupling methods remains an active\narea of research. In this work, we present a modular framework for implicitly\ncoupling three-dimensional (3D) finite element simulations of cardiac mechanics\nto 0D models of blood circulation. The framework is modular in that the\ncirculation model can be modified independently of the 3D finite element\nsolver, and vice versa. The numerical scheme builds upon a previous work that\ncombines 3D blood flow models with 0D circulation models (3D fluid - 0D fluid).\nHere, we extend it to couple 3D cardiac tissue mechanics models with 0D\ncirculation models (3D structure - 0D fluid), showing that both mathematical\nproblems can be solved within a unified coupling scheme. The effectiveness,\ntemporal convergence, and computational cost of the algorithm are assessed\nthrough multiple examples relevant to the cardiovascular modeling community.\nImportantly, in an idealized left ventricle example, we show that the coupled\nmodel yields physiological pressure-volume loops and naturally recapitulates\nthe isovolumic contraction and relaxation phases of the cardiac cycle without\nany additional numerical techniques. Furthermore, we provide a new derivation\nof the scheme inspired by the Approximate Newton Method of Chan (1985),\nexplaining how the proposed numerical scheme combines the stability of\nmonolithic approaches with the modularity and flexibility of partitioned\napproaches.",
+          "arxiv_id": "2310.13780v1"
+        },
+        {
+          "title": "A geometric multiscale model for the numerical simulation of blood flow in the human left heart",
+          "year": "2021-10",
+          "abstract": "We present a new computational model for the numerical simulation of blood\nflow in the human left heart. To this aim, we use the Navier-Stokes equations\nin an Arbitrary Lagrangian Eulerian formulation to account for the endocardium\nmotion and we model the cardiac valves by means of the Resistive Immersed\nImplicit Surface method. To impose a physiological displacement of the domain\nboundary, we use a 3D cardiac electromechanical model of the left ventricle\ncoupled to a lumped-parameter (0D) closed-loop model of the remaining\ncirculation. We thus obtain a one-way coupled electromechanics-fluid dynamics\nmodel in the left ventricle. To extend the left ventricle motion to the\nendocardium of the left atrium and to that of the ascending aorta, we introduce\na preprocessing procedure according to which an harmonic extension of the left\nventricle displacement is combined with the motion of the left atrium based on\nthe 0D model. To better match the 3D cardiac fluid flow with the external blood\ncirculation, we couple the 3D Navier-Stokes equations to the 0D circulation\nmodel, obtaining a multiscale coupled 3D-0D fluid dynamics model that we solve\nvia a segregated numerical scheme. We carry out numerical simulations for a\nhealthy left heart and we validate our model by showing that meaningful\nhemodynamic indicators are correctly reproduced.",
+          "arxiv_id": "2110.02114v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:56:05Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

@@ -1,0 +1,2108 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_dark_cosmological_energy",
+        "keywords": [
+          [
+            "model",
+            0.022252702047493626
+          ],
+          [
+            "dark",
+            0.019742863308367286
+          ],
+          [
+            "cosmological",
+            0.01722132891318989
+          ],
+          [
+            "energy",
+            0.01628828394687875
+          ],
+          [
+            "matter",
+            0.014649441786215031
+          ],
+          [
+            "inflation",
+            0.014148656021395256
+          ],
+          [
+            "models",
+            0.01406235824389737
+          ],
+          [
+            "scalar",
+            0.013863211087319813
+          ],
+          [
+            "gravity",
+            0.013216156236949255
+          ],
+          [
+            "field",
+            0.01306612051826938
+          ]
+        ],
+        "count": 7781
+      },
+      "1": {
+        "name": "1_gravitational_wave_gravitational wave_binary",
+        "keywords": [
+          [
+            "gravitational",
+            0.02562954672264774
+          ],
+          [
+            "wave",
+            0.022318719083693053
+          ],
+          [
+            "gravitational wave",
+            0.02176743869811282
+          ],
+          [
+            "binary",
+            0.020047567538675575
+          ],
+          [
+            "mass",
+            0.019324945475127298
+          ],
+          [
+            "neutron",
+            0.01639450463421961
+          ],
+          [
+            "star",
+            0.014354400550142282
+          ],
+          [
+            "GW",
+            0.014246677143475342
+          ],
+          [
+            "black",
+            0.014028331216567541
+          ],
+          [
+            "stars",
+            0.012791112800338301
+          ]
+        ],
+        "count": 6350
+      },
+      "2": {
+        "name": "2_black_hole_black hole_holes",
+        "keywords": [
+          [
+            "black",
+            0.044271732382434405
+          ],
+          [
+            "hole",
+            0.03482361520723063
+          ],
+          [
+            "black hole",
+            0.0346791472122603
+          ],
+          [
+            "holes",
+            0.0212310633846683
+          ],
+          [
+            "black holes",
+            0.02106946144841263
+          ],
+          [
+            "shadow",
+            0.020201836436838143
+          ],
+          [
+            "Kerr",
+            0.01476030698679496
+          ],
+          [
+            "parameter",
+            0.013481393626082677
+          ],
+          [
+            "scalar",
+            0.012463938041296264
+          ],
+          [
+            "field",
+            0.012288197385978082
+          ]
+        ],
+        "count": 2384
+      },
+      "3": {
+        "name": "3_holographic_AdS_boundary_CFT",
+        "keywords": [
+          [
+            "holographic",
+            0.033932199217913704
+          ],
+          [
+            "AdS",
+            0.024367162338337106
+          ],
+          [
+            "boundary",
+            0.022181213094860354
+          ],
+          [
+            "CFT",
+            0.022164862863237354
+          ],
+          [
+            "bulk",
+            0.020750570135370107
+          ],
+          [
+            "entanglement",
+            0.020229182818948966
+          ],
+          [
+            "dual",
+            0.018533528510090398
+          ],
+          [
+            "entropy",
+            0.01846942593721332
+          ],
+          [
+            "theory",
+            0.01668302094528145
+          ],
+          [
+            "gravity",
+            0.016470689522813577
+          ]
+        ],
+        "count": 1256
+      },
+      "4": {
+        "name": "4_black_hole_black hole_thermodynamic",
+        "keywords": [
+          [
+            "black",
+            0.053125991433997856
+          ],
+          [
+            "hole",
+            0.040007343581836
+          ],
+          [
+            "black hole",
+            0.03965199184279495
+          ],
+          [
+            "thermodynamic",
+            0.03071697798749236
+          ],
+          [
+            "phase",
+            0.028794668815918887
+          ],
+          [
+            "holes",
+            0.02740953142187292
+          ],
+          [
+            "black holes",
+            0.027345986146118908
+          ],
+          [
+            "AdS",
+            0.026166772761097343
+          ],
+          [
+            "thermodynamics",
+            0.02483518380200495
+          ],
+          [
+            "transition",
+            0.019185848028662036
+          ]
+        ],
+        "count": 1087
+      },
+      "5": {
+        "name": "5_equations_spacetimes_Einstein_null",
+        "keywords": [
+          [
+            "equations",
+            0.019298292790817826
+          ],
+          [
+            "spacetimes",
+            0.0184804487563763
+          ],
+          [
+            "Einstein",
+            0.01843219341786143
+          ],
+          [
+            "null",
+            0.01824523639543143
+          ],
+          [
+            "spacetime",
+            0.01809868108880128
+          ],
+          [
+            "solutions",
+            0.017119160728091203
+          ],
+          [
+            "data",
+            0.01711595178674687
+          ],
+          [
+            "initial",
+            0.017040195962961302
+          ],
+          [
+            "initial data",
+            0.016730749675846153
+          ],
+          [
+            "black",
+            0.015282915556899493
+          ]
+        ],
+        "count": 827
+      },
+      "6": {
+        "name": "6_quantum_gravity_time_gravitational",
+        "keywords": [
+          [
+            "quantum",
+            0.06789881924118693
+          ],
+          [
+            "gravity",
+            0.026062349318002716
+          ],
+          [
+            "time",
+            0.02405015595177694
+          ],
+          [
+            "gravitational",
+            0.02221368703062008
+          ],
+          [
+            "entanglement",
+            0.019232279664160794
+          ],
+          [
+            "classical",
+            0.018537874814567718
+          ],
+          [
+            "theory",
+            0.015783249957678866
+          ],
+          [
+            "quantum gravity",
+            0.014974780298174471
+          ],
+          [
+            "spacetime",
+            0.014801408679226545
+          ],
+          [
+            "space",
+            0.013356616275810758
+          ]
+        ],
+        "count": 675
+      },
+      "7": {
+        "name": "7_wormhole_wormholes_throat_traversable",
+        "keywords": [
+          [
+            "wormhole",
+            0.0931516663019031
+          ],
+          [
+            "wormholes",
+            0.05393022232469995
+          ],
+          [
+            "throat",
+            0.03308954193527918
+          ],
+          [
+            "traversable",
+            0.031483878604782974
+          ],
+          [
+            "energy",
+            0.024906906532928534
+          ],
+          [
+            "solutions",
+            0.024646413276235124
+          ],
+          [
+            "wormhole solutions",
+            0.023453958980373755
+          ],
+          [
+            "matter",
+            0.021228050510337593
+          ],
+          [
+            "conditions",
+            0.019265148806898117
+          ],
+          [
+            "gravity",
+            0.018480750121798346
+          ]
+        ],
+        "count": 554
+      },
+      "8": {
+        "name": "8_scattering_gravity_amplitudes_quantum",
+        "keywords": [
+          [
+            "scattering",
+            0.02549175177657558
+          ],
+          [
+            "gravity",
+            0.023676603445780448
+          ],
+          [
+            "amplitudes",
+            0.02022593707225696
+          ],
+          [
+            "quantum",
+            0.019886936437133483
+          ],
+          [
+            "theory",
+            0.019507762305722157
+          ],
+          [
+            "spin",
+            0.018267009305492174
+          ],
+          [
+            "order",
+            0.015589978138328856
+          ],
+          [
+            "gauge",
+            0.015193745394552108
+          ],
+          [
+            "field",
+            0.014809452371315777
+          ],
+          [
+            "loop",
+            0.014217020090186697
+          ]
+        ],
+        "count": 529
+      },
+      "9": {
+        "name": "9_relativity_general_general relativity_teleparallel",
+        "keywords": [
+          [
+            "relativity",
+            0.03686655968060182
+          ],
+          [
+            "general",
+            0.03250060024769854
+          ],
+          [
+            "general relativity",
+            0.029849542018359723
+          ],
+          [
+            "teleparallel",
+            0.025392449133785952
+          ],
+          [
+            "Relativity",
+            0.02284175341204833
+          ],
+          [
+            "General",
+            0.021998538136574555
+          ],
+          [
+            "theory",
+            0.020827551043814056
+          ],
+          [
+            "gravity",
+            0.020795021072989285
+          ],
+          [
+            "theories",
+            0.016632343807371212
+          ],
+          [
+            "Einstein",
+            0.01557240643077511
+          ]
+        ],
+        "count": 295
+      },
+      "10": {
+        "name": "10_Unruh_quantum_detector_entanglement",
+        "keywords": [
+          [
+            "Unruh",
+            0.07169281144471601
+          ],
+          [
+            "quantum",
+            0.041728094280095454
+          ],
+          [
+            "detector",
+            0.03984012857745611
+          ],
+          [
+            "entanglement",
+            0.036243233135659074
+          ],
+          [
+            "Unruh effect",
+            0.03188599088670621
+          ],
+          [
+            "acceleration",
+            0.029612763830304093
+          ],
+          [
+            "field",
+            0.02861694406577182
+          ],
+          [
+            "effect",
+            0.02689845036874438
+          ],
+          [
+            "detectors",
+            0.026364707657470354
+          ],
+          [
+            "accelerated",
+            0.02588054066842472
+          ]
+        ],
+        "count": 283
+      },
+      "11": {
+        "name": "11_string_Sitter_vacua_theory",
+        "keywords": [
+          [
+            "string",
+            0.030759055576191595
+          ],
+          [
+            "Sitter",
+            0.03055737453826586
+          ],
+          [
+            "vacua",
+            0.020476844715602984
+          ],
+          [
+            "theory",
+            0.019273017070727566
+          ],
+          [
+            "swampland",
+            0.018740129604221854
+          ],
+          [
+            "field",
+            0.017757613095378755
+          ],
+          [
+            "vacuum",
+            0.01767037932610207
+          ],
+          [
+            "string theory",
+            0.017412236640944257
+          ],
+          [
+            "conjecture",
+            0.017356388161239727
+          ],
+          [
+            "solutions",
+            0.016069975642800723
+          ]
+        ],
+        "count": 249
+      },
+      "12": {
+        "name": "12_quantum_quantum gravity_foam_spin foam",
+        "keywords": [
+          [
+            "quantum",
+            0.04750167498213837
+          ],
+          [
+            "quantum gravity",
+            0.03530487235381051
+          ],
+          [
+            "foam",
+            0.027851538071756776
+          ],
+          [
+            "spin foam",
+            0.027833051843513475
+          ],
+          [
+            "gravity",
+            0.027665055771184978
+          ],
+          [
+            "spin",
+            0.026597729383818363
+          ],
+          [
+            "lattice",
+            0.020248093259615005
+          ],
+          [
+            "spinfoam",
+            0.01991863659328582
+          ],
+          [
+            "group",
+            0.017018472804007777
+          ],
+          [
+            "loop quantum gravity",
+            0.01666256224292785
+          ]
+        ],
+        "count": 202
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5433482581773041,
+        -0.6605264272848672,
+        -0.4542063139492054,
+        -0.6399714399057332,
+        -0.6680022273938553,
+        -0.6170609034608535,
+        -0.7316775311895114,
+        -0.4540791233020455,
+        -0.6573804955006974,
+        -0.6539121704227828,
+        -0.4375955145565471,
+        -0.6782610870318255
+      ],
+      [
+        -0.5433482581773041,
+        1.0,
+        -0.4732627892303911,
+        -0.464925047764262,
+        -0.4707389968422495,
+        -0.6307853187374126,
+        -0.6271852447173281,
+        -0.7522160989416868,
+        -0.5112025859801321,
+        -0.6473168357306522,
+        -0.6494267989072613,
+        -0.5012201854887299,
+        -0.6956488903405416
+      ],
+      [
+        -0.6605264272848672,
+        -0.4732627892303911,
+        1.0,
+        -0.48834892389304263,
+        0.6073462123400074,
+        -0.40511544237783037,
+        -0.6538216830103903,
+        -0.7170667490224873,
+        -0.6330003012538743,
+        -0.6602530464801001,
+        -0.6927453274510107,
+        -0.6457865472514627,
+        -0.6763783102778032
+      ],
+      [
+        -0.4542063139492054,
+        -0.464925047764262,
+        -0.48834892389304263,
+        1.0,
+        -0.4631277552251002,
+        -0.5583803268677736,
+        -0.5831261542311124,
+        -0.7230825874156162,
+        -0.24528401017802506,
+        -0.6775395550642488,
+        -0.642111743238093,
+        -0.2575489079228026,
+        -0.6495888740759752
+      ],
+      [
+        -0.6399714399057332,
+        -0.4707389968422495,
+        0.6073462123400074,
+        -0.4631277552251002,
+        1.0,
+        -0.41314750656336685,
+        -0.640643854198347,
+        -0.7198614795240581,
+        -0.6202760258442188,
+        -0.658963987960077,
+        -0.6870204656389756,
+        -0.6329196903850085,
+        -0.6700255022609732
+      ],
+      [
+        -0.6680022273938553,
+        -0.6307853187374126,
+        -0.40511544237783037,
+        -0.5583803268677736,
+        -0.41314750656336685,
+        1.0,
+        -0.6697052359096624,
+        -0.7363453122802184,
+        -0.6289974378029104,
+        -0.6744245966476159,
+        -0.7175787788943485,
+        -0.6460945627886427,
+        -0.7079302292077546
+      ],
+      [
+        -0.6170609034608535,
+        -0.6271852447173281,
+        -0.6538216830103903,
+        -0.5831261542311124,
+        -0.640643854198347,
+        -0.6697052359096624,
+        1.0,
+        -0.7339302079213987,
+        -0.3904127485050979,
+        -0.6423212593908387,
+        -0.5380397056996594,
+        -0.6114348970290469,
+        -0.07795700802682642
+      ],
+      [
+        -0.7316775311895114,
+        -0.7522160989416868,
+        -0.7170667490224873,
+        -0.7230825874156162,
+        -0.7198614795240581,
+        -0.7363453122802184,
+        -0.7339302079213987,
+        1.0,
+        -0.7280795778065037,
+        -0.7271375579426408,
+        -0.7517166317026192,
+        -0.7388003283336202,
+        -0.7368774819898499
+      ],
+      [
+        -0.4540791233020455,
+        -0.5112025859801321,
+        -0.6330003012538743,
+        -0.24528401017802506,
+        -0.6202760258442188,
+        -0.6289974378029104,
+        -0.3904127485050979,
+        -0.7280795778065037,
+        1.0,
+        -0.5922075750757508,
+        -0.6188282677865888,
+        -0.3248659282118699,
+        -0.3466431700474968
+      ],
+      [
+        -0.6573804955006974,
+        -0.6473168357306522,
+        -0.6602530464801001,
+        -0.6775395550642488,
+        -0.658963987960077,
+        -0.6744245966476159,
+        -0.6423212593908387,
+        -0.7271375579426408,
+        -0.5922075750757508,
+        1.0,
+        -0.7071028784631378,
+        -0.6844303124684479,
+        -0.662818045473075
+      ],
+      [
+        -0.6539121704227828,
+        -0.6494267989072613,
+        -0.6927453274510107,
+        -0.642111743238093,
+        -0.6870204656389756,
+        -0.7175787788943485,
+        -0.5380397056996594,
+        -0.7517166317026192,
+        -0.6188282677865888,
+        -0.7071028784631378,
+        1.0,
+        -0.6767657316829546,
+        -0.6117948380196234
+      ],
+      [
+        -0.4375955145565471,
+        -0.5012201854887299,
+        -0.6457865472514627,
+        -0.2575489079228026,
+        -0.6329196903850085,
+        -0.6460945627886427,
+        -0.6114348970290469,
+        -0.7388003283336202,
+        -0.3248659282118699,
+        -0.6844303124684479,
+        -0.6767657316829546,
+        1.0,
+        -0.6713854169170042
+      ],
+      [
+        -0.6782610870318255,
+        -0.6956488903405416,
+        -0.6763783102778032,
+        -0.6495888740759752,
+        -0.6700255022609732,
+        -0.7079302292077546,
+        -0.07795700802682642,
+        -0.7368774819898499,
+        -0.3466431700474968,
+        -0.662818045473075,
+        -0.6117948380196234,
+        -0.6713854169170042,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        85,
+        52,
+        53,
+        23,
+        25,
+        8,
+        44,
+        4,
+        19,
+        36,
+        12,
+        9,
+        2
+      ],
+      "2020-02": [
+        73,
+        50,
+        57,
+        21,
+        41,
+        9,
+        35,
+        7,
+        19,
+        36,
+        9,
+        11,
+        8
+      ],
+      "2020-03": [
+        93,
+        53,
+        74,
+        24,
+        41,
+        9,
+        66,
+        11,
+        26,
+        33,
+        18,
+        12,
+        4
+      ],
+      "2020-04": [
+        100,
+        58,
+        89,
+        31,
+        62,
+        9,
+        64,
+        16,
+        26,
+        38,
+        8,
+        11,
+        6
+      ],
+      "2020-05": [
+        120,
+        56,
+        79,
+        27,
+        54,
+        15,
+        66,
+        9,
+        28,
+        44,
+        9,
+        18,
+        3
+      ],
+      "2020-06": [
+        103,
+        56,
+        94,
+        45,
+        46,
+        8,
+        68,
+        13,
+        26,
+        38,
+        10,
+        13,
+        3
+      ],
+      "2020-07": [
+        115,
+        63,
+        100,
+        31,
+        50,
+        15,
+        59,
+        15,
+        27,
+        39,
+        14,
+        13,
+        6
+      ],
+      "2020-08": [
+        106,
+        54,
+        73,
+        24,
+        40,
+        6,
+        49,
+        21,
+        26,
+        30,
+        8,
+        8,
+        5
+      ],
+      "2020-09": [
+        90,
+        64,
+        91,
+        34,
+        50,
+        11,
+        60,
+        12,
+        19,
+        34,
+        11,
+        8,
+        7
+      ],
+      "2020-10": [
+        101,
+        83,
+        89,
+        30,
+        43,
+        14,
+        53,
+        17,
+        24,
+        45,
+        4,
+        9,
+        3
+      ],
+      "2020-11": [
+        89,
+        66,
+        86,
+        31,
+        44,
+        9,
+        54,
+        13,
+        20,
+        35,
+        12,
+        12,
+        6
+      ],
+      "2020-12": [
+        95,
+        62,
+        87,
+        36,
+        52,
+        15,
+        80,
+        13,
+        30,
+        49,
+        9,
+        8,
+        6
+      ],
+      "2021-01": [
+        90,
+        54,
+        62,
+        25,
+        33,
+        8,
+        57,
+        13,
+        16,
+        46,
+        8,
+        12,
+        6
+      ],
+      "2021-02": [
+        91,
+        37,
+        76,
+        19,
+        38,
+        11,
+        47,
+        15,
+        16,
+        27,
+        9,
+        7,
+        5
+      ],
+      "2021-03": [
+        99,
+        62,
+        97,
+        39,
+        48,
+        15,
+        55,
+        11,
+        22,
+        47,
+        11,
+        9,
+        3
+      ],
+      "2021-04": [
+        96,
+        54,
+        73,
+        29,
+        46,
+        15,
+        50,
+        14,
+        16,
+        35,
+        12,
+        10,
+        6
+      ],
+      "2021-05": [
+        121,
+        82,
+        87,
+        33,
+        60,
+        14,
+        73,
+        13,
+        19,
+        35,
+        13,
+        22,
+        9
+      ],
+      "2021-06": [
+        85,
+        64,
+        84,
+        28,
+        47,
+        10,
+        55,
+        15,
+        16,
+        36,
+        12,
+        18,
+        7
+      ],
+      "2021-07": [
+        110,
+        72,
+        82,
+        23,
+        42,
+        17,
+        57,
+        13,
+        21,
+        41,
+        9,
+        6,
+        4
+      ],
+      "2021-08": [
+        96,
+        63,
+        85,
+        30,
+        40,
+        14,
+        40,
+        17,
+        25,
+        34,
+        11,
+        12,
+        4
+      ],
+      "2021-09": [
+        86,
+        62,
+        103,
+        33,
+        32,
+        13,
+        56,
+        11,
+        23,
+        49,
+        10,
+        9,
+        8
+      ],
+      "2021-10": [
+        102,
+        71,
+        79,
+        31,
+        37,
+        12,
+        78,
+        19,
+        22,
+        50,
+        17,
+        8,
+        6
+      ],
+      "2021-11": [
+        96,
+        69,
+        87,
+        40,
+        48,
+        16,
+        72,
+        20,
+        17,
+        44,
+        10,
+        9,
+        6
+      ],
+      "2021-12": [
+        119,
+        72,
+        90,
+        48,
+        56,
+        14,
+        84,
+        10,
+        38,
+        46,
+        8,
+        16,
+        6
+      ],
+      "2022-01": [
+        86,
+        62,
+        91,
+        37,
+        34,
+        11,
+        55,
+        7,
+        25,
+        39,
+        4,
+        10,
+        4
+      ],
+      "2022-02": [
+        89,
+        64,
+        54,
+        28,
+        42,
+        8,
+        47,
+        10,
+        25,
+        34,
+        8,
+        11,
+        2
+      ],
+      "2022-03": [
+        121,
+        67,
+        92,
+        40,
+        47,
+        8,
+        65,
+        10,
+        27,
+        45,
+        10,
+        10,
+        4
+      ],
+      "2022-04": [
+        81,
+        69,
+        74,
+        31,
+        40,
+        10,
+        74,
+        11,
+        19,
+        41,
+        15,
+        9,
+        3
+      ],
+      "2022-05": [
+        99,
+        78,
+        118,
+        24,
+        56,
+        13,
+        54,
+        11,
+        33,
+        43,
+        17,
+        15,
+        6
+      ],
+      "2022-06": [
+        105,
+        56,
+        94,
+        29,
+        51,
+        8,
+        70,
+        11,
+        17,
+        38,
+        16,
+        11,
+        11
+      ],
+      "2022-07": [
+        96,
+        66,
+        83,
+        28,
+        52,
+        9,
+        78,
+        22,
+        21,
+        34,
+        14,
+        10,
+        9
+      ],
+      "2022-08": [
+        85,
+        51,
+        78,
+        22,
+        48,
+        10,
+        50,
+        13,
+        20,
+        35,
+        14,
+        17,
+        6
+      ],
+      "2022-09": [
+        106,
+        78,
+        77,
+        28,
+        34,
+        12,
+        75,
+        5,
+        15,
+        44,
+        10,
+        9,
+        2
+      ],
+      "2022-10": [
+        105,
+        89,
+        87,
+        25,
+        45,
+        14,
+        71,
+        14,
+        31,
+        40,
+        17,
+        11,
+        2
+      ],
+      "2022-11": [
+        105,
+        65,
+        83,
+        41,
+        53,
+        10,
+        66,
+        13,
+        21,
+        45,
+        15,
+        14,
+        8
+      ],
+      "2022-12": [
+        118,
+        58,
+        91,
+        36,
+        40,
+        11,
+        77,
+        14,
+        29,
+        40,
+        8,
+        20,
+        10
+      ],
+      "2023-01": [
+        107,
+        65,
+        95,
+        26,
+        32,
+        10,
+        63,
+        9,
+        15,
+        34,
+        15,
+        13,
+        7
+      ],
+      "2023-02": [
+        80,
+        74,
+        65,
+        27,
+        50,
+        11,
+        67,
+        11,
+        18,
+        31,
+        7,
+        10,
+        4
+      ],
+      "2023-03": [
+        117,
+        53,
+        103,
+        28,
+        44,
+        11,
+        59,
+        13,
+        25,
+        38,
+        12,
+        9,
+        8
+      ],
+      "2023-04": [
+        97,
+        70,
+        76,
+        31,
+        68,
+        18,
+        54,
+        11,
+        24,
+        43,
+        16,
+        13,
+        8
+      ],
+      "2023-05": [
+        120,
+        80,
+        93,
+        33,
+        62,
+        10,
+        78,
+        24,
+        12,
+        45,
+        15,
+        9,
+        4
+      ],
+      "2023-06": [
+        105,
+        88,
+        91,
+        33,
+        61,
+        10,
+        70,
+        12,
+        17,
+        42,
+        12,
+        22,
+        4
+      ],
+      "2023-07": [
+        105,
+        108,
+        126,
+        26,
+        65,
+        6,
+        67,
+        23,
+        18,
+        48,
+        15,
+        13,
+        2
+      ],
+      "2023-08": [
+        92,
+        57,
+        83,
+        34,
+        46,
+        15,
+        63,
+        18,
+        25,
+        44,
+        10,
+        11,
+        4
+      ],
+      "2023-09": [
+        111,
+        77,
+        101,
+        39,
+        48,
+        13,
+        58,
+        13,
+        21,
+        38,
+        11,
+        14,
+        7
+      ],
+      "2023-10": [
+        110,
+        84,
+        97,
+        33,
+        54,
+        10,
+        68,
+        12,
+        19,
+        37,
+        15,
+        14,
+        6
+      ],
+      "2023-11": [
+        91,
+        72,
+        115,
+        30,
+        37,
+        11,
+        76,
+        13,
+        21,
+        55,
+        8,
+        12,
+        4
+      ],
+      "2023-12": [
+        93,
+        74,
+        106,
+        38,
+        58,
+        13,
+        72,
+        19,
+        35,
+        52,
+        13,
+        20,
+        2
+      ],
+      "2024-01": [
+        92,
+        67,
+        109,
+        27,
+        47,
+        9,
+        62,
+        15,
+        20,
+        37,
+        7,
+        14,
+        4
+      ],
+      "2024-02": [
+        109,
+        70,
+        86,
+        26,
+        37,
+        13,
+        69,
+        14,
+        24,
+        32,
+        9,
+        11,
+        3
+      ],
+      "2024-03": [
+        104,
+        75,
+        84,
+        35,
+        58,
+        8,
+        66,
+        19,
+        24,
+        36,
+        10,
+        13,
+        8
+      ],
+      "2024-04": [
+        99,
+        75,
+        117,
+        32,
+        50,
+        14,
+        68,
+        18,
+        11,
+        43,
+        14,
+        10,
+        7
+      ],
+      "2024-05": [
+        128,
+        84,
+        108,
+        35,
+        62,
+        11,
+        77,
+        17,
+        21,
+        56,
+        14,
+        12,
+        7
+      ],
+      "2024-06": [
+        92,
+        79,
+        112,
+        21,
+        37,
+        13,
+        60,
+        17,
+        22,
+        50,
+        16,
+        4,
+        8
+      ],
+      "2024-07": [
+        140,
+        90,
+        97,
+        33,
+        72,
+        14,
+        74,
+        8,
+        21,
+        43,
+        8,
+        14,
+        7
+      ],
+      "2024-08": [
+        116,
+        78,
+        93,
+        30,
+        47,
+        17,
+        48,
+        13,
+        17,
+        35,
+        7,
+        5,
+        5
+      ],
+      "2024-09": [
+        102,
+        82,
+        101,
+        28,
+        45,
+        12,
+        49,
+        18,
+        21,
+        33,
+        18,
+        10,
+        4
+      ],
+      "2024-10": [
+        117,
+        93,
+        124,
+        30,
+        57,
+        10,
+        65,
+        15,
+        24,
+        50,
+        10,
+        9,
+        3
+      ],
+      "2024-11": [
+        106,
+        78,
+        118,
+        28,
+        54,
+        9,
+        83,
+        17,
+        19,
+        37,
+        14,
+        10,
+        3
+      ],
+      "2024-12": [
+        131,
+        77,
+        126,
+        34,
+        50,
+        13,
+        95,
+        25,
+        34,
+        45,
+        21,
+        9,
+        6
+      ],
+      "2025-01": [
+        101,
+        68,
+        101,
+        20,
+        38,
+        11,
+        59,
+        9,
+        15,
+        27,
+        23,
+        7,
+        4
+      ],
+      "2025-02": [
+        108,
+        62,
+        108,
+        19,
+        49,
+        11,
+        71,
+        18,
+        13,
+        25,
+        13,
+        5,
+        3
+      ],
+      "2025-03": [
+        99,
+        89,
+        127,
+        22,
+        53,
+        11,
+        70,
+        14,
+        22,
+        32,
+        11,
+        9,
+        4
+      ],
+      "2025-04": [
+        128,
+        89,
+        123,
+        38,
+        68,
+        16,
+        76,
+        19,
+        23,
+        39,
+        13,
+        10,
+        5
+      ],
+      "2025-05": [
+        110,
+        98,
+        109,
+        34,
+        61,
+        13,
+        71,
+        24,
+        23,
+        35,
+        15,
+        12,
+        4
+      ],
+      "2025-06": [
+        120,
+        94,
+        121,
+        30,
+        52,
+        9,
+        64,
+        15,
+        20,
+        34,
+        11,
+        14,
+        5
+      ],
+      "2025-07": [
+        127,
+        99,
+        131,
+        41,
+        58,
+        13,
+        61,
+        21,
+        24,
+        50,
+        4,
+        18,
+        9
+      ],
+      "2025-08": [
+        117,
+        88,
+        144,
+        41,
+        69,
+        13,
+        57,
+        14,
+        20,
+        50,
+        23,
+        9,
+        7
+      ],
+      "2025-09": [
+        78,
+        52,
+        74,
+        20,
+        38,
+        8,
+        37,
+        7,
+        4,
+        17,
+        8,
+        10,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Comparison of dark energy models using late-universe observations",
+          "year": "2025-04",
+          "abstract": "In the framework of general relativity, dark energy was proposed to explain\nthe cosmic acceleration. A pivotal inquiry in cosmology is to determine whether\ndark energy is the cosmological constant, and if not, the challenge lies in\nconstraining how it evolves with time. In this paper, we utilize the latest\nobservational data to constrain some typical dark energy models, and make a\ncomparison for them according to their capabilities of fitting the current\ndata. Our study is confined to late-universe observations, including the baryon\nacoustic oscillation, type Ia supernova, cosmic chronometer, and strong\ngravitational lensing time delay data. We employ the Akaike information\ncriterion (AIC), deviance information criterion (DIC), and Bayesian information\ncriterion (BIC) to assess the worth of models. The AIC and DIC analyses\nindicate that all dark energy models outperform the $\\Lambda$CDM model.\nHowever, the BIC analysis leaves room for $\\Lambda$CDM due to its heavier\npenalty on the model complexity. Compared to $\\Lambda$CDM, most dark energy\nmodels are robustly supported by AIC and DIC while being explicitly disfavored\nby BIC. The models that are robustly favored by AIC and DIC and not explicitly\ndisfavored by BIC include the $w$CDM, interacting dark energy, and Ricci dark\nenergy models. Furthermore, we observe that an alternative modified gravity\nmodel exhibits superior performance when compared with $\\Lambda$CDM across all\ninformation criteria.",
+          "arxiv_id": "2504.09054v2"
+        },
+        {
+          "title": "Renyi Holographic dark energy and its behaviour in f(G) gravity",
+          "year": "2022-10",
+          "abstract": "In this work, the Renyi holographic dark energy (RHDE)and its behaviour has\nbeen explored with the anisotropic and spatially homogeneous Bianchi type-I\nUniverse in the framework of $f(G)$ gravity. We use IR cutoff as the Hubble and\nGranda-Oliveros (GO) horizons. To find a consistent solutions of the field\nequations of the models, it is assumed that the deceleration parameter is\ndefined in terms of function of Hubble parameter $H$. With reference to current\ncosmological data, the behaviors of the cosmological parameters relating to the\ndark energy model are evaluated and their physical significance is examined. It\nis observed that for both the models, the equation of state parameter\napproaches to $-1$ at late times. However, the RHDE model with the Hubble\nhorizon exhibits stability from the squared sound speed, but the RHDE model\nwith the GO horizon exhibits instability. In both the models, deceleration\nparameter and statefinder diagnostic confirm the accelerated expansion of the\nUniverse and also correspond to the $\\Lambda$CDM model at late times.",
+          "arxiv_id": "2211.05086v1"
+        },
+        {
+          "title": "Simple-graduated dark energy and spatial curvature",
+          "year": "2021-04",
+          "abstract": "In this work, we first discuss the possibility that dark energy models with\nnegative energy density values in the past can alleviate the $H_0$ tension, as\nwell as the discrepancy with the baryon acoustic oscillation (BAO)\nLyman-$\\alpha$ data, both which prevail within the $\\Lambda$CDM model. We then\ninvestigate whether two minimal extensions of the $\\Lambda$CDM model, together\nor separately, can successfully realize such a scenario: (i) the spatial\ncurvature, which, in the case of spatially closed universe, mimics a negative\ndensity source and (ii) simple-graduated dark energy (gDE), which promotes the\nnull inertial mass density of the usual vacuum energy to an arbitrary\nconstant--if negative, the corresponding energy density decreases with redshift\nsimilar to the phantom models, but unlike them crosses below zero at a certain\nredshift. We find that, when the Planck data are not included in the\nobservational analysis, the models with simple-gDE predict interesting and some\nsignificant deviations from the $\\Lambda$CDM model. In particular, a spatially\nclosed universe along with a simple-gDE of positive inertial mass density,\nwhich work in contrast to each other, results in minor improvement to the $H_0$\ntension. The joint dataset, including the Planck data, presents no evidence for\na deviation from spatial flatness but almost the same evidence for a\ncosmological constant and the simple-gDE with an inertial mass density of order\n$\\mathcal{O}(10^{-12})\\,\\rm eV^4$. The latter case predicts almost no deviation\nfrom the $\\Lambda$CDM model up until today--so that it results in no\nimprovement regarding the BAO Ly-$\\alpha$ data--except that it slightly\naggravates the $H_0$ tension. We also study via dynamical analysis the history\nof the Universe in the models, as the simple-gDE results in futures different\nthan the de Sitter future of the $\\Lambda$CDM model.",
+          "arxiv_id": "2104.02623v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "High-accuracy simulations of highly spinning binary neutron star systems",
+          "year": "2021-08",
+          "abstract": "With an increasing number of expected gravitational-wave detections of binary\nneutron star mergers, it is essential that gravitational-wave models employed\nfor the analysis of observational data are able to describe generic compact\nbinary systems. This includes systems in which the individual neutron stars are\nmillisecond pulsars for which spin effects become essential. In this work, we\nperform numerical-relativity simulations of binary neutron stars with aligned\nand anti-aligned spins within a range of dimensionless spins of $\\chi \\sim\n[-0.28,0.58]$. The simulations are performed with multiple resolutions, show a\nclear convergence order and, consequently, can be used to test existing\nwaveform approximants. We find that for very high spins gravitational-wave\nmodels that have been employed for the interpretation of GW170817 and GW190425\nare not capable of describing our numerical-relativity dataset. We verify\nthrough a full parameter estimation study in which clear biases in the estimate\nof the tidal deformability and effective spin are present. We hope that in\npreparation of the next gravitational-wave observing run of the Advanced LIGO\nand Advanced Virgo detectors our new set of numerical-relativity data can be\nused to support future developments of new gravitational-wave models.",
+          "arxiv_id": "2108.10429v1"
+        },
+        {
+          "title": "Piecewise frequency model for searches for long-transient gravitational waves from young neutron stars",
+          "year": "2023-10",
+          "abstract": "In this work we characterise the performance of a new search technique\ndesigned to be sensitive to the remnants of binary neutron star systems.\nSensitivity estimates of the new method on simulated data are competitive\nagainst those of other work. Previous searches for a gravitational-wave signal\nfrom a possible neutron star remnant of the binary neutron star merger event\nGW170817 have focused on short ($<500$~s) and long duration (2.5~hr -- 8~day)\nsignals. To date, no such post-merger signal has been detected. We introduce a\nnew piecewise model which has the flexibility to accurately follow\ngravitational-wave signals which are rapidly evolving in frequency, such as\nthose which may be emitted from young neutron stars born from binary neutron\nstar mergers or supernovae. We investigate the sensitivity and computational\ncost of this piecewise model when used in a fully coherent 1800-second\n$\\mathcal{F}$-statistic search on simulated data containing possible signals\nfrom the GW170817 remnant. The sensitivity of the search using the piecewise\nmodel is determined using simulated data, with noise consistent with the LIGO\nsecond observing run. Across a 100--2000~Hz frequency band, the model achieves\na peak sensitivity of $h_{\\text{rss}}^{50\\%} = 4.4 \\times 10^{-23}\n\\text{Hz}^{-1/2}$ at 200~Hz, competitive with other methods. The computational\ncost of conducting the search, over a bank of $1.1 \\times 10^{12}$ templates,\nis estimated at 10 days running on 100 CPU's.",
+          "arxiv_id": "2310.12463v2"
+        },
+        {
+          "title": "Statistical and systematic uncertainties in extracting the source properties of neutron star - black hole binaries with gravitational waves",
+          "year": "2020-05",
+          "abstract": "Gravitational waves emitted by neutron star black hole mergers encode key\nproperties of neutron stars - such as their size, maximum mass and spins - and\nblack holes. However, the presence of matter and the high mass ratio makes\ngenerating long and accurate waveforms from these systems hard to do with\nnumerical relativity, and not much is known about systematic uncertainties due\nto waveform modeling. We simulate gravitational waves from neutron star black\nhole mergers by hybridizing numerical relativity waveforms produced with the\nSpEC code with a recent numerical relativity surrogate NRHybSur3dq8Tidal. These\nsignals are analyzed using a range of available waveform families, and\nstatistical and systematic errors are reported. We find that at a network\nsignal-to-noise ratio (SNR) of 30, statistical uncertainties are usually larger\nthan systematic offsets, while at an SNR of 70 the two become comparable. The\nindividual black hole and neutron star masses, as well as the mass ratios, are\ntypically measured very precisely, though not always accurately at high SNR. At\na SNR of 30 the neutron star tidal deformability can only be bound from above,\nwhile for louder sources it can be measured and constrained away from zero. All\nneutron stars in our simulations are non-spinning, but in no case we can\nconstrain the neutron star spin to be smaller than $\\sim0.4$ (90% credible\ninterval). Waveform families whose late inspiral has been tuned specifically\nfor neutron star black hole signals typically yield the most accurate\ncharacterization of the source parameters. Their measurements are in tension\nwith those obtained using waveform families tuned against binary neutron stars,\neven for mass ratios that could be relevant for both binary neutron stars and\nneutron star black holes mergers.",
+          "arxiv_id": "2005.11850v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Testing Gravity with Black Hole Shadow Subrings",
+          "year": "2022-02",
+          "abstract": "The black hole shadow, first observed by the Event Horizon Telescope in 2017,\nis the newest method for studying black holes and understanding gravity. Much\nwork has gone into understanding the shadow of a Kerr black hole, including all\nof the complex astrophysics of the accretion disk, and there are numerous\nstudies of the ideal shadow in non-Kerr black holes and exotic compact objects.\nThis paper presents one of the first studies of the black hole shadow of\nnon-Kerr black holes when the illumination source is an accretion disk. In\nparticular, the ability of current and future very long baseline interformeters\nto estimate the physical parameters of the black hole spacetime and accretion\ndisk is investigated using two different parametrized black hole metrics that\nencode a number of possible deviations from Kerr. Both the full shadow image\nand the individual subrings of the shadow are analyzed as the higher order\nsubrings are weakly dependent on the disk physics and may be a more viable\nobservable for studying the spacetime. The results suggest that with current\ntelescope capabilities and any future earth-based telescopes it will be quite\ndifficult to place strong constraints on departures from the Kerr spacetime,\nprimarily due to the low resolution and strong degeneracies between the\nspacetime parameters. More optimistically, space-based interferometers may be\ncapable of testing the Kerr nature of black holes and general relativity to\ncomparable or better precision than is currently possible with other\nobservations.",
+          "arxiv_id": "2202.02355v1"
+        },
+        {
+          "title": "Eikonal quasinormal modes, photon sphere and shadow of a charged black hole in the 4D Einstein-Gauss-Bonnet gravity",
+          "year": "2023-03",
+          "abstract": "In this work, we investigate the relationship between the geometrical\nproperties, the photon sphere, the shadow, and the eikonal quasinormal modes of\nelectrically charged black holes in 4D Einstein-Gauss-Bonnet gravity.\nQuasinormal modes are complex frequency oscillations that are dependent on the\ngeometry of spacetime and have significant applications in studying black hole\nproperties and testing alternative theories of gravity. Here, we focus on the\neikonal limit for high frequency quasinormal modes and their connection to the\nblack holes geometric characteristics. To study the photon sphere, quasinormal\nmodes, and black hole shadow, we employ various techniques such as the WKB\nmethod in various orders of approximation, the Poschl-Teller potential method,\nand Churilova's analytical formulas. Our results indicate that the real part of\nthe eikonal quasinormal mode frequencies of test fields are linked to the\nunstable circular null geodesic and are correlated with the shadow radius for\nan Charged Einstein-Gauss-Bonnet 4D black hole. Furthermore, we found that the\nreal part of quasinormal modes, the photon sphere and shadow radius have a\nlower value for charged black holes in 4D Einstein-Gauss-Bonnet gravity\ncompared to black holes without electric charge and those of static black holes\nin general relativity. Additionally, we explore various analytical formulas for\nthe photon spheres and shadows, deducing an Churilova's approximate formula for\nthe black hole shadow radius of the Charged Einstein-Gauss-Bonnet 4D black\nhole, which arises from its connection with the eikonal quasinormal modes.",
+          "arxiv_id": "2303.02877v2"
+        },
+        {
+          "title": "Gravitational deflection of light and shadow cast by rotating Kalb-Ramond black holes",
+          "year": "2020-01",
+          "abstract": "The nonminimal coupling of the nonzero vacuum expectation value of the\nself-interacting antisymmetric Kalb-Ramond field with gravity leads to a\npower-law hairy black hole having a parameter $s$, which encompasses the\nReissner$-$Nordstrom black hole ($s=1$). We obtain the axially symmetric\ncounterpart of this hairy solution, namely, the rotating Kalb-Ramond black\nhole, which encompasses, as special cases, Kerr ($s=0$) and Kerr-Newman ($s=1$)\nblack holes. Interestingly, for a set of parameters ($M, a$, and $\\Gamma$),\nthere exists an extremal value of the Kalb-Ramond parameter ($s=s_{e}$), which\ncorresponds to an extremal black hole with degenerate horizons, while for\n$s<s_{e}$, it describes a nonextremal black hole with Cauchy and event\nhorizons, and no black hole for $s>s_{e}$. We find that the extremal value\n$s_e$ is also influenced by these parameters. The black hole shadow size\ndecreases monotonically and the shape gets more distorted with an increasing\n$s$; in turn, shadows of rotating Kalb-Ramond black holes are smaller and more\ndistorted than the corresponding Kerr black hole shadows. We investigate the\neffect of the Kalb-Ramond field on the rotating black hole spacetime geometry\nand analytically deduced corrections to the light deflection angle from the\nKerr and Schwarzschild black hole values. The deflection angle for Sgr A* and\nthe shadow caused by the supermassive black hole M87* are included and compared\nwith analogous results of Kerr black holes. The inferred circularity deviation\n$\\Delta C\\leq 0.10$ for the M87* black hole merely constrains the Kalb-Ramond\nfield parameter, whereas shadow angular diameter $\\theta_d=42\\pm 3\\, \\mu$as,\nwithin the $1\\sigma$ region, places bounds $\\Gamma\\leq 0.09205$ for $s=1$ and\n$\\Gamma\\leq 0.02178$ for $s=3$.",
+          "arxiv_id": "2001.00460v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "The first law of differential entropy and holographic complexity",
+          "year": "2020-08",
+          "abstract": "We construct the CFT dual of the first law of spherical causal diamonds in\nthree-dimensional AdS spacetime. A spherically symmetric causal diamond in\nAdS$_3$ is the domain of dependence of a spatial circular disk with vanishing\nextrinsic curvature. The bulk first law relates the variations of the area of\nthe boundary of the disk, the spatial volume of the disk, the cosmological\nconstant and the matter Hamiltonian. In this paper we specialize to first-order\nmetric variations from pure AdS to the conical defect spacetime, and the bulk\nfirst law is derived following a coordinate based approach. The AdS/CFT\ndictionary connects the area of the boundary of the disk to the differential\nentropy in CFT$_2$, and assuming the `complexity=volume' conjecture, the volume\nof the disk is considered to be dual to the complexity of a cutoff CFT. On the\nCFT side we explicitly compute the differential entropy and holographic\ncomplexity for the vacuum state and the excited state dual to conical AdS using\nthe kinematic space formalism. As a result, the boundary dual of the bulk first\nlaw relates the first-order variations of differential entropy and complexity\nto the variation of the scaling dimension of the excited state, which\ncorresponds to the matter Hamiltonian variation in the bulk. We also include\nthe variation of the central charge with associated chemical potential in the\nboundary first law. Finally, we comment on the boundary dual of the first law\nfor the Wheeler-deWitt patch of AdS, and we propose an extension of our CFT\nfirst law to higher dimensions.",
+          "arxiv_id": "2008.12673v2"
+        },
+        {
+          "title": "Liouville gravity at the end of the world: Deformed defects in AdS/BCFT",
+          "year": "2024-04",
+          "abstract": "We study shape deformations of two-dimensional end-of-the-world (ETW) branes,\nsuch as those in bottom-up models of two-dimensional holographic boundary\nconformal field theories (BCFT), and derive an action for the theory of brane\ndeformations in any bulk three-dimensional maximally symmetric spacetime. In\nthe case of a bulk anti-de Sitter (AdS) spacetime, at leading order in the\nultraviolet cutoff, the induced theory on the brane controlling its shape is\nLiouville gravity coupled to quantum matter. We show in certain limits the\ntheory reduces to semi-classical AdS, dS or flat Jackiw-Teitelboim (JT)\ngravity, thus providing the first doubly-holographic derivation of\ntwo-dimensional models of dilaton gravity minimally coupled to a large number\nof conformal fields. Specializing to the AdS JT gravity limit, we discuss the\ndual BCFT interpretation and provide evidence that changing the boundary\nconditions of JT gravity on the brane is equivalent to a deformation of the\ndual BCFT with the displacement operator. This establishes a doubly-holographic\ntriality between (i) brane deformations in the bulk, (ii) JT gravity in the\nbrane description, and (iii) irrelevant deformations of the CFT boundary.\nLastly, in the presence of a non-trivial dilaton profile, we prove that the\nRyu-Takayanagi formula for holographic BCFTs receives a contact term whenever\nthe minimal surface ends on the brane.",
+          "arxiv_id": "2404.07260v1"
+        },
+        {
+          "title": "Codimension two holography for wedges",
+          "year": "2020-07",
+          "abstract": "We propose a codimension two holography between a gravitational theory on a\n$d+1$ dimensional wedge spacetime and a $d-1$ dimensional CFT which lives on\nthe corner of the wedge. Formulating this as a generalization of AdS/CFT, we\nexplain how to compute the free energy, entanglement entropy and correlation\nfunctions of the dual CFTs from gravity. In this wedge holography, the\nholographic entanglement entropy is computed by a double minimization\nprocedure. Especially, for a four dimensional gravity ($d=3$), we obtain a two\ndimensional CFT and the holographic entanglement entropy perfectly reproduces\nthe known result expected from the holographic conformal anomaly. We also\ndiscuss a lower dimensional example ($d=2$) and find that a universal quantity\nnaturally arises from gravity, which is analogous to the boundary entropy.\nMoreover, we consider a gravity on a wedge region in Lorentzian AdS, which is\nexpected to be dual to a CFT with a space-like boundary. We formulate this new\nholography and compute the holographic entanglement entropy via a Wick rotation\nof the AdS/BCFT construction. Via a conformal map, this wedge spacetime is\nmapped into a geometry where a bubble-of-nothing expands under time evolution.\nWe reproduce the holographic entanglement entropy for this gravity dual via CFT\ncalculations.",
+          "arxiv_id": "2007.06800v4"
+        }
+      ],
+      "4": [
+        {
+          "title": "Analytic phase structures and thermodynamic curvature for the charged AdS black hole in alternative phase space",
+          "year": "2020-11",
+          "abstract": "In this paper, we visit the thermodynamic criticality and thermodynamic\ncurvature of the charged AdS black hole in a new phase space. It is shown that\nwhen the square of the total charge of the charged black hole is considered as\na thermodynamic quantity, the charged AdS black hole also admits an van der\nWaals-type critical behavior without the help of thermodynamic pressure and\nthermodynamic volume. Based on this, we study the fine phase structures of the\ncharged AdS black hole with fixed AdS background in the new framework. On the\none hand, we give the phase diagram structures of the charged AdS black hole\naccurately and analytically, which fills up the gap in dealing with the phase\ntransition of the charged AdS black holes by taking the square of the charge as\na thermodynamic quantity. On the other hand, we analyse the thermodynamic\ncurvature of the black hole in two coordinate spaces. The thermodynamic\ncurvatures obtained in two different coordinate spaces are equivalent to each\nother and are also positive. Based on an empirical conclusion under the\nframework of thermodynamic geometry, we speculate that when the square of\ncharge is treated as an independent thermodynamic quantity, the charged AdS\nblack hole is likely to present a repulsive between its molecules. More\nimportantly, based on the thermodynamic curvature, we obtain an universal\nexponent at the critical point of phase transition.",
+          "arxiv_id": "2011.06736v1"
+        },
+        {
+          "title": "The radial distribution function reveals the underlying mesostructure of the AdS black hole",
+          "year": "2022-07",
+          "abstract": "Based on the equations of state, one can infer the underlying interaction\npotentials among the black hole molecules in the case of Schwarzschild-AdS and\ncharged AdS black holes. The microscopic molecules with the interaction\npotential arrange in a specific way to form the mesostructure, whose size is\nbetween the macro (black hole system) and the micro (black hole molecules). As\na result, the mesostructure leads to the emergence of the macroscopic phase.\nHowever, the information about the mesostructure of the AdS black hole are\nstill elusive. In this Letter, the radial distribution function is introduced\nto probe the mesostructure of the AdS black hole. We find that the\nmesostructure of the Schwarzschild-AdS black hole behaves as the ideal gas when\nthe temperature is high. Furthermore, we find the mesostructure for the\nliquid-like (gas-like) phase of the small (large) charged AdS black hole. A\nsudden change of the mesostructure emerges from the liquid-like phase to the\ngas-like phase when the charged AdS black hole undergoes a phase transition\nfrom the small to large black hole, consistent with the viewpoint that the\nphase transition of the charged AdS black hole is reminiscent of that of the\nvdW fluid. This study provides a new angle towards understanding the black hole\nfrom its mesostructure.",
+          "arxiv_id": "2207.02011v3"
+        },
+        {
+          "title": "Microstructure of Charged AdS Black Hole with Minimal Length Effects",
+          "year": "2022-04",
+          "abstract": "In this work, the microstructure of charged AdS black holes under minimal\nlength effects is investigated. We study the thermodynamics of black holes in\nthe extended phase space, where the cosmological constant is regarded as the\nthermodynamic pressure. The modified Hawking temperature and phase transition\nare obtained based on the generalized uncertainty principle (GUP). Then, using\nthermodynamic geometry, we show that the microstructure of black holes can be\ndetermined by the ratio of GUP parameter to charge. For a small ratio, the\nblack hole exhibits the typical RN-AdS microstructure with van der Waals phase\ntransition and repulsive/attractive interactions. As the ratio increases, the\nreentrant phase transition takes place, and both the repulsion-attraction\ncoexisted black hole and the attraction dominated black hole can be found in\nthis case. For a large ratio, the black hole behaves like a Schwarzchild-AdS\nblack hole in which neither phase transition nor repulsive interaction exists.\nThese results suggest that the GUP effect will reduce the repulsive interaction\npresented by the charged AdS black hole, which can also be qualitatively\nunderstood from the perspective of black hole molecules.",
+          "arxiv_id": "2204.13044v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Spacetime Harmonic Functions and the Mass of 3-Dimensional Asymptotically Flat Initial Data for the Einstein Equations",
+          "year": "2020-02",
+          "abstract": "We give a lower bound for the Lorentz length of the ADM energy-momentum\nvector (ADM mass) of 3-dimensional asymptotically flat initial data sets for\nthe Einstein equations. The bound is given in terms of linear growth `spacetime\nharmonic functions' in addition to the energy-momentum density of matter\nfields, and is valid regardless of whether the dominant energy condition holds\nor whether the data possess a boundary. A corollary of this result is a new\nproof of the spacetime positive mass theorem for complete initial data or those\nwith weakly trapped surface boundary, and includes the rigidity statement which\nasserts that the mass vanishes if and only if the data arise from Minkowski\nspace. The proof has some analogy with both the Witten spinorial approach as\nwell as the marginally outer trapped surface (MOTS) method of Eichmair, Huang,\nLee, and Schoen. Furthermore, this paper generalizes the harmonic level set\ntechnique used in the Riemannian case by Bray, Stern, and the second and third\nauthors, albeit with a different class of level sets. Thus, even in the\ntime-symmetric (Riemannian) case a new inequality is achieved.",
+          "arxiv_id": "2002.01534v3"
+        },
+        {
+          "title": "Developments of initial data on big bang singularities for the Einstein-nonlinear scalar field equations",
+          "year": "2024-09",
+          "abstract": "In a recent work, Ringstr\\\"om proposed a geometric notion of initial data on\nbig bang singularities. Moreover, he conjectured that initial data on the\nsingularity could be used to parameterize quiescent solutions to Einstein's\nequations; that is, roughly speaking, solutions whose leading order asymptotics\nare convergent. We prove that given initial data on the singularity for the\nEinstein-nonlinear scalar field equations in 4 spacetime dimensions, as defined\nby Ringstr\\\"om, there is a corresponding unique development of the data. We do\nnot assume any symmetry or analyticity, and we allow for arbitrary closed\nspatial topology. Our results thus present an important step towards resolving\nRingstr\\\"om's conjecture. Furthermore, our results show that the\nEinstein-nonlinear scalar field equations have a geometric singular initial\nvalue problem formulation, which is analogous to the classical result by\nChoquet-Bruhat and Geroch for initial data on a Cauchy hypersurface.\n  In the literature, there are two conditions which are expected to ensure that\nquiescent behavior occurs. The first one is an integrability condition on a\nspecial spatial frame. The second one is an algebraic condition on the\neigenvalues of the expansion normalized Weingarten map associated with a\nfoliation of the spacetime near the singularity. Our result is the first such\nresult where both possibilities are allowed. That is, we allow for the first\ncondition to ensure quiescence in one region of space and for the second\ncondition to take over in the region where the first one is violated. This fact\nallows for our results to include the vacuum setting.",
+          "arxiv_id": "2409.17065v2"
+        },
+        {
+          "title": "The non-linear stability of the Schwarzschild family of black holes",
+          "year": "2021-04",
+          "abstract": "We prove the non-linear asymptotic stability of the Schwarzschild family as\nsolutions to the Einstein vacuum equations in the exterior of the black hole\nregion: general vacuum initial data, with no symmetry assumed, sufficiently\nclose to Schwarzschild data evolve to a vacuum spacetime which (i) possesses a\ncomplete future null infinity $\\mathcal{I}^+$ (whose past $J^-(\\mathcal{I}^+)$\nis moreover bounded by a regular future complete event horizon\n$\\mathcal{H}^+$), (ii) remains close to Schwarzschild in its exterior, and\n(iii) asymptotes back to a member of the Schwarzschild family as an appropriate\nnotion of time goes to infinity, provided that the data are themselves\nconstrained to lie on a teleologically constructed codimension-$3$\n\"submanifold\" of moduli space. This is the full nonlinear asymptotic stability\nof Schwarzschild since solutions not arising from data lying on this\nsubmanifold should by dimensional considerations approach a Kerr spacetime with\nrotation parameter $a\\neq 0$, i.e. such solutions cannot satisfy (iii). The\nproof employs teleologically normalised double null gauges, is expressed\nentirely in physical space and makes essential use of the analysis in our\nprevious study of the linear stability of the Kerr family around Schwarzschild\n[DHR], as well as techniques developed over the years to control the\nnon-linearities of the Einstein equations. The present work, however, is\nentirely self-contained. In view of the recent [DHR19, TdCSR20] our approach\ncan be applied to the full non-linear asymptotic stability of the subextremal\nKerr family.",
+          "arxiv_id": "2104.08222v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Testing quantum theory on curved space-time with quantum networks",
+          "year": "2024-06",
+          "abstract": "Quantum technologies present new opportunities for fundamental tests of\nnature. One potential application is to probe the interplay between quantum\nphysics and general relativity - a field of physics with no empirical evidence\nyet. Here we show that quantum networks open a new window to test this\ninterface. We demonstrate how photon mediated entanglement between atomic or\natom-like systems can be used to probe time-dilation induced entanglement and\ninterference modulation. Key are non-local measurements between clocks in a\ngravitational field, which can be achieved either through direct photon\ninterference or by using auxiliary entanglement. The resulting observable\ndepends on the interference between different proper times, and can only be\nexplained if both quantum theory and general relativity are taken into account.\nThe proposed protocol enables clock interferometry on km-scale separations and\nbeyond. Our work thus shows a realistic experimental route for a first test of\nquantum theory on curved space-time, opening up new scientific opportunities\nfor quantum networks.",
+          "arxiv_id": "2406.19533v2"
+        },
+        {
+          "title": "Complementarity-Entanglement Tradeoff in Quantum Gravity",
+          "year": "2022-05",
+          "abstract": "Quantization of the gravity remains one of the most important, yet extremely\nillusive, challenges at the heart of modern physics. Any attempt to resolve\nthis long-standing problem seems to be doomed, as the route to any direct\nempirical evidence (i.e., detecting gravitons) for shedding light on the\nquantum aspect of the gravity is far beyond the current capabilities. Recently,\nit has been discovered that gravitationally-induced entanglement, tailored in\nthe interferometric frameworks, can be used to witness the quantum nature of\nthe gravity. Even though these schemes offer promising tools for investigating\nquantum gravity, many fundamental and empirical aspects of the schemes are yet\nto be discovered. Considering the fact that, beside quantum entanglement,\nquantum uncertainty and complementarity principles are the two other\nfoundational aspects of quantum physics, the quantum nature of the gravity\nneeds to manifest all of these features. Here, we lay out an interferometric\nplatform for testing these three nonclassical aspects of quantum mechanics in\nquantum gravity setting, which connects gravity and quantum physics in a\nbroader and deeper context. As we show in this work, all of these three\nfundamental features of quantum gravity can be framed and fully analyzed in an\ninterferometric scheme.",
+          "arxiv_id": "2205.01967v1"
+        },
+        {
+          "title": "Should we necessarily treat masses as localized when analysing tests of quantum gravity?",
+          "year": "2024-05",
+          "abstract": "Recently proposed ``table-top tests of quantum gravity'' involve creating,\nseparating and recombining superpositions of masses at non-relativistic speeds.\nThe general expectation is that these generate superpositions of gravitational\nfields via the Newtonian potential. Analyses suggest that negligible\ngravitational radiation is generated if the interference experiments involve\nsufficiently small accelerations. One way of thinking about this is that matter\nand the static gravitational field are temporarily entangled and then\ndisentangled. Another is that the static gravitational field degrees of freedom\nare dependent on the matter and do not belong to a separate Hilbert space, and\nthat there is always negligible entanglement between matter and dynamical\ngravitational degrees of freedom.\n  In this last picture, localized masses effectively become infinitely extended\nobjects, inseparable from their Newtonian potentials. While this picture seems\nhard to extend to a fully relativistic theory of non-quantum gravity, it has\nsignificant implications for analyses of how or whether BMV and other\nnon-relativistic experiments might test the quantum nature of gravity. If the\nmasses in a BMV experiment are regarded as occupying overlapping regions (or\nindeed all of space), explaining how they become entangled does not require\nthat their gravitational interaction involves quantum information exchange. On\nthis view, while the experiments test gravity in a regime where quantum theory\ndescribes all relevant matter degrees of freedom, they do not necessarily test\nits quantum nature. It might be argued that no plausible explanation other than\nquantum gravity could be consistent both with these experiments and with\nrelativity. But this relies on further theoretical assumptions and is weaker\nthan claiming direct evidence for quantum gravitational interactions from the\nexperiments alone.",
+          "arxiv_id": "2405.20514v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "Matter Geometry Coupling and Casimir Wormhole Geometry",
+          "year": "2024-09",
+          "abstract": "In this study, we investigate traversable wormhole solutions within the setup\nof $f(R,\\mathcal{L}_{m})$ gravity, a modified theory of gravity where the\ngravitational action relies upon the matter Lagrangian $\\mathcal{L}_{m}$ and\nthe Ricci scalar $R$. In General Relativity (GR), stability issues in\ntraversable wormholes necessitate the existence of exotic matter that violates\nthe null energy condition (NEC). In contrast, we explore wormhole solutions\nthat align with the criteria for Casimir wormholes, which do not necessarily\nrequire NEC violation. Our analysis demonstrates that in the context of\n$f(R,\\mathcal{L}_{m})$ gravity, exotic matter can sustain these wormholes. We\nfurther examine the traversability conditions of the wormhole, considering both\nscenarios with and without the Generalized Uncertainty Principle (GUP)\ncorrection. Additionally, the stability of the wormhole is assessed based on\nequilibrium conditions. Our findings suggest that $f(R,\\mathcal{L}_{m})$\ngravity offers a viable framework for the existence of stable, traversable\nwormholes sustained by exotic matter, potentially expanding the landscape of\nviable wormhole solutions beyond the confines of GR.",
+          "arxiv_id": "2409.12160v1"
+        },
+        {
+          "title": "Traversable and stable wormhole solutions in logarithmic f(R) gravity",
+          "year": "2022-06",
+          "abstract": "This study aims to investigate the viability of a viable logarithmic f(R)\ngravity for inflation in giving wormhole solutions. We consider a static and\nspherically symmetric spacetime and two different shape functions. We found\nthat the model provides traversable wormhole solutions shown by its violation\nto energy conditions. Violation to null energy condition indicates the\nexistence of traversable wormhole and the existence of exotic matter. The\nequation of state parameter is less than -1 which shows the presence of phantom\nfluid. Furthermore, the stability of wormhole is analyzed using\nTolman-Oppenheimer-Volkoff equation and we found that the wormhole solutions\nare stable. Finally, we conclude that the model is viable in giving wormhole\nsolutions with the same parameter constraints as inflation.",
+          "arxiv_id": "2206.12274v1"
+        },
+        {
+          "title": "Novel Casimir wormholes in Einstein gravity",
+          "year": "2024-06",
+          "abstract": "In the context of General Relativity (GR), violation of the null energy\ncondition (NEC) is necessary for existence of static spherically symmetric\nwormhole solutions. Also, it is a well-known fact that the energy conditions\nare violated by certain quantum fields, such as the Casimir effect. The\nmagnitude and sign of the Casimir energy depend on Dirichlet or Neumann\nboundary conditions and geometrical configuration of the objects involved in a\nCasimir setup. The Casimir energy may act as an ideal candidate for the matter\nthat supports the wormhole geometry. In the present work, we firstly find\ntraversable wormhole solutions supported by a general form for the Casimir\nenergy density assuming a constant redshift function. As well, in this\nframework, assuming that the radial pressure and energy density obey a linear\nequation of state, we derive for the first time Casimir traversable wormhole\nsolutions admitting suitable shape function. Then, we consider three geometric\nconfigurations of the Casimir effect such as (i) two parallel plates, (ii) two\nparallel cylindrical shells, and (iii) two spheres. We study wormhole solutions\nfor each case and their property in detail. We also check the weak and strong\nenergy conditions in the spacetime for the obtained wormhole solutions. The\nstability of the Casimir traversable wormhole solutions are investigated using\nthe Tolman-Oppenheimer-Volkoff (TOV) equation. Finally, we study trajectory of\nnull as well as timelike particles along with quasi-normal modes (QNMs) of a\nscalar field in the wormhole spacetime.",
+          "arxiv_id": "2406.03588v2"
+        }
+      ],
+      "8": [
+        {
+          "title": "Scattering in Black Hole Backgrounds and Higher-Spin Amplitudes: Part I",
+          "year": "2021-07",
+          "abstract": "The scattering of massless waves of helicity $|h|=0,\\frac{1}{2},1$ in\nSchwarzschild and Kerr backgrounds is revisited in the long-wavelenght regime.\nUsing a novel description of such backgrounds in terms of gravitating massive\nparticles, we compute classical wave scattering in terms of $2\\to 2$ QFT\namplitudes in flat space, to all orders in spin. The results are Newman-Penrose\namplitudes which are in direct correspondence with solutions of the\nRegge-Wheeler/Teukolsky equation. By introducing a precise prescription for the\npoint-particle limit, in Part I of this work we show how both agree for $h=0$\nat finite values of the scattering angle and arbitrary spin orientation.\n  Associated classical observables such as the scattering cross sections, wave\npolarizations and time delay are studied at all orders in spin. The effect of\nthe black hole spin on the polarization and helicity of the waves is found in\nagreement with previous analysis at linear order in spin. In the particular\nlimit of small scattering angle, we argue that wave scattering admits a\nuniversal, point-particle description determined by the eikonal approximation.\nWe show how our results recover the scattering eikonal phase with spin up to\nsecond post-Minkowskian order, and match it to the effective action of null\ngeodesics in a Kerr background. Using this correspondence we derive classical\nobservables such as polar and equatorial scattering angles.\n  This study serves as a preceding analysis to Part II, where the Gravitational\nWave ($h=2$) case will be studied in detail.",
+          "arxiv_id": "2107.10179v2"
+        },
+        {
+          "title": "First Look at Quartic-in-Spin Binary Dynamics at Third Post-Minkowskian Order",
+          "year": "2025-02",
+          "abstract": "We compute the conservative and radiation-reaction contributions to classical\nobservables in the gravitational scattering between a spinning and a spinless\nblack hole to the fourth order in spin and third order in the gravitational\nconstant. The conservative results are obtained from two-loop amplitudes for\nthe scattering process of a massive scalar with a massive spin-$s$ field $(s=0,\n1, 2)$ minimally coupled to gravity, employing the recently introduced spin\ninterpolation method to resolve all spin-Casimir terms. The two-loop amplitude\nexhibits a spin-shift symmetry in both probe limits, which we conjecture to be\na sign of yet unknown integrability of Kerr orbits through the quartic order in\nspin and to all orders in the gravitational constant. We obtain the radial\naction from the finite part of the amplitude and use it to compute classical\nobservables, including the impulse and spin kick. This is done using the\nrecently introduced covariant Dirac brackets, which allow for the computation\nof classical scattering observables for general (non-aligned) spin\nconfigurations. Finally, employing the radiation-reaction amplitude proposed by\nAlessio and Di Vecchia, together with the Dirac brackets, we obtain\nradiation-reaction contributions to observables at all orders in spin and\nbeyond the aligned-spin limit. We find agreement with known results up to the\nquadratic order in spin for both conservative and radiation-reaction\ncontributions. Our results advance the state of the art in the understanding of\nspinning binary dynamics in general relativity and demonstrate the power and\nsimplicity of the Dirac bracket formalism for relating scattering amplitudes to\nclassical observables.",
+          "arxiv_id": "2502.08961v3"
+        },
+        {
+          "title": "Spinning Black Hole Scattering at $\\mathcal{O}(G^3 S^2)$: Casimir Terms, Radial Action and Hidden Symmetry",
+          "year": "2024-07",
+          "abstract": "We resolve subtleties in calculating the post-Minksowskian dynamics of binary\nsystems, as a spin expansion, from massive scattering amplitudes of fixed\nfinite spin. In particular, the apparently ambiguous spin Casimir terms can be\nfully determined from the gradient of the spin-diagonal part of the amplitudes\nwith respect to $S^2 = -s(s+1)\\hbar^2$, using an interpolation between massive\namplitudes with different spin representations. From two-loop amplitudes of\nspin-0 and spin-1 particles minimally coupled to gravity, we extract the spin\nCasimir terms in the conservative scattering angle between a spinless and a\nspinning black hole at $\\mathcal{O}(G^3 S^2)$, finding agreement with known\nresults in the literature. This completes an earlier study [Phys. Rev. Lett.\n130 (2023), 021601] that calculated the non-Casimir terms from amplitudes. We\nalso illustrate our methods using a model of spinning bodies in\nelectrodynamics, finding agreement between scattering amplitude predictions and\nclassical predictions in a root-Kerr electromagnetic background up to\n$\\mathcal{O}(\\alpha^3 S^2)$. For both gravity and electrodynamics, the finite\npart of the amplitude coincides with the two-body radial action in the aligned\nspin limit, generalizing the amplitude-action relation beyond the spinless\ncase. Surprisingly, the two-loop amplitude displays a hidden spin-shift\nsymmetry in the probe limit, which was previously observed at one loop. We\nconjecture that the symmetry holds to all orders in the coupling constant and\nis a consequence of integrability of Kerr orbits in the probe limit at the\nfirst few orders in spin.",
+          "arxiv_id": "2407.19005v2"
+        }
+      ],
+      "9": [
+        {
+          "title": "About the symmetry of general relativity",
+          "year": "2020-01",
+          "abstract": "In this work we use generalized deformed gauge groups for investigation of\nsymmetry of general relativity (GR). GR is formulated in generalized reference\nframes, which are represented by (anholonomic in general case) affine frame\nfields. The general principle of relativity is extended to the requirement of\ninvariance of the theory with respect to transitions between generalized\nreference frames, that is, with respect to the group $GL^g$ of local linear\ntransformations of affine frame fields. GR is interpreted as the gauge theory\nof the gauge group of translations $T^g_M$, and therefore is invariant under\nthe space-time diffeomorphisms. The groups $GL^g$ and $T^g_M$ are united into\ngroup $S^g_M$, which is their semidirect product and is the complete symmetry\ngroup of the general relativity in an affine frame (GRAF).\n  The consequence of $GL^g$-invariance of GRAF is the Palatini equation, which\nin the absence of torsion goes into the metricity condition, and vice versa,\nthat is, is fulfilled identically in the Riemannian space. The consequence of\nthe $T^g_M$-invariance of GRAF is representation of the Einstein equation in\nthe superpotential form, that is, in the form of dynamic Maxwell equations (or\nYoung-Mills equations). Deformation of the group $S^g_M$ leads to\nrenormalisation of energy-momentum of the gravitation field. At the end we show\nthat by limiting admissible reference frames (by $GL^g$-gauge fixing) from\nGRAF, in addition to Einstein gravity, one can obtain other local equivalent\nformulations of GR: general relativity in an orthonormal frame or teleparallel\nequivalent of general relativity, dilaton gravity, unimodular gravity, etc.",
+          "arxiv_id": "2001.07081v3"
+        },
+        {
+          "title": "Primary constraints in general teleparallel quadratic gravity",
+          "year": "2024-01",
+          "abstract": "The primary constraints for general teleparallel quadratic gravity are\npresented. They provide a basic classification of teleparallel theories from\nthe perspective of the full nonlinear theory and represent the first step\ntowards a full-fledged Hamiltonian analysis. The results are consistent with\nthe limit of metric and symmetric teleparallel quadratic gravity. In the latter\ncase we also present novel results, since symmetric teleparallel theories have\nonly been partially studied so far. Apart from the general results, we also\npresent the special cases of teleparallel theories classically equivalent to\ngeneral relativity, which differ by a boundary term from the formulation of\nEinstein and Hilbert. This affects the constraint algebra as the primary\nconstraints involve a mix of torsion and non-metricity, implying that the\nsymmetries of general relativity are realized in a more intricate way compared\nto the teleparallel case. In this context, a more detailed understanding will\nprovide insights for energy and entropy in gravity, quantum gravity and\nnumerical relativity of this alternative formulation of general relativity. The\nprimary constraints are presented both in the standard formulation and in\nirreducible parts of torsion and non-metricity. The special role of axial\ntorsion and its connection to the one-parameter of viable new general\nrelativity is confirmed. Furthermore, we find that one of the irreducible parts\nof non-metricity affects the primary constraint for shift but not lapse.",
+          "arxiv_id": "2401.11591v3"
+        },
+        {
+          "title": "The $3+1$ Formalism in the Geometric Trinity of Gravity",
+          "year": "2021-08",
+          "abstract": "The geometric trinity of gravity offers a platform in which gravity can be\nformulated in three analogous approaches, namely curvature, torsion and\nnonmetricity. In this vein, general relativity can be expressed in three\ndynamically equivalent ways which may offer insights into the different\nproperties of these decompositions such as their Hamiltonian structure, the\nefficiency of numerical analyses, as well as the classification of\ngravitational field degrees of freedom. In this work, we take a $3+1$\ndecomposition of the teleparallel equivalent of general relativity and the\nsymmetric teleparallel equivalent of general relativity which are both\ndynamically equivalent to curvature based general relativity. By splitting the\nspacetime metric and corresponding tetrad into their spatial and temporal parts\nas well as through finding the Gauss-like equations, it is possible to set up a\ngeneral foundation for the different formulations of gravity. Based on these\nresults, general $3$-tetrad and $3$-metric evolution equations are derived.\nFinally through the choice of the two respective connections, the metric $3+1$\nformulation for general relativity is recovered as well as the tetrad $3+1$\nformulation of the teleparallel equivalent of general relativity and the metric\n$3+1$ formulation of symmetric teleparallel equivalent of general relativity.\nThe approach is capable, in principle, of resolving common features of the\nvarious formulations of general relativity at a fundamental level and pointing\nout characteristics that extensions and alternatives to the various\nformulations can present.",
+          "arxiv_id": "2108.03075v1"
+        }
+      ],
+      "10": [
+        {
+          "title": "Using nanokelvin quantum thermometry to detect timelike Unruh effect in a Bose-Einstein condensate",
+          "year": "2023-08",
+          "abstract": "It is found that the Unruh effect can not only arise out of the entanglement\nbetween two sets of modes spanning the left and right Rindler wedges, but also\nbetween modes spanning the future and past light cones. Furthermore, an\ninertial Unruh-DeWitt detector along a spacetime trajectory in one of these\ncones may exhibit the same thermal response to the vacuum as that of an\naccelerated detector confined in the Rindler wedge. This feature thus could be\nan alternative candidate to verify the ``Unruh effect\", termed as the timelike\nUnruh effect correspondingly. In this paper we propose to detect the timelike\nUnruh effect by using an impurity immersed in a Bose-Einstein condensate (BEC).\nThe impurity acts as the detector which interacts with the density fluctuations\nin the condensate, working as an effective quantum field. Following the\nparadigm of the emerging field of quantum thermometry, we combine quantum\nparameter estimation theory with the theory of open quantum systems to realize\na nondemolition Unruh temperature measurement in the nanokelvin (nK) regime.\nOur results demonstrate that the timelike Unruh effect can be probed using a\nstationary two-level impurity with time-dependent energy gap immersed in a BEC\nwithin current technologies.",
+          "arxiv_id": "2308.14246v2"
+        },
+        {
+          "title": "Entanglement dynamics for Unruh-DeWitt detectors interacting with massive scalar fields: The Unruh and anti-Unruh effects",
+          "year": "2021-05",
+          "abstract": "We study, in the framework of open quantum systems, the entanglement dynamics\nfor a quantum system composed of two uniformly accelerated Unruh-Dewitt\ndetectors interacting with a bath of massive scalar fields in the Minkowski\nvacuum. We find that the entanglement evolution for the quantum system coupled\nwith massive fields is always slower compared with that of the one coupled with\nmassless fields, and this time-delay effect brought by the field being massive\ncan however be counteracted by a large enough acceleration, in contrast to the\ncase of a static quantum system in a thermal bath, where this time delay is not\naffected by the temperature. Remarkably, the maximal concurrence of the quantum\nsystem generated during evolution may increase with acceleration for any\ninter-detector separation while that for static ones in a thermal bath\ndecreases monotonically with temperature, and this can be considered as an\nanti-Unruh effect in terms of the entanglement generated.",
+          "arxiv_id": "2105.14735v2"
+        },
+        {
+          "title": "Does acceleration always degrade quantum entanglement for tetrapartite Unruh-DeWitt detectors?",
+          "year": "2025-02",
+          "abstract": "Previous studies have shown that the Unruh effect completely destroys quantum\nentanglement and coherence of bipartite states, as modeled by entangled\nUnruh-DeWitt detectors. But does the Unruh effect have a different impact on\nquantum entanglement of multipartite states within this framework? In this\npaper, we investigate the influence of the Unruh effect on $1-3$ entanglement\nin the context of entangled tetrapartite Unruh-DeWitt detectors. We find that\nquantum entanglement of tetrapartite $W$ state first decreases to a minimum\nvalue and then increases to a fixed value with the growth of the acceleration.\nThis indicates that the Unruh effect can, under certain conditions, enhance\nquantum entanglement. In other words, the Unruh effect plays a dual role in the\nbehavior of quantum entanglement-both diminishing and enhancing it. This\ndiscovery challenges and overturns the traditional view that the Unruh effect\nis solely detrimental to quantum entanglement and coherence in entangled\nUnruh-DeWitt detectors, offering a fresh and profound perspective on its\nimpact.",
+          "arxiv_id": "2502.05881v2"
+        }
+      ],
+      "11": [
+        {
+          "title": "Hitchhiker's Guide to the Swampland: The Cosmologist's Handbook to the string-theoretical Swampland Programme",
+          "year": "2025-09",
+          "abstract": "String theory has strong implications for cosmology: it tells us that we\ncannot have a cosmological constant, that single-field slow-roll inflation is\nruled out, and that black holes decay. We elucidate the origin of these\nstatements within the string-theoretical swampland programme. The swampland\nprogramme is generating a growing body of insights that have yet to be\nincorporated into cosmological models. Taking a cosmologist's perspective, we\nhighlight the relevance of swampland conjectures to black holes, dark matter,\ndark energy, and inflation, including their implications for scalar fields such\nas quintessence and axions. Our goal is to inspire cosmological model builders\nto examine the compatibility of effective field theories with quantum\ngravitational UV completions and to address outstanding cosmological tensions\nsuch as the Hubble tension. This comprehensive literature review presents clear\ndefinitions, cosmological implications, and the current status - including\nevidence and counterexamples - of the following swampland conjectures: the\nanti-de Sitter distance conjecture (AdSDC), the completeness conjecture (CC),\nthe cobordism conjecture, the de Sitter conjecture (dSC), the swampland\ndistance conjecture (SDC), the emergence proposal (EP), the Festina Lente Bound\n(FLB), the finite number of massless fields conjecture (or finite flux vacua\nconjecture (FFV)), the no global symmetries conjecture, the no\nnon-supersymmetric theories conjecture, the non-negative null energy condition\nconjecture, the positive Gauss-Bonnet term conjecture, the species scale\nconjecture, the gravitino swampland conjecture (GSC), the tadpole conjecture,\nthe tameness conjecture, the trans-Planckian censorship conjecture (tPCC/TCC),\nthe unique geodesic conjecture, and the weak gravity conjecture (WGC),\nincluding the repulsive force conjecture (RFC).",
+          "arxiv_id": "2509.02632v1"
+        },
+        {
+          "title": "4D dS vacua from AdS vacua of type IIB string theory and AdS distance conjecture",
+          "year": "2022-02",
+          "abstract": "In order for string theory to be made compatible with the low-energy\nobservations of a positive cosmological constant, there have been attempts to\nconstruct dS vacua in string theory which are particularly difficult to\nrealize. Instead of attempting to find de Sitter (dS) vacuum solutions, we\npoint to a new way to make string theory consistent with low-energy dS\ncosmology. In this way, string theory lives in an anti-de Sitter (AdS) vacuum\n(which is simple to construct) that exists only in the high-energy regime;\nhowever, as going to the low-energy scales where the heavy string excitations\nand Kaluza-Klein modes are integrated out, we show that the effective picture\nof string theory in lower dimensions would exhibit a 4D dS vacuum without\nneeding to add additional structures such as anti-D3 branes. Additionally, we\npoint to evidence from bottom-up physics for the strong version of the AdS\ndistance conjecture realized from AdS vacua in string theory. This evidence\nhence supports the sharpening of the AdS distance conjecture as one of the\nuniversal features of quantum gravity.",
+          "arxiv_id": "2202.04489v2"
+        },
+        {
+          "title": "Flux Compactifications, dS Vacua and the Swampland",
+          "year": "2022-03",
+          "abstract": "One of the main goals of the field of string phenomenology is to describe the\nproperties of our spacetime in low-energy effective models related to and\nconsistent with string theory. It is known that our universe undergoes\naccelerated expansion, which can be described in Einstein's theory of general\nrelativity as a positive cosmological constant. Within string theory\ndescriptions, this is realized by a scalar field with a positive value of its\npotential. Oftentimes, this is modeled by having the scalar at a stable,\npositive minimum. One then obtains a de Sitter spacetime. Constructions of de\nSitter spaces from string theory are not straightforward and face many\ncriticisms. In this thesis, we address several aspects related to this topic.\nWe investigate the description of general branes in supergravity and in\nparticular describe the uplifting anti-D3-brane of the KKLT model, including\nall world-volume fields. Additionally, we translate the type IIB based KKLT\nmodel into type IIA and introduce a mechanism that allows for the rapid\nconstruction of many de Sitter solutions. Related to this, we investigate\nmodels based on twisted 7-tori from M-theory and their relation to type II\nsupergravity. These setups can also yield de Sitter solutions using the same\nmass production mechanism. One of the more recent and serious claims against\nthe construction of de Sitter spaces in string theory, the de Sitter swampland\nconjecture, is also addressed here. We highlight the difficulty of obtaining a\nstable, positive vacuum energy in classical type IIA flux compactifications and\ntheir reliance on O-plane sources. Then, we turn our attention to the\nconjecture itself. Contrary to the initial claim, we find many unstable de\nSitter points in numerical searches and go on to present our own refined\nconjecture that differs in several key aspects from the refined version of the\noriginal conjecture.",
+          "arxiv_id": "2203.10125v1"
+        }
+      ],
+      "12": [
+        {
+          "title": "Quasicrystalline Spin Foam with Matter: Definitions and Examples",
+          "year": "2023-06",
+          "abstract": "In this work, we define quasicrystalline spin networks as a subspace within\nthe standard Hilbert space of loop quantum gravity, effectively constraining\nthe states to coherent states that align with quasicrystal geometry structures.\nWe introduce quasicrystalline spin foam amplitudes, a variation of the EPRL\nspin foam model, in which the internal spin labels are constrained to\ncorrespond to the boundary data of quasicrystalline spin networks. Within this\nframework, the quasicrystalline spin foam amplitudes encode the dynamics of\nquantum geometries that exhibit aperiodic structures. Additionally, we\ninvestigate the coupling of fermions within the quasicrystalline spin foam\namplitudes. We present calculations for three-dimensional examples and then\nexplore the 600-cell construction, which is a fundamental component of the\nfour-dimensional Elser-Sloane quasicrystal derived from the E8 root lattice.",
+          "arxiv_id": "2306.01964v1"
+        },
+        {
+          "title": "Effective Spin Foam Models for Four-Dimensional Quantum Gravity",
+          "year": "2020-04",
+          "abstract": "A number of approaches to four-dimensional quantum gravity, such as loop\nquantum gravity and holography, situate areas as their fundamental variables.\nHowever, this choice of kinematics can easily lead to gravitational dynamics\npeaked on flat spacetimes. We show that this is due to how regions are glued in\nthe gravitational path integral via a discrete spin foam model. We introduce a\nfamily of `effective' spin foam models that incorporate a quantum area\nspectrum, impose gluing constraints as strongly as possible, and leverage the\ndiscrete general relativity action to specify amplitudes. These effective spin\nfoam models avoid flatness in a restricted regime of the parameter space. The\nsimpler effective spin foam models will be useful for numerical studies and in\nthe investigation of coarse graining and renormalization.",
+          "arxiv_id": "2004.07013v2"
+        },
+        {
+          "title": "Toward matter dynamics in spin foam quantum gravity",
+          "year": "2022-06",
+          "abstract": "Any approach to pure quantum gravity must eventually face the question of\ncoupling quantum matter to the theory. In the past, several ways of coupling\nmatter to spin foam quantum gravity have been proposed, but the dynamics of the\ncoupled matter-gravity system is challenging to explore. To take first steps\ntowards uncovering the influence quantum matter has on spin foam models, we\ncouple free, massive scalar lattice field theory to a restricted,\nsemi-classical 4d spin foam model, called quantum cuboids. This model can be\nunderstood as a superposition of hypercuboidal (and thus irregular) lattices.\nBoth theories are coupled by defining scalar lattice field theory on irregular\nlattices via discrete exterior calculus and then superimposing these theories\nby summing over spin foam configurations. We compute expectation values of\ngeometric and matter observables using Markov Chain Monte Carlo techniques.\nFrom the observables, we identify a regime in parameter space, in which the\nspin foam possesses a finite total volume and looks on average like a regular\nlattice with an emergent lattice spacing dependent on the mass of the scalar\nfield. We also measure the 2-point correlation function and correlation length\nof the scalar field in relation to the geodesic distance encoded in the spin\nfoam. Our results are consistent with the correlation function of ordinary\nscalar lattice field theory defined on a fixed regular lattice with the\nemergent lattice spacing and the same mass. We conclude that in this regime of\nthe model, the scalar field is not sensitive to the fluctuations of the spin\nfoam and effectively behaves as if it is defined on a fixed regular lattice.",
+          "arxiv_id": "2206.04076v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:48:54Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

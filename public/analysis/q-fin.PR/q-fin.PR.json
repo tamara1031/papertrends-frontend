@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_pricing_market_price",
+        "keywords": [
+          [
+            "model",
+            0.07654763681672007
+          ],
+          [
+            "pricing",
+            0.058471028936845554
+          ],
+          [
+            "market",
+            0.05481789578264365
+          ],
+          [
+            "price",
+            0.05292177793629772
+          ],
+          [
+            "volatility",
+            0.05220623723329406
+          ],
+          [
+            "options",
+            0.047525005955157476
+          ],
+          [
+            "risk",
+            0.046153469609756664
+          ],
+          [
+            "models",
+            0.04469103471769106
+          ],
+          [
+            "option",
+            0.04363354015152838
+          ],
+          [
+            "time",
+            0.04111408654307604
+          ]
+        ],
+        "count": 583
+      },
+      "1": {
+        "name": "1_pricing_Quantum_price_option",
+        "keywords": [
+          [
+            "pricing",
+            0.050440190028745904
+          ],
+          [
+            "Quantum",
+            0.04461561426723805
+          ],
+          [
+            "price",
+            0.0409876035067984
+          ],
+          [
+            "option",
+            0.038895276859623636
+          ],
+          [
+            "derivatives",
+            0.03850984952786671
+          ],
+          [
+            "algorithm",
+            0.03817534356642197
+          ],
+          [
+            "method",
+            0.03304399462157683
+          ],
+          [
+            "classical",
+            0.03266819999983267
+          ],
+          [
+            "options",
+            0.030641671960714496
+          ],
+          [
+            "Scholes",
+            0.029793965137740647
+          ]
+        ],
+        "count": 26
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        0.14951916920143749
+      ],
+      [
+        0.14951916920143749,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        12,
+        0
+      ],
+      "2020-02": [
+        12,
+        0
+      ],
+      "2020-03": [
+        9,
+        0
+      ],
+      "2020-04": [
+        7,
+        0
+      ],
+      "2020-05": [
+        12,
+        0
+      ],
+      "2020-06": [
+        16,
+        0
+      ],
+      "2020-07": [
+        10,
+        1
+      ],
+      "2020-08": [
+        12,
+        0
+      ],
+      "2020-09": [
+        6,
+        0
+      ],
+      "2020-10": [
+        3,
+        1
+      ],
+      "2020-11": [
+        6,
+        0
+      ],
+      "2020-12": [
+        4,
+        0
+      ],
+      "2021-01": [
+        9,
+        2
+      ],
+      "2021-02": [
+        10,
+        0
+      ],
+      "2021-03": [
+        6,
+        0
+      ],
+      "2021-04": [
+        12,
+        1
+      ],
+      "2021-05": [
+        15,
+        0
+      ],
+      "2021-06": [
+        5,
+        0
+      ],
+      "2021-07": [
+        8,
+        0
+      ],
+      "2021-08": [
+        8,
+        2
+      ],
+      "2021-09": [
+        10,
+        2
+      ],
+      "2021-10": [
+        5,
+        0
+      ],
+      "2021-11": [
+        8,
+        2
+      ],
+      "2021-12": [
+        13,
+        1
+      ],
+      "2022-01": [
+        5,
+        0
+      ],
+      "2022-02": [
+        7,
+        0
+      ],
+      "2022-03": [
+        7,
+        2
+      ],
+      "2022-04": [
+        5,
+        0
+      ],
+      "2022-05": [
+        12,
+        0
+      ],
+      "2022-06": [
+        5,
+        0
+      ],
+      "2022-07": [
+        3,
+        2
+      ],
+      "2022-08": [
+        12,
+        1
+      ],
+      "2022-09": [
+        9,
+        1
+      ],
+      "2022-10": [
+        8,
+        0
+      ],
+      "2022-11": [
+        10,
+        0
+      ],
+      "2022-12": [
+        6,
+        2
+      ],
+      "2023-01": [
+        12,
+        0
+      ],
+      "2023-02": [
+        7,
+        3
+      ],
+      "2023-03": [
+        7,
+        0
+      ],
+      "2023-04": [
+        7,
+        1
+      ],
+      "2023-05": [
+        8,
+        0
+      ],
+      "2023-06": [
+        9,
+        0
+      ],
+      "2023-07": [
+        9,
+        2
+      ],
+      "2023-08": [
+        7,
+        2
+      ],
+      "2023-09": [
+        7,
+        0
+      ],
+      "2023-10": [
+        7,
+        0
+      ],
+      "2023-11": [
+        6,
+        0
+      ],
+      "2023-12": [
+        8,
+        0
+      ],
+      "2024-01": [
+        11,
+        0
+      ],
+      "2024-02": [
+        14,
+        0
+      ],
+      "2024-03": [
+        6,
+        0
+      ],
+      "2024-04": [
+        8,
+        1
+      ],
+      "2024-05": [
+        9,
+        1
+      ],
+      "2024-06": [
+        3,
+        0
+      ],
+      "2024-07": [
+        4,
+        0
+      ],
+      "2024-08": [
+        8,
+        0
+      ],
+      "2024-09": [
+        9,
+        1
+      ],
+      "2024-10": [
+        5,
+        0
+      ],
+      "2024-11": [
+        9,
+        0
+      ],
+      "2024-12": [
+        7,
+        0
+      ],
+      "2025-01": [
+        10,
+        0
+      ],
+      "2025-02": [
+        9,
+        1
+      ],
+      "2025-03": [
+        7,
+        0
+      ],
+      "2025-04": [
+        7,
+        1
+      ],
+      "2025-05": [
+        10,
+        0
+      ],
+      "2025-06": [
+        11,
+        0
+      ],
+      "2025-07": [
+        9,
+        1
+      ],
+      "2025-08": [
+        16,
+        0
+      ],
+      "2025-09": [
+        2,
+        0
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "On the Pricing of Currency Options under Variance Gamma Process",
+          "year": "2020-09",
+          "abstract": "The pricing of currency options is largely dependent on the dynamic\nrelationship between a pair of currencies. Typically, the pricing of options\nwith payoffs dependent on multi-assets becomes tricky for reasons such as the\nnon-Gaussian distribution of financial variable and non-linear macroeconomic\nrelations between these markets. We study the options based on the currency\npair US dollar and Indian rupee (USD-INR) and test several pricing formulas to\nevaluate the performance under different volatility regimes. We show the\nperformance of the variance gamma and the symmetric variance gamma models\nduring different volatility periods as well as for different moneyness, in\ncomparison to the modified Black-Scholes model. In all cases, variance gamma\nmodel outperforms Black-Scholes. This can be attributed to the control of\nkurtosis and skewness of the distribution that is possible using the variance\ngamma model. Our findings support the superiority of variance gamma process of\ncurrency option pricing in better risk management strategies.",
+          "arxiv_id": "2009.14113v1"
+        },
+        {
+          "title": "Analytic estimation of parameters of stochastic volatility diffusion models with exponential-affine characteristic function for currency option pricing",
+          "year": "2025-07",
+          "abstract": "This dissertation develops and justifies a novel method for deriving\napproximate formulas to estimate two parameters in stochastic volatility\ndiffusion models with exponentially-affine characteristic functions and single-\nor two-factor variance. These formulas aim to improve the accuracy of option\npricing and enhance the calibration process by providing reliable initial\nvalues for local minimization algorithms. The parameters relate to the\nvolatility of the stochastic factor in instantaneous variance dynamics and the\ncorrelation between stochastic factors and asset price dynamics.\n  The study comprises five chapters. Chapter one outlines the currency option\nmarket, pricing methods, and the general structure of stochastic volatility\nmodels. Chapter two derives the replication strategy dynamics and introduces a\nnew two-factor volatility model: the OUOU model. Chapter three analyzes the\ndistribution and surface dynamics of implied volatilities using principal\ncomponent and common factor analysis. Chapter four discusses calibration\nmethods for stochastic volatility models, particularly the Heston model, and\npresents the new Implied Central Moments method to estimate parameters in the\nHeston and Sch\\\"obel-Zhu models. Extensions to two-factor models, Bates and\nOUOU, are also explored. Chapter five evaluates the performance of the proposed\nformulas on the EURUSD options market, demonstrating the superior accuracy of\nthe new method.\n  The dissertation successfully meets its research objectives, expanding tools\nfor derivative pricing and risk assessment. Key contributions include faster\nand more precise parameter estimation formulas and the introduction of the OUOU\nmodel - an extension of the Sch\\\"obel-Zhu model with a semi-analytical\nvaluation formula for European options, previously unexamined in the\nliterature.",
+          "arxiv_id": "2507.11868v1"
+        },
+        {
+          "title": "Robust option pricing with volatility term structure -- An empirical study for variance options",
+          "year": "2023-12",
+          "abstract": "The robust option pricing problem is to find upper and lower bounds on fair\nprices of financial claims using only the most minimal assumptions. It\ncontrasts with the classical, model-based approach and gained prominence in the\nwake of the 2008 financial crisis, and can be used to understand the extent to\nwhich a model-based price is sensitive to the underlying model assumptions.\nCommon approaches involve pricing exotic derivatives such as variance options\nby incorporating market data through implied volatility. The existing\nliterature focuses largely on incorporating implied volatility information\ncorresponding to the maturity of the exotic option. In this paper, we aim to\nexplain how intermediate data can and should be incorporated. It is natural to\nexpect that this additional information will improve the robust pricing bounds.\nTo investigate this question, we consider variance options, where the bounds of\nthe informed robust pricing problem are known. We proceed to conduct an\nempirical study uncovering a surprising finding: Contrary to common belief, the\nincorporation of more information does not lead to an improvement of the robust\npricing bounds.",
+          "arxiv_id": "2312.09201v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Path Integral Method for Proportional Step and Proportional Double-Barrier Step Option Pricing",
+          "year": "2021-12",
+          "abstract": "Path integral method in quantum mechanics provides a new thinking for barrier\noption pricing. For proportional step options, the option price changing\nprocess is similar to the one dimensional trapezoid potential barrier\nscattering problem in quantum mechanics; for double-barrier step options, the\noption price changing process is analogous to a particle moving in a finite\nsymmetric square potential well. Using path integral method, the analytical\nexpressions of pricing kernel and option price could be derived. Numerical\nresults of option price as a function of underlying price, potential and\nexercise price are shown, which are consistent with the results given by\nmathematical method.",
+          "arxiv_id": "2112.09534v3"
+        },
+        {
+          "title": "Pricing multi-asset derivatives by finite difference method on a quantum computer",
+          "year": "2021-09",
+          "abstract": "Following the recent great advance of quantum computing technology, there are\ngrowing interests in its applications to industries, including finance. In this\npaper, we focus on derivative pricing based on solving the Black-Scholes\npartial differential equation by finite difference method (FDM), which is a\nsuitable approach for some types of derivatives but suffers from the {\\it curse\nof dimensionality}, that is, exponential growth of complexity in the case of\nmultiple underlying assets. We propose a quantum algorithm for FDM-based\npricing of multi-asset derivative with exponential speedup with respect to\ndimensionality compared with classical algorithms. The proposed algorithm\nutilizes the quantum algorithm for solving differential equations, which is\nbased on quantum linear system algorithms. Addressing the specific issue in\nderivative pricing, that is, extracting the derivative price for the present\nunderlying asset prices from the output state of the quantum algorithm, we\npresent the whole of the calculation process and estimate its complexity. We\nbelieve that the proposed method opens the new possibility of accurate and\nhigh-speed derivative pricing by quantum computers.",
+          "arxiv_id": "2109.12896v1"
+        },
+        {
+          "title": "Pricing multi-asset derivatives by variational quantum algorithms",
+          "year": "2022-07",
+          "abstract": "Pricing a multi-asset derivative is an important problem in financial\nengineering, both theoretically and practically. Although it is suitable to\nnumerically solve partial differential equations to calculate the prices of\ncertain types of derivatives, the computational complexity increases\nexponentially as the number of underlying assets increases in some classical\nmethods, such as the finite difference method. Therefore, there are efforts to\nreduce the computational complexity by using quantum computation. However, when\nsolving with naive quantum algorithms, the target derivative price is embedded\nin the amplitude of one basis of the quantum state, and so an exponential\ncomplexity is required to obtain the solution. To avoid the bottleneck, the\nprevious study~[Miyamoto and Kubo, IEEE Transactions on Quantum Engineering,\n\\textbf{3}, 1--25 (2022)] utilizes the fact that the present price of a\nderivative can be obtained by its discounted expected value at any future point\nin time and shows that the quantum algorithm can reduce the complexity. In this\npaper, to make the algorithm feasible to run on a small quantum computer, we\nuse variational quantum simulation to solve the Black-Scholes equation and\ncompute the derivative price from the inner product between the solution and a\nprobability distribution. This avoids the measurement bottleneck of the naive\napproach and would provide quantum speedup even in noisy quantum computers. We\nalso conduct numerical experiments to validate our method. Our method will be\nan important breakthrough in derivative pricing using small-scale quantum\ncomputers.",
+          "arxiv_id": "2207.01277v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:05:13Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

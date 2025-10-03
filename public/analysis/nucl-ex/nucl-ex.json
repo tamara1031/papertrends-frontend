@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_neutron_nuclear_energy_data",
+        "keywords": [
+          [
+            "neutron",
+            0.026015758434137767
+          ],
+          [
+            "nuclear",
+            0.0256562368762978
+          ],
+          [
+            "energy",
+            0.02379303879651012
+          ],
+          [
+            "data",
+            0.020267176640451967
+          ],
+          [
+            "decay",
+            0.017190088487365467
+          ],
+          [
+            "beta",
+            0.016288616182228193
+          ],
+          [
+            "model",
+            0.016166376033612397
+          ],
+          [
+            "nuclei",
+            0.01600280477064686
+          ],
+          [
+            "cross",
+            0.01569834655358938
+          ],
+          [
+            "state",
+            0.01541395693934595
+          ]
+        ],
+        "count": 5196
+      },
+      "1": {
+        "name": "1_collisions_Pb_heavy_ion",
+        "keywords": [
+          [
+            "collisions",
+            0.05660496127404851
+          ],
+          [
+            "Pb",
+            0.027154450889934414
+          ],
+          [
+            "heavy",
+            0.02580072537440331
+          ],
+          [
+            "ion",
+            0.02105636513336555
+          ],
+          [
+            "heavy ion",
+            0.02090907474652082
+          ],
+          [
+            "Au",
+            0.02066669535335192
+          ],
+          [
+            "flow",
+            0.020093973730497084
+          ],
+          [
+            "production",
+            0.01933220309724358
+          ],
+          [
+            "ion collisions",
+            0.019256208362306803
+          ],
+          [
+            "GeV",
+            0.01898118533930471
+          ]
+        ],
+        "count": 2145
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6101133052157995
+      ],
+      [
+        -0.6101133052157995,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        75,
+        36
+      ],
+      "2020-02": [
+        69,
+        52
+      ],
+      "2020-03": [
+        88,
+        35
+      ],
+      "2020-04": [
+        76,
+        40
+      ],
+      "2020-05": [
+        92,
+        51
+      ],
+      "2020-06": [
+        82,
+        29
+      ],
+      "2020-07": [
+        84,
+        35
+      ],
+      "2020-08": [
+        74,
+        31
+      ],
+      "2020-09": [
+        100,
+        33
+      ],
+      "2020-10": [
+        102,
+        30
+      ],
+      "2020-11": [
+        71,
+        32
+      ],
+      "2020-12": [
+        74,
+        32
+      ],
+      "2021-01": [
+        65,
+        24
+      ],
+      "2021-02": [
+        73,
+        26
+      ],
+      "2021-03": [
+        88,
+        30
+      ],
+      "2021-04": [
+        76,
+        29
+      ],
+      "2021-05": [
+        58,
+        40
+      ],
+      "2021-06": [
+        80,
+        25
+      ],
+      "2021-07": [
+        76,
+        36
+      ],
+      "2021-08": [
+        78,
+        32
+      ],
+      "2021-09": [
+        83,
+        42
+      ],
+      "2021-10": [
+        75,
+        47
+      ],
+      "2021-11": [
+        85,
+        31
+      ],
+      "2021-12": [
+        66,
+        34
+      ],
+      "2022-01": [
+        78,
+        22
+      ],
+      "2022-02": [
+        93,
+        16
+      ],
+      "2022-03": [
+        108,
+        24
+      ],
+      "2022-04": [
+        65,
+        44
+      ],
+      "2022-05": [
+        68,
+        20
+      ],
+      "2022-06": [
+        75,
+        30
+      ],
+      "2022-07": [
+        74,
+        32
+      ],
+      "2022-08": [
+        72,
+        42
+      ],
+      "2022-09": [
+        93,
+        42
+      ],
+      "2022-10": [
+        77,
+        33
+      ],
+      "2022-11": [
+        95,
+        57
+      ],
+      "2022-12": [
+        83,
+        26
+      ],
+      "2023-01": [
+        58,
+        34
+      ],
+      "2023-02": [
+        71,
+        28
+      ],
+      "2023-03": [
+        83,
+        35
+      ],
+      "2023-04": [
+        72,
+        23
+      ],
+      "2023-05": [
+        65,
+        27
+      ],
+      "2023-06": [
+        81,
+        23
+      ],
+      "2023-07": [
+        95,
+        47
+      ],
+      "2023-08": [
+        67,
+        51
+      ],
+      "2023-09": [
+        64,
+        25
+      ],
+      "2023-10": [
+        84,
+        30
+      ],
+      "2023-11": [
+        74,
+        34
+      ],
+      "2023-12": [
+        81,
+        52
+      ],
+      "2024-01": [
+        72,
+        29
+      ],
+      "2024-02": [
+        74,
+        28
+      ],
+      "2024-03": [
+        77,
+        23
+      ],
+      "2024-04": [
+        56,
+        18
+      ],
+      "2024-05": [
+        89,
+        40
+      ],
+      "2024-06": [
+        61,
+        15
+      ],
+      "2024-07": [
+        74,
+        35
+      ],
+      "2024-08": [
+        56,
+        19
+      ],
+      "2024-09": [
+        81,
+        48
+      ],
+      "2024-10": [
+        84,
+        34
+      ],
+      "2024-11": [
+        76,
+        35
+      ],
+      "2024-12": [
+        85,
+        26
+      ],
+      "2025-01": [
+        84,
+        25
+      ],
+      "2025-02": [
+        56,
+        34
+      ],
+      "2025-03": [
+        92,
+        36
+      ],
+      "2025-04": [
+        81,
+        64
+      ],
+      "2025-05": [
+        79,
+        27
+      ],
+      "2025-06": [
+        76,
+        41
+      ],
+      "2025-07": [
+        68,
+        43
+      ],
+      "2025-08": [
+        90,
+        36
+      ],
+      "2025-09": [
+        44,
+        23
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Constraining the Astrophysical p Process: Cross Section Measurement of the 84Kr(p,g)85Rb Reaction in Inverse Kinematics",
+          "year": "2023-03",
+          "abstract": "One of the biggest questions in nuclear astrophysics is understanding where\nthe elements come from and how they are made. This work focuses on the p\nprocess, a nucleosynthesis process that consists of a series of\nphotodisintegration reactions responsible for producing stable isotopes on the\nproton-rich side of stability. These nuclei, known as the p nuclei, cannot be\nmade through the well-known neutron-capture processes. Currently p-process\nmodels rely heavily on theory to provide the relevant reaction rates to predict\nthe final p-nuclei abundances and more experimental data is needed. The present\nwork reports on an experiment performed with the SuN detector at the National\nSuperconducting Cyclotron Laboratory, NSCL, at Michigan State University using\nthe ReA facility to measure the $^{84}$Kr(p,$\\gamma$)$^{85}$Rb reaction cross\nsection in inverse kinematics. The reverse $^{85}$Rb($\\gamma$,p)$^{84}$Kr\nreaction is a branching point in the p-process reaction network that was\nhighlighted as an important reaction in sensitivity studies in the production\nof the $^{78}$Kr p nucleus. A new hydrogen gas target was designed and\nfabricated and a new analysis technique for background subtraction and\nefficiency calculations of the detector were developed. The experimental cross\nsection is compared to standard statistical model calculations using the\nNON-SMOKER and TALYS codes.",
+          "arxiv_id": "2303.07232v1"
+        },
+        {
+          "title": "Gamma-ray emission in proton-induced nuclear reactions on natC and Mylar targets over the incident energy range of Ep = 30-200 MeV. Astrophysical implications",
+          "year": "2022-04",
+          "abstract": "We have measured the gamma-ray line production cross sections in\nproton-induced nuclear reactions on various target nuclei abundant in\nastrophysical sites over the incident energy range of Ep = 30 - 200 MeV. We\ncarried out experimental campaigns in joint collaboration at the K = 200\ncyclotron of iThemba LABS using a high-energy resolution, high-efficiency\ndetection array composed of 8 Compton-suppressed clover detectors comprising 32\nHP-Ge crystals for recording the gamma-ray spectra. In the current paper, we\nfocus on de-excitation lines produced in proton irradiations of natC and Mylar\ntargets. In particular, on the prominent 4.439 and 6.129 MeV lines of $^{12}$C\nand $^{16}$O which are among the strongest lines emitted in solar flares and in\ninteractions of low-energy cosmic rays with the gas and dust of the inner\ngalaxy. We report new gamma-ray production experimental cross section data for\nten nuclear lines that we compare to previous low-energy data sets from the\nliterature, to the predictions of the TALYS code of modern nuclear reactions\nand to a semi-empirical compilation. In first approach, performing calculations\nwith default input parameters of TALYS we observed substantial deviations\nbetween the predicted cross sections and experimental data. Then, using\nmodified optical model potential and nuclear level deformation parameters as\ninput data we generated theoretical excitation functions for the above two main\nlines fully consistent with experimental data. In contrast, the experimental\ndata sets for the other eight analyzed lines from the two proton-irradiated\ntargets exhibit significant deviations with the predicted cross section values.\nWe also report line-shape experimental data for the line complex observed at\n$E_g$ = 4.44 MeV in irradiations of the two targets. Finally, we emphasize the\nastrophysical implications of our results.",
+          "arxiv_id": "2204.11724v3"
+        },
+        {
+          "title": "Activation cross section measurement of the 14N(p,gamma)15O astrophysical key reaction",
+          "year": "2022-01",
+          "abstract": "14N(p,gamma)15O is one of the key reactions of nuclear astrophysics playing a\nrole in various stellar processes and influencing energy generation of stars,\nstellar evolution and nucleosynthesis. For a reliable reaction rate calculation\nthe low energy cross section of 14N(p,gamma)15O must be known with high\naccuracy. Owing to the unmeasurable low cross sections, theoretical\ncalculations are unavoidable. High precision experimental cross section data\nare needed in a wide energy range in order to provide the necessary basis for\nlow energy extrapolations. In the present work the total 14N(p,gamma)15O cross\nsection was measured with a method complementary to the available data sets.\nThe cross section was measured with activation, based on the detection of the\nannihilation radiation following the beta+ decay of the reaction product 15O.\nThis method, which provides directly the astrophysically important total cross\nsection, was never used for the 14N(p,gamma)15O cross section measurement in\nthe studied energy range. The non-resonant cross section was measured between\n550 keV and 1400 keV center-of-mass energies with total uncertainty of about\n10%. The results were compared with literature data using an R-matrix analysis.\nIt is found that the cross sections measured in this work are in acceptable\nagreement with the two recent measurements only if the weak transitions - not\nmeasured in those works - are included. The present data set, being largely\nindependent from the other available data, can be used to constrain the\nextrapolated cross sections to astrophysical energies and helps to make the\nastrophysical model calculations more reliable.",
+          "arxiv_id": "2201.10176v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Systematic study of flow vector fluctuations in $\\mathbf{\\sqrt{\\textit{s}_{_{\\bf NN}}}=5.02}$ TeV Pb-Pb collisions",
+          "year": "2024-03",
+          "abstract": "Measurements of the $p_{\\rm T}$-dependent flow vector fluctuations in Pb-Pb\ncollisions at $\\sqrt{s_{_{\\rm NN}}} = 5.02~\\mathrm{TeV}$ using azimuthal\ncorrelations with the ALICE experiment at the Large Hadron Collider are\npresented. A four-particle correlation approach [1] is used to quantify the\neffects of flow angle and magnitude fluctuations separately. This paper extends\nprevious studies to additional centrality intervals and provides measurements\nof the $p_{\\rm T}$-dependent flow vector fluctuations at $\\sqrt{s_{_{\\rm NN}}}\n= 5.02~\\mathrm{TeV}$ with two-particle correlations. Significant $p_{\\rm\nT}$-dependent fluctuations of the $\\vec{V}_{2}$ flow vector in Pb-Pb collisions\nare found across different centrality ranges, with the largest fluctuations of\nup to $\\sim$15% being present in the 5% most central collisions. In parallel,\nno evidence of significant $p_{\\rm T}$-dependent fluctuations of $\\vec{V}_{3}$\nor $\\vec{V}_{4}$ is found. Additionally, evidence of flow angle and magnitude\nfluctuations is observed with more than $5\\sigma$ significance in central\ncollisions. These observations in Pb-Pb collisions indicate where the classical\npicture of hydrodynamic modeling with a common symmetry plane breaks down. This\nhas implications for hard probes at high $p_{\\rm T}$, which might be biased by\n$p_{\\rm T}$-dependent flow angle fluctuations of at least 23% in central\ncollisions. Given the presented results, existing theoretical models should be\nre-examined to improve our understanding of initial conditions, quark--gluon\nplasma properties, and the dynamic evolution of the created system.",
+          "arxiv_id": "2403.15213v2"
+        },
+        {
+          "title": "Quarkonia as probes of the QGP and the initial stages of the heavy-ion collisions with ALICE",
+          "year": "2021-08",
+          "abstract": "Studies of quarkonium production in heavy-ion collisions can be used for\nprobing QGP properties. The suppression and regeneration of bound quarkonium\nstates is sensitive to the medium properties. Modifications of the quarkonium\npolarization in Pb-Pb collisions with respect to pp collisions may give further\ninsight into the suppression and regeneration mechanisms in the QGP. Quarkonia\nare also sensitive to the initial stages of heavy-ion collisions, and\nmeasurements in photonuclear collisions may help constrain the nuclear\ngluon-distribution at low Bjorken-$x$. In this work, recent quarkonium\nmeasurements performed by ALICE in Pb-Pb collisions at\n$\\sqrt{s_{\\mathrm{NN}}}~=~5.02$ TeV will be discussed. Preliminary measurements\nof the inclusive J/$\\psi$ $R_{\\rm AA}$ measured at both forward and midrapidity\nwill be presented. The J/$\\psi$ polarization measured for the first time in\nPb-Pb collisions, as well as preliminary measurements of the coherent J/$\\psi$\nphotoproduction cross section, will be discussed.",
+          "arxiv_id": "2108.04524v1"
+        },
+        {
+          "title": "Measurement of the jet-particle $v_{2}$ in p--Pb and Pb--Pb collisions at $\\sqrt{s_{\\rm NN}}$ = 5.02 TeV with ALICE at the LHC",
+          "year": "2021-10",
+          "abstract": "The elliptic flow of jet particles at midrapidity ($|\\eta|$ < 0.8) is\nmeasured for the first time in p--Pb collisions at $\\sqrt{s_{\\rm NN}}$ = 5.02\nTeV and extended down to lower $\\it{p}_{\\rm T}$ in Pb--Pb collisions at\n$\\sqrt{s_{\\rm NN}}$ = 5.02 TeV. The jet particles are extracted with the\ntwo-particle correlation method using a two-dimensional fit, and their $v_{2}$\nis calculated with the novel three-particle correlation technique. The $v_{2}$\nof jet particles is found positive in high-multiplicity p--Pb collisions and\nexhibits no dependence on $\\it{p}_{\\rm T}$ within uncertainties. Comparisons\nwith the jet-particle $v_{2}$ in Pb--Pb collisions and the inclusive\ncharged-particle $v_{2}$ in both collision systems are also discussed, aiming\nto bring new insights into the understanding of the origin of the\nhigh-$\\it{p}_{\\rm T}$ azimuthal anisotropy observed in small collision systems.",
+          "arxiv_id": "2110.15852v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:59:25Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

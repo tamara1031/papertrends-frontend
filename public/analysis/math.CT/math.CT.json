@@ -1,0 +1,1318 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_category_categories_algebras_modules",
+        "keywords": [
+          [
+            "category",
+            0.034297504269334894
+          ],
+          [
+            "categories",
+            0.033088480619002214
+          ],
+          [
+            "algebras",
+            0.019638975313212764
+          ],
+          [
+            "modules",
+            0.018954208681601626
+          ],
+          [
+            "tensor",
+            0.018215137888682818
+          ],
+          [
+            "algebra",
+            0.016741993821046904
+          ],
+          [
+            "finite",
+            0.014526737094674719
+          ],
+          [
+            "abelian",
+            0.014367403524812384
+          ],
+          [
+            "prove",
+            0.013082958581383433
+          ],
+          [
+            "theory",
+            0.012717046256995072
+          ]
+        ],
+        "count": 1205
+      },
+      "1": {
+        "name": "1_categories_category_model_lax",
+        "keywords": [
+          [
+            "categories",
+            0.04236872986970804
+          ],
+          [
+            "category",
+            0.036997403979014944
+          ],
+          [
+            "model",
+            0.030320870730944353
+          ],
+          [
+            "lax",
+            0.023595500949767603
+          ],
+          [
+            "fibrations",
+            0.021936317782397498
+          ],
+          [
+            "simplicial",
+            0.02156393099563047
+          ],
+          [
+            "homotopy",
+            0.021295189605693213
+          ],
+          [
+            "double",
+            0.020188955620622787
+          ],
+          [
+            "theory",
+            0.018438232344501884
+          ],
+          [
+            "functor",
+            0.01792141127661937
+          ]
+        ],
+        "count": 321
+      },
+      "2": {
+        "name": "2_theory_type_category_semantics",
+        "keywords": [
+          [
+            "theory",
+            0.02883756177110713
+          ],
+          [
+            "type",
+            0.024726273974463735
+          ],
+          [
+            "category",
+            0.022815558230387292
+          ],
+          [
+            "semantics",
+            0.019777193482384808
+          ],
+          [
+            "categories",
+            0.01896570648464097
+          ],
+          [
+            "monads",
+            0.018369350579821985
+          ],
+          [
+            "models",
+            0.017818799368329263
+          ],
+          [
+            "type theory",
+            0.017587939679871736
+          ],
+          [
+            "monoidal",
+            0.016221869848131593
+          ],
+          [
+            "categorical",
+            0.01602972842498402
+          ]
+        ],
+        "count": 300
+      },
+      "3": {
+        "name": "3_quantum_probability_theory_Markov",
+        "keywords": [
+          [
+            "quantum",
+            0.030321845877023922
+          ],
+          [
+            "probability",
+            0.02811719623396038
+          ],
+          [
+            "theory",
+            0.025396812373619883
+          ],
+          [
+            "Markov",
+            0.022357048645023
+          ],
+          [
+            "models",
+            0.02191311904494329
+          ],
+          [
+            "category",
+            0.021388101494397033
+          ],
+          [
+            "framework",
+            0.021132236345911347
+          ],
+          [
+            "categorical",
+            0.01943579468281135
+          ],
+          [
+            "systems",
+            0.019333864159287523
+          ],
+          [
+            "causal",
+            0.016839718831983208
+          ]
+        ],
+        "count": 263
+      },
+      "4": {
+        "name": "4_spaces_category_metric_compact",
+        "keywords": [
+          [
+            "spaces",
+            0.06775446961185047
+          ],
+          [
+            "category",
+            0.0320980475604884
+          ],
+          [
+            "metric",
+            0.0313890730488752
+          ],
+          [
+            "compact",
+            0.028073674690195036
+          ],
+          [
+            "topological",
+            0.02388440940415017
+          ],
+          [
+            "quantale",
+            0.022140482150923776
+          ],
+          [
+            "continuous",
+            0.02095462819168287
+          ],
+          [
+            "enriched",
+            0.02040761472324685
+          ],
+          [
+            "metric spaces",
+            0.020234238243082018
+          ],
+          [
+            "complete",
+            0.019766759529554076
+          ]
+        ],
+        "count": 134
+      },
+      "5": {
+        "name": "5_monoidal_category_categories_symmetric",
+        "keywords": [
+          [
+            "monoidal",
+            0.03903441045010821
+          ],
+          [
+            "category",
+            0.036407826689272046
+          ],
+          [
+            "categories",
+            0.031166634758823013
+          ],
+          [
+            "symmetric",
+            0.02618556054096127
+          ],
+          [
+            "operads",
+            0.025059936461019238
+          ],
+          [
+            "symmetric monoidal",
+            0.021395409812578512
+          ],
+          [
+            "algebras",
+            0.021368730386264054
+          ],
+          [
+            "monoids",
+            0.018847772914303687
+          ],
+          [
+            "functors",
+            0.01797607209318835
+          ],
+          [
+            "operad",
+            0.017875586247053758
+          ]
+        ],
+        "count": 95
+      },
+      "6": {
+        "name": "6_symmetry_symmetries_topological_higher",
+        "keywords": [
+          [
+            "symmetry",
+            0.06679550411218524
+          ],
+          [
+            "symmetries",
+            0.06579075313420696
+          ],
+          [
+            "topological",
+            0.05144914511800351
+          ],
+          [
+            "higher",
+            0.038711535966637504
+          ],
+          [
+            "invertible",
+            0.036665981597603536
+          ],
+          [
+            "fusion",
+            0.03451516615624252
+          ],
+          [
+            "non",
+            0.03445131210898487
+          ],
+          [
+            "phases",
+            0.0333301924901835
+          ],
+          [
+            "defects",
+            0.030700591686268746
+          ],
+          [
+            "field",
+            0.0292513040883511
+          ]
+        ],
+        "count": 77
+      },
+      "7": {
+        "name": "7_topos_toposes_geometric_Grothendieck",
+        "keywords": [
+          [
+            "topos",
+            0.09957290881183742
+          ],
+          [
+            "toposes",
+            0.05619629261241251
+          ],
+          [
+            "geometric",
+            0.041994584510672575
+          ],
+          [
+            "Grothendieck",
+            0.0377741755833338
+          ],
+          [
+            "theory",
+            0.02916953973569454
+          ],
+          [
+            "topoi",
+            0.027923615791445044
+          ],
+          [
+            "sites",
+            0.02760962719143635
+          ],
+          [
+            "morphisms",
+            0.024673513759055656
+          ],
+          [
+            "site",
+            0.023959884847448723
+          ],
+          [
+            "classifying",
+            0.02095103022134315
+          ]
+        ],
+        "count": 66
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        0.038069036120765315,
+        -0.23532279778846485,
+        -0.45293856239765706,
+        -0.35726443116318807,
+        -0.15691615243770052,
+        -0.6330206927011157,
+        -0.6617158363977024
+      ],
+      [
+        0.038069036120765315,
+        1.0,
+        -0.13309928617266206,
+        -0.3693960282009108,
+        -0.29156565784664473,
+        0.014522077777940168,
+        -0.642863430335846,
+        -0.6294820996988808
+      ],
+      [
+        -0.23532279778846485,
+        -0.13309928617266206,
+        1.0,
+        -0.08347452300142678,
+        -0.3562660111079764,
+        -0.3490842066462184,
+        -0.6378850415707578,
+        -0.6217705360004665
+      ],
+      [
+        -0.45293856239765706,
+        -0.3693960282009108,
+        -0.08347452300142678,
+        1.0,
+        -0.5790952616505803,
+        -0.5589590077944027,
+        -0.6455796367712603,
+        -0.6571988446839017
+      ],
+      [
+        -0.35726443116318807,
+        -0.29156565784664473,
+        -0.3562660111079764,
+        -0.5790952616505803,
+        1.0,
+        -0.370093277902085,
+        -0.6629176659792765,
+        -0.6541676080426941
+      ],
+      [
+        -0.15691615243770052,
+        0.014522077777940168,
+        -0.3490842066462184,
+        -0.5589590077944027,
+        -0.370093277902085,
+        1.0,
+        -0.65378615087166,
+        -0.6595480470044064
+      ],
+      [
+        -0.6330206927011157,
+        -0.642863430335846,
+        -0.6378850415707578,
+        -0.6455796367712603,
+        -0.6629176659792765,
+        -0.65378615087166,
+        1.0,
+        -0.6956430130284157
+      ],
+      [
+        -0.6617158363977024,
+        -0.6294820996988808,
+        -0.6217705360004665,
+        -0.6571988446839017,
+        -0.6541676080426941,
+        -0.6595480470044064,
+        -0.6956430130284157,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        32,
+        7,
+        1,
+        2,
+        1,
+        0,
+        2,
+        9
+      ],
+      "2020-02": [
+        23,
+        8,
+        5,
+        0,
+        3,
+        3,
+        2,
+        2
+      ],
+      "2020-03": [
+        29,
+        4,
+        2,
+        2,
+        2,
+        4,
+        4,
+        0
+      ],
+      "2020-04": [
+        26,
+        10,
+        4,
+        2,
+        6,
+        3,
+        1,
+        3
+      ],
+      "2020-05": [
+        29,
+        15,
+        7,
+        4,
+        5,
+        4,
+        4,
+        2
+      ],
+      "2020-06": [
+        42,
+        6,
+        4,
+        3,
+        5,
+        7,
+        0,
+        1
+      ],
+      "2020-07": [
+        27,
+        9,
+        5,
+        3,
+        2,
+        4,
+        2,
+        0
+      ],
+      "2020-08": [
+        22,
+        4,
+        4,
+        1,
+        1,
+        4,
+        1,
+        1
+      ],
+      "2020-09": [
+        19,
+        4,
+        6,
+        2,
+        3,
+        7,
+        1,
+        2
+      ],
+      "2020-10": [
+        31,
+        9,
+        8,
+        3,
+        6,
+        7,
+        1,
+        0
+      ],
+      "2020-11": [
+        21,
+        5,
+        2,
+        1,
+        3,
+        12,
+        2,
+        3
+      ],
+      "2020-12": [
+        24,
+        4,
+        8,
+        2,
+        8,
+        2,
+        1,
+        1
+      ],
+      "2021-01": [
+        23,
+        6,
+        1,
+        6,
+        3,
+        6,
+        1,
+        4
+      ],
+      "2021-02": [
+        31,
+        10,
+        2,
+        0,
+        8,
+        5,
+        1,
+        2
+      ],
+      "2021-03": [
+        28,
+        9,
+        3,
+        6,
+        5,
+        3,
+        2,
+        2
+      ],
+      "2021-04": [
+        26,
+        4,
+        6,
+        0,
+        2,
+        7,
+        1,
+        3
+      ],
+      "2021-05": [
+        32,
+        12,
+        7,
+        4,
+        7,
+        11,
+        3,
+        4
+      ],
+      "2021-06": [
+        22,
+        8,
+        3,
+        1,
+        2,
+        8,
+        0,
+        1
+      ],
+      "2021-07": [
+        33,
+        5,
+        3,
+        3,
+        6,
+        6,
+        2,
+        5
+      ],
+      "2021-08": [
+        19,
+        8,
+        5,
+        2,
+        3,
+        3,
+        5,
+        1
+      ],
+      "2021-09": [
+        24,
+        5,
+        4,
+        3,
+        6,
+        5,
+        2,
+        2
+      ],
+      "2021-10": [
+        24,
+        6,
+        8,
+        3,
+        4,
+        8,
+        3,
+        1
+      ],
+      "2021-11": [
+        17,
+        6,
+        7,
+        5,
+        5,
+        2,
+        3,
+        4
+      ],
+      "2021-12": [
+        27,
+        4,
+        1,
+        2,
+        5,
+        4,
+        5,
+        1
+      ],
+      "2022-01": [
+        26,
+        3,
+        3,
+        1,
+        4,
+        7,
+        4,
+        4
+      ],
+      "2022-02": [
+        27,
+        7,
+        5,
+        2,
+        6,
+        5,
+        1,
+        2
+      ],
+      "2022-03": [
+        19,
+        8,
+        4,
+        3,
+        4,
+        6,
+        5,
+        1
+      ],
+      "2022-04": [
+        17,
+        10,
+        8,
+        4,
+        4,
+        5,
+        1,
+        6
+      ],
+      "2022-05": [
+        35,
+        11,
+        9,
+        3,
+        5,
+        8,
+        3,
+        1
+      ],
+      "2022-06": [
+        26,
+        6,
+        5,
+        2,
+        4,
+        8,
+        2,
+        1
+      ],
+      "2022-07": [
+        30,
+        9,
+        4,
+        3,
+        6,
+        7,
+        3,
+        2
+      ],
+      "2022-08": [
+        34,
+        8,
+        3,
+        1,
+        2,
+        5,
+        6,
+        4
+      ],
+      "2022-09": [
+        18,
+        8,
+        7,
+        2,
+        9,
+        4,
+        5,
+        1
+      ],
+      "2022-10": [
+        28,
+        7,
+        4,
+        2,
+        5,
+        5,
+        3,
+        1
+      ],
+      "2022-11": [
+        27,
+        8,
+        4,
+        3,
+        10,
+        7,
+        3,
+        2
+      ],
+      "2022-12": [
+        30,
+        2,
+        4,
+        3,
+        2,
+        5,
+        5,
+        4
+      ],
+      "2023-01": [
+        24,
+        8,
+        6,
+        1,
+        9,
+        9,
+        4,
+        3
+      ],
+      "2023-02": [
+        20,
+        6,
+        8,
+        1,
+        6,
+        7,
+        2,
+        1
+      ],
+      "2023-03": [
+        37,
+        9,
+        5,
+        6,
+        8,
+        11,
+        1,
+        3
+      ],
+      "2023-04": [
+        25,
+        9,
+        7,
+        1,
+        5,
+        9,
+        4,
+        4
+      ],
+      "2023-05": [
+        28,
+        12,
+        7,
+        4,
+        2,
+        12,
+        6,
+        2
+      ],
+      "2023-06": [
+        28,
+        6,
+        7,
+        1,
+        2,
+        8,
+        1,
+        3
+      ],
+      "2023-07": [
+        23,
+        7,
+        7,
+        2,
+        8,
+        6,
+        1,
+        2
+      ],
+      "2023-08": [
+        25,
+        3,
+        2,
+        2,
+        5,
+        10,
+        3,
+        7
+      ],
+      "2023-09": [
+        25,
+        6,
+        7,
+        0,
+        5,
+        10,
+        1,
+        1
+      ],
+      "2023-10": [
+        19,
+        10,
+        2,
+        3,
+        6,
+        3,
+        3,
+        5
+      ],
+      "2023-11": [
+        25,
+        12,
+        5,
+        3,
+        7,
+        6,
+        5,
+        5
+      ],
+      "2023-12": [
+        27,
+        5,
+        6,
+        3,
+        3,
+        4,
+        7,
+        6
+      ],
+      "2024-01": [
+        36,
+        10,
+        6,
+        3,
+        4,
+        5,
+        2,
+        3
+      ],
+      "2024-02": [
+        20,
+        11,
+        4,
+        2,
+        4,
+        5,
+        3,
+        3
+      ],
+      "2024-03": [
+        28,
+        4,
+        9,
+        6,
+        0,
+        14,
+        2,
+        5
+      ],
+      "2024-04": [
+        29,
+        8,
+        10,
+        3,
+        10,
+        12,
+        3,
+        1
+      ],
+      "2024-05": [
+        27,
+        13,
+        14,
+        2,
+        1,
+        6,
+        4,
+        2
+      ],
+      "2024-06": [
+        32,
+        8,
+        4,
+        7,
+        6,
+        7,
+        2,
+        6
+      ],
+      "2024-07": [
+        29,
+        6,
+        8,
+        3,
+        7,
+        5,
+        1,
+        5
+      ],
+      "2024-08": [
+        27,
+        9,
+        3,
+        2,
+        7,
+        7,
+        6,
+        1
+      ],
+      "2024-09": [
+        28,
+        6,
+        4,
+        0,
+        8,
+        4,
+        2,
+        3
+      ],
+      "2024-10": [
+        28,
+        7,
+        9,
+        6,
+        9,
+        13,
+        4,
+        2
+      ],
+      "2024-11": [
+        37,
+        7,
+        9,
+        2,
+        2,
+        6,
+        6,
+        3
+      ],
+      "2024-12": [
+        25,
+        5,
+        7,
+        1,
+        5,
+        11,
+        6,
+        0
+      ],
+      "2025-01": [
+        26,
+        9,
+        7,
+        3,
+        2,
+        8,
+        1,
+        3
+      ],
+      "2025-02": [
+        32,
+        5,
+        9,
+        3,
+        4,
+        11,
+        4,
+        2
+      ],
+      "2025-03": [
+        39,
+        9,
+        10,
+        3,
+        3,
+        10,
+        2,
+        5
+      ],
+      "2025-04": [
+        22,
+        6,
+        6,
+        0,
+        5,
+        10,
+        2,
+        2
+      ],
+      "2025-05": [
+        34,
+        10,
+        7,
+        2,
+        7,
+        9,
+        1,
+        7
+      ],
+      "2025-06": [
+        28,
+        9,
+        7,
+        0,
+        2,
+        16,
+        1,
+        1
+      ],
+      "2025-07": [
+        23,
+        6,
+        7,
+        2,
+        9,
+        5,
+        3,
+        5
+      ],
+      "2025-08": [
+        26,
+        9,
+        2,
+        1,
+        4,
+        10,
+        4,
+        3
+      ],
+      "2025-09": [
+        21,
+        9,
+        2,
+        1,
+        2,
+        2,
+        4,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Deligne tensor products of categories of modules for vertex operator algebras",
+          "year": "2023-04",
+          "abstract": "We show that if $\\mathcal{U}$ and $\\mathcal{V}$ are locally finite abelian\ncategories of modules for vertex operator algebras $U$ and $V$, respectively,\nthen the Deligne tensor product of $\\mathcal{U}$ and $\\mathcal{V}$ can be\nrealized as a certain category $\\mathcal{D}(\\mathcal{U},\\mathcal{V})$ of\nmodules for the tensor product vertex operator algebra $U\\otimes V$. We also\nshow that if $\\mathcal{U}$ and $\\mathcal{V}$ admit the braided tensor category\nstructure of Huang-Lepowsky-Zhang, then $\\mathcal{D}(\\mathcal{U},\\mathcal{V})$\ndoes as well under mild additional conditions, and that this braided tensor\nstructure is equivalent to the natural braided tensor structure on a Deligne\ntensor product category. These results hold in particular when $\\mathcal{U}$\nand $\\mathcal{V}$ are the categories of $C_1$-cofinite $U$- and $V$-modules, if\nthese categories are closed under contragredients, in which case we show that\n$\\mathcal{D}(\\mathcal{U},\\mathcal{V})$ is the category of $C_1$-cofinite\n$U\\otimes V$-modules. If $U$ and $V$ are $\\mathbb{N}$-graded and\n$C_2$-cofinite, then we may take $\\mathcal{U}$ and $\\mathcal{V}$ to be the\ncategories of all grading-restricted generalized $U$- and $V$-modules,\nrespectively. Thus as an application, if the tensor categories of all modules\nfor two $C_2$-cofinite vertex operator algebras are rigid, then so is the\ntensor category of all modules for the tensor product vertex operator algebra.\nWe use this to prove that the representation categories of the even subalgebras\nof the symplectic fermion vertex operator superalgebras are non-semisimple\nmodular tensor categories.",
+          "arxiv_id": "2304.14023v1"
+        },
+        {
+          "title": "Grothendieck groups of $d$-exangulated categories and a modified Caldero-Chapoton map",
+          "year": "2021-06",
+          "abstract": "A strong connection between cluster algebras and representation theory was\nestablished by the cluster category. Cluster characters, like the original\nCaldero-Chapoton (CC) map, are maps from certain triangulated categories to\ncluster algebras and they have generated much interest. Holm and J{\\o}rgensen\nconstructed a modified CC map from a sufficiently nice triangulated category to\na commutative ring, which is a generalised frieze under some conditions. In\ntheir construction, a quotient $K_{0}^{sp}(\\mathcal{T})/M$ of a Grothendieck\ngroup of a cluster tilting subcategory $\\mathcal{T}$ is used. In this article,\nwe show that this quotient is the Grothendieck group of a certain\nextriangulated category, thereby exposing the significance of it and the\nrelevance of extriangulated structures. We use this to define another modified\nCC map that recovers the one of Holm--J{\\o}rgensen.\n  We prove our results in a higher homological context. Suppose $\\mathcal{S}$\nis a $(d+2)$-angulated category with subcategories\n$\\mathcal{X}\\subseteq\\mathcal{T}\\subseteq\\mathcal{S}$, where $\\mathcal{X}$ is\nfunctorially finite and $\\mathcal{T}$ is $2d$-cluster tilting, satisfying some\nmild conditions. We show there is an isomorphism between the Grothendieck group\n$K_{0}(\\mathcal{S},\\mathbb{E}_{\\mathcal{X}},\\mathfrak{s}_{\\mathcal{X}})$ of the\ncategory $\\mathcal{S}$, equipped with the $d$-exangulated structure induced by\n$\\mathcal{X}$, and the quotient $K_{0}^{sp}(\\mathcal{T})/N$, where $N$ is the\nhigher analogue of $M$ above. When $\\mathcal{X}=\\mathcal{T}$ the isomorphism is\ninduced by the higher index with respect to $\\mathcal{T}$ introduced recently\nby J{\\o}rgensen. Thus, in the general case, we can understand the map taking an\nobject in $\\mathcal{S}$ to its $K_{0}$-class in\n$K_{0}(\\mathcal{S},\\mathbb{E}_{\\mathcal{X}},\\mathfrak{s}_{\\mathcal{X}})$ as a\nhigher index with respect to the rigid subcategory $\\mathcal{X}$.",
+          "arxiv_id": "2106.02142v2"
+        },
+        {
+          "title": "Representations of fusion categories and their commutants",
+          "year": "2020-04",
+          "abstract": "A bicommutant category is a higher categorical analog of a von Neumann\nalgebra. We study the bicommutant categories which arise as the commutant\n$\\mathcal{C}'$ of a fully faithful representation\n$\\mathcal{C}\\to\\operatorname{Bim}(R)$ of a unitary fusion category\n$\\mathcal{C}$. Using results of Izumi, Popa, and Tomatsu about existence and\nuniqueness of representations of unitary (multi)fusion categories, we prove\nthat if $\\mathcal{C}$ and $\\mathcal{D}$ are Morita equivalent unitary fusion\ncategories, then their commutant categories $\\mathcal{C}'$ and $\\mathcal{D}'$\nare equivalent as bicommutant categories. In particular, they are equivalent as\ntensor categories: \\[\n\\Big(\\,\\,\\mathcal{C}\\,\\,\\simeq_{\\text{Morita}}\\,\\,\\mathcal{D}\\,\\,\\Big)\n\\qquad\\Longrightarrow\\qquad\n\\Big(\\,\\,\\mathcal{C}'\\,\\,\\simeq_{\\text{tensor}}\\,\\,\\mathcal{D}'\\,\\,\\Big). \\]\nThis categorifies the well-known result according to which the commutants (in\nsome representations) of Morita equivalent finite dimensional $\\rm\nC^*$-algebras are isomorphic von Neumann algebras, provided the representations\nare `big enough'.\n  We also introduce a notion of positivity for bi-involutive tensor categories.\nFor dagger categories, positivity is a property (the property of being a $\\rm\nC^*$-category). But for bi-involutive tensor categories, positivity is extra\nstructure. We show that unitary fusion categories and $\\operatorname{Bim}(R)$\nadmit distinguished positive structures, and that fully faithful\nrepresentations $\\mathcal{C}\\to\\operatorname{Bim}(R)$ automatically respect\nthese positive structures.",
+          "arxiv_id": "2004.08271v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "On local fibrations of $(\\infty,2)$-categories",
+          "year": "2023-05",
+          "abstract": "In this work we provide a model-independent notion of local fibrations of\n$(\\infty,2)$-categories which generalises the well-known theory of locally\ncoCartesian fibrations of $(\\infty,1)$-categories. Based on previous work, we\nconstruct a model category which serves as a specific combinatorial model for\nthis type of fibrations. Our main result is a generalisation of the locally\ncoCartesian straightening and unstraightening construction of Lurie, which\nyields for any scaled simplicial set $S$ an equivalence of\n$(\\infty,2)$-categories between the $(\\infty,2)$-category of $(0,1)$-fibrations\nover $S$ (also known as inner coCartesian fibrations) and the\n$(\\infty,2)$-category of functors $S \\to\n\\mathbb{C}\\!\\operatorname{at}_{(\\infty,2)}$ with values in\n$(\\infty,2)$-categories. Given an $(\\infty,2)$-category $\\mathbb{B}$, our\nGrothendieck construction can be specialised to produce an equivalence between\nthe $(\\infty,2)$-category of local fibrations over $\\mathbb{B}$ and the\n$(\\infty,2)$-category of oplax unital functors with values in\n$\\mathbb{C}\\!\\operatorname{at}_{(\\infty,2)}$. Finally, as an application of our\nresults we provide a version of the Yoneda lemma for $(\\infty,2)$-categories.",
+          "arxiv_id": "2305.00947v1"
+        },
+        {
+          "title": "Model structures for diagrammatic $(\\infty, n)$-categories",
+          "year": "2024-10",
+          "abstract": "Diagrammatic sets admit a notion of internal equivalence in the sense of\ncoinductive weak invertibility, with similar properties to its analogue in\nstrict $\\omega$-categories. We construct a model structure whose fibrant\nobjects are diagrammatic sets in which every round pasting diagram is\nequivalent to a single cell -- its weak composite -- and propose them as a\nmodel of $(\\infty, \\infty)$-categories. For each $n < \\infty$, we then\nconstruct a model structure whose fibrant objects are those $(\\infty,\n\\infty)$-categories whose cells in dimension $> n$ are all weakly invertible.\nWe show that weak equivalences between fibrant objects are precisely morphisms\nthat are essentially surjective on cells of all dimensions. On the way to this\nresult, we also construct model structures for $(\\infty, n)$-categories on\nmarked diagrammatic sets, which split into a coinductive and an inductive case\nwhen $n = \\infty$, and prove that they are Quillen equivalent to the unmarked\nmodel structures when $n < \\infty$ and in the coinductive case of $n = \\infty$.\nFinally, we prove that the $(\\infty, 0)$-model structure is Quillen equivalent\nto the classical model structure on simplicial sets. This establishes the first\nproof of the homotopy hypothesis for a model of $\\infty$-groupoids defined as\n$(\\infty, \\infty)$-categories whose cells in dimension $> 0$ are all weakly\ninvertible.",
+          "arxiv_id": "2410.19053v2"
+        },
+        {
+          "title": "Comparing lax functors of $(\\infty,2)$-categories",
+          "year": "2023-11",
+          "abstract": "In this work, we study oplax normalised functors of $(\\infty,2)$-categories.\nOur main theorem is a comparison between the notion of oplax normalised functor\nof scaled simplicial sets due to Gagna-Harpaz-Lanari and the corresponding\nnotion in the setting of complete Segal objects in $(\\infty,1)$-categories\nstudied by Gaitsgory and Rozenblyum. As a corollary, we derive that the Gray\ntensor product of $(\\infty,2)$-categories as defined by Gaitsgory-Rozenblyum is\nequivalent to that of Gagna-Harpaz-Lanari.\n  Moreover, we construct an $(\\infty,2)$-categorical variant of the quintet\nfunctor of Ehresmann, from the $(\\infty,2)$-category of $(\\infty,2)$-categories\nto the $(\\infty,2)$-category of double $(\\infty,1)$-categories and show that it\nis fully faithful.\n  As a key technical ingredient, given $(\\mathbb{C},E)$ an\n$(\\infty,2)$-category equipped with a collection of morphisms and a functor of\n$(\\infty,2)$-categories $f:\\mathbb{C}\\to \\mathbb{D}$, we construct a right\nadjoint to the restriction functor $f^*$ from the $(\\infty,2)$-category of\nfunctors $\\mathbb{D} \\to \\mathbb{C}\\!\\operatorname{at}_{(\\infty,2)}$ and\nnatural transformations to the $(\\infty,2)$-category of functors $\\mathbb{C}\n\\to \\mathbb{C}\\!\\operatorname{at}_{(\\infty,2)}$ and partially lax (according to\n$E$) natural transformations. We apply this new technology of partially lax Kan\nextensions to the study of complete Segal objects in $(\\infty,1)$-categories\nand double $(\\infty,1)$-categories which allows us to define the notion of an\nenhanced Segal object (resp. enhanced double $(\\infty,1)$-category), the former\nyielding yet another model for the theory of $(\\infty,2)$-categories.",
+          "arxiv_id": "2311.12746v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "2-Coherent Internal Models of Homotopical Type Theory",
+          "year": "2025-02",
+          "abstract": "The program of internal type theory seeks to develop the categorical model\ntheory of dependent type theory using the language of dependent type theory\nitself. In the present work we study internal homotopical type theory by\nrelaxing the notion of a category with families (cwf) to that of a wild, or\nprecoherent higher cwf, and determine coherence conditions that suffice to\nrecover properties expected of models of dependent type theory. The result is a\ndefinition of a split 2-coherent wild cwf, which admits as instances both the\nsyntax and the \"standard model\" given by a universe type. This will allow us to\ngive a straightforward internalization of the notion of a 2-coherent reflection\nof homotopical type theory in itself: namely as a 2-coherent wild cwf morphism\nfrom the syntax to the standard model. Our theory also easily specializes to\ngive definitions of \"low-dimensional\" higher cwfs, and conjecturally includes\nthe container higher model as a further instance.",
+          "arxiv_id": "2503.05790v2"
+        },
+        {
+          "title": "A 2-categorical approach to the semantics of dependent type theory with computation axioms",
+          "year": "2025-07",
+          "abstract": "Axiomatic type theory is a dependent type theory without computation rules.\nThe term equality judgements that usually characterise these rules are replaced\nby computation axioms, i.e., additional term judgements that are typed by\nidentity types. This paper is devoted to providing an effective description of\nits semantics, from a higher categorical perspective: given the challenge of\nencoding intensional type formers into 1-dimensional categorical terms and\nproperties, a challenge that persists even for axiomatic type formers, we adopt\nRichard Garner's approach in the 2-dimensional study of dependent types. We\nprove that the type formers of axiomatic theories can be encoded into natural\n2-dimensional category theoretic data, obtaining a presentation of the\nsemantics of axiomatic type theory via 2-categorical models called display map\n2-categories. In the axiomatic case, the 2-categorical requirements identified\nby Garner for interpreting intensional type formers are relaxed. Therefore, we\nobtain a presentation of the semantics of the axiomatic theory that generalises\nGarner's one for the intensional case. Our main result states that the\ninterpretation of axiomatic theories within display map 2-categories is\nwell-defined and enjoys the soundness property. We use this fact to provide a\nsemantic proof that the computation rule of intensional identity types is not\nadmissible in axiomatic type theory. This is achieved via a revisitation of\nHofmann and Streicher's groupoid model that believes axiomatic identity types\nbut does not believe intensional ones.",
+          "arxiv_id": "2507.07208v1"
+        },
+        {
+          "title": "Internal $\\infty$-Categorical Models of Dependent Type Theory: Towards 2LTT Eating HoTT",
+          "year": "2020-09",
+          "abstract": "Using dependent type theory to formalise the syntax of dependent type theory\nis a very active topic of study and goes under the name of \"type theory eating\nitself\" or \"type theory in type theory.\" Most approaches are at least loosely\nbased on Dybjer's categories with families (CwF's) and come with a type CON of\ncontexts, a type family TY indexed over it modelling types, and so on. This\nworks well in versions of type theory where the principle of unique identity\nproofs (UIP) holds. In homotopy type theory (HoTT) however, it is a\nlong-standing and frequently discussed open problem whether the type theory\n\"eats itself\" and can serve as its own interpreter. The fundamental underlying\ndifficulty seems to be that categories are not suitable to capture a type\ntheory in the absence of UIP.\n  In this paper, we develop a notion of $\\infty$-categories with families\n($\\infty$-CwF's). The approach to higher categories used relies on the\npreviously suggested semi-Segal types, with a new construction of identity\nsubstitutions that allow for both univalent and non-univalent variations. The\ntype-theoretic universe as well as the internalised syntax are models, although\nit remains a conjecture that the latter is initial. To circumvent the known\nunsolved problem of constructing semisimplicial types, the definition is\npresented in two-level type theory (2LTT).\n  Apart from introducing $\\infty$-CwF's, the paper explains the shortcomings of\n1-categories in type theory without UIP as well as the difficulties of and\napproaches to internal higher-dimensional categories.",
+          "arxiv_id": "2009.01883v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "Towards Compositional Interpretability for XAI",
+          "year": "2024-06",
+          "abstract": "Artificial intelligence (AI) is currently based largely on black-box machine\nlearning models which lack interpretability. The field of eXplainable AI (XAI)\nstrives to address this major concern, being critical in high-stakes areas such\nas the finance, legal and health sectors.\n  We present an approach to defining AI models and their interpretability based\non category theory. For this we employ the notion of a compositional model,\nwhich sees a model in terms of formal string diagrams which capture its\nabstract structure together with its concrete implementation. This\ncomprehensive view incorporates deterministic, probabilistic and quantum\nmodels. We compare a wide range of AI models as compositional models, including\nlinear and rule-based models, (recurrent) neural networks, transformers, VAEs,\nand causal and DisCoCirc models.\n  Next we give a definition of interpretation of a model in terms of its\ncompositional structure, demonstrating how to analyse the interpretability of a\nmodel, and using this to clarify common themes in XAI. We find that what makes\nthe standard 'intrinsically interpretable' models so transparent is brought out\nmost clearly diagrammatically. This leads us to the more general notion of\ncompositionally-interpretable (CI) models, which additionally include, for\ninstance, causal, conceptual space, and DisCoCirc models.\n  We next demonstrate the explainability benefits of CI models. Firstly, their\ncompositional structure may allow the computation of other quantities of\ninterest, and may facilitate inference from the model to the modelled\nphenomenon by matching its structure. Secondly, they allow for diagrammatic\nexplanations for their behaviour, based on influence constraints, diagram\nsurgery and rewrite explanations. Finally, we discuss many future directions\nfor the approach, raising the question of how to learn such meaningfully\nstructured models in practice.",
+          "arxiv_id": "2406.17583v1"
+        },
+        {
+          "title": "Compositional imprecise probability",
+          "year": "2024-05",
+          "abstract": "Imprecise probability is concerned with uncertainty about which probability\ndistributions to use. It has applications in robust statistics and machine\nlearning.\n  We look at programming language models for imprecise probability. Our\ndesiderata are that we would like our model to support all kinds of\ncomposition, categorical and monoidal; in other words, guided by dataflow\ndiagrams. Another equivalent perspective is that we would like a model of\nsynthetic probability in the sense of Markov categories.\n  Imprecise probability can be modelled in various ways, with the leading\nmonad-based approach using convex sets of probability distributions. This model\nis not fully compositional because the monad involved is not commutative,\nmeaning it does not have a proper monoidal structure. In this work, we provide\na new fully compositional account. The key idea is to name the\nnon-deterministic choices. To manage the renamings and disjointness of names,\nwe use graded monads. We show that the resulting compositional model is maximal\nand relate it with the earlier monadic approach, proving that we obtain tighter\nbounds on the uncertainty.",
+          "arxiv_id": "2405.09391v2"
+        },
+        {
+          "title": "Category Theory for Quantum Natural Language Processing",
+          "year": "2022-12",
+          "abstract": "This thesis introduces quantum natural language processing (QNLP) models\nbased on a simple yet powerful analogy between computational linguistics and\nquantum mechanics: grammar as entanglement. The grammatical structure of text\nand sentences connects the meaning of words in the same way that entanglement\nstructure connects the states of quantum systems. Category theory allows to\nmake this language-to-qubit analogy formal: it is a monoidal functor from\ngrammar to vector spaces. We turn this abstract analogy into a concrete\nalgorithm that translates the grammatical structure onto the architecture of\nparameterised quantum circuits. We then use a hybrid classical-quantum\nalgorithm to train the model so that evaluating the circuits computes the\nmeaning of sentences in data-driven tasks.\n  The implementation of QNLP models motivated the development of DisCoPy\n(Distributional Compositional Python), the toolkit for applied category theory\nof which the first chapter gives a comprehensive overview. String diagrams are\nthe core data structure of DisCoPy, they allow to reason about computation at a\nhigh level of abstraction. We show how they can encode both grammatical\nstructures and quantum circuits, but also logical formulae, neural networks or\narbitrary Python code. Monoidal functors allow to translate these abstract\ndiagrams into concrete computation, interfacing with optimised task-specific\nlibraries.\n  The second chapter uses DisCopy to implement QNLP models as parameterised\nfunctors from grammar to quantum circuits. It gives a first proof-of-concept\nfor the more general concept of functorial learning: generalising machine\nlearning from functions to functors by learning from diagram-like data. In\norder to learn optimal functor parameters via gradient descent, we introduce\nthe notion of diagrammatic differentiation: a graphical calculus for computing\nthe gradients of parameterised diagrams.",
+          "arxiv_id": "2212.06615v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Are Banach spaces monadic?",
+          "year": "2020-11",
+          "abstract": "We will show that Banach spaces are monadic over complete metric spaces via\nthe unit ball functor. For the forgetful functor, one should take complete\npointed metric spaces.",
+          "arxiv_id": "2011.07543v3"
+        },
+        {
+          "title": "Reflecting compact $T_1$-spaces into bounded distributive lattices",
+          "year": "2024-11",
+          "abstract": "We present a contravariant reflection of the compact $T_1$-spaces with arrows\ngiven by closed continuous functions into the category of bounded distributive\nlattices with arrows given by closed subfit morphisms. This reflection extends\nboth Stone duality and Isbell's duality between frames and sober spaces for\nthose compact $T_1$-spaces that fall within each of these dualities, that is,\nrespectively, zero-dimensional compact Hausdorff spaces, and compact sober\n$T_1$-spaces. On the topological side, we allow all compact $T_1$-spaces rather\nthan just sober ones and we identify points in these with minimal prime filters\non some base. On the lattice side, the shift goes from the notion of frame\nhomomorphism to that of closed subfit morphism between bounded distributive\nlattices (closed subfit morphisms are defined by a natural and first order\nexpressible constraint). The reflection becomes a duality when one restricts on\nthe algebraic side to the complete and compact subfit lattices (i.e. compact\nsubfit frames). Furthermore, restricting our duality on the topological side to\nthe subcategory of compact $T_2$-spaces with all continuous maps, we obtain a\nduality for these with the category of complete, compact and normal lattices,\nthus recovering a classical result of Cornish. We also relate our adjunction to\nthe duality introduced by Maruyama between $T_1$-spaces with continuous maps\nand a category having as objects a particular type of subfit frames and as\narrows a certain type of morphism, of which we give an alternative and explicit\nalgebraic characterization.",
+          "arxiv_id": "2411.13482v3"
+        },
+        {
+          "title": "Barr-coexactness for metric compact Hausdorff spaces",
+          "year": "2024-08",
+          "abstract": "Compact metric spaces form an important class of metric spaces, but the\ncategory that they define lacks many important properties such as completeness\nand cocompleteness. In recent studies of \"metric domain theory\" and Stone-type\ndualities, the more general notion of a (separated) metric compact Hausdorff\nspace emerged as a metric counterpart of Nachbin's compact ordered spaces.\nRoughly speaking, a metric compact Hausdorff space is a metric space equipped\nwith a \\emph{compatible} compact Hausdorff topology (which does not need to be\nthe induced topology). These spaces maintain many important features of compact\nmetric spaces, and, notably, the resulting category is much better behaved.\nMoreover, one can use inspiration from the theory of Nachbin's compact ordered\nspaces to solve problems for metric structures.\n  In this paper we continue this line of research: in the category of separated\nmetric compact Hausdorff spaces we characterise the regular monomorphisms as\nthe embeddings and the epimorphisms as the surjective morphisms. Moreover, we\nshow that epimorphisms out of an object $X$ can be encoded internally on $X$ by\ntheir kernel metrics, which are characterised as the continuous metrics below\nthe metric on $X$; this gives a convenient way to represent quotient objects.\nFinally, as the main result, we prove that its dual category has an algebraic\nflavour: it is Barr-exact. While we show that it cannot be a variety of\nfinitary algebras, it remains open whether it is an infinitary variety.",
+          "arxiv_id": "2408.07039v3"
+        }
+      ],
+      "5": [
+        {
+          "title": "A straightening-unstraightening equivalence for $\\infty$-operads",
+          "year": "2025-01",
+          "abstract": "We provide a straightening-unstraightening adjunction for $\\infty$-operads in\nLurie's formalism, and show it establishes an equivalence between the\n$\\infty$-category of operadic left fibrations over an $\\infty$-operad\n$\\mathcal{O}^\\otimes$ and the $\\infty$-category of\n$\\mathcal{O}^\\otimes$-algebras in spaces. In order to do so, we prove that the\nHinich-Moerdijk comparison functors induce an equivalence between the\n$\\infty$-categories of operadic left fibrations and dendroidal left fibrations\nover an $\\infty$-operad, and we characterize, for any symmetric monoidal\n$\\infty$-category $\\mathcal{C}^\\otimes$, the essential image of the monoidal\nunstraightening functor restricted to strong monoidal functors\n$\\mathcal{C}^\\otimes\\to \\mathcal{S}^\\times$.",
+          "arxiv_id": "2501.05263v2"
+        },
+        {
+          "title": "$\\mathrm{LMod}_{R}(\\mathcal{V})$-enriched $\\infty$-categories are left $R$-module objects of $\\mathcal{C}at^{\\mathcal{V}}$ and $\\mathcal{C}at^{\\mathcal{V}}$-enriched $\\infty$-functors",
+          "year": "2024-06",
+          "abstract": "We investigate $\\mathrm{LMod}_{R}(\\mathcal{V})$-enriched $\\infty$-categories,\nwhere $R$ is an $\\mathbb{E}_2$-ring in a presentable $\\mathbb{E}_2$-monoidal\n$\\infty$-category $\\mathcal{V}$, using $\\mathcal{V}$-enriched $\\infty$-category\ntheory. We prove the equivalence of\n$\\mathcal{C}at_{\\infty}^{\\mathrm{LMod}_{R}(\\mathcal{V})}$ (the\n$\\infty$-category of $\\mathrm{LMod}_{R}(\\mathcal{V})$-enriched\n$\\infty$-categories) and\n$\\mathrm{LMod}_{R}(\\mathcal{C}at_{\\infty}^{\\mathcal{V}})$ (left $R$-modules in\n$\\mathcal{C}at_{\\infty}^{\\mathcal{V}}$). For $R$ an $\\mathbb{E}_2$-ring in a\npresentable $\\mathbb{E}_3$-monoidal $\\infty$-category, they are also equivalent\nto\n$Fun^{\\mathcal{C}at_{\\infty}^{\\mathcal{V}}}(B^2R,\\mathcal{C}at_{\\infty}^{\\mathcal{V}})$,\nwhere $B^2(-)$ is the \"$2$-delooping\". This result generalizes: if $R$ is an\n$\\mathbb{E}_{n+1}$-ring in a presentable $\\mathbb{E}_{n+1}$-monoidal\n$\\infty$-category, $(\\infty,n)$-categories enriched in\n$\\mathrm{LMod}_{R}(\\mathcal{V})$ are equivalent to $B^nR$-modules in\n$\\mathcal{V}$-enriched $(\\infty,n)$-categories, where $B^n(-)$ is the\n\"$n$-delooping\". A notable case is $\\mathcal{V} = \\mathcal{S}p$ and $R =\n\\mathbb{H}\\mathrm{k}$, the Eilenberg-MacLane spectrum of a commutative ring\n$k$. In this case, the results provide two new descriptions of $\\mathcal{D}(k)$\nthe $\\infty$-category of dg-categories over $k$, a key object in derived\nalgebraic geometry.",
+          "arxiv_id": "2406.15884v3"
+        },
+        {
+          "title": "$\\infty$-operads as symmetric monoidal $\\infty$-categories",
+          "year": "2021-06",
+          "abstract": "We use Lurie's symmetric monoidal envelope functor to give two new\ndescriptions of $\\infty$-operads: as certain symmetric monoidal\n$\\infty$-categories whose underlying symmetric monoidal $\\infty$-groupoids are\nfree, and as certain symmetric monoidal $\\infty$-categories equipped with a\nsymmetric monoidal functor to finite sets (with disjoint union as tensor\nproduct). The latter leads to a third description of $\\infty$-operads, as a\nlocalization of a presheaf $\\infty$-category, and we use this to give a simple\nproof of the equivalence between Lurie's and Barwick's models for\n$\\infty$-operads.",
+          "arxiv_id": "2106.12975v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Non-Invertible Higher-Categorical Symmetries",
+          "year": "2022-04",
+          "abstract": "We sketch a procedure to capture general non-invertible symmetries of a\nd-dimensional quantum field theory in the data of a higher-category, which\ncaptures the local properties of topological defects associated to the\nsymmetries. We also discuss fusions of topological defects, which involve\ncondensations/gaugings of higher-categorical symmetries localized on the\nworldvolumes of topological defects. Recently some fusions of topological\ndefects were discussed in the literature where the dimension of topological\ndefects seems to jump under fusion. This is not possible in the standard\ndescription of higher-categories. We explain that the dimension-changing\nfusions are understood as higher-morphisms of the higher-category describing\nthe symmetry. We also discuss how a 0-form sub-symmetry of a higher-categorical\nsymmetry can be gauged and describe the higher-categorical symmetry of the\ntheory obtained after gauging. This provides a procedure for constructing\nnon-invertible higher-categorical symmetries starting from invertible\nhigher-form or higher-group symmetries and gauging a 0-form symmetry. We\nillustrate this procedure by constructing non-invertible 2-categorical\nsymmetries in 4d gauge theories and non-invertible 3-categorical symmetries in\n5d and 6d theories. We check some of the results obtained using our approach\nagainst the results obtained using a recently proposed approach based on 't\nHooft anomalies.",
+          "arxiv_id": "2204.06564v3"
+        },
+        {
+          "title": "ICTP Lectures on (Non-)Invertible Generalized Symmetries",
+          "year": "2023-05",
+          "abstract": "What comprises a global symmetry of a Quantum Field Theory (QFT) has been\nvastly expanded in the past 10 years to include not only symmetries acting on\nhigher-dimensional defects, but also most recently symmetries which do not have\nan inverse. The principle that enables this generalization is the\nidentification of symmetries with topological defects in the QFT. In these\nlectures, we provide an introduction to generalized symmetries, with a focus on\nnon-invertible symmetries. We begin with a brief overview of invertible\ngeneralized symmetries, including higher-form and higher-group symmetries, and\nthen move on to non-invertible symmetries. The main idea that underlies many\nconstructions of non-invertible symmetries is that of stacking a QFT with\ntopological QFTs (TQFTs) and then gauging a diagonal non-anomalous global\nsymmetry. The TQFTs become topological defects in the gauged theory called\n(twisted) theta defects and comprise a large class of non-invertible symmetries\nincluding condensation defects, self-duality defects, and non-invertible\nsymmetries of gauge theories with disconnected gauge groups. We will explain\nthe general principle and provide numerous concrete examples. Following this\nextensive characterization of symmetry generators, we then discuss their action\non higher-charges, i.e. extended physical operators. As we will explain, even\nfor invertible higher-form symmetries these are not only representations of the\n$p$-form symmetry group, but more generally what are called\nhigher-representations. Finally, we give an introduction to the Symmetry\nTopological Field Theory (SymTFT) and its utility in characterizing symmetries,\ntheir gauging and generalized charges.\n  Lectures prepared for the ICTP Trieste Spring School, April 2023.",
+          "arxiv_id": "2305.18296v2"
+        },
+        {
+          "title": "Universal Non-Invertible Symmetries",
+          "year": "2022-08",
+          "abstract": "It is well-known that gauging a finite 0-form symmetry in a quantum field\ntheory leads to a dual symmetry generated by topological Wilson line defects.\nThese are described by the representations of the 0-form symmetry group which\nform a 1-category. We argue that for a d-dimensional quantum field theory the\nfull set of dual symmetries one obtains is in fact much larger and is described\nby a (d-1)-category, which is formed out of lower-dimensional topological\nquantum field theories with the same 0-form symmetry. We study in detail a\n2-categorical piece of this (d-1)-category described by 2d topological quantum\nfield theories with 0-form symmetry. We further show that the objects of this\n2-category are the recently discussed 2d condensation defects constructed from\nhigher-gauging of Wilson lines. Similarly, dual symmetries obtained by gauging\nany higher-form or higher-group symmetry also form a (d-1)-category formed out\nof lower-dimensional topological quantum field theories with that higher-form\nor higher-group symmetry. A particularly interesting case is that of the\n2-category of dual symmetries associated to gauging of finite 2-group\nsymmetries, as it describes non-invertible symmetries arising from gauging\n0-form symmetries that act on (d-3)-form symmetries. Such non-invertible\nsymmetries were studied recently in the literature via other methods, and our\nresults not only agree with previous results, but our approach also provides a\nmuch simpler way of computing various properties of these non-invertible\nsymmetries. We describe how our results can be applied to compute\nnon-invertible symmetries of various classes of gauge theories with continuous\ndisconnected gauge groups in various spacetime dimensions. We also discuss the\n2-category formed by 2d condensation defects in any arbitrary quantum field\ntheory.",
+          "arxiv_id": "2208.05973v2"
+        }
+      ],
+      "7": [
+        {
+          "title": "Classifying toposes for non-geometric theories",
+          "year": "2023-12",
+          "abstract": "The classifying topos of a geometric theory is a topos such that geometric\nmorphisms into it correspond to models of that theory. We study classifying\ntoposes for different infinitary logics: first-order, sub-first-order (i.e.\ngeometric logic plus implication) and classical. For the first two, the\ncorresponding notion of classifying topos is given by restricting the use of\ngeometric morphisms to open and sub-open geometric morphisms respectively. For\nthe last one, we restrict ourselves to Boolean toposes instead. Butz and\nJohnstone proved that the first-order classifying topos of an infinitary\nfirst-order theory exists precisely when that theory does not have too many\ninfinitary first-order formulas, up to intuitionistically provable equivalence.\nWe prove similar statements for the sub-first-order and Boolean case. Along the\nway we obtain completeness results of infinitary sub-first-order logic and\ninfinitary classical logic with respect to (Boolean) toposes.",
+          "arxiv_id": "2312.11528v1"
+        },
+        {
+          "title": "Relative topos theory via stacks",
+          "year": "2021-07",
+          "abstract": "We introduce new foundations for relative topos theory based on stacks. One\nof the central results in our theory is an adjunction between the category of\ntoposes over the topos of sheaves on a given site $({\\mathcal{C}}, J)$ and that\nof ${\\mathcal{C}}$-indexed categories. This represents a wide generalization of\nthe classical adjunction between presheaves on a topological space and bundles\nover it, and allows one to interpret several constructions on sheaves and\nstacks in a geometrical way; in particular, it leads to fibrational\ndescriptions of direct and inverse images of sheaves and stacks, as well as to\na geometric understanding of the sheafification process. It also naturally\nallows one to regard any Grothendieck topos as a 'petit' topos associated with\na 'gros' topos, thereby providing an answer to a problem posed by Grothendieck\nin the seventies. Another key ingredient in our theory is a notion of relative\nsite, which allows one to represent arbitrary geometric morphisms towards a\nfixed base topos of sheaves on a site as structure morphisms induced by\nrelative sites over that site.",
+          "arxiv_id": "2107.04417v1"
+        },
+        {
+          "title": "The over-topos at a model",
+          "year": "2021-04",
+          "abstract": "With a model of a geometric theory in an arbitrary topos, we associate a site\nobtained by endowing a category of generalized elements of the model with a\nGrothendieck topology, which we call the antecedent topology. Then we show that\nthe associated sheaf topos, which we call the over-topos at the given model,\nadmits a canonical totally connected morphism to the given base topos and\nsatisfies a universal property generalizing that of the colocalization of a\ntopos at a point. We first treat the case of the base topos of sets, where\nglobal elements are sufficient to describe our site of definition; in this\ncontext, we also introduce a geometric theory classified by the over-topos,\nwhose models can be identified with the model homomorphisms towards the\n(internalizations of the) model. Then we formulate and prove the general\nstatement over an arbitrary topos, which involves the stack of generalized\nelements of the model. Lastly, we investigate the geometric and 2-categorical\naspects of the over-topos construction, exhibiting it as a bilimit in the\nbicategory of Grothendieck toposes.",
+          "arxiv_id": "2104.05650v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:53:01Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

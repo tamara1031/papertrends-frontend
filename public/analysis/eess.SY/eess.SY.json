@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_control_systems_time_model",
+        "keywords": [
+          [
+            "control",
+            0.03183756264410411
+          ],
+          [
+            "systems",
+            0.021792703039387025
+          ],
+          [
+            "time",
+            0.02109730228122313
+          ],
+          [
+            "model",
+            0.02009843338213671
+          ],
+          [
+            "paper",
+            0.01753992048486817
+          ],
+          [
+            "data",
+            0.01612219497932888
+          ],
+          [
+            "problem",
+            0.01611427768113367
+          ],
+          [
+            "approach",
+            0.01542775347981178
+          ],
+          [
+            "state",
+            0.015058689609944734
+          ],
+          [
+            "performance",
+            0.014589640150728923
+          ]
+        ],
+        "count": 23400
+      },
+      "1": {
+        "name": "1_power_energy_grid_model",
+        "keywords": [
+          [
+            "power",
+            0.04272634104445105
+          ],
+          [
+            "energy",
+            0.03205284823609582
+          ],
+          [
+            "grid",
+            0.022069591468721374
+          ],
+          [
+            "model",
+            0.021931455178659517
+          ],
+          [
+            "paper",
+            0.017235287354762884
+          ],
+          [
+            "control",
+            0.017179694494001658
+          ],
+          [
+            "systems",
+            0.015920584855457536
+          ],
+          [
+            "data",
+            0.01578905300518813
+          ],
+          [
+            "voltage",
+            0.013546880428746392
+          ],
+          [
+            "method",
+            0.013281313051281898
+          ]
+        ],
+        "count": 6183
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.2871854538996672
+      ],
+      [
+        -0.2871854538996672,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        201,
+        52
+      ],
+      "2020-02": [
+        222,
+        54
+      ],
+      "2020-03": [
+        341,
+        84
+      ],
+      "2020-04": [
+        316,
+        76
+      ],
+      "2020-05": [
+        291,
+        82
+      ],
+      "2020-06": [
+        278,
+        78
+      ],
+      "2020-07": [
+        247,
+        83
+      ],
+      "2020-08": [
+        253,
+        76
+      ],
+      "2020-09": [
+        295,
+        79
+      ],
+      "2020-10": [
+        269,
+        93
+      ],
+      "2020-11": [
+        351,
+        82
+      ],
+      "2020-12": [
+        280,
+        75
+      ],
+      "2021-01": [
+        247,
+        78
+      ],
+      "2021-02": [
+        280,
+        88
+      ],
+      "2021-03": [
+        468,
+        101
+      ],
+      "2021-04": [
+        310,
+        99
+      ],
+      "2021-05": [
+        273,
+        72
+      ],
+      "2021-06": [
+        280,
+        94
+      ],
+      "2021-07": [
+        247,
+        78
+      ],
+      "2021-08": [
+        254,
+        68
+      ],
+      "2021-09": [
+        333,
+        75
+      ],
+      "2021-10": [
+        308,
+        115
+      ],
+      "2021-11": [
+        286,
+        93
+      ],
+      "2021-12": [
+        256,
+        87
+      ],
+      "2022-01": [
+        237,
+        71
+      ],
+      "2022-02": [
+        254,
+        69
+      ],
+      "2022-03": [
+        388,
+        112
+      ],
+      "2022-04": [
+        308,
+        82
+      ],
+      "2022-05": [
+        297,
+        68
+      ],
+      "2022-06": [
+        271,
+        75
+      ],
+      "2022-07": [
+        296,
+        107
+      ],
+      "2022-08": [
+        272,
+        82
+      ],
+      "2022-09": [
+        373,
+        92
+      ],
+      "2022-10": [
+        328,
+        81
+      ],
+      "2022-11": [
+        353,
+        91
+      ],
+      "2022-12": [
+        300,
+        99
+      ],
+      "2023-01": [
+        250,
+        100
+      ],
+      "2023-02": [
+        235,
+        85
+      ],
+      "2023-03": [
+        402,
+        124
+      ],
+      "2023-04": [
+        409,
+        120
+      ],
+      "2023-05": [
+        344,
+        110
+      ],
+      "2023-06": [
+        280,
+        70
+      ],
+      "2023-07": [
+        295,
+        87
+      ],
+      "2023-08": [
+        291,
+        89
+      ],
+      "2023-09": [
+        422,
+        98
+      ],
+      "2023-10": [
+        366,
+        154
+      ],
+      "2023-11": [
+        366,
+        119
+      ],
+      "2023-12": [
+        359,
+        91
+      ],
+      "2024-01": [
+        366,
+        106
+      ],
+      "2024-02": [
+        337,
+        81
+      ],
+      "2024-03": [
+        540,
+        108
+      ],
+      "2024-04": [
+        361,
+        95
+      ],
+      "2024-05": [
+        409,
+        108
+      ],
+      "2024-06": [
+        335,
+        83
+      ],
+      "2024-07": [
+        326,
+        81
+      ],
+      "2024-08": [
+        339,
+        96
+      ],
+      "2024-09": [
+        461,
+        114
+      ],
+      "2024-10": [
+        457,
+        121
+      ],
+      "2024-11": [
+        399,
+        118
+      ],
+      "2024-12": [
+        339,
+        109
+      ],
+      "2025-01": [
+        376,
+        100
+      ],
+      "2025-02": [
+        385,
+        96
+      ],
+      "2025-03": [
+        568,
+        124
+      ],
+      "2025-04": [
+        529,
+        112
+      ],
+      "2025-05": [
+        470,
+        116
+      ],
+      "2025-06": [
+        426,
+        111
+      ],
+      "2025-07": [
+        461,
+        132
+      ],
+      "2025-08": [
+        417,
+        115
+      ],
+      "2025-09": [
+        264,
+        72
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Safety-Critical Control Synthesis for Unknown Sampled-Data Systems via Control Barrier Functions",
+          "year": "2021-09",
+          "abstract": "As the complexity of control systems increases, safety becomes an\nincreasingly important property since safety violations can damage the plant\nand put the system operator in danger. When the system dynamics are unknown,\nsafety-critical synthesis becomes more challenging. Additionally, modern\nsystems are controlled digitally and hence behave as sampled-data systems,\ni.e., the system dynamics evolve continuously while the control input is\napplied at discrete time steps. In this paper, we study the problem of control\nsynthesis for safety-critical sampled-data systems with unknown dynamics. We\novercome the challenges introduced by sampled-data implementation and unknown\ndynamics by constructing a set of control barrier function (CBF)-based\nconstraints. By satisfying the constructed CBF constraint at each sampling\ntime, we guarantee the unknown sampled-data system is safe for all time. We\nformulate a non-convex program to solve for the control signal at each sampling\ntime. We decompose the non-convex program into two convex sub-problems. We\nillustrate the proposed approach using a numerical case study.",
+          "arxiv_id": "2109.13415v1"
+        },
+        {
+          "title": "Safe-by-Construction Autonomous Vehicle Overtaking using Control Barrier Functions and Model Predictive Control",
+          "year": "2023-10",
+          "abstract": "Ensuring safety for vehicle overtaking systems is one of the most fundamental\nand challenging tasks in autonomous driving. This task is particularly\nintricate when the vehicle must not only overtake its front vehicle safely but\nalso consider the presence of potential opposing vehicles in the opposite lane\nthat it will temporarily occupy. In order to tackle the overtaking task in such\nchallenging scenarios, we introduce a novel integrated framework tailored for\nvehicle overtaking maneuvers. Our approach integrates the theories of\nvarying-level control barrier functions (CBF) and time-optimal model predictive\ncontrol (MPC). The main feature of our proposed overtaking strategy is that it\nis safe-by-construction, which enables rigorous mathematical proof and\nvalidation of the safety guarantees. We show that the proposed framework is\napplicable when the opposing vehicle is either fully autonomous or driven by\nhuman drivers. To demonstrate our framework, we perform a set of simulations\nfor overtaking scenarios under different settings. The simulation results show\nthe superiority of our framework in the sense that it ensures collision-free\nand achieves better safety performance compared with the standard MPC-based\napproach without safety guarantees.",
+          "arxiv_id": "2310.06553v1"
+        },
+        {
+          "title": "Adaptive Safety-Critical Control for a Class of Nonlinear Systems with Parametric Uncertainties: A Control Barrier Function Approach",
+          "year": "2023-02",
+          "abstract": "This paper presents a novel approach for the safe control design of systems\nwith parametric uncertainties in both drift terms and control-input matrices.\nThe method combines control barrier functions and adaptive laws to generate a\nsafe controller through a nonlinear program with an explicitly given\nclosed-form solution. The proposed approach verifies the non-emptiness of the\nadmissible control set independently of online parameter estimations, which can\nensure the safe controller is singularity-free. A data-driven algorithm is also\ndeveloped to improve the performance of the proposed controller by tightening\nthe bounds of the unknown parameters. The effectiveness of the control scheme\nis demonstrated through numerical simulations.",
+          "arxiv_id": "2302.08601v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "Multi-Objective Optimization Algorithms for Energy Management Systems in Microgrids: A Control Strategy Based on a PHIL System",
+          "year": "2025-05",
+          "abstract": "In this research a real time power hardware in loop configuration has been\nimplemented for an microgrid with the combination of distribution energy\nresources such as photovoltaic, grid tied inverter, battery, utility grid, and\na diesel generator. This paper introduces an unique adaptive multi-objective\noptimization approach that employs weighted optimization techniques for\nreal-time microgrid systems. The aim is to effectively balance various factors\nincluding fuel consumption, load mismatch, power quality, battery degradation,\nand the utilization of renewable energy sources. A real time experimental data\nfrom power hardware in loop system has been used for dynamically updating\nsystem states. The adaptive preference-based selection method are adjusted\nbased on state of battery charging thresholds. The technique has been\nintegrated with six technical objectives and complex constraints. This approach\nhelps to practical microgrid decision making and optimization of dynamic energy\nsystems. The energy management process were also able to maximize photovoltaic\nproduction where minimizing power mismatch, stabilizing battery state of charge\nunder different condition. The research results were also compared with the\nbaseline system without optimization techniques, and a reliable outcome was\nfound.",
+          "arxiv_id": "2505.18210v1"
+        },
+        {
+          "title": "Probabilistic Day-Ahead Battery Scheduling based on Mixed Random Variables for Enhanced Grid Operation",
+          "year": "2024-11",
+          "abstract": "The increasing penetration of renewable energy sources introduces significant\nchallenges to power grid stability, primarily due to their inherent\nvariability. A new opportunity for grid operation is the smart integration of\nelectricity production combined with battery storages in residential buildings.\nThis study explores how residential battery systems can aid in stabilizing the\npower grid by flexibly managing deviations from forecasted residential power\nconsumption and PV generation. The key contribution of this work is the\ndevelopment of an analytical approach that enables the asymmetric allocation of\nquantified power uncertainties between a residential battery system and the\npower grid, introducing a new degree of freedom into the scheduling problem.\nThis is accomplished by employing mixed random variables - characterized by\nboth continuous and discrete events - to model battery and grid power\nuncertainties. These variables are embedded into a continuous stochastic\noptimization framework, which computes probabilistic schedules for battery\noperation and power exchange with the grid. Test cases demonstrate that the\nproposed framework can be used effectively to reduce and quantify grid\nuncertainties while minimizing electricity costs. It is also shown that\nresidential battery systems can be actively used to provide flexibility during\ncritical periods of grid operation. Overall, this framework empowers prosumers\nto take an active role in grid stabilization, contributing to a more resilient\nand adaptive energy system.",
+          "arxiv_id": "2411.12480v1"
+        },
+        {
+          "title": "Grid-Forming Loads: Can the loads be in charge of forming the grid in modern power systems?",
+          "year": "2022-08",
+          "abstract": "Modern power systems are facing the tremendous challenge of integrating vast\namounts of variable (non-dispatchable) renewable generation capacity, such as\nsolar photovoltaic or wind power. In this context, the required power system\nflexibility needs to be allocated in other units that can include energy\nstorage, demand management or providing reserve from renewables curtailing the\noutput power. The present paper proposes the new concept of grid-forming load,\nwhich can be considered a totally flexible concept of demand. The concept is\nnot only ensuring the load is supporting the grid stability by adapting the\nload to the overall system balancing, but also ensures that the load is\nactually contributing to form the grid and to provide synchronization power to\nthe overall system. In this sense, the new concept allows running a system\npowered only by renewables operating at maximum power (or operator defined\nset-point) in grid-following mode, while the overall system control is ubicated\nin the demand side. This is an important change of paradigm as it considers\nthat all the flexibility, synchronism and stability provision is on the demand\nside. This concept can applied either to isolated systems or also to future\npower systems, where millions of loads steer the power system while the\nrenewables are operating at full power. The paper proposes the concept,\nsuggests possible control implementations of the grid-forming load and analyses\nthe concept in four simulation case studies.",
+          "arxiv_id": "2208.12966v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:48:04Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

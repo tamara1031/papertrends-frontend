@@ -1,0 +1,1628 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_method_numerical_flow_order",
+        "keywords": [
+          [
+            "method",
+            0.01916373630122488
+          ],
+          [
+            "numerical",
+            0.015081670299717761
+          ],
+          [
+            "flow",
+            0.01445541330904774
+          ],
+          [
+            "order",
+            0.013337896100218549
+          ],
+          [
+            "model",
+            0.012848897273413989
+          ],
+          [
+            "simulations",
+            0.01267129899516769
+          ],
+          [
+            "fluid",
+            0.011859352909470119
+          ],
+          [
+            "equations",
+            0.011820727683022702
+          ],
+          [
+            "time",
+            0.01178701215680086
+          ],
+          [
+            "scheme",
+            0.01108688033933678
+          ]
+        ],
+        "count": 2575
+      },
+      "1": {
+        "name": "1_data_neural_model_learning",
+        "keywords": [
+          [
+            "data",
+            0.023606685334690423
+          ],
+          [
+            "neural",
+            0.019852317028164458
+          ],
+          [
+            "model",
+            0.0179379117449278
+          ],
+          [
+            "learning",
+            0.017257990551572018
+          ],
+          [
+            "models",
+            0.015166332870462726
+          ],
+          [
+            "network",
+            0.014665193575244323
+          ],
+          [
+            "networks",
+            0.013286445460403435
+          ],
+          [
+            "physics",
+            0.01196687595802946
+          ],
+          [
+            "training",
+            0.011933353704268736
+          ],
+          [
+            "equations",
+            0.011488643417985483
+          ]
+        ],
+        "count": 1692
+      },
+      "2": {
+        "name": "2_quantum_state_systems_Quantum",
+        "keywords": [
+          [
+            "quantum",
+            0.06014190846466132
+          ],
+          [
+            "state",
+            0.016635785119438334
+          ],
+          [
+            "systems",
+            0.01658965077645888
+          ],
+          [
+            "Quantum",
+            0.014866866267757682
+          ],
+          [
+            "classical",
+            0.013008944061791941
+          ],
+          [
+            "states",
+            0.012485329028562808
+          ],
+          [
+            "algorithm",
+            0.012356191697562552
+          ],
+          [
+            "model",
+            0.010707457074450113
+          ],
+          [
+            "spin",
+            0.010673366042589791
+          ],
+          [
+            "body",
+            0.010222227097316811
+          ]
+        ],
+        "count": 993
+      },
+      "3": {
+        "name": "3_method_design_optical_wave",
+        "keywords": [
+          [
+            "method",
+            0.017867580431400996
+          ],
+          [
+            "design",
+            0.015164147307482537
+          ],
+          [
+            "optical",
+            0.014266971558600412
+          ],
+          [
+            "wave",
+            0.012362636789741884
+          ],
+          [
+            "field",
+            0.01137271878944181
+          ],
+          [
+            "inverse",
+            0.01107022769859654
+          ],
+          [
+            "optimization",
+            0.01063881015313531
+          ],
+          [
+            "domain",
+            0.010583577823041515
+          ],
+          [
+            "approach",
+            0.01042640808907943
+          ],
+          [
+            "electromagnetic",
+            0.010181252529457606
+          ]
+        ],
+        "count": 820
+      },
+      "4": {
+        "name": "4_learning_materials_machine_potentials",
+        "keywords": [
+          [
+            "learning",
+            0.02099835349046977
+          ],
+          [
+            "materials",
+            0.018559793115092687
+          ],
+          [
+            "machine",
+            0.016666323058188395
+          ],
+          [
+            "potentials",
+            0.016221072228507973
+          ],
+          [
+            "machine learning",
+            0.014351801740114233
+          ],
+          [
+            "atomic",
+            0.014177910198214492
+          ],
+          [
+            "models",
+            0.014175775301491708
+          ],
+          [
+            "model",
+            0.012947732320562415
+          ],
+          [
+            "data",
+            0.012929592278776905
+          ],
+          [
+            "molecular",
+            0.012760242736404956
+          ]
+        ],
+        "count": 754
+      },
+      "5": {
+        "name": "5_properties_materials_spin_electronic",
+        "keywords": [
+          [
+            "properties",
+            0.02133016837705695
+          ],
+          [
+            "materials",
+            0.021232172172509625
+          ],
+          [
+            "spin",
+            0.020026327355308973
+          ],
+          [
+            "electronic",
+            0.01820154228768315
+          ],
+          [
+            "magnetic",
+            0.018201412620488425
+          ],
+          [
+            "band",
+            0.017758127358387
+          ],
+          [
+            "2D",
+            0.016521974064215697
+          ],
+          [
+            "calculations",
+            0.01404070859344243
+          ],
+          [
+            "monolayer",
+            0.013825052710711895
+          ],
+          [
+            "thermal",
+            0.013583403069220252
+          ]
+        ],
+        "count": 667
+      },
+      "6": {
+        "name": "6_density_calculations_basis_functional",
+        "keywords": [
+          [
+            "density",
+            0.020764106831517512
+          ],
+          [
+            "calculations",
+            0.019737141898778104
+          ],
+          [
+            "basis",
+            0.019286935612326292
+          ],
+          [
+            "functional",
+            0.01855992321584325
+          ],
+          [
+            "electron",
+            0.017117311086782973
+          ],
+          [
+            "theory",
+            0.01657639617722063
+          ],
+          [
+            "electronic",
+            0.014972375077856514
+          ],
+          [
+            "method",
+            0.014395438939260496
+          ],
+          [
+            "energy",
+            0.014127067893670147
+          ],
+          [
+            "energies",
+            0.013551601795432638
+          ]
+        ],
+        "count": 667
+      },
+      "7": {
+        "name": "7_Carlo_data_Monte_physics",
+        "keywords": [
+          [
+            "Carlo",
+            0.019725957115791122
+          ],
+          [
+            "data",
+            0.019658906723861693
+          ],
+          [
+            "Monte",
+            0.019518182908297543
+          ],
+          [
+            "physics",
+            0.019089660290226722
+          ],
+          [
+            "neutron",
+            0.01605992692143932
+          ],
+          [
+            "simulation",
+            0.015012244168682118
+          ],
+          [
+            "Geant4",
+            0.013471418104152737
+          ],
+          [
+            "HEP",
+            0.013444632139858206
+          ],
+          [
+            "event",
+            0.013268948204139472
+          ],
+          [
+            "code",
+            0.012936794777633542
+          ]
+        ],
+        "count": 422
+      },
+      "8": {
+        "name": "8_dynamics_particles_simulations_systems",
+        "keywords": [
+          [
+            "dynamics",
+            0.02009940720885003
+          ],
+          [
+            "particles",
+            0.017550425464741375
+          ],
+          [
+            "simulations",
+            0.015195991779977302
+          ],
+          [
+            "systems",
+            0.01369685795786981
+          ],
+          [
+            "polymer",
+            0.013174305901529135
+          ],
+          [
+            "model",
+            0.013143833934851967
+          ],
+          [
+            "molecular",
+            0.01249534779589007
+          ],
+          [
+            "particle",
+            0.011672471487723041
+          ],
+          [
+            "interactions",
+            0.01066714297298431
+          ],
+          [
+            "self",
+            0.010277962677685997
+          ]
+        ],
+        "count": 392
+      },
+      "9": {
+        "name": "9_sampling_molecular_dynamics_free energy",
+        "keywords": [
+          [
+            "sampling",
+            0.032473416884598406
+          ],
+          [
+            "molecular",
+            0.029790443990294277
+          ],
+          [
+            "dynamics",
+            0.023461732889231986
+          ],
+          [
+            "free energy",
+            0.018994055966179584
+          ],
+          [
+            "simulations",
+            0.018622529796049902
+          ],
+          [
+            "free",
+            0.01837200617655067
+          ],
+          [
+            "energy",
+            0.016784099814431522
+          ],
+          [
+            "systems",
+            0.015806009339864993
+          ],
+          [
+            "molecular dynamics",
+            0.015646967716891762
+          ],
+          [
+            "method",
+            0.015046194460597642
+          ]
+        ],
+        "count": 203
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6767510268770305,
+        -0.6950727280299482,
+        0.35048730265444117,
+        -0.7247074365342387,
+        -0.7227684682030125,
+        -0.684214419384614,
+        -0.6032238740585418,
+        -0.6625779270116263,
+        -0.7092505959968394
+      ],
+      [
+        -0.6767510268770305,
+        1.0,
+        -0.6880404336258437,
+        -0.6752364524080683,
+        -0.5471846207057386,
+        -0.7209955933689627,
+        -0.7141600107311983,
+        -0.596583712827983,
+        -0.6682305935943527,
+        -0.6889217563550631
+      ],
+      [
+        -0.6950727280299482,
+        -0.6880404336258437,
+        1.0,
+        -0.6928234578293903,
+        -0.6945138533861446,
+        -0.6859207275763286,
+        -0.6560984788783096,
+        -0.65873354234706,
+        -0.39475830485811736,
+        -0.6919161525523274
+      ],
+      [
+        0.35048730265444117,
+        -0.6752364524080683,
+        -0.6928234578293903,
+        1.0,
+        -0.7141560991418676,
+        -0.7242815321124325,
+        -0.6859001763096882,
+        -0.6113635410901866,
+        -0.6686321341506178,
+        -0.7129251116752618
+      ],
+      [
+        -0.7247074365342387,
+        -0.5471846207057386,
+        -0.6945138533861446,
+        -0.7141560991418676,
+        1.0,
+        -0.5841005533498433,
+        -0.6862884719128288,
+        -0.7046112161342794,
+        -0.6864879255278347,
+        -0.6670111749172153
+      ],
+      [
+        -0.7227684682030125,
+        -0.7209955933689627,
+        -0.6859207275763286,
+        -0.7242815321124325,
+        -0.5841005533498433,
+        1.0,
+        -0.4694460557153013,
+        -0.710334496577131,
+        -0.689247386829755,
+        -0.704251038410513
+      ],
+      [
+        -0.684214419384614,
+        -0.7141600107311983,
+        -0.6560984788783096,
+        -0.6859001763096882,
+        -0.6862884719128288,
+        -0.4694460557153013,
+        1.0,
+        -0.7039458059520809,
+        -0.6724133100360778,
+        -0.6937534233467055
+      ],
+      [
+        -0.6032238740585418,
+        -0.596583712827983,
+        -0.65873354234706,
+        -0.6113635410901866,
+        -0.7046112161342794,
+        -0.710334496577131,
+        -0.7039458059520809,
+        1.0,
+        -0.688149978470439,
+        -0.7012289774268385
+      ],
+      [
+        -0.6625779270116263,
+        -0.6682305935943527,
+        -0.39475830485811736,
+        -0.6686321341506178,
+        -0.6864879255278347,
+        -0.689247386829755,
+        -0.6724133100360778,
+        -0.688149978470439,
+        1.0,
+        -0.28946510083262833
+      ],
+      [
+        -0.7092505959968394,
+        -0.6889217563550631,
+        -0.6919161525523274,
+        -0.7129251116752618,
+        -0.6670111749172153,
+        -0.704251038410513,
+        -0.6937534233467055,
+        -0.7012289774268385,
+        -0.28946510083262833,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        78,
+        14,
+        16,
+        1,
+        10,
+        7,
+        13,
+        3,
+        5,
+        12
+      ],
+      "2020-02": [
+        71,
+        23,
+        36,
+        1,
+        6,
+        5,
+        23,
+        12,
+        12,
+        19
+      ],
+      "2020-03": [
+        71,
+        28,
+        30,
+        3,
+        7,
+        9,
+        28,
+        12,
+        7,
+        19
+      ],
+      "2020-04": [
+        83,
+        22,
+        25,
+        3,
+        21,
+        7,
+        22,
+        17,
+        6,
+        14
+      ],
+      "2020-05": [
+        82,
+        34,
+        22,
+        1,
+        15,
+        7,
+        20,
+        7,
+        9,
+        14
+      ],
+      "2020-06": [
+        106,
+        38,
+        36,
+        2,
+        21,
+        7,
+        33,
+        8,
+        15,
+        16
+      ],
+      "2020-07": [
+        91,
+        24,
+        34,
+        1,
+        16,
+        6,
+        22,
+        12,
+        6,
+        20
+      ],
+      "2020-08": [
+        69,
+        37,
+        26,
+        3,
+        15,
+        6,
+        22,
+        14,
+        9,
+        11
+      ],
+      "2020-09": [
+        76,
+        32,
+        29,
+        1,
+        13,
+        6,
+        21,
+        13,
+        7,
+        19
+      ],
+      "2020-10": [
+        87,
+        28,
+        26,
+        1,
+        11,
+        6,
+        21,
+        9,
+        14,
+        15
+      ],
+      "2020-11": [
+        60,
+        32,
+        28,
+        3,
+        3,
+        5,
+        10,
+        3,
+        8,
+        13
+      ],
+      "2020-12": [
+        72,
+        16,
+        22,
+        0,
+        7,
+        10,
+        15,
+        7,
+        6,
+        7
+      ],
+      "2021-01": [
+        60,
+        20,
+        13,
+        0,
+        6,
+        4,
+        16,
+        10,
+        4,
+        10
+      ],
+      "2021-02": [
+        54,
+        21,
+        17,
+        0,
+        9,
+        5,
+        14,
+        8,
+        6,
+        8
+      ],
+      "2021-03": [
+        63,
+        28,
+        28,
+        0,
+        9,
+        6,
+        10,
+        17,
+        7,
+        5
+      ],
+      "2021-04": [
+        66,
+        25,
+        21,
+        0,
+        5,
+        6,
+        12,
+        9,
+        4,
+        14
+      ],
+      "2021-05": [
+        57,
+        15,
+        24,
+        0,
+        6,
+        5,
+        10,
+        8,
+        4,
+        15
+      ],
+      "2021-06": [
+        70,
+        32,
+        24,
+        1,
+        9,
+        8,
+        13,
+        13,
+        3,
+        9
+      ],
+      "2021-07": [
+        91,
+        18,
+        24,
+        0,
+        6,
+        3,
+        11,
+        14,
+        5,
+        12
+      ],
+      "2021-08": [
+        69,
+        18,
+        26,
+        0,
+        4,
+        4,
+        10,
+        7,
+        8,
+        16
+      ],
+      "2021-09": [
+        49,
+        40,
+        22,
+        3,
+        12,
+        7,
+        10,
+        6,
+        7,
+        8
+      ],
+      "2021-10": [
+        79,
+        18,
+        24,
+        2,
+        8,
+        5,
+        14,
+        8,
+        5,
+        12
+      ],
+      "2021-11": [
+        47,
+        25,
+        29,
+        3,
+        13,
+        11,
+        18,
+        7,
+        11,
+        8
+      ],
+      "2021-12": [
+        63,
+        15,
+        25,
+        3,
+        6,
+        10,
+        16,
+        12,
+        6,
+        6
+      ],
+      "2022-01": [
+        61,
+        17,
+        22,
+        0,
+        9,
+        7,
+        18,
+        10,
+        5,
+        13
+      ],
+      "2022-02": [
+        55,
+        19,
+        24,
+        1,
+        7,
+        9,
+        16,
+        16,
+        6,
+        9
+      ],
+      "2022-03": [
+        66,
+        25,
+        34,
+        0,
+        12,
+        11,
+        22,
+        16,
+        9,
+        9
+      ],
+      "2022-04": [
+        52,
+        26,
+        22,
+        2,
+        13,
+        7,
+        19,
+        8,
+        6,
+        9
+      ],
+      "2022-05": [
+        70,
+        27,
+        35,
+        0,
+        3,
+        6,
+        20,
+        15,
+        4,
+        13
+      ],
+      "2022-06": [
+        64,
+        18,
+        28,
+        0,
+        7,
+        6,
+        13,
+        14,
+        4,
+        9
+      ],
+      "2022-07": [
+        61,
+        23,
+        27,
+        2,
+        9,
+        8,
+        10,
+        9,
+        5,
+        13
+      ],
+      "2022-08": [
+        61,
+        28,
+        27,
+        2,
+        1,
+        8,
+        16,
+        3,
+        7,
+        9
+      ],
+      "2022-09": [
+        62,
+        14,
+        24,
+        2,
+        9,
+        4,
+        23,
+        11,
+        5,
+        7
+      ],
+      "2022-10": [
+        49,
+        12,
+        25,
+        0,
+        7,
+        3,
+        15,
+        11,
+        11,
+        15
+      ],
+      "2022-11": [
+        74,
+        32,
+        30,
+        1,
+        4,
+        13,
+        18,
+        9,
+        5,
+        7
+      ],
+      "2022-12": [
+        55,
+        23,
+        34,
+        0,
+        9,
+        6,
+        17,
+        5,
+        5,
+        9
+      ],
+      "2023-01": [
+        52,
+        23,
+        29,
+        2,
+        9,
+        5,
+        17,
+        10,
+        0,
+        11
+      ],
+      "2023-02": [
+        49,
+        25,
+        24,
+        2,
+        5,
+        5,
+        24,
+        8,
+        12,
+        20
+      ],
+      "2023-03": [
+        62,
+        21,
+        29,
+        1,
+        8,
+        6,
+        14,
+        16,
+        2,
+        14
+      ],
+      "2023-04": [
+        46,
+        21,
+        21,
+        1,
+        4,
+        6,
+        12,
+        6,
+        6,
+        10
+      ],
+      "2023-05": [
+        64,
+        31,
+        34,
+        2,
+        9,
+        5,
+        15,
+        12,
+        11,
+        15
+      ],
+      "2023-06": [
+        70,
+        26,
+        25,
+        3,
+        9,
+        9,
+        16,
+        12,
+        7,
+        14
+      ],
+      "2023-07": [
+        63,
+        28,
+        37,
+        3,
+        6,
+        8,
+        19,
+        10,
+        8,
+        15
+      ],
+      "2023-08": [
+        60,
+        21,
+        30,
+        3,
+        9,
+        9,
+        18,
+        10,
+        5,
+        14
+      ],
+      "2023-09": [
+        70,
+        26,
+        20,
+        5,
+        6,
+        10,
+        21,
+        15,
+        3,
+        14
+      ],
+      "2023-10": [
+        50,
+        19,
+        25,
+        1,
+        8,
+        6,
+        15,
+        11,
+        9,
+        17
+      ],
+      "2023-11": [
+        49,
+        27,
+        32,
+        0,
+        14,
+        9,
+        17,
+        5,
+        6,
+        13
+      ],
+      "2023-12": [
+        68,
+        20,
+        29,
+        1,
+        4,
+        6,
+        14,
+        13,
+        10,
+        7
+      ],
+      "2024-01": [
+        58,
+        15,
+        22,
+        0,
+        7,
+        8,
+        21,
+        17,
+        9,
+        15
+      ],
+      "2024-02": [
+        47,
+        23,
+        25,
+        0,
+        6,
+        6,
+        21,
+        9,
+        8,
+        15
+      ],
+      "2024-03": [
+        63,
+        20,
+        29,
+        3,
+        15,
+        10,
+        20,
+        11,
+        8,
+        20
+      ],
+      "2024-04": [
+        59,
+        18,
+        24,
+        1,
+        10,
+        6,
+        14,
+        9,
+        8,
+        12
+      ],
+      "2024-05": [
+        61,
+        24,
+        33,
+        1,
+        11,
+        1,
+        20,
+        16,
+        6,
+        9
+      ],
+      "2024-06": [
+        53,
+        28,
+        36,
+        3,
+        7,
+        6,
+        23,
+        14,
+        6,
+        8
+      ],
+      "2024-07": [
+        69,
+        25,
+        32,
+        1,
+        14,
+        6,
+        17,
+        11,
+        10,
+        12
+      ],
+      "2024-08": [
+        56,
+        24,
+        31,
+        0,
+        19,
+        7,
+        26,
+        10,
+        9,
+        16
+      ],
+      "2024-09": [
+        83,
+        23,
+        31,
+        2,
+        20,
+        6,
+        15,
+        9,
+        6,
+        12
+      ],
+      "2024-10": [
+        104,
+        38,
+        32,
+        2,
+        14,
+        10,
+        19,
+        16,
+        6,
+        15
+      ],
+      "2024-11": [
+        78,
+        35,
+        32,
+        4,
+        13,
+        10,
+        18,
+        9,
+        12,
+        14
+      ],
+      "2024-12": [
+        92,
+        40,
+        34,
+        3,
+        20,
+        12,
+        15,
+        10,
+        10,
+        18
+      ],
+      "2025-01": [
+        92,
+        24,
+        41,
+        1,
+        16,
+        12,
+        16,
+        12,
+        6,
+        23
+      ],
+      "2025-02": [
+        74,
+        22,
+        27,
+        3,
+        17,
+        4,
+        16,
+        17,
+        1,
+        17
+      ],
+      "2025-03": [
+        94,
+        40,
+        36,
+        1,
+        18,
+        13,
+        22,
+        15,
+        9,
+        16
+      ],
+      "2025-04": [
+        85,
+        26,
+        33,
+        0,
+        20,
+        10,
+        13,
+        10,
+        6,
+        14
+      ],
+      "2025-05": [
+        99,
+        36,
+        40,
+        1,
+        24,
+        10,
+        26,
+        13,
+        6,
+        13
+      ],
+      "2025-06": [
+        100,
+        31,
+        43,
+        2,
+        16,
+        11,
+        25,
+        13,
+        10,
+        27
+      ],
+      "2025-07": [
+        91,
+        34,
+        33,
+        1,
+        17,
+        14,
+        18,
+        16,
+        5,
+        18
+      ],
+      "2025-08": [
+        102,
+        28,
+        50,
+        0,
+        13,
+        7,
+        24,
+        9,
+        11,
+        13
+      ],
+      "2025-09": [
+        36,
+        25,
+        14,
+        0,
+        7,
+        5,
+        14,
+        4,
+        6,
+        10
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Adaptive wave-particle decomposition in UGKWP method for high-speed flow simulations",
+          "year": "2023-03",
+          "abstract": "With wave-particle decomposition, a unified gas-kinetic wave-particle (UGKWP)\nmethod has been developed for the multiscale flow simulations. The UGKWP method\ncaptures the transport process in all flow regimes without kinetic solver's\nconstraint on the numerical mesh size and time step being less than the\nparticle mean free path and collision time. In the current UGKWP method, the\ncell's Knudsen number, defined as the ratio of collision time to numerical time\nstep, is used to distribute the components in the wave-particle decomposition.\nHowever, the adaptation of particle in UGKWP is mainly for the capturing of the\nnon-equilibrium transport, and the cell's Knudsen number alone is not enough to\nidentify the non-equilibrium state. For example, in the equilibrium flow regime\nwith a Maxwellian distribution function, even at a large cell's Knudsen number,\nthe flow evolution can be still modelled by the Navier-Stokes solver.\nTherefore, to further improve the efficiency, an adaptive UGKWP (AUGKWP) method\nwill be developed with the introduction of an additional local flow variable\ngradient-dependent Knudsen number. As a result, the wave-particle decomposition\nin UGKWP will be determined by both cell's and gradient's Knudsen numbers, and\nthe particle in UGKWP is solely used to capture the non-equilibrium flow\ntransport. The AUGKWP becomes much more efficient than the previous one with\nthe cell's Knudsen number only in the determination of wave-particle\ncomposition. Many numerical tests, including Sod tube, shock structure, flow\naround a cylinder, flow around a reentry capsule, and an unsteady nozzle plume\nflow, have been conducted to validate the accuracy and efficiency of AUGKWP.\nCompared with the original UGKWP, the AUGKWP achieves the same accuracy but has\nadvantages in memory reduction and computational efficiency in the simulation\nfor the flow with the co-existing of multiple regimes.",
+          "arxiv_id": "2303.13108v2"
+        },
+        {
+          "title": "High order pressure-based semi-implicit IMEX schemes for the 3D Navier-Stokes equations at all Mach numbers",
+          "year": "2020-08",
+          "abstract": "This article aims at developing a high order pressure-based solver for the\nsolution of the 3D compressible Navier-Stokes system at all Mach numbers. We\npropose a cell-centered discretization of the governing equations that splits\nthe fluxes into a fast and a slow scale part, that are treated implicitly and\nexplicitly, respectively. A novel semi-implicit discretization is proposed for\nthe kinetic energy as well as the enthalpy fluxes in the energy equation, hence\navoiding any need of iterative solvers. The implicit discretization yields an\nelliptic equation on the pressure that can be solved for both ideal gas and\ngeneral equation of state (EOS). A nested Newton method is used to solve the\nmildly nonlinear system for the pressure in case of nonlinear EOS. High order\nin time is granted by implicit-explicit (IMEX) time stepping, whereas a novel\nCWENO technique efficiently implemented in a dimension-by-dimension manner is\ndeveloped for achieving high order in space for the discretization of explicit\nconvective and viscous fluxes. A quadrature-free finite volume solver is then\nderived for the high order approximation of numerical fluxes. Central schemes\nwith no dissipation of suitable order of accuracy are finally employed for the\nnumerical approximation of the implicit terms. Consequently, the CFL-type\nstability condition on the maximum admissible time step is based only on the\nfluid velocity and not on the sound speed, so that the novel schemes work\nuniformly for all Mach numbers. Convergence and robustness of the proposed\nmethod are assessed through a wide set of benchmark problems involving low and\nhigh Mach number regimes, as well as inviscid and viscous flows.",
+          "arxiv_id": "2008.01789v1"
+        },
+        {
+          "title": "High-order Compact Gas-kinetic Schemes for Three-dimensional Flow Simulation on Tetrahedral Mesh",
+          "year": "2022-08",
+          "abstract": "A general framework for the development of high-order compact schemes has\nbeen proposed recently. The core steps of the schemes are composed of the\nfollowing. 1). Based on a kinetic model equation, from a generalized initial\ndistribution of flow variables construct a time-accurate evolution solution of\ngas distribution function at a cell interface ; 2). Introduce the WENO-type\nweighting functions into the time-derivative of the cell interface flux\nfunction in the multistage multi-derivative time stepping scheme to cope with\nthe possible impingement of a shock wave on a cell interface within a time\nstep; 3). Take moments of interface gas distribution function to obtain the\ntime-accurate flow variables and the corresponding fluxes at the cell\ninterface, and update the cell-averaged flow variables and their gradients\ninside each control volume; 4). Within the physical domain of dependence of the\nreconstructed cell, based on the cell-averaged flow variables and their\ngradients develop compact initial data reconstruction to get initial flow\ndistributions at the beginning of next time step. A compact gas-kinetic scheme\n(GKS) up to sixth-order accuracy in space and fourth-order in time has been\nconstructed on 2D unstructured mesh before. In this paper, the compact GKS up\nto fourth-order accuracy on 3D tetrahedral mesh will be further constructed\nwith the focus on the WENO-type initial data reconstruction. Nonlinear weights\nare designed to achieve high-order accuracy for the smooth Navier-Stokes\nsolution and keep super robustness in 3D computation with strong shock\ninteractions. The fourth-order compact GKS can use a large time step with CFL\nnumber $0.6$ in the simulations from subsonic to hypersonic flow. A series of\ntest cases are used to validate the scheme. The high-order compact GKS is ready\nfor 3D applications with complex geometry.",
+          "arxiv_id": "2208.11480v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "An Extreme Learning Machine-Based Method for Computational PDEs in Higher Dimensions",
+          "year": "2023-09",
+          "abstract": "We present two effective methods for solving high-dimensional partial\ndifferential equations (PDE) based on randomized neural networks. Motivated by\nthe universal approximation property of this type of networks, both methods\nextend the extreme learning machine (ELM) approach from low to high dimensions.\nWith the first method the unknown solution field in $d$ dimensions is\nrepresented by a randomized feed-forward neural network, in which the\nhidden-layer parameters are randomly assigned and fixed while the output-layer\nparameters are trained. The PDE and the boundary/initial conditions, as well as\nthe continuity conditions (for the local variant of the method), are enforced\non a set of random interior/boundary collocation points. The resultant linear\nor nonlinear algebraic system, through its least squares solution, provides the\ntrained values for the network parameters. With the second method the\nhigh-dimensional PDE problem is reformulated through a constrained expression\nbased on an Approximate variant of the Theory of Functional Connections\n(A-TFC), which avoids the exponential growth in the number of terms of TFC as\nthe dimension increases. The free field function in the A-TFC constrained\nexpression is represented by a randomized neural network and is trained by a\nprocedure analogous to the first method. We present ample numerical simulations\nfor a number of high-dimensional linear/nonlinear stationary/dynamic PDEs to\ndemonstrate their performance. These methods can produce accurate solutions to\nhigh-dimensional PDEs, in particular with their errors reaching levels not far\nfrom the machine accuracy for relatively lower dimensions. Compared with the\nphysics-informed neural network (PINN) method, the current method is both\ncost-effective and more accurate for high-dimensional PDEs.",
+          "arxiv_id": "2309.07049v1"
+        },
+        {
+          "title": "ST-PINN: A Self-Training Physics-Informed Neural Network for Partial Differential Equations",
+          "year": "2023-06",
+          "abstract": "Partial differential equations (PDEs) are an essential computational kernel\nin physics and engineering. With the advance of deep learning, physics-informed\nneural networks (PINNs), as a mesh-free method, have shown great potential for\nfast PDE solving in various applications. To address the issue of low accuracy\nand convergence problems of existing PINNs, we propose a self-training\nphysics-informed neural network, ST-PINN. Specifically, ST-PINN introduces a\npseudo label based self-learning algorithm during training. It employs\ngoverning equation as the pseudo-labeled evaluation index and selects the\nhighest confidence examples from the sample points to attach the pseudo labels.\nTo our best knowledge, we are the first to incorporate a self-training\nmechanism into physics-informed learning. We conduct experiments on five PDE\nproblems in different fields and scenarios. The results demonstrate that the\nproposed method allows the network to learn more physical information and\nbenefit convergence. The ST-PINN outperforms existing physics-informed neural\nnetwork methods and improves the accuracy by a factor of 1.33x-2.54x. The code\nof ST-PINN is available at GitHub: https://github.com/junjun-yan/ST-PINN.",
+          "arxiv_id": "2306.09389v1"
+        },
+        {
+          "title": "SPINN: Sparse, Physics-based, and partially Interpretable Neural Networks for PDEs",
+          "year": "2021-02",
+          "abstract": "We introduce a class of Sparse, Physics-based, and partially Interpretable\nNeural Networks (SPINN) for solving ordinary and partial differential equations\n(PDEs). By reinterpreting a traditional meshless representation of solutions of\nPDEs we develop a class of sparse neural network architectures that are\npartially interpretable. The SPINN model we propose here serves as a seamless\nbridge between two extreme modeling tools for PDEs, namely dense neural network\nbased methods like Physics Informed Neural Networks (PINNs) and traditional\nmesh-free numerical methods, thereby providing a novel means to develop a new\nclass of hybrid algorithms that build on the best of both these viewpoints. A\nunique feature of the SPINN model that distinguishes it from other neural\nnetwork based approximations proposed earlier is that it is (i) interpretable,\nin a particular sense made precise in the work, and (ii) sparse in the sense\nthat it has much fewer connections than typical dense neural networks used for\nPDEs. Further, the SPINN algorithm implicitly encodes mesh adaptivity and is\nable to handle discontinuities in the solutions. In addition, we demonstrate\nthat Fourier series representations can also be expressed as a special class of\nSPINN and propose generalized neural network analogues of Fourier\nrepresentations. We illustrate the utility of the proposed method with a\nvariety of examples involving ordinary differential equations, elliptic,\nparabolic, hyperbolic and nonlinear partial differential equations, and an\nexample in fluid dynamics.",
+          "arxiv_id": "2102.13037v4"
+        }
+      ],
+      "2": [
+        {
+          "title": "Finding Quantum Critical Points with Neural-Network Quantum States",
+          "year": "2020-02",
+          "abstract": "Finding the precise location of quantum critical points is of particular\nimportance to characterise quantum many-body systems at zero temperature.\nHowever, quantum many-body systems are notoriously hard to study because the\ndimension of their Hilbert space increases exponentially with their size.\nRecently, machine learning tools known as neural-network quantum states have\nbeen shown to effectively and efficiently simulate quantum many-body systems.\nWe present an approach to finding the quantum critical points of the quantum\nIsing model using neural-network quantum states, analytically constructed\ninnate restricted Boltzmann machines, transfer learning and unsupervised\nlearning. We validate the approach and evaluate its efficiency and\neffectiveness in comparison with other traditional approaches.",
+          "arxiv_id": "2002.02618v1"
+        },
+        {
+          "title": "Quantum Discrete Variable Representations",
+          "year": "2025-04",
+          "abstract": "We present a fault-tolerant quantum algorithm for implementing the Discrete\nVariable Representation (DVR) transformation, a technique widely used in\nsimulations of quantum-mechanical Hamiltonians. DVR provides a diagonal\nrepresentation of local operators and enables sparse Hamiltonian structures,\nmaking it a powerful alternative to the finite basis representation (FBR),\nparticularly in high-dimensional problems. While DVR has been extensively used\nin classical simulations, its quantum implementation, particularly using\nGaussian quadrature grids, remains underexplored. We develop a quantum circuit\nthat efficiently transforms FBR into DVR by following a recursive construction\nbased on quantum arithmetic operations, and we compare this approach with\nmethods that directly load DVR matrix elements using quantum read-only memory\n(QROM). We analyze the quantum resources, including T-gate and qubit counts,\nrequired for implementing the DVR unitary and discuss preferable choices of\nQROM-based and recursive-based methods for a given matrix size and precision.\nThis study lays the groundwork for utilizing DVR Hamiltonians in quantum\nalgorithms such as quantum phase estimation with block encoding.",
+          "arxiv_id": "2504.15841v1"
+        },
+        {
+          "title": "Quantum Algorithms and Applications for Open Quantum Systems",
+          "year": "2024-06",
+          "abstract": "Accurate models for open quantum systems -- quantum states that have\nnon-trivial interactions with their environment -- may aid in the advancement\nof a diverse array of fields, including quantum computation, informatics, and\nthe prediction of static and dynamic molecular properties. In recent years,\nquantum algorithms have been leveraged for the computation of open quantum\nsystems as the predicted quantum advantage of quantum devices over classical\nones may allow previously inaccessible applications. Accomplishing this goal\nwill require input and expertise from different research perspectives, as well\nas the training of a diverse quantum workforce, making a compilation of current\nquantum methods for treating open quantum systems both useful and timely. In\nthis Review, we first provide a succinct summary of the fundamental theory of\nopen quantum systems and then delve into a discussion on recent quantum\nalgorithms. We conclude with a discussion of pertinent applications,\ndemonstrating the applicability of this field to realistic chemical,\nbiological, and material systems.",
+          "arxiv_id": "2406.05219v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "A flexible framework for large-scale FDTD simulations: open-source inverse design for 3D nanostructures",
+          "year": "2024-12",
+          "abstract": "We introduce an efficient open-source python package for the inverse design\nof three-dimensional photonic nanostructures using the Finite-Difference\nTime-Domain (FDTD) method. Leveraging a flexible reverse-mode automatic\ndifferentiation implementation, our software enables gradient-based\noptimization over large simulation volumes. Gradient computation is implemented\nwithin the JAX framework and based on the property of time reversibility in\nMaxwell's equations. This approach significantly reduces computational time and\nmemory requirements compared to traditional FDTD methods. Gradient-based\noptimization facilitates the automatic creation of intricate three-dimensional\nstructures with millions of design parameters, which would be infeasible to\ndesign manually. We demonstrate the scalability of the solver from single to\nmultiple GPUs through several inverse design examples, highlighting its\nrobustness and performance in large-scale photonic simulations. In addition,\nthe package features an object-oriented and user-friendly API that simplifies\nthe specification of materials, sources, and constraints. Specifically, it\nallows for intuitive positioning and sizing of objects in absolute or relative\ncoordinates within the simulation scene. By rapid specification of the desired\ndesign properties and rapid optimization within the given user constraints,\nthis open-source framework aims to accelerate innovation in photonic inverse\ndesign. It yields a powerful and accessible computational tool for researchers,\napplicable in a wide range of use cases, including but not limited to photonic\nwaveguides, active devices, and photonic integrated circuits.",
+          "arxiv_id": "2412.12360v2"
+        },
+        {
+          "title": "Electromagnetic inverse wave scattering in anisotropic media via reduced order modeling",
+          "year": "2024-03",
+          "abstract": "The inverse wave scattering problem seeks to estimate a heterogeneous,\ninaccessible medium, modeled by unknown variable coefficients in wave\nequations, from transient recordings of waves generated by probing signals. It\nis a widely studied inverse problem with important applications, that is\ntypically formulated as a nonlinear least squares data fit optimization. For\ntypical measurement setups and band-limited probing signals, the least squares\nobjective function has spurious local minima far and near the true solution, so\nNewton-type optimization methods fail. We introduce a different approach, for\nelectromagnetic inverse wave scattering in lossless, anisotropic media. Our\nreduced order model (ROM) is an algebraic, discrete time dynamical system\nderived from Maxwell's equations with four important properties: (1) It is data\ndriven, without knowledge of the medium. (2) The data to ROM mapping is\nnonlinear and yet the ROM can be obtained in a non-iterative fashion. (3) It\nhas a special algebraic structure that captures the causal Wave propagation.\n(4) The ROM interpolates the data on a uniform time grid. We show how to obtain\nfrom the ROM an estimate of the wave field at inaccessible points inside the\nunknown medium. The use of this wave is twofold: First, it defines a\ncomputationally inexpensive imaging function designed to estimate the support\nof reflective structures in the medium, modeled by jump discontinuities of the\nmatrix valued dielectric permittivity. Second, it gives an objective function\nfor quantitative estimation of the dielectric permittivity, that has better\nbehavior than the least squares data fitting objective function. The\nmethodology introduced in this paper applies to Maxwell's equations in three\ndimensions. To avoid high computational costs, we limit the study to a\ncylindrical domain filled with an orthotropic medium, so the problem becomes\ntwo dimensional.",
+          "arxiv_id": "2403.03844v1"
+        },
+        {
+          "title": "Wave propagation and scattering in time dependent media: Lippmann-Schwinger equations, multiple scattering theory, Kirchhoff Helmholtz integrals, Green's functions, reciprocity theorems and Huygens' principle",
+          "year": "2025-04",
+          "abstract": "Wave scattering plays a central role for the modeling of complex wave\npropagation across all corners of science and engineering applications,\nincluding electromagnetic, acoustics, seismic and scattering physics. Wave\ncontrol using time interfaces, where the properties of the medium through with\nthe wave travels rapidly change in time, has opened further opportunities to\ncontrol wave propagation in both space and time. For acoustic waves, studies on\ntime modulated media have not been reported. In this context, full numerical\nsolution of the wave equation using time interfaces is key to fully understand\ntheir potential. When applying time interfaces, the underlying physics of\nacoustic wave propagation and scattering and their similar roles on time and\nspace, are still being explored. In this work, we introduce a mathematical\nformulation of the Lippmann-Schwinger integral equations for acoustic wave\nscattering when time interfaces are induced via a change of the velocity of the\nmedium. We demonstrate that space-time duality for acoustic wave propagation\nwith time interfaces and derive the Lippmann-Schwinger integral equations for\nwave scattering in time-dependent media, multiple scattering theory, Kirchhoff\nHelmholtz integrals, Green's functions, reciprocity theorems. We experimentally\nverify our theoretical derivation by studying and measuring the acoustic wave\nscattering in strongly scattering media. We illustrate the proposed framework\nand present results of acoustic wave scattering without prior knowledge of the\nbackground wave-fields. This improves the understanding of the generation and\nwave scattering and opens previously inaccessible research directions,\npotentially facilitating practical applications for acoustic, geophysical and\noptical imaging.",
+          "arxiv_id": "2504.05704v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Performance Assessment of Universal Machine Learning Interatomic Potentials: Challenges and Directions for Materials' Surfaces",
+          "year": "2024-03",
+          "abstract": "Machine learning interatomic potentials (MLIPs) are one of the main\ntechniques in the materials science toolbox, able to bridge ab initio accuracy\nwith the computational efficiency of classical force fields. This allows\nsimulations ranging from atoms, molecules, and biosystems, to solid and bulk\nmaterials, surfaces, nanomaterials, and their interfaces and complex\ninteractions. A recent class of advanced MLIPs, which use equivariant\nrepresentations and deep graph neural networks, is known as universal models.\nThese models are proposed as foundational models suitable for any system,\ncovering most elements from the periodic table. Current universal MLIPs (UIPs)\nhave been trained with the largest consistent dataset available nowadays.\nHowever, these are composed mostly of bulk materials' DFT calculations. In this\narticle, we assess the universality of all openly available UIPs, namely MACE,\nCHGNet, and M3GNet, in a representative task of generalization: calculation of\nsurface energies. We find that the out-of-the-box foundational models have\nsignificant shortcomings in this task, with errors correlated to the total\nenergy of surface simulations, having an out-of-domain distance from the\ntraining dataset. Our results show that while UIPs are an efficient starting\npoint for fine-tuning specialized models, we envision the potential of\nincreasing the coverage of the materials space towards universal training\ndatasets for MLIPs.",
+          "arxiv_id": "2403.04217v2"
+        },
+        {
+          "title": "Efficient Generation of Stable Linear Machine-Learning Force Fields with Uncertainty-Aware Active Learning",
+          "year": "2023-03",
+          "abstract": "Machine-learning force fields enable an accurate and universal description of\nthe potential energy surface of molecules and materials on the basis of a\ntraining set of ab initio data. However, large-scale applications of these\nmethods rest on the possibility to train accurate machine learning models with\na small number of ab initio data. In this respect, active-learning strategies,\nwhere the training set is self-generated by the model itself, combined with\nlinear machine-learning models are particularly promising. In this work, we\nexplore an active-learning strategy based on linear regression and able to\npredict the model's uncertainty on predictions for molecular configurations not\nsampled by the training set, thus providing a straightforward recipe for the\nextension of the latter. We apply this strategy to the spectral neighbor\nanalysis potential and show that only tens of ab initio simulations of atomic\nforces are required to generate stable force fields for room-temperature\nmolecular dynamics at or close to chemical accuracy. Moreover, the method does\nnot necessitate any conformational pre-sampling, thus requiring minimal user\nintervention and parametrization.",
+          "arxiv_id": "2303.16538v1"
+        },
+        {
+          "title": "Learning Together: Towards foundational models for machine learning interatomic potentials with meta-learning",
+          "year": "2023-07",
+          "abstract": "The development of machine learning models has led to an abundance of\ndatasets containing quantum mechanical (QM) calculations for molecular and\nmaterial systems. However, traditional training methods for machine learning\nmodels are unable to leverage the plethora of data available as they require\nthat each dataset be generated using the same QM method. Taking machine\nlearning interatomic potentials (MLIPs) as an example, we show that\nmeta-learning techniques, a recent advancement from the machine learning\ncommunity, can be used to fit multiple levels of QM theory in the same training\nprocess. Meta-learning changes the training procedure to learn a representation\nthat can be easily re-trained to new tasks with small amounts of data. We then\ndemonstrate that meta-learning enables simultaneously training to multiple\nlarge organic molecule datasets. As a proof of concept, we examine the\nperformance of a MLIP refit to a small drug-like molecule and show that\npre-training potentials to multiple levels of theory with meta-learning\nimproves performance. This difference in performance can be seen both in the\nreduced error and in the improved smoothness of the potential energy surface\nproduced. We therefore show that meta-learning can utilize existing datasets\nwith inconsistent QM levels of theory to produce models that are better at\nspecializing to new datasets. This opens new routes for creating pre-trained,\nfoundational models for interatomic potentials.",
+          "arxiv_id": "2307.04012v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "First principle investigations of the structural, electronic, and phase stability in 2D layered ZnSb",
+          "year": "2021-06",
+          "abstract": "Recently, the two dimensional (2D) materials have become a potential\ncandidates for various technological applications in spintronics and\noptoelectronics. In the present study, the structural, electronic, and phase\nstability of 2D layered ZnSb compounds of four different phases viz.\nwurzite(w), tetragonal (t), hexagonal (h), and orthorhombic (o) have been tuned\nusing the first principle calculations based on density functional theory\n(DFT). We invoked the Perdew-Burke-Ernzerhof (PBE) functional and the projected\naugmented wave (PAW) method during all the calculations. Based on our numerical\nresults, we predicted the novel tetragonal phase as stable phase of ZnSb next\nto existing orthorhombic structure. We reported the pressure induced phase\ntransition between orthorhombic to tetragonal phase at 12.48 GPa/atom. The\nprojected density of states indicates the strong p-d hybridization between\nSb-5p and Zn-3d states confirming the nature of strong covalent bonding between\nthem. The electronic band structures suggest that t-ZnSb, w-ZnSb, and h-ZnSb\nare metallic in nature whereas o-ZnSb is semiconducting with narrow band gap of\n0.03 eV using PBE. We predicted the possibility of extracting the two\ndimensional (2D) monolayer sheet in t-ZnSb and o-ZnSb according to the\nexfoliation energy criterion. In addition, the 2D monolayer (ML) of o-ZnSb has\nbeen predicted to be dynamically stable but that of t-ZnSb is not stable as\nmanifested in phonon dispersion bands. Surprisingly, the semiconducting band\ngap nature of o-ZnSb changes from indirect and narrow to direct and sizable\nwhile going from 3D bulk to 2D ML structure. Further, we estimated the value of\nwork functions for the surfaces of t-ZnSb and o-ZnSb as 4.61 eV and 4.04 eV\nrespectively. Such materials can find the niche applications in next generation\nelectronic devices utilizing 2D hetero-structures.",
+          "arxiv_id": "2106.10757v2"
+        },
+        {
+          "title": "Electronic and Optical Properties of the Recently Synthesized 2D Vivianites (Vivianenes): Insights from First-Principles Calculations",
+          "year": "2025-05",
+          "abstract": "Vivianite (Fe$_3$(PO$_4$)$_2$8H$_2$O) is a naturally occurring layered\nmaterial with significant environmental and technological relevance. This work\npresents a comprehensive theoretical investigation of its two-dimensional (2D)\ncounterpart, Vivianene, focusing on its structural, electronic, and optical\nproperties. Using density functional theory (DFT) calculations and ab initio\nmolecular dynamics (AIMD) simulations, we evaluate its thermodynamic stability,\nband structure, density of states, and optical response. Our results confirm\nthat Vivianene retains the main structural features of bulk Vivianite while\nexhibiting enhanced thermodynamic stability at room temperature. The electronic\nstructure analysis reveals an indirect bandgap of 3.03 eV for Vivianene, which\nis slightly lower than the 3.21 eV observed for bulk Vivianite, deviating from\nthe expected quantum confinement trend in 2D materials. The projected density\nof states (PDOS) analysis indicates that Fe d orbitals predominantly contribute\nto the valence and conduction bands. Optical calculations demonstrate that\nVivianene exhibits a higher optical band gap (3.6 eV) than bulk Vivianite (3.2\neV), with significant absorption in the ultraviolet region. The refractive\nindex and reflectivity analyses suggest that most of the incident light is\nabsorbed rather than reflected, reinforcing its potential for optoelectronic\napplications. These findings provide valuable insights into the fundamental\nproperties of Vivianene and highlight its potential for advanced applications\nin sensing, optoelectronics, and energy-related technologies.",
+          "arxiv_id": "2505.05282v1"
+        },
+        {
+          "title": "Biphenylene monolayer as a two-dimensional nonbenzenoid carbon allotrope: A first-principles study",
+          "year": "2021-05",
+          "abstract": "In a very recent accomplishment, the two-dimensional form of Biphenylene\nnetwork (BPN) has been successfully fabricated [Fan et al., Science, 372,\n852-856 (2021)]. Motivated by this exciting experimental result on 2D layered\nBPN structure, herein we perform detailed density functional theory-based\nfirst-principles calculations, for the first time, in order to gain insight\ninto the structural, electronic and optical properties of this promising\nnanomaterial. Our theoretica results reveal the BPN structure is constructed\nfrom three rings of tetragon, hexagon and octagon, meanwhile the electron\nlocalization function shows very strong bonds between the C atoms in the\nstructure. The dynamical stability of BPN is verified via the phonon band\ndispersion calculations. The mechanical properties reveal the brittle behavior\nof BPN monolayer. The Youngs modulus has been computed as 0.1 TPa, which is\nsmaller than the corresponding value of graphene, while the Poissons ratio\ndetermined to be 0.26 is larger than that of graphene. The band structure is\nevaluated to show the electronic features of the material; determining the BPN\nmonolayer as metallic with a band gap of zero. The optical properties (real and\nimaginary parts of the dielectric function, and the absorption spectrum)\nuncover BPN as an insulator along the zz direction, while owning metallic\nproperties in xx and yy directions. We anticipate that our discoveries will\npave the way to the successful implementation of this new 2D allotrope of\ncarbon in advanced nanoelectronics.",
+          "arxiv_id": "2105.14958v1"
+        }
+      ],
+      "6": [
+        {
+          "title": "Basis-set correction based on density-functional theory: Rigorous framework for a one-dimensional model",
+          "year": "2021-10",
+          "abstract": "We reexamine the recently introduced basis-set correction theory based on\ndensity-functional theory consisting in correcting the basis-set incompleteness\nerror of wave-function methods using a density functional. We use a\none-dimensional model Hamiltonian with delta-potential interactions which has\nthe advantage of making easier to perform a more systematic analysis than for\nthree-dimensional Coulombic systems while keeping the essence of the slow basis\nconvergence problem of wave-function methods. We provide some mathematical\ndetails about the theory and propose a new variant of basis-set correction\nwhich has the advantage of being suited to the development of an adapted\nlocal-density approximation. We show indeed how to develop a local-density\napproximation for the basis-set correction functional which is automatically\nadapted to the basis set employed, without resorting to range-separated\ndensity-functional theory as in previous works, but using instead a finite\nuniform electron gas whose electron-electron interaction is projected on the\nbasis set. The work puts the basis-set correction theory on firmer grounds and\nprovides an interesting strategy for the improvement of this approach.",
+          "arxiv_id": "2110.11629v2"
+        },
+        {
+          "title": "Meta-GGA density functional calculations on atoms with spherically symmetric densities in the finite element formalism",
+          "year": "2023-02",
+          "abstract": "Density functional calculations on atoms are often used for determining\naccurate initial guesses as well as generating various types of pseudopotential\napproximations and efficient atomic-orbital basis sets for polyatomic\ncalculations. To reach the best accuracy for these purposes, the atomic\ncalculations should employ the same density functional as the polyatomic\ncalculation. Atomic density functional calculations are typically carried out\nemploying spherically symmetric densities, corresponding to the use of\nfractional orbital occupations. We have described their implementation for\ndensity functional approximations (DFAs) belonging to the local density\napproximation (LDA) and generalized gradient approximation (GGA) levels of\ntheory as well as Hartree-Fock (HF) and range-separated exact exchange [S.\nLehtola, Phys. Rev. A 2020, 101, 012516]. In this work, we describe the\nextension to meta-GGA functionals using the generalized Kohn-Sham scheme, in\nwhich the energy is minimized with respect to the orbitals, which in turn are\nexpanded in the finite element formalism with high-order numerical basis\nfunctions. Furnished with the new implementation, we continue our recent work\non the numerical well-behavedness of recent meta-GGA functionals [S. Lehtola\nand M. A. L. Marques, J. Chem. Phys. 2022, 157, 174114]. We pursue complete\nbasis set (CBS) limit energies for recent density functionals, and find many to\nbe ill-behaved for the Li and Na atoms. We report basis set truncation errors\n(BSTEs) of some commonly used Gaussian basis sets for these density functionals\nand find the BSTEs to be strongly functional dependent. We also discuss the\nimportance of density thresholding in DFAs and find that all of the functionals\nstudied in this work yield total energies converged to $0.1\\ \\mu E_{h}$ when\ndensities smaller than $10^{-11}a_{0}^{-3}$ are screened out.",
+          "arxiv_id": "2302.06284v4"
+        },
+        {
+          "title": "Basis-set correction based on density-functional theory: Linear-response formalism for excited-state energies",
+          "year": "2023-05",
+          "abstract": "The basis-set correction method based on density-functional theory consists\nin correcting the energy calculated by a wave-function method with a given\nbasis set by a density functional. This basis-set correction density functional\nincorporates the short-range electron correlation effects missing in the basis\nset. This results in accelerated basis convergences of ground-state energies to\nthe complete-basis-set limit. In this work, we extend the basis-set correction\nmethod to a linear-response formalism for calculating excited-state energies.\nWe give the general linear-response equations, as well as the more specific\nequations for configuration-interaction wave functions. As a proof of concept,\nwe apply this approach to the calculations of excited-state energies in a\none-dimensional two-electron model system with harmonic potential and a\nDirac-delta electron-electron interaction. The results obtained with\nfull-configuration-interaction wave functions expanded in a basis of Hermite\nfunctions and a local-density-approximation basis-set correction functional\nshow that the present approach does not help in accelerating the basis\nconvergence of excitation energies. However, we show that it significantly\naccelerates basis convergences of excited-state total energies.",
+          "arxiv_id": "2305.17093v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "REST-for-Physics, a ROOT-based framework for event oriented data analysis and combined Monte Carlo response",
+          "year": "2021-09",
+          "abstract": "The REST-for-Physics (Rare Event Searches Toolkit for Physics) framework is a\nROOT-based solution providing the means to process and analyze experimental or\nMonte Carlo event data. Special care has been taken on the traceability of the\ncode and the validation of the results produced within the framework, together\nwith the connectivity between code and data stored registered through specific\nversion metadata members.\n  The framework development was originally motivated to cover the needs at Rare\nEvent Searches experiments (experiments looking for phenomena having extremely\nlow occurrence probability like dark matter or neutrino interactions or rare\nnuclear decays), and its components naturally implement tools to address the\nchallenges in these kinds of experiments; the integration of a detector physics\nresponse, the implementation of signal processing routines, or topological\nalgorithms for physical event identification are some examples. Despite this\nspecialization, the framework was conceived thinking in scalability, and other\nevent-oriented applications could benefit from the data processing routines\nand/or metadata description implemented in REST, being the generic framework\ntools completely decoupled from dedicated libraries.\n  REST-for-Physics is a consolidated piece of software already serving the\nneeds of different physics experiments - using gaseous Time Projection Chambers\n(TPCs) as detection technology - for background data analysis and detector\ncharacterization, as well as generic detector R\\&D. Even though REST has been\nexploited mainly with gaseous TPCs, the code could be easily applied or adapted\nto other detection technologies. We present in this work an overview of\nREST-for-Physics, providing a broad perspective to the infrastructure and\norganization of the project as a whole. The framework and its different\ncomponents will be described in the text.",
+          "arxiv_id": "2109.05863v2"
+        },
+        {
+          "title": "MadFlow: automating Monte Carlo simulation on GPU for particle physics processes",
+          "year": "2021-06",
+          "abstract": "We present MadFlow, a first general multi-purpose framework for Monte Carlo\n(MC) event simulation of particle physics processes designed to take full\nadvantage of hardware accelerators, in particular, graphics processing units\n(GPUs). The automation process of generating all the required components for MC\nsimulation of a generic physics process and its deployment on hardware\naccelerator is still a big challenge nowadays. In order to solve this\nchallenge, we design a workflow and code library which provides to the user the\npossibility to simulate custom processes through the MadGraph5_aMC@NLO\nframework and a plugin for the generation and exporting of specialized code in\na GPU-like format. The exported code includes analytic expressions for matrix\nelements and phase space. The simulation is performed using the VegasFlow and\nPDFFlow libraries which deploy automatically the full simulation on systems\nwith different hardware acceleration capabilities, such as multi-threading CPU,\nsingle-GPU and multi-GPU setups. The package also provides an asynchronous\nunweighted events procedure to store simulation results. Crucially, although\nonly Leading Order is automatized, the library provides all ingredients\nnecessary to build full complex Monte Carlo simulators in a modern, extensible\nand maintainable way. We show simulation results at leading-order for multiple\nprocesses on different hardware configurations.",
+          "arxiv_id": "2106.10279v1"
+        },
+        {
+          "title": "Improvement of Geant4 Neutron-HP package: from methodology to evaluated nuclear data library",
+          "year": "2021-09",
+          "abstract": "An accurate description of interactions between thermal neutrons (below 4 eV)\nand materials is key to simulate the transport of neutrons in a wide range of\napplications such as criticality-safety, reactor physics, compact\naccelerator-driven neutron sources, radiological shielding or nuclear\ninstrumentation, just to name a few. While the Monte Carlo transport code\nGeant4 was initially developed to simulate particle physics experiments, %-with\na large emphasis given on modeled cross-sections for all known particles at all\nconceivable energies-, its use has spread to neutronics applications, requiring\nevaluated cross-sections for neutrons and gammas between $0$ and $20$ MeV (the\nso-called neutron High Precision -HP- package), as well as a proper offline or\non-the-flight treatment of these cross-sections. In this paper we will point\nout limitations affecting Geant4 (version 10.07.p01) thermal neutron treatment\nand associated nuclear data libraries, by using comparisons with the reference\nMonte Carlo neutron transport code \\tripoli, version 11, and we will present\nthe results of various modifications of the Geant4 neutron-HP package, required\nto overcome these limitations. Also, in order to broaden the support of nuclear\ndata libraries compatible with Geant4, a nuclear processing tool has been\ndeveloped and validated allowing the use of the code together with ENDF-BVIII.0\nand JEFF-3.3 libraries for example. These changes should be taken into account\nin an upcoming Geant4 release.",
+          "arxiv_id": "2109.05967v2"
+        }
+      ],
+      "8": [
+        {
+          "title": "Active interaction switching controls the dynamic heterogeneity of soft colloidal dispersions",
+          "year": "2021-12",
+          "abstract": "We employ Reactive Dynamical Density Functional Theory (R-DDFT) and Reactive\nBrownian Dynamics (R-BD) simulations to investigate the dynamics of a\nsuspension of active soft Gaussian colloids with binary interaction switching,\ni.e., a one-component colloidal system in which every particle stochastically\nswitches at predefined rates between two interaction states with different\nmobility. Using R-DDFT we extend a theory previously developed to access the\ndynamics of inhomogeneous liquids to study the influence of the switching\nactivity on the self and distinct part of the Van Hove function in bulk\nsolution, and determine the corresponding mean squared displacement of the\nswitching particles. Our results demonstrate that, even though the average\ndiffusion coefficient is not affected by the switching activity, it\nsignificantly modifies the non-equilibrium dynamics and diffusion coefficients\nof the individual particles, leading to a crossover from short to long times,\nwith a regime for intermediate times showing anomalous diffusion. In addition,\nthe self-part of the van Hove function has a Gaussian form at short and long\ntimes, but becomes non-Gaussian at intermediates ones, having a crossover\nbetween short and large displacements. The corresponding self-intermediate\nscattering function shows the two-step relaxation patters typically observed in\nsoft materials with heterogeneous dynamics such as glasses and gels. We also\nintroduce a phenomenological Continuous Time Random Walk (CTRW) theory to\nunderstand the heterogeneous diffusion of this system. R-DDFT results are in\nexcellent agreement with R-BD simulations and the analytical predictions of\nCTRW theory, thus confirming that R-DDFT constitutes a powerful method to\ninvestigate not only the structure and phase behavior, but also the dynamical\nproperties of non-equilibrium active switching colloidal suspensions.",
+          "arxiv_id": "2112.01191v1"
+        },
+        {
+          "title": "Collective dynamics and pair-distribution function of active Brownian ellipsoids",
+          "year": "2023-07",
+          "abstract": "While the collective dynamics of spherical active Brownian particles is\nrelatively well understood by now, the much more complex dynamics of\nnonspherical active particles still raises interesting open questions. Previous\nwork has shown that the dynamics of rod-like or ellipsoidal active particles\ncan differ significantly from that of spherical ones. Here, we obtain the full\nstate diagram of active Brownian ellipsoids depending on the P\\'eclet number\nand packing density via computer simulations. The system is found to exhibit a\nrich state behavior that includes cluster formation, local polar order, polar\nflocks, and disordered states. Moreover, we obtain numerical results and an\nanalytical representation for the pair-distribution function of active\nellipsoids. This function provides useful quantitative insights into the\ncollective behavior of active particles with lower symmetry and has potential\napplications in the development of predictive theoretical models.",
+          "arxiv_id": "2307.15535v1"
+        },
+        {
+          "title": "GCMe: Efficient implementation of the Gaussian core model with smeared electrostatic interactions for molecular dynamics simulations of soft matter systems",
+          "year": "2024-03",
+          "abstract": "In recent years, molecular dynamics (MD) simulations have emerged as a\npivotal tool for understanding the structure, dynamics, and phase behavior in\ncharged soft matter systems. To explore phenomena across greater length and\ntime scales in MD simulations, molecules are often coarse-grained for better\ncomputational performance. However, commonly-used force fields represent\nparticles as hard-core interaction centers with point charges, which often\noveremphasizes the packing effect and short-range electrostatics, especially in\nsystems with bulky deformable organic molecules and systems with strong\ncoarse-graining. This underscores the need for an efficient soft-core model to\nphysically capture the effective interactions between coarse-grained particles.\nTo this end, we implement a soft-core model uniting the Gaussian core model\nwith smeared electrostatic interactions that is phenomenologically equivalent\nto recent theoretical models. We first parameterize it generically using water\nas the model solvent. Then, we benchmark its performance in the OpenMM toolkit\nfor different boundary conditions to highlight a computational speedup of up to\n$34\\times$ compared to commonly used force fields and existing implementations.\nFinally, we demonstrate its utility by investigating how boundary\npolarizability affects the adsorption behavior of a polyelectrolyte solution on\nperfectly conducting and nonmetal electrodes.",
+          "arxiv_id": "2403.08148v2"
+        }
+      ],
+      "9": [
+        {
+          "title": "Boosting the Conformational Sampling by Combining Replica Exchange with Solute Tempering and Well-Sliced Metadynamics",
+          "year": "2021-08",
+          "abstract": "Methods that combine collective variable (CV) based enhanced sampling and\nglobal tempering approaches are used in speeding-up the conformational sampling\nand free energy calculation of large and soft systems with a plethora of energy\nminima. In this paper, a new method of this kind is proposed in which the\nwell-sliced metadynamics approach (WSMTD) is united with Replica Exchange with\nSolute Tempering (REST2) method. WSMTD employs a divide-and-conquer strategy\nwherein high-dimensional slices of a free energy surface are independently\nsampled and combined. The method enables one to accomplish a controlled\nexploration of the CV-space with a restraining bias as in umbrella sampling\n(US), and enhance-sampling of one or more orthogonal CVs using a metadynamics\n(MTD) like bias. The new hybrid method proposed here enables boosting the\nsampling of more slow degrees of freedom in WSMTD simulations, without the need\nto specify associated CVs, through a replica exchange scheme within the\nframework of REST2. The high-dimensional slices of the probability\ndistributions of CVs computed from the united WSMTD and REST2 simulations are\nsubsequently combined using the weighted histogram analysis method (WHAM) to\nobtain the free energy surface. We show that the new method proposed here is\naccurate, improves the conformational sampling, and achieves quick convergence\nin free energy estimates. We demonstrate this by computing the conformational\nfree energy landscapes of solvated alanine tripeptide and Trp-cage mini protein\nin explicit water.",
+          "arxiv_id": "2108.13641v1"
+        },
+        {
+          "title": "Multiscale reweighted stochastic embedding (MRSE): Deep learning of collective variables for enhanced sampling",
+          "year": "2020-07",
+          "abstract": "Machine learning methods provide a general framework for automatically\nfinding and representing the essential characteristics of simulation data. This\ntask is particularly crucial in enhanced sampling simulations. There we seek a\nfew generalized degrees of freedom, referred to as collective variables (CVs),\nto represent and drive the sampling of the free energy landscape. In theory,\nthese CVs should separate different metastable states and correspond to the\nslow degrees of freedom of the studied physical process. To this aim, we\npropose a new method that we call multiscale reweighted stochastic embedding\n(MRSE). Our work builds upon a parametric version of stochastic neighbor\nembedding. The technique automatically learns CVs that map a high-dimensional\nfeature space to a low-dimensional latent space via a deep neural network. We\nintroduce several new advancements to stochastic neighbor embedding methods\nthat make MRSE especially suitable for enhanced sampling simulations: (1)\nweight-tempered random sampling as a landmark selection scheme to obtain\ntraining data sets that strike a balance between equilibrium representation and\ncapturing important metastable states lying higher in free energy; (2) a\nmultiscale representation of the high-dimensional feature space via a Gaussian\nmixture probability model; and (3) a reweighting procedure to account for\ntraining data from a biased probability distribution. We show that MRSE\nconstructs low-dimensional CVs that can correctly characterize the different\nmetastable states in three model systems: the M\\\"uller-Brown potential, alanine\ndipeptide, and alanine tetrapeptide.",
+          "arxiv_id": "2007.06377v4"
+        },
+        {
+          "title": "A Sinking Approach to Explore Arbitrary Areas in Free Energy Landscapes",
+          "year": "2024-11",
+          "abstract": "To address the time-scale limitations in molecular dynamics (MD) simulations,\nnumerous enhanced sampling methods have been developed to expedite the\nexploration of complex free energy landscapes. A commonly employed approach\naccelerates the sampling of degrees of freedom associated with pre-defined\ncollective variables (CVs), which typically tends to traverse the entire CV\nrange. However, in many scenarios, the focus of interest is on specific regions\nwithin the CV space. This paper introduces a novel \"sinking\" approach that\nenables enhanced sampling of arbitrary areas within the CV space. We begin by\nproposing a gridded convolutional approximation that productively replicates\nthe effects of metadynamics, a powerful CV-based enhanced sampling technique.\nBuilding on this, we present the SinkMeta method, which \"sinks\" the interior\nbias potential to create restraining potential \"cliffs\" at the grid edges. This\ntechnique can confine the exploration of CVs in MD simulations to a preset\narea. Our experimental results demonstrate that SinkMeta requires minimal\nsampling steps to estimate the free energy landscape for CV subspaces of\nvarious shapes and dimensions, including irregular two-dimensional regions and\none-dimensional pathways between metastable states. We believe that SinkMeta\nwill pioneer a new paradigm for sampling partial phase spaces, especially\noffering an efficient and flexible solution for sampling minimum free energy\npaths in high-dimensional spaces.",
+          "arxiv_id": "2411.09385v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:01:31Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

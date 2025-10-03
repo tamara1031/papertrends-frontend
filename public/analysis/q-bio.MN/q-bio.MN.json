@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_reaction_networks_chemical_reaction networks",
+        "keywords": [
+          [
+            "reaction",
+            0.048837537722347335
+          ],
+          [
+            "networks",
+            0.035720676713902236
+          ],
+          [
+            "chemical",
+            0.033760310480722304
+          ],
+          [
+            "reaction networks",
+            0.029311134956679856
+          ],
+          [
+            "systems",
+            0.027160533662465472
+          ],
+          [
+            "network",
+            0.021278028757332226
+          ],
+          [
+            "species",
+            0.0199107388247038
+          ],
+          [
+            "chemical reaction",
+            0.01986576005725605
+          ],
+          [
+            "reactions",
+            0.01745260546169188
+          ],
+          [
+            "stochastic",
+            0.01563482667641547
+          ]
+        ],
+        "count": 278
+      },
+      "1": {
+        "name": "1_network_protein_drug_genes",
+        "keywords": [
+          [
+            "network",
+            0.027131068658605383
+          ],
+          [
+            "protein",
+            0.025180884012355593
+          ],
+          [
+            "drug",
+            0.024651806000322265
+          ],
+          [
+            "genes",
+            0.022155725048667228
+          ],
+          [
+            "graph",
+            0.021900488366357725
+          ],
+          [
+            "networks",
+            0.021773140616393658
+          ],
+          [
+            "data",
+            0.021675801648626886
+          ],
+          [
+            "interactions",
+            0.01832179624235338
+          ],
+          [
+            "disease",
+            0.018230949846271934
+          ],
+          [
+            "drugs",
+            0.017956451434948107
+          ]
+        ],
+        "count": 259
+      },
+      "2": {
+        "name": "2_cell_gene_model_expression",
+        "keywords": [
+          [
+            "cell",
+            0.03191252286135267
+          ],
+          [
+            "gene",
+            0.03012605040343037
+          ],
+          [
+            "model",
+            0.021399851317741633
+          ],
+          [
+            "expression",
+            0.02120531632024895
+          ],
+          [
+            "noise",
+            0.01962255078028173
+          ],
+          [
+            "models",
+            0.019428884216488446
+          ],
+          [
+            "cells",
+            0.018320634437892943
+          ],
+          [
+            "dynamics",
+            0.017762669499125763
+          ],
+          [
+            "network",
+            0.01678681563451884
+          ],
+          [
+            "regulatory",
+            0.016487812666088994
+          ]
+        ],
+        "count": 183
+      },
+      "3": {
+        "name": "3_Boolean_networks_control_Boolean networks",
+        "keywords": [
+          [
+            "Boolean",
+            0.08243633570452986
+          ],
+          [
+            "networks",
+            0.05008105061106783
+          ],
+          [
+            "control",
+            0.039953988710303895
+          ],
+          [
+            "Boolean networks",
+            0.03791652339786669
+          ],
+          [
+            "biological",
+            0.03496389148764941
+          ],
+          [
+            "network",
+            0.03391485686302259
+          ],
+          [
+            "attractors",
+            0.03200074016831318
+          ],
+          [
+            "dynamics",
+            0.030674956543363337
+          ],
+          [
+            "dynamical",
+            0.02714759257991456
+          ],
+          [
+            "model",
+            0.02632684252621972
+          ]
+        ],
+        "count": 58
+      },
+      "4": {
+        "name": "4_gene_data_cell_expression",
+        "keywords": [
+          [
+            "gene",
+            0.06390381243133007
+          ],
+          [
+            "data",
+            0.05554378653639569
+          ],
+          [
+            "cell",
+            0.04495399613237055
+          ],
+          [
+            "expression",
+            0.03444993762993731
+          ],
+          [
+            "inference",
+            0.03313062355421552
+          ],
+          [
+            "regulatory",
+            0.03291662169953685
+          ],
+          [
+            "gene expression",
+            0.02940751766947252
+          ],
+          [
+            "GRNs",
+            0.028843071343964702
+          ],
+          [
+            "GRN",
+            0.028575574360464165
+          ],
+          [
+            "single",
+            0.027366530345280873
+          ]
+        ],
+        "count": 44
+      },
+      "5": {
+        "name": "5_metabolic_scale_network_model",
+        "keywords": [
+          [
+            "metabolic",
+            0.0843464504884382
+          ],
+          [
+            "scale",
+            0.028205822102691493
+          ],
+          [
+            "network",
+            0.0242073022921619
+          ],
+          [
+            "model",
+            0.02405277287902251
+          ],
+          [
+            "metabolites",
+            0.021615104370852418
+          ],
+          [
+            "genome",
+            0.020870187717507052
+          ],
+          [
+            "pathways",
+            0.020425449246408517
+          ],
+          [
+            "Metabolic",
+            0.019234281849320193
+          ],
+          [
+            "analysis",
+            0.018730268851329054
+          ],
+          [
+            "metabolic networks",
+            0.01820244320651306
+          ]
+        ],
+        "count": 39
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6129509165666103,
+        -0.6495028846502169,
+        -0.4423759627863179,
+        -0.6533968231539007,
+        -0.698610262175483
+      ],
+      [
+        -0.6129509165666103,
+        1.0,
+        -0.6385164836789675,
+        -0.47266807903078883,
+        -0.5642659569150417,
+        -0.7345800281454964
+      ],
+      [
+        -0.6495028846502169,
+        -0.6385164836789675,
+        1.0,
+        -0.5715094982921323,
+        0.01714313116225963,
+        -0.7168666789323495
+      ],
+      [
+        -0.4423759627863179,
+        -0.47266807903078883,
+        -0.5715094982921323,
+        1.0,
+        -0.5312180338627851,
+        -0.7171183495652098
+      ],
+      [
+        -0.6533968231539007,
+        -0.5642659569150417,
+        0.01714313116225963,
+        -0.5312180338627851,
+        1.0,
+        -0.7047960338282189
+      ],
+      [
+        -0.698610262175483,
+        -0.7345800281454964,
+        -0.7168666789323495,
+        -0.7171183495652098,
+        -0.7047960338282189,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        8,
+        4,
+        3,
+        1,
+        3,
+        1
+      ],
+      "2020-02": [
+        6,
+        2,
+        1,
+        3,
+        5,
+        1
+      ],
+      "2020-03": [
+        12,
+        4,
+        0,
+        1,
+        7,
+        1
+      ],
+      "2020-04": [
+        5,
+        6,
+        0,
+        0,
+        2,
+        0
+      ],
+      "2020-05": [
+        10,
+        3,
+        1,
+        1,
+        10,
+        0
+      ],
+      "2020-06": [
+        5,
+        10,
+        0,
+        2,
+        3,
+        1
+      ],
+      "2020-07": [
+        6,
+        7,
+        0,
+        0,
+        3,
+        1
+      ],
+      "2020-08": [
+        4,
+        2,
+        0,
+        2,
+        5,
+        0
+      ],
+      "2020-09": [
+        9,
+        3,
+        0,
+        4,
+        6,
+        1
+      ],
+      "2020-10": [
+        7,
+        6,
+        0,
+        2,
+        2,
+        2
+      ],
+      "2020-11": [
+        2,
+        1,
+        0,
+        2,
+        5,
+        1
+      ],
+      "2020-12": [
+        6,
+        4,
+        0,
+        1,
+        8,
+        2
+      ],
+      "2021-01": [
+        2,
+        0,
+        0,
+        2,
+        7,
+        2
+      ],
+      "2021-02": [
+        9,
+        0,
+        0,
+        0,
+        4,
+        1
+      ],
+      "2021-03": [
+        6,
+        1,
+        0,
+        1,
+        3,
+        1
+      ],
+      "2021-04": [
+        8,
+        4,
+        0,
+        2,
+        5,
+        1
+      ],
+      "2021-05": [
+        11,
+        4,
+        0,
+        0,
+        2,
+        1
+      ],
+      "2021-06": [
+        8,
+        4,
+        0,
+        3,
+        6,
+        1
+      ],
+      "2021-07": [
+        7,
+        6,
+        1,
+        3,
+        4,
+        0
+      ],
+      "2021-08": [
+        2,
+        1,
+        1,
+        4,
+        2,
+        0
+      ],
+      "2021-09": [
+        6,
+        2,
+        0,
+        4,
+        6,
+        0
+      ],
+      "2021-10": [
+        6,
+        0,
+        0,
+        5,
+        6,
+        0
+      ],
+      "2021-11": [
+        4,
+        0,
+        0,
+        1,
+        3,
+        0
+      ],
+      "2021-12": [
+        2,
+        0,
+        0,
+        2,
+        4,
+        1
+      ],
+      "2022-01": [
+        6,
+        1,
+        0,
+        2,
+        2,
+        1
+      ],
+      "2022-02": [
+        6,
+        0,
+        1,
+        2,
+        2,
+        1
+      ],
+      "2022-03": [
+        7,
+        3,
+        0,
+        3,
+        3,
+        1
+      ],
+      "2022-04": [
+        5,
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "2022-05": [
+        7,
+        2,
+        0,
+        1,
+        5,
+        0
+      ],
+      "2022-06": [
+        7,
+        2,
+        1,
+        2,
+        3,
+        0
+      ],
+      "2022-07": [
+        2,
+        3,
+        0,
+        4,
+        2,
+        0
+      ],
+      "2022-08": [
+        5,
+        5,
+        0,
+        0,
+        4,
+        1
+      ],
+      "2022-09": [
+        6,
+        4,
+        1,
+        1,
+        3,
+        0
+      ],
+      "2022-10": [
+        4,
+        1,
+        0,
+        2,
+        2,
+        2
+      ],
+      "2022-11": [
+        6,
+        1,
+        0,
+        1,
+        4,
+        1
+      ],
+      "2022-12": [
+        7,
+        4,
+        0,
+        1,
+        2,
+        0
+      ],
+      "2023-01": [
+        9,
+        1,
+        0,
+        6,
+        4,
+        0
+      ],
+      "2023-02": [
+        7,
+        2,
+        0,
+        4,
+        6,
+        0
+      ],
+      "2023-03": [
+        5,
+        1,
+        0,
+        2,
+        3,
+        4
+      ],
+      "2023-04": [
+        7,
+        2,
+        1,
+        0,
+        4,
+        3
+      ],
+      "2023-05": [
+        5,
+        3,
+        0,
+        1,
+        4,
+        2
+      ],
+      "2023-06": [
+        5,
+        1,
+        0,
+        2,
+        3,
+        1
+      ],
+      "2023-07": [
+        7,
+        1,
+        0,
+        1,
+        3,
+        0
+      ],
+      "2023-08": [
+        8,
+        4,
+        0,
+        0,
+        7,
+        4
+      ],
+      "2023-09": [
+        9,
+        1,
+        0,
+        1,
+        7,
+        1
+      ],
+      "2023-10": [
+        6,
+        3,
+        0,
+        3,
+        2,
+        1
+      ],
+      "2023-11": [
+        7,
+        2,
+        0,
+        1,
+        3,
+        0
+      ],
+      "2023-12": [
+        2,
+        3,
+        1,
+        4,
+        7,
+        0
+      ],
+      "2024-01": [
+        10,
+        2,
+        3,
+        2,
+        5,
+        2
+      ],
+      "2024-02": [
+        7,
+        1,
+        1,
+        3,
+        2,
+        1
+      ],
+      "2024-03": [
+        7,
+        4,
+        0,
+        2,
+        5,
+        2
+      ],
+      "2024-04": [
+        5,
+        0,
+        0,
+        1,
+        3,
+        1
+      ],
+      "2024-05": [
+        9,
+        3,
+        0,
+        6,
+        3,
+        2
+      ],
+      "2024-06": [
+        7,
+        0,
+        1,
+        1,
+        2,
+        1
+      ],
+      "2024-07": [
+        5,
+        0,
+        2,
+        3,
+        1,
+        0
+      ],
+      "2024-08": [
+        4,
+        1,
+        1,
+        2,
+        8,
+        1
+      ],
+      "2024-09": [
+        11,
+        2,
+        1,
+        2,
+        4,
+        1
+      ],
+      "2024-10": [
+        7,
+        2,
+        0,
+        3,
+        5,
+        3
+      ],
+      "2024-11": [
+        5,
+        1,
+        1,
+        0,
+        5,
+        1
+      ],
+      "2024-12": [
+        6,
+        1,
+        0,
+        1,
+        3,
+        1
+      ],
+      "2025-01": [
+        3,
+        2,
+        1,
+        4,
+        5,
+        1
+      ],
+      "2025-02": [
+        7,
+        1,
+        1,
+        3,
+        3,
+        1
+      ],
+      "2025-03": [
+        10,
+        2,
+        1,
+        1,
+        4,
+        2
+      ],
+      "2025-04": [
+        6,
+        2,
+        1,
+        1,
+        3,
+        0
+      ],
+      "2025-05": [
+        8,
+        1,
+        0,
+        3,
+        8,
+        1
+      ],
+      "2025-06": [
+        9,
+        1,
+        1,
+        6,
+        7,
+        3
+      ],
+      "2025-07": [
+        14,
+        3,
+        0,
+        0,
+        5,
+        1
+      ],
+      "2025-08": [
+        7,
+        2,
+        0,
+        1,
+        8,
+        1
+      ],
+      "2025-09": [
+        2,
+        2,
+        1,
+        3,
+        2,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Critical parameters for singular perturbation reductions of chemical reaction networks",
+          "year": "2021-09",
+          "abstract": "We are concerned with polynomial ordinary differential systems that arise\nfrom modelling chemical reaction networks. For such systems, which may be of\nhigh dimension and may depend on many parameters, it is frequently of interest\nto obtain a reduction of dimension in certain parameter ranges. Singular\nperturbation theory, as initiated by Tikhonov and Fenichel, provides a path\ntoward such reductions. In the present paper we discuss parameter values that\nlead to singular perturbation reductions (so-called Tikhonov-Fenichel parameter\nvalues, or TFPVs). An algorithmic approach is known, but it is feasible for\nsmall dimensions only. Here we characterize conditions for classes of reaction\nnetworks for which TFPVs arise by turning off reactions (by setting rate\nparameters to zero), or by removing certain species (which relates to the\nclassical quasi-steady state approach to model reduction). In particular, we\nobtain definitive results for the class of complex balanced reaction networks\n(of deficiency zero) and first order reaction networks.",
+          "arxiv_id": "2109.02948v1"
+        },
+        {
+          "title": "Structural reduction of chemical reaction networks based on topology",
+          "year": "2021-02",
+          "abstract": "We develop a model-independent reduction method of chemical reaction systems\nbased on the stoichiometry, which determines their network topology. A\nsubnetwork can be eliminated systematically to give a reduced system with fewer\ndegrees of freedom. This subnetwork removal is accompanied by rewiring of the\nnetwork, which is prescribed by the Schur complement of the stoichiometric\nmatrix. Using homology and cohomology groups to characterize the topology of\nchemical reaction networks, we can track the changes of the network topology\ninduced by the reduction through the changes in those groups. We prove that,\nwhen certain topological conditions are met, the steady-state chemical\nconcentrations and reaction rates of the reduced system are ensured to be the\nsame as those of the original system. This result holds regardless of the\nmodeling of the reactions, namely chemical kinetics, since the conditions only\ninvolve topological information. This is advantageous because the details of\nreaction kinetics and parameter values are difficult to identify in many\npractical situations. The method allows us to reduce a reaction network while\npreserving its original steady-state properties, thereby complex reaction\nsystems can be studied efficiently. We demonstrate the reduction method in\nhypothetical networks and the central carbon metabolism of Escherichia coli.",
+          "arxiv_id": "2102.07687v2"
+        },
+        {
+          "title": "Curvature-Induced Saturation in Catalytic Reaction Networks: A Differential Geometrical Framework for Modeling Chemical Complexity",
+          "year": "2025-04",
+          "abstract": "The evolution of chemical reaction networks is often analyzed through kinetic\nmodels and energy landscapes, but these approaches fail to capture the deeper\nstructural constraints governing complexity growth. In chemical reaction\nnetworks, emergent constraints dictate the organization of reaction pathways,\nlimiting combinatorial expansion and determining stability conditions. This\npaper introduces a novel approach to modeling chemical reaction networks by\nincorporating differential geometry into the classical framework of reaction\nkinetics. By utilizing the Riemannian metric, Christoffel symbols, and a\nsystem-specific entropy-like term, we provide a new method for understanding\nthe evolution of complex reaction systems. The approach captures the\ninterdependence between species, the curvature of the reaction network's\nconfiguration space, and the tendency of the system to evolve toward more\nprobable states. The interaction topology constrains the accessible reaction\ntrajectories and the introduced differential geometrical approach allows\nanalysis of curvature constraints which help us to understand pathway\nsaturation and transition dynamics. Rather than treating reaction space as an\nunconstrained combinatorial landscape, we frame it as a structured manifold\nwith higher order curvature describing a geodesic for system evolution under\nintrinsic constraints. This geometrical perspective offers a unique insight\ninto pathway saturation, self-interruption, and emergent behavior in reaction\nnetworks, and provides a scalable framework for modeling large biochemical or\ncatalytic systems.",
+          "arxiv_id": "2504.14700v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Predicting potential drug targets and repurposable drugs for COVID-19 via a deep generative model for graphs",
+          "year": "2020-07",
+          "abstract": "Coronavirus Disease 2019 (COVID-19) has been creating a worldwide pandemic\nsituation. Repurposing drugs, already shown to be free of harmful side effects,\nfor the treatment of COVID-19 patients is an important option in launching\nnovel therapeutic strategies. Therefore, reliable molecule interaction data are\na crucial basis, where drug-/protein-protein interaction networks establish\ninvaluable, year-long carefully curated data resources. However, these\nresources have not yet been systematically exploited using high-performance\nartificial intelligence approaches. Here, we combine three networks, two of\nwhich are year-long curated, and one of which, on SARS-CoV-2-human host-virus\nprotein interactions, was published only most recently (30th of April 2020),\nraising a novel network that puts drugs, human and virus proteins into mutual\ncontext. We apply Variational Graph AutoEncoders (VGAEs), representing most\nadvanced deep learning based methodology for the analysis of data that are\nsubject to network constraints. Reliable simulations confirm that we operate at\nutmost accuracy in terms of predicting missing links. We then predict hitherto\nunknown links between drugs and human proteins against which virus proteins\npreferably bind. The corresponding therapeutic agents present splendid starting\npoints for exploring novel host-directed therapy (HDT) options.",
+          "arxiv_id": "2007.02338v1"
+        },
+        {
+          "title": "SAveRUNNER: a network-based algorithm for drug repurposing and its application to COVID-19",
+          "year": "2020-06",
+          "abstract": "The novelty of new human coronavirus COVID-19/SARS-CoV-2 and the lack of\neffective drugs and vaccines gave rise to a wide variety of strategies employed\nto fight this worldwide pandemic. Many of these strategies rely on the\nrepositioning of existing drugs that could shorten the time and reduce the cost\ncompared to de novo drug discovery. In this study, we presented a new\nnetwork-based algorithm for drug repositioning, called SAveRUNNER (Searching\noff-lAbel dRUg aNd NEtwoRk), which predicts drug-disease associations by\nquantifying the interplay between the drug targets and the disease-specific\nproteins in the human interactome via a novel network-based similarity measure\nthat prioritizes associations between drugs and diseases locating in the same\nnetwork neighborhoods. Specifically, we applied SAveRUNNER on a panel of 14\nselected diseases with a consolidated knowledge about their disease-causing\ngenes and that have been found to be related to COVID-19 for genetic\nsimilarity, comorbidity, or for their association to drugs tentatively\nrepurposed to treat COVID-19. Focusing specifically on SARS subnetwork, we\nidentified 282 repurposable drugs, including some the most rumored off-label\ndrugs for COVID-19 treatments, as well as a new combination therapy of 5 drugs,\nactually used in clinical practice. Furthermore, to maximize the efficiency of\nputative downstream validation experiments, we prioritized 24 potential\nanti-SARS-CoV repurposable drugs based on their network-based similarity\nvalues. These top-ranked drugs include ACE-inhibitors, monoclonal antibodies,\nand thrombin inhibitors. Finally, our findings were in-silico validated by\nperforming a gene set enrichment analysis, which confirmed that most of the\nnetwork-predicted repurposable drugs may have a potential treatment effect\nagainst human coronavirus infections.",
+          "arxiv_id": "2006.03110v3"
+        },
+        {
+          "title": "Dr-COVID: Graph Neural Networks for SARS-CoV-2 Drug Repurposing",
+          "year": "2020-12",
+          "abstract": "The 2019 novel coronavirus (SARS-CoV-2) pandemic has resulted in more than a\nmillion deaths, high morbidities, and economic distress worldwide. There is an\nurgent need to identify medications that would treat and prevent novel diseases\nlike the 2019 coronavirus disease (COVID-19). Drug repurposing is a promising\nstrategy to discover new medical indications of the existing approved drugs due\nto several advantages in terms of the costs, safety factors, and quick results\ncompared to new drug design and discovery. In this work, we explore\ncomputational data-driven methods for drug repurposing and propose a dedicated\ngraph neural network (GNN) based drug repurposing model, called Dr-COVID.\nAlthough we analyze the predicted drugs in detail for COVID-19, the model is\ngeneric and can be used for any novel diseases. We construct a four-layered\nheterogeneous graph to model the complex interactions between drugs, diseases,\ngenes, and anatomies. We pose drug repurposing as a link prediction problem.\nSpecifically, we design an encoder based on the scalable inceptive graph neural\nnetwork (SIGN) to generate embeddings for all the nodes in the four-layered\ngraph and propose a quadratic norm scorer as a decoder to predict treatment for\na disease. We provide a detailed analysis of the 150 potential drugs (such as\nDexamethasone, Ivermectin) predicted by Dr-COVID for COVID-19 from different\npharmacological classes (e.g., corticosteroids, antivirals, antiparasitic). Out\nof these 150 drugs, 46 drugs are currently in clinical trials. Dr-COVID is\nevaluated in terms of its prediction performance and its ability to rank the\nknown treatment drugs for diseases as high as possible. For a majority of the\ndiseases, Dr-COVID ranks the actual treatment drug in the top 15.",
+          "arxiv_id": "2012.02151v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Incorporating stochastic gene expression, signaling-mediated intercellular interactions, and regulated cell proliferation in models of coordinated tissue development",
+          "year": "2025-01",
+          "abstract": "Formulating quantitative and predictive models for tissue development\nrequires consideration of the complex, stochastic gene expression dynamics, its\nregulation via cell-to-cell interactions, and cell proliferation. Including all\nof these processes into a practical mathematical framework requires complex\nexpressions that are difficult to interpret and apply. We construct a simple\ntheory that incorporates intracellular stochastic gene expression dynamics,\nsignaling chemicals that influence these dynamics and mediate cell-cell\ninteractions, and cell proliferation and its accompanying differentiation.\nCellular states (genetic and epigenetic) are described by a Waddington vector\nfield that allows for non-gradient dynamics (cycles, entropy production, loss\nof detailed balance) which is precluded in Waddington potential landscape\nrepresentations of gene expression dynamics. We define an epigenetic fitness\nlandscape that describes the proliferation of different cell types, and\nelucidate how this fitness landscape is related to Waddington's vector field.\nWe illustrate the applicability of our framework by analyzing two model\nsystems: an interacting two-gene differentiation process and a spatiotemporal\norganism model inspired by planaria.",
+          "arxiv_id": "2501.11271v1"
+        },
+        {
+          "title": "Effect of transcription reinitiation in stochastic gene expression",
+          "year": "2020-09",
+          "abstract": "Gene expression (GE) is an inherently random or stochastic or noisy process.\nThe randomness in different steps of GE, e.g., transcription, translation,\ndegradation, etc., leading to cell-to-cell variations in mRNA and protein\nlevels. This variation appears in organisms ranging from microbes to metazoans.\nStochastic gene expression has important consequences for cellular function.\nThe random fluctuations in protein levels produce variability in cellular\nbehavior. It is beneficial in some contexts and harmful to others. These\nsituations include stress response, metabolism, development, cell cycle,\ncircadian rhythms, and aging. Different model studies e.g., constitutive,\ntwo-state, etc., reveal that the fluctuations in mRNA and protein levels arise\nfrom different steps of gene expression among which the steps in transcription\nhave the maximum effect. The pulsatile mRNA production through RNAP-II based\nreinitiation of transcription is an important part of gene transcription.\nThough, the effect of that process on mRNA and protein levels is very little\nknown. The addition of any biochemical step in the constitutive or two-state\nprocess generally decreases the mean and increases the Fano factor. In this\nstudy, we have shown that the RNAP-II based reinitiation process in gene\ntranscription can have different effects on both mean and Fano factor at mRNA\nlevels in different model systems. It decreases the mean and Fano factor both\nat the mRNA levels in the constitutive network whereas in other networks it can\nsimultaneously increase or decrease both quantities or it can have mixed-effect\nat mRNA levels. We propose that a constitutive network with reinitiation\nbehaves like a product independent negative feedback circuit whereas other\nnetworks behave as either product independent positive or negative or mixed\nfeedback circuit.",
+          "arxiv_id": "2009.02443v2"
+        },
+        {
+          "title": "Quantifying the noise in bursty gene expression under regulation by small RNAs",
+          "year": "2021-10",
+          "abstract": "Gene expression is a fundamental process in a living system. The small RNAs\n(sRNAs) is widely observed as a global regulator in gene expression. The\ninherent nonlinearity in this regulatory process together with the bursty\nproduction of messenger RNA (mRNA), sRNA and protein make the exact solution\nfor this stochastic process intractable. This is particularly the case when\nquantifying the protein noise level, which has great impact on multiple\ncellular processes. Here we propose an approximate yet reasonably accurate\nsolution for the gene expression noise with infrequent burst and strong\nregulation by sRNAs. This analytical solution allows us to better analyze the\nnoise and stochastic deviation of protein level. We find that the regulation\namplifies the noise, reduces the protein level. The stochasticity in the\nregulation generates more proteins than what if the stochasticity is removed\nfrom the system. The sRNA level is most important to the relationship between\nthe noise and stochastic deviation. The results provide analytical tools for\nmore general studies of gene expression and strengthen our quantitative\nunderstandings of post-transcriptional regulation in controlling gene\nexpression processes.",
+          "arxiv_id": "2110.04801v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "An open problem: Why are motif-avoidant attractors so rare in asynchronous Boolean networks?",
+          "year": "2024-10",
+          "abstract": "Asynchronous Boolean networks are a type of discrete dynamical system in\nwhich each variable can take one of two states, and a single variable state is\nupdated in each time step according to pre-selected rules. Boolean networks are\npopular in systems biology due to their ability to model long-term biological\nphenotypes within a qualitative, predictive framework. Boolean networks model\nphenotypes as attractors, which are closely linked to minimal trap spaces\n(inescapable hypercubes in the system's state space). In biological\napplications, attractors and minimal trap spaces are typically in one-to-one\ncorrespondence. However, this correspondence is not guaranteed: motif-avoidant\nattractors (MAAs) that lie outside minimal trap spaces are possible.\n  MAAs are rare and (despite recent efforts) poorly understood. Here we\nsummarize the current state of knowledge regarding MAAs and present several\nnovel observations regarding their response to node deletion reductions and\nlinear extensions of edges. We conduct large-scale computational studies on an\nensemble of 14,000 models derived from published Boolean models of biological\nsystems, and more than 100 million Random Boolean Networks. Our findings\nquantify the rarity of MAAs (in particular, we found no MAAs in the biological\nmodels), but highlight the role of network reduction in introducing MAAs into\nthe dynamics. We also show that MAAs are fragile to linear extensions: in\nsparse networks, even a single linear node can disrupt virtually all MAAs.\nMotivated by this observation, we improve the upper bound on the number of\ndelays needed to disrupt a motif-avoidant attractor.",
+          "arxiv_id": "2410.03976v1"
+        },
+        {
+          "title": "BoolForge: Random Generation and Analysis of Boolean Functions and Networks in Python",
+          "year": "2025-09",
+          "abstract": "Boolean networks are a powerful and popular modeling framework in systems\nbiology, enabling the study of complex processes underlying gene regulation,\nsignal transduction, and cellular decision-making. Most biological networks\nexhibit a high degree of canalization, a property of the Boolean update rules\nthat stabilizes network dynamics. Despite its importance, existing software\npackages provide hardly any support for generating Boolean networks with\ndefined canalization properties.\n  We present BoolForge, a Python toolbox for the analysis and random generation\nof Boolean functions and networks, with a particular focus on canalization.\nBoolForge allows users to (i) generate random Boolean functions with specified\ncanalizing depth, layer structure, or other structural constraints; (ii)\nconstruct random Boolean networks with tunable topological and functional\nproperties; and (iii) compute structural and dynamical features including\nnetwork attractors, robustness, and modularity. BoolForge enables researchers\nto rapidly prototype biological Boolean network models, explore the\nrelationship between structure and dynamics, and generate ensembles of networks\nfor statistical analysis. It is lightweight, adaptable, and fully compatible\nwith existing Boolean network analysis tools.\n  BoolForge is implemented in Python (version3.8+), with no platform-specific\ndependencies. The software is distributed under the MIT License and will be\nmaintained for at least two years following publication. Source code,\ndocumentation, and tutorial notebooks are freely available at:\nhttps://github.com/ckadelka/BoolForge. BoolForge can be installed via pip\ninstall git+https://github.com/ckadelka/BoolForge.",
+          "arxiv_id": "2509.02496v1"
+        },
+        {
+          "title": "Stability of Linear Boolean Networks",
+          "year": "2022-09",
+          "abstract": "Stability is an important characteristic of network models that has\nimplications for other desirable aspects such as controllability. The stability\nof a Boolean network depends on various factors, such as the topology of its\nwiring diagram and the type of the functions describing its dynamics. In this\npaper, we study the stability of linear Boolean networks by computing Derrida\ncurves and quantifying the number of attractors and cycle lengths imposed by\ntheir network topologies. Derrida curves are commonly used to measure the\nstability of Boolean networks and several parameters such as the average\nin-degree K and the output bias p can indicate if a network is stable,\ncritical, or unstable. For random unbiased Boolean networks there is a critical\nconnectivity value Kc=2 such that if K<Kc networks operate in the ordered\nregime, and if K>Kc networks operate in the chaotic regime. Here, we show that\nfor linear networks, which are the least canalizing and most unstable, the\nphase transition from order to chaos already happens at an average in-degree of\nKc=1. Consistently, we also show that unstable networks exhibit a large number\nof attractors with very long limit cycles while stable and critical networks\nexhibit fewer attractors with shorter limit cycles. Additionally, we present\ntheoretical results to quantify important dynamical properties of linear\nnetworks. First, we present a formula for the proportion of attractor states in\nlinear systems. Second, we show that the expected number of fixed points in\nlinear systems is 2, while general Boolean networks possess on average one\nfixed point. Third, we present a formula to quantify the number of bijective\nlinear Boolean networks and provide a lower bound for the percentage of this\ntype of network.",
+          "arxiv_id": "2209.02044v2"
+        }
+      ],
+      "4": [
+        {
+          "title": "Simultaneously Infer Cell Pseudotime,Velocity Field and Gene Interaction from Multi-Branch scRNA-seq Data with scPN",
+          "year": "2024-10",
+          "abstract": "Modeling cellular dynamics from single-cell RNA sequencing (scRNA-seq) data\nis critical for understanding cell development and underlying gene regulatory\nrelationships. Many current methods rely on single-cell velocity to obtain\npseudotime, which can lead to inconsistencies between pseudotime and velocity.\nIt is challenging to simultaneously infer cell pseudotime and gene interaction\nnetworks, especially in multi-branch differentiation scenarios. We present\nsingle-cell Piecewise Network (scPN), a novel high-dimensional dynamical\nmodeling approach that iteratively extracts temporal patterns and inter-gene\nrelationships from scRNA-seq data. To tackle multi-branch differentiation\nchallenges, scPN models gene regulatory dynamics using piecewise gene-gene\ninteraction networks, offering an interpretable framework for deciphering\ncomplex gene regulation patterns over time. Results on synthetic data and\nmultiple scRNA-seq datasets demonstrate the superior performance of scPN in\nreconstructing cellular dynamics and identifying key transcription factors\ninvolved in development compared to existing methods. To the best of our\nknowledge, scPN is the first attempt at modeling that can recover pseudotime,\nvelocity fields, and gene interactions all at once on multi-branch datasets.",
+          "arxiv_id": "2410.18394v1"
+        },
+        {
+          "title": "A Novel Graph Transformer Framework for Gene Regulatory Network Inference",
+          "year": "2025-04",
+          "abstract": "The inference of gene regulatory networks (GRNs) is a foundational stride\ntowards deciphering the fundamentals of complex biological systems. Inferring a\npossible regulatory link between two genes can be formulated as a link\nprediction problem. Inference of GRNs via gene coexpression profiling data may\nnot always reflect true biological interactions, as its susceptibility to noise\nand misrepresenting true biological regulatory relationships. Most GRN\ninference methods face several challenges in the network reconstruction phase.\nTherefore, it is important to encode gene expression values, leverege the prior\nknowledge gained from the available inferred network structures and positional\ninformations of the input network nodes towards inferring a better and more\nconfident GRN network reconstruction. In this paper, we explore the integration\nof multiple inferred networks to enhance the inference of Gene Regulatory\nNetworks (GRNs). Primarily, we employ autoencoder embeddings to capture gene\nexpression patterns directly from raw data, preserving intricate biological\nsignals. Then, we embed the prior knowledge from GRN structures transforming\nthem into a text-like representation using random walks, which are then encoded\nwith a masked language model, BERT, to generate global embeddings for each gene\nacross all networks. Additionally, we embed the positional encodings of the\ninput gene networks to better identify the position of each unique gene within\nthe graph. These embeddings are integrated into graph transformer-based model,\ntermed GT-GRN, for GRN inference. The GT-GRN model effectively utilizes the\ntopological structure of the ground truth network while incorporating the\nenriched encoded information. Experimental results demonstrate that GT-GRN\nsignificantly outperforms existing GRN inference methods, achieving superior\naccuracy and highlighting the robustness of our approach.",
+          "arxiv_id": "2504.16961v1"
+        },
+        {
+          "title": "Single-cell gene regulatory network analysis for mixed cell populations with applications to COVID-19 single cell data",
+          "year": "2022-05",
+          "abstract": "Gene regulatory network (GRN) refers to the complex network formed by\nregulatory interactions between genes in living cells. In this paper, we\nconsider inferring GRNs in single cells based on single cell RNA sequencing\n(scRNA-seq) data. In scRNA-seq, single cells are often profiled from mixed\npopulations and their cell identities are unknown. A common practice for single\ncell GRN analysis is to first cluster the cells and infer GRNs for every\ncluster separately. However, this two-step procedure ignores uncertainty in the\nclustering step and thus could lead to inaccurate estimation of the networks.\nTo address this problem, we propose to model scRNA-seq by the mixture\nmultivariate Poisson log-normal (MPLN) distribution. The precision matrices of\nthe MPLN are the GRNs of different cell types and can be jointly estimated by\nmaximizing MPLN's lasso-penalized log-likelihood. We show that the MPLN model\nis identifiable and the resulting penalized log-likelihood estimator is\nconsistent. To avoid the intractable optimization of the MPLN's log-likelihood,\nwe develop an algorithm called VMPLN based on the variational inference method.\nComprehensive simulation and real scRNA-seq data analyses reveal that VMPLN\nperforms better than the state-of-the-art single cell GRN methods.",
+          "arxiv_id": "2205.11274v1"
+        }
+      ],
+      "5": [
+        {
+          "title": "Geometric algorithms for sampling the flux space of metabolic networks",
+          "year": "2020-12",
+          "abstract": "Systems Biology is a fundamental field and paradigm that introduces a new era\nin Biology. The crux of its functionality and usefulness relies on metabolic\nnetworks that model the reactions occurring inside an organism and provide the\nmeans to understand the underlying mechanisms that govern biological systems.\nEven more, metabolic networks have a broader impact that ranges from resolution\nof ecosystems to personalized medicine.The analysis of metabolic networks is a\ncomputational geometry oriented field as one of the main operations they depend\non is sampling uniformly points from polytopes; the latter provides a\nrepresentation of the steady states of the metabolic networks. However, the\npolytopes that result from biological data are of very high dimension (to the\norder of thousands) and in most, if not all, the cases are considerably skinny.\nTherefore, to perform uniform random sampling efficiently in this setting, we\nneed a novel algorithmic and computational framework specially tailored for the\nproperties of metabolic networks.We present a complete software framework to\nhandle sampling in metabolic networks. Its backbone is a Multiphase Monte Carlo\nSampling (MMCS) algorithm that unifies rounding and sampling in one pass,\nobtaining both upon termination. It exploits an improved variant of the\nBilliard Walk that enjoys faster arithmetic complexity per step. We demonstrate\nthe efficiency of our approach by performing extensive experiments on various\nmetabolic networks. Notably, sampling on the most complicated human metabolic\nnetwork accessible today, Recon3D, corresponding to a polytope of dimension 5\n335 took less than 30 hours. To our knowledge, that is out of reach for\nexisting software.",
+          "arxiv_id": "2012.05503v2"
+        },
+        {
+          "title": "Boolean matrix logic programming for active learning of gene functions in genome-scale metabolic network models",
+          "year": "2024-05",
+          "abstract": "Reasoning about hypotheses and updating knowledge through empirical\nobservations are central to scientific discovery. In this work, we applied\nlogic-based machine learning methods to drive biological discovery by guiding\nexperimentation. Genome-scale metabolic network models (GEMs) - comprehensive\nrepresentations of metabolic genes and reactions - are widely used to evaluate\ngenetic engineering of biological systems. However, GEMs often fail to\naccurately predict the behaviour of genetically engineered cells, primarily due\nto incomplete annotations of gene interactions. The task of learning the\nintricate genetic interactions within GEMs presents computational and empirical\nchallenges. To efficiently predict using GEM, we describe a novel approach\ncalled Boolean Matrix Logic Programming (BMLP) by leveraging Boolean matrices\nto evaluate large logic programs. We developed a new system, $BMLP_{active}$,\nwhich guides cost-effective experimentation and uses interpretable logic\nprograms to encode a state-of-the-art GEM of a model bacterial organism.\nNotably, $BMLP_{active}$ successfully learned the interaction between a gene\npair with fewer training examples than random experimentation, overcoming the\nincrease in experimental design space. $BMLP_{active}$ enables rapid\noptimisation of metabolic models to reliably engineer biological systems for\nproducing useful compounds. It offers a realistic approach to creating a\nself-driving lab for biological discovery, which would then facilitate\nmicrobial engineering for practical applications.",
+          "arxiv_id": "2405.06724v4"
+        },
+        {
+          "title": "A compact model of Escherichia coli core and biosynthetic metabolism",
+          "year": "2024-06",
+          "abstract": "Metabolic models condense biochemical knowledge about organisms in a\nstructured and standardised way. As large-scale network reconstructions are\nreadily available for many organisms, genome-scale models are being widely used\namong modellers and engineers. However, these large models can be difficult to\nanalyse and visualise and occasionally generate predictions that are hard to\ninterpret or even biologically unrealistic. Of the thousands of enzymatic\nreactions in a typical bacterial metabolism, only a few hundred form the\nmetabolic pathways essential to produce energy carriers and biosynthetic\nprecursors. These pathways carry relatively high flux, are central to\nmaintaining and reproducing the cell, and provide precursors and energy to\nengineered metabolic pathways. Focusing on these central metabolic subsystems,\nwe present iCH360, a manually curated medium-scale model of energy and\nbiosynthesis metabolism for the well-studied bacterium Escherichia coli K-12\nMG1655. The model is a sub-network of the most recent genome-scale\nreconstruction, iML1515, and comes with an updated layer of database\nannotations and with a range of metabolic maps for visualisation. We enriched\nthe stoichiometric network with extensive biological information and\nquantitative data, enhancing the scope and applicability of the model. In\naddition, we assess the properties of this model in comparison to its\ngenome-scale parent and demonstrate the use of the network and supporting data\nin various scenarios, including enzyme-constrained flux balance analysis,\nelementary flux mode analysis, and thermodynamic analysis. Overall, we believe\nthis model holds the potential to become a reference medium-scale metabolic\nmodel for E. coli.",
+          "arxiv_id": "2406.16596v4"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:04:13Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

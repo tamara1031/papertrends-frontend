@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_model_models_method",
+        "keywords": [
+          [
+            "data",
+            0.0419398647318561
+          ],
+          [
+            "model",
+            0.03260076832718295
+          ],
+          [
+            "models",
+            0.02419113014567135
+          ],
+          [
+            "method",
+            0.022657583714240745
+          ],
+          [
+            "methods",
+            0.02187408399358295
+          ],
+          [
+            "approach",
+            0.018504479537788693
+          ],
+          [
+            "time",
+            0.017794186100400657
+          ],
+          [
+            "estimation",
+            0.017062778366732288
+          ],
+          [
+            "analysis",
+            0.01673206699591772
+          ],
+          [
+            "Bayesian",
+            0.01518999900168024
+          ]
+        ],
+        "count": 19077
+      },
+      "1": {
+        "name": "1_privacy_data_private_differential privacy",
+        "keywords": [
+          [
+            "privacy",
+            0.08563969603760437
+          ],
+          [
+            "data",
+            0.052657443026707905
+          ],
+          [
+            "private",
+            0.038757977563996564
+          ],
+          [
+            "differential privacy",
+            0.02870398284746475
+          ],
+          [
+            "differential",
+            0.023639420576449306
+          ],
+          [
+            "DP",
+            0.020426695556164567
+          ],
+          [
+            "federated",
+            0.01763904793533603
+          ],
+          [
+            "statistical",
+            0.016659874271613802
+          ],
+          [
+            "Privacy",
+            0.014271993172931654
+          ],
+          [
+            "Private",
+            0.013266492576610365
+          ]
+        ],
+        "count": 229
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.20775686613037508
+      ],
+      [
+        -0.20775686613037508,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        139,
+        10
+      ],
+      "2020-02": [
+        181,
+        37
+      ],
+      "2020-03": [
+        174,
+        26
+      ],
+      "2020-04": [
+        210,
+        19
+      ],
+      "2020-05": [
+        224,
+        27
+      ],
+      "2020-06": [
+        258,
+        31
+      ],
+      "2020-07": [
+        259,
+        27
+      ],
+      "2020-08": [
+        201,
+        25
+      ],
+      "2020-09": [
+        178,
+        28
+      ],
+      "2020-10": [
+        227,
+        27
+      ],
+      "2020-11": [
+        226,
+        35
+      ],
+      "2020-12": [
+        226,
+        22
+      ],
+      "2021-01": [
+        190,
+        19
+      ],
+      "2021-02": [
+        199,
+        29
+      ],
+      "2021-03": [
+        246,
+        28
+      ],
+      "2021-04": [
+        222,
+        26
+      ],
+      "2021-05": [
+        222,
+        37
+      ],
+      "2021-06": [
+        253,
+        42
+      ],
+      "2021-07": [
+        234,
+        30
+      ],
+      "2021-08": [
+        178,
+        23
+      ],
+      "2021-09": [
+        210,
+        31
+      ],
+      "2021-10": [
+        249,
+        40
+      ],
+      "2021-11": [
+        214,
+        24
+      ],
+      "2021-12": [
+        226,
+        34
+      ],
+      "2022-01": [
+        190,
+        32
+      ],
+      "2022-02": [
+        229,
+        29
+      ],
+      "2022-03": [
+        259,
+        36
+      ],
+      "2022-04": [
+        176,
+        32
+      ],
+      "2022-05": [
+        212,
+        50
+      ],
+      "2022-06": [
+        278,
+        48
+      ],
+      "2022-07": [
+        224,
+        31
+      ],
+      "2022-08": [
+        256,
+        30
+      ],
+      "2022-09": [
+        243,
+        31
+      ],
+      "2022-10": [
+        269,
+        42
+      ],
+      "2022-11": [
+        242,
+        47
+      ],
+      "2022-12": [
+        216,
+        33
+      ],
+      "2023-01": [
+        218,
+        40
+      ],
+      "2023-02": [
+        240,
+        47
+      ],
+      "2023-03": [
+        237,
+        35
+      ],
+      "2023-04": [
+        222,
+        22
+      ],
+      "2023-05": [
+        282,
+        31
+      ],
+      "2023-06": [
+        311,
+        47
+      ],
+      "2023-07": [
+        233,
+        33
+      ],
+      "2023-08": [
+        196,
+        33
+      ],
+      "2023-09": [
+        266,
+        29
+      ],
+      "2023-10": [
+        274,
+        50
+      ],
+      "2023-11": [
+        264,
+        50
+      ],
+      "2023-12": [
+        277,
+        38
+      ],
+      "2024-01": [
+        289,
+        53
+      ],
+      "2024-02": [
+        286,
+        41
+      ],
+      "2024-03": [
+        275,
+        38
+      ],
+      "2024-04": [
+        256,
+        38
+      ],
+      "2024-05": [
+        291,
+        51
+      ],
+      "2024-06": [
+        285,
+        49
+      ],
+      "2024-07": [
+        291,
+        28
+      ],
+      "2024-08": [
+        221,
+        34
+      ],
+      "2024-09": [
+        250,
+        48
+      ],
+      "2024-10": [
+        355,
+        64
+      ],
+      "2024-11": [
+        280,
+        32
+      ],
+      "2024-12": [
+        260,
+        36
+      ],
+      "2025-01": [
+        264,
+        38
+      ],
+      "2025-02": [
+        291,
+        55
+      ],
+      "2025-03": [
+        284,
+        55
+      ],
+      "2025-04": [
+        300,
+        37
+      ],
+      "2025-05": [
+        333,
+        49
+      ],
+      "2025-06": [
+        324,
+        50
+      ],
+      "2025-07": [
+        338,
+        61
+      ],
+      "2025-08": [
+        280,
+        37
+      ],
+      "2025-09": [
+        187,
+        15
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Estimation of a score-explained non-randomized treatment effect in fixed and high dimensions",
+          "year": "2021-02",
+          "abstract": "Non-randomized treatment effect models are widely used for the assessment of\ntreatment effects in various fields and in particular social science\ndisciplines like political science, psychometry, psychology. More specifically,\nthese are situations where treatment is assigned to an individual based on some\nof their characteristics (e.g. scholarship is allocated based on merit or\nantihypertensive treatments are allocated based on blood pressure level)\ninstead of being allocated randomly, as is the case, for example, in randomized\nclinical trials. Popular methods that have been largely employed till date for\nestimation of such treatment effects suffer from slow rates of convergence\n(i.e. slower than $\\sqrt{n}$). In this paper, we present a new model coined\nSCENTS: Score Explained Non-Randomized Treatment Systems, and a corresponding\nmethod that allows estimation of the treatment effect at $\\sqrt{n}$ rate in the\npresence of fairly general forms of confoundedness, when the `score' variable\non whose basis treatment is assigned can be explained via certain feature\nmeasurements of the individuals under study. We show that our estimator is\nasymptotically normal in general and semi-parametrically efficient under normal\nerrors. We further extend our analysis to high dimensional covariates and\npropose a $\\sqrt n$ consistent and asymptotically normal estimator based on a\nde-biasing procedure. Our analysis for the high dimensional incarnation can be\nreadily extended to analyze partial linear models in the presence of noisy\nvariables corresponding to the non-linear part of the model, where the noise\ncan be correlated with the variables corresponding to the linear part. We\nanalyze two real datasets via our method and compare our results with those\nobtained by using previous approaches. We conclude this paper with a discussion\non some possible extensions of our approach.",
+          "arxiv_id": "2102.11229v4"
+        },
+        {
+          "title": "Regularized Estimation in High-Dimensional Vector Auto-Regressive Models using Spatio-Temporal Information",
+          "year": "2020-12",
+          "abstract": "A Vector Auto-Regressive (VAR) model is commonly used to model multivariate\ntime series, and there are many penalized methods to handle high\ndimensionality. However in terms of spatio-temporal data, most methods do not\ntake the spatial and temporal structure of the data into consideration, which\nmay lead to unreliable network detection and inaccurate forecasts. This paper\nproposes a data-driven weighted l1 regularized approach for spatio-temporal VAR\nmodel. Extensive simulation studies are carried out to compare the proposed\nmethod with four existing methods of high-dimensional VAR model, demonstrating\nimprovements of our method over others in parameter estimation, network\ndetection and out-of-sample forecasts. We also apply our method on a traffic\ndata set to evaluate its performance in real application. In addition, we\nexplore the theoretical properties of l1 regularized estimation of VAR model\nunder the weakly sparse scenario, in which the exact sparsity can be viewed as\na special case. To the best of our knowledge, this direction has not been\nconsidered yet in the literature. For general stationary VAR process, we derive\nthe non-asymptotic upper bounds on l1 regularized estimation errors under the\nweakly sparse scenario, provide the conditions of estimation consistency, and\nfurther simplify these conditions for a special VAR(1) case.",
+          "arxiv_id": "2012.10030v1"
+        },
+        {
+          "title": "Goodness of Fit for Bayesian Generative Models with Applications in Population Genetics",
+          "year": "2025-01",
+          "abstract": "In population genetics and other application fields, models with intractable\nlikelihood are common. Approximate Bayesian Computation (ABC) or more generally\nSimulation-Based Inference (SBI) methods work by simulating instrumental data\nsets from the models under study and comparing them with the observed data set,\nusing advanced machine learning tools for tasks such as model selection and\nparameter inference. The present work focuses on model criticism, and more\nspecifically on Goodness of fit (GoF) tests, for intractable likelihood models.\nWe introduce two new GoF tests: the pre-inference \\gof tests whether the\nobserved dataset is distributed from the prior predictive distribution, while\nthe post-inference GoF tests whether there is a parameter value such that the\nobserved dataset is distributed from the likelihood with that value. The\npre-inference test can be used to prune a large set of models using a limited\namount of simulations, while the post-inference test is used to assess the fit\nof a selected model. Both tests are based on the Local Outlier Factor (LOF,\nBreunig et al., 2000). This indicator was initially defined for outlier and\nnovelty detection. It is able to quantify local density deviations, capturing\nsubtleties that a more traditional k-NN-based approach may miss. We evaluated\nthe performance of our two GoF tests on simulated datasets from three different\nmodel settings of varying complexity. We then illustrate the utility of these\napproaches on a dataset of single nucleotide polymorphism (SNP) markers for the\nevaluation of complex evolutionary scenarios of modern human populations. Our\ndual-test GoF approach highlights the flexibility of our method: the\npre-inference \\gof test provides insight into model validity from a Bayesian\nperspective, while the post-inference test provides a more general and\ntraditional view of assessing goodness of fit",
+          "arxiv_id": "2501.17107v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Optimal estimation in private distributed functional data analysis",
+          "year": "2024-12",
+          "abstract": "We systematically investigate the preservation of differential privacy in\nfunctional data analysis, beginning with functional mean estimation and\nextending to varying coefficient model estimation. Our work introduces a\ndistributed learning framework involving multiple servers, each responsible for\ncollecting several sparsely observed functions. This hierarchical setup\nintroduces a mixed notion of privacy. Within each function, user-level\ndifferential privacy is applied to $m$ discrete observations. At the server\nlevel, central differential privacy is deployed to account for the centralised\nnature of data collection. Across servers, only private information is\nexchanged, adhering to federated differential privacy constraints. To address\nthis complex hierarchy, we employ minimax theory to reveal several fundamental\nphenomena: from sparse to dense functional data analysis, from user-level to\ncentral and federated differential privacy costs, and the intricate interplay\nbetween different regimes of functional data analysis and privacy preservation.\n  To the best of our knowledge, this is the first study to rigorously examine\nfunctional data estimation under multiple privacy constraints. Our theoretical\nfindings are complemented by efficient private algorithms and extensive\nnumerical evidence, providing a comprehensive exploration of this challenging\nproblem.",
+          "arxiv_id": "2412.06582v1"
+        },
+        {
+          "title": "Identification and Formal Privacy Guarantees",
+          "year": "2020-06",
+          "abstract": "Empirical economic research crucially relies on highly sensitive individual\ndatasets. At the same time, increasing availability of public individual-level\ndata makes it possible for adversaries to potentially de-identify anonymized\nrecords in sensitive research datasets. Most commonly accepted formal\ndefinition of an individual non-disclosure guarantee is referred to as\ndifferential privacy. It restricts the interaction of researchers with the data\nby allowing them to issue queries to the data. The differential privacy\nmechanism then replaces the actual outcome of the query with a randomised\noutcome.\n  The impact of differential privacy on the identification of empirical\neconomic models and on the performance of estimators in nonlinear empirical\nEconometric models has not been sufficiently studied. Since privacy protection\nmechanisms are inherently finite-sample procedures, we define the notion of\nidentifiability of the parameter of interest under differential privacy as a\nproperty of the limit of experiments. It is naturally characterized by the\nconcepts from the random sets theory.\n  We show that particular instances of regression discontinuity design may be\nproblematic for inference with differential privacy as parameters turn out to\nbe neither point nor partially identified. The set of differentially private\nestimators converges weakly to a random set. Our analysis suggests that many\nother estimators that rely on nuisance parameters may have similar properties\nwith the requirement of differential privacy. We show that identification\nbecomes possible if the target parameter can be deterministically located\nwithin the random set. In that case, a full exploration of the random set of\nthe weak limits of differentially private estimators can allow the data curator\nto select a sequence of instances of differentially private estimators\nconverging to the target parameter in probability.",
+          "arxiv_id": "2006.14732v2"
+        },
+        {
+          "title": "Federated Transfer Learning with Differential Privacy",
+          "year": "2024-03",
+          "abstract": "Federated learning has emerged as a powerful framework for analysing\ndistributed data, yet two challenges remain pivotal: heterogeneity across sites\nand privacy of local data. In this paper, we address both challenges within a\nfederated transfer learning framework, aiming to enhance learning on a target\ndata set by leveraging information from multiple heterogeneous source data sets\nwhile adhering to privacy constraints. We rigorously formulate the notion of\nfederated differential privacy, which offers privacy guarantees for each data\nset without assuming a trusted central server. Under this privacy model, we\nstudy three classical statistical problems: univariate mean estimation,\nlow-dimensional linear regression, and high-dimensional linear regression. By\ninvestigating the minimax rates and quantifying the cost of privacy in each\nproblem, we show that federated differential privacy is an intermediate privacy\nmodel between the well-established local and central models of differential\nprivacy. Our analyses account for data heterogeneity and privacy, highlighting\nthe fundamental costs associated with each factor and the benefits of knowledge\ntransfer in federated learning.",
+          "arxiv_id": "2403.11343v3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:07:55Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

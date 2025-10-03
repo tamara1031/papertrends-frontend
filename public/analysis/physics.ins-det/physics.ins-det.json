@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_detector_high_energy_time",
+        "keywords": [
+          [
+            "detector",
+            0.03276535698195154
+          ],
+          [
+            "high",
+            0.02749361412375516
+          ],
+          [
+            "energy",
+            0.024135507741222462
+          ],
+          [
+            "time",
+            0.02294858241965215
+          ],
+          [
+            "data",
+            0.020977255533778903
+          ],
+          [
+            "detectors",
+            0.020597694851561515
+          ],
+          [
+            "resolution",
+            0.019593329602061078
+          ],
+          [
+            "low",
+            0.018096854705928558
+          ],
+          [
+            "performance",
+            0.01770461008009989
+          ],
+          [
+            "results",
+            0.016612930636972525
+          ]
+        ],
+        "count": 9200
+      },
+      "1": {
+        "name": "1_axion_dark_matter_dark matter",
+        "keywords": [
+          [
+            "axion",
+            0.09668210619651701
+          ],
+          [
+            "dark",
+            0.05366271732208015
+          ],
+          [
+            "matter",
+            0.0477729209250061
+          ],
+          [
+            "dark matter",
+            0.04563959213988042
+          ],
+          [
+            "cavity",
+            0.03925721737756918
+          ],
+          [
+            "search",
+            0.03461180108860404
+          ],
+          [
+            "haloscope",
+            0.029001738500536185
+          ],
+          [
+            "axions",
+            0.028691153139119734
+          ],
+          [
+            "mass",
+            0.026179329378485452
+          ],
+          [
+            "Axion",
+            0.02471256708260876
+          ]
+        ],
+        "count": 177
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.6083744873820996
+      ],
+      [
+        -0.6083744873820996,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        100,
+        15
+      ],
+      "2020-02": [
+        147,
+        15
+      ],
+      "2020-03": [
+        143,
+        14
+      ],
+      "2020-04": [
+        155,
+        19
+      ],
+      "2020-05": [
+        176,
+        13
+      ],
+      "2020-06": [
+        145,
+        15
+      ],
+      "2020-07": [
+        119,
+        16
+      ],
+      "2020-08": [
+        97,
+        13
+      ],
+      "2020-09": [
+        123,
+        9
+      ],
+      "2020-10": [
+        150,
+        12
+      ],
+      "2020-11": [
+        112,
+        10
+      ],
+      "2020-12": [
+        113,
+        9
+      ],
+      "2021-01": [
+        108,
+        11
+      ],
+      "2021-02": [
+        107,
+        11
+      ],
+      "2021-03": [
+        114,
+        9
+      ],
+      "2021-04": [
+        98,
+        9
+      ],
+      "2021-05": [
+        114,
+        12
+      ],
+      "2021-06": [
+        124,
+        9
+      ],
+      "2021-07": [
+        138,
+        8
+      ],
+      "2021-08": [
+        84,
+        10
+      ],
+      "2021-09": [
+        107,
+        11
+      ],
+      "2021-10": [
+        137,
+        19
+      ],
+      "2021-11": [
+        153,
+        18
+      ],
+      "2021-12": [
+        169,
+        15
+      ],
+      "2022-01": [
+        128,
+        17
+      ],
+      "2022-02": [
+        138,
+        11
+      ],
+      "2022-03": [
+        186,
+        19
+      ],
+      "2022-04": [
+        114,
+        15
+      ],
+      "2022-05": [
+        126,
+        12
+      ],
+      "2022-06": [
+        116,
+        11
+      ],
+      "2022-07": [
+        99,
+        10
+      ],
+      "2022-08": [
+        113,
+        12
+      ],
+      "2022-09": [
+        153,
+        11
+      ],
+      "2022-10": [
+        130,
+        13
+      ],
+      "2022-11": [
+        149,
+        12
+      ],
+      "2022-12": [
+        119,
+        16
+      ],
+      "2023-01": [
+        129,
+        10
+      ],
+      "2023-02": [
+        107,
+        11
+      ],
+      "2023-03": [
+        124,
+        15
+      ],
+      "2023-04": [
+        92,
+        18
+      ],
+      "2023-05": [
+        109,
+        15
+      ],
+      "2023-06": [
+        98,
+        16
+      ],
+      "2023-07": [
+        103,
+        7
+      ],
+      "2023-08": [
+        97,
+        7
+      ],
+      "2023-09": [
+        122,
+        21
+      ],
+      "2023-10": [
+        136,
+        17
+      ],
+      "2023-11": [
+        141,
+        18
+      ],
+      "2023-12": [
+        126,
+        10
+      ],
+      "2024-01": [
+        125,
+        14
+      ],
+      "2024-02": [
+        119,
+        14
+      ],
+      "2024-03": [
+        123,
+        22
+      ],
+      "2024-04": [
+        85,
+        17
+      ],
+      "2024-05": [
+        117,
+        11
+      ],
+      "2024-06": [
+        119,
+        10
+      ],
+      "2024-07": [
+        111,
+        12
+      ],
+      "2024-08": [
+        95,
+        13
+      ],
+      "2024-09": [
+        118,
+        11
+      ],
+      "2024-10": [
+        139,
+        13
+      ],
+      "2024-11": [
+        119,
+        8
+      ],
+      "2024-12": [
+        110,
+        13
+      ],
+      "2025-01": [
+        136,
+        10
+      ],
+      "2025-02": [
+        136,
+        10
+      ],
+      "2025-03": [
+        192,
+        16
+      ],
+      "2025-04": [
+        119,
+        9
+      ],
+      "2025-05": [
+        122,
+        17
+      ],
+      "2025-06": [
+        123,
+        11
+      ],
+      "2025-07": [
+        114,
+        18
+      ],
+      "2025-08": [
+        116,
+        11
+      ],
+      "2025-09": [
+        71,
+        5
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Test Beam Characterization of a Digital Silicon Photomultiplier",
+          "year": "2024-12",
+          "abstract": "Conventional silicon photomultipliers (SiPMs) are well established as light\ndetectors with single-photon-detection capability and used throughout high\nenergy physics, medical, and commercial applications. The possibility to\nproduce single photon avalanche diodes (SPADs) in commercial CMOS processes\ncreates the opportunity to combine a matrix of SPADs and an\napplication-specific integrated circuit in the same die. The potential of such\ndigital SiPMs (dSiPMs) is still being explored, while it already is an\nestablished technology in certain applications, like light detection and\nranging (LiDAR).\n  A prototype dSiPM, produced in the LFoundry 150-nm CMOS technology, was\ndesigned and tested at DESY. The dSiPM central part is a matrix of 32 by 32\npixels. Each pixel contains four SPADs, a digital front-end, and has an area of\n69.6 $\\times$ 76 um$^2$. The chip has four time-to-digital converters and\nincludes further circuitry for data serialization and data links.\n  This work focuses on the characterization of the prototype in an electron\nbeam at the DESY II Test Beam facility, to study its capability as a tracking\nand timing detector for minimum ionizing particles (MIPs). The MIP detection\nefficiency is found to be dominated by the fill factor and on the order of 31\n%. The position of the impinging MIPs can be measured with a precision of about\n20 um, and the time of the interaction can be measured with a precision better\nthan 50 ps for about 85 % of the detected events. In addition, laboratory\nstudies on the breakdown voltage, dark count rate, and crosstalk probability,\nas well as the experimental methods required for the characterization of such a\nsensor type in a particle beam are presented.",
+          "arxiv_id": "2412.06687v1"
+        },
+        {
+          "title": "MeV-scale performance of water-based and pure liquid scintillator detectors",
+          "year": "2020-07",
+          "abstract": "This paper presents studies of the performance of water-based liquid\nscintillator in both 1-kt and 50-kt detectors. Performance is evaluated in\ncomparison to both pure water Cherenkov detectors and a nominal model for pure\nscintillator detectors. Performance metrics include energy, vertex, and angular\nresolution, along with a metric for ability to separate the Cherenkov from the\nscintillation signal, as being representative of various particle\nidentification capabilities that depend on the Cherenkov / scintillation ratio.\nWe also modify the time profile of scintillation light to study the same\nperformance metrics as a function of rise and decay time. We go on to interpret\nthese results in terms of their impact on certain physics goals, such as solar\nneutrinos and the search for Majorana neutrinos. This work supports and\nvalidates previous results, and the assumptions made therein, by using a more\ncomplete detector model and full reconstruction. We confirm that a\nhigh-coverage, 50-kt detector would be capable of better than 10 (1)\\%\nprecision on the CNO neutrino flux with a WbLS (pure LS) target in 5 years of\ndata taking. A 1-kt LS detector, with a conservative 50\\% fiducial volume of\n500~t, can achieve a better than 5\\% detection. Using the liquid scintillator\nmodel, we find a sensitivity into the normal hierarchy region for Majorana\nneutrinos, with half life sensitivity of $T^{0\\nu\\beta\\beta}_{1/2} > 1.4 \\times\n10^{28}$ years at 90\\% CL for 10 years of data taking with a Te-loaded target.",
+          "arxiv_id": "2007.14999v2"
+        },
+        {
+          "title": "The CRAB facility at the TU Wien TRIGA reactor: status and related physics program",
+          "year": "2025-05",
+          "abstract": "The CRAB (Calibrated nuclear Recoils for Accurate Bolometry) project aims to\nprecisely characterize the response of cryogenic detectors to sub-keV nuclear\nrecoils of direct interest for coherent neutrino-nucleus scattering and dark\nmatter search experiments. The CRAB method relies on the radiative capture of\nthermal neutrons in the target detector, resulting in a nuclear recoil with a\nwell-defined energy. We present a new experimental setup installed at the TRIGA\nMark-II reactor at Atominstitut (Vienna), providing a low intensity beam of\nthermal neutrons sent to the target cryogenic detector mounted inside a wet\ndilution refrigerator Kelvinox 100. A crown of BaF$_2$ detectors installed\noutside the dewar enables coincident detection of the high-energy $\\gamma$\nescaping the target crystal after neutron capture. After the presentation of\nall components of the setup we report the analysis of first commissioning data\nwith a CaWO$_4$ detector of the \\NUCLEUS experiment. They show stable operation\nof the cryostat and detectors on a week-scale. Due to an energy resolution\ncurrently limited to 20 eV we use neutron beam induced events at high energy,\nin the 10 to 100 keV range, to demonstrate the excellent agreement between the\ndata and simulation and the accurate understanding of external background.\nThanks to these data we also propose an updated decay scheme of the low-lying\nexcited states of $^{187}$W. Finally, we present the first evidence of\nneutron-capture induced coincidences between $\\gamma$-detectors and a cryogenic\ndetector. These promising results pave the way for an extensive physics program\nwith various detector materials, like CaWO$_4$, Al$_2$O$_3$, Ge and Si.",
+          "arxiv_id": "2505.15227v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Exclusion of ALP Cogenesis Dark Matter in a Mass Window Above 100 $μ$eV",
+          "year": "2023-10",
+          "abstract": "We report the results of Phase 1b of The ORGAN Experiment, a microwave cavity\nhaloscope searching for dark matter axions in the $107.42-111.93~\\mu$eV mass\nrange. The search excludes axions with two-photon coupling\n$g_{a\\gamma\\gamma}\\geq 4\\times 10^{-12}\\, \\textrm{GeV}^{-1}$ with $95\\%$\nconfidence interval, setting the best upper bound to date and with the required\nsensitivity to exclude the axion-like particle cogenesis model for dark matter\nin this range. This result was achieved using a tunable rectangular cavity,\nwhich mitigated several practical issues that become apparent when conducting\nhigh mass axion searches, and was the first such axion search to be conducted\nwith such a cavity. It also represents the most sensitive axion haloscope\nexperiment to date in the $\\sim100~\\mu$eV mass region.",
+          "arxiv_id": "2310.00904v1"
+        },
+        {
+          "title": "First results of axion dark matter search with DANCE",
+          "year": "2023-03",
+          "abstract": "Axions are one of the well-motivated candidates for dark matter, originally\nproposed to solve the strong CP problem in particle physics. Dark matter Axion\nsearch with riNg Cavity Experiment (DANCE) is a new experimental project to\nbroadly search for axion dark matter in the mass range of $10^{-17}~\\mathrm{eV}\n< m_a < 10^{-11}~\\mathrm{eV}$. We aim to detect the rotational oscillation of\nlinearly polarized light caused by the axion-photon coupling with a bow-tie\ncavity. The first results of the prototype experiment, DANCE Act-1, are\nreported from a 24-hour observation. We found no evidence for axions and set\n95% confidence level upper limit on the axion-photon coupling $g_{a \\gamma}\n\\lesssim 8 \\times 10^{-4}~\\mathrm{GeV^{-1}}$ in $10^{-14}~\\mathrm{eV} < m_a <\n10^{-13}~\\mathrm{eV}$. Although the bound did not exceed the current best\nlimits, this optical cavity experiment is the first demonstration of\npolarization-based axion dark matter search without any external magnetic\nfield.",
+          "arxiv_id": "2303.03594v4"
+        },
+        {
+          "title": "Limits on Dark Photons, Scalars, and Axion-Electromagnetodynamics with The ORGAN Experiment",
+          "year": "2022-12",
+          "abstract": "Axions are a well-motivated dark matter candidate, with a host of experiments\naround the world searching for direct evidence of their existence. The ORGAN\nExperiment is a type of axion detector known as an axion haloscope, which takes\nthe form of a cryogenic resonant cavity embedded in a strong magnetic field.\nORGAN recently completed Phase 1a, a scan for axions around 65 \\textmu eV, and\nplaced the most stringent limits to date on the dark matter axion-photon\ncoupling in this region, $|g_{a\\gamma\\gamma}|\\leq 3\\times 10^{-12}$. It has\nbeen shown that axion haloscopes such as ORGAN are automatically sensitive to\nother kinds of dark matter candidates, such as dark photons, scalar\nfield/dilaton dark matter, and exotic axion-electromagnetic couplings motivated\nby quantum electromagnetodynamics. We compute the exclusion limits placed on\nthese various dark matter candidates by ORGAN 1a, and project sensitivity for\nsome future ORGAN phases. In particular, the dark photon limits are the most\nsensitive to date in some regions of the parameter space.",
+          "arxiv_id": "2212.01971v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:02:37Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

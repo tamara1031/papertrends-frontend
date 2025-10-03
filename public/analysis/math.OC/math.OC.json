@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_problem_optimization_problems_control",
+        "keywords": [
+          [
+            "problem",
+            0.04026760394918904
+          ],
+          [
+            "optimization",
+            0.035012828242354216
+          ],
+          [
+            "problems",
+            0.030061030742761716
+          ],
+          [
+            "control",
+            0.02976505398307048
+          ],
+          [
+            "algorithm",
+            0.028772869691304777
+          ],
+          [
+            "optimal",
+            0.02840573969076905
+          ],
+          [
+            "method",
+            0.028143683195677286
+          ],
+          [
+            "time",
+            0.026471024459744096
+          ],
+          [
+            "paper",
+            0.024865376518040425
+          ],
+          [
+            "model",
+            0.02347927950991388
+          ]
+        ],
+        "count": 31706
+      },
+      "1": {
+        "name": "1_model_control_optimal_number",
+        "keywords": [
+          [
+            "model",
+            0.09804527451831026
+          ],
+          [
+            "control",
+            0.08164519278852307
+          ],
+          [
+            "optimal",
+            0.05969475533718209
+          ],
+          [
+            "number",
+            0.04081651717862238
+          ],
+          [
+            "individuals",
+            0.03841560193978408
+          ],
+          [
+            "models",
+            0.03840643785314733
+          ],
+          [
+            "optimal control",
+            0.0372860884252318
+          ],
+          [
+            "time",
+            0.03541603202606248
+          ],
+          [
+            "strategies",
+            0.034444185101241497
+          ],
+          [
+            "data",
+            0.03174461676290509
+          ]
+        ],
+        "count": 370
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        0.27432046809939536
+      ],
+      [
+        0.27432046809939536,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        215,
+        142
+      ],
+      "2020-02": [
+        283,
+        190
+      ],
+      "2020-03": [
+        263,
+        209
+      ],
+      "2020-04": [
+        246,
+        202
+      ],
+      "2020-05": [
+        245,
+        168
+      ],
+      "2020-06": [
+        332,
+        235
+      ],
+      "2020-07": [
+        267,
+        194
+      ],
+      "2020-08": [
+        205,
+        146
+      ],
+      "2020-09": [
+        227,
+        202
+      ],
+      "2020-10": [
+        266,
+        211
+      ],
+      "2020-11": [
+        249,
+        195
+      ],
+      "2020-12": [
+        257,
+        185
+      ],
+      "2021-01": [
+        241,
+        160
+      ],
+      "2021-02": [
+        234,
+        205
+      ],
+      "2021-03": [
+        284,
+        243
+      ],
+      "2021-04": [
+        228,
+        192
+      ],
+      "2021-05": [
+        238,
+        180
+      ],
+      "2021-06": [
+        320,
+        211
+      ],
+      "2021-07": [
+        260,
+        173
+      ],
+      "2021-08": [
+        184,
+        148
+      ],
+      "2021-09": [
+        254,
+        178
+      ],
+      "2021-10": [
+        294,
+        194
+      ],
+      "2021-11": [
+        243,
+        182
+      ],
+      "2021-12": [
+        237,
+        165
+      ],
+      "2022-01": [
+        236,
+        157
+      ],
+      "2022-02": [
+        247,
+        168
+      ],
+      "2022-03": [
+        275,
+        226
+      ],
+      "2022-04": [
+        250,
+        182
+      ],
+      "2022-05": [
+        270,
+        167
+      ],
+      "2022-06": [
+        271,
+        206
+      ],
+      "2022-07": [
+        257,
+        184
+      ],
+      "2022-08": [
+        235,
+        142
+      ],
+      "2022-09": [
+        263,
+        180
+      ],
+      "2022-10": [
+        292,
+        204
+      ],
+      "2022-11": [
+        298,
+        191
+      ],
+      "2022-12": [
+        217,
+        176
+      ],
+      "2023-01": [
+        236,
+        144
+      ],
+      "2023-02": [
+        279,
+        208
+      ],
+      "2023-03": [
+        332,
+        227
+      ],
+      "2023-04": [
+        260,
+        200
+      ],
+      "2023-05": [
+        301,
+        194
+      ],
+      "2023-06": [
+        256,
+        183
+      ],
+      "2023-07": [
+        273,
+        177
+      ],
+      "2023-08": [
+        224,
+        171
+      ],
+      "2023-09": [
+        243,
+        204
+      ],
+      "2023-10": [
+        316,
+        211
+      ],
+      "2023-11": [
+        315,
+        220
+      ],
+      "2023-12": [
+        272,
+        203
+      ],
+      "2024-01": [
+        272,
+        219
+      ],
+      "2024-02": [
+        315,
+        222
+      ],
+      "2024-03": [
+        376,
+        294
+      ],
+      "2024-04": [
+        226,
+        194
+      ],
+      "2024-05": [
+        331,
+        205
+      ],
+      "2024-06": [
+        288,
+        190
+      ],
+      "2024-07": [
+        273,
+        195
+      ],
+      "2024-08": [
+        226,
+        183
+      ],
+      "2024-09": [
+        300,
+        211
+      ],
+      "2024-10": [
+        347,
+        244
+      ],
+      "2024-11": [
+        268,
+        190
+      ],
+      "2024-12": [
+        333,
+        213
+      ],
+      "2025-01": [
+        312,
+        203
+      ],
+      "2025-02": [
+        290,
+        225
+      ],
+      "2025-03": [
+        341,
+        264
+      ],
+      "2025-04": [
+        310,
+        241
+      ],
+      "2025-05": [
+        370,
+        253
+      ],
+      "2025-06": [
+        289,
+        201
+      ],
+      "2025-07": [
+        294,
+        204
+      ],
+      "2025-08": [
+        261,
+        192
+      ],
+      "2025-09": [
+        173,
+        129
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Gradient-Free Optimization for Non-Smooth Saddle Point Problems under Adversarial Noise",
+          "year": "2022-02",
+          "abstract": "We consider non-smooth saddle point optimization problems. To solve these\nproblems, we propose a zeroth-order method under bounded or Lipschitz\ncontinuous noise, possible adversarial. In contrast to the state-of-the-art\nalgorithms, our algorithm is optimal in terms of both criteria: oracle calls\ncomplexity and the maximum value of admissible noise. The proposed method is\nsimple and easy to implement as it is built on zeroth-order version of the\nstochastic mirror descent. The convergence analysis is given in terms of the\naverage and probability. We also pay special attention to the duality gap\n$r$-growth condition $(r\\geq 1)$, for which we provide a modification of our\nalgorithm using the restart technique. We also comment on infinite noise\nvariance and upper bounds in the case of Lipschitz noise. The results obtained\nin this paper are significant not only for saddle point problems but also for\nconvex optimization.",
+          "arxiv_id": "2202.06114v3"
+        },
+        {
+          "title": "Optimal Control of Discrete-Time Nonlinear Systems",
+          "year": "2024-11",
+          "abstract": "This paper focuses on optimal control problem for a class of discrete-time\nnonlinear systems. In practical applications, computation time is a crucial\nconsideration when solving nonlinear optimal control problems, especially under\nreal-time constraints. While linearization methods are computationally\nefficient, their inherent low accuracy can compromise control precision and\noverall performance. To address this challenge, this study proposes a novel\napproach based on the optimal control method. Firstly, the original optimal\ncontrol problem is transformed into an equivalent optimization problem, which\nis resolved using the Pontryagin's maximum principle, and a superlinear\nconvergence algorithm is presented. Furthermore, to improve computation\nefficiency, explicit formulas for computing both the gradient and hessian\nmatrix of the cost function are proposed. Finally, the effectiveness of the\nproposed algorithm is validated through simulations and experiments on a linear\nquadratic regulator problem and an automatic guided vehicle trajectory tracking\nproblem, demonstrating its ability for real-time online precise control.",
+          "arxiv_id": "2411.01484v3"
+        },
+        {
+          "title": "A cost function approximation method for dynamic vehicle routing with docking and LIFO constraints",
+          "year": "2024-05",
+          "abstract": "In this paper, we study a dynamic pickup and delivery problem with docking\nconstraints. There is a homogeneous fleet of vehicles to serve\npickup-and-delivery requests at given locations. The vehicles can be loaded up\nto their capacity, while unloading has to follow the last-in-first-out (LIFO)\nrule. The locations have a limited number of docking ports for loading and\nunloading, which may force the vehicles to wait. The problem is dynamic since\nthe transportation requests arrive real-time, over the day. Accordingly, the\nroutes of the vehicles are to be determined dynamically. The goal is to satisfy\nall the requests such that a combination of tardiness penalties and traveling\ncosts is minimized. We propose a cost function approximation based solution\nmethod. In each decision epoch, we solve the respective optimization problem\nwith a perturbed objective function to ensure the solutions remain adaptable to\naccommodate new requests. We penalize waiting times and idle vehicles. We\npropose a variable neighborhood search based method for solving the\noptimization problems, and we apply two existing local search operators, and we\nalso introduce a new one. We evaluate our method using a widely adopted\nbenchmark dataset, and the results demonstrate that our approach significantly\nsurpasses the current state-of-the-art methods.",
+          "arxiv_id": "2405.01915v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Transport and Optimal Control of Vaccination Dynamics for COVID-19",
+          "year": "2022-02",
+          "abstract": "We develop a mathematical model for transferring the vaccine BNT162b2 based\non the heat diffusion equation. Then, we apply optimal control theory to the\nproposed generalized SEIR model. We introduce vaccination for the susceptible\npopulation to control the spread of the COVID-19 epidemic. For this, we use the\nPontryagin minimum principle to find the necessary optimality conditions for\nthe optimal control. The optimal control problem and the heat diffusion\nequation are solved numerically. Finally, several simulations are done to study\nand predict the spread of the COVID-19 epidemic in Italy. In particular, we\ncompare the model in the presence and absence of vaccination.",
+          "arxiv_id": "2202.00541v2"
+        },
+        {
+          "title": "Control Strategies for COVID-19 Epidemic with Vaccination, Shield Immunity and Quarantine: A Metric Temporal Logic Approach",
+          "year": "2020-07",
+          "abstract": "Ever since the outbreak of the COVID-19 epidemic, various public health\ncontrol strategies have been proposed and tested against the coronavirus\nSARS-CoV-2. We study three specific COVID-19 epidemic control models: the\nsusceptible, exposed, infectious, recovered (SEIR) model with vaccination\ncontrol; the SEIR model with shield immunity control; and the susceptible,\nun-quarantined infected, quarantined infected, confirmed infected (SUQC) model\nwith quarantine control. We express the control requirement in metric temporal\nlogic (MTL) formulas (a type of formal specification languages) which can\nspecify the expected control outcomes such as \"the deaths from the infection\nshould never exceed one thousand per day within the next three months\" or \"the\npopulation immune from the disease should eventually exceed 200 thousand within\nthe next 100 to 120 days\". We then develop methods for synthesizing control\nstrategies with MTL specifications. To the best of our knowledge, this is the\nfirst paper to systematically synthesize control strategies based on the\nCOVID-19 epidemic models with formal specifications. We provide simulation\nresults in three different case studies: vaccination control for the COVID-19\nepidemic with model parameters estimated from data in Lombardy, Italy; shield\nimmunity control for the COVID-19 epidemic with model parameters estimated from\ndata in Lombardy, Italy; and quarantine control for the COVID-19 epidemic with\nmodel parameters estimated from data in Wuhan, China. The results show that the\nproposed synthesis approach can generate control inputs such that the\ntime-varying numbers of individuals in each category (e.g., infectious, immune)\nsatisfy the MTL specifications. The results also show that early intervention\nis essential in mitigating the spread of COVID-19, and more control effort is\nneeded for more stringent MTL specifications.",
+          "arxiv_id": "2007.15114v2"
+        },
+        {
+          "title": "Model-free based control of a HIV/AIDS prevention model",
+          "year": "2021-11",
+          "abstract": "Controlling an epidemiological model is often performed using optimal control\ntheory techniques for which the solution depends on the equations of the\ncontrol system, objective functional and possible state and/or control\nconstraints. In this paper, we propose a model-free control approach based on\nan algorithm that operates in 'real-time' and drives the state solution\naccording to a direct feedback on the state solution that is aimed to be\nminimized, and without knowing explicitly the equations of the control system.\nWe consider a concrete epidemic problem of minimizing the number of HIV\ninfected individuals, through the preventive measure pre-exposure prophylaxis\n(PrEP) given to susceptible individuals. The solutions must satisfy control and\nmixed state-control constraints that represent the limitations on PrEP\nimplementation. Our model-free based control algorithm allows to close the loop\nbetween the number of infected individuals with HIV and the supply of PrEP\nmedication 'in real time', in such manner that the number of infected\nindividuals is asymptotically reduced and the number of individuals under PrEP\nmedication is below a fixed constant value. We prove the efficiency of our\napproach and compare the model-free control solutions with the ones obtained\nusing a classical optimal control approach via Pontryagin maximum principle.\nThe performed numerical simulations allow us to conclude that the model-free\nbased control strategy highlights new and interesting performances compared\nwith the classical optimal control approach.",
+          "arxiv_id": "2111.03093v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:57:06Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

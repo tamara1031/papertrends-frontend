@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_AI_data_human_user",
+        "keywords": [
+          [
+            "AI",
+            0.02715160342196142
+          ],
+          [
+            "data",
+            0.02463325146661263
+          ],
+          [
+            "human",
+            0.022335226946045287
+          ],
+          [
+            "user",
+            0.020967630314026292
+          ],
+          [
+            "design",
+            0.018252764942652898
+          ],
+          [
+            "study",
+            0.01818250543767792
+          ],
+          [
+            "users",
+            0.01731415837661396
+          ],
+          [
+            "learning",
+            0.015634029065741708
+          ],
+          [
+            "models",
+            0.015549025638323171
+          ],
+          [
+            "research",
+            0.015258484666820612
+          ]
+        ],
+        "count": 19756
+      },
+      "1": {
+        "name": "1_driving_driver_vehicle_drivers",
+        "keywords": [
+          [
+            "driving",
+            0.0657042673115246
+          ],
+          [
+            "driver",
+            0.038637177157223916
+          ],
+          [
+            "vehicle",
+            0.036451547201825744
+          ],
+          [
+            "drivers",
+            0.02885696894623668
+          ],
+          [
+            "vehicles",
+            0.027898866968261684
+          ],
+          [
+            "safety",
+            0.021659953905865822
+          ],
+          [
+            "autonomous",
+            0.020980701010797607
+          ],
+          [
+            "AV",
+            0.020630370108088828
+          ],
+          [
+            "human",
+            0.020368888636134546
+          ],
+          [
+            "road",
+            0.01983344952108951
+          ]
+        ],
+        "count": 518
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.7329118803709072
+      ],
+      [
+        -0.7329118803709072,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        148,
+        5
+      ],
+      "2020-02": [
+        143,
+        4
+      ],
+      "2020-03": [
+        130,
+        10
+      ],
+      "2020-04": [
+        136,
+        2
+      ],
+      "2020-05": [
+        152,
+        10
+      ],
+      "2020-06": [
+        139,
+        10
+      ],
+      "2020-07": [
+        164,
+        10
+      ],
+      "2020-08": [
+        190,
+        9
+      ],
+      "2020-09": [
+        197,
+        8
+      ],
+      "2020-10": [
+        185,
+        7
+      ],
+      "2020-11": [
+        123,
+        5
+      ],
+      "2020-12": [
+        136,
+        7
+      ],
+      "2021-01": [
+        203,
+        6
+      ],
+      "2021-02": [
+        158,
+        5
+      ],
+      "2021-03": [
+        177,
+        10
+      ],
+      "2021-04": [
+        168,
+        10
+      ],
+      "2021-05": [
+        178,
+        4
+      ],
+      "2021-06": [
+        174,
+        9
+      ],
+      "2021-07": [
+        189,
+        7
+      ],
+      "2021-08": [
+        168,
+        15
+      ],
+      "2021-09": [
+        185,
+        5
+      ],
+      "2021-10": [
+        186,
+        7
+      ],
+      "2021-11": [
+        144,
+        8
+      ],
+      "2021-12": [
+        140,
+        5
+      ],
+      "2022-01": [
+        184,
+        7
+      ],
+      "2022-02": [
+        191,
+        7
+      ],
+      "2022-03": [
+        197,
+        7
+      ],
+      "2022-04": [
+        238,
+        7
+      ],
+      "2022-05": [
+        193,
+        8
+      ],
+      "2022-06": [
+        181,
+        8
+      ],
+      "2022-07": [
+        191,
+        10
+      ],
+      "2022-08": [
+        228,
+        20
+      ],
+      "2022-09": [
+        230,
+        8
+      ],
+      "2022-10": [
+        232,
+        8
+      ],
+      "2022-11": [
+        186,
+        3
+      ],
+      "2022-12": [
+        146,
+        17
+      ],
+      "2023-01": [
+        215,
+        11
+      ],
+      "2023-02": [
+        262,
+        11
+      ],
+      "2023-03": [
+        327,
+        12
+      ],
+      "2023-04": [
+        305,
+        10
+      ],
+      "2023-05": [
+        297,
+        12
+      ],
+      "2023-06": [
+        285,
+        16
+      ],
+      "2023-07": [
+        271,
+        8
+      ],
+      "2023-08": [
+        368,
+        9
+      ],
+      "2023-09": [
+        333,
+        14
+      ],
+      "2023-10": [
+        328,
+        12
+      ],
+      "2023-11": [
+        294,
+        12
+      ],
+      "2023-12": [
+        275,
+        11
+      ],
+      "2024-01": [
+        367,
+        9
+      ],
+      "2024-02": [
+        429,
+        17
+      ],
+      "2024-03": [
+        466,
+        21
+      ],
+      "2024-04": [
+        443,
+        21
+      ],
+      "2024-05": [
+        445,
+        16
+      ],
+      "2024-06": [
+        361,
+        14
+      ],
+      "2024-07": [
+        417,
+        13
+      ],
+      "2024-08": [
+        404,
+        19
+      ],
+      "2024-09": [
+        505,
+        14
+      ],
+      "2024-10": [
+        483,
+        17
+      ],
+      "2024-11": [
+        449,
+        13
+      ],
+      "2024-12": [
+        381,
+        15
+      ],
+      "2025-01": [
+        437,
+        9
+      ],
+      "2025-02": [
+        578,
+        25
+      ],
+      "2025-03": [
+        573,
+        20
+      ],
+      "2025-04": [
+        598,
+        22
+      ],
+      "2025-05": [
+        544,
+        20
+      ],
+      "2025-06": [
+        509,
+        14
+      ],
+      "2025-07": [
+        547,
+        18
+      ],
+      "2025-08": [
+        553,
+        20
+      ],
+      "2025-09": [
+        278,
+        7
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Learning Complementary Policies for Human-AI Teams",
+          "year": "2023-02",
+          "abstract": "Human-AI complementarity is important when neither the algorithm nor the\nhuman yields dominant performance across all instances in a given context.\nRecent work that explored human-AI collaboration has considered decisions that\ncorrespond to classification tasks. However, in many important contexts where\nhumans can benefit from AI complementarity, humans undertake course of action.\nIn this paper, we propose a framework for a novel human-AI collaboration for\nselecting advantageous course of action, which we refer to as Learning\nComplementary Policy for Human-AI teams (\\textsc{lcp-hai}). Our solution aims\nto exploit the human-AI complementarity to maximize decision rewards by\nlearning both an algorithmic policy that aims to complement humans by a routing\nmodel that defers decisions to either a human or the AI to leverage the\nresulting complementarity. We then extend our approach to leverage\nopportunities and mitigate risks that arise in important contexts in practice:\n1) when a team is composed of multiple humans with differential and potentially\ncomplementary abilities, 2) when the observational data includes consistent\ndeterministic actions, and 3) when the covariate distribution of future\ndecisions differ from that in the historical data. We demonstrate the\neffectiveness of our proposed methods using data on real human responses and\nsemi-synthetic, and find that our methods offer reliable and advantageous\nperformance across setting, and that it is superior to when either the\nalgorithm or the AI make decisions on their own. We also find that the\nextensions we propose effectively improve the robustness of the human-AI\ncollaboration performance in the presence of different challenging settings.",
+          "arxiv_id": "2302.02944v1"
+        },
+        {
+          "title": "AI Conversational Tutors in Foreign Language Learning: A Mixed-Methods Evaluation Study",
+          "year": "2025-08",
+          "abstract": "This paper focuses on AI tutors in foreign language learning, a field of\napplication of AI tutors with great development, especially during the last\nyears, when great advances in natural language understanding and processing in\nreal time, have been achieved. These tutors attempt to address needs for\nimproving language skills (speaking, or communicative competence,\nunderstanding). In this paper, a mixed-methos empirical study on the use of\ndifferent kinds of state-of-the-art AI tutors for language learning is\nreported. This study involves a user experience evaluation of typical such\ntools, with special focus in their conversation functionality and an evaluation\nof their quality, based on chat transcripts. This study can help establish\ncriteria for assessing the quality of such systems and inform the design of\nfuture tools, including concerns about data privacy and secure handling of\nlearner information.",
+          "arxiv_id": "2508.05156v1"
+        },
+        {
+          "title": "Anticipate, Simulate, Reason (ASR): A Comprehensive Generative AI Framework for Combating Messaging Scams",
+          "year": "2025-07",
+          "abstract": "The rapid growth of messaging scams creates an escalating challenge for user\nsecurity and financial safety. In this paper, we present the\n\\textit{Anticipate, Simulate, Reason} (ASR) generative AI framework to enable\nusers to proactively identify and comprehend scams within instant messaging\nplatforms. Using large language models, ASR predicts scammer responses and\ndelivers real-time, interpretable support to end-users. We also develop\nScamGPT-J, a domain-specific language model fine-tuned on a new, high-quality\ndataset of scam conversations covering multiple scam types. Thorough\nexperimental evaluation shows that the ASR framework substantially enhances\nscam detection, particularly in challenging contexts such as job scams, and\nuncovers important demographic patterns in user vulnerability and perceptions\nof AI-generated assistance. Our findings reveal a contradiction where those\nmost at risk are often least receptive to AI support, emphasizing the\nimportance of user-centered design in AI-driven fraud prevention. This work\nadvances both the practical and theoretical foundations for interpretable and\nhuman-centered AI systems in combating evolving digital threats.",
+          "arxiv_id": "2507.17543v2"
+        }
+      ],
+      "1": [
+        {
+          "title": "How Do Drivers Self-Regulate their Secondary Task Engagements? The Effect of Driving Automation on Touchscreen Interactions and Glance Behavior",
+          "year": "2022-07",
+          "abstract": "With ever-improving driver assistance systems and large touchscreens becoming\nthe main in-vehicle interface, drivers are more tempted than ever to engage in\ndistracting non-driving-related tasks. However, little research exists on how\ndriving automation affects drivers' self-regulation when interacting with\ncenter stack touchscreens. To investigate this, we employ multilevel models on\na real-world driving dataset consisting of 10,139 sequences. Our results show\nsignificant differences in drivers' interaction and glance behavior in response\nto varying levels of driving automation, vehicle speed, and road curvature.\nDuring partially automated driving, drivers are not only more likely to engage\nin secondary touchscreen tasks, but their mean glance duration toward the\ntouchscreen also increases by 12% (Level 1) and 20% (Level 2) compared to\nmanual driving. We further show that the effect of driving automation on\ndrivers' self-regulation is larger than that of vehicle speed and road\ncurvature. The derived knowledge can facilitate the safety evaluation of\ninfotainment systems and the development of context-aware driver monitoring\nsystems.",
+          "arxiv_id": "2207.04284v2"
+        },
+        {
+          "title": "Multitasking while Driving: How Drivers Self-Regulate their Interaction with In-Vehicle Touchscreens in Automated Driving",
+          "year": "2023-05",
+          "abstract": "Driver assistance systems are designed to increase comfort and safety by\nautomating parts of the driving task. At the same time, modern in-vehicle\ninformation systems with large touchscreens provide the driver with numerous\noptions for entertainment, information, or communication, and are a potential\nsource of distraction. However, little is known about how driving automation\naffects how drivers interact with the center stack touchscreen, i.e., how\ndrivers self-regulate their behavior in response to different levels of driving\nautomation. To investigate this, we apply multilevel models to a real-world\ndriving dataset consisting of 31,378 sequences. Our results show significant\ndifferences in drivers' interaction and glance behavior in response to\ndifferent levels of driving automation, vehicle speed, and road curvature.\nDuring automated driving, drivers perform more interactions per touchscreen\nsequence and increase the time spent looking at the center stack touchscreen.\nSpecifically, at higher levels of driving automation (level 2), the mean glance\nduration toward the center stack touchscreen increases by 36% and the mean\nnumber of interactions per sequence increases by 17% compared to manual\ndriving. Furthermore, partially automated driving has a strong impact on the\nuse of more complex UI elements (e.g., maps) and touch gestures (e.g.,\nmultitouch). We also show that the effect of driving automation on drivers'\nself-regulation is greater than that of vehicle speed and road curvature. The\nderived knowledge can inform the design and evaluation of touch-based\ninfotainment systems and the development of context-aware driver monitoring\nsystems.",
+          "arxiv_id": "2305.16042v1"
+        },
+        {
+          "title": "Vehicle Automation Field Test: Impact on Driver Behavior and Trust",
+          "year": "2020-06",
+          "abstract": "With the growing technological advances in autonomous driving, the transport\nindustry and research community seek to determine the impact that autonomous\nvehicles (AV) will have on consumers, as well as identify the different factors\nthat will influence their use. Most of the research performed so far relies on\nlaboratory-controlled conditions using driving simulators, as they offer a safe\nenvironment for testing advanced driving assistance systems (ADAS). In this\nstudy we analyze the behavior of drivers that are placed in control of an\nautomated vehicle in a real life driving environment. The vehicle is equipped\nwith advanced autonomy, making driver control of the vehicle unnecessary in\nmany scenarios, although a driver take over is possible and sometimes required.\nIn doing so, we aim to determine the impact of such a system on the driver and\ntheir driving performance. To this end road users' behavior from naturalistic\ndriving data is analyzed focusing on awareness and diagnosis of the road\nsituation. Results showed that the road features determined the level of visual\nattention and trust in the automation. They also showed that the activities\nperformed during the automation affected the reaction time to take over the\ncontrol of the vehicle.",
+          "arxiv_id": "2006.02737v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:56:21Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

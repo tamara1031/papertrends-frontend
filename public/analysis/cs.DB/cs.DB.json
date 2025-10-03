@@ -1,0 +1,868 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_data_query_queries_performance",
+        "keywords": [
+          [
+            "data",
+            0.03877481791114358
+          ],
+          [
+            "query",
+            0.02095559190884086
+          ],
+          [
+            "queries",
+            0.016338747274068782
+          ],
+          [
+            "performance",
+            0.014442594931682092
+          ],
+          [
+            "model",
+            0.01391380163210836
+          ],
+          [
+            "paper",
+            0.013657357057031472
+          ],
+          [
+            "database",
+            0.013109552272801679
+          ],
+          [
+            "time",
+            0.012317024233375759
+          ],
+          [
+            "models",
+            0.012245431213674019
+          ],
+          [
+            "systems",
+            0.011143552287813333
+          ]
+        ],
+        "count": 4812
+      },
+      "1": {
+        "name": "1_privacy_data_private_Privacy",
+        "keywords": [
+          [
+            "privacy",
+            0.06474812527411113
+          ],
+          [
+            "data",
+            0.05041714741916605
+          ],
+          [
+            "private",
+            0.017972480019062206
+          ],
+          [
+            "Privacy",
+            0.017635340257778336
+          ],
+          [
+            "differential",
+            0.015046588364828209
+          ],
+          [
+            "sensitive",
+            0.014885051057380026
+          ],
+          [
+            "differential privacy",
+            0.014884665534920216
+          ],
+          [
+            "synthetic",
+            0.014396826736814076
+          ],
+          [
+            "queries",
+            0.014178203121198826
+          ],
+          [
+            "utility",
+            0.013566531154065595
+          ]
+        ],
+        "count": 340
+      },
+      "2": {
+        "name": "2_series_time_time series_mining",
+        "keywords": [
+          [
+            "series",
+            0.04969700668405018
+          ],
+          [
+            "time",
+            0.04044521208045351
+          ],
+          [
+            "time series",
+            0.038442989127468574
+          ],
+          [
+            "mining",
+            0.03705150987964148
+          ],
+          [
+            "data",
+            0.0341195557742171
+          ],
+          [
+            "patterns",
+            0.02872927571456679
+          ],
+          [
+            "pattern",
+            0.02456510079747713
+          ],
+          [
+            "algorithm",
+            0.021619516936856816
+          ],
+          [
+            "detection",
+            0.017745615482478917
+          ],
+          [
+            "algorithms",
+            0.017261410820234788
+          ]
+        ],
+        "count": 251
+      },
+      "3": {
+        "name": "3_process_event_mining_process mining",
+        "keywords": [
+          [
+            "process",
+            0.10771349539874311
+          ],
+          [
+            "event",
+            0.07817327412648055
+          ],
+          [
+            "mining",
+            0.05579155551891287
+          ],
+          [
+            "process mining",
+            0.05532145106288658
+          ],
+          [
+            "Process",
+            0.04090313924254392
+          ],
+          [
+            "logs",
+            0.038966839321863185
+          ],
+          [
+            "processes",
+            0.03659245288541614
+          ],
+          [
+            "event logs",
+            0.03318887282254053
+          ],
+          [
+            "data",
+            0.03149923772536554
+          ],
+          [
+            "log",
+            0.02927098103342941
+          ]
+        ],
+        "count": 158
+      },
+      "4": {
+        "name": "4_blockchain_blockchains_consensus_Blockchain",
+        "keywords": [
+          [
+            "blockchain",
+            0.07946733852470539
+          ],
+          [
+            "blockchains",
+            0.035161675492894576
+          ],
+          [
+            "consensus",
+            0.03485640664983373
+          ],
+          [
+            "Blockchain",
+            0.029239842581294452
+          ],
+          [
+            "transactions",
+            0.025418160756331402
+          ],
+          [
+            "data",
+            0.025293932748457093
+          ],
+          [
+            "protocols",
+            0.02114531242760517
+          ],
+          [
+            "systems",
+            0.020428515338591163
+          ],
+          [
+            "transaction",
+            0.01852061638002365
+          ],
+          [
+            "shard",
+            0.017399689150421588
+          ]
+        ],
+        "count": 115
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.39591018800457,
+        -0.4437315231096478,
+        -0.6501591038696506,
+        -0.7294127978576614
+      ],
+      [
+        -0.39591018800457,
+        1.0,
+        -0.3918756307852732,
+        -0.6644641549237043,
+        -0.7266615239026786
+      ],
+      [
+        -0.4437315231096478,
+        -0.3918756307852732,
+        1.0,
+        -0.6024324364395761,
+        -0.7379047857387797
+      ],
+      [
+        -0.6501591038696506,
+        -0.6644641549237043,
+        -0.6024324364395761,
+        1.0,
+        -0.7405775941745608
+      ],
+      [
+        -0.7294127978576614,
+        -0.7266615239026786,
+        -0.7379047857387797,
+        -0.7405775941745608,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        37,
+        10,
+        9,
+        6,
+        2
+      ],
+      "2020-02": [
+        36,
+        7,
+        9,
+        15,
+        2
+      ],
+      "2020-03": [
+        70,
+        10,
+        4,
+        7,
+        5
+      ],
+      "2020-04": [
+        54,
+        15,
+        12,
+        11,
+        1
+      ],
+      "2020-05": [
+        31,
+        14,
+        13,
+        8,
+        3
+      ],
+      "2020-06": [
+        34,
+        12,
+        15,
+        11,
+        2
+      ],
+      "2020-07": [
+        37,
+        10,
+        6,
+        12,
+        0
+      ],
+      "2020-08": [
+        32,
+        14,
+        10,
+        9,
+        1
+      ],
+      "2020-09": [
+        44,
+        10,
+        15,
+        9,
+        1
+      ],
+      "2020-10": [
+        51,
+        13,
+        8,
+        15,
+        1
+      ],
+      "2020-11": [
+        26,
+        10,
+        10,
+        7,
+        2
+      ],
+      "2020-12": [
+        34,
+        12,
+        9,
+        11,
+        0
+      ],
+      "2021-01": [
+        36,
+        8,
+        15,
+        7,
+        3
+      ],
+      "2021-02": [
+        31,
+        6,
+        4,
+        9,
+        3
+      ],
+      "2021-03": [
+        54,
+        17,
+        9,
+        14,
+        2
+      ],
+      "2021-04": [
+        47,
+        2,
+        10,
+        7,
+        0
+      ],
+      "2021-05": [
+        38,
+        10,
+        4,
+        13,
+        1
+      ],
+      "2021-06": [
+        40,
+        8,
+        7,
+        6,
+        0
+      ],
+      "2021-07": [
+        42,
+        13,
+        9,
+        17,
+        7
+      ],
+      "2021-08": [
+        26,
+        8,
+        8,
+        5,
+        2
+      ],
+      "2021-09": [
+        29,
+        10,
+        6,
+        9,
+        0
+      ],
+      "2021-10": [
+        40,
+        9,
+        14,
+        12,
+        0
+      ],
+      "2021-11": [
+        35,
+        10,
+        10,
+        6,
+        0
+      ],
+      "2021-12": [
+        33,
+        10,
+        12,
+        11,
+        2
+      ],
+      "2022-01": [
+        52,
+        9,
+        16,
+        8,
+        0
+      ],
+      "2022-02": [
+        40,
+        10,
+        7,
+        12,
+        1
+      ],
+      "2022-03": [
+        42,
+        9,
+        7,
+        13,
+        0
+      ],
+      "2022-04": [
+        35,
+        11,
+        5,
+        10,
+        2
+      ],
+      "2022-05": [
+        35,
+        11,
+        8,
+        7,
+        3
+      ],
+      "2022-06": [
+        36,
+        13,
+        13,
+        13,
+        3
+      ],
+      "2022-07": [
+        38,
+        17,
+        9,
+        6,
+        4
+      ],
+      "2022-08": [
+        46,
+        12,
+        7,
+        5,
+        2
+      ],
+      "2022-09": [
+        39,
+        8,
+        10,
+        11,
+        1
+      ],
+      "2022-10": [
+        40,
+        10,
+        4,
+        8,
+        2
+      ],
+      "2022-11": [
+        30,
+        11,
+        16,
+        12,
+        3
+      ],
+      "2022-12": [
+        25,
+        10,
+        11,
+        12,
+        3
+      ],
+      "2023-01": [
+        30,
+        10,
+        10,
+        8,
+        0
+      ],
+      "2023-02": [
+        27,
+        11,
+        8,
+        9,
+        4
+      ],
+      "2023-03": [
+        44,
+        17,
+        15,
+        6,
+        2
+      ],
+      "2023-04": [
+        44,
+        6,
+        15,
+        15,
+        1
+      ],
+      "2023-05": [
+        44,
+        16,
+        5,
+        11,
+        1
+      ],
+      "2023-06": [
+        53,
+        12,
+        10,
+        10,
+        4
+      ],
+      "2023-07": [
+        56,
+        17,
+        14,
+        13,
+        2
+      ],
+      "2023-08": [
+        49,
+        12,
+        12,
+        11,
+        1
+      ],
+      "2023-09": [
+        34,
+        7,
+        8,
+        12,
+        3
+      ],
+      "2023-10": [
+        55,
+        14,
+        16,
+        6,
+        1
+      ],
+      "2023-11": [
+        47,
+        9,
+        15,
+        10,
+        2
+      ],
+      "2023-12": [
+        61,
+        19,
+        11,
+        8,
+        2
+      ],
+      "2024-01": [
+        39,
+        8,
+        5,
+        10,
+        0
+      ],
+      "2024-02": [
+        37,
+        12,
+        9,
+        9,
+        2
+      ],
+      "2024-03": [
+        75,
+        17,
+        13,
+        20,
+        2
+      ],
+      "2024-04": [
+        43,
+        10,
+        10,
+        15,
+        1
+      ],
+      "2024-05": [
+        51,
+        13,
+        14,
+        16,
+        0
+      ],
+      "2024-06": [
+        62,
+        14,
+        14,
+        27,
+        1
+      ],
+      "2024-07": [
+        59,
+        13,
+        6,
+        17,
+        2
+      ],
+      "2024-08": [
+        46,
+        19,
+        8,
+        15,
+        1
+      ],
+      "2024-09": [
+        50,
+        10,
+        9,
+        17,
+        2
+      ],
+      "2024-10": [
+        48,
+        18,
+        11,
+        21,
+        1
+      ],
+      "2024-11": [
+        69,
+        13,
+        16,
+        14,
+        2
+      ],
+      "2024-12": [
+        76,
+        18,
+        16,
+        14,
+        2
+      ],
+      "2025-01": [
+        56,
+        12,
+        10,
+        12,
+        3
+      ],
+      "2025-02": [
+        73,
+        18,
+        14,
+        13,
+        1
+      ],
+      "2025-03": [
+        63,
+        21,
+        14,
+        20,
+        3
+      ],
+      "2025-04": [
+        83,
+        19,
+        17,
+        20,
+        5
+      ],
+      "2025-05": [
+        91,
+        15,
+        10,
+        21,
+        0
+      ],
+      "2025-06": [
+        67,
+        13,
+        10,
+        13,
+        0
+      ],
+      "2025-07": [
+        79,
+        17,
+        12,
+        19,
+        3
+      ],
+      "2025-08": [
+        100,
+        16,
+        11,
+        15,
+        5
+      ],
+      "2025-09": [
+        37,
+        8,
+        4,
+        9,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "CMDBench: A Benchmark for Coarse-to-fine Multimodal Data Discovery in Compound AI Systems",
+          "year": "2024-06",
+          "abstract": "Compound AI systems (CASs) that employ LLMs as agents to accomplish\nknowledge-intensive tasks via interactions with tools and data retrievers have\ngarnered significant interest within database and AI communities. While these\nsystems have the potential to supplement typical analysis workflows of data\nanalysts in enterprise data platforms, unfortunately, CASs are subject to the\nsame data discovery challenges that analysts have encountered over the years --\nsilos of multimodal data sources, created across teams and departments within\nan organization, make it difficult to identify appropriate data sources for\naccomplishing the task at hand. Existing data discovery benchmarks do not model\nsuch multimodality and multiplicity of data sources. Moreover, benchmarks of\nCASs prioritize only evaluating end-to-end task performance. To catalyze\nresearch on evaluating the data discovery performance of multimodal data\nretrievers in CASs within a real-world setting, we propose CMDBench, a\nbenchmark modeling the complexity of enterprise data platforms. We adapt\nexisting datasets and benchmarks in open-domain -- from question answering and\ncomplex reasoning tasks to natural language querying over structured data -- to\nevaluate coarse- and fine-grained data discovery and task execution\nperformance. Our experiments reveal the impact of data retriever design on\ndownstream task performance -- a 46% drop in task accuracy on average -- across\nvarious modalities, data sources, and task difficulty. The results indicate the\nneed to develop optimization strategies to identify appropriate LLM agents and\nretrievers for efficient execution of CASs over enterprise data.",
+          "arxiv_id": "2406.00583v1"
+        },
+        {
+          "title": "GSmart: An Efficient SPARQL Query Engine Using Sparse Matrix Algebra -- Full Version",
+          "year": "2021-06",
+          "abstract": "Efficient execution of SPARQL queries over large RDF datasets is a topic of\nconsiderable interest due to increased use of RDF to encode data. Most of this\nwork has followed either relational or graph-based approaches. In this paper,\nwe propose an alternative query engine, called gSmart, based on matrix algebra.\nThis approach can potentially better exploit the computing power of\nhigh-performance heterogeneous architectures that we target. gSmart\nincorporates: (1) grouped incident edge-based SPARQL query evaluation, in which\nall unevaluated edges of a vertex are evaluated together using a series of\nmatrix operations to fully utilize query constraints and narrow down the\nsolution space; (2) a graph query planner that determines the order in which\nvertices in query graphs should be evaluated; (3) memory- and\ncomputation-efficient data structures including the light-weight sparse matrix\n(LSpM) storage for RDF data and the tree-based representation for evaluation\nresults; (4) a multi-stage data partitioner to map the incident edge-based\nquery evaluation into heterogeneous HPC architectures and develop multi-level\nparallelism; and (5) a parallel executor that uses the fine-grained processing\nscheme, pre-pruning technique, and tree-pruning technique to lower inter-node\ncommunication and enable high throughput. Evaluations of gSmart on a CPU+GPU\nHPC architecture show execution time speedups of up to 46920.00x compared to\nthe existing SPARQL query engines on a single node machine. Additionally,\ngSmart on the Tianhe-1A supercomputer achieves a maximum speedup of 6.90x\nscaling from 2 to 16 CPU+GPU nodes.",
+          "arxiv_id": "2106.14038v1"
+        },
+        {
+          "title": "CoddLLM: Empowering Large Language Models for Data Analytics",
+          "year": "2025-02",
+          "abstract": "Large Language Models (LLMs) have the potential to revolutionize data\nanalytics by simplifying tasks such as data discovery and SQL query synthesis\nthrough natural language interactions. This work serves as a pivotal first step\ntoward the development of foundation models explicitly designed for data\nanalytics applications. To propel this vision forward, we unveil a new data\nrecipe for post-training LLMs, enhancing their comprehension of data management\nand empowering them to tackle complex real-world analytics tasks. Specifically,\nour innovative approach includes a scalable synthetic data generation method\nthat enables the creation of a broad spectrum of topics centered on data\nrepresentation and manipulation. Furthermore, we introduce two new tasks that\nseamlessly bridge tables and text. We show that such tasks can enhance models'\nunderstanding of schema creation and the nuanced translation between natural\nlanguage and tabular data. Leveraging this data recipe, we post-train a new\nfoundation model, named CoddLLM, based on Mistral-NeMo-12B. To assess the\nlanguage understanding and reasoning capabilities of LLMs in the realm of data\nanalytics, we contribute AnalyticsMMLU, a benchmark containing thousands of\nmultiple-choice questions on databases, data analysis, and machine learning.\nOur focus on data discovery, has resulted in the contribution of three\ncomprehensive benchmarks that address both database and data lake scenarios.\nCoddLLM not only excels in performance but also sets a new standard, achieving\nthe highest average accuracy across eight datasets. It outperforms\nGPT-3.5-Turbo on AnalyticsMMLU, exceeding GPT-4o by 12.1% in table selection\nand showing an average improvement of 24.9% in Text-to-SQL compared to the base\nmodel.",
+          "arxiv_id": "2502.00329v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "GeoPointGAN: Synthetic Spatial Data with Local Label Differential Privacy",
+          "year": "2022-05",
+          "abstract": "Synthetic data generation is a fundamental task for many data management and\ndata science applications. Spatial data is of particular interest, and its\nsensitive nature often leads to privacy concerns. We introduce GeoPointGAN, a\nnovel GAN-based solution for generating synthetic spatial point datasets with\nhigh utility and strong individual level privacy guarantees. GeoPointGAN's\narchitecture includes a novel point transformation generator that learns to\nproject randomly generated point co-ordinates into meaningful synthetic\nco-ordinates that capture both microscopic (e.g., junctions, squares) and\nmacroscopic (e.g., parks, lakes) geographic features. We provide our privacy\nguarantees through label local differential privacy, which is more practical\nthan traditional local differential privacy. We seamlessly integrate this level\nof privacy into GeoPointGAN by augmenting the discriminator to the point level\nand implementing a randomized response-based mechanism that flips the labels\nassociated with the 'real' and 'fake' points used in training. Extensive\nexperiments show that GeoPointGAN significantly outperforms recent solutions,\nimproving by up to 10 times compared to the most competitive baseline. We also\nevaluate GeoPointGAN using range, hotspot, and facility location queries, which\nconfirm the practical effectiveness of GeoPointGAN for privacy-preserving\nquerying. The results illustrate that a strong level of privacy is achieved\nwith little-to-no adverse utility cost, which we explain through the\ngeneralization and regularization effects that are realized by flipping the\nlabels of the data during training.",
+          "arxiv_id": "2205.08886v1"
+        },
+        {
+          "title": "Infinite Stream Estimation under Personalized $w$-Event Privacy",
+          "year": "2025-09",
+          "abstract": "Streaming data collection is indispensable for stream data analysis, such as\nevent monitoring. However, publishing these data directly leads to privacy\nleaks. $w$-event privacy is a valuable tool to protect individual privacy\nwithin a given time window while maintaining high accuracy in data collection.\nMost existing $w$-event privacy studies on infinite data stream only focus on\nhomogeneous privacy requirements for all users. In this paper, we propose\npersonalized $w$-event privacy protection that allows different users to have\ndifferent privacy requirements in private data stream estimation. Specifically,\nwe design a mechanism that allows users to maintain constant privacy\nrequirements at each time slot, namely Personalized Window Size Mechanism\n(PWSM). Then, we propose two solutions to accurately estimate stream data\nstatistics while achieving $w$-event level $\\epsilon$ personalized differential\nprivacy ( ($w$, $\\epsilon$)-EPDP), namely Personalized Budget Distribution\n(PBD) and Peronalized Budget Absorption (PBA). PBD always provides at least the\nsame privacy budget for the next time step as the amount consumed in the\nprevious release. PBA fully absorbs the privacy budget from the previous $k$\ntime slots, while also borrowing from the privacy budget of the next $k$ time\nslots, to increase the privacy budget for the current time slot. We prove that\nboth PBD and PBA outperform the state-of-the-art private stream estimation\nmethods while satisfying the privacy requirements of all users. We demonstrate\nthe efficiency and effectiveness of our PBD and PBA on both real and synthetic\ndata sets, compared with the recent uniformity $w$-event approaches, Budget\nDistribution (BD) and Budget Absorption (BA). Our PBD achieves 68% less error\nthan BD on average on real data sets. Besides, our PBA achieves 24.9% less\nerror than BA on average on synthetic data sets.",
+          "arxiv_id": "2509.08387v1"
+        },
+        {
+          "title": "OptimShare: A Unified Framework for Privacy Preserving Data Sharing -- Towards the Practical Utility of Data with Privacy",
+          "year": "2023-06",
+          "abstract": "Tabular data sharing serves as a common method for data exchange. However,\nsharing sensitive information without adequate privacy protection can\ncompromise individual privacy. Thus, ensuring privacy-preserving data sharing\nis crucial. Differential privacy (DP) is regarded as the gold standard in data\nprivacy. Despite this, current DP methods tend to generate privacy-preserving\ntabular datasets that often suffer from limited practical utility due to heavy\nperturbation and disregard for the tables' utility dynamics. Besides, there has\nnot been much research on selective attribute release, particularly in the\ncontext of controlled partially perturbed data sharing. This has significant\nimplications for scenarios such as cross-agency data sharing in real-world\nsituations. We introduce OptimShare: a utility-focused, multi-criteria solution\ndesigned to perturb input datasets selectively optimized for specific\nreal-world applications. OptimShare combines the principles of differential\nprivacy, fuzzy logic, and probability theory to establish an integrated tool\nfor privacy-preserving data sharing. Empirical assessments confirm that\nOptimShare successfully strikes a balance between better data utility and\nrobust privacy, effectively serving various real-world problem scenarios.",
+          "arxiv_id": "2306.03379v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Efficient Temporal Pattern Mining in Big Time Series Using Mutual Information -- Full Version",
+          "year": "2020-10",
+          "abstract": "Very large time series are increasingly available from an ever wider range of\nIoT-enabled sensors deployed in different environments. Significant insights\ncan be gained by mining temporal patterns from these time series. Unlike\ntraditional pattern mining, temporal pattern mining (TPM) adds event time\nintervals into extracted patterns, making them more expressive at the expense\nof increased mining time complexity. Existing TPM methods either cannot scale\nto large datasets, or work only on pre-processed temporal events rather than on\ntime series. This paper presents our Frequent Temporal Pattern Mining from Time\nSeries (FTPMf TS) approach which provides: (1) The end-to-end FTPMf TS process\ntaking time series as input and producing frequent temporal patterns as output.\n(2) The efficient Hierarchical Temporal Pattern Graph Mining (HTPGM) algorithm\nthat uses efficient data structures for fast support and confidence\ncomputation, and employs effective pruning techniques for significantly faster\nmining. (3) An approximate version of HTPGM that uses mutual information, a\nmeasure of data correlation known from information theory, to prune unpromising\ntime series from the search space. (4) An extensive experimental evaluation\nshowing that HTPGM outperforms the baselines in runtime and memory consumption,\nand can scale to big datasets. The approximate HTPGM is up to two orders of\nmagnitude faster and less memory consuming than the baselines, while retaining\nhigh accuracy.",
+          "arxiv_id": "2010.03653v8"
+        },
+        {
+          "title": "Top-k contrast order-preserving pattern mining",
+          "year": "2023-10",
+          "abstract": "Recently, order-preserving pattern (OPP) mining, a new sequential pattern\nmining method, has been proposed to mine frequent relative orders in a time\nseries. Although frequent relative orders can be used as features to classify a\ntime series, the mined patterns do not reflect the differences between two\nclasses of time series well. To effectively discover the differences between\ntime series, this paper addresses the top-k contrast OPP (COPP) mining and\nproposes a COPP-Miner algorithm to discover the top-k contrast patterns as\nfeatures for time series classification, avoiding the problem of improper\nparameter setting. COPP-Miner is composed of three parts: extreme point\nextraction to reduce the length of the original time series, forward mining,\nand reverse mining to discover COPPs. Forward mining contains three steps:\ngroup pattern fusion strategy to generate candidate patterns, the support rate\ncalculation method to efficiently calculate the support of a pattern, and two\npruning strategies to further prune candidate patterns. Reverse mining uses one\npruning strategy to prune candidate patterns and consists of applying the same\nprocess as forward mining. Experimental results validate the efficiency of the\nproposed algorithm and show that top-k COPPs can be used as features to obtain\na better classification performance.",
+          "arxiv_id": "2310.02612v2"
+        },
+        {
+          "title": "OPP-Miner: Order-preserving sequential pattern mining",
+          "year": "2022-01",
+          "abstract": "A time series is a collection of measurements in chronological order.\nDiscovering patterns from time series is useful in many domains, such as stock\nanalysis, disease detection, and weather forecast. To discover patterns,\nexisting methods often convert time series data into another form, such as\nnominal/symbolic format, to reduce dimensionality, which inevitably deviates\nthe data values. Moreover, existing methods mainly neglect the order\nrelationships between time series values. To tackle these issues, inspired by\norder-preserving matching, this paper proposes an Order-Preserving sequential\nPattern (OPP) mining method, which represents patterns based on the order\nrelationships of the time series data. An inherent advantage of such\nrepresentation is that the trend of a time series can be represented by the\nrelative order of the values underneath the time series data. To obtain\nfrequent trends in time series, we propose the OPP-Miner algorithm to mine\npatterns with the same trend (sub-sequences with the same relative order).\nOPP-Miner employs the filtration and verification strategies to calculate the\nsupport and uses pattern fusion strategy to generate candidate patterns. To\ncompress the result set, we also study finding the maximal OPPs. Experiments\nvalidate that OPP-Miner is not only efficient and scalable but can also\ndiscover similar sub-sequences in time series. In addition, case studies show\nthat our algorithms have high utility in analyzing the COVID-19 epidemic by\nidentifying critical trends and improve the clustering performance.",
+          "arxiv_id": "2202.03140v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "A Python Tool for Object-Centric Process Mining Comparison",
+          "year": "2022-02",
+          "abstract": "Object-centric process mining provides a more holistic view of processes\nwhere we analyze processes with multiple case notions. However, most\nobject-centric process mining techniques consider the whole event log rather\nthan the comparison of existing behaviors in the log. In this paper, we\nintroduce a stand-alone object-centric process cube tool built on the PM4PY-MDL\nprocess mining framework. Our infrastructure uses both object and event\nattributes to build the process cube which leads to different types of\nmaterialization. Furthermore, our tool is equipped with the state of the art\nobject-centric process mining techniques. Through our tool the user can\nvisualize the extracted object-centric event log from process cube operations,\nexport the object-centric event log, discover the state-of-the-art\nobject-centric process model for the extracted log, and compare the process\nmodels side-by-side.",
+          "arxiv_id": "2202.05709v1"
+        },
+        {
+          "title": "Extended Event Log: Towards a Unified Standard for Process Mining",
+          "year": "2024-12",
+          "abstract": "Process mining has grown popular today given their ability to provide\nmanagers with insights into the actual business process as executed by\nemployees. Process mining depends on event logs found in process aware\ninformation systems to model business processes. This has raised the need to\ndevelop event log standards given that event logs are the entry point to any\nprocess mining project. One of the main challenges of event logs and process\nmining in general as was mentioned by the IEEE task force on process mining\ndeals with the finding, merging and cleaning event data.This resulted in having\nmultiple event log standards with different features. This paper attempts to\npropose a new unified standard for event logs that enriches the results of\nprocess mining without the need to tailor event logs for each process mining\nproject.",
+          "arxiv_id": "2412.18012v1"
+        },
+        {
+          "title": "Process Comparison Using Object-Centric Process Cubes",
+          "year": "2021-03",
+          "abstract": "Process mining provides ways to analyze business processes. Common process\nmining techniques consider the process as a whole. However, in real-life\nbusiness processes, different behaviors exist that make the overall process too\ncomplex to interpret. Process comparison is a branch of process mining that\nisolates different behaviors of the process from each other by using process\ncubes. Process cubes organize event data using different dimensions. Each cell\ncontains a set of events that can be used as an input to apply process mining\ntechniques. Existing work on process cubes assume single case notions. However,\nin real processes, several case notions (e.g., order, item, package, etc.) are\nintertwined. Object-centric process mining is a new branch of process mining\naddressing multiple case notions in a process. To make a bridge between\nobject-centric process mining and process comparison, we propose a process cube\nframework, which supports process cube operations such as slice and dice on\nobject-centric event logs. To facilitate the comparison, the framework is\nintegrated with several object-centric process discovery approaches.",
+          "arxiv_id": "2103.07184v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Novel Architecture to Create and Maintain Personal Blockchains",
+          "year": "2022-12",
+          "abstract": "Blockchain has been touted as a revolutionary technology. However, despite\nthe excitement, blockchain has not been adopted in many fields. Many are\nhesitant to adopt blockchain technology due to privacy concerns, barriers to\nuse, or lack of practical use cases. In this work, we outline a potential\nblockchain use case for tracking financial transactions across multiple\nfinancial institutions. We show the downsides of traditional centralized\napproaches and that blockchain approaches fail to give all the privacy and\naccessibility required for this use case. Thus we propose a novel blockchain\narchitecture to support our use case. This novel architecture combines the ease\nof use of public blockchains with the privacy of private blockchains by\nallowing users to create personal blockchains. We believe this novel personal\nblockchain architecture will lead to more blockchain adoption, particularly in\nuse cases handling private data.",
+          "arxiv_id": "2212.14671v1"
+        },
+        {
+          "title": "Efficient Forkless Blockchain Databases",
+          "year": "2025-08",
+          "abstract": "Operating nodes in an L1 blockchain remains costly despite recent advances in\nblockchain technology. One of the most resource-intensive components of a node\nis the blockchain database, also known as StateDB, that manages balances,\nnonce, code, and the persistent storage of accounts/smart contracts. Although\nthe blockchain industry has transitioned from forking to forkless chains due to\nimproved consensus protocols, forkless blockchains still rely on legacy forking\ndatabases that are suboptimal for their purposes. In this paper, we propose a\nforkless blockchain database, showing a 100x improvement in storage and a 10x\nimprovement in throughput compared to the geth-based Fantom Blockchain client.",
+          "arxiv_id": "2508.20686v1"
+        },
+        {
+          "title": "Distributed Nonblocking Commit Protocols for Many-Party Cross-Blockchain Transactions",
+          "year": "2020-01",
+          "abstract": "The interoperability across multiple blockchains would play a critical role\nin future blockchain-based data management paradigm. Existing techniques either\nwork only for two blockchains or requires a centralized component to govern the\ncross-blockchain transaction execution, neither of which would meet the\nscalability requirement. This paper proposes a new distributed commit protocol,\nnamely \\textit{cross-blockchain transaction} (CBT), for conducting transactions\nacross an arbitrary number of blockchains without any centralized component.\nThe key idea of CBT is to extend the two-phase commit protocol with a heartbeat\nmechanism to ensure the liveness of CBT without introducing additional nodes or\nblockchains. We have implemented CBT and compared it to the state-of-the-art\nprotocols, demonstrating CBT's low overhead (3.6\\% between two blockchains,\nless than $1\\%$ among 32 or more blockchains) and high scalability (linear\nscalability on up to 64-blockchain transactions). In addition, we developed a\ngraphic user interface for users to virtually monitor the status of the\ncross-blockchain transactions.",
+          "arxiv_id": "2001.01174v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T18:54:16Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

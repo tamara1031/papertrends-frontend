@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_model_network_networks_data",
+        "keywords": [
+          [
+            "model",
+            0.04528679792556838
+          ],
+          [
+            "network",
+            0.039473839443454464
+          ],
+          [
+            "networks",
+            0.03838584641315631
+          ],
+          [
+            "data",
+            0.030400066582822703
+          ],
+          [
+            "social",
+            0.030003202187938977
+          ],
+          [
+            "time",
+            0.025832044956444537
+          ],
+          [
+            "dynamics",
+            0.025604128026898647
+          ],
+          [
+            "study",
+            0.023322674035596572
+          ],
+          [
+            "models",
+            0.022518036498598605
+          ],
+          [
+            "different",
+            0.021136983784208186
+          ]
+        ],
+        "count": 8947
+      },
+      "1": {
+        "name": "1_teams_players_team_sports",
+        "keywords": [
+          [
+            "teams",
+            0.049454535854504995
+          ],
+          [
+            "players",
+            0.04760210604057337
+          ],
+          [
+            "team",
+            0.04657602690217303
+          ],
+          [
+            "sports",
+            0.037524503803077196
+          ],
+          [
+            "performance",
+            0.03373493201377133
+          ],
+          [
+            "football",
+            0.028770632511146973
+          ],
+          [
+            "game",
+            0.02776416010981453
+          ],
+          [
+            "player",
+            0.027542442432860078
+          ],
+          [
+            "ranking",
+            0.026823491515492986
+          ],
+          [
+            "soccer",
+            0.026197645079652054
+          ]
+        ],
+        "count": 112
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.46893191507909565
+      ],
+      [
+        -0.46893191507909565,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        102,
+        2
+      ],
+      "2020-02": [
+        110,
+        5
+      ],
+      "2020-03": [
+        184,
+        4
+      ],
+      "2020-04": [
+        232,
+        2
+      ],
+      "2020-05": [
+        269,
+        3
+      ],
+      "2020-06": [
+        262,
+        4
+      ],
+      "2020-07": [
+        234,
+        4
+      ],
+      "2020-08": [
+        206,
+        2
+      ],
+      "2020-09": [
+        143,
+        3
+      ],
+      "2020-10": [
+        144,
+        1
+      ],
+      "2020-11": [
+        146,
+        4
+      ],
+      "2020-12": [
+        138,
+        3
+      ],
+      "2021-01": [
+        131,
+        1
+      ],
+      "2021-02": [
+        118,
+        2
+      ],
+      "2021-03": [
+        151,
+        7
+      ],
+      "2021-04": [
+        124,
+        2
+      ],
+      "2021-05": [
+        135,
+        7
+      ],
+      "2021-06": [
+        136,
+        5
+      ],
+      "2021-07": [
+        134,
+        4
+      ],
+      "2021-08": [
+        102,
+        4
+      ],
+      "2021-09": [
+        108,
+        5
+      ],
+      "2021-10": [
+        101,
+        3
+      ],
+      "2021-11": [
+        122,
+        2
+      ],
+      "2021-12": [
+        99,
+        6
+      ],
+      "2022-01": [
+        117,
+        4
+      ],
+      "2022-02": [
+        91,
+        5
+      ],
+      "2022-03": [
+        116,
+        7
+      ],
+      "2022-04": [
+        83,
+        2
+      ],
+      "2022-05": [
+        112,
+        3
+      ],
+      "2022-06": [
+        103,
+        5
+      ],
+      "2022-07": [
+        112,
+        3
+      ],
+      "2022-08": [
+        105,
+        3
+      ],
+      "2022-09": [
+        105,
+        0
+      ],
+      "2022-10": [
+        111,
+        3
+      ],
+      "2022-11": [
+        105,
+        4
+      ],
+      "2022-12": [
+        103,
+        0
+      ],
+      "2023-01": [
+        97,
+        1
+      ],
+      "2023-02": [
+        79,
+        6
+      ],
+      "2023-03": [
+        127,
+        5
+      ],
+      "2023-04": [
+        92,
+        2
+      ],
+      "2023-05": [
+        123,
+        4
+      ],
+      "2023-06": [
+        113,
+        6
+      ],
+      "2023-07": [
+        158,
+        6
+      ],
+      "2023-08": [
+        108,
+        3
+      ],
+      "2023-09": [
+        106,
+        2
+      ],
+      "2023-10": [
+        128,
+        7
+      ],
+      "2023-11": [
+        136,
+        1
+      ],
+      "2023-12": [
+        129,
+        4
+      ],
+      "2024-01": [
+        133,
+        3
+      ],
+      "2024-02": [
+        126,
+        9
+      ],
+      "2024-03": [
+        160,
+        1
+      ],
+      "2024-04": [
+        113,
+        4
+      ],
+      "2024-05": [
+        105,
+        4
+      ],
+      "2024-06": [
+        118,
+        8
+      ],
+      "2024-07": [
+        115,
+        4
+      ],
+      "2024-08": [
+        109,
+        4
+      ],
+      "2024-09": [
+        108,
+        1
+      ],
+      "2024-10": [
+        138,
+        6
+      ],
+      "2024-11": [
+        106,
+        3
+      ],
+      "2024-12": [
+        107,
+        8
+      ],
+      "2025-01": [
+        148,
+        8
+      ],
+      "2025-02": [
+        115,
+        7
+      ],
+      "2025-03": [
+        110,
+        5
+      ],
+      "2025-04": [
+        112,
+        5
+      ],
+      "2025-05": [
+        138,
+        6
+      ],
+      "2025-06": [
+        135,
+        4
+      ],
+      "2025-07": [
+        131,
+        3
+      ],
+      "2025-08": [
+        109,
+        8
+      ],
+      "2025-09": [
+        60,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Deep learning based parameter search for an agent based social network model",
+          "year": "2021-07",
+          "abstract": "Interactions between humans give rise to complex social networks that are\ncharacterized by heterogeneous degree distribution, weight-topology relation,\noverlapping community structure, and dynamics of links. Understanding such\nnetworks is a primary goal of science due to serving as the scaffold for many\nemergent social phenomena from disease spreading to political movements. An\nappropriate tool for studying them is agent-based modeling, in which nodes,\nrepresenting persons, make decisions about creating and deleting links, thus\nyielding various macroscopic behavioral patterns. Here we focus on studying a\ngeneralization of the weighted social network model, being one of the most\nfundamental agent-based models for describing the formation of social ties and\nsocial networks. This Generalized Weighted Social Network (GWSN) model\nincorporates triadic closure, homophilic interactions, and various link\ntermination mechanisms, which have been studied separately in the previous\nworks. Accordingly, the GWSN model has an increased number of input parameters\nand the model behavior gets excessively complex, making it challenging to\nclarify the model behavior. We have executed massive simulations with a\nsupercomputer and using the results as the training data for deep neural\nnetworks to conduct regression analysis for predicting the properties of the\ngenerated networks from the input parameters. The obtained regression model was\nalso used for global sensitivity analysis to identify which parameters are\ninfluential or insignificant. We believe that this methodology is applicable\nfor a large class of complex network models, thus opening the way for more\nrealistic quantitative agent-based modeling.",
+          "arxiv_id": "2107.06507v1"
+        },
+        {
+          "title": "Layer entanglement in multiplex, temporal multiplex, and coupled multilayer networks",
+          "year": "2020-04",
+          "abstract": "Complex networks, such as transportation networks, social networks, or\nbiological networks, capture the complex system they model often by\nrepresenting only one type of interactions. In real world systems, there may be\nmany different aspects that connect entities together. These can be captured\nusing multilayer networks, which combine different modalities of interactions\nin a single model. Coupling in multilayer networks may exhibit different\nproperties which can be related to the very nature of the data they model (or\nto events in time-dependant data). We hypothesise that such properties may be\nreflected in the way layers are intertwined. In this paper, we investigated\nthese through the prism of layer entanglement in coupled multilayer networks.\nWe test over 30 real-life networks in 6 different disciplines (social, genetic,\ntransport, co-authorship, trade, and neuronal networks). We further propose a\nrandom generator, displaying comparable patterns of elementary layer\nentanglement and transition coupling entanglement across 1,329,696 synthetic\ncoupled multilayer networks. Our experiments demonstrate difference of layer\nentanglement across disciplines, and even suggest a link between entanglement\nintensity and homophily. We additionally study entanglement in 3 real world\ntemporal datasets displaying a potential rise in entanglement activity prior to\nother network activity.",
+          "arxiv_id": "2004.01534v2"
+        },
+        {
+          "title": "Bursty Switching Dynamics Promotes the Collapse of Network Topologies",
+          "year": "2025-05",
+          "abstract": "Time-varying connections are crucial in understanding the structures and\ndynamics of complex networks. In this paper, we propose a continuous-time\nswitching topology model for temporal networks that is driven by bursty\nbehavior and study the effects on network structure and dynamic processes. Each\nedge can switch between an active and a dormant state, leading to intermittent\nactivation patterns that are characterized by a renewal process. We analyze the\nstationarity of the network activation scale and emerging degree distributions\nby means of the Markov chain theory. We show that switching dynamics can\npromote the collapse of network topologies by reducing heterogeneities and\nforming isolated components in the underlying network. Our results indicate\nthat switching topologies can significantly influence random walks in different\nnetworks and promote cooperation in donation games. Our research thus provides\na simple quantitative framework to study network dynamics with temporal and\nintermittent interactions across social and technological networks.",
+          "arxiv_id": "2505.12417v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Individual and team performance in cricket",
+          "year": "2024-01",
+          "abstract": "Advancements in technology have recently allowed us to collect and analyse\nlarge-scale fine-grained data about human performance, drastically changing the\nway we approach sports. Here, we provide the first comprehensive analysis of\nindividual and team performance in One-Day International cricket, one of the\nmost popular sports in the world. We investigate temporal patterns of\nindividual success by quantifying the location of the best performance of a\nplayer and find that they can happen at any time in their career, surrounded by\na burst of comparable top performances. Our analysis shows that long-term\nperformance can be predicted from early observations and that temporary\nexclusions of players from teams are often due to declining performances but\nare also associated with strong comebacks. By computing the duration of streaks\nof winning performances compared to random expectations, we demonstrate that\nteams win and lose matches consecutively. We define the contributions of\nspecialists such as openers, all-rounders and wicket-keepers and show that a\nbalanced performance from multiple individuals is required to ensure team\nsuccess. Finally, we measure how transitioning to captaincy in the team\nimproves the performance of batsmen, but not that of bowlers. Our work\nemphasizes how individual endeavours and team dynamics interconnect and\ninfluence collective outcomes in sports.",
+          "arxiv_id": "2401.15161v2"
+        },
+        {
+          "title": "Ranking matters: Does the new format select the best teams for the knockout phase in the UEFA Champions League?",
+          "year": "2025-03",
+          "abstract": "Starting in the 2024/25 season, the Union of European Football Associations\n(UEFA) has fundamentally changed the format of its club competitions: the group\nstage has been replaced by a league phase played by 36 teams in an incomplete\nround robin format. This makes ranking the teams based on their results\nchallenging because teams play against different sets of opponents, whose\nstrengths vary. In this research note, we apply several well-known ranking\nmethods for incomplete round robin tournaments to the 2024/25 UEFA Champions\nLeague league phase in order to check the robustness of the official ranking,\nas well as to call the attention of organizers to the non-trivial issue of\nranking in these competitions. Our results show that it is doubtful whether the\ncurrently used point-based system provides the best ranking of the teams.",
+          "arxiv_id": "2503.13569v2"
+        },
+        {
+          "title": "A new competition format to avoid collusion in three-team sports tournaments",
+          "year": "2023-07",
+          "abstract": "The usual FIFA World Cup-TM group stage format is eight groups of four teams\nfor a total of 32 teams. The top two teams from each group advance to the next\nround, resulting in a 16-team knockout stage. The next edition of the World Cup\nwill have 48 teams. Although FIFA initially proposed a configuration of 16\nthree-team groups, it has ultimately settled on 12 four-team groups. The format\nchosen, based on four-team groups, has clear organizational disadvantages and\neven a lack of fairness in the competition. But, in return, there is less risk\nof collusion in groups of four teams than in groups of three teams. This study\nproposes a modification to the three-team group format to reduce the risk of\ncollusion by making the order of the matches not predefined in advance. The\nresults obtained with Monte Carlo simulations show that the new three-team\ncompetition format with dynamic match order is comparable, in terms of\ncollusion risk, to the four-team group system commonly used in past World Cups.",
+          "arxiv_id": "2308.02507v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:03:51Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

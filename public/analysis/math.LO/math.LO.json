@@ -1,0 +1,1318 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_groups_group_definable_fields",
+        "keywords": [
+          [
+            "groups",
+            0.04157745573882421
+          ],
+          [
+            "group",
+            0.03491394210044556
+          ],
+          [
+            "definable",
+            0.03348498848166356
+          ],
+          [
+            "fields",
+            0.03193733401495621
+          ],
+          [
+            "field",
+            0.02522600927790988
+          ],
+          [
+            "minimal",
+            0.022368810164554935
+          ],
+          [
+            "finite",
+            0.017992025020286538
+          ],
+          [
+            "prove",
+            0.017534449425360685
+          ],
+          [
+            "closed",
+            0.016698456349220556
+          ],
+          [
+            "theory",
+            0.015791501677945883
+          ]
+        ],
+        "count": 892
+      },
+      "1": {
+        "name": "1_cardinal_cardinals_forcing_model",
+        "keywords": [
+          [
+            "cardinal",
+            0.03813792484262687
+          ],
+          [
+            "cardinals",
+            0.03016793697873802
+          ],
+          [
+            "forcing",
+            0.029878263962822605
+          ],
+          [
+            "model",
+            0.019596325379942547
+          ],
+          [
+            "set",
+            0.017380391400887298
+          ],
+          [
+            "ZFC",
+            0.01571307329429638
+          ],
+          [
+            "large",
+            0.015293838772120077
+          ],
+          [
+            "sets",
+            0.014855933105178121
+          ],
+          [
+            "ultrafilters",
+            0.012919646936983588
+          ],
+          [
+            "space",
+            0.012800784012129958
+          ]
+        ],
+        "count": 750
+      },
+      "2": {
+        "name": "2_logic_logics_modal_semantics",
+        "keywords": [
+          [
+            "logic",
+            0.055062296624363155
+          ],
+          [
+            "logics",
+            0.03627937625314733
+          ],
+          [
+            "modal",
+            0.033910685510866005
+          ],
+          [
+            "semantics",
+            0.029631592537751075
+          ],
+          [
+            "proof",
+            0.024652914803971193
+          ],
+          [
+            "intuitionistic",
+            0.018118810538889137
+          ],
+          [
+            "paper",
+            0.016718876876051194
+          ],
+          [
+            "modal logic",
+            0.016347389367605103
+          ],
+          [
+            "systems",
+            0.016171197159349802
+          ],
+          [
+            "Logic",
+            0.01414613748258485
+          ]
+        ],
+        "count": 666
+      },
+      "3": {
+        "name": "3_algebras_lattices_lattice_algebra",
+        "keywords": [
+          [
+            "algebras",
+            0.08313710127964674
+          ],
+          [
+            "lattices",
+            0.04704563067438414
+          ],
+          [
+            "lattice",
+            0.029969186126320494
+          ],
+          [
+            "algebra",
+            0.026984831352857806
+          ],
+          [
+            "variety",
+            0.02625559744940233
+          ],
+          [
+            "varieties",
+            0.023648908548548675
+          ],
+          [
+            "distributive",
+            0.02304413242770267
+          ],
+          [
+            "MV",
+            0.021535669531475555
+          ],
+          [
+            "finite",
+            0.020607944565299883
+          ],
+          [
+            "duality",
+            0.020169029162522504
+          ]
+        ],
+        "count": 253
+      },
+      "4": {
+        "name": "4_set_theory_order_mathematics",
+        "keywords": [
+          [
+            "set",
+            0.033454772788705664
+          ],
+          [
+            "theory",
+            0.027348918893053055
+          ],
+          [
+            "order",
+            0.024986688254068162
+          ],
+          [
+            "mathematics",
+            0.023675387834310627
+          ],
+          [
+            "sets",
+            0.019124889167697348
+          ],
+          [
+            "set theory",
+            0.01836536799122179
+          ],
+          [
+            "numbers",
+            0.015064105917819839
+          ],
+          [
+            "paper",
+            0.014202357225116327
+          ],
+          [
+            "mathematical",
+            0.013107174530944425
+          ],
+          [
+            "theorem",
+            0.01283066131643802
+          ]
+        ],
+        "count": 245
+      },
+      "5": {
+        "name": "5_type_theory_type theory_category",
+        "keywords": [
+          [
+            "type",
+            0.06525359334566037
+          ],
+          [
+            "theory",
+            0.05105376913099206
+          ],
+          [
+            "type theory",
+            0.04457517041109588
+          ],
+          [
+            "category",
+            0.04012955597260292
+          ],
+          [
+            "categories",
+            0.02968345140174191
+          ],
+          [
+            "types",
+            0.027350892371881246
+          ],
+          [
+            "homotopy",
+            0.027141393953382036
+          ],
+          [
+            "topos",
+            0.02662418481275991
+          ],
+          [
+            "homotopy type",
+            0.018522825548743724
+          ],
+          [
+            "theories",
+            0.01804227864854105
+          ]
+        ],
+        "count": 202
+      },
+      "6": {
+        "name": "6_Ramsey_graphs_graph_finite",
+        "keywords": [
+          [
+            "Ramsey",
+            0.06337074492218564
+          ],
+          [
+            "graphs",
+            0.04395576224726084
+          ],
+          [
+            "graph",
+            0.035025953201079055
+          ],
+          [
+            "finite",
+            0.03325776243398896
+          ],
+          [
+            "big",
+            0.03269798635896169
+          ],
+          [
+            "degrees",
+            0.026468332335636415
+          ],
+          [
+            "infinite",
+            0.02602440366793279
+          ],
+          [
+            "theorem",
+            0.024380193986030654
+          ],
+          [
+            "structures",
+            0.01864262447374227
+          ],
+          [
+            "number",
+            0.017183272435258516
+          ]
+        ],
+        "count": 151
+      },
+      "7": {
+        "name": "7_random_computable_randomness_degrees",
+        "keywords": [
+          [
+            "random",
+            0.04598371817194042
+          ],
+          [
+            "computable",
+            0.04228942373889421
+          ],
+          [
+            "randomness",
+            0.04090446755693659
+          ],
+          [
+            "degrees",
+            0.033020488111720696
+          ],
+          [
+            "degree",
+            0.027480105084607805
+          ],
+          [
+            "sets",
+            0.027315103293588515
+          ],
+          [
+            "reducibility",
+            0.027208442218511854
+          ],
+          [
+            "set",
+            0.024621799463053567
+          ],
+          [
+            "Weihrauch",
+            0.02459742827684116
+          ],
+          [
+            "equivalence",
+            0.01766303501681381
+          ]
+        ],
+        "count": 119
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.2501679868585505,
+        -0.5142897572048658,
+        -0.6502317553085729,
+        -0.5138687354615044,
+        -0.5539441705407036,
+        -0.5425175752997554,
+        -0.387920874984506
+      ],
+      [
+        -0.2501679868585505,
+        1.0,
+        -0.5226242352989421,
+        -0.662222402212862,
+        -0.5206850748818693,
+        -0.5980893247837987,
+        -0.5578802912840259,
+        -0.382186886016861
+      ],
+      [
+        -0.5142897572048658,
+        -0.5226242352989421,
+        1.0,
+        -0.6143843143315839,
+        -0.4642373200242234,
+        -0.5865847172818001,
+        -0.6441726845872122,
+        -0.5122717524335852
+      ],
+      [
+        -0.6502317553085729,
+        -0.662222402212862,
+        -0.6143843143315839,
+        1.0,
+        -0.6617007199332283,
+        -0.6401677952057239,
+        -0.6771359364345049,
+        -0.6573577295511015
+      ],
+      [
+        -0.5138687354615044,
+        -0.5206850748818693,
+        -0.4642373200242234,
+        -0.6617007199332283,
+        1.0,
+        -0.3775158558904939,
+        -0.6221177999007332,
+        -0.5738256673159556
+      ],
+      [
+        -0.5539441705407036,
+        -0.5980893247837987,
+        -0.5865847172818001,
+        -0.6401677952057239,
+        -0.3775158558904939,
+        1.0,
+        -0.6455808121374533,
+        -0.5995058128618264
+      ],
+      [
+        -0.5425175752997554,
+        -0.5578802912840259,
+        -0.6441726845872122,
+        -0.6771359364345049,
+        -0.6221177999007332,
+        -0.6455808121374533,
+        1.0,
+        -0.5809395463285075
+      ],
+      [
+        -0.387920874984506,
+        -0.382186886016861,
+        -0.5122717524335852,
+        -0.6573577295511015,
+        -0.5738256673159556,
+        -0.5995058128618264,
+        -0.5809395463285075,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        24,
+        7,
+        16,
+        8,
+        5,
+        5,
+        1,
+        1
+      ],
+      "2020-02": [
+        32,
+        6,
+        11,
+        7,
+        9,
+        7,
+        3,
+        4
+      ],
+      "2020-03": [
+        23,
+        8,
+        16,
+        1,
+        3,
+        7,
+        4,
+        1
+      ],
+      "2020-04": [
+        39,
+        8,
+        24,
+        4,
+        7,
+        9,
+        6,
+        6
+      ],
+      "2020-05": [
+        29,
+        3,
+        10,
+        9,
+        9,
+        4,
+        4,
+        5
+      ],
+      "2020-06": [
+        34,
+        6,
+        15,
+        10,
+        6,
+        9,
+        5,
+        3
+      ],
+      "2020-07": [
+        23,
+        6,
+        19,
+        10,
+        6,
+        9,
+        4,
+        3
+      ],
+      "2020-08": [
+        28,
+        7,
+        10,
+        7,
+        9,
+        9,
+        5,
+        5
+      ],
+      "2020-09": [
+        27,
+        13,
+        13,
+        4,
+        10,
+        12,
+        3,
+        4
+      ],
+      "2020-10": [
+        31,
+        5,
+        10,
+        4,
+        10,
+        13,
+        7,
+        2
+      ],
+      "2020-11": [
+        27,
+        10,
+        12,
+        3,
+        9,
+        8,
+        4,
+        0
+      ],
+      "2020-12": [
+        22,
+        7,
+        12,
+        4,
+        11,
+        3,
+        2,
+        3
+      ],
+      "2021-01": [
+        24,
+        10,
+        16,
+        2,
+        8,
+        3,
+        5,
+        3
+      ],
+      "2021-02": [
+        19,
+        10,
+        15,
+        9,
+        9,
+        8,
+        4,
+        2
+      ],
+      "2021-03": [
+        24,
+        12,
+        18,
+        3,
+        4,
+        10,
+        7,
+        2
+      ],
+      "2021-04": [
+        29,
+        9,
+        11,
+        10,
+        6,
+        10,
+        2,
+        5
+      ],
+      "2021-05": [
+        31,
+        3,
+        18,
+        9,
+        4,
+        9,
+        9,
+        1
+      ],
+      "2021-06": [
+        31,
+        7,
+        13,
+        12,
+        4,
+        7,
+        1,
+        5
+      ],
+      "2021-07": [
+        31,
+        9,
+        9,
+        8,
+        11,
+        8,
+        0,
+        1
+      ],
+      "2021-08": [
+        30,
+        5,
+        15,
+        9,
+        11,
+        4,
+        4,
+        2
+      ],
+      "2021-09": [
+        25,
+        13,
+        13,
+        4,
+        5,
+        10,
+        1,
+        5
+      ],
+      "2021-10": [
+        29,
+        14,
+        15,
+        7,
+        7,
+        8,
+        5,
+        3
+      ],
+      "2021-11": [
+        25,
+        11,
+        9,
+        7,
+        8,
+        7,
+        0,
+        5
+      ],
+      "2021-12": [
+        26,
+        12,
+        12,
+        4,
+        6,
+        5,
+        1,
+        3
+      ],
+      "2022-01": [
+        12,
+        7,
+        15,
+        3,
+        1,
+        6,
+        4,
+        2
+      ],
+      "2022-02": [
+        19,
+        10,
+        10,
+        4,
+        6,
+        7,
+        1,
+        1
+      ],
+      "2022-03": [
+        28,
+        6,
+        16,
+        5,
+        5,
+        12,
+        4,
+        4
+      ],
+      "2022-04": [
+        26,
+        11,
+        12,
+        9,
+        11,
+        5,
+        4,
+        2
+      ],
+      "2022-05": [
+        17,
+        3,
+        18,
+        6,
+        5,
+        5,
+        4,
+        2
+      ],
+      "2022-06": [
+        25,
+        11,
+        10,
+        9,
+        7,
+        5,
+        3,
+        4
+      ],
+      "2022-07": [
+        18,
+        10,
+        15,
+        5,
+        8,
+        11,
+        2,
+        4
+      ],
+      "2022-08": [
+        35,
+        8,
+        12,
+        5,
+        8,
+        3,
+        5,
+        3
+      ],
+      "2022-09": [
+        40,
+        10,
+        20,
+        4,
+        11,
+        6,
+        3,
+        4
+      ],
+      "2022-10": [
+        31,
+        6,
+        20,
+        7,
+        5,
+        5,
+        6,
+        3
+      ],
+      "2022-11": [
+        18,
+        7,
+        10,
+        8,
+        8,
+        5,
+        3,
+        3
+      ],
+      "2022-12": [
+        24,
+        14,
+        12,
+        3,
+        7,
+        10,
+        4,
+        2
+      ],
+      "2023-01": [
+        24,
+        8,
+        11,
+        6,
+        10,
+        12,
+        5,
+        5
+      ],
+      "2023-02": [
+        28,
+        11,
+        9,
+        8,
+        10,
+        7,
+        4,
+        4
+      ],
+      "2023-03": [
+        40,
+        15,
+        24,
+        13,
+        8,
+        6,
+        8,
+        4
+      ],
+      "2023-04": [
+        28,
+        8,
+        15,
+        8,
+        14,
+        10,
+        3,
+        3
+      ],
+      "2023-05": [
+        31,
+        6,
+        16,
+        7,
+        12,
+        15,
+        7,
+        5
+      ],
+      "2023-06": [
+        18,
+        5,
+        18,
+        9,
+        6,
+        7,
+        4,
+        2
+      ],
+      "2023-07": [
+        23,
+        7,
+        21,
+        4,
+        5,
+        4,
+        6,
+        3
+      ],
+      "2023-08": [
+        26,
+        13,
+        16,
+        9,
+        7,
+        4,
+        2,
+        7
+      ],
+      "2023-09": [
+        17,
+        12,
+        17,
+        8,
+        5,
+        11,
+        7,
+        2
+      ],
+      "2023-10": [
+        29,
+        7,
+        23,
+        9,
+        8,
+        11,
+        8,
+        1
+      ],
+      "2023-11": [
+        27,
+        6,
+        16,
+        6,
+        10,
+        8,
+        3,
+        8
+      ],
+      "2023-12": [
+        26,
+        11,
+        20,
+        7,
+        8,
+        7,
+        4,
+        5
+      ],
+      "2024-01": [
+        34,
+        12,
+        25,
+        6,
+        4,
+        4,
+        5,
+        7
+      ],
+      "2024-02": [
+        25,
+        10,
+        16,
+        9,
+        5,
+        12,
+        7,
+        6
+      ],
+      "2024-03": [
+        31,
+        12,
+        18,
+        8,
+        8,
+        9,
+        7,
+        3
+      ],
+      "2024-04": [
+        29,
+        7,
+        19,
+        4,
+        6,
+        11,
+        4,
+        1
+      ],
+      "2024-05": [
+        35,
+        8,
+        22,
+        7,
+        8,
+        9,
+        6,
+        4
+      ],
+      "2024-06": [
+        41,
+        7,
+        23,
+        6,
+        10,
+        9,
+        4,
+        3
+      ],
+      "2024-07": [
+        31,
+        8,
+        9,
+        6,
+        7,
+        11,
+        7,
+        2
+      ],
+      "2024-08": [
+        18,
+        9,
+        18,
+        3,
+        11,
+        8,
+        4,
+        2
+      ],
+      "2024-09": [
+        32,
+        3,
+        15,
+        13,
+        6,
+        13,
+        3,
+        4
+      ],
+      "2024-10": [
+        39,
+        8,
+        15,
+        8,
+        8,
+        7,
+        4,
+        3
+      ],
+      "2024-11": [
+        29,
+        11,
+        14,
+        3,
+        15,
+        12,
+        3,
+        4
+      ],
+      "2024-12": [
+        33,
+        11,
+        18,
+        10,
+        8,
+        9,
+        4,
+        4
+      ],
+      "2025-01": [
+        30,
+        7,
+        18,
+        9,
+        9,
+        13,
+        5,
+        5
+      ],
+      "2025-02": [
+        32,
+        9,
+        13,
+        6,
+        5,
+        4,
+        2,
+        0
+      ],
+      "2025-03": [
+        34,
+        14,
+        20,
+        12,
+        2,
+        11,
+        4,
+        1
+      ],
+      "2025-04": [
+        30,
+        4,
+        15,
+        8,
+        6,
+        6,
+        2,
+        6
+      ],
+      "2025-05": [
+        32,
+        10,
+        18,
+        7,
+        5,
+        12,
+        7,
+        5
+      ],
+      "2025-06": [
+        29,
+        11,
+        21,
+        2,
+        6,
+        4,
+        4,
+        0
+      ],
+      "2025-07": [
+        42,
+        13,
+        21,
+        9,
+        12,
+        7,
+        6,
+        1
+      ],
+      "2025-08": [
+        40,
+        11,
+        15,
+        11,
+        13,
+        11,
+        3,
+        4
+      ],
+      "2025-09": [
+        18,
+        2,
+        4,
+        5,
+        4,
+        5,
+        4,
+        3
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Topological dynamics and NIP fields",
+          "year": "2020-10",
+          "abstract": "We study definable topological dynamics of some algebraic group actions over\nan arbitrary NIP field $K$. We show that the Ellis group of the universal\ndefinable flow of $\\mathrm{SL}_2(K)$ is non-trivial if the multiplicative group\nof $K$ is not type-definably connected, providing a way to find multiple\ncounterexamples to the Ellis group conjecture, particularly in the case of\ndp-minimal fields. We also study some structure theory of algebraic groups over\n$K$ with definable f-generics.",
+          "arxiv_id": "2010.14586v1"
+        },
+        {
+          "title": "A Jordan-Chevalley decomposition beyond algebraic groups",
+          "year": "2022-03",
+          "abstract": "We prove a decomposition of definable groups in o-minimal structures\ngeneralizing the Jordan-Chevalley decomposition of linear algebraic groups. It\nfollows that any definable linear group G is a semidirect product of its\nmaximal normal definable torsion-free subgroup N(G) and a definable subgroup P,\nunique up to conjugacy, definably isomorphic to a semialgebraic group.\n  Along the way, we establish two other fundamental decompositions of classical\ngroups in arbitrary o-minimal structures: 1) a Levi decomposition and 2) a key\ndecomposition of disconnected groups, relying on a generalization of Frattini's\nargument to the o-minimal setting. In o-minimal structures, together with\np-groups, 0-groups play a crucial role. We give a characterization of both\nclasses and show that definable p-groups are solvable, like finite p-groups,\nbut they are not necessarily nilpotent. Furthermore, we prove that definable\np-groups (p=0 or p prime) are definably generated by torsion elements and, in\ndefinably connected groups, 0-Sylow subgroups coincide with p-Sylow subgroups\nfor each p prime.",
+          "arxiv_id": "2203.02637v4"
+        },
+        {
+          "title": "On definable groups and D-group in certain fields with a generic derivation",
+          "year": "2023-05",
+          "abstract": "We continue our earlier study of finite dimensional definable groups in\nmodels of the the model companion of an o-minimal L-theory T expanded by a\ngeneric derivation as in [F-K].\n  We generalize Buium's notion of an algebraic D-group to L-definable\n  D-groups, namely (G,s), where G is a L-definable group in a model of T, and s\nis an L-definable group section into the prolongation of G. Our main theorem\nsays that every definable group of finite dimension in a model of the theory is\ndefinably isomorphic to the ``sharp'' points of an L-definable D-group.\n  We obtain analogous results when T is either the theory of p-adically closed\nfields or the theory of pseudo-finite fields of characteristic zero.",
+          "arxiv_id": "2305.16747v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Measures that violate the Generalized Continuum Hypothesis",
+          "year": "2025-03",
+          "abstract": "A simple \\(P_\\lambda\\)-point on a regular cardinal \\(\\kappa\\) is a uniform\nultrafilter on \\(\\kappa\\) with a mod-bounded decreasing generating sequence of\nlength \\(\\lambda\\).\n  We prove that if there is a simple $P_\\lambda$-point ultrafilter over\n$\\kappa>\\omega$, then\n$\\lambda=\\mathfrak{d}_\\kappa=\\mathfrak{b}_\\kappa=\\mathfrak{u}_\\kappa=\\mathfrak{r}_\\kappa=\\mathfrak{s}_\\kappa$.\nWe show that such ultrafilters appear in the models of\n\\cite{GartiBen-Neria,BROOKETAYLOR201737}. We improve the lower bound for the\nconsistency strength of the existence of a $P_{\\kappa^{++}}$-point to a\n$2$-strong cardinal. Finally, we apply our arguments to obtain non-trivial\nlower bounds for (1) the statement that the generalized tower number\n$\\mathfrak{t}_\\kappa$ is greater than $\\kappa^+$ and $\\kappa$ is measurable,\n(2) the preservation of measurability after the generalized Mathias forcing,\nand (3) variations of filter games of\n\\cite{NIELSEN_WELCH_2019,HolySchlicht:HierarchyRamseyLikeCardinals,MagForZem}\nin the case $2^\\kappa>\\kappa^+$.",
+          "arxiv_id": "2503.20094v1"
+        },
+        {
+          "title": "Low level definability above large cardinals",
+          "year": "2024-01",
+          "abstract": "We study some connections between definability in generalized descriptive set\ntheory and large cardinals, particularly measurable cardinals and limits\nthereof, working in ZFC. We show that if $\\kappa$ is a limit of measurable\ncardinals then there is no $\\Sigma_1(H_\\kappa\\cup\\mathrm{OR})$ wellorder of a\nsubset of $P(\\kappa)$ of length $\\geq\\kappa^+$; this answers a question of\nL\\\"ucke and M\\\"uller. However, in $M_1$, the minimal proper class mouse with a\nWoodin cardinal, for every uncountable cardinal $\\kappa$ which is not a limit\nof measurables, there is a $\\Sigma_1(H_\\kappa\\cup\\{\\kappa\\})$ good wellorder of\n$H_{\\kappa^+}$. If $\\kappa$ is a limit of measurables then there is no\n$\\Sigma_1(H_\\kappa\\cup\\mathrm{OR})$ mad family $F\\subseteq P(\\kappa)$ of\ncardinality $>\\kappa$, and if also $\\mathrm{cof}(\\kappa)>\\omega$ then there is\nno $\\Sigma_1(H_\\kappa\\cup\\mathrm{OR})$ almost disjoint family $F\\subseteq\nP(\\kappa)$ of cardinality $>\\kappa$. However, relative to the consistency of\nlarge cardinals, $\\Pi_1(\\{\\kappa\\})$ mad families and maximal independent\nfamilies $F\\subseteq P(\\kappa)$ can exist, when $\\kappa$ is a limit of\nmeasurables, and even more. We also examine some of the features of $L[U]$, and\nanswer another question of L\\\"ucke and M\\\"uller, showing that if $\\kappa$ is a\nweakly compact cardinal such that every $\\Sigma_1(H_\\kappa\\cup\\{\\kappa\\})$\nsubset of $P(\\kappa)$ of cardinality $>\\kappa$ has a subset which is the range\nof a perfect function, then there is an inner model satisfying \"there is a\nweakly compact limit of measurable cardinals\".",
+          "arxiv_id": "2401.01979v3"
+        },
+        {
+          "title": "Transferring Compactness",
+          "year": "2023-07",
+          "abstract": "We demonstrate that the technology of Radin forcing can be used to transfer\ncompactness properties at a weakly inaccessible but not strong limit cardinal\nto a strongly inaccessible cardinal.\n  As an application, relative to the existence of large cardinals, we construct\na model of set theory in which there is a cardinal $\\kappa$ that is\n$n$-$d$-stationary for all $n\\in \\omega$ but not weakly compact. This is in\nsharp contrast to the situation in the constructible universe $L$, where\n$\\kappa$ being $(n+1)$-$d$-stationary is equivalent to $\\kappa$ being\n$\\mathbf{\\Pi}^1_n$-indescribable. We also show that it is consistent that there\nis a cardinal $\\kappa\\leq 2^\\omega$ such that $P_\\kappa(\\lambda)$ is\n$n$-stationary for all $\\lambda\\geq \\kappa$ and $n\\in \\omega$, answering a\nquestion of Sakai.",
+          "arxiv_id": "2307.06910v3"
+        }
+      ],
+      "2": [
+        {
+          "title": "Algebraic semantics for one-variable lattice-valued logics",
+          "year": "2022-09",
+          "abstract": "The one-variable fragment of any first-order logic may be considered as a\nmodal logic, where the universal and existential quantifiers are replaced by a\nbox and diamond modality, respectively. In several cases, axiomatizations of\nalgebraic semantics for these logics have been obtained: most notably, for the\nmodal counterparts S5 and MIPC of the one-variable fragments of first-order\nclassical logic and intuitionistic logic, respectively. Outside the setting of\nfirst-order intermediate logics, however, a general approach is lacking. This\npaper provides the basis for such an approach in the setting of first-order\nlattice-valued logics, where formulas are interpreted in algebraic structures\nwith a lattice reduct. In particular, axiomatizations are obtained for modal\ncounterparts of one-variable fragments of a broad family of these logics by\ngeneralizing a functional representation theorem of Bezhanishvili and Harding\nfor monadic Heyting algebras. An alternative proof-theoretic proof is also\nprovided for one-variable fragments of first-order substructural logics that\nhave a cut-free sequent calculus and admit a certain bounded interpolation\nproperty.",
+          "arxiv_id": "2209.08566v1"
+        },
+        {
+          "title": "Nested Sequents for Intuitionistic Grammar Logics via Structural Refinement",
+          "year": "2022-10",
+          "abstract": "Intuitionistic grammar logics fuse constructive and multi-modal reasoning\nwhile permitting the use of converse modalities, serving as a generalization of\nstandard intuitionistic modal logics. In this paper, we provide definitions of\nthese logics as well as establish a suitable proof theory thereof. In\nparticular, we show how to apply the structural refinement methodology to\nextract cut-free nested sequent calculi for intuitionistic grammar logics from\ntheir semantics. This method proceeds by first transforming the semantics of\nthese logics into sound and complete labeled sequent systems, which we prove\nhave favorable proof-theoretic properties such as syntactic cut-elimination. We\nthen transform these labeled systems into nested sequent systems via the\nintroduction of propagation rules and the elimination of structural rules. Our\nderived proof systems are then put to use, whereby we prove the conservativity\nof intuitionistic grammar logics over their modal counterparts, establish the\ngeneral undecidability of these logics, and recognize a decidable subclass,\nreferred to as \"simple\" intuitionistic grammar logics.",
+          "arxiv_id": "2210.17139v1"
+        },
+        {
+          "title": "Defining Logical Systems via Algebraic Constraints on Proofs",
+          "year": "2023-01",
+          "abstract": "We present a comprehensive programme analysing the decomposition of proof\nsystems for non-classical logics into proof systems for other logics,\nespecially classical logic, using an algebra of constraints. That is, one\nrecovers a proof system for a target logic by enriching a proof system for\nanother, typically simpler, logic with an algebra of constraints that act as\ncorrectness conditions on the latter to capture the former; for example, one\nmay use Boolean algebra to give constraints in a sequent calculus for classical\npropositional logic to produce a sequent calculus for intuitionistic\npropositional logic. The idea behind such forms of reduction is to obtain a\ntool for uniform and modular treatment of proof theory and provide a bridge\nbetween semantics logics and their proof theory. The article discusses the\ntheoretical background of the project and provides several illustrations of its\nwork in the field of intuitionistic and modal logics. The results include the\nfollowing: a uniform treatment of modular and cut-free proof systems for a\nlarge class of propositional logics; a general criterion for a novel approach\nto soundness and completeness of a logic with respect to a model-theoretic\nsemantics; and, a case study deriving a model-theoretic semantics from a\nproof-theoretic specification of a logic.",
+          "arxiv_id": "2301.02125v3"
+        }
+      ],
+      "3": [
+        {
+          "title": "Structure theorems for idempotent residuated lattices",
+          "year": "2020-04",
+          "abstract": "In this paper we study structural properties of residuated lattices that are\nidempotent as monoids. We provide descriptions of the totally ordered members\nof this class and obtain counting theorems for the number of finite algebras in\nvarious subclasses. We also establish the finite embeddability property for\ncertain varieties generated by classes of residuated lattices that are\nconservative in the sense that monoid multiplication always yields one of its\narguments. We then make use of a more symmetric version of Raftery's\ncharacterization theorem for totally ordered commutative idempotent residuated\nlattices to prove that the variety generated by this class has the amalgamation\nproperty. Finally, we address an open problem in the literature by giving an\nexample of a noncommutative variety of idempotent residuated lattices that has\nthe amalgamation property.",
+          "arxiv_id": "2004.09553v1"
+        },
+        {
+          "title": "New Results on Congruence Boolean Lifting Property",
+          "year": "2021-09",
+          "abstract": "The Lifting Idempotent Property ($LIP$) of ideals in commutative rings\ninspired the study of Boolean lifting properties in the context of other\nconcrete algebraic structures ($MV$-algebras, commutative l-groups,\n$BL$-algebras, bounded distributive lattices, residuated lattices,etc.), as\nwell as for some types of universal algebras (C. Muresan and the author defined\nand studied the Congruence Boolean Lifting Property ($CBLP$) for congruence\nmodular algebras).\n  A lifting ideal of a ring $R$ is an ideal of $R$ fulfilling $LIP$. In a\nrecent paper, Tarizadeh and Sharma obtained new results on lifting ideals in\ncommutative rings. The aim of this paper is to extend an important part of\ntheir results to congruences with $CBLP$ in semidegenerate congruence modular\nalgebras. The reticulation of such algebra will play an important role in our\ninvestigations (recall that the reticulation of a congruence modular algebra\n$A$ is a bounded distributive lattice $L(A)$ whose prime spectrum is\nhomeomorphic with Agliano's prime spectrum of $A$).\n  Almost all results regarding $CBLP$ are obtained in the setting of\nsemidegenerate congruence modular algebras having the property that the\nreticulations preserve the Boolean center.\n  The paper contains several properties of congruences with $CBLP$. Among the\nresults we mention a characterization theorem of congruences with $CBLP$. We\nachieve various conditions that ensure $CBLP$. Our results can be applied to a\nlot of types of concrete structures: commutative rings, $l$-groups,\ndistributive lattices, $MV$-algebras, $BL$-algebras, residuated lattices, etc.",
+          "arxiv_id": "2109.12615v1"
+        },
+        {
+          "title": "Projectivity in (bounded) integral residuated lattices",
+          "year": "2020-08",
+          "abstract": "In this paper we study projective algebras in varieties of (bounded)\ncommutative integral residuated lattices from an algebraic (as opposed to\ncategorical) point of view. In particular we use a well-established\nconstruction in residuated lattices: the ordinal sum. Its interaction with\ndivisibility makes our results have a better scope in varieties of divisibile\ncommutative integral residuated lattices, and it allows us to show that many\nsuch varieties have the property that every finitely presented algebra is\nprojective. In particular, we obtain results on (Stonean) Heyting algebras,\ncertain varieties of hoops, and product algebras. Moreover, we study varieties\nwith a Boolean retraction term, showing for instance that in a variety with a\nBoolean retraction term all finite Boolean algebras are projective. Finally, we\nconnect our results with the theory of Unification.",
+          "arxiv_id": "2008.13181v4"
+        }
+      ],
+      "4": [
+        {
+          "title": "On robust theorems due to Bolzano, Weierstrass, Cantor, and Jordan",
+          "year": "2021-02",
+          "abstract": "Reverse Mathematics (RM hereafter) is a program in the foundations of\nmathematics where the aim is to identify the minimal axioms needed to prove a\ngiven theorem from ordinary, i.e. non-set theoretic, mathematics. This program\nhas unveiled surprising regularities: the minimal axioms are very often\nequivalent to the theorem over the base theory, a weak system of 'computable\nmathematics', while most theorems are either provable in this base theory, or\nequivalent to one of only four logical systems. The latter plus the base theory\nare called the 'Big Five' and the associated equivalences are robust following\nMontalban, i.e. stable under small variations of the theorems at hand. Working\nin Kohlenbach's higher-order RM, we obtain two long series of equivalences\nbased on theorems due to Bolzano, Weierstrass, Jordan, and Cantor; these\nequivalences are extremely robust and have no counterpart among the Big Five\nsystems, as they are strictly between the base theory and the higher-order\ncounterpart of weak Koenig's lemma. Thus, higher-order RM is much richer than\nits second-order cousin, boasting (at least) two extra 'Big' systems.",
+          "arxiv_id": "2102.04787v5"
+        },
+        {
+          "title": "The Axiom of Choice in Computability Theory and Reverse Mathematics, with a cameo for the Continuum Hypothesis",
+          "year": "2020-05",
+          "abstract": "The Axiom of Choice (AC for short) is the most (in)famous axiom of the usual\nfoundations of mathematics, ZFC set theory. The (non-)essential use of AC in\nmathematics has been well-studied and thoroughly classified. Now, fragments of\ncountable AC not provable in ZF have recently been used in Kohlenbach's\nhigher-order Reverse Mathematics to obtain equivalences between closely related\ncompactness and local-global principles. We continue this study and show that\nNCC, a weak choice principle provable in ZF and much weaker systems, suffices\nfor many of these results. In light of the intimate connection between Reverse\nMathematics and computability theory, we also study realisers for NCC, i.e.\nfunctionals that produce the choice functions claimed to exist by the latter\nfrom the other data. Our hubris of undertaking the hitherto underdeveloped\nstudy of the computational properties of (choice functions from) AC leads to\ninteresting results. For instance, using Kleene's S1-S9 computation schemes, we\nshow that various total realisers for NCC compute Kleene's $\\exists^3$, a\nfunctional that gives rise to full second-order arithmetic, and vice versa. By\ncontrast, partial realisers for NCC should be much weaker, but establishing\nthis conjecture remains elusive. By way of catharsis, we show that the\nContinuum Hypothesis (CH for short) is equivalent to the existence of a\ncountably based partial realiser for NCC. The latter kind of realiser does not\ncompute Kleene's $\\exists^3$ and is therefore strictly weaker than a total one.",
+          "arxiv_id": "2006.01614v2"
+        },
+        {
+          "title": "Big in Reverse Mathematics: the uncountability of the real numbers",
+          "year": "2022-08",
+          "abstract": "The uncountability of $\\mathbb{R}$ is one of its most basic properties, known\nfar outside of mathematics. Cantor's 1874 proof of the uncountability of\n$\\mathbb{R}$ even appears in the very first paper on set theory, i.e. a\nhistorical milestone. In this paper, we study the uncountability of\n$\\mathbb{R}$ in Kohlenbach's higher-order Reverse Mathematics (RM for short),\nin the guise of the following principle: $$\\hbox{for a countable set $A\\subset\n\\mathbb{R}$, there exists $y\\in \\mathbb{R}\\setminus A$.}$$ An important\nconceptual observation is that the usual definition of countable set -- based\non injections or bijections to $\\mathbb{N}$ -- does not seem suitable for the\nRM-study of mainstream mathematics; we also propose a suitable (equivalent over\nstrong systems) alternative definition of countable set, namely union over\n$\\mathbb{N}$ of finite sets; the latter is known from the literature and closer\nto how countable sets occur 'in the wild'. We identify a considerable number of\ntheorems that are equivalent to the centred theorem based on our alternative\ndefinition. Perhaps surprisingly, our equivalent theorems involve most basic\nproperties of the Riemann integral, regulated or bounded variation functions,\nBlumberg's theorem, and Volterra's early work circa 1881. Our equivalences are\nalso robust, promoting the uncountability of $\\mathbb{R}$ to the status of\n'big' system in RM.",
+          "arxiv_id": "2208.03027v4"
+        }
+      ],
+      "5": [
+        {
+          "title": "$\\infty$-type theories",
+          "year": "2022-05",
+          "abstract": "We introduce $\\infty$-type theories as an $\\infty$-categorical generalization\nof the categorical definition of type theories introduced by the second named\nauthor. We establish analogous results to the previous work including the\nconstruction of initial models of $\\infty$-type theories, the construction of\ninternal languages of models of $\\infty$-type theories, and the theory-model\ncorrespondence for $\\infty$-type theories. Some structured\n$(\\infty,1)$-categories are naturally regarded as models of some $\\infty$-type\ntheories. Thus, since every (1-categorical) type theory is in particular an\n$\\infty$-type theory, $\\infty$-type theories provide a unified framework for\nconnections between type theories and $(\\infty,1)$-categorical structures. As\nan application we prove Kapulkin and Lumsdaine's conjecture that the dependent\ntype theory with intensional identity types gives internal languages for\n$(\\infty,1)$-categories with finite limits.",
+          "arxiv_id": "2205.00798v1"
+        },
+        {
+          "title": "Simplicial Homotopy Type Theory is not just Simplicial: What are $\\infty$-Categories?",
+          "year": "2025-08",
+          "abstract": "$\\infty$-category theory was originally developed in the context of classical\nhomotopy theory using standard set theoretical assumptions, but has since been\nextended to a variety of mathematical foundations. One such successful effort,\nprimarily due to Martini and Wolf, introduced a theory of $\\infty$-categories\ninternal to the foundation of an arbitrary Grothendieck $\\infty$-topos, meaning\nthey used categorical foundations. Another approach, due to Riehl and Shulman,\ndeveloped a theory of $\\infty$-categories internal to their own type theory:\nsimplicial homotopy type theory (sHoTT), meaning they employed a (homotopy)\ntype theoretic foundation.\n  One aspect of developing a theory of $\\infty$-categories in different\nfoundations consists of introducing ways to translate from one foundation to\nanother. Concretely, as part of their work, Riehl and Shulman prove that\n$\\infty$-categories internal to Grothendieck $\\infty$-topoi give us categorical\nmodels of sHoTT. In fact the name ``simplicial'' in sHoTT suggests that all\ncategorical models of sHoTT should be given by simplicial objects in suitable\n$\\infty$-categories. In this paper we prove that contrary to this expectation,\nthere are models of sHoTT that are not simply simplicial objects. This suggests\nthat in a general foundations, the notion of $\\infty$-category is more general\nthan previously assumed.",
+          "arxiv_id": "2508.07737v2"
+        },
+        {
+          "title": "Internal $\\infty$-Categorical Models of Dependent Type Theory: Towards 2LTT Eating HoTT",
+          "year": "2020-09",
+          "abstract": "Using dependent type theory to formalise the syntax of dependent type theory\nis a very active topic of study and goes under the name of \"type theory eating\nitself\" or \"type theory in type theory.\" Most approaches are at least loosely\nbased on Dybjer's categories with families (CwF's) and come with a type CON of\ncontexts, a type family TY indexed over it modelling types, and so on. This\nworks well in versions of type theory where the principle of unique identity\nproofs (UIP) holds. In homotopy type theory (HoTT) however, it is a\nlong-standing and frequently discussed open problem whether the type theory\n\"eats itself\" and can serve as its own interpreter. The fundamental underlying\ndifficulty seems to be that categories are not suitable to capture a type\ntheory in the absence of UIP.\n  In this paper, we develop a notion of $\\infty$-categories with families\n($\\infty$-CwF's). The approach to higher categories used relies on the\npreviously suggested semi-Segal types, with a new construction of identity\nsubstitutions that allow for both univalent and non-univalent variations. The\ntype-theoretic universe as well as the internalised syntax are models, although\nit remains a conjecture that the latter is initial. To circumvent the known\nunsolved problem of constructing semisimplicial types, the definition is\npresented in two-level type theory (2LTT).\n  Apart from introducing $\\infty$-CwF's, the paper explains the shortcomings of\n1-categories in type theory without UIP as well as the difficulties of and\napproaches to internal higher-dimensional categories.",
+          "arxiv_id": "2009.01883v2"
+        }
+      ],
+      "6": [
+        {
+          "title": "Colors of the Pseudotree",
+          "year": "2025-03",
+          "abstract": "We investigate big Ramsey degrees of finite substructures of the universal\ncountable homogeneous meet-tree and its binary variant. We prove that\nstructures containing antichains have infinite big Ramsey degrees, and the big\nRamsey degree of a 2-element chain is at least 8 and 7 for the binary variant.\nWe deduce that the generic C-relation does not have finite big Ramsey degrees.",
+          "arxiv_id": "2503.18727v2"
+        },
+        {
+          "title": "A survey on big Ramsey structures",
+          "year": "2024-07",
+          "abstract": "In recent years, there has been much progress in the field of structural\nRamsey theory, in particular in the study of big Ramsey degrees. In all known\nexamples of infinite structures with finite big Ramsey degrees, there is in\nfact a single expansion of the structure, called a big Ramsey structure, which\ncorrectly encodes the exact big Ramsey degrees of every finite substructure\nsimultaneously. The first half of the article collects facts about this\nphenomenon that have appeared in the literature into a single cohesive\nframework, thus offering a conceptual survey of big Ramsey structures. We\npresent some original results indicating that the standard methods of proving\nfinite big Ramsey degrees automatically yield big Ramsey structures, often with\ndesirable extra properties. The second half of the article is a survey in the\nmore traditional sense, discussing numerous examples from the literature and\nshowing how they fit into our framework. We also present some general results\non how big Ramsey degrees are affected by expanding structures with unary\nfunctions.",
+          "arxiv_id": "2407.17958v2"
+        },
+        {
+          "title": "Big Ramsey Degrees and Infinite Languages",
+          "year": "2023-01",
+          "abstract": "This paper investigates big Ramsey degrees of unrestricted relational\nstructures in (possibly) infinite languages. Despite significant progress in\nthe study of big Ramsey degrees, the big Ramsey degrees of many classes of\nstructures with finite small Ramsey degrees are still not well understood. We\nshow that if there are only finitely many relations of every arity greater than\none, then unrestricted relational structures have finite big Ramsey degrees,\nand give some evidence that this is tight. This is the first time finiteness of\nbig Ramsey degrees has been established for a random structure in an infinite\nlanguage. Our results represent an important step towards a better\nunderstanding of big Ramsey degrees for structures with relations of arity\ngreater than two.",
+          "arxiv_id": "2301.13116v5"
+        }
+      ],
+      "7": [
+        {
+          "title": "On New Notions of Algorithmic Dimension, Immunity, and Medvedev Degree",
+          "year": "2022-09",
+          "abstract": "We prove various results connected together by the common thread of\ncomputability theory. First, we investigate a new notion of algorithmic\ndimension, the inescapable dimension, which lies between the effective\nHausdorff and packing dimensions. We also study its generalizations, obtaining\nan embedding of the Turing degrees into notions of dimension. We then\ninvestigate a new notion of computability theoretic immunity that arose in the\ncourse of the previous study, that of a set of natural numbers with no\nco-enumerable subsets. We demonstrate how this notion of $\\Pi^0_1$-immunity is\nconnected to other immunity notions, and construct $\\Pi^0_1$-immune reals\nthroughout the high/low and Ershov hierarchies. We also study those degrees\nthat cannot compute or cannot co-enumerate a $\\Pi^0_1$-immune set. Finally, we\ndiscuss a recently discovered truth-table reduction for transforming a\nKolmogorov--Loveland random input into a Martin-L\\\"of random output by\nexploiting the fact that at least one half of such a KL-random is itself\nML-random. We show that there is no better algorithm relying on this fact,\ni.e., there is no positive, linear, or bounded truth-table reduction which does\nthis. We also generalize these results to the problem of outputting randomness\nfrom infinitely many inputs, only some of which are random.",
+          "arxiv_id": "2209.05659v1"
+        },
+        {
+          "title": "Probabilistic vs deterministic gamblers",
+          "year": "2021-12",
+          "abstract": "Can a probabilistic gambler get arbitrarily rich when all deterministic\ngamblers fail? We study this problem in the context of algorithmic randomness,\nintroducing a new notion -- almost everywhere computable randomness. A binary\nsequence $X$ is a.e.\\ computably random if there is no probabilistic computable\nstrategy which is total and succeeds on $X$ for positive measure of oracles.\nUsing the fireworks technique we construct a sequence which is partial\ncomputably random but not a.e.\\ computably random. We also prove the separation\nbetween a.e.\\ computable randomness and partial computable randomness, which\nhappens exactly in the uniformly almost everywhere dominating Turing degrees.",
+          "arxiv_id": "2112.04460v1"
+        },
+        {
+          "title": "Continuous Randomness via Transformations of 2-Random Sequences",
+          "year": "2024-03",
+          "abstract": "Reimann and Slaman initiated the study of sequences that are Martin-L\\\"of\nrandom with respect to a continuous measure, establishing fundamental facts\nabout NCR, the collection of sequences that are not Martin-L\\\"of random with\nrespect to any continuous measure. In the case of sequences that are random\nwith respect to a computable, continuous measure, the picture is fairly\nwell-understood: such sequences are truth-table equivalent to a Martin-L\\\"of\nrandom sequence. However, given a sequence that is random with respect to a\ncontinuous measure but not with respect to any computable measure, we can ask:\nhow close to effective is the measure with respect to which it is continuously\nrandom?\n  In this study, we take up this question by examining various transformations\nof 2-random sequences (sequences that are Martin-L\\\"of random relative to the\nhalting set $\\emptyset'$) to establish several results on sequences that are\ncontinuously random with respect to a measure that is computable in\n$\\emptyset'$. In particular, we show that (i) every noncomputable sequence that\nis computable from a 2-random sequence is Martin-L\\\"of random with respect to a\ncontinuous, $\\emptyset'$-computable measure and (ii) the Turing jump of every\n2-random sequence is Martin-L\\\"of random with respect to a continuous,\n$\\emptyset'$-computable measure. From these results, we obtain examples of\nsequences that are not proper, i.e., not random with respect to any computable\nmeasure, but are random with respect to a continuous, $\\emptyset'$-computable\nmeasure. Lastly, we consider the behavior of 2-randomness under a wider class\nof effective operators (c.e. operators, pseudojump operators, and operators\ndefined in terms of pseudojump inversion), showing that these too yield\nsequences that are Martin-L\\\"of random with respect to a continuous,\n$\\emptyset'$-computable measure.",
+          "arxiv_id": "2403.04047v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:54:59Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

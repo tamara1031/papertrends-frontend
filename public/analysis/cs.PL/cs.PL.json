@@ -1,0 +1,436 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_code_language_programming_program",
+        "keywords": [
+          [
+            "code",
+            0.03816872669590523
+          ],
+          [
+            "language",
+            0.034667381806909515
+          ],
+          [
+            "programming",
+            0.030015135933828537
+          ],
+          [
+            "program",
+            0.02908005493288117
+          ],
+          [
+            "programs",
+            0.02858786195653186
+          ],
+          [
+            "data",
+            0.025634289932076067
+          ],
+          [
+            "type",
+            0.023234402222079488
+          ],
+          [
+            "model",
+            0.021829834109138566
+          ],
+          [
+            "paper",
+            0.02164802321922215
+          ],
+          [
+            "approach",
+            0.02059531320522251
+          ]
+        ],
+        "count": 4324
+      },
+      "1": {
+        "name": "1_quantum_Quantum_circuit_classical",
+        "keywords": [
+          [
+            "quantum",
+            0.22378793453195095
+          ],
+          [
+            "Quantum",
+            0.060947324243467334
+          ],
+          [
+            "circuit",
+            0.04604991513289012
+          ],
+          [
+            "classical",
+            0.03912067061555937
+          ],
+          [
+            "circuits",
+            0.03881686284336923
+          ],
+          [
+            "quantum programming",
+            0.034205755377562916
+          ],
+          [
+            "programming",
+            0.03233777479765293
+          ],
+          [
+            "programs",
+            0.030069335858421753
+          ],
+          [
+            "computing",
+            0.023541844235702155
+          ],
+          [
+            "language",
+            0.0232631542273087
+          ]
+        ],
+        "count": 172
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.747204756914432
+      ],
+      [
+        -0.747204756914432,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        47,
+        0
+      ],
+      "2020-02": [
+        63,
+        0
+      ],
+      "2020-03": [
+        35,
+        4
+      ],
+      "2020-04": [
+        65,
+        3
+      ],
+      "2020-05": [
+        57,
+        5
+      ],
+      "2020-06": [
+        46,
+        0
+      ],
+      "2020-07": [
+        56,
+        1
+      ],
+      "2020-08": [
+        60,
+        0
+      ],
+      "2020-09": [
+        52,
+        1
+      ],
+      "2020-10": [
+        88,
+        2
+      ],
+      "2020-11": [
+        48,
+        0
+      ],
+      "2020-12": [
+        42,
+        3
+      ],
+      "2021-01": [
+        62,
+        5
+      ],
+      "2021-02": [
+        50,
+        0
+      ],
+      "2021-03": [
+        61,
+        1
+      ],
+      "2021-04": [
+        59,
+        1
+      ],
+      "2021-05": [
+        63,
+        1
+      ],
+      "2021-06": [
+        56,
+        1
+      ],
+      "2021-07": [
+        69,
+        3
+      ],
+      "2021-08": [
+        73,
+        1
+      ],
+      "2021-09": [
+        55,
+        5
+      ],
+      "2021-10": [
+        52,
+        3
+      ],
+      "2021-11": [
+        54,
+        5
+      ],
+      "2021-12": [
+        55,
+        4
+      ],
+      "2022-01": [
+        50,
+        2
+      ],
+      "2022-02": [
+        52,
+        2
+      ],
+      "2022-03": [
+        64,
+        0
+      ],
+      "2022-04": [
+        30,
+        6
+      ],
+      "2022-05": [
+        72,
+        7
+      ],
+      "2022-06": [
+        48,
+        2
+      ],
+      "2022-07": [
+        74,
+        1
+      ],
+      "2022-08": [
+        61,
+        0
+      ],
+      "2022-09": [
+        64,
+        0
+      ],
+      "2022-10": [
+        51,
+        4
+      ],
+      "2022-11": [
+        59,
+        4
+      ],
+      "2022-12": [
+        60,
+        2
+      ],
+      "2023-01": [
+        49,
+        0
+      ],
+      "2023-02": [
+        55,
+        3
+      ],
+      "2023-03": [
+        62,
+        3
+      ],
+      "2023-04": [
+        54,
+        4
+      ],
+      "2023-05": [
+        83,
+        1
+      ],
+      "2023-06": [
+        46,
+        2
+      ],
+      "2023-07": [
+        77,
+        1
+      ],
+      "2023-08": [
+        56,
+        1
+      ],
+      "2023-09": [
+        77,
+        1
+      ],
+      "2023-10": [
+        72,
+        5
+      ],
+      "2023-11": [
+        75,
+        10
+      ],
+      "2023-12": [
+        70,
+        0
+      ],
+      "2024-01": [
+        62,
+        2
+      ],
+      "2024-02": [
+        58,
+        3
+      ],
+      "2024-03": [
+        83,
+        1
+      ],
+      "2024-04": [
+        88,
+        4
+      ],
+      "2024-05": [
+        79,
+        1
+      ],
+      "2024-06": [
+        54,
+        4
+      ],
+      "2024-07": [
+        60,
+        2
+      ],
+      "2024-08": [
+        63,
+        4
+      ],
+      "2024-09": [
+        49,
+        6
+      ],
+      "2024-10": [
+        74,
+        3
+      ],
+      "2024-11": [
+        74,
+        3
+      ],
+      "2024-12": [
+        64,
+        4
+      ],
+      "2025-01": [
+        68,
+        5
+      ],
+      "2025-02": [
+        80,
+        3
+      ],
+      "2025-03": [
+        77,
+        2
+      ],
+      "2025-04": [
+        84,
+        9
+      ],
+      "2025-05": [
+        84,
+        2
+      ],
+      "2025-06": [
+        59,
+        4
+      ],
+      "2025-07": [
+        93,
+        4
+      ],
+      "2025-08": [
+        89,
+        3
+      ],
+      "2025-09": [
+        45,
+        1
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Neural Models for Source Code Synthesis and Completion",
+          "year": "2024-02",
+          "abstract": "Natural language (NL) to code suggestion systems assist developers in\nIntegrated Development Environments (IDEs) by translating NL utterances into\ncompilable code snippet. The current approaches mainly involve hard-coded,\nrule-based systems based on semantic parsing. These systems make heavy use of\nhand-crafted rules that map patterns in NL or elements in its syntax parse tree\nto various query constructs and can only work on a limited subset of NL with a\nrestricted NL syntax. These systems are unable to extract semantic information\nfrom the coding intents of the developer, and often fail to infer types, names,\nand the context of the source code to get accurate system-level code\nsuggestions. In this master thesis, we present sequence-to-sequence deep\nlearning models and training paradigms to map NL to general-purpose programming\nlanguages that can assist users with suggestions of source code snippets, given\na NL intent, and also extend auto-completion functionality of the source code\nto users while they are writing source code. The developed architecture\nincorporates contextual awareness into neural models which generate source code\ntokens directly instead of generating parse trees/abstract meaning\nrepresentations from the source code and converting them back to source code.\nThe proposed pretraining strategy and the data augmentation techniques improve\nthe performance of the proposed architecture. The proposed architecture has\nbeen found to exceed the performance of a neural semantic parser, TranX, based\non the BLEU-4 metric by 10.82%. Thereafter, a finer analysis for the parsable\ncode translations from the NL intent for CoNaLA challenge was introduced. The\nproposed system is bidirectional as it can be also used to generate NL code\ndocumentation given source code. Lastly, a RoBERTa masked language model for\nPython was proposed to extend the developed system for code completion.",
+          "arxiv_id": "2402.06690v1"
+        },
+        {
+          "title": "Sound Atomicity Inference for Data-Centric Synchronization",
+          "year": "2023-09",
+          "abstract": "Data-Centric Concurrency Control (DCCC) shifts the reasoning about\nconcurrency restrictions from control structures to data declaration. It is a\nhigh-level declarative approach that abstracts away from the actual concurrency\ncontrol mechanism(s) in use. Despite its advantages, the practical use of DCCC\nis hindered by the fact that it may require many annotations and/or multiple\nimplementations of the same method to cope with differently qualified\nparameters. Moreover, the existing DCCC solutions do not address the use of\ninterfaces, precluding their use in most object-oriented programs. To overcome\nthese limitations, in this paper we present AtomiS, a new DCCC model based on a\nrigorously defined type-sound programming language. Programming with AtomiS\nrequires only (atomic)-qualifying types of parameters and return values in\ninterface definitions, and of fields in class definitions. From this atomicity\nspecification, a static analysis infers the atomicity constraints that are\nlocal to each method, considering valid only the method variants that are\nconsistent with the specification, and performs code generation for all valid\nvariants of each method. The generated code is then the target for automatic\ninjection of concurrency control primitives, by means of the desired automatic\ntechnique and associated atomicity and deadlock-freedom guarantees, which can\nbe plugged-into the model's pipeline. We present the foundations for the AtomiS\nanalysis and synthesis, with formal guarantees that the generated program is\nwell-typed and that it corresponds behaviourally to the original one. The\nproofs are mechanised in Coq. We also provide a Java implementation that\nshowcases the applicability of AtomiS in real-life programs.",
+          "arxiv_id": "2309.05483v1"
+        },
+        {
+          "title": "Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models",
+          "year": "2024-10",
+          "abstract": "High-level synthesis (HLS) allows hardware designers to create hardware\ndesigns with high-level programming languages like C/C++/OpenCL, which greatly\nimproves hardware design productivity. However, existing HLS flows require\nprogrammers' hardware design expertise and rely on programmers' manual code\ntransformations and directive annotations to guide compiler optimizations.\nOptimizing HLS designs requires non-trivial HLS expertise and tedious iterative\nprocess in HLS code optimization. Automating HLS code optimizations has become\na burning need. Recently, large language models (LLMs) trained on massive code\nand programming tasks have demonstrated remarkable proficiency in comprehending\ncode, showing the ability to handle domain-specific programming queries\ndirectly without labor-intensive fine-tuning. In this work, we propose a novel\nretrieval-augmented LLM-based approach to effectively optimize high-level\nsynthesis (HLS) programs. Our proposed method leverages few-shot learning,\nenabling large language models to adopt domain-specific knowledge through\nnatural language prompts. We propose a unique framework, Retrieve Augmented\nLarge Language Model Aided Design (RALAD), designed to enhance LLMs'\nperformance in HLS code optimization tasks. RALAD employs advanced embedding\ntechniques and top-\\emph{k} search algorithms to dynamically source relevant\nknowledge from extensive databases, thereby providing contextually appropriate\nresponses to complex programming queries. Our implementation of RALAD on two\nspecialized domains, utilizing comparatively smaller language models, achieves\nan impressive 80\\% success rate in compilation tasks and outperforms general\nLLMs by 3.7 -- 19$\\times$ in latency improvement.",
+          "arxiv_id": "2410.07356v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "A Case for Synthesis of Recursive Quantum Unitary Programs",
+          "year": "2023-11",
+          "abstract": "Quantum programs are notoriously difficult to code and verify due to\nunintuitive quantum knowledge associated with quantum programming. Automated\ntools relieving the tedium and errors associated with low-level quantum details\nwould hence be highly desirable. In this paper, we initiate the study of\nprogram synthesis for quantum unitary programs that recursively define a family\nof unitary circuits for different input sizes, which are widely used in\nexisting quantum programming languages. Specifically, we present QSynth, the\nfirst quantum program synthesis framework, including a new inductive quantum\nprogramming language, its specification, a sound logic for reasoning, and an\nencoding of the reasoning procedure into SMT instances. By leveraging existing\nSMT solvers, QSynth successfully synthesizes ten quantum unitary programs\nincluding quantum adder circuits, quantum eigenvalue inversion circuits and\nQuantum Fourier Transformation, which can be readily transpiled to executable\nprograms on major quantum platforms, e.g., Q#, IBM Qiskit, and AWS Braket.",
+          "arxiv_id": "2311.11503v2"
+        },
+        {
+          "title": "QPanda: high-performance quantum computing framework for multiple application scenarios",
+          "year": "2022-12",
+          "abstract": "With the birth of Noisy Intermediate Scale Quantum (NISQ) devices and the\nverification of \"quantum supremacy\" in random number sampling and boson\nsampling, more and more fields hope to use quantum computers to solve specific\nproblems, such as aerodynamic design, route allocation, financial option\nprediction, quantum chemical simulation to find new materials, and the\nchallenge of quantum cryptography to automotive industry security. However,\nthese fields still need to constantly explore quantum algorithms that adapt to\nthe current NISQ machine, so a quantum programming framework that can face\nmulti-scenarios and application needs is required. Therefore, this paper\nproposes QPanda, an application scenario-oriented quantum programming framework\nwith high-performance simulation. Such as designing quantum chemical simulation\nalgorithms based on it to explore new materials, building a quantum machine\nlearning framework to serve finance, etc. This framework implements\nhigh-performance simulation of quantum circuits, a configuration of the fusion\nprocessing backend of quantum computers and supercomputers, and compilation and\noptimization methods of quantum programs for NISQ machines. Finally, the\nexperiment shows that quantum jobs can be executed with high fidelity on the\nquantum processor using quantum circuit compile and optimized interface and\nhave better simulation performance.",
+          "arxiv_id": "2212.14201v1"
+        },
+        {
+          "title": "TensorFlow Quantum: A Software Framework for Quantum Machine Learning",
+          "year": "2020-03",
+          "abstract": "We introduce TensorFlow Quantum (TFQ), an open source library for the rapid\nprototyping of hybrid quantum-classical models for classical or quantum data.\nThis framework offers high-level abstractions for the design and training of\nboth discriminative and generative quantum models under TensorFlow and supports\nhigh-performance quantum circuit simulators. We provide an overview of the\nsoftware architecture and building blocks through several examples and review\nthe theory of hybrid quantum-classical neural networks. We illustrate TFQ\nfunctionalities via several basic applications including supervised learning\nfor quantum classification, quantum control, simulating noisy quantum circuits,\nand quantum approximate optimization. Moreover, we demonstrate how one can\napply TFQ to tackle advanced quantum learning tasks including meta-learning,\nlayerwise learning, Hamiltonian learning, sampling thermal states, variational\nquantum eigensolvers, classification of quantum phase transitions, generative\nadversarial networks, and reinforcement learning. We hope this framework\nprovides the necessary tools for the quantum computing and machine learning\nresearch communities to explore models of both natural and artificial quantum\nsystems, and ultimately discover new quantum algorithms which could potentially\nyield a quantum advantage.",
+          "arxiv_id": "2003.02989v2"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:42:05Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

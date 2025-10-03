@@ -1,0 +1,1016 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_volatility_model_options_models",
+        "keywords": [
+          [
+            "volatility",
+            0.04048188797255141
+          ],
+          [
+            "model",
+            0.03461236714473971
+          ],
+          [
+            "options",
+            0.02798921452535544
+          ],
+          [
+            "models",
+            0.027238147789034956
+          ],
+          [
+            "pricing",
+            0.025925047801970684
+          ],
+          [
+            "option",
+            0.02345909809716977
+          ],
+          [
+            "stochastic",
+            0.021286718684414004
+          ],
+          [
+            "process",
+            0.019652926801903593
+          ],
+          [
+            "rough",
+            0.019114077645408272
+          ],
+          [
+            "time",
+            0.016252146891182734
+          ]
+        ],
+        "count": 312
+      },
+      "1": {
+        "name": "1_equilibrium_optimal_problem_control",
+        "keywords": [
+          [
+            "equilibrium",
+            0.035586706895401304
+          ],
+          [
+            "optimal",
+            0.03013852950477636
+          ],
+          [
+            "problem",
+            0.028153654664277813
+          ],
+          [
+            "control",
+            0.026513076590633632
+          ],
+          [
+            "mean",
+            0.024401288964853822
+          ],
+          [
+            "field",
+            0.02352944794000102
+          ],
+          [
+            "mean field",
+            0.022702869884212593
+          ],
+          [
+            "time",
+            0.021434078623223034
+          ],
+          [
+            "dividend",
+            0.021424735592541662
+          ],
+          [
+            "Nash",
+            0.0192704574364118
+          ]
+        ],
+        "count": 135
+      },
+      "2": {
+        "name": "2_utility_optimal_problem_portfolio",
+        "keywords": [
+          [
+            "utility",
+            0.04442523035961189
+          ],
+          [
+            "optimal",
+            0.03505319778452124
+          ],
+          [
+            "problem",
+            0.03502303172483599
+          ],
+          [
+            "portfolio",
+            0.0349753837211996
+          ],
+          [
+            "consumption",
+            0.03322263063689373
+          ],
+          [
+            "risk",
+            0.029073565328407148
+          ],
+          [
+            "investment",
+            0.02503250224231348
+          ],
+          [
+            "wealth",
+            0.023643883271833144
+          ],
+          [
+            "time",
+            0.021365181279272182
+          ],
+          [
+            "market",
+            0.020490576900130404
+          ]
+        ],
+        "count": 77
+      },
+      "3": {
+        "name": "3_risk_measures_risk measures_measure",
+        "keywords": [
+          [
+            "risk",
+            0.09697858629885377
+          ],
+          [
+            "measures",
+            0.08007382145565933
+          ],
+          [
+            "risk measures",
+            0.07523996627408226
+          ],
+          [
+            "measure",
+            0.02469543358967699
+          ],
+          [
+            "Risk",
+            0.02361885636566317
+          ],
+          [
+            "convex",
+            0.02304117761664519
+          ],
+          [
+            "deviation",
+            0.019601619328362643
+          ],
+          [
+            "uncertainty",
+            0.018488121340041352
+          ],
+          [
+            "risk measure",
+            0.018098125260248996
+          ],
+          [
+            "set",
+            0.01777039424992395
+          ]
+        ],
+        "count": 74
+      },
+      "4": {
+        "name": "4_liquidity_market_pool_AMMs",
+        "keywords": [
+          [
+            "liquidity",
+            0.08421429128540524
+          ],
+          [
+            "market",
+            0.04480320483505111
+          ],
+          [
+            "pool",
+            0.035671947827703866
+          ],
+          [
+            "AMMs",
+            0.03402313069348323
+          ],
+          [
+            "arbitrage",
+            0.033914942980081915
+          ],
+          [
+            "fees",
+            0.033904158642914566
+          ],
+          [
+            "AMM",
+            0.03082869650897931
+          ],
+          [
+            "Market",
+            0.0302536105529494
+          ],
+          [
+            "fee",
+            0.02826134286688405
+          ],
+          [
+            "trading",
+            0.026692928394334237
+          ]
+        ],
+        "count": 59
+      },
+      "5": {
+        "name": "5_arbitrage_market_price_martingale",
+        "keywords": [
+          [
+            "arbitrage",
+            0.05201687641348156
+          ],
+          [
+            "market",
+            0.027839359632936794
+          ],
+          [
+            "price",
+            0.02443168441522952
+          ],
+          [
+            "martingale",
+            0.02099866216846636
+          ],
+          [
+            "discrete time",
+            0.020989504449104784
+          ],
+          [
+            "discrete",
+            0.020947297662626835
+          ],
+          [
+            "pricing",
+            0.020930927477283517
+          ],
+          [
+            "condition",
+            0.02058316941325134
+          ],
+          [
+            "time",
+            0.020445322631918207
+          ],
+          [
+            "financial",
+            0.020277251243423014
+          ]
+        ],
+        "count": 58
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.5348272973607051,
+        -0.6313468723866864,
+        -0.5553047482541462,
+        -0.6377000897962626,
+        -0.56536599524004
+      ],
+      [
+        -0.5348272973607051,
+        1.0,
+        -0.3181950997705729,
+        -0.5319213138142248,
+        -0.602562498429775,
+        -0.635242873729214
+      ],
+      [
+        -0.6313468723866864,
+        -0.3181950997705729,
+        1.0,
+        -0.49996874861981605,
+        -0.6364076828086859,
+        -0.633894954083553
+      ],
+      [
+        -0.5553047482541462,
+        -0.5319213138142248,
+        -0.49996874861981605,
+        1.0,
+        -0.6380041540791888,
+        -0.6116742831163773
+      ],
+      [
+        -0.6377000897962626,
+        -0.602562498429775,
+        -0.6364076828086859,
+        -0.6380041540791888,
+        1.0,
+        -0.5393021256007677
+      ],
+      [
+        -0.56536599524004,
+        -0.635242873729214,
+        -0.633894954083553,
+        -0.6116742831163773,
+        -0.5393021256007677,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        12,
+        1,
+        4,
+        3,
+        0,
+        3
+      ],
+      "2020-02": [
+        12,
+        5,
+        0,
+        6,
+        1,
+        2
+      ],
+      "2020-03": [
+        8,
+        6,
+        5,
+        2,
+        2,
+        1
+      ],
+      "2020-04": [
+        12,
+        1,
+        6,
+        4,
+        4,
+        2
+      ],
+      "2020-05": [
+        5,
+        3,
+        5,
+        4,
+        0,
+        5
+      ],
+      "2020-06": [
+        15,
+        6,
+        2,
+        8,
+        4,
+        3
+      ],
+      "2020-07": [
+        8,
+        2,
+        4,
+        5,
+        1,
+        3
+      ],
+      "2020-08": [
+        8,
+        5,
+        2,
+        4,
+        3,
+        1
+      ],
+      "2020-09": [
+        10,
+        3,
+        3,
+        8,
+        1,
+        0
+      ],
+      "2020-10": [
+        5,
+        4,
+        8,
+        3,
+        0,
+        2
+      ],
+      "2020-11": [
+        8,
+        4,
+        3,
+        7,
+        1,
+        3
+      ],
+      "2020-12": [
+        7,
+        4,
+        3,
+        6,
+        1,
+        1
+      ],
+      "2021-01": [
+        11,
+        7,
+        6,
+        1,
+        2,
+        0
+      ],
+      "2021-02": [
+        6,
+        4,
+        3,
+        3,
+        1,
+        5
+      ],
+      "2021-03": [
+        4,
+        3,
+        3,
+        5,
+        2,
+        2
+      ],
+      "2021-04": [
+        10,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "2021-05": [
+        8,
+        5,
+        3,
+        2,
+        1,
+        2
+      ],
+      "2021-06": [
+        10,
+        4,
+        4,
+        3,
+        0,
+        3
+      ],
+      "2021-07": [
+        8,
+        3,
+        5,
+        5,
+        0,
+        3
+      ],
+      "2021-08": [
+        8,
+        4,
+        2,
+        5,
+        2,
+        0
+      ],
+      "2021-09": [
+        10,
+        5,
+        1,
+        3,
+        0,
+        0
+      ],
+      "2021-10": [
+        5,
+        2,
+        3,
+        4,
+        2,
+        1
+      ],
+      "2021-11": [
+        9,
+        5,
+        2,
+        8,
+        2,
+        0
+      ],
+      "2021-12": [
+        11,
+        6,
+        4,
+        5,
+        2,
+        2
+      ],
+      "2022-01": [
+        6,
+        3,
+        4,
+        3,
+        0,
+        4
+      ],
+      "2022-02": [
+        10,
+        3,
+        4,
+        4,
+        2,
+        1
+      ],
+      "2022-03": [
+        7,
+        1,
+        1,
+        8,
+        0,
+        0
+      ],
+      "2022-04": [
+        9,
+        1,
+        3,
+        3,
+        0,
+        3
+      ],
+      "2022-05": [
+        6,
+        2,
+        2,
+        1,
+        0,
+        3
+      ],
+      "2022-06": [
+        4,
+        4,
+        5,
+        1,
+        1,
+        0
+      ],
+      "2022-07": [
+        16,
+        2,
+        3,
+        4,
+        0,
+        0
+      ],
+      "2022-08": [
+        10,
+        1,
+        3,
+        2,
+        1,
+        1
+      ],
+      "2022-09": [
+        10,
+        5,
+        2,
+        3,
+        3,
+        2
+      ],
+      "2022-10": [
+        6,
+        4,
+        5,
+        4,
+        1,
+        1
+      ],
+      "2022-11": [
+        12,
+        8,
+        5,
+        3,
+        1,
+        1
+      ],
+      "2022-12": [
+        10,
+        6,
+        4,
+        3,
+        1,
+        4
+      ],
+      "2023-01": [
+        9,
+        2,
+        1,
+        5,
+        0,
+        3
+      ],
+      "2023-02": [
+        6,
+        7,
+        3,
+        1,
+        3,
+        1
+      ],
+      "2023-03": [
+        11,
+        4,
+        2,
+        8,
+        3,
+        0
+      ],
+      "2023-04": [
+        5,
+        5,
+        2,
+        1,
+        3,
+        1
+      ],
+      "2023-05": [
+        8,
+        5,
+        2,
+        5,
+        0,
+        1
+      ],
+      "2023-06": [
+        8,
+        5,
+        4,
+        2,
+        2,
+        4
+      ],
+      "2023-07": [
+        8,
+        2,
+        5,
+        2,
+        5,
+        1
+      ],
+      "2023-08": [
+        8,
+        6,
+        5,
+        2,
+        1,
+        1
+      ],
+      "2023-09": [
+        13,
+        1,
+        3,
+        2,
+        2,
+        0
+      ],
+      "2023-10": [
+        7,
+        0,
+        5,
+        1,
+        4,
+        1
+      ],
+      "2023-11": [
+        14,
+        5,
+        5,
+        5,
+        3,
+        1
+      ],
+      "2023-12": [
+        9,
+        9,
+        2,
+        3,
+        0,
+        2
+      ],
+      "2024-01": [
+        10,
+        7,
+        3,
+        1,
+        1,
+        1
+      ],
+      "2024-02": [
+        10,
+        5,
+        2,
+        3,
+        1,
+        1
+      ],
+      "2024-03": [
+        13,
+        3,
+        5,
+        3,
+        5,
+        0
+      ],
+      "2024-04": [
+        3,
+        1,
+        1,
+        3,
+        4,
+        0
+      ],
+      "2024-05": [
+        11,
+        6,
+        4,
+        6,
+        1,
+        1
+      ],
+      "2024-06": [
+        10,
+        5,
+        8,
+        8,
+        2,
+        3
+      ],
+      "2024-07": [
+        10,
+        3,
+        8,
+        6,
+        3,
+        3
+      ],
+      "2024-08": [
+        8,
+        5,
+        4,
+        3,
+        1,
+        2
+      ],
+      "2024-09": [
+        8,
+        5,
+        3,
+        4,
+        1,
+        2
+      ],
+      "2024-10": [
+        12,
+        5,
+        5,
+        2,
+        1,
+        3
+      ],
+      "2024-11": [
+        10,
+        1,
+        4,
+        6,
+        2,
+        2
+      ],
+      "2024-12": [
+        11,
+        9,
+        5,
+        1,
+        3,
+        0
+      ],
+      "2025-01": [
+        6,
+        6,
+        5,
+        2,
+        2,
+        1
+      ],
+      "2025-02": [
+        8,
+        6,
+        5,
+        4,
+        3,
+        1
+      ],
+      "2025-03": [
+        17,
+        5,
+        1,
+        3,
+        3,
+        6
+      ],
+      "2025-04": [
+        8,
+        5,
+        2,
+        3,
+        1,
+        0
+      ],
+      "2025-05": [
+        10,
+        4,
+        4,
+        5,
+        4,
+        0
+      ],
+      "2025-06": [
+        10,
+        2,
+        1,
+        2,
+        3,
+        4
+      ],
+      "2025-07": [
+        10,
+        3,
+        5,
+        2,
+        4,
+        1
+      ],
+      "2025-08": [
+        17,
+        4,
+        2,
+        4,
+        4,
+        1
+      ],
+      "2025-09": [
+        2,
+        4,
+        2,
+        3,
+        2,
+        2
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Semimartingale and continuous-time Markov chain approximation for rough stochastic local volatility models",
+          "year": "2021-10",
+          "abstract": "Rough volatility models have recently been empirically shown to provide a\ngood fit to historical volatility time series and implied volatility smiles of\nSPX options. They are continuous-time stochastic volatility models, whose\nvolatility process is driven by a fractional Brownian motion with Hurst\nparameter less than half. Due to the challenge that it is neither a\nsemimartingale nor a Markov process, there is no unified method that not only\napplies to all rough volatility models, but also is computationally efficient.\nThis paper proposes a semimartingale and continuous-time Markov chain (CTMC)\napproximation approach for the general class of rough stochastic local\nvolatility (RSLV) models. In particular, we introduce the perturbed stochastic\nlocal volatility (PSLV) model as the semimartingale approximation for the RSLV\nmodel and establish its existence , uniqueness and Markovian representation. We\npropose a fast CTMC algorithm and prove its weak convergence. Numerical\nexperiments demonstrate the accuracy and high efficiency of the method in\npricing European, barrier and American options. Comparing with existing\nliterature, a significant reduction in the CPU time to arrive at the same level\nof accuracy is observed.",
+          "arxiv_id": "2110.08320v2"
+        },
+        {
+          "title": "The rough Hawkes Heston stochastic volatility model",
+          "year": "2022-10",
+          "abstract": "We study an extension of the Heston stochastic volatility model that\nincorporates rough volatility and jump clustering phenomena. In our model,\nnamed the rough Hawkes Heston stochastic volatility model, the spot variance is\na rough Hawkes-type process proportional to the intensity process of the jump\ncomponent appearing in the dynamics of the spot variance itself and the log\nreturns. The model belongs to the class of affine Volterra models. In\nparticular, the Fourier-Laplace transform of the log returns and the square of\nthe volatility index can be computed explicitly in terms of solutions of\ndeterministic Riccati-Volterra equations, which can be efficiently approximated\nusing a multi-factor approximation technique. We calibrate a parsimonious\nspecification of our model characterized by a power kernel and an exponential\nlaw for the jumps. We show that our parsimonious setup is able to\nsimultaneously capture, with a high precision, the behavior of the implied\nvolatility smile for both S&P 500 and VIX options. In particular, we observe\nthat in our setting the usual shift in the implied volatility of VIX options is\nexplained by a very low value of the power in the kernel. Our findings\ndemonstrate the relevance, under an affine framework, of rough volatility and\nself-exciting jumps in order to capture the joint evolution of the S&P 500 and\nVIX.",
+          "arxiv_id": "2210.12393v1"
+        },
+        {
+          "title": "Analytic estimation of parameters of stochastic volatility diffusion models with exponential-affine characteristic function for currency option pricing",
+          "year": "2025-07",
+          "abstract": "This dissertation develops and justifies a novel method for deriving\napproximate formulas to estimate two parameters in stochastic volatility\ndiffusion models with exponentially-affine characteristic functions and single-\nor two-factor variance. These formulas aim to improve the accuracy of option\npricing and enhance the calibration process by providing reliable initial\nvalues for local minimization algorithms. The parameters relate to the\nvolatility of the stochastic factor in instantaneous variance dynamics and the\ncorrelation between stochastic factors and asset price dynamics.\n  The study comprises five chapters. Chapter one outlines the currency option\nmarket, pricing methods, and the general structure of stochastic volatility\nmodels. Chapter two derives the replication strategy dynamics and introduces a\nnew two-factor volatility model: the OUOU model. Chapter three analyzes the\ndistribution and surface dynamics of implied volatilities using principal\ncomponent and common factor analysis. Chapter four discusses calibration\nmethods for stochastic volatility models, particularly the Heston model, and\npresents the new Implied Central Moments method to estimate parameters in the\nHeston and Sch\\\"obel-Zhu models. Extensions to two-factor models, Bates and\nOUOU, are also explored. Chapter five evaluates the performance of the proposed\nformulas on the EURUSD options market, demonstrating the superior accuracy of\nthe new method.\n  The dissertation successfully meets its research objectives, expanding tools\nfor derivative pricing and risk assessment. Key contributions include faster\nand more precise parameter estimation formulas and the introduction of the OUOU\nmodel - an extension of the Sch\\\"obel-Zhu model with a semi-analytical\nvaluation formula for European options, previously unexamined in the\nliterature.",
+          "arxiv_id": "2507.11868v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Cooperation, Correlation and Competition in Ergodic N-player Games and Mean-field Games of Singular Controls: A Case Study",
+          "year": "2024-04",
+          "abstract": "We consider a class of $N$-player games and mean-field games of singular\ncontrols with ergodic performance criterion, providing a benchmark case for\nirreversible investment games featuring mean-field interaction and strategic\ncomplementarities. The state of each player follows a geometric Brownian\nmotion, controlled additively through a nondecreasing process, while agents\nseek to maximize a long-term average reward functional with a power-type\ninstantaneous profit, under strategic complementarity. We explore three\ndifferent notions of optimality, which, in the mean-field limit, correspond to\nthe mean-field control solution, mean-field coarse correlated equilibria, and\nmean-field Nash equilibria. We explicitly compute equilibria in the three cases\nand compare them numerically, in terms of yielded payoffs and existence\nconditions. Finally, we show that the mean-field control and mean-field\nequilibria can approximate the cooperative and competitive equilibria,\nrespectively, in the corresponding $N$-player game when $N$ is sufficiently\nlarge. Our analysis of the mean-field control problem features a novel Lagrange\nmultiplier approach, which proves crucial in establishing the approximation\nresult, while the treatment of mean-field coarse correlated equilibria\nnecessitates a new, specifically tailored definition for the stationary\nsetting.",
+          "arxiv_id": "2404.15079v2"
+        },
+        {
+          "title": "Mean-Field Liquidation Games with Market Drop-out",
+          "year": "2023-03",
+          "abstract": "We consider a novel class of portfolio liquidation games with market drop-out\n(\"absorption\"). More precisely, we consider mean-field and finite player\nliquidation games where a player drops out of the market when her position hits\nzero. In particular round-trips are not admissible. This can be viewed as a no\nstatistical arbitrage condition. In a model with only sellers we prove that the\nabsorption condition is equivalent to a short selling constraint. We prove that\nequilibria (both in the mean-field and the finite player game) are given as\nsolutions to a non-linear higher-order integral equation with endogenous\nterminal condition. We prove the existence of a unique solution to the integral\nequation from which we obtain the existence of a unique equilibrium in the MFG\nand the existence of a unique equilibrium in the $N$-player game. We establish\nthe convergence of the equilibria in the finite player games to the obtained\nmean-field equilibrium and illustrate the impact of the drop-out constraint on\nequilibrium trading rates.",
+          "arxiv_id": "2303.05783v2"
+        },
+        {
+          "title": "Equilibrium in Functional Stochastic Games with Mean-Field Interaction",
+          "year": "2023-06",
+          "abstract": "We consider a general class of finite-player stochastic games with mean-field\ninteraction, in which the linear-quadratic cost functional includes linear\noperators acting on controls in $L^2$. We propose a novel approach for deriving\nthe Nash equilibrium of the game semi-explicitly in terms of operator\nresolvents, by reducing the associated first order conditions to a system of\nstochastic Fredholm equations of the second kind and deriving their solution in\nsemi-explicit form. Furthermore, by proving stability results for the system of\nstochastic Fredholm equations, we derive the convergence of the equilibrium of\nthe $N$-player game to the corresponding mean-field equilibrium. As a\nby-product, we also derive an $\\varepsilon$-Nash equilibrium for the mean-field\ngame, which is valuable in this setting as we show that the conditions for\nexistence of an equilibrium in the mean-field limit are less restrictive than\nin the finite-player game. Finally, we apply our general framework to solve\nvarious examples, such as stochastic Volterra linear-quadratic games, models of\nsystemic risk and advertising with delay, and optimal liquidation games with\ntransient price impact.",
+          "arxiv_id": "2306.05433v2"
+        }
+      ],
+      "2": [
+        {
+          "title": "Proper solutions for Epstein-Zin Stochastic Differential Utility",
+          "year": "2021-12",
+          "abstract": "In this article, we consider the optimal investment-consumption problem for\nan agent with preferences governed by Epstein--Zin stochastic differential\nutility (EZ-SDU) who invests in a constant-parameter Black-Scholes-Merton\nmarket over the infinite horizon. The parameter combinations that we consider\nin this paper are such that the risk aversion parameter $R$ and the elasticity\nof intertemporal complementarity $S$ satisfy $\\theta=\\frac{1-R}{1-S}>1$. In\nthis sense, this paper is complementary to Herdegen, Hobson and Jerome\n[arXiv:2107.06593].\n  The main novelty of the case $\\theta>1$ (as opposed to $\\theta\\in(0,1)$) is\nthat there is an infinite family of utility processes associated to every\nnonzero consumption stream. To deal with this issue, we introduce the\neconomically motivated notion of a proper utility process, where, roughly\nspeaking, a utility process is proper if it is nonzero whenever future\nconsumption is nonzero.\n  We then proceed to show that for a very wide class of consumption streams\n$C$, there exists a proper utility process $V$ associated to $C$. Furthermore,\nfor a wide class of consumption streams $C$, the proper utility process $V$ is\nunique. Finally, we solve the optimal investment-consumption problem in a\nconstant parameter financial market, where we optimise over the\nright-continuous attainable consumption streams that have a unique proper\nutility process associated to them.",
+          "arxiv_id": "2112.06708v1"
+        },
+        {
+          "title": "The Infinite Horizon Investment-Consumption Problem for Epstein-Zin Stochastic Differential Utility",
+          "year": "2021-07",
+          "abstract": "In this article we consider the optimal investment-consumption problem for an\nagent with preferences governed by Epstein-Zin stochastic differential utility\nwho invests in a constant-parameter Black-Scholes-Merton market.\n  The paper has three main goals: first, to provide a detailed introduction to\ninfinite-horizon Epstein-Zin stochastic differential utility, including a\ndiscussion of which parameter combinations lead to a well-formulated problem;\nsecond, to prove existence and uniqueness of infinite horizon Epstein-Zin\nstochastic differential utility under a restriction on the parameters governing\nthe agent's risk aversion and temporal variance aversion; and third, to provide\na verification argument for the candidate optimal solution to the\ninvestment-consumption problem among all admissible consumption streams.\n  To achieve these goals, we introduce a slightly different formulation of\nEpstein-Zin stochastic differential utility to that which is traditionally used\nin the literature. This formulation highlights the necessity and\nappropriateness of certain restrictions on the parameters governing the\nstochastic differential utility function.",
+          "arxiv_id": "2107.06593v1"
+        },
+        {
+          "title": "Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment",
+          "year": "2024-07",
+          "abstract": "We investigate a continuous-time investment-consumption problem with model\nuncertainty in a general diffusion-based market with random model coefficients.\nWe assume that a power utility investor is ambiguity-averse, with the\npreference to robustness captured by the homothetic multiplier robust\nspecification, and the investor's investment and consumption strategies are\nconstrained to closed convex sets. To solve this constrained robust control\nproblem, we employ the stochastic Hamilton-Jacobi-Bellman-Isaacs equations,\nbackward stochastic differential equations, and bounded mean oscillation\nmartingale theory. Furthermore, we show the investor incurs (non-negative)\nutility loss, i.e. the loss in welfare, if model uncertainty is ignored. When\nthe model coefficients are deterministic, we establish formally the\nrelationship between the investor's robustness preference and the robust\noptimal investment-consumption strategy and the value function, and the impact\nof investment and consumption constraints on the investor's robust optimal\ninvestment-consumption strategy and value function. Extensive numerical\nexperiments highlight the significant impact of ambiguity aversion, consumption\nand investment constraints, on the investor's robust optimal\ninvestment-consumption strategy, utility loss, and value function. Key findings\ninclude: 1) short-selling restriction always reduces the investor's utility\nloss when model uncertainty is ignored; 2) the effect of consumption\nconstraints on utility loss is more delicate and relies on the investor's risk\naversion level.",
+          "arxiv_id": "2407.02831v1"
+        }
+      ],
+      "3": [
+        {
+          "title": "Multi-asset return risk measures",
+          "year": "2024-11",
+          "abstract": "We revisit the recently introduced concept of return risk measures (RRMs) and\nextend it by incorporating risk management via multiple so-called eligible\nassets. The resulting new class of risk measures, termed multi-asset return\nrisk measures (MARRMs), introduces a novel economic model for multiplicative\nrisk sharing. We analyze properties of these risk measures. In particular, we\nprove that a positively homogeneous MARRM is quasi-convex if and only if it is\nconvex. Furthermore, we provide conditions to avoid inconsistent risk\nevaluations. Then, we point out the connection between MARRMs and the\nwell-known concept of multi-asset risk measures (MARMs). This is used to obtain\nvarious dual representations of MARRMs. Moreover, we conduct a series of case\nstudies, in which we use typical continuous-time financial markets and\ndifferent notions of acceptability of losses to compare RRMs, MARMs, and MARRMs\nand draw conclusions about the cost of risk mitigation.",
+          "arxiv_id": "2411.08763v2"
+        },
+        {
+          "title": "Set risk measures",
+          "year": "2024-07",
+          "abstract": "We introduce the concept of set risk measures (SRMs), which are real-valued\nmaps defined on the space of all non-empty, closed, and bounded sets of almost\nsurely bounded random variables. Traditional risk measures typically operate on\nspaces of random variables, but SRMs extend this framework to sets of random\nvariables. We establish an axiom scheme for SRMs, similar to classical risk\nmeasures but adapted for set operations. The main technical contribution is an\naxiomatic dual representation of convex SRMs by using regular, finitely\nadditive measures on the unit ball of the dual space of essentially bounded\nrandom variables. We explore worst-case SRMs, which evaluate risk as the\nsupremum of individual risks within a set, and provide a collection of examples\nillustrating the applicability of our framework to systemic risk, portfolio\noptimization, and decision-making under uncertainty. This work extends the\ntheory of risk measures to a more general and flexible setup, accommodating a\nbroader range of financial and mathematical applications.",
+          "arxiv_id": "2407.18687v2"
+        },
+        {
+          "title": "Factor risk measures",
+          "year": "2024-04",
+          "abstract": "This paper introduces and studies factor risk measures. While risk measures\nonly rely on the distribution of a loss random variable, in many cases risk\nneeds to be measured relative to some major factors. In this paper, we\nintroduce a double-argument mapping as a risk measure to assess the risk\nrelative to a vector of factors, called factor risk measure. The factor risk\nmeasure only depends on the joint distribution of the risk and the factors. A\nset of natural axioms are discussed, and particularly distortion, quantile,\nlinear and coherent factor risk measures are introduced and characterized.\nMoreover, we introduce a large set of concrete factor risk measures and many of\nthem are new to the literature, which are interpreted in the context of\nregulatory capital requirement. Finally, the distortion factor risk measures\nare applied in the risk-sharing problem and some numerical examples are\npresented to show the difference between the Value-at-Risk and the quantile\nfactor risk measures.",
+          "arxiv_id": "2404.08475v1"
+        }
+      ],
+      "4": [
+        {
+          "title": "Decentralised Finance and Automated Market Making: Predictable Loss and Optimal Liquidity Provision",
+          "year": "2023-09",
+          "abstract": "Constant product markets with concentrated liquidity (CL) are the most\npopular type of automated market makers. In this paper, we characterise the\ncontinuous-time wealth dynamics of strategic LPs who dynamically adjust their\nrange of liquidity provision in CL pools. Their wealth results from fee income,\nthe value of their holdings in the pool, and rebalancing costs. Next, we derive\na self-financing and closed-form optimal liquidity provision strategy where the\nwidth of the LP's liquidity range is determined by the profitability of the\npool (provision fees minus gas fees), the predictable losses (PL) of the LP's\nposition, and concentration risk. Concentration risk refers to the decrease in\nfee revenue if the marginal exchange rate (akin to the midprice in a limit\norder book) in the pool exits the LP's range of liquidity. When the drift in\nthe marginal rate is stochastic, we show how to optimally skew the range of\nliquidity to increase fee revenue and profit from the expected changes in the\nmarginal rate. Finally, we use Uniswap v3 data to show that, on average, LPs\nhave traded at a significant loss, and to show that the out-of-sample\nperformance of our strategy is superior to the historical performance of LPs in\nthe pool we consider.",
+          "arxiv_id": "2309.08431v3"
+        },
+        {
+          "title": "Liquidity provision of utility indifference type in decentralized exchanges",
+          "year": "2025-02",
+          "abstract": "We present a mathematical formulation of liquidity provision in decentralized\nexchanges. We focus on constant function market makers of utility indifference\ntype, which include constant product market makers with concentrated liquidity\nas a special case. First, we examine no-arbitrage conditions for a liquidity\npool and compute an optimal arbitrage strategy when there is an external liquid\nmarket. Second, we show that liquidity provision suffers from impermanent loss\nunless a transaction fee is levied under the general framework with\nconcentrated liquidity. Third, we establish the well-definedness of\narbitrage-free reserve processes of a liquidity pool in continuous-time and\nshow that there is no loss-versus-rebalancing under a nonzero fee if the\nexternal market price is continuous. We then argue that liquidity provision by\nmultiple liquidity providers can be understood as liquidity provision by a\nrepresentative liquidity provider, meaning that the analysis boils down to that\nfor a single liquidity provider. Last, but not least, we give an answer to the\nfundamental question in which sense the very construction of constant function\nmarket makers with concentrated liquidity in the popular platform Uniswap v3 is\noptimal.",
+          "arxiv_id": "2502.01931v1"
+        },
+        {
+          "title": "Optimal Design of Automated Market Makers on Decentralized Exchanges",
+          "year": "2024-04",
+          "abstract": "Automated market makers are a popular mechanism used on decentralized\nexchange, through which users trade assets with each other directly and\nautomatically through a liquidity pool and a fixed pricing function. The\nliquidity provider contributes to the liquidity pool by supplying assets to the\npool, and in return, they earn trading fees from investors who trade in the\npool. We propose a model of optimal liquidity provision in which a risk-averse\nliquidity provider decides the amount of wealth she would invest in the\ndecentralized market to provide liquidity in a two-asset pool, trade in a\ncentralized market, and consume in multiple periods. We derive the liquidity\nprovider's optimal strategy and the optimal design of the automated market\nmaker that maximizes the liquidity provider's utility. We find that the optimal\nunit trading fee increases in the volatility of the fundamental exchange rate\nof the two assets. We also find that the optimal pricing function is chosen to\nmake the asset allocation in the liquidity pool efficient for the liquidity\nprovider.",
+          "arxiv_id": "2404.13291v3"
+        }
+      ],
+      "5": [
+        {
+          "title": "Arbitrage concepts under trading restrictions in discrete-time financial markets",
+          "year": "2020-06",
+          "abstract": "In a discrete-time setting, we study arbitrage concepts in the presence of\nconvex trading constraints. We show that solvability of portfolio optimization\nproblems is equivalent to absence of arbitrage of the first kind, a condition\nweaker than classical absence of arbitrage opportunities. We center our\nanalysis on this characterization of market viability and derive versions of\nthe fundamental theorems of asset pricing based on portfolio optimization\narguments. By considering specifically a discrete-time setup, we simplify\nexisting results and proofs that rely on semimartingale theory, thus allowing\nfor a clear understanding of the foundational economic concepts involved. We\nexemplify these concepts, as well as some unexpected situations, in the context\nof one-period factor models with arbitrage opportunities under borrowing\nconstraints.",
+          "arxiv_id": "2006.15563v2"
+        },
+        {
+          "title": "On robust fundamental theorems of asset pricing in discrete time",
+          "year": "2020-07",
+          "abstract": "This paper is devoted to a study of robust fundamental theorems of asset\npricing in discrete time and finite horizon settings. Uncertainty is modelled\nby a (possibly uncountable) family of price processes on the same probability\nspace. Our technical assumption is the continuity of the price processes with\nrespect to uncertain parameters. In this setting, we introduce a new\ntopological framework which allows us to use the classical arguments in\narbitrage pricing theory involving $L^p$ spaces, the Hahn-Banach separation\ntheorem and other tools from functional analysis. The first result is the\nequivalence of a ``no robust arbitrage\" condition and the existence of a new\n``robust pricing system\". The second result shows superhedging dualities and\nthe existence of superhedging strategies without restrictive conditions on\npayoff functions, unlike other related studies. The third result discusses\ncompleteness in the present robust setting. When other options are available\nfor static trading, we could reduce the set of robust pricing systems and hence\nthe superhedging prices.",
+          "arxiv_id": "2007.02553v4"
+        },
+        {
+          "title": "Pricing without no-arbitrage condition in discrete time",
+          "year": "2021-04",
+          "abstract": "In a discrete time setting, we study the central problem of giving a fair\nprice to some financial product. For several decades, the no-arbitrage\nconditions and the martingale measures have played a major role for solving\nthis problem. We propose a new approach for estimating the super-replication\ncost based on convex duality instead of martingale measures duality: The prices\nare expressed using Fenchel conjugate and bi-conjugate without using any\nno-arbitrage condition.The super-hedging problem resolution leads endogenously\nto a weak no-arbitrage condition called Absence of Instantaneous Profit (AIP)\nunder which prices are finite. We study this condition in details, propose\nseveral characterizations and compare it to the no-arbitrage condition.",
+          "arxiv_id": "2104.02688v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T20:05:08Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}

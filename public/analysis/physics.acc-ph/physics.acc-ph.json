@@ -1,0 +1,1472 @@
+{
+  "topics": {
+    "data": {
+      "0": {
+        "name": "0_cavities_cavity_SRF_superconducting",
+        "keywords": [
+          [
+            "cavities",
+            0.04583554869980305
+          ],
+          [
+            "cavity",
+            0.03921985775012236
+          ],
+          [
+            "SRF",
+            0.027467692969716948
+          ],
+          [
+            "superconducting",
+            0.026551103517301704
+          ],
+          [
+            "RF",
+            0.02276625926028127
+          ],
+          [
+            "surface",
+            0.020631344648376137
+          ],
+          [
+            "frequency",
+            0.02007481053747536
+          ],
+          [
+            "II",
+            0.019946993781225355
+          ],
+          [
+            "high",
+            0.01571656654403176
+          ],
+          [
+            "niobium",
+            0.014997734432771973
+          ]
+        ],
+        "count": 303
+      },
+      "1": {
+        "name": "1_plasma_laser_wakefield_acceleration",
+        "keywords": [
+          [
+            "plasma",
+            0.06318129947929028
+          ],
+          [
+            "laser",
+            0.04133793655515583
+          ],
+          [
+            "wakefield",
+            0.03578681568211864
+          ],
+          [
+            "acceleration",
+            0.03082212709736498
+          ],
+          [
+            "electron",
+            0.030445833304397686
+          ],
+          [
+            "energy",
+            0.027573286333849336
+          ],
+          [
+            "beam",
+            0.025357638996234746
+          ],
+          [
+            "bunch",
+            0.023009641150738995
+          ],
+          [
+            "high",
+            0.019223617557438833
+          ],
+          [
+            "density",
+            0.017592382304651502
+          ]
+        ],
+        "count": 284
+      },
+      "2": {
+        "name": "2_electron_ray_laser_pulses",
+        "keywords": [
+          [
+            "electron",
+            0.0436845505808226
+          ],
+          [
+            "ray",
+            0.03882914337304069
+          ],
+          [
+            "laser",
+            0.02795844078543394
+          ],
+          [
+            "pulses",
+            0.019781759733586056
+          ],
+          [
+            "energy",
+            0.0190470107138492
+          ],
+          [
+            "pulse",
+            0.01847177888184943
+          ],
+          [
+            "free",
+            0.018305281469700882
+          ],
+          [
+            "FEL",
+            0.018286833231923986
+          ],
+          [
+            "high",
+            0.018216189586432407
+          ],
+          [
+            "free electron",
+            0.017392405997807604
+          ]
+        ],
+        "count": 257
+      },
+      "3": {
+        "name": "3_collider_neutrino_muon_physics",
+        "keywords": [
+          [
+            "collider",
+            0.03293344419813313
+          ],
+          [
+            "neutrino",
+            0.027995935827304606
+          ],
+          [
+            "muon",
+            0.02566583665623742
+          ],
+          [
+            "physics",
+            0.024221121825897488
+          ],
+          [
+            "energy",
+            0.023608520580642268
+          ],
+          [
+            "Higgs",
+            0.02223383415913398
+          ],
+          [
+            "Collider",
+            0.02193653846544189
+          ],
+          [
+            "beam",
+            0.0217618826468065
+          ],
+          [
+            "colliders",
+            0.020119160796021284
+          ],
+          [
+            "luminosity",
+            0.018011872811905257
+          ]
+        ],
+        "count": 209
+      },
+      "4": {
+        "name": "4_learning_accelerator_optimization_data",
+        "keywords": [
+          [
+            "learning",
+            0.026383127730365857
+          ],
+          [
+            "accelerator",
+            0.0263275743790709
+          ],
+          [
+            "optimization",
+            0.0236207083611186
+          ],
+          [
+            "data",
+            0.02333414351828609
+          ],
+          [
+            "model",
+            0.023290271347923185
+          ],
+          [
+            "beam",
+            0.02297827980406229
+          ],
+          [
+            "particle",
+            0.020505799813454007
+          ],
+          [
+            "space",
+            0.01902468536914156
+          ],
+          [
+            "time",
+            0.018277088362677066
+          ],
+          [
+            "models",
+            0.01774829638590075
+          ]
+        ],
+        "count": 203
+      },
+      "5": {
+        "name": "5_beam_space_bunch_dynamics",
+        "keywords": [
+          [
+            "beam",
+            0.04350053757503451
+          ],
+          [
+            "space",
+            0.022176473375031324
+          ],
+          [
+            "bunch",
+            0.019928910007731643
+          ],
+          [
+            "dynamics",
+            0.019325619843005893
+          ],
+          [
+            "longitudinal",
+            0.018755982002691643
+          ],
+          [
+            "particle",
+            0.018216016786583356
+          ],
+          [
+            "beams",
+            0.01812786635387823
+          ],
+          [
+            "transverse",
+            0.017134061678264235
+          ],
+          [
+            "charge",
+            0.015298142137059632
+          ],
+          [
+            "emittance",
+            0.01514911973027253
+          ]
+        ],
+        "count": 125
+      },
+      "6": {
+        "name": "6_magnets_magnet_field_coil",
+        "keywords": [
+          [
+            "magnets",
+            0.05674617469400326
+          ],
+          [
+            "magnet",
+            0.056331302266987106
+          ],
+          [
+            "field",
+            0.03519399059861494
+          ],
+          [
+            "coil",
+            0.03128895234385445
+          ],
+          [
+            "magnetic",
+            0.030621610006928212
+          ],
+          [
+            "HTS",
+            0.030219632760372532
+          ],
+          [
+            "superconducting",
+            0.02957291994696292
+          ],
+          [
+            "high",
+            0.02052507036847613
+          ],
+          [
+            "LHC",
+            0.02025012435419433
+          ],
+          [
+            "current",
+            0.019929295083774987
+          ]
+        ],
+        "count": 119
+      },
+      "7": {
+        "name": "7_ion_beam_energy_MeV",
+        "keywords": [
+          [
+            "ion",
+            0.03821155703744091
+          ],
+          [
+            "beam",
+            0.029888753839625956
+          ],
+          [
+            "energy",
+            0.025752036844000056
+          ],
+          [
+            "MeV",
+            0.0239508795579577
+          ],
+          [
+            "beams",
+            0.019884423567080298
+          ],
+          [
+            "high",
+            0.018483866159959256
+          ],
+          [
+            "proton",
+            0.016627664106466676
+          ],
+          [
+            "radioactive",
+            0.016253083367228256
+          ],
+          [
+            "source",
+            0.015568468974791496
+          ],
+          [
+            "nuclear",
+            0.015458432146950066
+          ]
+        ],
+        "count": 74
+      },
+      "8": {
+        "name": "8_radiation_waveguide_Cherenkov_dielectric",
+        "keywords": [
+          [
+            "radiation",
+            0.070874104678677
+          ],
+          [
+            "waveguide",
+            0.05184229894722929
+          ],
+          [
+            "Cherenkov",
+            0.04692654082094304
+          ],
+          [
+            "dielectric",
+            0.038740365556930445
+          ],
+          [
+            "bunch",
+            0.028845884145702595
+          ],
+          [
+            "medium",
+            0.028514574388233592
+          ],
+          [
+            "field",
+            0.0257888318356863
+          ],
+          [
+            "electromagnetic",
+            0.02517538311719249
+          ],
+          [
+            "corrugated",
+            0.02150515028941748
+          ],
+          [
+            "wave",
+            0.019479125981234618
+          ]
+        ],
+        "count": 67
+      }
+    },
+    "correlations": [
+      [
+        1.0,
+        -0.7190159134533178,
+        -0.7072056903165824,
+        -0.6563449282717513,
+        -0.6797014266641006,
+        -0.6941473258788793,
+        -0.6312732545946412,
+        -0.6914335820700424,
+        -0.6924055813712395
+      ],
+      [
+        -0.7190159134533178,
+        1.0,
+        -0.3603083466880268,
+        -0.616302753035362,
+        -0.6180436931273534,
+        -0.5398549874164553,
+        -0.6953977342565331,
+        -0.49112127230481434,
+        -0.6404515977159437
+      ],
+      [
+        -0.7072056903165824,
+        -0.3603083466880268,
+        1.0,
+        -0.6906594474992155,
+        -0.6789978021621792,
+        -0.5747266094556301,
+        -0.7159909218904076,
+        -0.6451781682893499,
+        -0.6303572007721894
+      ],
+      [
+        -0.6563449282717513,
+        -0.616302753035362,
+        -0.6906594474992155,
+        1.0,
+        -0.6733884995174502,
+        -0.6826650613104562,
+        -0.614543395868052,
+        -0.5593671992677436,
+        -0.6731049889243624
+      ],
+      [
+        -0.6797014266641006,
+        -0.6180436931273534,
+        -0.6789978021621792,
+        -0.6733884995174502,
+        1.0,
+        -0.44160162319492874,
+        -0.6765686941795703,
+        -0.5889089463140426,
+        -0.6949896280956778
+      ],
+      [
+        -0.6941473258788793,
+        -0.5398549874164553,
+        -0.5747266094556301,
+        -0.6826650613104562,
+        -0.44160162319492874,
+        1.0,
+        -0.6864347547529116,
+        -0.49949070988136,
+        -0.6816616426111478
+      ],
+      [
+        -0.6312732545946412,
+        -0.6953977342565331,
+        -0.7159909218904076,
+        -0.614543395868052,
+        -0.6765686941795703,
+        -0.6864347547529116,
+        1.0,
+        -0.6601933672208422,
+        -0.6754094374275214
+      ],
+      [
+        -0.6914335820700424,
+        -0.49112127230481434,
+        -0.6451781682893499,
+        -0.5593671992677436,
+        -0.5889089463140426,
+        -0.49949070988136,
+        -0.6601933672208422,
+        1.0,
+        -0.6735182389796593
+      ],
+      [
+        -0.6924055813712395,
+        -0.6404515977159437,
+        -0.6303572007721894,
+        -0.6731049889243624,
+        -0.6949896280956778,
+        -0.6816616426111478,
+        -0.6754094374275214,
+        -0.6735182389796593,
+        1.0
+      ]
+    ],
+    "series": {
+      "2020-01": [
+        7,
+        6,
+        3,
+        3,
+        0,
+        1,
+        3,
+        3,
+        6
+      ],
+      "2020-02": [
+        7,
+        8,
+        4,
+        1,
+        0,
+        3,
+        3,
+        5,
+        2
+      ],
+      "2020-03": [
+        8,
+        6,
+        7,
+        3,
+        4,
+        4,
+        4,
+        3,
+        1
+      ],
+      "2020-04": [
+        9,
+        5,
+        4,
+        2,
+        3,
+        6,
+        3,
+        3,
+        4
+      ],
+      "2020-05": [
+        19,
+        7,
+        2,
+        0,
+        5,
+        6,
+        3,
+        1,
+        13
+      ],
+      "2020-06": [
+        21,
+        6,
+        5,
+        5,
+        6,
+        4,
+        6,
+        3,
+        3
+      ],
+      "2020-07": [
+        5,
+        15,
+        5,
+        3,
+        5,
+        2,
+        1,
+        0,
+        4
+      ],
+      "2020-08": [
+        5,
+        10,
+        3,
+        1,
+        1,
+        1,
+        6,
+        4,
+        5
+      ],
+      "2020-09": [
+        6,
+        8,
+        5,
+        1,
+        5,
+        5,
+        3,
+        0,
+        5
+      ],
+      "2020-10": [
+        10,
+        8,
+        6,
+        1,
+        3,
+        3,
+        1,
+        1,
+        1
+      ],
+      "2020-11": [
+        7,
+        6,
+        6,
+        1,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "2020-12": [
+        10,
+        13,
+        4,
+        2,
+        2,
+        4,
+        1,
+        2,
+        5
+      ],
+      "2021-01": [
+        13,
+        2,
+        2,
+        2,
+        2,
+        2,
+        8,
+        1,
+        2
+      ],
+      "2021-02": [
+        2,
+        1,
+        5,
+        0,
+        3,
+        4,
+        0,
+        2,
+        3
+      ],
+      "2021-03": [
+        14,
+        5,
+        7,
+        3,
+        3,
+        4,
+        2,
+        7,
+        0
+      ],
+      "2021-04": [
+        6,
+        8,
+        5,
+        5,
+        5,
+        7,
+        3,
+        1,
+        6
+      ],
+      "2021-05": [
+        11,
+        5,
+        12,
+        7,
+        5,
+        3,
+        4,
+        0,
+        4
+      ],
+      "2021-06": [
+        5,
+        19,
+        6,
+        5,
+        7,
+        2,
+        4,
+        1,
+        2
+      ],
+      "2021-07": [
+        3,
+        5,
+        3,
+        4,
+        4,
+        5,
+        3,
+        2,
+        4
+      ],
+      "2021-08": [
+        11,
+        2,
+        4,
+        5,
+        1,
+        5,
+        4,
+        1,
+        3
+      ],
+      "2021-09": [
+        12,
+        8,
+        3,
+        2,
+        2,
+        5,
+        5,
+        2,
+        1
+      ],
+      "2021-10": [
+        7,
+        7,
+        5,
+        3,
+        3,
+        1,
+        1,
+        1,
+        6
+      ],
+      "2021-11": [
+        6,
+        8,
+        6,
+        2,
+        1,
+        3,
+        1,
+        0,
+        2
+      ],
+      "2021-12": [
+        9,
+        7,
+        4,
+        1,
+        5,
+        5,
+        3,
+        0,
+        1
+      ],
+      "2022-01": [
+        11,
+        4,
+        9,
+        1,
+        4,
+        3,
+        6,
+        6,
+        4
+      ],
+      "2022-02": [
+        4,
+        4,
+        3,
+        3,
+        6,
+        5,
+        6,
+        1,
+        2
+      ],
+      "2022-03": [
+        26,
+        13,
+        12,
+        32,
+        7,
+        2,
+        22,
+        1,
+        4
+      ],
+      "2022-04": [
+        10,
+        4,
+        3,
+        9,
+        2,
+        3,
+        4,
+        1,
+        1
+      ],
+      "2022-05": [
+        9,
+        3,
+        11,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5
+      ],
+      "2022-06": [
+        8,
+        7,
+        10,
+        4,
+        1,
+        4,
+        2,
+        2,
+        3
+      ],
+      "2022-07": [
+        11,
+        6,
+        4,
+        4,
+        3,
+        1,
+        0,
+        1,
+        1
+      ],
+      "2022-08": [
+        17,
+        6,
+        7,
+        2,
+        4,
+        6,
+        6,
+        2,
+        2
+      ],
+      "2022-09": [
+        16,
+        9,
+        4,
+        7,
+        9,
+        5,
+        1,
+        2,
+        5
+      ],
+      "2022-10": [
+        19,
+        8,
+        4,
+        4,
+        4,
+        2,
+        3,
+        3,
+        0
+      ],
+      "2022-11": [
+        8,
+        7,
+        4,
+        3,
+        5,
+        3,
+        8,
+        5,
+        0
+      ],
+      "2022-12": [
+        5,
+        6,
+        2,
+        2,
+        1,
+        1,
+        3,
+        2,
+        3
+      ],
+      "2023-01": [
+        8,
+        5,
+        1,
+        2,
+        5,
+        2,
+        7,
+        3,
+        3
+      ],
+      "2023-02": [
+        6,
+        4,
+        9,
+        3,
+        2,
+        5,
+        2,
+        1,
+        0
+      ],
+      "2023-03": [
+        5,
+        11,
+        2,
+        3,
+        3,
+        1,
+        3,
+        1,
+        4
+      ],
+      "2023-04": [
+        7,
+        7,
+        3,
+        0,
+        1,
+        1,
+        2,
+        5,
+        1
+      ],
+      "2023-05": [
+        15,
+        11,
+        7,
+        2,
+        2,
+        1,
+        5,
+        4,
+        3
+      ],
+      "2023-06": [
+        10,
+        1,
+        8,
+        2,
+        4,
+        7,
+        2,
+        1,
+        1
+      ],
+      "2023-07": [
+        34,
+        4,
+        4,
+        6,
+        5,
+        3,
+        3,
+        1,
+        0
+      ],
+      "2023-08": [
+        8,
+        6,
+        3,
+        3,
+        5,
+        2,
+        4,
+        2,
+        3
+      ],
+      "2023-09": [
+        4,
+        14,
+        5,
+        4,
+        3,
+        4,
+        2,
+        2,
+        1
+      ],
+      "2023-10": [
+        28,
+        7,
+        8,
+        1,
+        4,
+        6,
+        5,
+        5,
+        6
+      ],
+      "2023-11": [
+        12,
+        8,
+        8,
+        2,
+        5,
+        2,
+        2,
+        0,
+        3
+      ],
+      "2023-12": [
+        12,
+        8,
+        1,
+        2,
+        1,
+        1,
+        1,
+        3,
+        1
+      ],
+      "2024-01": [
+        11,
+        5,
+        12,
+        2,
+        3,
+        8,
+        1,
+        1,
+        0
+      ],
+      "2024-02": [
+        5,
+        2,
+        2,
+        1,
+        5,
+        3,
+        3,
+        2,
+        1
+      ],
+      "2024-03": [
+        4,
+        4,
+        11,
+        3,
+        1,
+        4,
+        3,
+        2,
+        4
+      ],
+      "2024-04": [
+        11,
+        9,
+        6,
+        2,
+        2,
+        2,
+        0,
+        2,
+        1
+      ],
+      "2024-05": [
+        11,
+        3,
+        5,
+        2,
+        9,
+        9,
+        5,
+        1,
+        4
+      ],
+      "2024-06": [
+        12,
+        7,
+        8,
+        1,
+        4,
+        1,
+        3,
+        4,
+        1
+      ],
+      "2024-07": [
+        9,
+        2,
+        5,
+        2,
+        4,
+        2,
+        2,
+        0,
+        5
+      ],
+      "2024-08": [
+        10,
+        8,
+        6,
+        2,
+        5,
+        2,
+        1,
+        1,
+        0
+      ],
+      "2024-09": [
+        12,
+        3,
+        9,
+        2,
+        6,
+        3,
+        4,
+        5,
+        3
+      ],
+      "2024-10": [
+        15,
+        7,
+        4,
+        3,
+        3,
+        7,
+        4,
+        2,
+        4
+      ],
+      "2024-11": [
+        5,
+        8,
+        7,
+        3,
+        4,
+        3,
+        2,
+        3,
+        0
+      ],
+      "2024-12": [
+        8,
+        8,
+        6,
+        2,
+        2,
+        3,
+        4,
+        2,
+        9
+      ],
+      "2025-01": [
+        9,
+        5,
+        9,
+        5,
+        2,
+        2,
+        1,
+        7,
+        3
+      ],
+      "2025-02": [
+        6,
+        3,
+        5,
+        6,
+        4,
+        1,
+        6,
+        3,
+        1
+      ],
+      "2025-03": [
+        13,
+        9,
+        4,
+        10,
+        6,
+        0,
+        7,
+        4,
+        2
+      ],
+      "2025-04": [
+        7,
+        6,
+        7,
+        9,
+        3,
+        4,
+        3,
+        4,
+        0
+      ],
+      "2025-05": [
+        12,
+        8,
+        4,
+        1,
+        5,
+        4,
+        2,
+        1,
+        3
+      ],
+      "2025-06": [
+        9,
+        13,
+        4,
+        3,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "2025-07": [
+        10,
+        8,
+        1,
+        2,
+        8,
+        1,
+        4,
+        3,
+        4
+      ],
+      "2025-08": [
+        9,
+        9,
+        7,
+        4,
+        2,
+        4,
+        2,
+        2,
+        1
+      ],
+      "2025-09": [
+        2,
+        8,
+        2,
+        3,
+        3,
+        0,
+        5,
+        1,
+        4
+      ]
+    },
+    "papers": {
+      "0": [
+        {
+          "title": "Multi-metallic conduction cooled superconducting radio-frequency cavity with high thermal stability",
+          "year": "2020-01",
+          "abstract": "Superconducting radio-frequency cavities are commonly used in modern particle\naccelerators for applied and fundamental research. Such cavities are typically\nmade of high-purity, bulk Nb and are cooled by a liquid helium bath at a\ntemperature of ~2 K. The size, cost and complexity of operating a particle\naccelerator with a liquid helium refrigerator makes the current cavity\ntechnology not favorable for use in industrial-type accelerators. We developed\na multi-metallic 1.495~GHz elliptical cavity conductively cooled by a\ncryocooler. The cavity has a ~2 $\\mu$m thick layer of Nb$_3$Sn on the inner\nsurface, exposed to the rf field, deposited on a ~3 mm thick bulk Nb shell and\na bulk Cu shell, of thickness $\\geqslant 5$ mm deposited on the outer surface\nby electroplating. A bolt-on Cu plate 1.27 cm thick was used to thermally\nconnect the cavity equator to the second stage of a Gifford-McMahon cryocooler\nwith a nominal capacity of 2 W at 4.2 K. The cavity was tested initially in\nliquid helium at 4.3 K and reached a peak surface magnetic field of ~36 mT with\na quality factor of $2\\times 10^9$. The cavity cooled by the crycooler achieved\na peak surface magnetic field of ~29 mT, equivalent to an accelerating gradient\nof 6.5 MV/m, and it was able to operate in continuous-wave with as high as 5 W\ndissipation in the cavity for 1 h without any thermal breakdown. This result\nrepresents a paradigm shift in the technology of superconducting accelerator\ncavities.",
+          "arxiv_id": "2001.10924v2"
+        },
+        {
+          "title": "Field, frequency and temperature dependence of the surface resistance of nitrogen diffused niobium superconducting radio frequency cavities",
+          "year": "2024-02",
+          "abstract": "We report the RF performance of several single-cell superconducting\nradio-frequency cavities subjected to low temperature heat treatment in\nnitrogen environment. The cavities were treated at temperature 120 - 165\n$^{\\circ}$C for an extended period of time (24 - 48 hours) either in high\nvacuum or in a low partial pressure of ultra-pure nitrogen. The improvement in\n$Q_0$ with a Q-rise was observed when nitrogen gas was injected at $\\sim$300\n$^{\\circ} $C during the cavity cooldown from 800 $^{\\circ}$C and held at 165\n$^{\\circ}$C, without any degradation in accelerating gradient over the baseline\nperformance. The treatment was applied to several elliptical cavities with\nfrequency ranging from 0.75 GHz to 3.0 GHz, showing an improved quality factor\nas a result of low temperature nitrogen treatments. The Q-rise feature is\nsimilar to that achieved by nitrogen alloying Nb cavities at higher\ntemperature, followed by material removal by electropolishing. The surface\nmodification was confirmed by the change in electronic mean free path and tuned\nwith the temperature and duration of heat treatment. The decrease of the\ntemperature-dependent surface resistance with increasing RF field, resulting in\na Q-rise, becomes stronger with increasing frequency and decreasing\ntemperature. The data suggest a crossover frequency of $\\sim 0.95$~GHz above\nwhich the Q-rise phenomenon occurs at 2~K. Some of these results can be\nexplained qualitatively with an existing model of intrinsic field-dependence of\nthe surface resistance with both equilibrium and nonequilibrium quasiparticle\ndistribution functions. The change in the Q-slope below 0.95 GHz may result\nfrom masking contribution of trapped magnetic flux to the residual surface\nresistance.",
+          "arxiv_id": "2402.17458v3"
+        },
+        {
+          "title": "Coaxial multi-mode cavities for fundamental SRF research in an unprecedented parameter space",
+          "year": "2020-10",
+          "abstract": "Recent developments in superconducting radio-frequency (SRF) research have\nfocused primarily on high frequency elliptical cavities for electron\naccelerators. Advances have been made in both reducing RF surface resistance\nand pushing the readily achievable accelerating gradient by using novel SRF\ncavity treatments including surface processing, custom heat treatments, and\nflux expulsion. Despite the global demand for SRF based hadron accelerators,\nthe advancement of TEM mode cavities has lagged behind. To address this, two\npurpose-built research cavities, one quarter-wave and one half-wave resonator,\nhave been designed and built to allow characterization of TEM-mode cavities\nwith standard and novel surface treatments. The cavities are intended as the\nTEM mode equivalent to the 1.3GHz single cell cavity, which is the essential\ntool for high frequency cavity research. Given their coaxial structure, the\ncavities allow testing at the fundamental mode and higher harmonics, giving\nunique insight into the role of RF frequency on fundamental loss mechanisms\nfrom intrinsic and extrinsic sources. In this paper, the cavities and testing\ninfrastructure are described and the first performance measurements of both\ncavities are presented.",
+          "arxiv_id": "2010.02192v1"
+        }
+      ],
+      "1": [
+        {
+          "title": "Stable and high quality electron beams from staged laser and plasma wakefield accelerators",
+          "year": "2022-06",
+          "abstract": "We present experimental results on a plasma wakefield accelerator (PWFA)\ndriven by high-current electron beams from a laser wakefield accelerator\n(LWFA). In this staged setup stable and high quality (low divergence and low\nenergy spread) electron beams are generated at an optically-generated\nhydrodynamic shock in the PWFA. The energy stability of the beams produced by\nthat arrangement in the PWFA stage is comparable to both single-stage laser\naccelerators and plasma wakefield accelerators driven by conventional\naccelerators. Simulations support that the intrinsic insensitivity of PWFAs to\ndriver energy fluctuations can be exploited to overcome stability limitations\nof state-of-the-art laser wakefield accelerators when adding a PWFA stage.\nFurthermore, we demonstrate the generation of electron bunches with energy\nspread and divergence superior to single-stage LW-FAs, resulting in bunches\nwith dense phase space and an angular-spectral charge density beyond the\ninitial drive beam parameters. These results unambiguously show that staged\nLWFA-PWFA can help to tailor the electron-beam quality for certain applications\nand to reduce the influence of fluctuating laser drivers on the electron-beam\nstability. This encourages further development of this new class of staged\nwakefield acceleration as a viable scheme towards compact, high-quality\nelectron beam sources.",
+          "arxiv_id": "2206.00507v1"
+        },
+        {
+          "title": "Overcoming the dephasing limit in multiple-pulse laser wakefield acceleration",
+          "year": "2020-01",
+          "abstract": "The electric field in laser-driven plasma wakefield acceleration is orders of\nmagnitude higher than conventional radio-frequency cavities, but the energy\ngain is limited by dephasing between the ultra-relativistic electron bunch and\nthe wakefield, which travels at the laser group velocity. We present a way to\novercome this limit within a single plasma stage. The amplitude of the\nwakefield behind a train of laser pulses can be controlled in-flight by\nmodulating the density profile. This creates a succession of resonant\nlaser-plasma accelerator sections and non-resonant drift sections, within which\nthe wakefield disappears and the electrons rephase. A two-dimensional\nparticle-in-cell simulation with four 2.5TW laser pulses produces a 50MeV\nelectron energy gain, four times that obtained from a uniform plasma. Although\nlaser red-shift prevents operation in the blowout regime, the technique offers\nincreased energy gain for accelerators limited to the linear regime by the\navailable laser power. This is particularly relevant for laser-plasma x-ray\nsources capable of operating at high repetition rates, which are highly sought\nafter.",
+          "arxiv_id": "2001.09108v1"
+        },
+        {
+          "title": "Physics of nanocoulomb-class electron beams in laser-plasma wakefields",
+          "year": "2020-04",
+          "abstract": "Laser wakefield acceleration (LWFA) and its particle-driven counterpart,\nplasma wakefield acceleration (PWFA), are commonly treated as separate, though\nrelated branches of high-gradient plasma-based acceleration. However, novel\nproposed schemes are increasingly residing at the interface of both concepts\nwhere the understanding of their interplay becomes crucial. Here, we report on\nexperiments covering a wide range of parameters by using nanocoulomb-class\nquasi-monoenergetic electron beams from LWFA with a 100-TW-class laser. Based\non a controlled electron injection, these beams reach record-level performance\nin terms of laser-to-beam energy transfer efficiency (up to 10%), spectral\ncharge density (regularly exceeding 10 pC/MeV) and divergence (1 mrad full\nwidth at half maximum divergence). The impact of charge fluctuations on the\nenergy spectra of electron bunches is assessed for different laser parameters,\nincluding a few-cycle laser, followed by a presentation of results on beam\nloading in LWFA with two electron bunches. This scenario is particularly\npromising to provide high-quality electron beams by using one of the bunches to\neither tailor the laser wakefield via beam loading or to drive its own,\nbeam-dominated wakefield. We present experimental evidence for the latter,\nshowing a varying acceleration of a low-energy witness beam with respect to the\ncharge of a high-energy drive beam in a spatially separate gas target. With the\nincreasing availability of petawatt-class lasers the access to this new regime\nof laser-plasma wakefield acceleration will be further facilitated, thus\nproviding new paths towards low-emittance beam generation for future\nplasma-based colliders or light sources.",
+          "arxiv_id": "2004.10310v1"
+        }
+      ],
+      "2": [
+        {
+          "title": "Self-Amplification of Coherent Energy Modulation in Seeded Free-Electron Lasers",
+          "year": "2020-11",
+          "abstract": "The spectroscopic techniques for time-resolved fine analysis of matter\nrequire coherent X-ray radiation with femtosecond duration and high average\nbrightness. Seeded free-electron lasers (FELs), which use the frequency\nup-conversion of an external seed laser to improve temporal coherence, are\nideal for providing fully coherent soft X-ray pulses. However, it is difficult\nto operate seeded FELs at a high repetition rate due to the limitations of\npresent state-of-the-art laser systems. Here, we report the novel\nself-modulation method for enhancing laser-induced energy modulation, thereby\nsignificantly reducing the requirement of an external laser system. Driven by\nthis scheme, we experimentally realize high harmonic generation in a seeded FEL\nusing an unprecedentedly small energy modulation. An electron beam with a\nlaser-induced energy modulation as small as 1.8 times the slice energy spread\nis used for lasing at the 7th harmonic of a 266-nm seed laser in a single-stage\nhigh-gain harmonic generation (HGHG) setup and the 30th harmonic of the seed\nlaser in a two-stage HGHG setup. The results mark a major step towards a\nhigh-repetition-rate, fully coherent X-ray FEL.",
+          "arxiv_id": "2011.01080v2"
+        },
+        {
+          "title": "Ultra-compact attosecond X-ray free-electron lasers utilizing unique beams from plasma-based acceleration and an optical undulator",
+          "year": "2023-02",
+          "abstract": "Accelerator-based X-ray free-electron lasers (XFELs) are the latest addition\nto the revolutionary tools of discovery for the 21st century. The two major\ncomponents of an XFEL are an accelerator-produced electron beam and a magnetic\nundulator which tend to be kilometer-scale long and expensive. Here, we present\nan ultra-compact scheme to produce 10s of attosecond X-ray pulses with several\nGW peak power utilizing a novel aspect of the FEL instability using a highly\nchirped, pre-bunched and ultra-bright electron beam from a plasma-based\naccelerator interacting with an optical undulator. The self-selection of\nelectrons from the combination of a highly chirped and pre-bunched beam leads\nto the stable generation of attosecond X-ray pulses. Furthermore, two-color\nattosecond pulses with sub-femtosecond separation can be produced by adjusting\nthe energy distribution of the electron beam so that multiple FEL resonances\noccur at different locations within the beam. Such a tunable coherent\nattosecond X-ray sources may open up a new area of attosecond science enabled\nby X-ray attosecond pump/probe techniques.",
+          "arxiv_id": "2302.08864v1"
+        },
+        {
+          "title": "A perfect X-ray beam splitter and its applications to time-domain interferometry and quantum optics exploiting free-electron lasers",
+          "year": "2020-10",
+          "abstract": "X-ray free-electron lasers (FEL) deliver ultrabright X-ray pulses, but not\nthe sequences of phase-coherent pulses required for time-domain interferometry\nand control of quantum states. For conventional split-and-delay schemes to\nproduce such sequences the challenge stems from extreme stability requirements\nwhen splitting Angstrom wavelength beams where tiniest path length differences\nintroduce phase jitter. We describe an FEL mode based on selective electron\nbunch degradation and transverse beam shaping in the accelerator, combined with\na self-seeded photon emission scheme. Instead of splitting the photon pulses\nafter their generation by the FEL, we split the electron bunch in the\naccelerator, prior to photon generation, to obtain phase-locked X-ray pulses\nwith sub-femtosecond duration. Time-domain interferometry becomes possible,\nenabling the concomitant program of classical and quantum optics experiments\nwith X-rays. The scheme leads to new scientific benefits of cutting-edge FELs\nwith attosecond and/or high-repetition rate capabilities, ranging from the\nX-ray analog of Fourier transform infrared spectroscopy to damage-free\nmeasurements.",
+          "arxiv_id": "2010.00230v2"
+        }
+      ],
+      "3": [
+        {
+          "title": "A Muon-Ion Collider at BNL: the future QCD frontier and path to a new energy frontier of $μ^+μ^-$ colliders",
+          "year": "2021-07",
+          "abstract": "We propose the development and construction of a novel muon-ion collider\n(MuIC) at Brookhaven National Laboratory (BNL) in the USA as an upgrade to\nsucceed the electron-ion collider (EIC) that is scheduled to commence in the\nearly 2030s, by a joint effort of the nuclear and particle physics communities.\nThe BNL facility could accommodate a muon storage beam with an energy up to\nabout 1~TeV with existing magnet technology. When collided with a 275~GeV\nhadron beam, the MuIC center-of-mass energy of about 1~TeV will extend the\nkinematic coverage of deep inelastic scattering physics at the EIC (with\npolarized beams) by more than an order of magnitude in $Q^2$ and $x$, opening a\nnew QCD frontier to address many fundamental scientific questions in nuclear\nand particle physics. This coverage is comparable to that of the proposed Large\nHadron-Electron Collider (LHeC) at CERN, but with complementary lepton and\nhadron kinematics and beam polarization. Additionally, the developmentof a MuIC\nat BNL will focus the worldwide R\\&D efforts on muon collider technology and\nserve as a demonstrator toward a future muon-antimuon collider at {$\\mathcal\nO$}(10)~TeV energies, which is an attractive option to reach the next high\nenergy frontier in particle physics at an affordable cost and a smaller\nfootprint than a future circular hadron collider. We discuss here the possible\ndesign parameters of the MuIC, kinematic coverage, science cases, and detector\ndesign considerations including estimates of resolutions on DIS kinematic\nvariables. A possible road map toward the future MuIC and muon-antimuon\ncolliders is also presented.",
+          "arxiv_id": "2107.02073v2"
+        },
+        {
+          "title": "The Muon Collider",
+          "year": "2025-04",
+          "abstract": "Muons offer a unique opportunity to build a compact high-energy electroweak\ncollider at the 10 TeV scale. A Muon Collider enables direct access to the\nunderlying simplicity of the Standard Model and unparalleled reach beyond it.\nIt will be a paradigm-shifting tool for particle physics representing the first\ncollider to combine the high-energy reach of a proton collider and the high\nprecision of an electron-positron collider, yielding a physics potential\nsignificantly greater than the sum of its individual parts. A high-energy muon\ncollider is the natural next step in the exploration of fundamental physics\nafter the HL-LHC and a natural complement to a future low-energy Higgs factory.\nSuch a facility would significantly broaden the scope of particle colliders,\nengaging the many frontiers of the high energy community.\n  The last European Strategy for Particle Physics Update and later the Particle\nPhysics Project Prioritisation Panel in the US requested a study of the muon\ncollider, which is being carried on by the International Muon Collider\nCollaboration. In this comprehensive document we present the physics case, the\nstate of the work on accelerator design and technology, and propose an R\\&D\nproject that can make the muon collider a reality.",
+          "arxiv_id": "2504.21417v1"
+        },
+        {
+          "title": "The physics case for a neutrino lepton collider in light of the CDF W mass measurement",
+          "year": "2022-04",
+          "abstract": "We propose a neutrino lepton collider where the neutrino beam is generated\nfrom TeV scale muon decays. Such a device would allow for a precise measurement\nof the W mass based on single W production: nu l to W. Although it is\nchallenging to achieve high instantaneous luminosity with such a collider, we\nfind that a total luminosity of 0.1/fb can already yield competitive physics\nresults. In addition to a W mass measurement, a rich variety of physics goals\ncould be achieved with such a collider, including W boson precision\nmeasurements, heavy leptophilic gauge boson searches, and anomalous Znunu\ncoupling searches. A neutrino lepton collider is both a novel idea in itself,\nand may also be a useful intermediate step, with less muon cooling required,\ntowards the muon-muon collider already being pursued by the energy frontier\ncommunity. A neutrino neutrino or neutrino proton collider may also be\ninteresting future options for the high energy frontier.",
+          "arxiv_id": "2204.11871v3"
+        }
+      ],
+      "4": [
+        {
+          "title": "Efficient 6-dimensional phase space reconstruction from experimental measurements using generative machine learning",
+          "year": "2024-04",
+          "abstract": "Next-generation accelerator concepts which hinge on the precise shaping of\nbeam distributions, demand equally precise diagnostic methods capable of\nreconstructing beam distributions within 6-dimensional position-momentum\nspaces. However, the characterization of intricate features within\n6-dimensional beam distributions using conventional diagnostic techniques\nnecessitates hundreds of measurements, using many hours of valuable beam time.\nNovel phase space reconstruction techniques are needed to substantially reduce\nthe number of measurements required to reconstruct detailed, high-dimensional\nbeam features in order to resolve complex beam phenomena, and as feedback in\nprecision beam shaping applications. In this study, we present a novel approach\nto reconstructing detailed 6-dimensional phase space distributions from\nexperimental measurements using generative machine learning and differentiable\nbeam dynamics simulations. We demonstrate that for a collection of synthetic\nbeam distribution test cases that this approach can be used to resolve\n6-dimensional phase space distributions using basic beam manipulations and as\nfew as 20 2-dimensional measurements of the beam profile, without the need for\nprior data collection or model training. We also demonstrate an application of\nthe reconstruction method in an experimental setting at the Argonne Wakefield\nAccelerator, where it is able to reconstruct the beam distribution and\naccurately predict previously unseen measurements 75x faster than previous\nmethods.",
+          "arxiv_id": "2404.10853v2"
+        },
+        {
+          "title": "Improving Surrogate Model Accuracy for the LCLS-II Injector Frontend Using Convolutional Neural Networks and Transfer Learning",
+          "year": "2021-03",
+          "abstract": "Machine learning models of accelerator systems (`surrogate models') are able\nto provide fast, accurate predictions of accelerator physics phenomena.\nHowever, approaches to date typically do not include measured input\ndiagnostics, such as the initial beam distributions, which are critical for\naccurately representing the beam evolution through the system. In addition,\nthese inputs often vary over time, and models that can account for these\nchanging conditions are needed. Simulations are in some cases needed to provide\nsufficient training data. These typically represent the designed machine before\nconstruction; however, the behavior of the installed components may be quite\ndifferent due to changes over time or static differences that were not modeled.\nTherefore, surrogate models that can leverage both simulation and measured data\nsuccessfully are needed. We introduce an approach based on convolutional neural\nnetworks that uses the drive laser distribution and scalar settings as inputs\nfor the Linac Coherent Light Source II injector frontend. The model is able to\npredict scalar beam parameters and the transverse beam distribution downstream,\ntaking into account the impact of time-varying non-uniformities in the initial\ntransverse laser distribution. We also introduce and evaluate a transfer\nlearning procedure for adapting the surrogate model from the simulation domain\nto the measurement domain, to account for differences between the two. Applying\nthis approach to our test case results in a model that can predict test sample\noutputs within a mean absolute percent error of 7.6%. This is a substantial\nimprovement over the model trained only on simulations, which has an error of\n112.7% when applied to measured data. While we focus on the LCLS-II Injector\nfrontend, these approaches for improving ML-based online modeling of injector\nsystems could be easily adapted to other accelerator facilities.",
+          "arxiv_id": "2103.07540v2"
+        },
+        {
+          "title": "Adaptive deep learning for time-varying systems with hidden parameters: Predicting changing input beam distributions of compact particle accelerators",
+          "year": "2021-02",
+          "abstract": "Machine learning (ML) tools such as encoder-decoder deep convolutional neural\nnetworks (CNN) are able to extract relationships between inputs and outputs of\nlarge complex systems directly from raw data. For time-varying systems the\npredictive capabilities of ML tools degrade as the systems are no longer\naccurately represented by the data sets with which the ML models were trained.\nRe-training is possible, but only if the changes are slow and if new\ninput-output training data measurements can be made online non-invasively. In\nthis work we present an approach to deep learning for time-varying systems in\nwhich adaptive feedback based only on available system output measurements is\napplied to encoded low-dimensional dense layers of encoder-decoder type CNNs.\nWe demonstrate our method in developing an inverse model of a complex charged\nparticle accelerator system, mapping output beam measurements to input beam\ndistributions while both the accelerator components and the unknown input beam\ndistribution quickly vary with time. We demonstrate our results using\nexperimental measurements of the input and output beam distributions of the\nHiRES ultra-fast electron diffraction (UED) microscopy beam line at Lawrence\nBerkeley National Laboratory. We show how our method can be used to aid both\nphysics and ML-based surrogate online models to provide non-invasive beam\ndiagnostics and we also demonstrate how our method can be used to automatically\ntrack the time varying quantum efficiency map of a particle accelerator's\nphotocathode.",
+          "arxiv_id": "2102.10510v2"
+        }
+      ],
+      "5": [
+        {
+          "title": "Numerical simulations of electron-cloud build up in circular accelerators in the presence of multimode-distribution beams",
+          "year": "2020-01",
+          "abstract": "Electron cloud effects have become one of the main performance limitations\nfor circular particle accelerators operating with positively-charged beams.\nAmong other machines worldwide, the CERN Super Proton Synchrotron (SPS), as\nwell as the Large Hadron Collider (LHC) are affected by these phenomena.\nIntense efforts have been devoted in recent years to improve the understanding\nof electron cloud (EC) generation with the aim of finding efficient mitigation\nmeasures. In a different domain of accelerator physics, non-linear resonances\nin the transverse phase space have been proposed as novel means of manipulating\ncharged particle beams. While the original goal was to perform multi-turn\nextraction from the CERN Proton Synchrotron (PS), several other applications\nhave been proposed. In this paper, the study of EC generation in the presence\nof charged particle beams with multimode horizontal distribution is presented.\nSuch a peculiar distribution can be generated by different approaches, one of\nwhich consists in splitting the initial Gaussian beam distribution by crossing\na non-linear resonance. In this paper, the outcome of detailed numerical\nsimulations is presented and discussed.",
+          "arxiv_id": "2001.07187v1"
+        },
+        {
+          "title": "Manipulation of transverse emittances in circular accelerators by crossing non-linear 2D resonances",
+          "year": "2022-02",
+          "abstract": "Controlling non-linear effects in the transverse dynamics of charged particle\nbeams in circular accelerators opens new possibilities for controlling some of\nthe beam properties. Beam splitting by crossing a stable 1D non-linear\nresonance is part of the routine operation of the CERN Proton Synchrotron. The\nbeam undergoes trapping and transport inside stable islands created in the\nhorizontal plane to allow multi-turn extraction towards the Super Proton\nSynchrotron, where the beam is used for fixed-target experiments. This process\nacts only on the horizontal beam emittance, inducing a reduction of its initial\nvalue. In this paper, we present a generalisation of this approach, in which\nboth transverse planes are affected by the proposed technique. We will discuss\nin detail how to manipulate the transverse emittances by means of a controlled\ncrossing of a 2D non-linear resonance. The novel technique will be presented by\ndiscussing the theoretical analysis of a Hamiltonian model, as well as\nsimulating the performance of the proposed manipulation using a more realistic\nnon-linear symplectic map.",
+          "arxiv_id": "2202.04559v1"
+        },
+        {
+          "title": "Interplay of space charge, intrabeam scattering and synchrotron radiation in the Compact Linear Collider damping rings",
+          "year": "2023-08",
+          "abstract": "Future ultra-low emittance rings for electron/positron colliders require\nextremely high beam brightness and can thus be limited by collective effects.\nIn this paper, the interplay of effects such as synchrotron radiation,\nintra-beam scattering (IBS) and space charge in the vicinity of excited\nbetatron resonances is assessed. In this respect, two algorithms were developed\nto simulate IBS and synchrotron radiation effects and integrated in the PyORBIT\ntracking code, to be combined with its widely used space charge module. The\nimpact of these effects on the achievable beam parameters of the Compact Linear\nCollider (CLIC) Damping Rings was studied, showing that synchrotron radiation\ndamping mitigates the adverse effects of IBS and space charge induced resonance\ncrossing. The studies include also a full dynamic simulation of the CLIC\ndamping ring cycle starting from the injection beam parameters. It is\ndemonstrated that a careful working point choice is necessary, in order to\naccommodate the transition from a non-linear lattice induced detuning to a\nspace-charge dominated one and thereby avoid excessive losses and emittance\ngrowth generated in the vicinity of strong resonances.",
+          "arxiv_id": "2308.02196v4"
+        }
+      ],
+      "6": [
+        {
+          "title": "Conceptual Design of an HTS Dipole Insert Based on Bi2212 Rutherford Cable",
+          "year": "2020-08",
+          "abstract": "The U.S. Magnet Development Program (US-MDP) is aimed at developing high\nfield accelerator magnets with magnetic fields beyond the limits of Nb$_3$Sn\ntechnology. Recent progress with composite wires and Rutherford cables based on\nthe first generation high temperature superconductor Bi$_2$Sr$_2$CaCu$_2$O$_8$\n(Bi2212) allows considering them for this purpose. However, Bi2212 wires and\ncables are sensitive to transverse stresses and strains, which are large in\nhigh-field accelerator magnets. This requires magnet designs with stress\nmanagement concepts to manage azimuthal and radial strains in the coil windings\nand prevent degradation of the current carrying capability of Bi2212 conductor\nor even its permanent damage. This paper describes a novel stress management\napproach, which was developed at Fermilab for high-field large-aperture\nNb$_3$Sn accelerator magnets, and is now being applied to high-field dipole\ninserts based on Bi2212 Rutherford cable. The insert conceptual design and main\nparameters, including the superconducting wire and cable, as well as the coil\nstress management structure, key technological steps and approaches, test\nconfigurations and their target parameters are presented and discussed.",
+          "arxiv_id": "2008.07403v1"
+        },
+        {
+          "title": "Towards 20 T Hybrid Accelerator Dipole Magnets",
+          "year": "2022-08",
+          "abstract": "The most effective way to achieve very high collision energies in a circular\nparticle accelerator is to maximize the field strength of the main bending\ndipoles. In dipole magnets using Nb-Ti superconductor the practical field limit\nis considered to be 8-9 T. When Nb3Sn superconductor material is utilized, a\nfield level of 15-16 T can be achieved. To further push the magnetic field\nbeyond the Nb3Sn limits, High Temperature Superconductors (HTS) need to be\nconsidered in the magnet design. The most promising HTS materials for particle\naccelerator magnets are Bi2212 and REBCO. However, their outstanding\nperformance comes with a significantly higher cost. Therefore, an economically\nviable option towards 20 T dipole magnets could consist in an hybrid solution,\nwhere both HTS and Nb3Sn materials are used. We discuss in this paper\npreliminary conceptual designs of various 20 T hybrid magnet concepts. After\nthe definition of the overall design criteria, the coil dimensions and\nparameters are investigated with finite element models based on simple sector\ncoils. Preliminary 2D cross-section computation results are then presented and\nthree main layouts compared: cos-theta, block, and common-coil. Both\ntraditional designs and more advanced stress-management options are considered.",
+          "arxiv_id": "2208.14323v1"
+        },
+        {
+          "title": "Conceptual design of 20 T hybrid accelerator dipole magnets",
+          "year": "2023-02",
+          "abstract": "Hybrid magnets are currently under consideration as an economically viable\noption towards 20 T dipole magnets for next generation of particle\naccelerators. In these magnets, High Temperature Superconducting (HTS)\nmaterials are used in the high field part of the coil with so-called insert\ncoils, and Low Temperature Superconductors (LTS) like Nb3Sn and Nb-Ti\nsuperconductors are used in the lower field region with so-called outsert\ncoils. The attractiveness of the hybrid option lays on the fact that, on the\none hand, the 20 T field level is beyond the Nb3Sn practical limits of 15-16 T\nfor accelerator magnets and can be achieved only via HTS materials; on the\nother hand, the high cost of HTS superconductors compared to LTS\nsuperconductors makes it advantageous exploring a hybrid approach, where the\nHTS portion of the coil is minimized. We present in this paper an overview of\ndifferent design options aimed at generating 20 T field in a 50 mm clear\naperture. The coil layouts investigated include the Cos-theta design (CT), with\nits variations to reduce the conductor peak stress, namely the Canted Cos-theta\ndesign (CCT) and the Stress Management Cos-theta design (SMCT), and, in\naddition, the Block-type design (BL) including a form of stress management and\nthe Common-Coil design (CC). Results from a magnetic and mechanical analysis\nare discussed, with particular focus on the comparison between the different\noptions regarding quantity of superconducting material, field quality,\nconductor peak stress, and quench protection.",
+          "arxiv_id": "2302.04940v1"
+        }
+      ],
+      "7": [
+        {
+          "title": "High current $\\mathrm{H}_2^+$ beams from a filament-driven multicusp ion source",
+          "year": "2020-08",
+          "abstract": "Recently, the use of $\\mathrm{H}_2^+$ ions instead of protons to overcome\nspace charge challenges in compact cyclotrons has received much attention. This\ntechnique has the potential to increase the available beam current from compact\ncyclotrons by an order of magnitude, paving the way for applications in energy\nresearch, medical isotope production, and particle physics, e.g. a decisive\nsearch for sterile neutrinos through the IsoDAR experiment. For IsoDAR we go a\nstep beyond just using $\\mathrm{H}_2^+$ and add pre-bunching through a\nRadio-Frequency Quadrupole (RFQ) embedded in the cyclotron yoke. This puts beam\npurity and beam quality constraints on the ion source that no published ion\nsource has simultaneously demonstrated so far. Here, we report results from a\nnew multicusp ion source (MIST-1) that produces the world's highest\nsteady-state current of $\\mathrm{H}_2^+$ from this type of ion source (1 mA),\nwith exceptionally low emittance (0.05 $\\pi$-mm-mrad, RMS, normalized) and high\npurity (80% $\\mathrm{H}_2^+$). This result shows the feasibility of using a\nmulticusp ion source for IsoDAR and the RFQ direct injection prototype, and\npaves the way to record breaking continuous wave (cw) beam currents of 5 mA\n$\\mathrm{H}_2^+$ (equivalent to 10 mA protons) from compact cyclotrons, ideal\nfor underground installation. This represents a significant advance, with\nimpact on neutrino physics specifically and high power cyclotron design in\ngeneral.",
+          "arxiv_id": "2008.12292v3"
+        },
+        {
+          "title": "Understanding radioactive ion beam production at ISAC through yield measurements and simulations",
+          "year": "2023-05",
+          "abstract": "The high-intensity proton beam of the TRIUMF 500 MeV cyclotron offers unique\nopportunities to produce rare isotopes by irradiating a variety of targets. In\nparticular, the ISAC (Isotope Separation and ACceleration) facility provides\nthe infrastructure to deliver customized rare ion beams for fundamental\nresearch in nuclear physics, astrophysics, material science, and nuclear\nmedicine. A continuous effort is made to develop new radioactive ion beams\n(RIB) and improve their intensity or purity, properties that depend strongly on\nthe type of target, operating conditions, the ion source, and beam transport\nefficiency. Yield data and theoretical production rates based on FLUKA and\nGeant4 simulations are collected in the TRIUMF Isotope Database, providing a\nvaluable resource for RIB development and experiment planning. This paper\nintroduces the newly upgraded TRIUMF Isotope Database and presents examples on\nhow it's resources can be used to plan experiments and understand the origin of\ncertain RIB. In particular we discuss the collection of 155Tb which is an\nimportant component of medical isotope research at TRIUMF.",
+          "arxiv_id": "2305.10539v1"
+        },
+        {
+          "title": "Dual-energy extraction for proton therapy and imaging: validation on a clinical synchrotron-based facility",
+          "year": "2025-06",
+          "abstract": "The purpose of this study was to investigate the feasibility of extracting\nproton beams with two distinct energies within a single synchrotron cycle. The\nenergy difference between the beams should be sufficient to use one beam as a\nrange probe to guide the second therapeutic beam in a synchrotron-based proton\ntherapy facility. A clinical synchrotron-based proton therapy facility with a\nmaximum clinical energy of 250 megaeV (MeV) and an experimental energy\ncapability of 330 MeV was used for the study. The synchrotron's internal\ndiagnostic equipment, including beam orbit monitors, dipole magnetic field\nsensors, acceleration frequency monitors, and energy measurement devices, was\nused to characterize the properties of the beams within the synchrotron and\nduring extraction. External dosimetric equipment included a PTW water tank\nfitted with two ionization chambers and an ionization chamber array. These were\nused to validate dual-energy extraction at the irradiation isocenter\nindependently. Dual-energy extraction was demonstrated across three defined\nenergy ranges: low (75-110 MeV), intermediate (120-155 MeV), and high (195-230\nMeV). Both re-acceleration and de-acceleration modes were tested and validated.\nThis preliminary study achieved an energy difference of 35 MeV between\nextracted beams across the three evaluated energy ranges. This corresponds to\nclinical targets used under standard operating conditions and does not require\nhardware modifications. Future studies should explore adjusting the control\nsoftware to enable target switching during a single cycle or the use of\nsuboptimal targets for higher-energy beams. This would allow for active,\nreal-time range probing. Combining modified dual-energy extraction parameters\nwith low-intensity extraction for high-energy beams shows great promise in\nenabling simultaneous proton imaging and therapy within a single synchrotron\ncycle.",
+          "arxiv_id": "2506.19736v1"
+        }
+      ],
+      "8": [
+        {
+          "title": "Efficiency of gratings for silica fiber-coupled internal Smith-Purcell radiation and Cherenkov diffraction radiation -- a quantitative numerical study",
+          "year": "2023-10",
+          "abstract": "We propose a setup for measuring visible and near-visible internal\nSmith-Purcell radiation and Cherenkov Diffraction Radiation, based on silica\nand silicon, and perform quantitative numerical analysis of its radiation\nefficiency. We calculate the total radiated energy per electron and the\nspectral distribution of different radiation orders, taking into account\nmaterial dispersion and absorption. For an optimized silica grating of 200\nmicrometer length, the total radiated energy reaches 2~eV per electron for 2\nMeV electrons. Above the Cherenkov threshold, in most cases the energy of\nCherenkov diffraction radiation is several times higher than the energy of\ninternal Smith-Purcell radiation, but for some geometries and frequency ranges\nfirst or second order radiation may dominate over Cherenkov radiation (zeroth\norder). Radiation up to the 4th order is detected in the simulation. The\nspectrum of Cherenkov radiation is highly resonant, with local minima for\nfrequencies where maxima of the other radiation orders occur. The spectrum of\nCherenkov radiation takes a frequency comb-like shape for a uniform layer of Si\non SiO2 substrate, due to a Fabry-Perot effect occurring for the evanescent\nfield of the moving electron. The proposed setup could become a prototype of a\nnon-invasive particle beam monitor for both conventional and laser particle\naccelerators.",
+          "arxiv_id": "2310.20520v1"
+        },
+        {
+          "title": "Self-amplification of radiation from an electron bunch inside a waveguide filled with periodic medium",
+          "year": "2020-01",
+          "abstract": "We investigate the radiation from a bunch of relativistic electrons moving\nalong the cylindrical waveguide axis, assuming that the waveguide is partially\nloaded by a medium with periodic dielectric permittivity and magnetic\npermeability. The spectral distribution of the radiation energy flux through\nthe cross section of the waveguide is studied at large distances from the\nmedium. The analysis is based on the corresponding exact solution of Maxwell\nequations for the case of a single electron moving along the waveguide axis.\nThe results of numerical calculations are presented in the special case of\nlayered medium consisting of a finite number of dielectric plates separated by\nvacuum gaps. We show that under certain conditions on the problem parameters\nthe quasi-coherent Cherenkov radiation generated by the electron bunch inside\nthe plates is self-amplified at certain waveguide modes. A visual explanation\nof this phenomenon is provided that reproduces the main features to rather good\naccuracy.",
+          "arxiv_id": "2001.07963v2"
+        },
+        {
+          "title": "Reversed Cherenkov-transition radiation in a waveguide partly filled with an anisotropic dispersive medium",
+          "year": "2020-05",
+          "abstract": "We analyze the electromagnetic field of a bunch that moves uniformly in a\ncircular metal waveguide and crosses a boundary between a vacuum area and an\narea filled with an anisotropic dispersive nonmagnetic medium. The medium is\ncharacterized by the diagonal dielectric permittivity tensor with components\npossessing frequency dispersion of plasma types. The investigation of the\nwaveguide mode components is performed with the methods of the complex variable\nfunction theory. It is shown that in compliance with the parameters of the\nmedium, Cherenkov radiation (CR) generated in the filled area of the waveguide\ncan have reversed direction in relation to the bunch motion. CR can penetrate\ninto the vacuum area of the waveguide, that is, the intensive reversed\nCherenkov-transition radiation (RCTR) can be generated. The main properties of\nthis radiation are described, and essential differences from the RCTR in the\ncase of isotropic left-handed medium are revealed.",
+          "arxiv_id": "2005.00885v1"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-25T19:59:50Z",
+    "dataVersion": "0.0.2",
+    "period": {
+      "start": "2020-01",
+      "end": "2025-09"
+    }
+  }
+}
