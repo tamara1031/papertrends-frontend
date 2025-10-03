@@ -31,27 +31,34 @@ export function TemporalAnalysisChart({
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (!svgRef.current || !data.topics.series || !containerRef.current) return;
+    if (!svgRef.current || !data?.topics?.series || !containerRef.current) {
+      console.log('TemporalAnalysisChart: Missing required refs or data');
+      return;
+    }
 
     const container = containerRef.current;
     const containerRect = container.getBoundingClientRect();
-    const actualWidth = Math.min(containerRect.width, width);
-    const actualHeight = Math.min(containerRect.height, height);
+    
+    // Use full container space but ensure minimum dimensions
+    const actualWidth = Math.max(containerRect.width, 300);
+    const actualHeight = Math.max(containerRect.height, 250);
 
     const svg = d3.select(svgRef.current);
     svg.selectAll('*').remove();
 
-    // Update SVG dimensions
+    // Update SVG dimensions with actual pixel values
     svg.attr('width', actualWidth).attr('height', actualHeight);
 
-    // Responsive margins and layout
-    const isMobile = actualWidth < 640;
-    const margin = { 
-      top: 20, 
-      right: isMobile ? 20 : 100, 
-      bottom: isMobile ? 80 : 40, 
-      left: 40 
-    };
+    // Responsive margins based on screen size
+    let margin;
+    if (actualWidth < 640) { // sm
+      margin = { top: 15, right: 10, bottom: 40, left: 30 };
+    } else if (actualWidth < 1024) { // md
+      margin = { top: 20, right: 15, bottom: 35, left: 45 };
+    } else { // lg and above
+      margin = { top: 20, right: 20, bottom: 30, left: 50 };
+    }
+    
     const innerWidth = actualWidth - margin.left - margin.right;
     const innerHeight = actualHeight - margin.top - margin.bottom;
 
@@ -60,6 +67,8 @@ export function TemporalAnalysisChart({
 
     const years = Object.keys(data.topics.series).sort();
     const topics = Object.keys(data.topics.data);
+    
+    console.log('TemporalAnalysisChart data:', { years, topics, series: data.topics.series });
 
     const xScale = d3.scaleBand()
       .domain(years)
@@ -77,18 +86,21 @@ export function TemporalAnalysisChart({
       .range(d3.schemeCategory10);
 
     // Create stacked area chart
-    const stack = d3.stack()
-      .keys(topics)
-      .value((d, key) => {
-        const year = d.year;
-        const topicIndex = topics.indexOf(key);
-        return data.topics.series[year]?.[topicIndex] || 0;
+    const formattedData = years.map(year => {
+      const obj: { [key: string]: number } = {};
+      topics.forEach((topic, index) => {
+        obj[topic] = data.topics.series[year]?.[index] || 0;
       });
+      return obj;
+    });
 
-    const stackedData = stack(years.map(year => ({ year })));
+    const stack = d3.stack()
+      .keys(topics);
 
-    const area = d3.area<d3.SeriesPoint<{ year: string }, string>>()
-      .x(d => xScale(d.data.year) || 0)
+    const stackedData = stack(formattedData);
+
+    const area = d3.area<d3.SeriesPoint<{ [key: string]: number }>>()
+      .x((_, i) => xScale(years[i]) || 0)
       .y0(d => yScale(d[0]))
       .y1(d => yScale(d[1]))
       .curve(d3.curveMonotoneX);
@@ -101,69 +113,48 @@ export function TemporalAnalysisChart({
       .attr('fill', d => colorScale(d.key) as string)
       .attr('opacity', 0.7);
 
-    // Add axes
+    // Add axes with responsive font sizes
+    let fontSize;
+    if (actualWidth < 640) { // sm
+      fontSize = '8px';
+    } else if (actualWidth < 1024) { // md
+      fontSize = '9px';
+    } else { // lg and above
+      fontSize = '10px';
+    }
+
     g.append('g')
       .attr('transform', `translate(0,${innerHeight})`)
       .call(d3.axisBottom(xScale))
       .selectAll('text')
-      .attr('font-size', isMobile ? '8px' : '10px');
+      .attr('font-size', fontSize);
 
     g.append('g')
       .call(d3.axisLeft(yScale))
       .selectAll('text')
-      .attr('font-size', isMobile ? '8px' : '10px');
+      .attr('font-size', fontSize);
 
-    // Add legend - responsive positioning
-    const legend = svg.append('g')
-      .attr('class', 'legend');
-
-    if (isMobile) {
-      // Mobile: legend below the chart
-      legend.attr('transform', `translate(${margin.left}, ${actualHeight - 60})`);
-      
-      const legendItems = legend.selectAll('.legend-item')
-        .data(topics)
-        .enter().append('g')
-        .attr('class', 'legend-item')
-        .attr('transform', (d, i) => `translate(${(i % 3) * (innerWidth / 3)}, ${Math.floor(i / 3) * 20})`);
-
-      legendItems.append('rect')
-        .attr('width', 12)
-        .attr('height', 12)
-        .attr('fill', d => colorScale(d) as string)
-        .attr('opacity', 0.7);
-
-      legendItems.append('text')
-        .attr('x', 16)
-        .attr('y', 9)
-        .attr('font-size', '10px')
-        .attr('fill', 'currentColor')
-        .text(d => data.topics.data[d]?.name || d);
-    } else {
-      // Desktop: legend on the right
-      legend.attr('transform', `translate(${actualWidth - margin.right + 10}, ${margin.top})`);
-      
-      const legendItems = legend.selectAll('.legend-item')
-        .data(topics)
-        .enter().append('g')
-        .attr('class', 'legend-item')
-        .attr('transform', (d, i) => `translate(0, ${i * 20})`);
-
-      legendItems.append('rect')
-        .attr('width', 12)
-        .attr('height', 12)
-        .attr('fill', d => colorScale(d) as string)
-        .attr('opacity', 0.7);
-
-      legendItems.append('text')
-        .attr('x', 16)
-        .attr('y', 9)
-        .attr('font-size', '11px')
-        .attr('fill', 'currentColor')
-        .text(d => data.topics.data[d]?.name || d);
-    }
 
   }, [data, width, height]);
+
+  // Handle resize events
+  useEffect(() => {
+    const handleResize = () => {
+      if (svgRef.current && containerRef.current && data.topics.series) {
+        const container = containerRef.current;
+        const containerRect = container.getBoundingClientRect();
+        
+        const actualWidth = Math.max(containerRect.width, 300);
+        const actualHeight = Math.max(containerRect.height, 250);
+        
+        const svg = d3.select(svgRef.current);
+        svg.attr('width', actualWidth).attr('height', actualHeight);
+      }
+    };
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, [data.topics.series]);
 
   return (
     <div ref={containerRef} className="w-full h-full">

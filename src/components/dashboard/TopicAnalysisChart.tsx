@@ -27,70 +27,114 @@ export function TopicAnalysisChart({
 
     const container = containerRef.current;
     const containerRect = container.getBoundingClientRect();
-    const actualWidth = Math.min(containerRect.width, width);
-    const actualHeight = Math.min(containerRect.height, height);
+    
+    // Use full container space but ensure minimum dimensions
+    const actualWidth = Math.max(containerRect.width, 250);
+    const actualHeight = Math.max(containerRect.height, 200);
 
     const svg = d3.select(svgRef.current);
     svg.selectAll('*').remove();
 
-    // Update SVG dimensions
-    svg.attr('width', actualWidth).attr('height', actualHeight);
+    // Update SVG dimensions to fill container
+    svg.attr('width', '100%').attr('height', '100%');
 
-    const margin = { top: 20, right: 20, bottom: 40, left: 40 };
+    // Responsive margins based on screen size
+    let margin;
+    if (actualWidth < 640) { // sm
+      margin = { top: 15, right: 15, bottom: 15, left: 15 };
+    } else if (actualWidth < 1024) { // md
+      margin = { top: 18, right: 18, bottom: 18, left: 18 };
+    } else { // lg and above
+      margin = { top: 20, right: 20, bottom: 20, left: 20 };
+    }
+    
     const innerWidth = actualWidth - margin.left - margin.right;
     const innerHeight = actualHeight - margin.top - margin.bottom;
 
     const g = svg.append('g')
       .attr('transform', `translate(${margin.left},${margin.top})`);
 
-    // Create bubble chart
-    const maxCount = d3.max(data, d => d.count) || 1;
-    const radiusScale = d3.scaleSqrt()
-      .domain([0, maxCount])
-      .range([10, 60]);
+    // Create hierarchical data structure for pack layout
+    interface TopicNode {
+      name: string;
+      value?: number;
+      keywords?: [string, number][];
+      id?: string;
+      children?: TopicNode[];
+    }
 
+    const rootData: TopicNode = {
+      name: 'Research Topics',
+      children: data.map(d => ({
+        name: d.name,
+        value: d.count,
+        keywords: d.keywords,
+        id: d.id
+      }))
+    };
+
+    const root = d3.hierarchy(rootData)
+      .sum(d => d.value || 0);
+
+    // Create pack layout
+    const pack = d3.pack<TopicNode>()
+      .size([innerWidth, innerHeight])
+      .padding(3);
+
+    const packed = pack(root);
+
+    // Color scale
     const colorScale = d3.scaleOrdinal()
       .domain(data.map(d => d.id))
       .range(d3.schemeCategory10);
 
-    const simulation = d3.forceSimulation(data)
-      .force('charge', d3.forceManyBody().strength(-100))
-      .force('center', d3.forceCenter(innerWidth / 2, innerHeight / 2))
-      .force('collision', d3.forceCollide().radius(d => radiusScale(d.count) + 5));
-
-    const bubbles = g.selectAll('.bubble')
-      .data(data)
+    // Create circles for each node
+    const nodes = g.selectAll('.node')
+      .data(packed.descendants())
       .enter().append('g')
-      .attr('class', 'bubble');
+      .attr('class', 'node')
+      .attr('transform', d => `translate(${d.x},${d.y})`);
 
-    bubbles.append('circle')
-      .attr('r', d => radiusScale(d.count))
-      .attr('fill', d => colorScale(d.id) as string)
-      .attr('opacity', 0.7)
+    // Add circles
+    nodes.append('circle')
+      .attr('r', d => d.r)
+      .attr('fill', d => {
+        if (d.depth === 0) return '#f0f0f0';
+        return colorScale(d.data.id || '') as string;
+      })
+      .attr('opacity', d => d.depth === 0 ? 0.3 : 0.7)
       .attr('stroke', '#fff')
-      .attr('stroke-width', 2);
+      .attr('stroke-width', d => d.depth === 0 ? 1 : 2);
 
-    bubbles.append('text')
+    // Add text labels with responsive sizing
+    const minLabelSize = actualWidth < 640 ? 8 : actualWidth < 1024 ? 10 : 12;
+    const labelThreshold = actualWidth < 640 ? 15 : actualWidth < 1024 ? 18 : 20;
+    
+    nodes.append('text')
       .attr('text-anchor', 'middle')
       .attr('dy', '0.35em')
-      .attr('font-size', d => Math.min(radiusScale(d.count) / 3, 12))
-      .attr('font-weight', 'bold')
-      .attr('fill', '#fff')
-      .text(d => d.name);
+      .attr('font-size', d => Math.min(Math.max(d.r / 3, 8), minLabelSize))
+      .attr('font-weight', d => d.depth === 0 ? 'bold' : 'normal')
+      .attr('fill', d => d.depth === 0 ? '#666' : '#fff')
+      .text(d => d.data.name)
+      .style('display', d => d.r < labelThreshold ? 'none' : 'block');
 
-    simulation.on('tick', () => {
-      bubbles.attr('transform', d => `translate(${d.x},${d.y})`);
-    });
-
-    // Add title
-    svg.append('text')
-      .attr('x', actualWidth / 2)
-      .attr('y', 15)
-      .attr('text-anchor', 'middle')
-      .attr('font-size', '14px')
-      .attr('font-weight', 'bold')
-      .attr('fill', 'currentColor')
-      .text('Research Topics');
+    // Add hover effects
+    nodes
+      .on('mouseover', function(_, d) {
+        if (d.depth > 0) {
+          d3.select(this).select('circle')
+            .attr('opacity', 0.9)
+            .attr('stroke-width', 3);
+        }
+      })
+      .on('mouseout', function(_, d) {
+        if (d.depth > 0) {
+          d3.select(this).select('circle')
+            .attr('opacity', 0.7)
+            .attr('stroke-width', 2);
+        }
+      });
 
   }, [data, width, height]);
 
@@ -98,11 +142,9 @@ export function TopicAnalysisChart({
     <div ref={containerRef} className="w-full h-full">
       <svg
         ref={svgRef}
-        className="w-full h-full rounded-xl shadow-inner shadow-gray-200/50 dark:shadow-gray-800/50"
+        className="w-full h-full rounded-lg"
         style={{
-          background: 'linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%)',
-          backdropFilter: 'blur(10px)',
-          border: '1px solid rgba(255,255,255,0.2)'
+          background: 'transparent'
         }}
       />
     </div>
