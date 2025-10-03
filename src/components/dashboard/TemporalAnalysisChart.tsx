@@ -44,7 +44,14 @@ export function TemporalAnalysisChart({
     // Update SVG dimensions
     svg.attr('width', actualWidth).attr('height', actualHeight);
 
-    const margin = { top: 20, right: 20, bottom: 40, left: 40 };
+    // Responsive margins and layout
+    const isMobile = actualWidth < 640;
+    const margin = { 
+      top: 20, 
+      right: isMobile ? 20 : 100, 
+      bottom: isMobile ? 80 : 40, 
+      left: 40 
+    };
     const innerWidth = actualWidth - margin.left - margin.right;
     const innerHeight = actualHeight - margin.top - margin.bottom;
 
@@ -99,22 +106,62 @@ export function TemporalAnalysisChart({
       .attr('transform', `translate(0,${innerHeight})`)
       .call(d3.axisBottom(xScale))
       .selectAll('text')
-      .attr('font-size', '10px');
+      .attr('font-size', isMobile ? '8px' : '10px');
 
     g.append('g')
       .call(d3.axisLeft(yScale))
       .selectAll('text')
-      .attr('font-size', '10px');
+      .attr('font-size', isMobile ? '8px' : '10px');
 
-    // Add title
-    svg.append('text')
-      .attr('x', actualWidth / 2)
-      .attr('y', 15)
-      .attr('text-anchor', 'middle')
-      .attr('font-size', '14px')
-      .attr('font-weight', 'bold')
-      .attr('fill', 'currentColor')
-      .text('Temporal Trends');
+    // Add legend - responsive positioning
+    const legend = svg.append('g')
+      .attr('class', 'legend');
+
+    if (isMobile) {
+      // Mobile: legend below the chart
+      legend.attr('transform', `translate(${margin.left}, ${actualHeight - 60})`);
+      
+      const legendItems = legend.selectAll('.legend-item')
+        .data(topics)
+        .enter().append('g')
+        .attr('class', 'legend-item')
+        .attr('transform', (d, i) => `translate(${(i % 3) * (innerWidth / 3)}, ${Math.floor(i / 3) * 20})`);
+
+      legendItems.append('rect')
+        .attr('width', 12)
+        .attr('height', 12)
+        .attr('fill', d => colorScale(d) as string)
+        .attr('opacity', 0.7);
+
+      legendItems.append('text')
+        .attr('x', 16)
+        .attr('y', 9)
+        .attr('font-size', '10px')
+        .attr('fill', 'currentColor')
+        .text(d => data.topics.data[d]?.name || d);
+    } else {
+      // Desktop: legend on the right
+      legend.attr('transform', `translate(${actualWidth - margin.right + 10}, ${margin.top})`);
+      
+      const legendItems = legend.selectAll('.legend-item')
+        .data(topics)
+        .enter().append('g')
+        .attr('class', 'legend-item')
+        .attr('transform', (d, i) => `translate(0, ${i * 20})`);
+
+      legendItems.append('rect')
+        .attr('width', 12)
+        .attr('height', 12)
+        .attr('fill', d => colorScale(d) as string)
+        .attr('opacity', 0.7);
+
+      legendItems.append('text')
+        .attr('x', 16)
+        .attr('y', 9)
+        .attr('font-size', '11px')
+        .attr('fill', 'currentColor')
+        .text(d => data.topics.data[d]?.name || d);
+    }
 
   }, [data, width, height]);
 
@@ -122,11 +169,9 @@ export function TemporalAnalysisChart({
     <div ref={containerRef} className="w-full h-full">
       <svg
         ref={svgRef}
-        className="w-full h-full rounded-xl shadow-inner shadow-gray-200/50 dark:shadow-gray-800/50"
+        className="w-full h-full rounded-lg"
         style={{
-          background: 'linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%)',
-          backdropFilter: 'blur(10px)',
-          border: '1px solid rgba(255,255,255,0.2)'
+          background: 'transparent'
         }}
       />
     </div>
