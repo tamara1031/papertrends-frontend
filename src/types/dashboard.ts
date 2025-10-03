@@ -1,4 +1,7 @@
-// Common types for dashboard components
+/**
+ * Dashboard Type Definitions
+ * arXiv-inspired academic research dashboard types
+ */
 
 export interface Topic {
   id: string;
@@ -58,8 +61,8 @@ export interface DashboardStats {
   name: string;
   label: string;
   value: string | number;
-  color: string;
-  icon?: string;
+  color: 'red' | 'orange' | 'yellow' | 'green' | 'blue' | 'purple' | 'gray';
+  icon: string;
   subtitle?: string;
 }
 

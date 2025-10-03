@@ -8,25 +8,25 @@ export interface Props {
 
 const { stats } = Astro.props;
 
-// Safe color mapping to avoid runtime color issues
-const getColorClass = (color: string): string => {
+// arXiv-inspired color mapping for better academic aesthetic
+const getColorStyle = (color: string): string => {
   const colorMap: Record<string, string> = {
-    red: 'bg-red-500',
-    orange: 'bg-orange-500', 
-    yellow: 'bg-yellow-500',
-    green: 'bg-green-500',
-    blue: 'bg-blue-500',
-    purple: 'bg-purple-500',
-    gray: 'bg-gray-500'
+    red: '#cc0000',
+    orange: '#ff6600', 
+    yellow: '#ffaa00',
+    green: '#006600',
+    blue: '#0000ee',
+    purple: '#6600cc',
+    gray: '#666666'
   };
-  return colorMap[color] || 'bg-gray-500';
+  return colorMap[color] || '#666666';
 };
 ---
 
 <div class="stat-card">
   <div class="flex items-center justify-between">
     <!-- Icon Box -->
-    <div class={`stat-icon-box ${getColorClass(stats.color)}`}>
+    <div class="stat-icon-box" style={`background-color: ${getColorStyle(stats.color)};`}>
       {stats.icon}
     </div>
     

@@ -1,5 +1,10 @@
 /**
+ * arXiv-style utilities for academic dashboard
+ */
+
+/**
  * Formats authors for display with quantity limit
+ * Follows arXiv citation formatting standards
  */
 export function formatAuthors(authors: string[], maxDisplay: number = 2): string {
   if (!authors || authors.length === 0) {
@@ -15,9 +20,17 @@ export function formatAuthors(authors: string[], maxDisplay: number = 2): string
 import type { Topic, TopicData, DashboardStats } from '../types/dashboard';
 
 /**
- * Topic color patterns for consistency across charts
+ * arXiv-inspired color palette for research visualization
+ * Academic colors optimized for research dashboard charts
  */
-export const TOPIC_COLORS = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b'];
+export const TOPIC_COLORS = [
+  '#0000ee', // arXiv blue
+  '#cc0000', // arXiv red  
+  '#006600', // Academic green
+  '#ff6600', // Research orange
+  '#6600cc', // Academic purple
+  '#ffaa00'  // Highlight yellow
+];
 
 /**
  * Generate temporal data from topics for chart visualization
